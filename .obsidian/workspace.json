@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e79d0610d65e6a86",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Nocturno.png"
-              }
-            }
-          },
-          {
             "id": "d88a0c767ba6806f",
             "type": "leaf",
             "state": {
@@ -29,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
