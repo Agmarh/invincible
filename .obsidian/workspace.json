@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "08df729de89a4328",
+    "type": "split",
+    "children": [
+      {
+        "id": "5efb2b46a5157692",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87cef3552ee5784c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Oblivion/Objets Magiques/Nocturno.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6dcebd3f36851960",
+    "type": "split",
+    "children": [
+      {
+        "id": "a53d84d826d63943",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "efc7fbc9dabff410",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "26d6bb2f53d2b775",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "91ffb2bf6bd29c71",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2c1869ba7ed0e65f",
+    "type": "split",
+    "children": [
+      {
+        "id": "e70e28c56220440f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c56cf9106d335454",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Oblivion/Objets Magiques/Nocturno.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dfba10df3d5d2883",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Oblivion/Objets Magiques/Nocturno.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4e47f10d50fd6d5c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c5919d41489f5036",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Oblivion/Objets Magiques/Nocturno.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false
+    }
+  },
+  "active": "87cef3552ee5784c",
+  "lastOpenFiles": [
+    "Oblivion/Objets Magiques/Nocturno.md",
+    "Oblivion/Objets Magiques",
+    "Oblivion"
+  ]
+}
