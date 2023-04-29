@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oblivion/PNJ/Ghûraghasta.md",
+                "file": "Oblivion/Monstres/Ghûraghasta.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oblivion/PNJ/Ghûraghasta.md",
+                "file": "Oblivion/Monstres/Ghûraghasta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oblivion/PNJ/Ghûraghasta.md",
+                "file": "Oblivion/Monstres/Ghûraghasta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oblivion/PNJ/Ghûraghasta.md"
+                "file": "Oblivion/Monstres/Ghûraghasta.md"
               }
             }
           }
@@ -164,19 +164,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d88a0c767ba6806f",
+  "active": "efc7fbc9dabff410",
   "lastOpenFiles": [
     "Images/Sans titre.md",
     "Images/Ghûraghasta.png",
     "Images/Nocturno.png",
-    "Oblivion/PNJ/Ghûraghasta.md",
+    "Oblivion/Monstres/Ghûraghasta.md",
     "Oblivion 1 Le sang d'Oblivion.pdf",
     "Oblivion/Objets Magiques/Nocturno.md",
     "Oblivion/PNJ/Test.md",
     "Oblivion 2 Les enfants d'Oblivion.pdf",
     "Oblivion/PNJ/Untitled.md",
     "Oblivion/PNJ/Sans titre.canvas",
-    "Oblivion/PNJ",
+    "Oblivion/Monstres",
     "Pasted image 20230429195314.png",
     "Pasted image 20230429195329.png",
     "Pasted image 20230429194912.png",
