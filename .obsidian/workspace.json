@@ -92,7 +92,7 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -133,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,7 +145,7 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "87cef3552ee5784c",
+  "active": "efc7fbc9dabff410",
   "lastOpenFiles": [
     "Oblivion/Objets Magiques/Nocturno.md",
     "Oblivion/Objets Magiques",
