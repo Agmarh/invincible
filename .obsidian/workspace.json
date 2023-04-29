@@ -20,22 +20,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "90b6acec8f857a03",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "12db2b4c843c3521",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Oblivion 1 Le sang d'Oblivion.pdf"
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -179,6 +163,41 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "templater-obsidian:Templater": false
     }
+  },
+  "floating": {
+    "id": "b07c0d3e3088eb21",
+    "type": "floating",
+    "children": [
+      {
+        "id": "24c9508ed8dd7d1a",
+        "type": "window",
+        "children": [
+          {
+            "id": "4e6a6fe71357fd24",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8164bfe4235ba2b3",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Oblivion 1 Le sang d'Oblivion.pdf"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1771,
+        "y": 367,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
   },
   "active": "d88a0c767ba6806f",
   "lastOpenFiles": [
