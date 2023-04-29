@@ -20,6 +20,22 @@
             }
           }
         ]
+      },
+      {
+        "id": "90b6acec8f857a03",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12db2b4c843c3521",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Oblivion 1 Le sang d'Oblivion.pdf"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,7 +187,6 @@
     "Images/Nocturno.png",
     "Oblivion/Objets Magiques/Nocturno.md",
     "Oblivion/PNJ/Test.md",
-    "Oblivion/PNJ/Ghûraghasta.md",
     "Oblivion 2 Les enfants d'Oblivion.pdf",
     "Oblivion/PNJ/Untitled.md",
     "Oblivion/PNJ/Sans titre.canvas",

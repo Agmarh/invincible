@@ -1,9 +1,9 @@
 
 ```statblock
 image: [[Wikilink To Image]]
-name: string
-size: string
-type: string
+name: Ghûraghasta
+size: G
+type: Mort-vivant
 subtype: string
 alignment: string
 ac: number
