@@ -1,1 +1,10 @@
-{}
+{
+  "obsidian-5e-statblocks:parse-frontmatter": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Numpad1"
+    }
+  ]
+}
