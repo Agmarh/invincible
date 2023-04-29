@@ -4,11 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5efb2b46a5157692",
+        "id": "060b35f51c49c634",
         "type": "tabs",
         "children": [
           {
-            "id": "c2339d6121c212cd",
+            "id": "e79d0610d65e6a86",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Nocturno.png"
+              }
+            }
+          },
+          {
+            "id": "d88a0c767ba6806f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,7 +29,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,21 +171,26 @@
       "daily-notes:Ouvrir la note quotidienne": false,
       "templates:Insérer le modèle": false,
       "command-palette:Ouvrir la palette de commandes": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "c2339d6121c212cd",
+  "active": "d88a0c767ba6806f",
   "lastOpenFiles": [
+    "Oblivion 1 Le sang d'Oblivion.pdf",
     "Oblivion/PNJ/Ghûraghasta.md",
+    "Images/Nocturno.png",
     "Oblivion/Objets Magiques/Nocturno.md",
+    "Oblivion/PNJ/Test.md",
+    "Oblivion/PNJ/Ghûraghasta.md",
+    "Oblivion 2 Les enfants d'Oblivion.pdf",
+    "Oblivion/PNJ/Untitled.md",
+    "Oblivion/PNJ/Sans titre.canvas",
     "Oblivion/PNJ",
     "Pasted image 20230429195314.png",
     "Pasted image 20230429195329.png",
     "Pasted image 20230429194912.png",
     "Images",
-    "Images/Nocturno.png",
-    "Oblivion 1 Le sang d'Oblivion.pdf",
-    "Oblivion 2 Les enfants d'Oblivion.pdf",
     "Oblivion/Oblivion 2 Les enfants d'Oblivion.md",
     "Oblivion/Test.md",
     "Oblivion/Objets Magiques",
