@@ -4,11 +4,11 @@ image: [[Wikilink To Image]]
 name: Ghûraghasta
 size: G
 type: Mort-vivant
-subtype: string
-alignment: string
-ac: number
-hp: number
-hit_dice: string
+subtype: 
+alignment: Chaotique mauvais
+ac: 15
+hp: 59
+hit_dice: 7d10+21
 speed: string
 stats: [number, number, number, number, number, number]
 fage_stats: [number, number, number, number, number, number, number, number, number]
