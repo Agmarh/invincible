@@ -1,6 +1,6 @@
 
 ```statblock
-image: [[Wikilink To Image]]
+image: [[Nocturno.png]]
 name: Ghûraghasta
 size: G
 type: Mort-vivant
