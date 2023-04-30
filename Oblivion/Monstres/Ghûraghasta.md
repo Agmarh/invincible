@@ -1,8 +1,8 @@
 ```statblock
 image: [[Ghûraghasta.png]]
 name: Ghûraghasta
-size: 
-type: 
+size: G
+type: Mort-Vivant
 subtype: 
 alignment: Neutre
 ac: 10
