@@ -32,19 +32,14 @@ traits:
   - name: Traquer la peur
     desc: La ghûraghasta est capable de ressentir la peur de ses proies. Elle a l’avantage à tous les tests de Sagesse (Survie) effectués afin de les pister. Les paladins ne peuvent être traqués de la sorte.
 actions:
+  - name: Attaque multiple
+    desc: <trait-description>
+  - name: Morsure
+    desc: <trait-description>
   - name: <trait-name>
     desc: <trait-description>
-  - ...
-legendary_actions:
-  - name: <legendary_actions-name>
-    desc: <legendary_actions-description>
-  - ...
-bonus_actions:
   - name: <trait-name>
     desc: <trait-description>
-  - ...
-reactions:
-  - name: <reaction-name>
-    desc: <reaction-description>
-  - ...
+  - name: <trait-name>
+    desc: <trait-description>
 ```
