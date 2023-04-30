@@ -30,7 +30,7 @@ traits:
   - ...
 actions:
   - name: Test
-    desc: Lance une attaque à 1d6 dégâts
+    desc: Lance une attaque à (1d6 + 2) dégâts
   - ...
 legendary_actions:
   - name: <legendary_actions-name>
