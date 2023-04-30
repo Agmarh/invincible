@@ -116,26 +116,6 @@
         "hidden": false,
         "friendly": false,
         "hit_dice": "7d10+21"
-      },
-      {
-        "name": "Ghûraghasta",
-        "display": "Ghûraghasta",
-        "initiative": 19,
-        "modifier": 3,
-        "hp": 59,
-        "currentMaxHP": 59,
-        "ac": 15,
-        "currentAC": 15,
-        "id": "ID_18f9485a0929",
-        "currentHP": 59,
-        "tempHP": 0,
-        "status": [],
-        "enabled": true,
-        "xp": 1100,
-        "active": true,
-        "hidden": false,
-        "friendly": false,
-        "hit_dice": "7d10+21"
       }
     ],
     "state": true,
