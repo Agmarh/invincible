@@ -91,7 +91,7 @@
   "preferStatblockLink": false,
   "initiative": "1d20 + %mod%",
   "modifier": null,
-  "sync": true,
+  "sync": false,
   "leafletIntegration": false,
   "playerMarker": "default",
   "monsterMarker": "default",
