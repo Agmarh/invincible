@@ -37,7 +37,7 @@ actions:
   - name: Morsure
     desc: "Attaque d'arme au corps-à-corps: +7 pour toucher, allonge 1,5 m, une cible. Touché 8 (1d8+4) dégâts perforants."
   - name: Pattes
-    desc: "Attaque d'arme au corps-à-corps +7 pour toucher, allongue 3 m, une cible. Touché 9 (1d8+4) dégâts tranchants."
+    desc: "Attaque d'arme au corps-à-corps: +7 pour toucher, allonge 3 m, une cible. Touché 9 (1d8+4) dégâts tranchants."
   - name: Paralysie
     desc: "Si une attaque de morsure touche une cible, cette dernière doit effectuer un jet de sauvegarde de Constitution DD 15 ou être paralysée pour 1d6 rounds."
   - name: Saut
