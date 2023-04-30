@@ -1,16 +1,15 @@
 ```statblock
-image: [[Ghûraghasta.png]]
-name: Ghûraghasta
-size: G
-type: Mort-vivant
+image: [[monstre.png]]
+name: Nom
+size: 
+type: 
 subtype: 
-alignment: Chaotique mauvais
-ac: 15
-hp: 59
-hit_dice: 7d10+21
-speed: 9
-stats: [18, 16, 16, 12, 14, 10]
-fage_stats: [number, number, number, number, number, number, number, number, number]
+alignment: Neutre
+ac: 10
+hp: 0
+hit_dice: 1d8+0
+speed: 0
+stats: [10, 10, 10, 10, 10, 10]
 saves:
   - <ability-score>: number
 skillsaves:
