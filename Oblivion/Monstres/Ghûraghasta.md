@@ -45,4 +45,3 @@ reactions:
     desc: <reaction-description>
   - ...
 ```
-[[Oblivion 1 Le sang d'Oblivion.pdf#page=82]]
