@@ -22,15 +22,26 @@ traits:
   - name: Engendrer une ghûraghasta
     desc: La plupart du temps, une ghûraghasta dévore ceux qu’elle tue. Mais parfois, elle pond dans leur cadavre un oeuf unique. L’oeuf et le cadavre se transforment alors ensemble en ghûraghasta. Ce processus prend 1d4 jours. À son terme, ils deviennent une nouvelle et immonde ghûraghasta. Un sort de protection contre le mal et le bien lancé sur le cadavre avant la fin de sa transformation permet d’enrayer le processus.
   - name: Férocité
-    desc: Lorsqu’elle affronte un humanoïde vivant, l’odeur de son sang l’excite jusqu’à la frénésie. Elle gagne +2 en attaque et aux dégâts pendant 1d6 tours.
+    desc: Lorsqu’elle affronte un humanoïde vivant, l’odeur de son sang
+    l’excite jusqu’à la frénésie. Elle gagne +2 en attaque et aux dégâts
+    pendant 1d6 tours.
   - name: Odorat développé
-    desc: Une ghûraghasta a l’avantage sur ses tests de Perception liés à l’odorat.
+    desc: Une ghûraghasta a l’avantage sur ses tests de Perception liés à
+    l’odorat.
   - name: Tisser un fil (recharge, repos long)
-    desc: Une ghûraghasta peut tisser un fil de matière organique extrêmement résistant. Le fil sort de sa bouche et peut mesurer jusqu’à 100 m. Il est assez résistant pour porter la ghûraghasta et une autre créature de taille G. la fabrication du fil est totalement silencieuse et rapide (12 m par round). La ghûraghasta s’en sert pour tomber d’une hauteur et surprendre la proie qu’elle vise.
+    desc: Une ghûraghasta peut tisser un fil de matière organique extrêmement
+    résistant. Le fil sort de sa bouche et peut mesurer jusqu’à 100 m. Il est
+    assez résistant pour porter la ghûraghasta et une autre créature de taille
+    G. la fabrication du fil est totalement silencieuse et rapide (12 m par
+    round). La ghûraghasta s’en sert pour tomber d’une hauteur et surprendre la 
+    proie qu’elle vise.
   - name: Pattes d'araignée
-    desc: La ghûraghasta peut se déplacer sur les murs et les plafonds à une vitesse de 4,5 m.
+    desc: La ghûraghasta peut se déplacer sur les murs et les plafonds à une
+    vitesse de 4,5 m.
   - name: Traquer la peur
-    desc: La ghûraghasta est capable de ressentir la peur de ses proies. Elle a l’avantage à tous les tests de Sagesse (Survie) effectués afin de les pister. Les paladins ne peuvent être traqués de la sorte.
+    desc: La ghûraghasta est capable de ressentir la peur de ses proies. Elle a
+    l’avantage à tous les tests de Sagesse (Survie) effectués afin de les
+    pister. Les paladins ne peuvent être traqués de la sorte.
 actions:
   - name: Attaque multiple
     desc: <trait-description>
