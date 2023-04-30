@@ -34,14 +34,14 @@ traits:
     pendant 1d6 tours.
   - name: Odorat développé
     desc: Une ghûraghasta a l'avantage sur ses tests de Perception liés à
-    l’odorat.
+    l'odorat.
   - name: Tisser un fil (recharge, repos long)
     desc: Une ghûraghasta peut tisser un fil de matière organique extrêmement
-    résistant. Le fil sort de sa bouche et peut mesurer jusqu’à 100 m. Il est
+    résistant. Le fil sort de sa bouche et peut mesurer jusqu'à 100 m. Il est
     assez résistant pour porter la ghûraghasta et une autre créature de taille
     G. la fabrication du fil est totalement silencieuse et rapide (12 m par
     round). La ghûraghasta s’en sert pour tomber d'une hauteur et surprendre la 
-    proie qu’elle vise.
+    proie qu'elle vise.
   - name: Pattes d'araignée
     desc: La ghûraghasta peut se déplacer sur les murs et les plafonds à une
     vitesse de 4,5 m.
@@ -57,9 +57,10 @@ actions:
     desc: Attaque d'arme au corps-à-corps : +7 pour toucher, allonge 1,50 m,
     une cible. Touché : 8 (1d8+4) dégâts perforants.
   - name: Pattes
-    desc: Attaque d'arme au corps-à-corps : +7 pour toucher, allongue 3 m, une cible. Touché : 9 (1d8+4) dégâts tranchants.
-  - name: <trait-name>
-    desc: <trait-description>
+    desc: Attaque d'arme au corps-à-corps : +7 pour toucher, allongue 3 m, une
+    cible. Touché : 9 (1d8+4) dégâts tranchants.
+  - name: Paralysie
+    desc: Si une attaque de morsure touche une cible, cette dernière 
   - name: <trait-name>
     desc: <trait-description>
 ```
