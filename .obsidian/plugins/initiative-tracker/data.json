@@ -121,7 +121,7 @@
   "logging": false,
   "logFolder": "/",
   "useLegacy": false,
-  "integrateSRD": true,
+  "integrateSRD": false,
   "diplayPlayerHPValues": true,
   "rollHP": false
 }
