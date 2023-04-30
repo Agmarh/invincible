@@ -1,16 +1,15 @@
 ```statblock
 image: [[monstre.png]]
-name: nom
-size: taille
-type: type
+name: Nom
+size: 
+type: 
 subtype: 
-alignment: 
-ac: 
-hp: 
-hit_dice: 
-speed: 
+alignment: Neutre
+ac: 10
+hp: 0
+hit_dice: 1d8+0
+speed: 0
 stats: [10, 10, 10, 10, 10, 10]
-fage_stats: [number, number, number, number, number, number, number, number, number]
 saves:
   - <ability-score>: number
 skillsaves:
