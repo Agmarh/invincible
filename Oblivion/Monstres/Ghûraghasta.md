@@ -29,8 +29,8 @@ traits:
     desc: <trait-description>
   - ...
 actions:
-  - name: Serres
-    desc: "Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une cible. Touché : 4 (1d4+2) dégâts tranchants."
+  - name: <trait-name>
+    desc: <trait-description>
   - ...
 legendary_actions:
   - name: <legendary_actions-name>
