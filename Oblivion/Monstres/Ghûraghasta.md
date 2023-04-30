@@ -10,10 +10,9 @@ hp: 59
 hit_dice: 7d10+21
 speed: 9
 stats: [18, 16, 16, 12, 14, 16]
-saves:
-  - <ability-score>: number
 skillsaves:
-  - <skill-name>: number
+  - Perception: +4
+  - Discrétion: +5
 damage_vulnerabilities: string
 damage_resistances: string
 damage_immunities: string
