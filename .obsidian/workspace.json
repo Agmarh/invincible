@@ -101,6 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Oblivion/Monstres/Ghûraghasta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,6 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Oblivion/Monstres/Ghûraghasta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Oblivion/Monstres/Ghûraghasta.md"
+              }
             }
           }
         ],
@@ -160,12 +164,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "efc7fbc9dabff410",
+  "active": "d88a0c767ba6806f",
   "lastOpenFiles": [
+    "Oblivion/Monstres/Test.md",
     "Template/Monstre.md",
     "Oblivion/Monstres/Ghûraghasta.md",
     "Untitled.md",
-    "Oblivion/Monstres/Test.md",
     "Template",
     "Oblivion/PDF/Oblivion 2 Les enfants d'Oblivion.pdf",
     "Oblivion/PDF/Oblivion 1 Le sang d'Oblivion.pdf",
