@@ -20,7 +20,7 @@ damage_immunities: string
 condition_immunities: string
 senses: string
 languages: string
-cr: number
+cr: 1
 spells:
   - <description>
   - <spell level>: <spell-list>
