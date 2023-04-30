@@ -51,9 +51,11 @@ traits:
     pister. Les paladins ne peuvent être traqués de la sorte.
 actions:
   - name: Attaque multiple
-    desc: Une ghûraghasta peut effectuer deux attaques de corps-à-corps avec une action attaquer : une attaque de morsure et une attaque de pattes.
+    desc: Une ghûraghasta peut effectuer deux attaques de corps-à-corps avec
+    une action attaquer : une attaque de morsure et une attaque de pattes
   - name: Morsure
-    desc: <trait-description>
+    desc: Attaque d’arme au corps-à-corps : +7 pour toucher, allonge 1,50 m,
+    une cible. Touché : 8 (1d8+4) dégâts perforants.
   - name: <trait-name>
     desc: <trait-description>
   - name: <trait-name>
