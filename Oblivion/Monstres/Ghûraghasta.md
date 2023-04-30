@@ -25,12 +25,12 @@ traits:
     desc: Lorsqu’elle affronte un humanoïde vivant, l’odeur de son sang l’excite jusqu’à la frénésie. Elle gagne +2 en attaque et aux dégâts pendant 1d6 tours.
   - name: Odorat développé
     desc: Une ghûraghasta a l’avantage sur ses tests de Perception liés à l’odorat.
-  - name: Aura de terreur
-    desc: <trait-description>
-  - name: Aura de terreur
-    desc: <trait-description>
-  - name: Aura de terreur
-    desc: <trait-description>
+  - name: Tisser un fil (recharge, repos long)
+    desc: Une ghûraghasta peut tisser un fil de matière organique extrêmement résistant. Le fil sort de sa bouche et peut mesurer jusqu’à 100 m. Il est assez résistant pour porter la ghûraghasta et une autre créature de taille G. la fabrication du fil est totalement silencieuse et rapide (12 m par round). La ghûraghasta s’en sert pour tomber d’une hauteur et surprendre la proie qu’elle vise.
+  - name: Pattes d'araignée
+    desc: La ghûraghasta peut se déplacer sur les murs et les plafonds à une vitesse de 4,5 m.
+  - name: Traquer la peur
+    desc: La ghûraghasta est capable de ressentir la peur de ses proies. Elle a l’avantage à tous les tests de Sagesse (Survie) effectués afin de les pister. Les paladins ne peuvent être traqués de la sorte.
 actions:
   - name: <trait-name>
     desc: <trait-description>
