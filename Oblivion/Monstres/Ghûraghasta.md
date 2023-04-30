@@ -60,7 +60,7 @@ actions:
     desc: Attaque d'arme au corps-à-corps : +7 pour toucher, allongue 3 m, une
     cible. Touché : 9 (1d8+4) dégâts tranchants.
   - name: Paralysie
-    desc: Si une attaque de morsure touche une cible, cette dernière 
-  - name: <trait-name>
-    desc: <trait-description>
+    desc: Si une attaque de morsure touche une cible, cette dernière doit effectuer un jet de sauvegarde de Constitution DD 15 ou être paralysée pour 1d6 rounds.
+  - name: Saut
+    desc: La ghûraghasta peut abandonner ses deux attaques afin d'effectuer un saut par-dessus son adversaire. Elle peut, au choix, s'éloigner de 12 m ou retomber sur son adversaire toutes pattes dehors. 
 ```
