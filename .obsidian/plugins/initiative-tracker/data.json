@@ -88,7 +88,7 @@
   "unconsciousId": "Unconscious",
   "version": null,
   "canUseDiceRoll": false,
-  "preferStatblockLink": false,
+  "preferStatblockLink": true,
   "initiative": "1d20 + %mod%",
   "modifier": null,
   "sync": false,
@@ -102,7 +102,7 @@
     "round": 1,
     "logFile": ""
   },
-  "condense": false,
+  "condense": true,
   "clamp": true,
   "autoStatus": true,
   "beginnerTips": true,
@@ -120,7 +120,7 @@
   "additiveTemp": false,
   "logging": false,
   "logFolder": "/",
-  "useLegacy": false,
+  "useLegacy": true,
   "integrateSRD": false,
   "diplayPlayerHPValues": true,
   "rollHP": false
