@@ -29,8 +29,8 @@ traits:
     desc: <trait-description>
   - ...
 actions:
-  - name: Bite
-    desc: "Attaque au corps-à-corps: +5 to hit, reach 20 ft ., one target. Hit: 17 (2d8 + 8) bludgeoning damage."
+  - name: Serres
+    desc: "Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une cible. Touché : 4 (1d4+2) dégâts tranchants."
   - ...
 legendary_actions:
   - name: <legendary_actions-name>
