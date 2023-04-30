@@ -1,6 +1,6 @@
 ```statblock
-image: [[monstre.png]]
-name: Nom
+image: [[Ghûraghasta.png]]
+name: Ghûraghasta
 size: 
 type: 
 subtype: 
