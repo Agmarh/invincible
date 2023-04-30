@@ -34,12 +34,4 @@ traits:
 actions:
   - name: Attaque multiple
     desc: Une ghûraghasta peut effectuer deux attaques de corps-à-corps avec une action attaquer : une attaque de morsure et une attaque de pattes
-  - name: Morsure
-    desc: Attaque d'arme au corps-à-corps : +7 pour toucher, allonge 1,50 m, une cible. Touché : 8 (1d8+4) dégâts perforants.
-  - name: Pattes
-    desc: Attaque d'arme au corps-à-corps : +7 pour toucher, allongue 3 m, une cible. Touché : 9 (1d8+4) dégâts tranchants.
-  - name: Paralysie
-    desc: Si une attaque de morsure touche une cible, cette dernière doit effectuer un jet de sauvegarde de Constitution DD 15 ou être paralysée pour 1d6rounds.
-  - name: Saut
-    desc: La ghûraghasta peut abandonner ses deux attaques afin d'effectuer un saut par-dessus son adversaire. Elle peut, au choix, s'éloigner de 12 m ou retomber sur son adversaire toutes pattes dehors. La cible doit alors effectuer un jet de sauvegarde de Dextérité DD 14. En cas d'échec, elle subit 24 (7d6) points de dégâts. En cas de réussite, elle n'en subit que la moitié.
 ```
