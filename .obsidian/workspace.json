@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oblivion/Monstres/Ghûraghasta.md",
+                "file": "Template/Monstre.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oblivion/Monstres/Ghûraghasta.md",
+                "file": "Template/Monstre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oblivion/Monstres/Ghûraghasta.md",
+                "file": "Template/Monstre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oblivion/Monstres/Ghûraghasta.md"
+                "file": "Template/Monstre.md"
               }
             }
           }
@@ -166,8 +166,8 @@
   },
   "active": "9d5ef34a776eb827",
   "lastOpenFiles": [
-    "Template/Monstre.md",
     "Oblivion/Monstres/Ghûraghasta.md",
+    "Template/Monstre.md",
     "Oblivion/PDF/Oblivion 1 Le sang d'Oblivion.pdf",
     "Oblivion/Objets Magiques/Nocturno.md",
     "Oblivion/Monstres/Test.md",

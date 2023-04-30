@@ -91,7 +91,7 @@
   "preferStatblockLink": true,
   "initiative": "1d20 + %mod%",
   "modifier": null,
-  "sync": false,
+  "sync": true,
   "leafletIntegration": false,
   "playerMarker": "default",
   "monsterMarker": "default",
@@ -112,7 +112,7 @@
   "openState": {
     "battle": true,
     "party": true,
-    "status": true,
+    "status": false,
     "plugin": true,
     "player": true
   },
