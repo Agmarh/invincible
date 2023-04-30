@@ -18,10 +18,19 @@ languages: commun, Ghûraghasta
 cr: 4
 traits:
   - name: Aura de terreur
+    desc: Toute créature située à moins de 3 m d’une ghûraghasta doit effectuer un jet de sauvegarde de Sagesse DD 14 ou être terrorisé pendant 1d4+3 rounds. Les paladins sont immunisés à ce pouvoir.
+  - name: Aura de terreur
     desc: <trait-description>
   - name: Aura de terreur
     desc: <trait-description>
-    
+  - name: Aura de terreur
+    desc: <trait-description>
+  - name: Aura de terreur
+    desc: <trait-description>
+  - name: Aura de terreur
+    desc: <trait-description>
+  - name: Aura de terreur
+    desc: <trait-description>
 actions:
   - name: <trait-name>
     desc: <trait-description>
