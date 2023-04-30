@@ -4,12 +4,12 @@ name: Ghûraghasta
 size: G
 type: Mort-Vivant
 subtype: 
-alignment: Neutre
-ac: 10
-hp: 10
-hit_dice: 1d8+5
-speed: 0
-stats: [10, 10, 10, 10, 10, 10]
+alignment: Chaotique Mauvais
+ac: 15
+hp: 59
+hit_dice: 7d10+21
+speed: 9
+stats: [18, 16, 16, 12, 14, 16]
 saves:
   - <ability-score>: number
 skillsaves:
