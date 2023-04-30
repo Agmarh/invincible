@@ -13,19 +13,12 @@ stats: [18, 16, 16, 12, 14, 16]
 skillsaves:
   - Perception: +4
   - Discrétion: +5
-damage_vulnerabilities: string
-damage_resistances: string
-damage_immunities: string
-condition_immunities: string
-senses: string
-languages: string
-cr: number
-spells:
-  - <description>
-  - <spell level>: <spell-list>
+senses: vision aveugle 18 m, Perception passive 14
+languages: commun, Ghûraghasta
+cr: 4
 traits:
-  - name: <trait-name>
-    desc: <trait-description>
+  - name: Aura de terreur
+    desc: Toute créature située à moins de 3 m d’une ghûraghasta doit effectuer un jet de sauvegarde de Sagesse DD 14 ou être terrorisé pendant 1d4+3 rounds. Les paladins sont immunisés à ce pouvoir.
   - ...
 actions:
   - name: <trait-name>
