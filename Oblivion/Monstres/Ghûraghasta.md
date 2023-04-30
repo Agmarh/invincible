@@ -25,8 +25,8 @@ spells:
   - <description>
   - <spell level>: <spell-list>
 traits:
-  - name: <trait-name>
-    desc: <trait-description>
+  - name: Compétence
+    desc: Attaque 1d3 dég
   - ...
 actions:
   - name: <trait-name>
