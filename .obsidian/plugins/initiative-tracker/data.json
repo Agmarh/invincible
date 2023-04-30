@@ -120,7 +120,7 @@
   "additiveTemp": false,
   "logging": false,
   "logFolder": "/",
-  "useLegacy": false,
+  "useLegacy": true,
   "integrateSRD": false,
   "diplayPlayerHPValues": true,
   "rollHP": false
