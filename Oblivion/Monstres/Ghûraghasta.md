@@ -29,8 +29,8 @@ traits:
     desc: <trait-description>
   - ...
 actions:
-  - name: <trait-name>
-    desc: <trait-description>
+  - name: Test
+    desc: Lance une attaque à 1d6 dégâts
   - ...
 legendary_actions:
   - name: <legendary_actions-name>
