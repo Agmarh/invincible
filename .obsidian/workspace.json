@@ -147,6 +147,20 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "fd5288df57dbe23a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb917d9f71251a54",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -164,7 +178,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f313958ee2e0b55c",
+  "active": "bb917d9f71251a54",
   "lastOpenFiles": [
     "Template/Monstre.md",
     "Oblivion/Monstres/Ghûraghasta.md",
