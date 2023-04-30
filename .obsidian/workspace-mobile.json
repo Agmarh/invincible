@@ -1,0 +1,151 @@
+{
+  "main": {
+    "id": "04ac7d450e33b8e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3e6b8a9ce8f5359",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "494c14d15fb10504",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "089e96baa8221af3",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "72a7b529c37bb6a4",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "4d8d56d620b97d1e",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "32bc60da81a5f5ed",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "75572814cb57b056",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0,
+    "pinned": true
+  },
+  "right": {
+    "id": "5bc772b68a116791",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "7d0dfec6c37f65c3",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "bd1ef5fc29f80d02",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "58649785cf9f00bc",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      },
+      {
+        "id": "4788967b8ab76f75",
+        "type": "leaf",
+        "state": {
+          "type": "initiative-tracker-view",
+          "state": {}
+        }
+      },
+      {
+        "id": "2136840a49548fca",
+        "type": "leaf",
+        "state": {
+          "type": "DICE_ROLLER_VIEW",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "494c14d15fb10504",
+  "lastOpenFiles": [
+    "Oblivion/Images/Ghûraghasta.png",
+    "Oblivion/Monstres/Ghûraghasta.md",
+    "Oblivion/PDF"
+  ]
+}
