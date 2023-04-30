@@ -16,5 +16,5 @@ skillsaves:
 senses: vision aveugle 18 m, Perception passive 14
 languages: commun, Ghûraghasta
 cr: 4
-
+traits
 ```
