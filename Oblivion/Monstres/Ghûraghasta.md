@@ -6,8 +6,8 @@ type: Mort-Vivant
 subtype: 
 alignment: Neutre
 ac: 10
-hp: 0
-hit_dice: 1d8+0
+hp: 10
+hit_dice: 1d8+5
 speed: 0
 stats: [10, 10, 10, 10, 10, 10]
 saves:
