@@ -96,7 +96,26 @@
   "playerMarker": "default",
   "monsterMarker": "default",
   "state": {
-    "creatures": [],
+    "creatures": [
+      {
+        "name": "Ghûraghasta",
+        "display": "Ghûraghasta",
+        "initiative": 4,
+        "modifier": 0,
+        "hp": 0,
+        "currentMaxHP": 0,
+        "ac": 10,
+        "currentAC": 10,
+        "id": "ID_c9ea496b1b28",
+        "currentHP": 0,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "hidden": false,
+        "friendly": false,
+        "hit_dice": "1d8+0"
+      }
+    ],
     "state": false,
     "name": null,
     "round": 1,
