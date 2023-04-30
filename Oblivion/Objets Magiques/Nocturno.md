@@ -1,2 +1,4 @@
+# Arme (épée à deux mains), artefact intelligent (harmonisation requise)
 
-![[Nocturno.png]]
+## Effet
+Bonus de +1 aux jets d'attaque
