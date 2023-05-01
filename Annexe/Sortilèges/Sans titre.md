@@ -7,7 +7,7 @@ composantes:
 temps: 
 classe: 
 ---
-# **undefined de niveau undefined
+# undefined de niveau undefined
 
 **Temps d'incantation :** undefined
 **Portée :** undefined
