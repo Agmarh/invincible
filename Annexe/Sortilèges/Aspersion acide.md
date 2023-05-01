@@ -1,13 +1,13 @@
 ---
-type: test
-niveau: test
+type: 
+niveau: 
 incantation: 
 distance: 
 composantes: 
 temps: 
 classe: 
 ---
-# Sans titre
+# Aspersion acide
 **undefined de niveau undefined**
 **Temps d'incantation** : undefined
 **Portée** : undefined
