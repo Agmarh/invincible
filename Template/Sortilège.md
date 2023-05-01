@@ -1,4 +1,6 @@
 ---
-type: type
+type: test
 ---
-<% tp.file.type %>
+
+
+<% tp.frontmatter.type %>
