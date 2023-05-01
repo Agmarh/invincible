@@ -2,4 +2,5 @@
 Type : 
 Rareté : 
 Harmonisation : 
-Description :
+
+# Effets
