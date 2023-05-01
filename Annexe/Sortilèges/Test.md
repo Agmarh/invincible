@@ -1,11 +1,11 @@
 ---
-type: <type>
-niveau: <niveau>
-incantation: <incantation>
-distance: <distance>
-composantes: <composantes>
-temps: <temps>
-classe: <classe>
+type: test
+niveau: test
+incantation: 
+distance: 
+composantes: 
+temps: 
+classe: 
 ---
 # Sans titre
 **undefined de niveau undefined**

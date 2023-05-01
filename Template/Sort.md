@@ -1,11 +1,11 @@
 ---
-type: <type>
-niveau: <niveau>
-incantation: <incantation>
-distance: <distance>
-composantes: <composantes>
-temps: <temps>
-classe: <classe>
+type: 
+niveau: 
+incantation: 
+distance: 
+composantes: 
+temps: 
+classe: 
 ---
 # <% tp.file.title %>
 **<% tp.frontmatter.type %> de niveau <% tp.frontmatter.niveau %>**
