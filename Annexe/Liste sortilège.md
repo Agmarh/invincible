@@ -1,4 +1,4 @@
 ```dataview
-list from #Sortilèges
+table niveau
+from "Sortilèges"
 ```
-
