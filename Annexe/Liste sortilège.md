@@ -1,6 +1,6 @@
+# Tours de magie
 ```dataview
-TABLE niveau
+TABLE niveau, classe
 FROM "Annexe/Sortilèges"
-
+WHERE niveau = "Tour de magie"
 ```
-# Tour de ma
