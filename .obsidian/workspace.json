@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7e76fedf30b43c90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Template/Sort.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,7 +161,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       },
       {
         "id": "fd5288df57dbe23a",
@@ -179,14 +193,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4257161df3ad1956",
+  "active": "7e76fedf30b43c90",
   "lastOpenFiles": [
-    "Annexe/Sortilèges/Aspersion acide.md",
+    "Annexe/Sortilèges/Test.md",
     "Template/Sort.md",
+    "Annexe/Sortilèges/Aspersion acide.md",
     "Template/PJ.md",
     "Template/Objet.md",
     "Template/Monstre.md",
-    "Annexe/Sortilèges/Test.md",
     "Oblivion/Objets Magiques/Nocturno.md",
     "Aspersion acide.md",
     "Oblivion/Monstres/Ghûraghasta.md",

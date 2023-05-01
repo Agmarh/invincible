@@ -7,8 +7,7 @@ composantes:
 temps: 
 classe: 
 ---
-# Aspersion acide
-**undefined de niveau undefined**
+# **undefined de niveau undefined
 **Temps d'incantation** : undefined
 **Portée** : undefined
 **Composantes** : undefined
