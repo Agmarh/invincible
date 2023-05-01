@@ -19,6 +19,5 @@ Harmonisation : Oui
 ## Troisième Extase
 - Épée longue +2
 - Tranche-Cauchemar. Jet de sauvegarde de Constitution DD 18.
-- Signe du Rêveur. 1 fois par semaine, identique au sort de symbole (de sommeil) apparaissant sur la lame de l’épée. Pouvoirs morphéens – repos long. 1 au choix du
-meneur parmi : cauchemar, ombres imaginaires,
-chien de garde, nuage mortel.
+- Signe du Rêveur. 1 fois par semaine, identique au sort de symbole (de sommeil) apparaissant sur la lame de l’épée.
+- Pouvoirs morphéens – repos long. 1 au choix du meneur parmi : cauchemar, ombres imaginaires, chien de garde, nuage mortel.
