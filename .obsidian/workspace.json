@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Template/PJ.md",
+                "file": "Template/Monstre.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Template/PJ.md",
+                "file": "Template/Monstre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Template/PJ.md",
+                "file": "Template/Monstre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Template/PJ.md"
+                "file": "Template/Monstre.md"
               }
             }
           }
@@ -180,11 +180,11 @@
   },
   "active": "4257161df3ad1956",
   "lastOpenFiles": [
+    "Template/PJ.md",
     "Oblivion/Objets Magiques/Nocturno.md",
     "Oblivion/Monstres/Ghûraghasta.md",
     "Annexe/Sortilèges",
     "Annexe",
-    "Template/PJ.md",
     "Oblivion/Joueurs/Sans titre.md",
     "Oblivion/Joueurs",
     "Template/Objet.md",
