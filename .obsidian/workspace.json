@@ -11,8 +11,12 @@
             "id": "4257161df3ad1956",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Template/PJ.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Test",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,6 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Template/PJ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,6 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Template/PJ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,11 +140,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Template/PJ.md"
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "fd5288df57dbe23a",
@@ -172,10 +180,10 @@
   },
   "active": "4257161df3ad1956",
   "lastOpenFiles": [
-    "Oblivion/Joueurs/Sans titre.md",
-    "Oblivion/Joueurs",
     "Oblivion/Objets Magiques/Nocturno.md",
     "Template/PJ.md",
+    "Oblivion/Joueurs/Sans titre.md",
+    "Oblivion/Joueurs",
     "Oblivion/Monstres/Ghûraghasta.md",
     "Template/Objet.md",
     "Template/Monstre.md",
