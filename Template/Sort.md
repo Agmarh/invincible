@@ -4,7 +4,9 @@ niveau: 1
 incantation: 1 action
 distance: 18 mètres
 composantes: V, S
-
+temps: instantanée
+classe: Ensorceleur/Sorcelame, Magicien
+effet: 
 ---
 # <% tp.file.title %>
 **<% tp.frontmatter.type %> de niveau <% tp.frontmatter.niveau %>**
