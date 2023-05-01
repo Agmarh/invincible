@@ -13,11 +13,11 @@ Harmonisation : Oui
 
 ## Deuxième Extase
 - Épée longue +2 
-- Messager des Rêves – repos long. L’utilisateur peut lancer le sort rêve.
-- Pouvoirs Morphéens – repos long. Nocturno possède un pouvoir supplémentaire au choix du meneur parmi : déguisement, fou rire, ténèbres, blessure.
+- **Messager des Rêves – repos long.** L’utilisateur peut lancer le sort rêve.
+- **Pouvoirs Morphéens – repos long.** Nocturno possède un pouvoir supplémentaire au choix du meneur parmi : déguisement, fou rire, ténèbres, blessure.
 
 ## Troisième Extase
 - Épée longue +2
-- Tranche-Cauchemar. Jet de sauvegarde de Constitution DD 18.
+- **Tranche-Cauchemar.** Jet de sauvegarde de Constitution DD 18.
 - Signe du Rêveur. 1 fois par semaine, identique au sort de symbole (de sommeil) apparaissant sur la lame de l’épée.
 - Pouvoirs morphéens – repos long. 1 au choix du meneur parmi : cauchemar, ombres imaginaires, chien de garde, nuage mortel.
