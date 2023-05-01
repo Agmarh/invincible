@@ -13,8 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Annexe/Sortilèges/Aspersion acide.md",
-                "mode": "source",
+                "file": "Annexe/Sortilèges/Test.md",
+                "mode": "preview",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -101,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Annexe/Sortilèges/Aspersion acide.md",
+                "file": "Annexe/Sortilèges/Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Annexe/Sortilèges/Aspersion acide.md",
+                "file": "Annexe/Sortilèges/Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Annexe/Sortilèges/Aspersion acide.md"
+                "file": "Annexe/Sortilèges/Test.md"
               }
             }
           }
@@ -180,10 +181,11 @@
   },
   "active": "4257161df3ad1956",
   "lastOpenFiles": [
-    "Oblivion/Objets Magiques/Nocturno.md",
     "Annexe/Sortilèges/Aspersion acide.md",
-    "Aspersion acide.md",
+    "Annexe/Sortilèges/Test.md",
     "Template/Sort.md",
+    "Oblivion/Objets Magiques/Nocturno.md",
+    "Aspersion acide.md",
     "Oblivion/Monstres/Ghûraghasta.md",
     "Template/Monstre.md",
     "Template/PJ.md",
