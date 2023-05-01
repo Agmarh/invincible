@@ -28,4 +28,8 @@ Harmonisation : Oui
 - **Résistance à la magie.** L’amant est immunisé aux sorts d’illusion.
 - **Tranche-Cauchemar.** Une fois entre chaque repos court, jet de sauvegarde de Constitution DD 20, la cible est désavantagée sur ses jets de sauvegarde contre la magie.
 - **Seigneur des Ombres.** Une fois par semaine, fait apparaître un avatar de la mort sous le contrôle de l’amant pour seulement 2d4 rounds.
-- **Pouvoirs morphéens – repos long.** 1 au choix du meneur parmi : métamorphose, assassin imaginaire, flétrissement, labyrinthe.
+- **Pouvoirs morphéens – repos long.** 1 au choix du meneur parmi : *métamorphose, assassin imaginaire, flétrissement, labyrinthe*.
+
+## Cinquième Extase
+- Épée longue +3
+- **Pouvoirs morphéens – repos long.** 1 au choix du meneur parmi : *forme éthérée, vision suprême*.
