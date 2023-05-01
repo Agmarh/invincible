@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Annexe/Sortilèges/Test.md",
-                "mode": "preview",
+                "file": "Annexe/Sortilèges/Sans titre.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Annexe/Sortilèges/Test.md",
+                "file": "Annexe/Sortilèges/Sans titre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Annexe/Sortilèges/Test.md",
+                "file": "Annexe/Sortilèges/Sans titre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Annexe/Sortilèges/Test.md"
+                "file": "Annexe/Sortilèges/Sans titre.md"
               }
             }
           }
@@ -181,8 +181,9 @@
   },
   "active": "4257161df3ad1956",
   "lastOpenFiles": [
-    "Annexe/Sortilèges/Aspersion acide.md",
     "Annexe/Sortilèges/Test.md",
+    "Annexe/Sortilèges/Sans titre.md",
+    "Annexe/Sortilèges/Aspersion acide.md",
     "Template/Sort.md",
     "Oblivion/Objets Magiques/Nocturno.md",
     "Aspersion acide.md",
