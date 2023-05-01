@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Template/Sort.md",
+                "file": "Annexe/Sortilèges/Aspersion acide.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Template/Sort.md",
+                "file": "Annexe/Sortilèges/Aspersion acide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Template/Sort.md",
+                "file": "Annexe/Sortilèges/Aspersion acide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Template/Sort.md"
+                "file": "Annexe/Sortilèges/Aspersion acide.md"
               }
             }
           }
@@ -181,8 +181,8 @@
   },
   "active": "4257161df3ad1956",
   "lastOpenFiles": [
-    "Annexe/Sortilèges/Sans titre.md",
     "Template/Sort.md",
+    "Annexe/Sortilèges/Aspersion acide.md",
     "Annexe/Sortilèges/Test.md",
     "Annexe/Sortilèges/Test.md",
     "Annexe/Sortilèges/Aspersion acide.md",
