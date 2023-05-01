@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oblivion/Objets Magiques/Sans titre.md",
+                "file": "Template/Objet.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oblivion/Objets Magiques/Sans titre.md",
+                "file": "Template/Objet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oblivion/Objets Magiques/Sans titre.md",
+                "file": "Template/Objet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oblivion/Objets Magiques/Sans titre.md"
+                "file": "Template/Objet.md"
               }
             }
           }
@@ -193,8 +193,8 @@
   },
   "active": "6586ee6ff34b639e",
   "lastOpenFiles": [
-    "Template/Monstre.md",
     "Oblivion/Objets Magiques/Sans titre.md",
+    "Template/Monstre.md",
     "Oblivion/Monstres/Ghûraghasta.md",
     "Template/Objet.md",
     "Oblivion/Objets Magiques/Nocturno.md",
