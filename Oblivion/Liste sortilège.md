@@ -1,3 +1,3 @@
 ```dataview
-TABLE niveau FROM "Sortilèges"
+TABLE niveau
 ```
