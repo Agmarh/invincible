@@ -1,5 +1,5 @@
 ![[Nocturno.png]]
 Type : Epée longue 
-Rareté : 
-Harmonisation : 
-Description :
+Rareté : Artéfact intrlligent
+Harmonisation : Oui
+Description : 
