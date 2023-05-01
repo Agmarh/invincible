@@ -10,8 +10,8 @@ classe: Ensorceleur/Sorcelame, Magicien
 # <% tp.file.title %>
 **<% tp.frontmatter.type %> de niveau <% tp.frontmatter.niveau %>**
 **Temps d'incantation** : <% tp.frontmatter.incantation %>
-**Portée** : <% %>
-**Composantes** : V, S, M (une pincée de limaille de fer)
-**Durée** : concentration, jusqu'à 1 minute
-**Classe** : Ensorceleur/Sorcelame, Magicien
-Effet : 
+**Portée** : <% tp.frontmatter.distance %>
+**Composantes** : <% tp.frontmatter.composantes %>
+**Durée** : <% tp.frontmatter.temps %>
+**Classe** : <% tp.frontmatter.classe %>
+
