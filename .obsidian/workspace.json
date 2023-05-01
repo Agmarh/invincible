@@ -19,22 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "7e76fedf30b43c90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Template/Sort.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,8 +179,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7e76fedf30b43c90",
+  "active": "4257161df3ad1956",
   "lastOpenFiles": [
+    "Annexe/Sortilèges/Test.md",
     "Annexe/Sortilèges/Test.md",
     "Template/Sort.md",
     "Annexe/Sortilèges/Aspersion acide.md",
