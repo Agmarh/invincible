@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Template/Objet.md",
+                "file": "Oblivion/Objets Magiques/Nocturno.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Template/Objet.md",
+                "file": "Oblivion/Objets Magiques/Nocturno.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Template/Objet.md",
+                "file": "Oblivion/Objets Magiques/Nocturno.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Template/Objet.md"
+                "file": "Oblivion/Objets Magiques/Nocturno.md"
               }
             }
           }
@@ -180,9 +180,9 @@
   },
   "active": "bcb28b3b2ccef152",
   "lastOpenFiles": [
-    "image.png.md",
     "Template/Objet.md",
-    "Oblivion/Objets Magiques/Sans titre.md",
+    "image.png.md",
+    "Oblivion/Objets Magiques/Nocturno.md",
     "Template/Monstre.md",
     "Oblivion/Monstres/Ghûraghasta.md",
     "Oblivion/Objets Magiques/Nocturno.md",

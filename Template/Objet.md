@@ -2,3 +2,4 @@
 Type : 
 Rareté : 
 Harmonisation : 
+Description :
