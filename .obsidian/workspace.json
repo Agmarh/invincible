@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Template/Sortilège.md",
+                "file": "Template/Sort.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Template/Sortilège.md",
+                "file": "Template/Sort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Template/Sortilège.md",
+                "file": "Template/Sort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Template/Sortilège.md"
+                "file": "Template/Sort.md"
               }
             }
           }
@@ -195,7 +195,7 @@
   "active": "ed7bafa9996eef00",
   "lastOpenFiles": [
     "Oblivion/Objets Magiques/Nocturno.md",
-    "Template/Sortilège.md",
+    "Template/Sort.md",
     "Oblivion/Monstres/Ghûraghasta.md",
     "Template/Monstre.md",
     "Template/PJ.md",
