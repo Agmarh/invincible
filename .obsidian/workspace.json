@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Template/Monstre.md",
+                "file": "Oblivion/Objets Magiques/Nocturno.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Template/Monstre.md",
+                "file": "Oblivion/Objets Magiques/Nocturno.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Template/Monstre.md",
+                "file": "Oblivion/Objets Magiques/Nocturno.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Template/Monstre.md"
+                "file": "Oblivion/Objets Magiques/Nocturno.md"
               }
             }
           }
@@ -178,17 +178,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "efc7fbc9dabff410",
+  "active": "4257161df3ad1956",
   "lastOpenFiles": [
+    "Oblivion/Monstres/Ghûraghasta.md",
+    "Template/Monstre.md",
     "Template/PJ.md",
     "Oblivion/Objets Magiques/Nocturno.md",
-    "Oblivion/Monstres/Ghûraghasta.md",
     "Annexe/Sortilèges",
     "Annexe",
     "Oblivion/Joueurs/Sans titre.md",
     "Oblivion/Joueurs",
     "Template/Objet.md",
-    "Template/Monstre.md",
     "Untitled.md",
     "image.png.md",
     "Oblivion/PDF/Oblivion 1 Le sang d'Oblivion.pdf",
