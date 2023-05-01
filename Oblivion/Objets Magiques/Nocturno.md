@@ -34,6 +34,7 @@ Harmonisation : Oui
 - Épée longue +3
 - **Pouvoirs morphéens – repos long.** 1 au choix du meneur parmi : *forme éthérée, vision suprême*.
 
+# Informations annexes
 ## La Première Extase
 La silhouette féminine se transforme en brume, s’enroule autour du corps de son porteur et le soulève dans les airs tandis qu’ils sont tous deux frappés d’éclairs noirs. Le porteur est alors victime d’un processus qui ne se déroule que dans son esprit (s’il résiste, un jet de sauvegarde de Sagesse DD 15 l’interrompt). Il est ainsi mentalement transporté à l’intérieur de l’épée, au coeur de la Constellation morphéenne, et se retrouve dans le temple des neuf Déesses du Sommeil. Celles-ci lui imposent alors une épreuve (définie plus loin). Quelle que soit sa durée subjective dans le cerveau du porteur, cette épreuve ne prend en réalité qu’un seul round.
 
@@ -46,7 +47,4 @@ Si le porteur échoue, les éclairs noirs le relâchent, il s’éveille brutale
 Une Dame d’Ombre entend son porteur et lit ses pensées superficielles (identique au sort détection des pensées). En revanche, elle-même communique en apparaissant devant lui sous sa forme féminine. Lui seul peut la voir, tandis qu’elle exécute un ballet d’attitudes expressives, accompagné de vagues émotionnelles empathiques (ex : elle brandit les poings et arbore un rictus de haine, elle se déhanche ironiquement, elle s’élève dans les airs et tourbillonne joyeusement, etc.). Elle peut aussi communiquer par empathie sans apparaître. Une Dame d’Ombre n’a recours à la communication verbale que de façon exceptionnelle, lors d’un moment dramatique (ex : mort imminente de son amant).
 
 ## Les épreuves des Déesses du Sommeil
-Elles se déroulent dans les profondeurs du Temple des neuf Déesses du Sommeil. Elles sont uniques et varient en fonction de la personnalité de l’épée et du PJ. Vous devrez les déterminer au cas par cas et les jouer lors d’un intermède seul avec le personnage concerné. Quelques suggestions : survivre à un sort d’assassin imaginaire (lancé au niveau de l’utilisateur +3) ; tuer son double ; tuer un monstre de son niveau ; dompter une créature ailée ; affronter trois pièges (DD 10, DD 15,
-DD 25) ; résoudre une énigme difficile ; tuer dix « petits
-» monstres; survivre trois rounds contre un puissant
-monstre...
+Elles se déroulent dans les profondeurs du Temple des neuf Déesses du Sommeil. Elles sont uniques et varient en fonction de la personnalité de l’épée et du PJ. Vous devrez les déterminer au cas par cas et les jouer lors d’un intermède seul avec le personnage concerné. Quelques suggestions : survivre à un sort d’assassin imaginaire (lancé au niveau de l’utilisateur +3) ; tuer son double ; tuer un monstre de son niveau ; dompter une créature ailée ; affronter trois pièges (DD 10, DD 15, DD 25) ; résoudre une énigme difficile ; tuer dix « petits » monstres; survivre trois rounds contre un puissant monstre...
