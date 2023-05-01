@@ -24,19 +24,8 @@ Harmonisation : Oui
 
 ## Quatrième Extase
 - Épée longue +2
-» Pouvoirs de Résonance. Lorsque deux Dames
-d’Ombre sont à moins de 100 mètres l’une de
-l’autre, les porteurs des deux Dames peuvent entrer
-en communication télépathique.
-» Résistance à la magie. L’amant est immunisé aux
-sorts d’illusion.
-» Tranche-Cauchemar. Une fois entre chaque repos
-court, jet de sauvegarde de Constitution DD 20,
-la cible est désavantagée sur ses jets de sauvegarde
-contre la magie.
-» Seigneur des Ombres. Une fois par semaine, fait
-apparaître un avatar de la mort sous le contrôle de
-l’amant pour seulement 2d4 rounds.
-» pouvoirs morphéens – repos long. 1 au choix du
-meneur parmi : métamorphose, assassin imaginaire,
-flétrissement, labyrinthe.
+- **Pouvoirs de Résonance.** Lorsque deux Dames d’Ombre sont à moins de 100 mètres l’une de l’autre, les porteurs des deux Dames peuvent entrer en communication télépathique.
+- **Résistance à la magie.** L’amant est immunisé aux sorts d’illusion.
+- **Tranche-Cauchemar.** Une fois entre chaque repos court, jet de sauvegarde de Constitution DD 20, la cible est désavantagée sur ses jets de sauvegarde contre la magie.
+- **Seigneur des Ombres.** Une fois par semaine, fait apparaître un avatar de la mort sous le contrôle de l’amant pour seulement 2d4 rounds.
+- **Pouvoirs morphéens – repos long.** 1 au choix du meneur parmi : métamorphose, assassin imaginaire, flétrissement, labyrinthe.
