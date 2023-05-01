@@ -1,5 +1,5 @@
 ![[Nocturno.png]]
-Type : 
+Type : Epée longue 
 Rareté : 
 Harmonisation : 
 Description :
