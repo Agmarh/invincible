@@ -39,7 +39,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Annexe/Sortilèges/Sans titre.md",
+                "file": "Annexe/Sortilèges/Aura du héros.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "de1017d90d4d6c2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Annexe/Liste sortilège.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -129,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Annexe/Sortilèges/Sans titre.md",
+                "file": "Annexe/Liste sortilège.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Annexe/Sortilèges/Sans titre.md",
+                "file": "Annexe/Liste sortilège.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Annexe/Sortilèges/Sans titre.md"
+                "file": "Annexe/Liste sortilège.md"
               }
             }
           }
@@ -207,10 +220,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "893950857790bc3f",
+  "active": "de1017d90d4d6c2e",
   "lastOpenFiles": [
+    "Annexe/Sortilèges/Aura du héros.md",
+    "Annexe/Liste sortilège.md",
     "Template/Sort.md",
-    "Annexe/Sortilèges/Sans titre.md",
     "Annexe/Sortilèges/Assistance.md",
     "Annexe/Sortilèges/Aspersion acide.md",
     "Oblivion/Monstres/Untitled.md",
