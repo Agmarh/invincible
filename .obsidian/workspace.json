@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Annexe/Liste sortilège.md",
+                "file": "Oblivion/Liste sortilège.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Annexe/Liste sortilège.md",
+                "file": "Oblivion/Liste sortilège.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Annexe/Liste sortilège.md",
+                "file": "Oblivion/Liste sortilège.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Annexe/Liste sortilège.md"
+                "file": "Oblivion/Liste sortilège.md"
               }
             }
           }
@@ -220,10 +220,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "de1017d90d4d6c2e",
+  "active": "efc7fbc9dabff410",
   "lastOpenFiles": [
     "Annexe/Sortilèges/Aspersion acide.md",
-    "Annexe/Liste sortilège.md",
+    "Oblivion/Liste sortilège.md",
     "Annexe/Sortilèges/Aura du héros.md",
     "Template/Sort.md",
     "Annexe/Sortilèges/Assistance.md",
