@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Template/Monstre.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6586ee6ff34b639e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Template/Objet.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,12 +178,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6586ee6ff34b639e",
+  "active": "bcb28b3b2ccef152",
   "lastOpenFiles": [
+    "image.png.md",
+    "Template/Objet.md",
     "Oblivion/Objets Magiques/Sans titre.md",
     "Template/Monstre.md",
     "Oblivion/Monstres/Ghûraghasta.md",
-    "Template/Objet.md",
     "Oblivion/Objets Magiques/Nocturno.md",
     "Oblivion/Objets Magiques/Nocturno.md",
     "Oblivion/PDF/Oblivion 1 Le sang d'Oblivion.pdf",
