@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Template/Sort.md",
+                "file": "Annexe/Sortilèges/Sans titre.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Template/Sort.md",
+                "file": "Annexe/Sortilèges/Sans titre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Template/Sort.md",
+                "file": "Annexe/Sortilèges/Sans titre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Template/Sort.md"
+                "file": "Annexe/Sortilèges/Sans titre.md"
               }
             }
           }
@@ -179,11 +179,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4257161df3ad1956",
+  "active": "efc7fbc9dabff410",
   "lastOpenFiles": [
-    "Annexe/Sortilèges/Test.md",
-    "Annexe/Sortilèges/Test.md",
     "Template/Sort.md",
+    "Annexe/Sortilèges/Sans titre.md",
+    "Annexe/Sortilèges/Test.md",
+    "Annexe/Sortilèges/Test.md",
     "Annexe/Sortilèges/Aspersion acide.md",
     "Template/PJ.md",
     "Template/Objet.md",
