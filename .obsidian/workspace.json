@@ -13,27 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oblivion/Objets Magiques/Nocturno.md",
+                "file": "Annexe/Sortilèges/Aspersion acide.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ed7bafa9996eef00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Template/Sort.md",
-                "mode": "source",
-                "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Template/Sort.md",
+                "file": "Annexe/Sortilèges/Aspersion acide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Template/Sort.md",
+                "file": "Annexe/Sortilèges/Aspersion acide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Template/Sort.md"
+                "file": "Annexe/Sortilèges/Aspersion acide.md"
               }
             }
           }
@@ -192,10 +178,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ed7bafa9996eef00",
+  "active": "4257161df3ad1956",
   "lastOpenFiles": [
-    "Oblivion/Objets Magiques/Nocturno.md",
+    "Aspersion acide.md",
+    "Annexe/Sortilèges/Aspersion acide.md",
     "Template/Sort.md",
+    "Oblivion/Objets Magiques/Nocturno.md",
     "Oblivion/Monstres/Ghûraghasta.md",
     "Template/Monstre.md",
     "Template/PJ.md",
