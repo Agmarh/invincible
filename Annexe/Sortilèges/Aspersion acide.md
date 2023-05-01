@@ -1,5 +1,5 @@
 ---
-type: 
+type: test
 niveau: 
 incantation: 
 distance: 
