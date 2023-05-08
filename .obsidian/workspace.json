@@ -52,7 +52,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Template/Sort.md",
+                "file": "Annexe/Sortilèges/Niveau 1/Faveur divine.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5ab2acb5a73296d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Annexe/Sortilèges/Niveau 1/Flamboiement funeste.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -142,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Template/Sort.md",
+                "file": "Annexe/Sortilèges/Niveau 1/Flamboiement funeste.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Template/Sort.md",
+                "file": "Annexe/Sortilèges/Niveau 1/Flamboiement funeste.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Template/Sort.md"
+                "file": "Annexe/Sortilèges/Niveau 1/Flamboiement funeste.md"
               }
             }
           }
@@ -220,11 +233,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4b44f3558855a5de",
+  "active": "5ab2acb5a73296d5",
   "lastOpenFiles": [
+    "Template/Sort.md",
+    "Annexe/Sortilèges/Niveau 1/Flamboiement funeste.md",
     "Annexe/Sortilèges/Niveau 1/Faveur divine.md",
     "Annexe/Sortilèges/Niveau 1/Enchevêtrement.md",
-    "Template/Sort.md",
     "Annexe/Liste sortilège.md",
     "Annexe/Sortilèges/Niveau 1/Disque flottant.md",
     "Annexe/Sortilèges/Niveau 1/Détection du poison et des maladies.md",
@@ -247,7 +261,6 @@
     "Annexe/Sortilèges/Niveau 1/Bénédiction.md",
     "Annexe/Sortilèges/Niveau 1/Balisage.md",
     "Annexe/Sortilèges/Niveau 1/Baies nourricières.md",
-    "Annexe/Sortilèges/Niveau 1/Armure du mage.md",
     "Annexe/Sortilèges/Niveau 1",
     "Annexe/Sortilèges/Tours de magie",
     "Annexe/Sortilèges",
