@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "1c454e1219060f6e",
+            "id": "105cda18d00dd116",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Léger comme une plume.md",
+                "file": "Annexe/Sortilèges/Niveau 1/Lueurs féériques.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Léger comme une plume.md",
+                "file": "Annexe/Sortilèges/Niveau 1/Lueurs féériques.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Léger comme une plume.md",
+                "file": "Annexe/Sortilèges/Niveau 1/Lueurs féériques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Léger comme une plume.md"
+                "file": "Annexe/Sortilèges/Niveau 1/Lueurs féériques.md"
               }
             }
           }
@@ -194,9 +194,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1c454e1219060f6e",
+  "active": "105cda18d00dd116",
   "lastOpenFiles": [
     "Template/Sort.md",
+    "Annexe/Sortilèges/Niveau 1/Lueurs féériques.md",
     "Annexe/Sortilèges/Niveau 1/Léger comme une plume.md",
     "Annexe/Sortilèges/Niveau 1/Injonction.md",
     "Annexe/Sortilèges/Niveau 1/Instrument fantomatique.md",
@@ -221,7 +222,6 @@
     "Annexe/Sortilèges/Niveau 1/Création ou destruction d'eau.md",
     "Annexe/Sortilèges/Tours de magie/Bouffée de poison.md",
     "Annexe/Sortilèges/Tours de magie/Aura du héros.md",
-    "Annexe/Sortilèges/Tours de magie/Assistance.md",
     "Annexe/Sortilèges/Niveau 1",
     "Annexe/Sortilèges/Tours de magie",
     "Annexe/Sortilèges",
