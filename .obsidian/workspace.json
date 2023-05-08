@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "f859e0362fce10da",
+            "id": "ea85f50d17fbfb49",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Poison naturel.md",
+                "file": "Annexe/Sortilèges/Niveau 1/Représailles infernales.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Poison naturel.md",
+                "file": "Annexe/Sortilèges/Niveau 1/Représailles infernales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Poison naturel.md",
+                "file": "Annexe/Sortilèges/Niveau 1/Représailles infernales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Poison naturel.md"
+                "file": "Annexe/Sortilèges/Niveau 1/Représailles infernales.md"
               }
             }
           }
@@ -194,9 +194,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f859e0362fce10da",
+  "active": "ea85f50d17fbfb49",
   "lastOpenFiles": [
     "Template/Sort.md",
+    "Annexe/Sortilèges/Niveau 1/Représailles infernales.md",
+    "Annexe/Sortilèges/Niveau 1/Repli expéditif.md",
     "Annexe/Sortilèges/Niveau 1/Poison naturel.md",
     "Annexe/Sortilèges/Niveau 1/Purification de la nourriture et de l'eau.md",
     "Annexe/Sortilèges/Niveau 1/Putréfaction.md",
@@ -220,8 +222,6 @@
     "Annexe/Sortilèges/Niveau 1/Frappe du juste.md",
     "Annexe/Sortilèges/Niveau 1/Fou rire.md",
     "Annexe/Sortilèges/Niveau 1/Fléau.md",
-    "Annexe/Sortilèges/Niveau 1/Flamboiement funeste.md",
-    "Annexe/Sortilèges/Niveau 1/Faveur divine.md",
     "Annexe/Sortilèges/Niveau 1",
     "Annexe/Sortilèges/Tours de magie",
     "Annexe/Sortilèges",
