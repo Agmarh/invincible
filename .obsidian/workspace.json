@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "57adb056e5c5e9f6",
+            "id": "6d23da20c73ca6f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Marque du chasseur.md",
+                "file": "Annexe/Sortilèges/Niveau 1/Mains brûlantes.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Marque du chasseur.md",
+                "file": "Annexe/Sortilèges/Niveau 1/Mains brûlantes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Marque du chasseur.md",
+                "file": "Annexe/Sortilèges/Niveau 1/Mains brûlantes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Marque du chasseur.md"
+                "file": "Annexe/Sortilèges/Niveau 1/Mains brûlantes.md"
               }
             }
           }
@@ -194,9 +194,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "57adb056e5c5e9f6",
+  "active": "6d23da20c73ca6f4",
   "lastOpenFiles": [
     "Template/Sort.md",
+    "Annexe/Sortilèges/Niveau 1/Mains brûlantes.md",
     "Annexe/Sortilèges/Niveau 1/Marque du chasseur.md",
     "Annexe/Sortilèges/Niveau 1/Manteau de givre.md",
     "Annexe/Sortilèges/Niveau 1/Lueurs féériques.md",
@@ -221,7 +222,6 @@
     "Annexe/Sortilèges/Niveau 1/Détection du mal et du bien.md",
     "Annexe/Sortilèges/Niveau 1/Détection de la magie.md",
     "Annexe/Sortilèges/Niveau 1/Déguisement.md",
-    "Annexe/Sortilèges/Niveau 1/Création ou destruction d'eau.md",
     "Annexe/Sortilèges/Niveau 1",
     "Annexe/Sortilèges/Tours de magie",
     "Annexe/Sortilèges",
