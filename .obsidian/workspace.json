@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 2/Augure.md",
+                "file": "Annexe/Sortilèges/Niveau 2/Aura magique de l'arcaniste.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 2/Augure.md",
+                "file": "Annexe/Sortilèges/Niveau 2/Aura magique de l'arcaniste.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 2/Augure.md",
+                "file": "Annexe/Sortilèges/Niveau 2/Aura magique de l'arcaniste.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 2/Augure.md"
+                "file": "Annexe/Sortilèges/Niveau 2/Aura magique de l'arcaniste.md"
               }
             }
           }
@@ -190,6 +190,7 @@
   "active": "99d180449987f2ef",
   "lastOpenFiles": [
     "Template/Sort.md",
+    "Annexe/Sortilèges/Niveau 2/Aura magique de l'arcaniste.md",
     "Annexe/Sortilèges/Niveau 2/Augure.md",
     "Annexe/Sortilèges/Niveau 2/Arme spirituelle.md",
     "Annexe/Sortilèges/Niveau 2/Arme magique.md",
@@ -215,7 +216,6 @@
     "Annexe/Sortilèges/Niveau 1/Sanctuaire.md",
     "Annexe/Sortilèges/Niveau 1/Représailles infernales.md",
     "Annexe/Sortilèges/Niveau 1/Repli expéditif.md",
-    "Annexe/Sortilèges/Niveau 1/Putréfaction.md",
     "Annexe/Règles",
     "Annexe/Sortilèges/Niveau 1",
     "Annexe/Sortilèges/Tours de magie",
