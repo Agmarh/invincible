@@ -9,5 +9,5 @@ WHERE niveau = "Tour de magie"
 ```dataview
 TABLE niveau, classe
 FROM "Annexe/Sortilèges"
-WHERE niveau = 1
+WHERE niveau = 1 OR niveau = "1 (rituel)"
 ```

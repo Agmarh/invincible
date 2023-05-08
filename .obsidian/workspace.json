@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Disque flottant.md",
+                "file": "Annexe/Liste sortilège.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Disque flottant.md",
+                "file": "Annexe/Liste sortilège.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Disque flottant.md",
+                "file": "Annexe/Liste sortilège.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Disque flottant.md"
+                "file": "Annexe/Liste sortilège.md"
               }
             }
           }
@@ -196,8 +196,8 @@
   },
   "active": "1f4cf11f917c078d",
   "lastOpenFiles": [
-    "Template/Sort.md",
     "Annexe/Sortilèges/Niveau 1/Disque flottant.md",
+    "Template/Sort.md",
     "Annexe/Sortilèges/Niveau 1/Détection du poison et des maladies.md",
     "Annexe/Sortilèges/Niveau 1/Détection du mal et du bien.md",
     "Annexe/Sortilèges/Niveau 1/Détection de la magie.md",
