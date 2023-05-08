@@ -4,7 +4,7 @@ niveau: Tour de magie
 incantation: 1 action
 distance: 36 mètres
 composantes: V, S, M (un petit bout de fil de cuivre)
-temps: 1 action
+temps: 1 round
 classe: Barde, Ensorceleur/Sorcelame, Magicien, Ombrelame
 ---
 # Transmutation de niveau Tour de magie
@@ -12,7 +12,7 @@ classe: Barde, Ensorceleur/Sorcelame, Magicien, Ombrelame
 **Temps d'incantation :** 1 action
 **Portée :** 36 mètres
 **Composantes :** V, S, M (un petit bout de fil de cuivre)
-**Durée :** 1 action
+**Durée :** 1 round
 **Classe :** Barde, Ensorceleur/Sorcelame, Magicien, Ombrelame
 
 Vous pointez du doigt une créature à portée et murmurez un message. La cible (et elle seule) l'entend et peut répondre dans un murmure que vous êtes le seul à entendre.

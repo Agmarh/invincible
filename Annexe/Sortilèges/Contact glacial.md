@@ -4,7 +4,7 @@ niveau: Tour de magie
 incantation: 1 action
 distance: 36 mètres
 composantes: V, S
-temps: 1 action
+temps: 1 round
 classe: Ensorceleur/Sorcelame, Magicien, Sorcier
 ---
 # Nécromancie de niveau Tour de magie
@@ -12,7 +12,7 @@ classe: Ensorceleur/Sorcelame, Magicien, Sorcier
 **Temps d'incantation :** 1 action
 **Portée :** 36 mètres
 **Composantes :** V, S
-**Durée :** 1 action
+**Durée :** 1 round
 **Classe :** Ensorceleur/Sorcelame, Magicien, Sorcier
 
 Vous faites apparaître une main fantomatique et squelettique sur l'emplacement d'une créature située à portée. Faites un [jet d'attaque](https://5e-drs.fr/combattre/#jets-d-attaque) de sort à distance contre la créature pour la transir de froid. Si l'attaque touche, la victime reçoit 1d8 dégâts nécrotiques et ne peut pas récupérer de point de vie avant le début de votre prochain tour. Jusque-là, la main s'accroche à elle.
