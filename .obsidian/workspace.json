@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "ca041af4d532b124",
+            "id": "1e0de99da6b7af6a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Frappe du juste.md",
+                "file": "Annexe/Sortilèges/Niveau 1/Geyser d'énergie.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Frappe du juste.md",
+                "file": "Annexe/Sortilèges/Niveau 1/Geyser d'énergie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Frappe du juste.md",
+                "file": "Annexe/Sortilèges/Niveau 1/Geyser d'énergie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Frappe du juste.md"
+                "file": "Annexe/Sortilèges/Niveau 1/Geyser d'énergie.md"
               }
             }
           }
@@ -194,9 +194,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ca041af4d532b124",
+  "active": "1e0de99da6b7af6a",
   "lastOpenFiles": [
     "Template/Sort.md",
+    "Annexe/Sortilèges/Niveau 1/Geyser d'énergie.md",
     "Annexe/Sortilèges/Niveau 1/Frappe du juste.md",
     "Annexe/Sortilèges/Niveau 1/Fou rire.md",
     "Annexe/Sortilèges/Niveau 1/Fléau.md",
@@ -221,7 +222,6 @@
     "Annexe/Sortilèges/Niveau 1/Bouclier.md",
     "Annexe/Sortilèges/Niveau 1/Bouclier de la foi.md",
     "Annexe/Sortilèges/Niveau 1/Brûlure du juste.md",
-    "Annexe/Sortilèges/Niveau 1/Blessure.md",
     "Annexe/Sortilèges/Niveau 1",
     "Annexe/Sortilèges/Tours de magie",
     "Annexe/Sortilèges",
