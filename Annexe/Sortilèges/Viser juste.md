@@ -5,7 +5,7 @@ incantation: 1 action
 distance: 9 mètres
 composantes: S
 temps: concentration, jusqu'à 1 round
-classe: 
+classe: Barde, Ensorceleur/Sorcelame, Magicien, Sorcier
 ---
 # Divination, Tour de magie
 

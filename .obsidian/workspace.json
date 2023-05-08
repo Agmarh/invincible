@@ -312,7 +312,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Annexe/Sortilèges/Trait de feu.md",
+                "file": "Annexe/Liste sortilège.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -454,7 +454,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Annexe/Sortilèges/Trait de feu.md",
+                "file": "Annexe/Liste sortilège.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -466,7 +466,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Annexe/Sortilèges/Trait de feu.md",
+                "file": "Annexe/Liste sortilège.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -494,7 +494,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Annexe/Sortilèges/Trait de feu.md"
+                "file": "Annexe/Liste sortilège.md"
               }
             }
           }
@@ -534,6 +534,9 @@
   },
   "active": "8110605345b7990c",
   "lastOpenFiles": [
+    "Annexe/Sortilèges/Trait de feu.md",
+    "Annexe/Sortilèges/Viser juste.md",
+    "Annexe/Liste sortilège.md",
     "Annexe/Sortilèges/Thaumaturgie.md",
     "Annexe/Sortilèges/Résistance.md",
     "Annexe/Sortilèges/Réparation.md",
@@ -557,9 +560,6 @@
     "Annexe/Sortilèges/Contact glacial.md",
     "Annexe/Sortilèges/Bouffée de poison.md",
     "Annexe/Sortilèges/Aura du héros.md",
-    "Annexe/Sortilèges/Assistance.md",
-    "Annexe/Sortilèges/Aspersion acide.md",
-    "Template/Sort.md",
     "Annexe/Sortilèges",
     "Annexe",
     "Oblivion/Joueurs",

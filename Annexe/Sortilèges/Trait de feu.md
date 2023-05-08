@@ -5,9 +5,9 @@ incantation: 1 action
 distance: 36 mètres
 composantes: V, S
 temps: instantanée
-classe: 
+classe: Ensorceleur/Sorcelame, Magicien
 ---
-# Évocation de niveau Tour de magie
+# Évocation, Tour de magie
 
 **Temps d'incantation :** 1 action
 **Portée :** 36 mètres
