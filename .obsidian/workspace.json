@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "ea85f50d17fbfb49",
+            "id": "53e97eec6fbf356a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Représailles infernales.md",
+                "file": "Annexe/Sortilèges/Niveau 1/Sang du démon.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Représailles infernales.md",
+                "file": "Annexe/Sortilèges/Niveau 1/Sang du démon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Représailles infernales.md",
+                "file": "Annexe/Sortilèges/Niveau 1/Sang du démon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Représailles infernales.md"
+                "file": "Annexe/Sortilèges/Niveau 1/Sang du démon.md"
               }
             }
           }
@@ -194,9 +194,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ea85f50d17fbfb49",
+  "active": "53e97eec6fbf356a",
   "lastOpenFiles": [
     "Template/Sort.md",
+    "Annexe/Sortilèges/Niveau 1/Sang du démon.md",
     "Annexe/Sortilèges/Niveau 1/Représailles infernales.md",
     "Annexe/Sortilèges/Niveau 1/Repli expéditif.md",
     "Annexe/Sortilèges/Niveau 1/Poison naturel.md",
@@ -221,7 +222,6 @@
     "Annexe/Sortilèges/Niveau 1/Geyser d'énergie.md",
     "Annexe/Sortilèges/Niveau 1/Frappe du juste.md",
     "Annexe/Sortilèges/Niveau 1/Fou rire.md",
-    "Annexe/Sortilèges/Niveau 1/Fléau.md",
     "Annexe/Sortilèges/Niveau 1",
     "Annexe/Sortilèges/Tours de magie",
     "Annexe/Sortilèges",
