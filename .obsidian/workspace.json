@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Vague tonnante.md",
+                "file": "Oblivion/Objets Magiques/Nocturno.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Vague tonnante.md",
+                "file": "Oblivion/Objets Magiques/Nocturno.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Vague tonnante.md",
+                "file": "Oblivion/Objets Magiques/Nocturno.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Vague tonnante.md"
+                "file": "Oblivion/Objets Magiques/Nocturno.md"
               }
             }
           }
@@ -181,6 +181,8 @@
   },
   "active": "81951751636b4aa6",
   "lastOpenFiles": [
+    "Oblivion/Monstres/Ghûraghasta.md",
+    "Annexe/Sortilèges/Niveau 1/Vague tonnante.md",
     "Annexe/Sortilèges/Niveau 1/Transpercer.md",
     "Annexe/Sortilèges/Niveau 1/Texte illusoire.md",
     "Annexe/Sortilèges/Niveau 1/Strangulation.md",
@@ -205,8 +207,6 @@
     "Annexe/Sortilèges/Niveau 1/Mains brûlantes.md",
     "Annexe/Sortilèges/Niveau 1/Lueurs féériques.md",
     "Annexe/Règles/Invisible.md",
-    "Annexe/Sortilèges/Niveau 1/Léger comme une plume.md",
-    "Annexe/Sortilèges/Niveau 1/Instrument fantomatique.md",
     "Annexe/Règles",
     "Annexe/Sortilèges/Niveau 1",
     "Annexe/Sortilèges/Tours de magie",
