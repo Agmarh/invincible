@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Annexe/Sortilèges/Tours de magie/Explosion occulte.md",
+                "file": "Annexe/Sortilèges/Tours de magie/Poigne électrique.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Annexe/Sortilèges/Tours de magie/Explosion occulte.md",
+                "file": "Annexe/Sortilèges/Tours de magie/Poigne électrique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Annexe/Sortilèges/Tours de magie/Explosion occulte.md",
+                "file": "Annexe/Sortilèges/Tours de magie/Poigne électrique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Annexe/Sortilèges/Tours de magie/Explosion occulte.md"
+                "file": "Annexe/Sortilèges/Tours de magie/Poigne électrique.md"
               }
             }
           }
@@ -182,8 +182,16 @@
   },
   "active": "81951751636b4aa6",
   "lastOpenFiles": [
-    "Annexe/Sortilèges/Tours de magie/Épargner les mourants.md",
+    "Annexe/Sortilèges/Tours de magie/Moquerie cruelle.md",
+    "Annexe/Sortilèges/Tours de magie/Message.md",
+    "Annexe/Sortilèges/Tours de magie/Main du mage.md",
+    "Annexe/Sortilèges/Tours de magie/Lumières dansantes.md",
+    "Annexe/Sortilèges/Tours de magie/Lumière.md",
+    "Annexe/Sortilèges/Tours de magie/Illusion mineure.md",
+    "Annexe/Sortilèges/Tours de magie/Gourdin magique.md",
+    "Annexe/Sortilèges/Tours de magie/Flamme sacrée.md",
     "Annexe/Sortilèges/Tours de magie/Explosion occulte.md",
+    "Annexe/Sortilèges/Tours de magie/Épargner les mourants.md",
     "Annexe/Sortilèges/Tours de magie/Eclat de bois.md",
     "Annexe/Sortilèges/Tours de magie/Druidisme.md",
     "Annexe/Sortilèges/Tours de magie/Contact glacial.md",
@@ -200,14 +208,6 @@
     "Annexe/Sortilèges/Niveau 1/Strangulation.md",
     "Annexe/Sortilèges/Niveau 1/Sommeil.md",
     "Annexe/Sortilèges/Niveau 1/Soin des blessures.md",
-    "Annexe/Sortilèges/Niveau 1/Simulacre de vie.md",
-    "Annexe/Sortilèges/Niveau 1/Serviteur invisible.md",
-    "Annexe/Sortilèges/Niveau 1/Saut.md",
-    "Annexe/Sortilèges/Niveau 1/Sanctuaire.md",
-    "Annexe/Sortilèges/Niveau 1/Sang du démon.md",
-    "Annexe/Sortilèges/Niveau 1/Représailles infernales.md",
-    "Annexe/Sortilèges/Niveau 1/Repli expéditif.md",
-    "Annexe/Sortilèges/Niveau 1/Poison naturel.md",
     "Annexe/Sortilèges/Niveau 1",
     "Annexe/Sortilèges/Tours de magie",
     "Annexe/Sortilèges",
