@@ -15,4 +15,4 @@ classe: Ensorceleur/Sorcelame, Magicien, Sorcier
 **Durée :** concentration, jusqu'à 10 minutes
 **Classe :** Ensorceleur/Sorcelame, Magicien, Sorcier
 
-Ce sort vous permet de vous déplacer à une vitesse incroyable. Vous pouvez utiliser l'action [_se précipiter_](https://5e-drs.fr/combattre/#se-precipiter) quand vous le lancez, puis par une action bonus à chacun de vos tours jusqu'à ce que le sort se termine.
+Ce sort vous permet de vous déplacer à une vitesse incroyable. Vous pouvez utiliser l'action se précipiter quand vous le lancez, puis par une action bonus à chacun de vos tours jusqu'à ce que le sort se termine.

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Projectile magique.md",
+                "file": "Annexe/Sortilèges/Niveau 1/Représailles infernales.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Projectile magique.md",
+                "file": "Annexe/Sortilèges/Niveau 1/Représailles infernales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Projectile magique.md",
+                "file": "Annexe/Sortilèges/Niveau 1/Représailles infernales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Projectile magique.md"
+                "file": "Annexe/Sortilèges/Niveau 1/Représailles infernales.md"
               }
             }
           }
@@ -181,6 +181,11 @@
   },
   "active": "81951751636b4aa6",
   "lastOpenFiles": [
+    "Annexe/Sortilèges/Niveau 1/Repli expéditif.md",
+    "Annexe/Sortilèges/Niveau 1/Putréfaction.md",
+    "Annexe/Sortilèges/Niveau 1/Purification de la nourriture et de l'eau.md",
+    "Annexe/Sortilèges/Niveau 1/Protection contre le mal et le bien.md",
+    "Annexe/Sortilèges/Niveau 1/Projectile magique.md",
     "Annexe/Sortilèges/Niveau 1/Poison naturel.md",
     "Annexe/Sortilèges/Niveau 1/Nappe de brouillard.md",
     "Annexe/Sortilèges/Niveau 1/Mot de guérison.md",
@@ -202,11 +207,6 @@
     "Annexe/Sortilèges/Niveau 1/Frappe du juste.md",
     "Annexe/Règles/Aveuglé.md",
     "Annexe/Règles/Terrorisé.md",
-    "Annexe/Règles/Assourdi.md",
-    "Annexe/Sortilèges/Niveau 1/Fou rire.md",
-    "Annexe/Règles/Neutralisé.md",
-    "Annexe/Sortilèges/Niveau 1/Fléau.md",
-    "Annexe/Sortilèges/Niveau 1/Flamboiement funeste.md",
     "Annexe/Règles",
     "Annexe/Sortilèges/Niveau 1",
     "Annexe/Sortilèges/Tours de magie",
