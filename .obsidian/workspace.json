@@ -52,7 +52,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Annexe/Liste sortilège.md",
+                "file": "Template/Sort.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "26334592c765e113",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Annexe/Sortilèges/Bouffée de poison.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -142,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Annexe/Liste sortilège.md",
+                "file": "Annexe/Sortilèges/Bouffée de poison.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Annexe/Liste sortilège.md",
+                "file": "Annexe/Sortilèges/Bouffée de poison.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Annexe/Liste sortilège.md"
+                "file": "Annexe/Sortilèges/Bouffée de poison.md"
               }
             }
           }
@@ -220,12 +233,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "de1017d90d4d6c2e",
+  "active": "26334592c765e113",
   "lastOpenFiles": [
-    "Annexe/Sortilèges/Assistance.md",
-    "Annexe/Liste sortilège.md",
-    "Annexe/Sortilèges/Aspersion acide.md",
+    "Annexe/Sortilèges/Bouffée de poison.md",
     "Template/Sort.md",
+    "Annexe/Sortilèges/Aspersion acide.md",
+    "Annexe/Liste sortilège.md",
+    "Annexe/Sortilèges/Assistance.md",
     "Annexe/Sortilèges/Aura du héros.md",
     "Oblivion/Monstres/Untitled.md",
     "Oblivion/Monstres/Ghûraghasta.md",
