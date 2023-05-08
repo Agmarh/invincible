@@ -21,38 +21,12 @@
             }
           },
           {
-            "id": "5ab2acb5a73296d5",
+            "id": "ca041af4d532b124",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Flamboiement funeste.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4f466cebd0b25549",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Fléau.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7353efab530176d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Template/Sort.md",
+                "file": "Annexe/Sortilèges/Niveau 1/Frappe du juste.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Template/Sort.md",
+                "file": "Annexe/Sortilèges/Niveau 1/Frappe du juste.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Template/Sort.md",
+                "file": "Annexe/Sortilèges/Niveau 1/Frappe du juste.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Template/Sort.md"
+                "file": "Annexe/Sortilèges/Niveau 1/Frappe du juste.md"
               }
             }
           }
@@ -220,11 +194,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7353efab530176d7",
+  "active": "ca041af4d532b124",
   "lastOpenFiles": [
+    "Template/Sort.md",
+    "Annexe/Sortilèges/Niveau 1/Frappe du juste.md",
     "Annexe/Sortilèges/Niveau 1/Fou rire.md",
     "Annexe/Sortilèges/Niveau 1/Fléau.md",
-    "Template/Sort.md",
     "Annexe/Sortilèges/Niveau 1/Flamboiement funeste.md",
     "Annexe/Sortilèges/Niveau 1/Faveur divine.md",
     "Annexe/Sortilèges/Niveau 1/Enchevêtrement.md",
@@ -247,7 +222,6 @@
     "Annexe/Sortilèges/Niveau 1/Bouclier de la foi.md",
     "Annexe/Sortilèges/Niveau 1/Brûlure du juste.md",
     "Annexe/Sortilèges/Niveau 1/Blessure.md",
-    "Annexe/Sortilèges/Niveau 1/Bénédiction.md",
     "Annexe/Sortilèges/Niveau 1",
     "Annexe/Sortilèges/Tours de magie",
     "Annexe/Sortilèges",
