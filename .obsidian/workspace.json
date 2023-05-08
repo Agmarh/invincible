@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Annexe/Sortilèges/Tours de magie/Aspersion acide.md",
+                "file": "Annexe/Sortilèges/Tours de magie/Explosion occulte.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Annexe/Sortilèges/Tours de magie/Aspersion acide.md",
+                "file": "Annexe/Sortilèges/Tours de magie/Explosion occulte.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Annexe/Sortilèges/Tours de magie/Aspersion acide.md",
+                "file": "Annexe/Sortilèges/Tours de magie/Explosion occulte.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Annexe/Sortilèges/Tours de magie/Aspersion acide.md"
+                "file": "Annexe/Sortilèges/Tours de magie/Explosion occulte.md"
               }
             }
           }
@@ -182,8 +182,16 @@
   },
   "active": "81951751636b4aa6",
   "lastOpenFiles": [
-    "Annexe/Jets de sauvegarde.md",
+    "Annexe/Sortilèges/Tours de magie/Épargner les mourants.md",
+    "Annexe/Sortilèges/Tours de magie/Explosion occulte.md",
+    "Annexe/Sortilèges/Tours de magie/Eclat de bois.md",
+    "Annexe/Sortilèges/Tours de magie/Druidisme.md",
+    "Annexe/Sortilèges/Tours de magie/Contact glacial.md",
+    "Annexe/Sortilèges/Tours de magie/Bouffée de poison.md",
+    "Annexe/Sortilèges/Tours de magie/Aura du héros.md",
+    "Annexe/Sortilèges/Tours de magie/Assistance.md",
     "Annexe/Sortilèges/Tours de magie/Aspersion acide.md",
+    "Annexe/Jets de sauvegarde.md",
     "Annexe/Liste sortilège.md",
     "Annexe/Sortilèges/Niveau 1/Vague tonnante.md",
     "Template/Sort.md",
@@ -200,14 +208,6 @@
     "Annexe/Sortilèges/Niveau 1/Représailles infernales.md",
     "Annexe/Sortilèges/Niveau 1/Repli expéditif.md",
     "Annexe/Sortilèges/Niveau 1/Poison naturel.md",
-    "Annexe/Sortilèges/Niveau 1/Purification de la nourriture et de l'eau.md",
-    "Annexe/Sortilèges/Niveau 1/Putréfaction.md",
-    "Annexe/Sortilèges/Niveau 1/Protection contre le mal et le bien.md",
-    "Annexe/Sortilèges/Niveau 1/Projectile magique.md",
-    "Annexe/Sortilèges/Niveau 1/Nappe de brouillard.md",
-    "Annexe/Sortilèges/Niveau 1/Mot de guérison.md",
-    "Annexe/Sortilèges/Niveau 1/Mains brûlantes.md",
-    "Annexe/Sortilèges/Niveau 1/Marque du chasseur.md",
     "Annexe/Sortilèges/Niveau 1",
     "Annexe/Sortilèges/Tours de magie",
     "Annexe/Sortilèges",
