@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "c9f61d69b5558a51",
+            "id": "3ab649630e8b43a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Saut.md",
+                "file": "Annexe/Sortilèges/Niveau 1/Simulacre de vie.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Saut.md",
+                "file": "Annexe/Sortilèges/Niveau 1/Simulacre de vie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Saut.md",
+                "file": "Annexe/Sortilèges/Niveau 1/Simulacre de vie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Saut.md"
+                "file": "Annexe/Sortilèges/Niveau 1/Simulacre de vie.md"
               }
             }
           }
@@ -194,9 +194,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c9f61d69b5558a51",
+  "active": "3ab649630e8b43a9",
   "lastOpenFiles": [
     "Template/Sort.md",
+    "Annexe/Sortilèges/Niveau 1/Simulacre de vie.md",
+    "Annexe/Sortilèges/Niveau 1/Serviteur invisible.md",
     "Annexe/Sortilèges/Niveau 1/Saut.md",
     "Annexe/Sortilèges/Niveau 1/Sanctuaire.md",
     "Annexe/Sortilèges/Niveau 1/Sang du démon.md",
@@ -220,8 +222,6 @@
     "Annexe/Sortilèges/Niveau 1/Identification.md",
     "Annexe/Sortilèges/Niveau 1/Héroïsme.md",
     "Annexe/Sortilèges/Niveau 1/Graisse.md",
-    "Annexe/Sortilèges/Niveau 1/Grande foulée.md",
-    "Annexe/Sortilèges/Niveau 1/Geyser d'énergie.md",
     "Annexe/Sortilèges/Niveau 1",
     "Annexe/Sortilèges/Tours de magie",
     "Annexe/Sortilèges",
