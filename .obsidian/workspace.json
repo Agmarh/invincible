@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "19186ace92a7bdbd",
+            "id": "5b9fcb1c63796e98",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Héroïsme.md",
+                "file": "Annexe/Sortilèges/Niveau 1/Identification.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Héroïsme.md",
+                "file": "Annexe/Sortilèges/Niveau 1/Identification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Héroïsme.md",
+                "file": "Annexe/Sortilèges/Niveau 1/Identification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Héroïsme.md"
+                "file": "Annexe/Sortilèges/Niveau 1/Identification.md"
               }
             }
           }
@@ -194,9 +194,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "19186ace92a7bdbd",
+  "active": "5b9fcb1c63796e98",
   "lastOpenFiles": [
     "Template/Sort.md",
+    "Annexe/Sortilèges/Niveau 1/Identification.md",
     "Annexe/Sortilèges/Niveau 1/Héroïsme.md",
     "Annexe/Sortilèges/Niveau 1/Graisse.md",
     "Annexe/Sortilèges/Niveau 1/Grande foulée.md",
@@ -221,7 +222,6 @@
     "Annexe/Sortilèges/Niveau 1/Compréhension des langues.md",
     "Annexe/Sortilèges/Niveau 1/Communication avec les animaux.md",
     "Annexe/Sortilèges/Niveau 1/Choc des titans.md",
-    "Annexe/Sortilèges/Niveau 1/Charme-personne.md",
     "Annexe/Sortilèges/Niveau 1",
     "Annexe/Sortilèges/Tours de magie",
     "Annexe/Sortilèges",
