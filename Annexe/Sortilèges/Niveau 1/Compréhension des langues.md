@@ -4,14 +4,17 @@ niveau: 1 (rituel)
 incantation: 1 action
 distance: personnelle
 composantes: V, S, M (une pincée de suie et de sel)
-temps: 
-classe: 
+temps: 1 heure
+classe: Barde, Ensorceleur/Sorcelame, Magicien, Sorcier
 ---
-# <% tp.frontmatter.type %> de niveau <% tp.frontmatter.niveau %>
+# Divination de niveau 1 (rituel)
 
-**Temps d'incantation :** <% tp.frontmatter.incantation %>
-**Portée :** <% tp.frontmatter.distance %>
-**Composantes :** <% tp.frontmatter.composantes %>
-**Durée :** <% tp.frontmatter.temps %>
-**Classe :** <% tp.frontmatter.classe %>
+**Temps d'incantation :** 1 action
+**Portée :** personnelle
+**Composantes :** V, S, M (une pincée de suie et de sel)
+**Durée :** 1 heure
+**Classe :** Barde, Ensorceleur/Sorcelame, Magicien, Sorcier
 
+Pendant toute la durée du sort, vous comprenez le sens littéral de tout langage parlé que vous entendez. Vous comprenez aussi les langues écrites que vous voyez, à condition de toucher la surface sur laquelle les mots ont été tracés. Il vous faut 1 minute pour lire une page de texte.
+
+Ce sort ne décode pas les messages secrets compris dans un texte ni les glyphes qui ne correspondent pas à un langage écrit, comme un symbole magique.
