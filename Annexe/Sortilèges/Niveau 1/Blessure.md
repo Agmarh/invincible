@@ -1,6 +1,6 @@
 ---
-type: 
-niveau: 
+type: Nécromancie
+niveau: 1
 incantation: 
 distance: 
 composantes: 
