@@ -5,7 +5,7 @@ incantation: 1 action
 distance: 27 mètres
 composantes: V, S, M (une petite poire remplie d'air)
 temps: instantanée
-classe: 
+classe: Ensorceleur/Sorcelame
 ---
 # <% tp.frontmatter.type %> de niveau <% tp.frontmatter.niveau %>
 
