@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 2/Sans titre.md",
+                "file": "Annexe/Sortilèges/Niveau 2/Arme magique.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 2/Sans titre.md",
+                "file": "Annexe/Sortilèges/Niveau 2/Arme magique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 2/Sans titre.md",
+                "file": "Annexe/Sortilèges/Niveau 2/Arme magique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 2/Sans titre.md"
+                "file": "Annexe/Sortilèges/Niveau 2/Arme magique.md"
               }
             }
           }
@@ -189,9 +189,9 @@
   },
   "active": "81951751636b4aa6",
   "lastOpenFiles": [
-    "Annexe/Sortilèges/Niveau 2/Apaisement des émotions.md",
-    "Annexe/Sortilèges/Niveau 2/Sans titre.md",
     "Template/Sort.md",
+    "Annexe/Sortilèges/Niveau 2/Arme magique.md",
+    "Annexe/Sortilèges/Niveau 2/Apaisement des émotions.md",
     "Annexe/Sortilèges/Niveau 2/Amélioration de caractéristique.md",
     "Template/PJ.md",
     "Annexe/Sortilèges/Niveau 2/Aide.md",
