@@ -372,6 +372,19 @@
             }
           },
           {
+            "id": "ec0e118c08ee587d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Annexe/Sortilèges/Niveau 1/Baies nourricières.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ddddbe460b661b96",
             "type": "leaf",
             "state": {
@@ -424,7 +437,7 @@
             }
           }
         ],
-        "currentTab": 27
+        "currentTab": 28
       }
     ],
     "direction": "vertical"
@@ -506,7 +519,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Armure du mage.md",
+                "file": "Annexe/Sortilèges/Niveau 1/Baies nourricières.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -518,7 +531,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Armure du mage.md",
+                "file": "Annexe/Sortilèges/Niveau 1/Baies nourricières.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -546,7 +559,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Armure du mage.md"
+                "file": "Annexe/Sortilèges/Niveau 1/Baies nourricières.md"
               }
             }
           }
@@ -584,9 +597,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "efc7fbc9dabff410",
+  "active": "ec0e118c08ee587d",
   "lastOpenFiles": [
     "Template/Sort.md",
+    "Annexe/Sortilèges/Niveau 1/Baies nourricières.md",
     "Annexe/Sortilèges/Niveau 1/Armure du mage.md",
     "Annexe/Sortilèges/Niveau 1/Appel de familier.md",
     "Annexe/Sortilèges/Niveau 1/Alarme.md",
@@ -613,7 +627,6 @@
     "Annexe/Sortilèges/Tours de magie/Illusion mineure.md",
     "Annexe/Sortilèges/Tours de magie/Gourdin magique.md",
     "Annexe/Sortilèges/Tours de magie/Flamme sacrée.md",
-    "Annexe/Sortilèges/Tours de magie/Explosion occulte.md",
     "Annexe/Sortilèges",
     "Annexe",
     "Oblivion/Joueurs",
