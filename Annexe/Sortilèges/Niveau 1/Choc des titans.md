@@ -15,4 +15,4 @@ classe: Paladin
 **Durée :** 1 minute
 **Classe :** Paladin
 
-Vous défiez un adversaire à portée. Tant que vous n'attaquez que cet adversaire, vous bénéficiez d'un [_avantage_](https://5e-drs.fr/utiliser-les-caracteristiques/#avantage-et-desavantage) à votre première attaque à chacun de vos tours.
+Vous défiez un adversaire à portée. Tant que vous n'attaquez que cet adversaire, vous bénéficiez d'un avantage à votre première attaque à chacun de vos tours.

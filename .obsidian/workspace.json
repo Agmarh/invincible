@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Brûlure du juste.md",
+                "file": "Annexe/Sortilèges/Niveau 1/Couleurs dansantes.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Brûlure du juste.md",
+                "file": "Annexe/Sortilèges/Niveau 1/Couleurs dansantes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Brûlure du juste.md",
+                "file": "Annexe/Sortilèges/Niveau 1/Couleurs dansantes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Brûlure du juste.md"
+                "file": "Annexe/Sortilèges/Niveau 1/Couleurs dansantes.md"
               }
             }
           }
@@ -181,6 +181,11 @@
   },
   "active": "81951751636b4aa6",
   "lastOpenFiles": [
+    "Annexe/Sortilèges/Niveau 1/Compréhension des langues.md",
+    "Annexe/Sortilèges/Niveau 1/Communication avec les animaux.md",
+    "Annexe/Sortilèges/Niveau 1/Choc des titans.md",
+    "Annexe/Sortilèges/Niveau 1/Charme-personne.md",
+    "Annexe/Sortilèges/Niveau 1/Brûlure du juste.md",
     "Annexe/Sortilèges/Niveau 1/Bouclier de la foi.md",
     "Annexe/Sortilèges/Niveau 1/Bouclier.md",
     "Annexe/Sortilèges/Niveau 1/Blessure.md",
@@ -203,11 +208,6 @@
     "Annexe/Sortilèges/Tours de magie/Porte-bonheur.md",
     "Annexe/Règles",
     "Annexe/Sortilèges/Tours de magie/Poigne électrique.md",
-    "Annexe/Sortilèges/Tours de magie/Moquerie cruelle.md",
-    "Annexe/Sortilèges/Tours de magie/Message.md",
-    "Annexe/Sortilèges/Tours de magie/Main du mage.md",
-    "Annexe/Sortilèges/Tours de magie/Lumières dansantes.md",
-    "Annexe/Sortilèges/Tours de magie/Lumière.md",
     "Annexe/Sortilèges/Niveau 1",
     "Annexe/Sortilèges/Tours de magie",
     "Annexe/Sortilèges",
