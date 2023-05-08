@@ -424,6 +424,19 @@
             }
           },
           {
+            "id": "180dbd6c8d28859b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Annexe/Sortilèges/Niveau 1/Bouclier de la foi.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ddddbe460b661b96",
             "type": "leaf",
             "state": {
@@ -476,7 +489,7 @@
             }
           }
         ],
-        "currentTab": 31
+        "currentTab": 32
       }
     ],
     "direction": "vertical"
@@ -558,7 +571,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Blessure.md",
+                "file": "Annexe/Sortilèges/Niveau 1/Bouclier de la foi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -570,7 +583,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Blessure.md",
+                "file": "Annexe/Sortilèges/Niveau 1/Bouclier de la foi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -598,7 +611,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Blessure.md"
+                "file": "Annexe/Sortilèges/Niveau 1/Bouclier de la foi.md"
               }
             }
           }
@@ -636,9 +649,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "68f4a5759dffe4ac",
+  "active": "180dbd6c8d28859b",
   "lastOpenFiles": [
     "Template/Sort.md",
+    "Annexe/Sortilèges/Niveau 1/Bouclier de la foi.md",
     "Annexe/Sortilèges/Niveau 1/Blessure.md",
     "Annexe/Sortilèges/Niveau 1/Bénédiction.md",
     "Annexe/Sortilèges/Niveau 1/Balisage.md",
@@ -665,7 +679,6 @@
     "Annexe/Sortilèges/Tours de magie/Message.md",
     "Annexe/Sortilèges/Tours de magie/Main du mage.md",
     "Annexe/Sortilèges/Tours de magie/Lumières dansantes.md",
-    "Annexe/Sortilèges/Tours de magie/Lumière.md",
     "Annexe/Sortilèges",
     "Annexe",
     "Oblivion/Joueurs",
