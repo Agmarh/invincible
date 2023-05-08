@@ -13,54 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Frappe du juste.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1496f4a077c61392",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Annexe/Règles/Terrorisé.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c6b1db8d509d6a2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Annexe/Règles/Aveuglé.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "993c2e9a0f075fe3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Annexe/Règles/Assourdi.md",
+                "file": "Annexe/Sortilèges/Niveau 1/Héroïsme.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Annexe/Règles/Aveuglé.md",
+                "file": "Annexe/Sortilèges/Niveau 1/Héroïsme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -154,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Annexe/Règles/Aveuglé.md",
+                "file": "Annexe/Sortilèges/Niveau 1/Héroïsme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Annexe/Règles/Aveuglé.md"
+                "file": "Annexe/Sortilèges/Niveau 1/Héroïsme.md"
               }
             }
           }
@@ -219,11 +179,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c6b1db8d509d6a2d",
+  "active": "81951751636b4aa6",
   "lastOpenFiles": [
-    "Annexe/Règles/Terrorisé.md",
-    "Annexe/Règles/Aveuglé.md",
+    "Annexe/Sortilèges/Niveau 1/Grande foulée.md",
+    "Annexe/Sortilèges/Niveau 1/Graisse.md",
+    "Annexe/Sortilèges/Niveau 1/Geyser d'énergie.md",
     "Annexe/Sortilèges/Niveau 1/Frappe du juste.md",
+    "Annexe/Règles/Aveuglé.md",
+    "Annexe/Règles/Terrorisé.md",
     "Annexe/Règles/Assourdi.md",
     "Annexe/Sortilèges/Niveau 1/Fou rire.md",
     "Annexe/Règles/Neutralisé.md",
@@ -244,9 +207,6 @@
     "Annexe/Sortilèges/Niveau 1/Choc des titans.md",
     "Annexe/Sortilèges/Niveau 1/Charme-personne.md",
     "Annexe/Sortilèges/Niveau 1/Brûlure du juste.md",
-    "Annexe/Sortilèges/Niveau 1/Bouclier de la foi.md",
-    "Annexe/Sortilèges/Niveau 1/Bouclier.md",
-    "Annexe/Sortilèges/Niveau 1/Blessure.md",
     "Annexe/Règles",
     "Annexe/Sortilèges/Niveau 1",
     "Annexe/Sortilèges/Tours de magie",
