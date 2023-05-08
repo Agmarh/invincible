@@ -2,16 +2,19 @@
 type: Invocation
 niveau: 2
 incantation: 1 action
-distance: 
-composantes: 
-temps: 
-classe: 
+distance: 12 mètres
+composantes: V, S, M (une ficelle)
+temps: 1 heure
+classe: Rôdeur
 ---
-# <% tp.frontmatter.type %> de niveau <% tp.frontmatter.niveau %>
+# Invocation de niveau 2
 
-**Temps d'incantation :** <% tp.frontmatter.incantation %>
-**Portée :** <% tp.frontmatter.distance %>
-**Composantes :** <% tp.frontmatter.composantes %>
-**Durée :** <% tp.frontmatter.temps %>
-**Classe :** <% tp.frontmatter.classe %>
+**Temps d'incantation :** 1 action
+**Portée :** 12 mètres
+**Composantes :** V, S, M (une ficelle)
+**Durée :** 1 heure
+**Classe :** Rôdeur
 
+Vous créez un piège qui s'enroule autour d'un ou plusieurs membres de l'individu ciblé et peut le faire chuter ou le ligoter. Le piège affecte une zone de 3 mètres de rayon autour d'un point que vous désignez à portée. Cette zone doit être placée sur un terrain naturel (pas sur une route ni dans une structure artificielle). La première créature qui traverse la zone piégée doit faire un jet de sauvegarde de Dextérité. En cas de succès, elle est à terre, en cas d'échec elle est de plus [[entravé]]. Une créature à terre termine immédiatement son déplacement et perd l'action en cours. Elle peut se relever normalement avec sa prochaine action. Une créature [[entravé]] peut utiliser son action à chaque tour pour faire un nouveau jet de sauvegarde de Dextérité ou de Force au choix afin de se délivrer. Toutefois, à chaque fois qu'elle lutte pour échapper aux liens, ceux-ci se resserrent et lui infligent 1d6 dégâts tranchants. Tant qu'elle n'essaye pas de se délivrer, elle ne subit pas de dégât.
+
+**À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau 3 ou supérieur, le sort affecte une cible supplémentaire par niveau au-delà du niveau 2.
