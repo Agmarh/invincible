@@ -34,6 +34,19 @@
             }
           },
           {
+            "id": "c6b1db8d509d6a2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Annexe/Règles/Aveuglé.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "993c2e9a0f075fe3",
             "type": "leaf",
             "state": {
@@ -47,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -129,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Annexe/Règles/Terrorisé.md",
+                "file": "Annexe/Règles/Aveuglé.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -141,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Annexe/Règles/Terrorisé.md",
+                "file": "Annexe/Règles/Aveuglé.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Annexe/Règles/Terrorisé.md"
+                "file": "Annexe/Règles/Aveuglé.md"
               }
             }
           }
@@ -206,10 +219,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1496f4a077c61392",
+  "active": "c6b1db8d509d6a2d",
   "lastOpenFiles": [
-    "Annexe/Sortilèges/Niveau 1/Frappe du juste.md",
     "Annexe/Règles/Terrorisé.md",
+    "Annexe/Règles/Aveuglé.md",
+    "Annexe/Sortilèges/Niveau 1/Frappe du juste.md",
     "Annexe/Règles/Assourdi.md",
     "Annexe/Sortilèges/Niveau 1/Fou rire.md",
     "Annexe/Règles/Neutralisé.md",
@@ -233,7 +247,6 @@
     "Annexe/Sortilèges/Niveau 1/Bouclier de la foi.md",
     "Annexe/Sortilèges/Niveau 1/Bouclier.md",
     "Annexe/Sortilèges/Niveau 1/Blessure.md",
-    "Annexe/Sortilèges/Niveau 1/Bénédiction.md",
     "Annexe/Règles",
     "Annexe/Sortilèges/Niveau 1",
     "Annexe/Sortilèges/Tours de magie",

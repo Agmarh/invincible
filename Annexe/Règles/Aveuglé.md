@@ -1,0 +1,2 @@
+-   Une créature aveuglée ne voit plus rien et rate automatiquement tout test de caractéristique qui requiert la vue.
+-   Les jets d'attaque contre la créature bénéficient d'un avantage_](https://5e-drs.fr/utiliser-les-caracteristiques/#avantage-et-desavantage). Les attaques de la créature subissent un [_désavantage_](https://5e-drs.fr/utiliser-les-caracteristiques/#avantage-et-desavantage).
