@@ -26,7 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Annexe/Sortilèges/Contact glacial.md",
+                "file": "Template/Sort.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7498438b5f9dc46e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Annexe/Sortilèges/Druidisme.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -168,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Annexe/Sortilèges/Contact glacial.md",
+                "file": "Annexe/Sortilèges/Druidisme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Annexe/Sortilèges/Contact glacial.md",
+                "file": "Annexe/Sortilèges/Druidisme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Annexe/Sortilèges/Contact glacial.md"
+                "file": "Annexe/Sortilèges/Druidisme.md"
               }
             }
           }
@@ -246,15 +259,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4a061d3cc2456f18",
+  "active": "7498438b5f9dc46e",
   "lastOpenFiles": [
     "Template/Sort.md",
+    "Annexe/Sortilèges/Druidisme.md",
     "Annexe/Sortilèges/Contact glacial.md",
+    "Annexe/Sortilèges/Aura du héros.md",
     "Annexe/Sortilèges/Bouffée de poison.md",
     "Annexe/Sortilèges/Aspersion acide.md",
     "Annexe/Liste sortilège.md",
     "Annexe/Sortilèges/Assistance.md",
-    "Annexe/Sortilèges/Aura du héros.md",
     "Oblivion/Monstres/Untitled.md",
     "Oblivion/Monstres/Ghûraghasta.md",
     "Annexe/Sortilèges/Test.md",
