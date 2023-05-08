@@ -1,17 +1,20 @@
 ---
 type: Évocation
-niveau: 
-incantation: 
-distance: 
-composantes: 
-temps: 
-classe: 
+niveau: Tour de magie
+incantation: 1 action
+distance: 18 mètres
+composantes: V, S
+temps: instantanée
+classe: Clerc
 ---
-# <% tp.frontmatter.type %> de niveau <% tp.frontmatter.niveau %>
+# Évocation de niveau Tour de magie
 
-**Temps d'incantation :** <% tp.frontmatter.incantation %>
-**Portée :** <% tp.frontmatter.distance %>
-**Composantes :** <% tp.frontmatter.composantes %>
-**Durée :** <% tp.frontmatter.temps %>
-**Classe :** <% tp.frontmatter.classe %>
+**Temps d'incantation :** 1 action
+**Portée :** 18 mètres
+**Composantes :** V, S
+**Durée :** instantanée
+**Classe :** Clerc
 
+Une lumière flamboyante s'abat sur une créature située à portée et dans votre champ de vision. La cible doit réussir un [jet de sauvegarde](https://5e-drs.fr/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité ou subir 1d8 dégâts radiants. La cible ne gagne aucun bénéfice d'abri pour ce [jet de sauvegarde](https://5e-drs.fr/utiliser-les-caracteristiques/#jets-de-sauvegarde).
+
+Les dégâts du sort augmentent de 1d8 quand vous atteignez le niveau 5 (2d8), 11 (3d8) et 17 (4d8).
