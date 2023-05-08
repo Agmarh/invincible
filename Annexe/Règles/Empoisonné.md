@@ -1,1 +1,1 @@
-Une créature empoisonnée souffre d'un désavantage lors de ses jets d'attaque et de ses [tests de caractéristique](https://5e-drs.fr/utiliser-les-caracteristiques/#tests-de-caracteristique).
+Une créature empoisonnée souffre d'un désavantage lors de ses jets d'attaque et de ses tests de caractéristique.
