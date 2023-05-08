@@ -177,6 +177,32 @@
             }
           },
           {
+            "id": "9aa290d38dcd35c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Annexe/Sortilèges/Moquerie cruelle.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b275f004f9733a1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Template/Sort.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ddddbe460b661b96",
             "type": "leaf",
             "state": {
@@ -229,7 +255,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -311,7 +337,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Annexe/Sortilèges/Message.md",
+                "file": "Template/Sort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -323,7 +349,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Annexe/Sortilèges/Message.md",
+                "file": "Template/Sort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -351,7 +377,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Annexe/Sortilèges/Message.md"
+                "file": "Template/Sort.md"
               }
             }
           }
@@ -389,12 +415,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "efc7fbc9dabff410",
+  "active": "b275f004f9733a1a",
   "lastOpenFiles": [
+    "Annexe/Sortilèges/Porte-bonheur.md",
+    "Annexe/Sortilèges/Moquerie cruelle.md",
+    "Template/Sort.md",
+    "Annexe/Sortilèges/Message.md",
     "Annexe/Sortilèges/Lumières dansantes.md",
     "Annexe/Sortilèges/Main du mage.md",
-    "Annexe/Sortilèges/Message.md",
-    "Template/Sort.md",
     "Annexe/Sortilèges/Lumière.md",
     "Annexe/Sortilèges/Illusion mineure.md",
     "Annexe/Sortilèges/Gourdin magique.md",
@@ -415,8 +443,6 @@
     "Annexe/Sortilèges/Test.md",
     "Annexe/Sortilèges/Test.md",
     "Template/Objet.md",
-    "Template/Monstre.md",
-    "Oblivion/Objets Magiques/Nocturno.md",
     "Annexe/Sortilèges",
     "Annexe",
     "Oblivion/Joueurs",
