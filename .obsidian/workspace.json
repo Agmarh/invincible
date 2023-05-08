@@ -73,6 +73,32 @@
             }
           },
           {
+            "id": "6a90b14bb7f9b942",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Template/Sort.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9f56c922c75f56c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Annexe/Sortilèges/Flamme sacrée.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ddddbe460b661b96",
             "type": "leaf",
             "state": {
@@ -125,7 +151,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -207,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Annexe/Sortilèges/Épargner les mourants.md",
+                "file": "Annexe/Sortilèges/Flamme sacrée.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +245,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Annexe/Sortilèges/Épargner les mourants.md",
+                "file": "Annexe/Sortilèges/Flamme sacrée.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +273,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Annexe/Sortilèges/Épargner les mourants.md"
+                "file": "Annexe/Sortilèges/Flamme sacrée.md"
               }
             }
           }
@@ -285,11 +311,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c9f8db42980e7ffe",
+  "active": "9f56c922c75f56c7",
   "lastOpenFiles": [
     "Template/Sort.md",
-    "Template/PJ.md",
+    "Annexe/Sortilèges/Flamme sacrée.md",
+    "Annexe/Sortilèges/Explosion occulte.md",
     "Annexe/Sortilèges/Épargner les mourants.md",
+    "Template/PJ.md",
     "Annexe/Sortilèges/Eclat de bois.md",
     "Annexe/Sortilèges/Druidisme.md",
     "Annexe/Sortilèges/Contact glacial.md",
@@ -324,9 +352,7 @@
     "Images/Ghûraghasta.png",
     "Images/Nocturno.png",
     "Oblivion 1 Le sang d'Oblivion.pdf",
-    "Oblivion/PNJ/Test.md",
     "Oblivion 2 Les enfants d'Oblivion.pdf",
-    "Oblivion/PNJ/Untitled.md",
     "Oblivion/PNJ/Sans titre.canvas",
     "Pasted image 20230429195314.png",
     "Pasted image 20230429195329.png",

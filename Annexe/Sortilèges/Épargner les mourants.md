@@ -5,13 +5,14 @@ incantation: 1 action
 distance: contact
 composantes: V, S
 temps: instantanée
-classe: 
+classe: Clerc
 ---
-# <% tp.frontmatter.type %> de niveau <% tp.frontmatter.niveau %>
+# Nécromancie de niveau Tour de magie
 
-**Temps d'incantation :** <% tp.frontmatter.incantation %>
-**Portée :** <% tp.frontmatter.distance %>
-**Composantes :** <% tp.frontmatter.composantes %>
-**Durée :** <% tp.frontmatter.temps %>
-**Classe :** <% tp.frontmatter.classe %>
+**Temps d'incantation :** 1 action
+**Portée :** contact
+**Composantes :** V, S
+**Durée :** instantanée
+**Classe :** Clerc
 
+Vous touchez une créature vivante à 0 point de vie, ce qui la stabilise. Ce sort n'a aucun effet sur les morts-vivants et les créatures artificielles.
