@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "c1797480a236972f",
+            "id": "822f1e9f5325f5d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Sans titre.md",
+                "file": "Annexe/Sortilèges/Niveau 1/Projectile magique.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Sans titre.md",
+                "file": "Annexe/Sortilèges/Niveau 1/Projectile magique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Sans titre.md",
+                "file": "Annexe/Sortilèges/Niveau 1/Projectile magique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Sans titre.md"
+                "file": "Annexe/Sortilèges/Niveau 1/Projectile magique.md"
               }
             }
           }
@@ -194,11 +194,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c1797480a236972f",
+  "active": "822f1e9f5325f5d8",
   "lastOpenFiles": [
-    "Annexe/Sortilèges/Niveau 1/Mot de guérison.md",
-    "Annexe/Sortilèges/Niveau 1/Sans titre.md",
     "Template/Sort.md",
+    "Annexe/Sortilèges/Niveau 1/Projectile magique.md",
+    "Annexe/Sortilèges/Niveau 1/Nappe de brouillard.md",
+    "Annexe/Sortilèges/Niveau 1/Mot de guérison.md",
     "Annexe/Sortilèges/Niveau 1/Mains brûlantes.md",
     "Annexe/Sortilèges/Niveau 1/Marque du chasseur.md",
     "Annexe/Sortilèges/Niveau 1/Manteau de givre.md",
@@ -221,7 +222,6 @@
     "Annexe/Liste sortilège.md",
     "Annexe/Sortilèges/Niveau 1/Disque flottant.md",
     "Annexe/Sortilèges/Niveau 1/Détection du poison et des maladies.md",
-    "Annexe/Sortilèges/Niveau 1/Détection du mal et du bien.md",
     "Annexe/Sortilèges/Niveau 1",
     "Annexe/Sortilèges/Tours de magie",
     "Annexe/Sortilèges",
