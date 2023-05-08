@@ -7,7 +7,7 @@ composantes: V, S, M (deux magnétites)
 temps: instantanée
 classe: Barde, Clerc, Druide, Ensorceleur/Sorcelame, Magicien
 ---
-# Transmutation de niveau Tour de magie
+# Transmutation, Tour de magie
 
 **Temps d'incantation :** 1 minute
 **Portée :** contact

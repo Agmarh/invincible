@@ -7,7 +7,7 @@ composantes: V
 temps: jusqu'à 1 minute
 classe: Clerc
 ---
-# Transmutation de niveau Tour de magie
+# Transmutation, Tour de magie
 
 **Temps d'incantation :** 1 action
 **Portée :** 9 mètres

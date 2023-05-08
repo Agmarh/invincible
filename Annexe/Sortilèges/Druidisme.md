@@ -7,7 +7,7 @@ composantes: V, S
 temps: instantanée
 classe: Druide
 ---
-# Transmutation de niveau Tour de magie
+# Transmutation, Tour de magie
 
 **Temps d'incantation :** 1 action
 **Portée :** 9 mètres

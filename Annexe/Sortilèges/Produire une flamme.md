@@ -7,7 +7,7 @@ composantes: V, S
 temps: 10 minutes
 classe: Druide
 ---
-# Invocation de niveau Tour de magie
+# Invocation, Tour de magie
 
 **Temps d'incantation :** 1 action
 **Portée :** personnelle

@@ -7,7 +7,7 @@ composantes: V, S, M (un petit bout de fil de cuivre)
 temps: 1 round
 classe: Barde, Ensorceleur/Sorcelame, Magicien, Ombrelame
 ---
-# Transmutation de niveau Tour de magie
+# Transmutation, Tour de magie
 
 **Temps d'incantation :** 1 action
 **Portée :** 36 mètres

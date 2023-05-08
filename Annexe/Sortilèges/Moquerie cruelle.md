@@ -7,7 +7,7 @@ composantes: V
 temps: instantanée
 classe: Barde, Ombrelame
 ---
-# Enchantement de niveau Tour de magie
+# Enchantement, Tour de magie
 
 **Temps d'incantation :** 1 action
 **Portée :** 18 mètres

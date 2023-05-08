@@ -7,7 +7,7 @@ composantes: V, S, M (un bout de phosphore ou d'orme, ou un ver luisant)
 temps: concentration, jusqu'à 1 minute
 classe: Barde, Ensorceleur/Sorcelame, Magicien, Ombrelame
 ---
-# Évocation de niveau Tour de magie
+# Évocation, Tour de magie
 
 **Temps d'incantation :** 1 action
 **Portée :** 36 mètres

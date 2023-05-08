@@ -7,7 +7,7 @@ composantes: V, S, M (une écharde de bois)
 temps: instantanée
 classe: Druide
 ---
-# Invocation de niveau Tour de magie
+# Invocation, Tour de magie
 
 **Temps d'incantation :** 1 action
 **Portée :** 18 mètres

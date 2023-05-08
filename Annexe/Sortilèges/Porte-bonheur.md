@@ -7,7 +7,7 @@ composantes: V, S, M (objet porte-bonheur)
 temps: 1 round
 classe: Barde, Ensorceleur/Sorcelame, Magicien, Sorcier
 ---
-# Abjuration de niveau Tour de magie
+# Abjuration, Tour de magie
 
 **Temps d'incantation :** 1 action
 **Portée :** personnel

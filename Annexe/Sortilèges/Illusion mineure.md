@@ -7,7 +7,7 @@ composantes: S, M (un morceau de toison)
 temps: 1 minute
 classe: Barde, Ensorceleur/Sorcelame, Magicien, Ombrelame, Sorcier
 ---
-# Illusion de niveau Tour de magie
+# Illusion, Tour de magie
 
 **Temps d'incantation :** 1 action
 **Portée :** 9 mètres

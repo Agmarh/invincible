@@ -7,7 +7,7 @@ composantes: V, S, M (du gui, une feuille de trèfle et un bâton ou un gourdin)
 temps: 1 minute
 classe: Druide
 ---
-# Transmutation de niveau Tour de magie
+# Transmutation, Tour de magie
 
 **Temps d'incantation :** 1 action bonus
 **Portée :** contact

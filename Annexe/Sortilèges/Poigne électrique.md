@@ -7,7 +7,7 @@ composantes: V, S
 temps: instantanée
 classe: Ensorceleur/Sorcelame, Magicien
 ---
-# Évocation; Tour de magie
+# Évocation, Tour de magie
 
 **Temps d'incantation :** 1 action
 **Portée :** contact

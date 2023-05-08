@@ -7,7 +7,7 @@ composantes: V, M (une luciole ou de la mousse phosphorescente)
 temps: 1 heure
 classe: Barde, Clerc, Ensorceleur/Sorcelame, Magicien, Ombrelame
 ---
-# Évocation de niveau Tour de magie
+# Évocation, Tour de magie
 
 **Temps d'incantation :** 1 action
 **Portée :** contact

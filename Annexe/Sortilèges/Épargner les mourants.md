@@ -7,7 +7,7 @@ composantes: V, S
 temps: instantanée
 classe: Clerc
 ---
-# Nécromancie de niveau Tour de magie
+# Nécromancie, Tour de magie
 
 **Temps d'incantation :** 1 action
 **Portée :** contact

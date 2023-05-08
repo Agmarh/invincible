@@ -7,7 +7,7 @@ composantes: V, S
 temps: jusqu'à 1 heure
 classe: Barde, Ensorceleur/Sorcelame, Magicien, Ombrelame, Sorcier
 ---
-# Transmutation de niveau Tour de magie
+# Transmutation, Tour de magie
 
 **Temps d'incantation :** 1 action
 **Portée :** 3 mètres

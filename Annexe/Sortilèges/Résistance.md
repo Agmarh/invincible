@@ -7,7 +7,7 @@ composantes: V, S, M (une cape miniature)
 temps: concentration, jusqu'à 1 minute
 classe: Clerc, Druide
 ---
-# Abjuration de niveau Tour de magie
+# Abjuration, Tour de magie
 
 **Temps d'incantation :** 1 action
 **Portée :** contact
