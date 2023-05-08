@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Annexe/Sortilèges/Tours de magie/Rayon de givre.md",
+                "file": "Annexe/Sortilèges/Tours de magie/Viser juste.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Annexe/Sortilèges/Tours de magie/Rayon de givre.md",
+                "file": "Annexe/Sortilèges/Tours de magie/Viser juste.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Annexe/Sortilèges/Tours de magie/Rayon de givre.md",
+                "file": "Annexe/Sortilèges/Tours de magie/Viser juste.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Annexe/Sortilèges/Tours de magie/Rayon de givre.md"
+                "file": "Annexe/Sortilèges/Tours de magie/Viser juste.md"
               }
             }
           }
@@ -179,10 +179,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dfba10df3d5d2883",
+  "active": "81951751636b4aa6",
   "lastOpenFiles": [
-    "Annexe/Règles/Empoisonné.md",
+    "Annexe/Sortilèges/Tours de magie/Trait de feu.md",
+    "Annexe/Sortilèges/Tours de magie/Thaumaturgie.md",
+    "Annexe/Sortilèges/Tours de magie/Résistance.md",
+    "Annexe/Sortilèges/Tours de magie/Réparation.md",
     "Annexe/Sortilèges/Tours de magie/Rayon de givre.md",
+    "Annexe/Règles/Empoisonné.md",
     "Annexe/Sortilèges/Tours de magie/Produire une flamme.md",
     "Annexe/Sortilèges/Tours de magie/Prestidigitation.md",
     "Annexe/Sortilèges/Tours de magie/Porte-bonheur.md",
@@ -204,10 +208,6 @@
     "Annexe/Sortilèges/Tours de magie/Bouffée de poison.md",
     "Annexe/Sortilèges/Tours de magie/Aura du héros.md",
     "Annexe/Sortilèges/Tours de magie/Assistance.md",
-    "Annexe/Sortilèges/Tours de magie/Aspersion acide.md",
-    "Annexe/Jets de sauvegarde.md",
-    "Annexe/Liste sortilège.md",
-    "Annexe/Sortilèges/Niveau 1/Vague tonnante.md",
     "Annexe/Sortilèges/Niveau 1",
     "Annexe/Sortilèges/Tours de magie",
     "Annexe/Sortilèges",
