@@ -1,9 +1,9 @@
 ---
-type: 
-niveau: 
-incantation: 
-distance: 
-composantes: 
+type: Transmutation
+niveau: 1
+incantation: 1 réaction, que vous effectuez quand vous-même ou une créature située dans un rayon de 18 mètres tombe soudain
+distance: 18 mètres
+composantes: V, M (une petite plume ou un peu de duvet)
 temps: 
 classe: 
 ---

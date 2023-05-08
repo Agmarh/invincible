@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "c4a23e0c374dfe69",
+            "id": "1c454e1219060f6e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Sans titre.md",
+                "file": "Annexe/Sortilèges/Niveau 1/Léger comme une plume.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Sans titre.md",
+                "file": "Annexe/Sortilèges/Niveau 1/Léger comme une plume.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Sans titre.md",
+                "file": "Annexe/Sortilèges/Niveau 1/Léger comme une plume.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Sans titre.md"
+                "file": "Annexe/Sortilèges/Niveau 1/Léger comme une plume.md"
               }
             }
           }
@@ -194,10 +194,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c4a23e0c374dfe69",
+  "active": "1c454e1219060f6e",
   "lastOpenFiles": [
     "Template/Sort.md",
-    "Annexe/Sortilèges/Niveau 1/Sans titre.md",
+    "Annexe/Sortilèges/Niveau 1/Léger comme une plume.md",
+    "Annexe/Sortilèges/Niveau 1/Injonction.md",
     "Annexe/Sortilèges/Niveau 1/Instrument fantomatique.md",
     "Annexe/Sortilèges/Niveau 1/Image silencieuse.md",
     "Annexe/Sortilèges/Niveau 1/Identification.md",
@@ -221,7 +222,6 @@
     "Annexe/Sortilèges/Tours de magie/Bouffée de poison.md",
     "Annexe/Sortilèges/Tours de magie/Aura du héros.md",
     "Annexe/Sortilèges/Tours de magie/Assistance.md",
-    "Annexe/Sortilèges/Niveau 1/Couleurs dansantes.md",
     "Annexe/Sortilèges/Niveau 1",
     "Annexe/Sortilèges/Tours de magie",
     "Annexe/Sortilèges",
