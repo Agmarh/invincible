@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oblivion/Objets Magiques/Nocturno.md",
+                "file": "Annexe/Sortilèges/Niveau 1/Fou rire.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oblivion/Objets Magiques/Nocturno.md",
+                "file": "Annexe/Sortilèges/Niveau 1/Fou rire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oblivion/Objets Magiques/Nocturno.md",
+                "file": "Annexe/Sortilèges/Niveau 1/Fou rire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oblivion/Objets Magiques/Nocturno.md"
+                "file": "Annexe/Sortilèges/Niveau 1/Fou rire.md"
               }
             }
           }
@@ -181,6 +181,7 @@
   },
   "active": "81951751636b4aa6",
   "lastOpenFiles": [
+    "Oblivion/Objets Magiques/Nocturno.md",
     "Oblivion/Monstres/Ghûraghasta.md",
     "Annexe/Sortilèges/Niveau 1/Vague tonnante.md",
     "Annexe/Sortilèges/Niveau 1/Transpercer.md",
@@ -206,7 +207,6 @@
     "Annexe/Sortilèges/Niveau 1/Manteau de givre.md",
     "Annexe/Sortilèges/Niveau 1/Mains brûlantes.md",
     "Annexe/Sortilèges/Niveau 1/Lueurs féériques.md",
-    "Annexe/Règles/Invisible.md",
     "Annexe/Règles",
     "Annexe/Sortilèges/Niveau 1",
     "Annexe/Sortilèges/Tours de magie",
