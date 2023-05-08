@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Représailles infernales.md",
+                "file": "Annexe/Sortilèges/Niveau 1/Strangulation.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Représailles infernales.md",
+                "file": "Annexe/Sortilèges/Niveau 1/Strangulation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Représailles infernales.md",
+                "file": "Annexe/Sortilèges/Niveau 1/Strangulation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Représailles infernales.md"
+                "file": "Annexe/Sortilèges/Niveau 1/Strangulation.md"
               }
             }
           }
@@ -181,6 +181,14 @@
   },
   "active": "81951751636b4aa6",
   "lastOpenFiles": [
+    "Annexe/Sortilèges/Niveau 1/Sommeil.md",
+    "Annexe/Sortilèges/Niveau 1/Soin des blessures.md",
+    "Annexe/Sortilèges/Niveau 1/Simulacre de vie.md",
+    "Annexe/Sortilèges/Niveau 1/Serviteur invisible.md",
+    "Annexe/Sortilèges/Niveau 1/Saut.md",
+    "Annexe/Sortilèges/Niveau 1/Sang du démon.md",
+    "Annexe/Sortilèges/Niveau 1/Sanctuaire.md",
+    "Annexe/Sortilèges/Niveau 1/Représailles infernales.md",
     "Annexe/Sortilèges/Niveau 1/Repli expéditif.md",
     "Annexe/Sortilèges/Niveau 1/Putréfaction.md",
     "Annexe/Sortilèges/Niveau 1/Purification de la nourriture et de l'eau.md",
@@ -199,14 +207,6 @@
     "Annexe/Règles/Étourdi.md",
     "Annexe/Sortilèges/Niveau 1/Injonction.md",
     "Annexe/Sortilèges/Niveau 1/Image silencieuse.md",
-    "Annexe/Sortilèges/Niveau 1/Identification.md",
-    "Annexe/Sortilèges/Niveau 1/Héroïsme.md",
-    "Annexe/Sortilèges/Niveau 1/Grande foulée.md",
-    "Annexe/Sortilèges/Niveau 1/Graisse.md",
-    "Annexe/Sortilèges/Niveau 1/Geyser d'énergie.md",
-    "Annexe/Sortilèges/Niveau 1/Frappe du juste.md",
-    "Annexe/Règles/Aveuglé.md",
-    "Annexe/Règles/Terrorisé.md",
     "Annexe/Règles",
     "Annexe/Sortilèges/Niveau 1",
     "Annexe/Sortilèges/Tours de magie",
