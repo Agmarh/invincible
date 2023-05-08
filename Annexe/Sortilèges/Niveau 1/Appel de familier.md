@@ -27,4 +27,4 @@ Vous pouvez renvoyer temporairement votre familier en utilisant une action. Il g
 
 Vous ne pouvez avoir qu'un seul familier à la fois. Si vous lancez ce sort alors que vous avez déjà un familier, vous attribuez simplement une nouvelle forme à celui que vous possédez déjà : choisissez une des formes de la liste précédente, que votre familier adopte immédiatement.
 
-Enfin, quand vous lancez un sort avec une portée de « contact », votre familier peut livrer le sort comme si c'était lui qui le lançait. Il doit se trouver à 30 mètres ou moins de vous et utiliser sa réaction pour transmettre le sort au moment où vous le lancez. Si le sort exige un jet d'attaque](https://5e-drs.fr/combattre/#jets-d-attaque), vous utilisez votre propre modificateur d'attaque lors du jet.
+Enfin, quand vous lancez un sort avec une portée de « contact », votre familier peut livrer le sort comme si c'était lui qui le lançait. Il doit se trouver à 30 mètres ou moins de vous et utiliser sa réaction pour transmettre le sort au moment où vous le lancez. Si le sort exige un jet d'attaque, vous utilisez votre propre modificateur d'attaque lors du jet.
