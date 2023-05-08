@@ -494,7 +494,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Communication avec les animaux.md",
+                "file": "Template/Sort.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2af825b42c46de46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Annexe/Sortilèges/Niveau 1/Compréhension des langues.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -554,7 +567,7 @@
             }
           }
         ],
-        "currentTab": 37
+        "currentTab": 38
       }
     ],
     "direction": "vertical"
@@ -636,7 +649,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Communication avec les animaux.md",
+                "file": "Annexe/Sortilèges/Niveau 1/Compréhension des langues.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -648,7 +661,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Communication avec les animaux.md",
+                "file": "Annexe/Sortilèges/Niveau 1/Compréhension des langues.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -676,7 +689,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Communication avec les animaux.md"
+                "file": "Annexe/Sortilèges/Niveau 1/Compréhension des langues.md"
               }
             }
           }
@@ -714,9 +727,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "375d4850706ef51b",
+  "active": "2af825b42c46de46",
   "lastOpenFiles": [
     "Template/Sort.md",
+    "Annexe/Sortilèges/Niveau 1/Compréhension des langues.md",
     "Annexe/Sortilèges/Niveau 1/Communication avec les animaux.md",
     "Annexe/Sortilèges/Niveau 1/Choc des titans.md",
     "Annexe/Sortilèges/Niveau 1/Charme-personne.md",
@@ -743,7 +757,6 @@
     "Annexe/Sortilèges/Tours de magie/Rayon de givre.md",
     "Annexe/Sortilèges/Tours de magie/Produire une flamme.md",
     "Annexe/Sortilèges/Tours de magie/Prestidigitation.md",
-    "Annexe/Sortilèges/Tours de magie/Porte-bonheur.md",
     "Annexe/Sortilèges",
     "Annexe",
     "Oblivion/Joueurs",
