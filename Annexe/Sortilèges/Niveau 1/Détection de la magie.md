@@ -7,11 +7,14 @@ composantes: V, S
 temps: concentration, jusqu'à 10 minutes
 classe: Barde, Clerc, Druide, Ensorceleur/Sorcelame, Magicien, Ombrelame, Paladin, Rôdeur
 ---
-# <% tp.frontmatter.type %> de niveau <% tp.frontmatter.niveau %>
+# Divination de niveau 1 (rituel)
 
-**Temps d'incantation :** <% tp.frontmatter.incantation %>
-**Portée :** <% tp.frontmatter.distance %>
-**Composantes :** <% tp.frontmatter.composantes %>
-**Durée :** <% tp.frontmatter.temps %>
-**Classe :** <% tp.frontmatter.classe %>
+**Temps d'incantation :** 1 action
+**Portée :** personnelle
+**Composantes :** V, S
+**Durée :** concentration, jusqu'à 10 minutes
+**Classe :** Barde, Clerc, Druide, Ensorceleur/Sorcelame, Magicien, Ombrelame, Paladin, Rôdeur
 
+Pendant toute la durée du sort, vous percevez la présence de magie dans un rayon de 9 mètres autour de vous. Si vous percevez ainsi la magie, vous pouvez utiliser votre action pour discerner une faible aura autour d'une créature ou d'un objet visible dans la zone et imprégné de magie. Vous découvrez aussi à quelle école appartient cette magie, le cas échéant.
+
+Le sort ignore la plupart des obstacles, mais il ne peut pas franchir 30 centimètres de pierre, 2,5 centimètres de métal ordinaire, une mince feuille de plomb, ni 1 mètre de bois ou de terre.
