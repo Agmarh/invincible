@@ -255,6 +255,32 @@
             }
           },
           {
+            "id": "600dddebd3418328",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Annexe/Sortilèges/Résistance.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d0f482a8055c7427",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Annexe/Sortilèges/Sans titre.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ddddbe460b661b96",
             "type": "leaf",
             "state": {
@@ -307,7 +333,7 @@
             }
           }
         ],
-        "currentTab": 18
+        "currentTab": 20
       }
     ],
     "direction": "vertical"
@@ -389,7 +415,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Annexe/Sortilèges/Réparation.md",
+                "file": "Annexe/Sortilèges/Sans titre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -401,7 +427,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Annexe/Sortilèges/Réparation.md",
+                "file": "Annexe/Sortilèges/Sans titre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -429,7 +455,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Annexe/Sortilèges/Réparation.md"
+                "file": "Annexe/Sortilèges/Sans titre.md"
               }
             }
           }
@@ -467,11 +493,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8769c4e783a44db4",
+  "active": "d0f482a8055c7427",
   "lastOpenFiles": [
+    "Annexe/Sortilèges/Résistance.md",
+    "Annexe/Sortilèges/Sans titre.md",
+    "Annexe/Liste sortilège.md",
     "Template/Sort.md",
-    "Template/PJ.md",
     "Annexe/Sortilèges/Réparation.md",
+    "Template/PJ.md",
     "Annexe/Sortilèges/Rayon de givre.md",
     "Annexe/Sortilèges/Produire une flamme.md",
     "Annexe/Sortilèges/Prestidigitation.md",
@@ -492,9 +521,6 @@
     "Annexe/Sortilèges/Main du mage.md",
     "Annexe/Sortilèges/Message.md",
     "Annexe/Sortilèges/Moquerie cruelle.md",
-    "Annexe/Sortilèges/Porte-bonheur.md",
-    "Annexe/Liste sortilège.md",
-    "Oblivion/Monstres/Untitled.md",
     "Annexe/Sortilèges",
     "Annexe",
     "Oblivion/Joueurs",
