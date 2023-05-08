@@ -1,17 +1,17 @@
 ---
-type: 
-niveau: 
-incantation: 
-distance: 
-composantes: 
-temps: 
-classe: 
+type: Invocation
+niveau: Tour de magie
+incantation: 1 action
+distance: 3 mètres
+composantes: V, S
+temps: instantanée
+classe: Druide, Ensorceleur/Sorcelame, Magicien, Sorcier
 ---
-# <% tp.frontmatter.type %> de niveau <% tp.frontmatter.niveau %>
+# Invocation de niveau Tour de magie
 
-**Temps d'incantation :** <% tp.frontmatter.incantation %>
-**Portée :** <% tp.frontmatter.distance %>
-**Composantes :** <% tp.frontmatter.composantes %>
-**Durée :** <% tp.frontmatter.temps %>
-**Classe :** <% tp.frontmatter.classe %>
+**Temps d'incantation :** 1 action
+**Portée :** 3 mètres
+**Composantes :** V, S
+**Durée :** instantanée
+**Classe :** Druide, Ensorceleur/Sorcelame, Magicien, Sorcier
 

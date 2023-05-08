@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Template/Sort.md",
+                "file": "Annexe/Sortilèges/Bouffée de poison.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4a061d3cc2456f18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Annexe/Sortilèges/Contact glacial.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -73,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -155,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Annexe/Sortilèges/Bouffée de poison.md",
+                "file": "Annexe/Sortilèges/Contact glacial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Annexe/Sortilèges/Bouffée de poison.md",
+                "file": "Annexe/Sortilèges/Contact glacial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Annexe/Sortilèges/Bouffée de poison.md"
+                "file": "Annexe/Sortilèges/Contact glacial.md"
               }
             }
           }
@@ -233,10 +246,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "26334592c765e113",
+  "active": "4a061d3cc2456f18",
   "lastOpenFiles": [
-    "Annexe/Sortilèges/Bouffée de poison.md",
     "Template/Sort.md",
+    "Annexe/Sortilèges/Contact glacial.md",
+    "Annexe/Sortilèges/Bouffée de poison.md",
     "Annexe/Sortilèges/Aspersion acide.md",
     "Annexe/Liste sortilège.md",
     "Annexe/Sortilèges/Assistance.md",
