@@ -481,7 +481,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Choc des titans.md",
+                "file": "Template/Sort.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "375d4850706ef51b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Annexe/Sortilèges/Niveau 1/Communication avec les animaux.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -541,7 +554,7 @@
             }
           }
         ],
-        "currentTab": 36
+        "currentTab": 37
       }
     ],
     "direction": "vertical"
@@ -623,7 +636,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Choc des titans.md",
+                "file": "Annexe/Sortilèges/Niveau 1/Communication avec les animaux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -635,7 +648,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Choc des titans.md",
+                "file": "Annexe/Sortilèges/Niveau 1/Communication avec les animaux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -663,7 +676,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Choc des titans.md"
+                "file": "Annexe/Sortilèges/Niveau 1/Communication avec les animaux.md"
               }
             }
           }
@@ -701,9 +714,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "706dca712b65de0a",
+  "active": "375d4850706ef51b",
   "lastOpenFiles": [
     "Template/Sort.md",
+    "Annexe/Sortilèges/Niveau 1/Communication avec les animaux.md",
     "Annexe/Sortilèges/Niveau 1/Choc des titans.md",
     "Annexe/Sortilèges/Niveau 1/Charme-personne.md",
     "Annexe/Liste sortilège.md",
@@ -730,7 +744,6 @@
     "Annexe/Sortilèges/Tours de magie/Produire une flamme.md",
     "Annexe/Sortilèges/Tours de magie/Prestidigitation.md",
     "Annexe/Sortilèges/Tours de magie/Porte-bonheur.md",
-    "Annexe/Sortilèges/Tours de magie/Poigne électrique.md",
     "Annexe/Sortilèges",
     "Annexe",
     "Oblivion/Joueurs",
