@@ -312,7 +312,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Annexe/Liste sortilège.md",
+                "file": "Template/Sort.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8463cfc66be14641",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Annexe/Sortilèges/Niveau 1/Amitié avec les animaux.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -372,7 +385,7 @@
             }
           }
         ],
-        "currentTab": 23
+        "currentTab": 24
       }
     ],
     "direction": "vertical"
@@ -454,7 +467,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Annexe/Liste sortilège.md",
+                "file": "Annexe/Sortilèges/Niveau 1/Amitié avec les animaux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -466,7 +479,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Annexe/Liste sortilège.md",
+                "file": "Annexe/Sortilèges/Niveau 1/Amitié avec les animaux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -494,7 +507,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Annexe/Liste sortilège.md"
+                "file": "Annexe/Sortilèges/Niveau 1/Amitié avec les animaux.md"
               }
             }
           }
@@ -532,11 +545,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "efc7fbc9dabff410",
+  "active": "8463cfc66be14641",
   "lastOpenFiles": [
+    "Template/Sort.md",
+    "Annexe/Sortilèges/Niveau 1/Amitié avec les animaux.md",
+    "Annexe/Liste sortilège.md",
     "Annexe/Sortilèges/Niveau 1",
     "Annexe/Sortilèges/Tours de magie/Aspersion acide.md",
-    "Annexe/Liste sortilège.md",
     "Annexe/Sortilèges/Tours de magie",
     "Annexe/Sortilèges/Tours de magie/Trait de feu.md",
     "Annexe/Sortilèges/Tours de magie/Viser juste.md",
@@ -560,7 +575,6 @@
     "Annexe/Sortilèges/Tours de magie/Épargner les mourants.md",
     "Annexe/Sortilèges/Tours de magie/Eclat de bois.md",
     "Annexe/Sortilèges/Tours de magie/Druidisme.md",
-    "Annexe/Sortilèges/Tours de magie/Contact glacial.md",
     "Annexe/Sortilèges",
     "Annexe",
     "Oblivion/Joueurs",
@@ -573,7 +587,6 @@
     "Oblivion/Images",
     "Images/Ghûraghasta.png",
     "Images/Nocturno.png",
-    "Oblivion 1 Le sang d'Oblivion.pdf",
     "Oblivion/PNJ/Sans titre.canvas",
     "Pasted image 20230429195314.png",
     "Pasted image 20230429195329.png",
