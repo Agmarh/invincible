@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Strangulation.md",
+                "file": "Annexe/Sortilèges/Niveau 1/Vague tonnante.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Strangulation.md",
+                "file": "Annexe/Sortilèges/Niveau 1/Vague tonnante.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Strangulation.md",
+                "file": "Annexe/Sortilèges/Niveau 1/Vague tonnante.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Strangulation.md"
+                "file": "Annexe/Sortilèges/Niveau 1/Vague tonnante.md"
               }
             }
           }
@@ -181,6 +181,9 @@
   },
   "active": "81951751636b4aa6",
   "lastOpenFiles": [
+    "Annexe/Sortilèges/Niveau 1/Transpercer.md",
+    "Annexe/Sortilèges/Niveau 1/Texte illusoire.md",
+    "Annexe/Sortilèges/Niveau 1/Strangulation.md",
     "Annexe/Sortilèges/Niveau 1/Sommeil.md",
     "Annexe/Sortilèges/Niveau 1/Soin des blessures.md",
     "Annexe/Sortilèges/Niveau 1/Simulacre de vie.md",
@@ -204,9 +207,6 @@
     "Annexe/Règles/Invisible.md",
     "Annexe/Sortilèges/Niveau 1/Léger comme une plume.md",
     "Annexe/Sortilèges/Niveau 1/Instrument fantomatique.md",
-    "Annexe/Règles/Étourdi.md",
-    "Annexe/Sortilèges/Niveau 1/Injonction.md",
-    "Annexe/Sortilèges/Niveau 1/Image silencieuse.md",
     "Annexe/Règles",
     "Annexe/Sortilèges/Niveau 1",
     "Annexe/Sortilèges/Tours de magie",
