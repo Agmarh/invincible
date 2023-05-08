@@ -112,6 +112,19 @@
             }
           },
           {
+            "id": "f3d7debf429065bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Annexe/Sortilèges/Illusion mineure.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ddddbe460b661b96",
             "type": "leaf",
             "state": {
@@ -164,7 +177,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -246,7 +259,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Annexe/Sortilèges/Gourdin magique.md",
+                "file": "Annexe/Sortilèges/Illusion mineure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +271,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Annexe/Sortilèges/Gourdin magique.md",
+                "file": "Annexe/Sortilèges/Illusion mineure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -286,7 +299,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Annexe/Sortilèges/Gourdin magique.md"
+                "file": "Annexe/Sortilèges/Illusion mineure.md"
               }
             }
           }
@@ -324,10 +337,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7b4a699631d54be2",
+  "active": "f3d7debf429065bf",
   "lastOpenFiles": [
     "Template/Sort.md",
-    "Annexe/Sortilèges/Gourdin magique.md",
+    "Annexe/Sortilèges/Illusion mineure.md",
     "Annexe/Sortilèges/Gourdin magique.md",
     "Annexe/Sortilèges/Flamme sacrée.md",
     "Annexe/Sortilèges/Druidisme.md",
@@ -354,7 +367,6 @@
     "Oblivion/Joueurs/Sans titre.md",
     "Oblivion/Joueurs",
     "Untitled.md",
-    "image.png.md",
     "Oblivion/PDF/Oblivion 1 Le sang d'Oblivion.pdf",
     "Template",
     "Oblivion/PDF/Oblivion 2 Les enfants d'Oblivion.pdf",
