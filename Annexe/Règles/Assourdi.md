@@ -1,1 +1,1 @@
-Une créature [_assourdie_](https://5e-drs.fr/gerer-la-sante-du-personnage/#assourdi) n'entend plus rien et rate automatiquement tous les [tests de caractéristique](https://5e-drs.fr/utiliser-les-caracteristiques/#tests-de-caracteristique) faisant intervenir des capacités auditives
+Une créature assourdie n'entend plus rien et rate automatiquement tous les tests de caractéristique faisant intervenir des capacités auditives

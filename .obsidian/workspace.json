@@ -21,6 +21,19 @@
             }
           },
           {
+            "id": "1496f4a077c61392",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Annexe/Règles/Terrorisé.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "993c2e9a0f075fe3",
             "type": "leaf",
             "state": {
@@ -116,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Annexe/Règles/Assourdi.md",
+                "file": "Annexe/Règles/Terrorisé.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -128,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Annexe/Règles/Assourdi.md",
+                "file": "Annexe/Règles/Terrorisé.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Annexe/Règles/Assourdi.md"
+                "file": "Annexe/Règles/Terrorisé.md"
               }
             }
           }
@@ -193,9 +206,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "993c2e9a0f075fe3",
+  "active": "1496f4a077c61392",
   "lastOpenFiles": [
     "Annexe/Sortilèges/Niveau 1/Frappe du juste.md",
+    "Annexe/Règles/Terrorisé.md",
     "Annexe/Règles/Assourdi.md",
     "Annexe/Sortilèges/Niveau 1/Fou rire.md",
     "Annexe/Règles/Neutralisé.md",
@@ -220,7 +234,6 @@
     "Annexe/Sortilèges/Niveau 1/Bouclier.md",
     "Annexe/Sortilèges/Niveau 1/Blessure.md",
     "Annexe/Sortilèges/Niveau 1/Bénédiction.md",
-    "Annexe/Sortilèges/Niveau 1/Balisage.md",
     "Annexe/Règles",
     "Annexe/Sortilèges/Niveau 1",
     "Annexe/Sortilèges/Tours de magie",
