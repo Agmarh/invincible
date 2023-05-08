@@ -1,0 +1,1 @@
+Une créature neutralisée est incapable d'effectuer une action ou une réaction.

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Fou rire.md",
+                "file": "Annexe/Sortilèges/Niveau 1/Frappe du juste.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,25 +21,12 @@
             }
           },
           {
-            "id": "1b121d29ae98db21",
+            "id": "993c2e9a0f075fe3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Annexe/Règles/Sans titre.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "68f154d5e8c52ef3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Annexe/Règles/Entravé.md",
+                "file": "Annexe/Règles/Assourdi.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -129,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Annexe/Règles/Sans titre.md",
+                "file": "Annexe/Règles/Assourdi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -141,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Annexe/Règles/Sans titre.md",
+                "file": "Annexe/Règles/Assourdi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Annexe/Règles/Sans titre.md"
+                "file": "Annexe/Règles/Assourdi.md"
               }
             }
           }
@@ -206,10 +193,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1b121d29ae98db21",
+  "active": "993c2e9a0f075fe3",
   "lastOpenFiles": [
+    "Annexe/Sortilèges/Niveau 1/Frappe du juste.md",
+    "Annexe/Règles/Assourdi.md",
     "Annexe/Sortilèges/Niveau 1/Fou rire.md",
-    "Annexe/Règles/Sans titre.md",
+    "Annexe/Règles/Neutralisé.md",
     "Annexe/Sortilèges/Niveau 1/Fléau.md",
     "Annexe/Sortilèges/Niveau 1/Flamboiement funeste.md",
     "Annexe/Sortilèges/Niveau 1/Faveur divine.md",
@@ -232,8 +221,6 @@
     "Annexe/Sortilèges/Niveau 1/Blessure.md",
     "Annexe/Sortilèges/Niveau 1/Bénédiction.md",
     "Annexe/Sortilèges/Niveau 1/Balisage.md",
-    "Annexe/Sortilèges/Niveau 1/Baies nourricières.md",
-    "Annexe/Sortilèges/Niveau 1/Armure du mage.md",
     "Annexe/Règles",
     "Annexe/Sortilèges/Niveau 1",
     "Annexe/Sortilèges/Tours de magie",
