@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 2/Aide.md",
+                "file": "Annexe/Sortilèges/Niveau 2/Amélioration de caractéristique.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 2/Aide.md",
+                "file": "Annexe/Sortilèges/Niveau 2/Amélioration de caractéristique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 2/Aide.md",
+                "file": "Annexe/Sortilèges/Niveau 2/Amélioration de caractéristique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 2/Aide.md"
+                "file": "Annexe/Sortilèges/Niveau 2/Amélioration de caractéristique.md"
               }
             }
           }
@@ -190,6 +190,8 @@
   "active": "81951751636b4aa6",
   "lastOpenFiles": [
     "Template/Sort.md",
+    "Template/PJ.md",
+    "Annexe/Sortilèges/Niveau 2/Amélioration de caractéristique.md",
     "Annexe/Sortilèges/Niveau 2/Aide.md",
     "Annexe/Sortilèges/Niveau 2/Agrandir rétrécir.md",
     "Annexe/Sortilèges/Niveau 1/Fou rire.md",
@@ -214,8 +216,6 @@
     "Annexe/Sortilèges/Niveau 1/Protection contre le mal et le bien.md",
     "Annexe/Sortilèges/Niveau 1/Projectile magique.md",
     "Annexe/Sortilèges/Niveau 1/Poison naturel.md",
-    "Annexe/Sortilèges/Niveau 1/Nappe de brouillard.md",
-    "Annexe/Sortilèges/Niveau 1/Mot de guérison.md",
     "Annexe/Règles",
     "Annexe/Sortilèges/Niveau 1",
     "Annexe/Sortilèges/Tours de magie",
