@@ -468,7 +468,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Annexe/Liste sortilège.md",
+                "file": "Template/Sort.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "706dca712b65de0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Annexe/Sortilèges/Niveau 1/Choc des titans.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -528,7 +541,7 @@
             }
           }
         ],
-        "currentTab": 35
+        "currentTab": 36
       }
     ],
     "direction": "vertical"
@@ -610,7 +623,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Annexe/Liste sortilège.md",
+                "file": "Annexe/Sortilèges/Niveau 1/Choc des titans.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -622,7 +635,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Annexe/Liste sortilège.md",
+                "file": "Annexe/Sortilèges/Niveau 1/Choc des titans.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -650,7 +663,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Annexe/Liste sortilège.md"
+                "file": "Annexe/Sortilèges/Niveau 1/Choc des titans.md"
               }
             }
           }
@@ -688,10 +701,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "07f509c288ec5ab8",
+  "active": "706dca712b65de0a",
   "lastOpenFiles": [
-    "Annexe/Sortilèges/Niveau 1/Charme-personne.md",
     "Template/Sort.md",
+    "Annexe/Sortilèges/Niveau 1/Choc des titans.md",
+    "Annexe/Sortilèges/Niveau 1/Charme-personne.md",
+    "Annexe/Liste sortilège.md",
     "Annexe/Sortilèges/Niveau 1/Bouclier.md",
     "Annexe/Sortilèges/Niveau 1/Bouclier de la foi.md",
     "Annexe/Sortilèges/Niveau 1/Brûlure du juste.md",
@@ -703,7 +718,6 @@
     "Annexe/Sortilèges/Niveau 1/Appel de familier.md",
     "Annexe/Sortilèges/Niveau 1/Alarme.md",
     "Annexe/Sortilèges/Niveau 1/Amitié avec les animaux.md",
-    "Annexe/Liste sortilège.md",
     "Annexe/Sortilèges/Niveau 1",
     "Annexe/Sortilèges/Tours de magie/Aspersion acide.md",
     "Annexe/Sortilèges/Tours de magie",
@@ -717,7 +731,6 @@
     "Annexe/Sortilèges/Tours de magie/Prestidigitation.md",
     "Annexe/Sortilèges/Tours de magie/Porte-bonheur.md",
     "Annexe/Sortilèges/Tours de magie/Poigne électrique.md",
-    "Annexe/Sortilèges/Tours de magie/Moquerie cruelle.md",
     "Annexe/Sortilèges",
     "Annexe",
     "Oblivion/Joueurs",
