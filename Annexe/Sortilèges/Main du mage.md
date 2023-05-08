@@ -13,7 +13,7 @@ classe: Barde, Ensorceleur/Sorcelame, Magicien, Ombrelame, Sorcier
 **Portée :** 9 mètres
 **Composantes :** V, S
 **Durée :** 1 minute
-**Classe :** null
+**Classe :** Barde, Ensorceleur/Sorcelame, Magicien, Ombrelame, Sorcier
 
 Une main spectrale flottante apparaît à portée, en un point de votre choix. Elle persiste pendant toute la durée du sort ou jusqu'à ce que vous révoquiez le sort par une action. La main disparaît si elle s'éloigne à plus de 9 mètres de vous ou si vous relancez le sort.
 
