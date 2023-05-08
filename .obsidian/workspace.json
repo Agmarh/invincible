@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "822f1e9f5325f5d8",
+            "id": "656391a2b66296f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Projectile magique.md",
+                "file": "Annexe/Sortilèges/Niveau 1/Protection contre le mal et le bien.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Projectile magique.md",
+                "file": "Annexe/Sortilèges/Niveau 1/Protection contre le mal et le bien.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Projectile magique.md",
+                "file": "Annexe/Sortilèges/Niveau 1/Protection contre le mal et le bien.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Projectile magique.md"
+                "file": "Annexe/Sortilèges/Niveau 1/Protection contre le mal et le bien.md"
               }
             }
           }
@@ -194,9 +194,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "822f1e9f5325f5d8",
+  "active": "656391a2b66296f4",
   "lastOpenFiles": [
     "Template/Sort.md",
+    "Annexe/Sortilèges/Niveau 1/Protection contre le mal et le bien.md",
     "Annexe/Sortilèges/Niveau 1/Projectile magique.md",
     "Annexe/Sortilèges/Niveau 1/Nappe de brouillard.md",
     "Annexe/Sortilèges/Niveau 1/Mot de guérison.md",
@@ -221,7 +222,6 @@
     "Annexe/Sortilèges/Niveau 1/Enchevêtrement.md",
     "Annexe/Liste sortilège.md",
     "Annexe/Sortilèges/Niveau 1/Disque flottant.md",
-    "Annexe/Sortilèges/Niveau 1/Détection du poison et des maladies.md",
     "Annexe/Sortilèges/Niveau 1",
     "Annexe/Sortilèges/Tours de magie",
     "Annexe/Sortilèges",
