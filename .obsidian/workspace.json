@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Couleurs dansantes.md",
+                "file": "Annexe/Sortilèges/Niveau 1/Enchevêtrement.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "68f154d5e8c52ef3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Annexe/Règles/Entravé.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Couleurs dansantes.md",
+                "file": "Annexe/Règles/Entravé.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Couleurs dansantes.md",
+                "file": "Annexe/Règles/Entravé.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Couleurs dansantes.md"
+                "file": "Annexe/Règles/Entravé.md"
               }
             }
           }
@@ -179,8 +193,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "81951751636b4aa6",
+  "active": "68f154d5e8c52ef3",
   "lastOpenFiles": [
+    "Annexe/Sortilèges/Niveau 1/Enchevêtrement.md",
+    "Annexe/Règles/Entravé.md",
+    "Annexe/Sortilèges/Niveau 1/Disque flottant.md",
+    "Annexe/Sortilèges/Niveau 1/Détection du poison et des maladies.md",
+    "Annexe/Sortilèges/Niveau 1/Détection du mal et du bien.md",
+    "Annexe/Sortilèges/Niveau 1/Détection de la magie.md",
+    "Annexe/Sortilèges/Niveau 1/Déguisement.md",
+    "Annexe/Sortilèges/Niveau 1/Création ou destruction d'eau.md",
+    "Annexe/Sortilèges/Niveau 1/Couleurs dansantes.md",
     "Annexe/Sortilèges/Niveau 1/Compréhension des langues.md",
     "Annexe/Sortilèges/Niveau 1/Communication avec les animaux.md",
     "Annexe/Sortilèges/Niveau 1/Choc des titans.md",
@@ -198,16 +221,7 @@
     "Annexe/Sortilèges/Niveau 1/Alarme.md",
     "Annexe/Sortilèges/Tours de magie/Viser juste.md",
     "Annexe/Sortilèges/Tours de magie/Trait de feu.md",
-    "Annexe/Sortilèges/Tours de magie/Thaumaturgie.md",
-    "Annexe/Sortilèges/Tours de magie/Résistance.md",
-    "Annexe/Sortilèges/Tours de magie/Réparation.md",
-    "Annexe/Sortilèges/Tours de magie/Rayon de givre.md",
-    "Annexe/Règles/Empoisonné.md",
-    "Annexe/Sortilèges/Tours de magie/Produire une flamme.md",
-    "Annexe/Sortilèges/Tours de magie/Prestidigitation.md",
-    "Annexe/Sortilèges/Tours de magie/Porte-bonheur.md",
     "Annexe/Règles",
-    "Annexe/Sortilèges/Tours de magie/Poigne électrique.md",
     "Annexe/Sortilèges/Niveau 1",
     "Annexe/Sortilèges/Tours de magie",
     "Annexe/Sortilèges",
