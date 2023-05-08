@@ -1,3 +1,3 @@
--   La vitesse de la créature entravée_](https://5e-drs.fr/gerer-la-sante-du-personnage/#entrave) tombe à 0 et elle ne peut plus bénéficier de ses éventuels bonus de vitesse.
--   Les attaques qui visent la créature bénéficient d'un [_avantage_](https://5e-drs.fr/utiliser-les-caracteristiques/#avantage-et-desavantage), tandis que les attaques de la créature subissent un [_désavantage_](https://5e-drs.fr/utiliser-les-caracteristiques/#avantage-et-desavantage).
--   La créature souffre d'un [_désavantage_](https://5e-drs.fr/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de ses jets de sauvegarde de Dextérité.
+-   La vitesse de la créature entravée tombe à 0 et elle ne peut plus bénéficier de ses éventuels bonus de vitesse.
+-   Les attaques qui visent la créature bénéficient d'un avantage, tandis que les attaques de la créature subissent un désavantage.
+-   La créature souffre d'un désavantage lors de ses jets de sauvegarde de Dextérité.

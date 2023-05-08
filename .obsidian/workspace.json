@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Enchevêtrement.md",
+                "file": "Annexe/Sortilèges/Niveau 1/Flamboiement funeste.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Annexe/Règles/Entravé.md",
+                "file": "Annexe/Sortilèges/Niveau 1/Flamboiement funeste.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -128,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Annexe/Règles/Entravé.md",
+                "file": "Annexe/Sortilèges/Niveau 1/Flamboiement funeste.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Annexe/Règles/Entravé.md"
+                "file": "Annexe/Sortilèges/Niveau 1/Flamboiement funeste.md"
               }
             }
           }
@@ -193,8 +192,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "68f154d5e8c52ef3",
+  "active": "81951751636b4aa6",
   "lastOpenFiles": [
+    "Annexe/Sortilèges/Niveau 1/Faveur divine.md",
     "Annexe/Sortilèges/Niveau 1/Enchevêtrement.md",
     "Annexe/Règles/Entravé.md",
     "Annexe/Sortilèges/Niveau 1/Disque flottant.md",
@@ -220,7 +220,6 @@
     "Annexe/Sortilèges/Niveau 1/Amitié avec les animaux.md",
     "Annexe/Sortilèges/Niveau 1/Alarme.md",
     "Annexe/Sortilèges/Tours de magie/Viser juste.md",
-    "Annexe/Sortilèges/Tours de magie/Trait de feu.md",
     "Annexe/Règles",
     "Annexe/Sortilèges/Niveau 1",
     "Annexe/Sortilèges/Tours de magie",
