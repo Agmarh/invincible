@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "09936fddab734046",
+            "id": "c4a23e0c374dfe69",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Image silencieuse.md",
+                "file": "Annexe/Sortilèges/Niveau 1/Sans titre.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Image silencieuse.md",
+                "file": "Annexe/Sortilèges/Niveau 1/Sans titre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Image silencieuse.md",
+                "file": "Annexe/Sortilèges/Niveau 1/Sans titre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Image silencieuse.md"
+                "file": "Annexe/Sortilèges/Niveau 1/Sans titre.md"
               }
             }
           }
@@ -194,9 +194,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "09936fddab734046",
+  "active": "c4a23e0c374dfe69",
   "lastOpenFiles": [
     "Template/Sort.md",
+    "Annexe/Sortilèges/Niveau 1/Sans titre.md",
+    "Annexe/Sortilèges/Niveau 1/Instrument fantomatique.md",
     "Annexe/Sortilèges/Niveau 1/Image silencieuse.md",
     "Annexe/Sortilèges/Niveau 1/Identification.md",
     "Annexe/Sortilèges/Niveau 1/Héroïsme.md",
@@ -220,8 +222,6 @@
     "Annexe/Sortilèges/Tours de magie/Aura du héros.md",
     "Annexe/Sortilèges/Tours de magie/Assistance.md",
     "Annexe/Sortilèges/Niveau 1/Couleurs dansantes.md",
-    "Annexe/Sortilèges/Niveau 1/Compréhension des langues.md",
-    "Annexe/Sortilèges/Niveau 1/Communication avec les animaux.md",
     "Annexe/Sortilèges/Niveau 1",
     "Annexe/Sortilèges/Tours de magie",
     "Annexe/Sortilèges",
