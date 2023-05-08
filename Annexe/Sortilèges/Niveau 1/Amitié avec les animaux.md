@@ -15,6 +15,6 @@ classe: Barde, Druide, Rôdeur
 **Durée :** 24 heures
 **Classe :** Barde, Druide, Rôdeur
 
-Grâce à ce sort, vous convainquez une bête que vous ne lui voulez aucun mal. Choisissez une bête située dans votre champ de vision et à portée. Elle doit vous voir et vous entendre. Le sort échoue si elle possède une Intelligence de 4 ou plus. Dans le cas contraire, elle doit réussir un [jet de sauvegarde](https://5e-drs.fr/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse ou être [_charmée_](https://5e-drs.fr/gerer-la-sante-du-personnage/#charme) par vous pendant toute la durée du sort. Le sort se termine si vous ou l'un de vos camarades blessez la cible.
+Grâce à ce sort, vous convainquez une bête que vous ne lui voulez aucun mal. Choisissez une bête située dans votre champ de vision et à portée. Elle doit vous voir et vous entendre. Le sort échoue si elle possède une Intelligence de 4 ou plus. Dans le cas contraire, elle doit réussir un jet de sauvegarde de Sagesse ou être charmée par vous pendant toute la durée du sort. Le sort se termine si vous ou l'un de vos camarades blessez la cible.
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau 2 ou supérieur, vous pouvez affecter une bête supplémentaire par niveau au-delà du niveau 1.

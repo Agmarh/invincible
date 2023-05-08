@@ -15,4 +15,4 @@ classe: Barde, Ensorceleur/Sorcelame, Magicien, Sorcier
 **Durée :** concentration, jusqu'à 1 round
 **Classe :** Barde, Ensorceleur/Sorcelame, Magicien, Sorcier
 
-Vous tendez la main et pointez du doigt une cible à portée. Votre magie vous donne un bref aperçu de ses défenses. À votre prochain tour, vous avez l'avantage lors de votre premier [jet d'attaque](https://5e-drs.fr/combattre/#jets-d-attaque) contre elle, à condition que le sort ne se soit pas terminé avant.
+Vous tendez la main et pointez du doigt une cible à portée. Votre magie vous donne un bref aperçu de ses défenses. À votre prochain tour, vous avez l'avantage lors de votre premier jet d'attaque contre elle, à condition que le sort ne se soit pas terminé avant.

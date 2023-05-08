@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Annexe/Sortilèges/Tours de magie/Viser juste.md",
+                "file": "Annexe/Sortilèges/Niveau 1/Appel de familier.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Annexe/Sortilèges/Tours de magie/Viser juste.md",
+                "file": "Annexe/Sortilèges/Niveau 1/Appel de familier.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Annexe/Sortilèges/Tours de magie/Viser juste.md",
+                "file": "Annexe/Sortilèges/Niveau 1/Appel de familier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Annexe/Sortilèges/Tours de magie/Viser juste.md"
+                "file": "Annexe/Sortilèges/Niveau 1/Appel de familier.md"
               }
             }
           }
@@ -181,6 +181,9 @@
   },
   "active": "81951751636b4aa6",
   "lastOpenFiles": [
+    "Annexe/Sortilèges/Niveau 1/Amitié avec les animaux.md",
+    "Annexe/Sortilèges/Niveau 1/Alarme.md",
+    "Annexe/Sortilèges/Tours de magie/Viser juste.md",
     "Annexe/Sortilèges/Tours de magie/Trait de feu.md",
     "Annexe/Sortilèges/Tours de magie/Thaumaturgie.md",
     "Annexe/Sortilèges/Tours de magie/Résistance.md",
@@ -205,9 +208,6 @@
     "Annexe/Sortilèges/Tours de magie/Eclat de bois.md",
     "Annexe/Sortilèges/Tours de magie/Druidisme.md",
     "Annexe/Sortilèges/Tours de magie/Contact glacial.md",
-    "Annexe/Sortilèges/Tours de magie/Bouffée de poison.md",
-    "Annexe/Sortilèges/Tours de magie/Aura du héros.md",
-    "Annexe/Sortilèges/Tours de magie/Assistance.md",
     "Annexe/Sortilèges/Niveau 1",
     "Annexe/Sortilèges/Tours de magie",
     "Annexe/Sortilèges",
