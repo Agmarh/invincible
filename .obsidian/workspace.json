@@ -47,6 +47,32 @@
             }
           },
           {
+            "id": "f857f69c6db79611",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Annexe/Sortilèges/Eclat de bois.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c9f8db42980e7ffe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Annexe/Sortilèges/Épargner les mourants.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ddddbe460b661b96",
             "type": "leaf",
             "state": {
@@ -99,7 +125,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -181,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Annexe/Sortilèges/Druidisme.md",
+                "file": "Annexe/Sortilèges/Épargner les mourants.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +219,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Annexe/Sortilèges/Druidisme.md",
+                "file": "Annexe/Sortilèges/Épargner les mourants.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +247,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Annexe/Sortilèges/Druidisme.md"
+                "file": "Annexe/Sortilèges/Épargner les mourants.md"
               }
             }
           }
@@ -259,9 +285,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7498438b5f9dc46e",
+  "active": "c9f8db42980e7ffe",
   "lastOpenFiles": [
     "Template/Sort.md",
+    "Template/PJ.md",
+    "Annexe/Sortilèges/Épargner les mourants.md",
+    "Annexe/Sortilèges/Eclat de bois.md",
     "Annexe/Sortilèges/Druidisme.md",
     "Annexe/Sortilèges/Contact glacial.md",
     "Annexe/Sortilèges/Aura du héros.md",
@@ -273,7 +302,6 @@
     "Oblivion/Monstres/Ghûraghasta.md",
     "Annexe/Sortilèges/Test.md",
     "Annexe/Sortilèges/Test.md",
-    "Template/PJ.md",
     "Template/Objet.md",
     "Template/Monstre.md",
     "Oblivion/Objets Magiques/Nocturno.md",
@@ -302,8 +330,6 @@
     "Oblivion/PNJ/Sans titre.canvas",
     "Pasted image 20230429195314.png",
     "Pasted image 20230429195329.png",
-    "Pasted image 20230429194912.png",
-    "Oblivion/Oblivion 2 Les enfants d'Oblivion.md",
-    "Oblivion/Test.md"
+    "Pasted image 20230429194912.png"
   ]
 }
