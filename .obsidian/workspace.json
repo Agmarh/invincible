@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "24623b8e7636ca7f",
+            "id": "31bffc23505a6504",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Sans titre.md",
+                "file": "Annexe/Sortilèges/Niveau 1/Texte illusoire.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Sans titre.md",
+                "file": "Annexe/Sortilèges/Niveau 1/Texte illusoire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Sans titre.md",
+                "file": "Annexe/Sortilèges/Niveau 1/Texte illusoire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Sans titre.md"
+                "file": "Annexe/Sortilèges/Niveau 1/Texte illusoire.md"
               }
             }
           }
@@ -194,10 +194,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "24623b8e7636ca7f",
+  "active": "31bffc23505a6504",
   "lastOpenFiles": [
     "Template/Sort.md",
-    "Annexe/Sortilèges/Niveau 1/Sans titre.md",
+    "Annexe/Sortilèges/Niveau 1/Texte illusoire.md",
+    "Annexe/Sortilèges/Niveau 1/Strangulation.md",
     "Annexe/Sortilèges/Niveau 1/Sommeil.md",
     "Annexe/Sortilèges/Niveau 1/Soin des blessures.md",
     "Annexe/Sortilèges/Niveau 1/Simulacre de vie.md",
@@ -221,7 +222,6 @@
     "Annexe/Sortilèges/Niveau 1/Léger comme une plume.md",
     "Annexe/Sortilèges/Niveau 1/Injonction.md",
     "Annexe/Sortilèges/Niveau 1/Instrument fantomatique.md",
-    "Annexe/Sortilèges/Niveau 1/Image silencieuse.md",
     "Annexe/Sortilèges/Niveau 1",
     "Annexe/Sortilèges/Tours de magie",
     "Annexe/Sortilèges",
