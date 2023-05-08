@@ -351,7 +351,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Sans titre.md",
+                "file": "Annexe/Sortilèges/Niveau 1/Appel de familier.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "94338473b054ca77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Annexe/Sortilèges/Niveau 1/Armure du mage.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -411,7 +424,7 @@
             }
           }
         ],
-        "currentTab": 26
+        "currentTab": 27
       }
     ],
     "direction": "vertical"
@@ -493,7 +506,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Sans titre.md",
+                "file": "Annexe/Sortilèges/Niveau 1/Armure du mage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -505,7 +518,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Sans titre.md",
+                "file": "Annexe/Sortilèges/Niveau 1/Armure du mage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -533,7 +546,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Sans titre.md"
+                "file": "Annexe/Sortilèges/Niveau 1/Armure du mage.md"
               }
             }
           }
@@ -571,11 +584,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f1ab51c787a44e1a",
+  "active": "efc7fbc9dabff410",
   "lastOpenFiles": [
-    "Annexe/Sortilèges/Niveau 1/Alarme.md",
-    "Annexe/Sortilèges/Niveau 1/Sans titre.md",
     "Template/Sort.md",
+    "Annexe/Sortilèges/Niveau 1/Armure du mage.md",
+    "Annexe/Sortilèges/Niveau 1/Appel de familier.md",
+    "Annexe/Sortilèges/Niveau 1/Alarme.md",
     "Annexe/Sortilèges/Niveau 1/Amitié avec les animaux.md",
     "Annexe/Liste sortilège.md",
     "Annexe/Sortilèges/Niveau 1",
@@ -600,7 +614,6 @@
     "Annexe/Sortilèges/Tours de magie/Gourdin magique.md",
     "Annexe/Sortilèges/Tours de magie/Flamme sacrée.md",
     "Annexe/Sortilèges/Tours de magie/Explosion occulte.md",
-    "Annexe/Sortilèges/Tours de magie/Épargner les mourants.md",
     "Annexe/Sortilèges",
     "Annexe",
     "Oblivion/Joueurs",
