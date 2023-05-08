@@ -7,7 +7,7 @@ composantes: V, S
 temps: instantanée
 classe: Druide, Ensorceleur/Sorcelame, Magicien, Sorcier
 ---
-# Invocation de niveau Tour de magie
+# Invocation, Tour de magie
 
 **Temps d'incantation :** 1 action
 **Portée :** 3 mètres

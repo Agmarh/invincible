@@ -7,7 +7,7 @@ composantes: V, S
 temps: 1 round
 classe: Ensorceleur/Sorcelame, Magicien, Sorcier
 ---
-# Nécromancie de niveau Tour de magie
+# Nécromancie, Tour de magie
 
 **Temps d'incantation :** 1 action
 **Portée :** 36 mètres

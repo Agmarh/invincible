@@ -7,7 +7,7 @@ composantes: V, S
 temps: concentration, jusqu'à 1 minute
 classe: Clerc, Druide
 ---
-# Divination de niveau Tour de magie
+# Divination, Tour de magie
 
 **Temps d'incantation :** 1 action
 **Portée :** contact

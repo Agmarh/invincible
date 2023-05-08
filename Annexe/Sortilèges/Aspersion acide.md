@@ -7,7 +7,7 @@ composantes: V, S
 temps: instantanée
 classe: Ensorceleur/Sorcelame, Magicien
 ---
-# Invocation de niveau Tour de magie
+# Invocation, Tour de magie
 
 **Temps d'incantation :** 1 action
 **Portée :** 18 mètres
