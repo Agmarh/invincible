@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "3ab649630e8b43a9",
+            "id": "d78424c166c9a388",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Simulacre de vie.md",
+                "file": "Annexe/Sortilèges/Niveau 1/Soin des blessures.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Simulacre de vie.md",
+                "file": "Annexe/Sortilèges/Niveau 1/Soin des blessures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Simulacre de vie.md",
+                "file": "Annexe/Sortilèges/Niveau 1/Soin des blessures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Simulacre de vie.md"
+                "file": "Annexe/Sortilèges/Niveau 1/Soin des blessures.md"
               }
             }
           }
@@ -194,9 +194,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3ab649630e8b43a9",
+  "active": "d78424c166c9a388",
   "lastOpenFiles": [
     "Template/Sort.md",
+    "Annexe/Sortilèges/Niveau 1/Soin des blessures.md",
     "Annexe/Sortilèges/Niveau 1/Simulacre de vie.md",
     "Annexe/Sortilèges/Niveau 1/Serviteur invisible.md",
     "Annexe/Sortilèges/Niveau 1/Saut.md",
@@ -221,7 +222,6 @@
     "Annexe/Sortilèges/Niveau 1/Image silencieuse.md",
     "Annexe/Sortilèges/Niveau 1/Identification.md",
     "Annexe/Sortilèges/Niveau 1/Héroïsme.md",
-    "Annexe/Sortilèges/Niveau 1/Graisse.md",
     "Annexe/Sortilèges/Niveau 1",
     "Annexe/Sortilèges/Tours de magie",
     "Annexe/Sortilèges",
