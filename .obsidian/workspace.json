@@ -130,7 +130,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Annexe/Sortilèges/Lumière.md",
+                "file": "Template/Sort.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cfcf86bd01194d9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Annexe/Sortilèges/Lumières dansantes.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -190,7 +203,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -272,7 +285,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Annexe/Sortilèges/Lumière.md",
+                "file": "Annexe/Sortilèges/Lumières dansantes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -284,7 +297,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Annexe/Sortilèges/Lumière.md",
+                "file": "Annexe/Sortilèges/Lumières dansantes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -312,7 +325,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Annexe/Sortilèges/Lumière.md"
+                "file": "Annexe/Sortilèges/Lumières dansantes.md"
               }
             }
           }
@@ -350,9 +363,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a214cd538c7f72e1",
+  "active": "cfcf86bd01194d9f",
   "lastOpenFiles": [
     "Template/Sort.md",
+    "Annexe/Sortilèges/Lumières dansantes.md",
     "Annexe/Sortilèges/Lumière.md",
     "Annexe/Sortilèges/Illusion mineure.md",
     "Annexe/Sortilèges/Gourdin magique.md",
@@ -380,7 +394,6 @@
     "Annexe",
     "Oblivion/Joueurs/Sans titre.md",
     "Oblivion/Joueurs",
-    "Untitled.md",
     "Oblivion/PDF/Oblivion 1 Le sang d'Oblivion.pdf",
     "Template",
     "Oblivion/PDF/Oblivion 2 Les enfants d'Oblivion.pdf",
