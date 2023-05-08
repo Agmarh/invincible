@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "6d23da20c73ca6f4",
+            "id": "c1797480a236972f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Mains brûlantes.md",
+                "file": "Annexe/Sortilèges/Niveau 1/Sans titre.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Mains brûlantes.md",
+                "file": "Annexe/Sortilèges/Niveau 1/Sans titre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Mains brûlantes.md",
+                "file": "Annexe/Sortilèges/Niveau 1/Sans titre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Mains brûlantes.md"
+                "file": "Annexe/Sortilèges/Niveau 1/Sans titre.md"
               }
             }
           }
@@ -194,8 +194,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6d23da20c73ca6f4",
+  "active": "c1797480a236972f",
   "lastOpenFiles": [
+    "Annexe/Sortilèges/Niveau 1/Mot de guérison.md",
+    "Annexe/Sortilèges/Niveau 1/Sans titre.md",
     "Template/Sort.md",
     "Annexe/Sortilèges/Niveau 1/Mains brûlantes.md",
     "Annexe/Sortilèges/Niveau 1/Marque du chasseur.md",
@@ -220,8 +222,6 @@
     "Annexe/Sortilèges/Niveau 1/Disque flottant.md",
     "Annexe/Sortilèges/Niveau 1/Détection du poison et des maladies.md",
     "Annexe/Sortilèges/Niveau 1/Détection du mal et du bien.md",
-    "Annexe/Sortilèges/Niveau 1/Détection de la magie.md",
-    "Annexe/Sortilèges/Niveau 1/Déguisement.md",
     "Annexe/Sortilèges/Niveau 1",
     "Annexe/Sortilèges/Tours de magie",
     "Annexe/Sortilèges",
