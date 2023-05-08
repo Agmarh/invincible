@@ -4,24 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "52316e1cebc3ae09",
+        "id": "15d08ccd9f3a1877",
         "type": "tabs",
         "children": [
           {
-            "id": "4257161df3ad1956",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Annexe/Sortilèges/Tours de magie/Bouffée de poison.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4a061d3cc2456f18",
+            "id": "bc0bda0ceff93382",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,545 +21,12 @@
             }
           },
           {
-            "id": "7498438b5f9dc46e",
+            "id": "18d05183578a1830",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Annexe/Sortilèges/Tours de magie/Druidisme.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f857f69c6db79611",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Annexe/Sortilèges/Tours de magie/Eclat de bois.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c9f8db42980e7ffe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Annexe/Sortilèges/Tours de magie/Épargner les mourants.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6a90b14bb7f9b942",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Template/Sort.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9f56c922c75f56c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Template/Sort.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7b4a699631d54be2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Annexe/Sortilèges/Tours de magie/Gourdin magique.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f3d7debf429065bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Annexe/Sortilèges/Tours de magie/Illusion mineure.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a214cd538c7f72e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Template/Sort.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cfcf86bd01194d9f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Template/Sort.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e8edde62a397f791",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Annexe/Sortilèges/Tours de magie/Main du mage.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ec6143025c15c964",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Annexe/Sortilèges/Tours de magie/Message.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9aa290d38dcd35c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Annexe/Sortilèges/Tours de magie/Moquerie cruelle.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b275f004f9733a1a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Annexe/Sortilèges/Tours de magie/Porte-bonheur.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7b1272aec8032ef6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Annexe/Sortilèges/Tours de magie/Prestidigitation.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c800524e606fde55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Annexe/Sortilèges/Tours de magie/Produire une flamme.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3a5969ca2a07ae72",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Annexe/Sortilèges/Tours de magie/Rayon de givre.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8769c4e783a44db4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Annexe/Sortilèges/Tours de magie/Réparation.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "600dddebd3418328",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Annexe/Sortilèges/Tours de magie/Résistance.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d0f482a8055c7427",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Template/Sort.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "32312dc320247001",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Annexe/Sortilèges/Tours de magie/Trait de feu.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "abfcf45f3a583c71",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Annexe/Sortilèges/Tours de magie/Viser juste.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8110605345b7990c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Template/Sort.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8463cfc66be14641",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Amitié avec les animaux.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "84239fb77877e0ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Alarme.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f1ab51c787a44e1a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Appel de familier.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "94338473b054ca77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Armure du mage.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ec0e118c08ee587d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Template/Sort.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5e2baa0f6c3d4182",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Template/Sort.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0924c10d118917bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Template/Sort.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "68f4a5759dffe4ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Blessure.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "180dbd6c8d28859b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Bouclier de la foi.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "01078bdd69b2813c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Template/Sort.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7c312e897e7aface",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Bouclier.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "07f509c288ec5ab8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Template/Sort.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "706dca712b65de0a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Template/Sort.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "375d4850706ef51b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Template/Sort.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2af825b42c46de46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Compréhension des langues.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b1655042aaeb0101",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Couleurs dansantes.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ddddbe460b661b96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Annexe/Sortilèges/Tours de magie/Assistance.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "893950857790bc3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Annexe/Sortilèges/Tours de magie/Aura du héros.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "de1017d90d4d6c2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Template/Sort.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "26334592c765e113",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Annexe/Sortilèges/Tours de magie/Bouffée de poison.md",
+                "file": "Annexe/Sortilèges/Niveau 1/Sans titre.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -580,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 39
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -662,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Couleurs dansantes.md",
+                "file": "Annexe/Sortilèges/Niveau 1/Sans titre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -674,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Couleurs dansantes.md",
+                "file": "Annexe/Sortilèges/Niveau 1/Sans titre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -702,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Couleurs dansantes.md"
+                "file": "Annexe/Sortilèges/Niveau 1/Sans titre.md"
               }
             }
           }
@@ -740,9 +194,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b1655042aaeb0101",
+  "active": "18d05183578a1830",
   "lastOpenFiles": [
     "Template/Sort.md",
+    "Annexe/Sortilèges/Niveau 1/Sans titre.md",
+    "Annexe/Sortilèges/Tours de magie/Bouffée de poison.md",
+    "Annexe/Sortilèges/Tours de magie/Aura du héros.md",
+    "Annexe/Sortilèges/Tours de magie/Assistance.md",
     "Annexe/Sortilèges/Niveau 1/Couleurs dansantes.md",
     "Annexe/Sortilèges/Niveau 1/Compréhension des langues.md",
     "Annexe/Sortilèges/Niveau 1/Communication avec les animaux.md",
@@ -766,10 +224,6 @@
     "Annexe/Sortilèges/Tours de magie/Trait de feu.md",
     "Annexe/Sortilèges/Tours de magie/Viser juste.md",
     "Annexe/Sortilèges/Tours de magie/Thaumaturgie.md",
-    "Annexe/Sortilèges/Tours de magie/Résistance.md",
-    "Annexe/Sortilèges/Tours de magie/Réparation.md",
-    "Annexe/Sortilèges/Tours de magie/Rayon de givre.md",
-    "Annexe/Sortilèges/Tours de magie/Produire une flamme.md",
     "Annexe/Sortilèges",
     "Annexe",
     "Oblivion/Joueurs",
