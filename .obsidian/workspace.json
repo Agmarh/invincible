@@ -442,6 +442,19 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Template/Sort.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7c312e897e7aface",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Annexe/Sortilèges/Niveau 1/Bouclier.md",
                 "mode": "source",
                 "backlinks": true,
@@ -502,7 +515,7 @@
             }
           }
         ],
-        "currentTab": 33
+        "currentTab": 34
       }
     ],
     "direction": "vertical"
@@ -662,11 +675,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "01078bdd69b2813c",
+  "active": "7c312e897e7aface",
   "lastOpenFiles": [
+    "Annexe/Sortilèges/Niveau 1/Bouclier de la foi.md",
+    "Annexe/Sortilèges/Niveau 1/Brûlure du juste.md",
     "Template/Sort.md",
     "Annexe/Sortilèges/Niveau 1/Bouclier.md",
-    "Annexe/Sortilèges/Niveau 1/Bouclier de la foi.md",
     "Annexe/Sortilèges/Niveau 1/Blessure.md",
     "Annexe/Sortilèges/Niveau 1/Bénédiction.md",
     "Annexe/Sortilèges/Niveau 1/Balisage.md",
@@ -691,7 +705,6 @@
     "Annexe/Sortilèges/Tours de magie/Poigne électrique.md",
     "Annexe/Sortilèges/Tours de magie/Moquerie cruelle.md",
     "Annexe/Sortilèges/Tours de magie/Message.md",
-    "Annexe/Sortilèges/Tours de magie/Main du mage.md",
     "Annexe/Sortilèges",
     "Annexe",
     "Oblivion/Joueurs",
