@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 2/Rayon ardent.md",
+                "file": "Annexe/Sortilèges/Niveau 2/Restauration inférieure.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 2/Rayon ardent.md",
+                "file": "Annexe/Sortilèges/Niveau 2/Restauration inférieure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 2/Rayon ardent.md",
+                "file": "Annexe/Sortilèges/Niveau 2/Restauration inférieure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 2/Rayon ardent.md"
+                "file": "Annexe/Sortilèges/Niveau 2/Restauration inférieure.md"
               }
             }
           }
@@ -190,6 +190,8 @@
   "active": "6ea2789db2c51d55",
   "lastOpenFiles": [
     "Template/Sort.md",
+    "Annexe/Sortilèges/Niveau 2/Restauration inférieure.md",
+    "Annexe/Sortilèges/Niveau 2/Rayon de lune.md",
     "Annexe/Sortilèges/Niveau 2/Rayon ardent.md",
     "Annexe/Sortilèges/Niveau 2/Rayon affaiblissant.md",
     "Annexe/Sortilèges/Niveau 2/Protection contre le poison.md",
@@ -213,8 +215,6 @@
     "Annexe/Règles/Assourdi.md",
     "Annexe/Sortilèges/Niveau 2/Image miroir.md",
     "Annexe/Sortilèges/Niveau 2/Sans titre 1.md",
-    "Annexe/Sortilèges/Niveau 2/Sans titre 1 1 1 1 1 1 1 1.md",
-    "Annexe/Sortilèges/Niveau 2/Sans titre 1 1 1 1 1 1 1.md",
     "Annexe/Sortilèges/Niveau 5",
     "Annexe/Sortilèges/Niveau 2",
     "Annexe/Règles",
