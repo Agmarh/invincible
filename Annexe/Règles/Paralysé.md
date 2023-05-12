@@ -1,0 +1,4 @@
+-   Une créature [_paralysée_](https://5e-drs.fr/gerer-la-sante-du-personnage/#paralyse) est [_neutralisée_](https://5e-drs.fr/gerer-la-sante-du-personnage/#neutralise) ([voir l'état](https://5e-drs.fr/gerer-la-sante-du-personnage/#neutralise)) et ne peut ni parler ni se déplacer.
+-   La créature rate automatiquement tous ses jets de sauvegarde de Force et de Dextérité.
+-   Les attaques visant la créature bénéficient d'un [_avantage_](https://5e-drs.fr/utiliser-les-caracteristiques/#avantage-et-desavantage).
+-   Toute attaque qui touche la créature est obligatoirement un coup critique si l'assaillant se trouve dans un rayon de 1,50 mètre autour d'elle.
