@@ -21,6 +21,6 @@ Si les toiles ne sont pas ancrées entre deux éléments solides, comme des murs
 
 Chaque créature qui commence son tour dans les toiles ou qui y pénètre lors de son tour doit réussir un jet de sauvegarde de Dextérité, ou être [[entravé]] tant qu'elle reste dans les toiles ou jusqu'à ce qu'elle se libère.
 
-Une créature [[entravé]] par les toiles peut utiliser son action pour effectuer un test de Force contre le DD du jet de sauvegarde de votre sort. Si elle le réussit, elle n'est plus _entravée_](https://5e-drs.fr/gerer-la-sante-du-personnage/#entrave).
+Une créature [[entravé]] par les toiles peut utiliser son action pour effectuer un test de Force contre le DD du jet de sauvegarde de votre sort. Si elle le réussit, elle n'est plus [[entravé]].
 
 Les toiles sont inflammables. Un cube de toiles de 1,50 mètre d'arête exposé au feu brûle en 1 round, infligeant 2d4 dégâts de feu à toute créature qui commence son tour dans les flammes.
