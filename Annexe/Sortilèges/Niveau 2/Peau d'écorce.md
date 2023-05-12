@@ -15,3 +15,4 @@ classe: Druide, Rôdeur
 **Durée :** concentration, jusqu'à 1 heure
 **Classe :** Druide, Rôdeur
 
+Vous touchez une créature consentante. Pendant toute la durée du sort, sa peau prend la consistance et l'apparence de l'écorce, et sa CA ne peut pas descendre au-dessous de 16, quelle que soit l'armure qu'elle porte.
