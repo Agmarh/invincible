@@ -1,7 +1,7 @@
 ---
-type: 
-niveau: 
-incantation: 
+type: Illusion
+niveau: 2
+incantation: 1 action
 distance: 
 composantes: 
 temps: 
