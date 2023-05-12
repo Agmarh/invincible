@@ -1,17 +1,26 @@
 ---
-type: 
-niveau: 
-incantation: 
-distance: 
-composantes: 
-temps: 
-classe: 
+type: Invocation
+niveau: 2
+incantation: 1 action
+distance: 18 mètres
+composantes: V, S, M (un bout de toile d'araignée)
+temps: concentration, jusqu'à 1 heure
+classe: Ensorceleur/Sorcelame, Magicien
 ---
-# <% tp.frontmatter.type %> de niveau <% tp.frontmatter.niveau %>
+# Invocation de niveau 2
 
-**Temps d'incantation :** <% tp.frontmatter.incantation %>
-**Portée :** <% tp.frontmatter.distance %>
-**Composantes :** <% tp.frontmatter.composantes %>
-**Durée :** <% tp.frontmatter.temps %>
-**Classe :** <% tp.frontmatter.classe %>
+**Temps d'incantation :** 1 action
+**Portée :** 18 mètres
+**Composantes :** V, S, M (un bout de toile d'araignée)
+**Durée :** concentration, jusqu'à 1 heure
+**Classe :** Ensorceleur/Sorcelame, Magicien
 
+Vous invoquez une masse de toiles d'araignées épaisses et collantes en un point de votre choix situé à portée. Pendant toute la durée du sort, les toiles occupent un cube de 6 mètres d'arête centré sur le point choisi. Elles forment un terrain difficile à la visibilité réduite.
+
+Si les toiles ne sont pas ancrées entre deux éléments solides, comme des murs ou des arbres, ou disposées en couches sur le sol, le plafond ou un mur, elles s'effondrent sur elles-mêmes et le sort se termine au début de votre prochain tour. Des toiles disposées en couches superposées sur une surface plane s'accumulent sur une épaisseur de 1,50 mètre.
+
+Chaque créature qui commence son tour dans les toiles ou qui y pénètre lors de son tour doit réussir un jet de sauvegarde de Dextérité, ou être [[entravé]] tant qu'elle reste dans les toiles ou jusqu'à ce qu'elle se libère.
+
+Une créature [[entravé]] par les toiles peut utiliser son action pour effectuer un test de Force contre le DD du jet de sauvegarde de votre sort. Si elle le réussit, elle n'est plus _entravée_](https://5e-drs.fr/gerer-la-sante-du-personnage/#entrave).
+
+Les toiles sont inflammables. Un cube de toiles de 1,50 mètre d'arête exposé au feu brûle en 1 round, infligeant 2d4 dégâts de feu à toute créature qui commence son tour dans les flammes.
