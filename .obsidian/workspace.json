@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "92a1d3225b55cfcf",
+        "id": "60ada373a14758a4",
         "type": "tabs",
         "children": [
           {
-            "id": "99d180449987f2ef",
+            "id": "6ea2789db2c51d55",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 2/Verrou magique.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f544019db91bc67c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Annexe/Sortilèges/Niveau 2/Dessiccation.md",
+                "file": "Annexe/Sortilèges/Niveau 2/Détection des pensées.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 2/Dessiccation.md",
+                "file": "Annexe/Sortilèges/Niveau 2/Détection des pensées.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -136,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 2/Dessiccation.md",
+                "file": "Annexe/Sortilèges/Niveau 2/Détection des pensées.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 2/Dessiccation.md"
+                "file": "Annexe/Sortilèges/Niveau 2/Détection des pensées.md"
               }
             }
           }
@@ -201,12 +187,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f544019db91bc67c",
+  "active": "6ea2789db2c51d55",
   "lastOpenFiles": [
     "Template/Sort.md",
+    "Annexe/Sortilèges/Niveau 2/Détection des pensées.md",
+    "Annexe/Sortilèges/Niveau 2/Verrou magique.md",
     "Annexe/Sortilèges/Niveau 2/Dessiccation.md",
     "Annexe/Sortilèges/Niveau 2/Déblocage.md",
-    "Annexe/Sortilèges/Niveau 2/Verrou magique.md",
     "Annexe/Sortilèges/Niveau 2/Croissance d'épines.md",
     "Template/PJ.md",
     "Annexe/Sortilèges/Niveau 2/Corde enchantée.md",
@@ -229,7 +216,6 @@
     "Annexe/Sortilèges/Niveau 2",
     "Oblivion/Objets Magiques/Nocturno.md",
     "Oblivion/Monstres/Ghûraghasta.md",
-    "Annexe/Sortilèges/Niveau 1/Vague tonnante.md",
     "Annexe/Règles",
     "Annexe/Sortilèges/Niveau 1",
     "Annexe/Sortilèges/Tours de magie",
