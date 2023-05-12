@@ -1,11 +1,11 @@
 ---
 type: Transmutation
 niveau: 2
-incantation: 1 action
-distance: personnelle
-composantes: V, S 
-temps: concentration, jusqu'à 1 heure
-classe: Ensorceleur/Sorcelame, Magicien, Ombrelame
+incantation: 
+distance: 
+composantes: 
+temps: 
+classe: 
 ---
 # <% tp.frontmatter.type %> de niveau <% tp.frontmatter.niveau %>
 
