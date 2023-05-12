@@ -15,4 +15,4 @@ classe: Barde, Clerc, Druide, Paladin, Rôdeur
 **Durée :** instantanée
 **Classe :** Barde, Clerc, Druide, Paladin, Rôdeur
 
-Vous touchez une créature et mettez fin à une maladie ou à un état spécial qui l'affectait, parmi [[aveuglé]], assourdi, paralysé ou empoisonné.
+Vous touchez une créature et mettez fin à une maladie ou à un état spécial qui l'affectait, parmi [[aveuglé]], [[assourdi]], [[paralysé]] ou [[empoisonné]].
