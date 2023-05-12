@@ -11,13 +11,8 @@
             "id": "6ea2789db2c51d55",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Annexe/Sortilèges/Niveau 2/Sans titre 1.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 2/Sans titre 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -122,7 +116,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 2/Sans titre 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,9 +142,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Annexe/Sortilèges/Niveau 2/Sans titre 1.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -187,9 +178,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6ea2789db2c51d55",
+  "active": "efc7fbc9dabff410",
   "lastOpenFiles": [
     "Annexe/Sortilèges/Niveau 2/Sans titre.md",
+    "Annexe/Sortilèges/Niveau 2/Sans titre 1 1 1 1 1 1 1 1.md",
+    "Annexe/Sortilèges/Niveau 2/Sans titre 1 1 1 1 1 1 1.md",
+    "Annexe/Sortilèges/Niveau 2/Sans titre 1 1 1 1 1 1.md",
+    "Annexe/Sortilèges/Niveau 2/Sans titre 1 1 1 1 1.md",
+    "Annexe/Sortilèges/Niveau 2/Sans titre 1 1 1 1.md",
+    "Annexe/Sortilèges/Niveau 2/Sans titre 1 1 1.md",
+    "Annexe/Sortilèges/Niveau 2/Sans titre 1 1.md",
     "Annexe/Sortilèges/Niveau 2/Sans titre 1.md",
     "Template/Sort.md",
     "Annexe/Sortilèges/Niveau 2/Frappe lumineuse.md",
@@ -209,13 +207,6 @@
     "Annexe/Sortilèges/Niveau 2/Corde enchantée.md",
     "Annexe/Sortilèges/Niveau 2/Compagnon animal.md",
     "Annexe/Sortilèges/Niveau 2/Collet magique.md",
-    "Annexe/Sortilèges/Niveau 2/Chauffer le métal.md",
-    "Annexe/Sortilèges/Niveau 2/Cécité Surdité.md",
-    "Annexe/Sortilèges/Niveau 2/Briser.md",
-    "Annexe/Sortilèges/Niveau 2/Bourrasque.md",
-    "Annexe/Sortilèges/Niveau 2/Bouche magique.md",
-    "Annexe/Sortilèges/Niveau 2/Aura magique de l'arcaniste.md",
-    "Annexe/Sortilèges/Niveau 2/Augure.md",
     "Annexe/Sortilèges/Niveau 2",
     "Annexe/Règles",
     "Annexe/Sortilèges/Niveau 1",
