@@ -1,0 +1,20 @@
+---
+type: Évocation
+niveau: 2
+incantation: 1 action
+distance: 36 mètres
+composantes: V, S
+temps: instantanée
+classe: Ensorceleur/Sorcelame, Magicien
+---
+# Évocation de niveau 2
+
+**Temps d'incantation :** 1 action
+**Portée :** 36 mètres
+**Composantes :** V, S
+**Durée :** instantanée
+**Classe :** Ensorceleur/Sorcelame, Magicien
+
+Vous créez trois rayons de feu et les projetez sur des cibles à portée. Vous pouvez les diriger contre une même cible ou contre des cibles différentes. Faites une attaque de sort à distance pour chaque rayon. Si vous touchez, la cible reçoit 2d6 dégâts.
+
+**À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau 3 ou supérieur, vous créez un rayon de plus par niveau au-delà du niveau 2.
