@@ -11,8 +11,13 @@
             "id": "6ea2789db2c51d55",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Annexe/Sortilèges/Niveau 2/Immobiliser un humanoïde.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Annexe/Sortilèges/Niveau 2/Immobiliser un humanoïde.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -116,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Annexe/Sortilèges/Niveau 2/Immobiliser un humanoïde.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Annexe/Sortilèges/Niveau 2/Immobiliser un humanoïde.md"
+              }
             }
           }
         ],
@@ -178,9 +187,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "efc7fbc9dabff410",
+  "active": "6ea2789db2c51d55",
   "lastOpenFiles": [
-    "Annexe/Sortilèges/Niveau 2/Sans titre.md",
+    "Template/Sort.md",
+    "Annexe/Sortilèges/Niveau 2/Immobiliser un humanoïde.md",
+    "Annexe/Sortilèges/Niveau 2/Image miroir.md",
+    "Annexe/Sortilèges/Niveau 2/Sans titre 1.md",
     "Annexe/Sortilèges/Niveau 2/Sans titre 1 1 1 1 1 1 1 1.md",
     "Annexe/Sortilèges/Niveau 2/Sans titre 1 1 1 1 1 1 1.md",
     "Annexe/Sortilèges/Niveau 2/Sans titre 1 1 1 1 1 1.md",
@@ -188,8 +200,6 @@
     "Annexe/Sortilèges/Niveau 2/Sans titre 1 1 1 1.md",
     "Annexe/Sortilèges/Niveau 2/Sans titre 1 1 1.md",
     "Annexe/Sortilèges/Niveau 2/Sans titre 1 1.md",
-    "Annexe/Sortilèges/Niveau 2/Sans titre 1.md",
-    "Template/Sort.md",
     "Annexe/Sortilèges/Niveau 2/Frappe lumineuse.md",
     "Annexe/Sortilèges/Niveau 2/Flou.md",
     "Annexe/Sortilèges/Niveau 2/Flèche acide.md",
@@ -206,7 +216,6 @@
     "Template/PJ.md",
     "Annexe/Sortilèges/Niveau 2/Corde enchantée.md",
     "Annexe/Sortilèges/Niveau 2/Compagnon animal.md",
-    "Annexe/Sortilèges/Niveau 2/Collet magique.md",
     "Annexe/Sortilèges/Niveau 2",
     "Annexe/Règles",
     "Annexe/Sortilèges/Niveau 1",
