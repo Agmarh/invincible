@@ -7,11 +7,12 @@ composantes: V, S, M (une pincée de carotte séchée ou une agate)
 temps: 8 heures
 classe: Druide, Ensorceleur/Sorcelame, Magicien, Ombrelame, Rôdeur
 ---
-# <% tp.frontmatter.type %> de niveau <% tp.frontmatter.niveau %>
+# Transmutation de niveau 2
 
-**Temps d'incantation :** <% tp.frontmatter.incantation %>
-**Portée :** <% tp.frontmatter.distance %>
-**Composantes :** <% tp.frontmatter.composantes %>
-**Durée :** <% tp.frontmatter.temps %>
-**Classe :** <% tp.frontmatter.classe %>
+**Temps d'incantation :** 1 action
+**Portée :** contact
+**Composantes :** V, S, M (une pincée de carotte séchée ou une agate)
+**Durée :** 8 heures
+**Classe :** Druide, Ensorceleur/Sorcelame, Magicien, Ombrelame, Rôdeur
 
+Vous touchez une créature consentante pour lui permettre de voir dans le noir. Pendant toute la durée du sort, elle bénéficie de la vision dans le noir à une distance de 18 mètres.

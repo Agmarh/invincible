@@ -1,6 +1,6 @@
 ---
-type: 
-niveau: 
+type: Enchantement
+niveau: 2
 incantation: 
 distance: 
 composantes: 

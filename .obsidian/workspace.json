@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 2/Vision dans le noir.md",
+                "file": "Annexe/Sortilèges/Niveau 2/Zone de vérité.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 2/Vision dans le noir.md",
+                "file": "Annexe/Sortilèges/Niveau 2/Zone de vérité.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 2/Vision dans le noir.md",
+                "file": "Annexe/Sortilèges/Niveau 2/Zone de vérité.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 2/Vision dans le noir.md"
+                "file": "Annexe/Sortilèges/Niveau 2/Zone de vérité.md"
               }
             }
           }
@@ -189,12 +189,12 @@
   },
   "active": "6ea2789db2c51d55",
   "lastOpenFiles": [
+    "Annexe/Sortilèges/Niveau 2/Voir l'invisible.md",
+    "Annexe/Sortilèges/Niveau 2/Vision dans le noir.md",
     "Annexe/Sortilèges/Niveau 2/Trouver une monture.md",
     "Annexe/Sortilèges/Niveau 2/Trouver les pièges.md",
     "Annexe/Sortilèges/Niveau 2/Toile d'araignée.md",
     "Annexe/Sortilèges/Niveau 2/Zone de vérité.md",
-    "Annexe/Sortilèges/Niveau 2/Voir l'invisible.md",
-    "Annexe/Sortilèges/Niveau 2/Vision dans le noir.md",
     "Annexe/Sortilèges/Niveau 2/Verrou magique.md",
     "Template/Sort.md",
     "Annexe/Sortilèges/Niveau 2/Ténèbres.md",
