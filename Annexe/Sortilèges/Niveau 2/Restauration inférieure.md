@@ -1,17 +1,18 @@
 ---
-type: 
-niveau: 
-incantation: 
-distance: 
-composantes: 
-temps: 
-classe: 
+type: Abjuration
+niveau: 2
+incantation: 1 action
+distance: contact
+composantes: V, S
+temps: instantanée
+classe: Barde, Clerc, Druide, Paladin, Rôdeur
 ---
-# <% tp.frontmatter.type %> de niveau <% tp.frontmatter.niveau %>
+# Abjuration de niveau 2
 
-**Temps d'incantation :** <% tp.frontmatter.incantation %>
-**Portée :** <% tp.frontmatter.distance %>
-**Composantes :** <% tp.frontmatter.composantes %>
-**Durée :** <% tp.frontmatter.temps %>
-**Classe :** <% tp.frontmatter.classe %>
+**Temps d'incantation :** 1 action
+**Portée :** contact
+**Composantes :** V, S
+**Durée :** instantanée
+**Classe :** Barde, Clerc, Druide, Paladin, Rôdeur
 
+Vous touchez une créature et mettez fin à une maladie ou à un état spécial qui l'affectait, parmi [[aveuglé]], assourdi, paralysé ou empoisonné.
