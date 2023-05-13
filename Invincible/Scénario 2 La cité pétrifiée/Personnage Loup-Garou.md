@@ -10,7 +10,7 @@ La transformation dure jusqu'à ce qu'il tombe à 0 PV où jusqu'à ce que tous 
 
 Afin de maîtriser sa lycanthropie, un personnage peut faire l'acquisition des dons présentés ci-dessous, dans l'ordre de son choix, en remplacement d'un don ordinaire.
 
-Résister à la lycanthropie
+# Résister à la lycanthropie
 
 Vous êtes devenu capable de lutter contre vos crises de lycanthropie.
 
@@ -19,7 +19,7 @@ Vous êtes devenu capable de lutter contre vos crises de lycanthropie.
 -   Vous vous rappelez ce qui s'est passé durant vos crises de lycanthropie involontaires (le MJ vous en fait un compte rendu succinct).
 -   Lors d'une crise de lycanthropie, si vous vous apprêtez à commettre le meurtre d'un allié ou d'un innocent, vous pouvez faire un jet de sauvegarde de Sagesse pour que votre nature humaine reprenne le dessus et vous permette de vous enfuir avant de passer à l'acte. Vous reprenez forme humaine 1d6 minutes plus tard. Le DD du jet de sauvegarde dépend de votre alignement : bon 10, neutre 15, mauvais 20, loyal : avantage au jet de sauvegarde.
 
-Maîtriser la lycanthropie
+# Maîtriser la lycanthropie
 
 Vous êtes capable de vous transformer volontairement en loup-garou et vous gardez le contrôle de vos actions durant vos transformations volontaires. En utilisant votre action, vous pouvez prendre une forme hybride ou une forme de loup. Vous devez terminer un repos court avant de pouvoir de nouveau prendre une forme alternative.
 
