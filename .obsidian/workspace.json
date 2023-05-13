@@ -24,9 +24,12 @@
             "id": "724638d62bb13004",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.2.8"
+                "file": "Invincible/Scénario 2 La cité pétrifiée/Personnage Loup-Garou.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -121,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oblivion/Monstres/Ghûraghasta.md",
+                "file": "Invincible/Scénario 2 La cité pétrifiée/Personnage Loup-Garou.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oblivion/Monstres/Ghûraghasta.md",
+                "file": "Invincible/Scénario 2 La cité pétrifiée/Personnage Loup-Garou.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oblivion/Monstres/Ghûraghasta.md"
+                "file": "Invincible/Scénario 2 La cité pétrifiée/Personnage Loup-Garou.md"
               }
             }
           }
@@ -198,8 +201,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "efc7fbc9dabff410",
+  "active": "724638d62bb13004",
   "lastOpenFiles": [
+    "Invincible/Scénario 2 La cité pétrifiée/Personnage Loup-Garou.md",
     "Invincible/Scénario 2 La cité pétrifiée",
     "Invincible",
     "Annexe/Sortilèges/Niveau 2/Zone de vérité.md",
@@ -235,7 +239,6 @@
     "Annexe/Sortilèges",
     "Annexe",
     "Oblivion/Joueurs",
-    "Oblivion/PDF/Oblivion 1 Le sang d'Oblivion.pdf",
     "Oblivion/Images/Nocturno.png",
     "Oblivion/Images/Ghûraghasta.png",
     "Images/Ghûraghasta.png",
