@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "724638d62bb13004",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -187,8 +198,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6ea2789db2c51d55",
+  "active": "efc7fbc9dabff410",
   "lastOpenFiles": [
+    "Invincible/Scénario 2 La cité pétrifiée",
+    "Invincible",
     "Annexe/Sortilèges/Niveau 2/Zone de vérité.md",
     "Annexe/Sortilèges/Niveau 2/Voir l'invisible.md",
     "Annexe/Sortilèges/Niveau 2/Vision dans le noir.md",
@@ -214,7 +227,6 @@
     "Annexe/Sortilèges/Niveau 2/Pas brumeux.md",
     "Annexe/Sortilèges/Niveau 2/Ombres imaginaires.md",
     "Annexe/Sortilèges/Niveau 2/Offrande inéluctable.md",
-    "Annexe/Sortilèges/Niveau 2/Modifier son apparence.md",
     "Annexe/Sortilèges/Niveau 5",
     "Annexe/Sortilèges/Niveau 2",
     "Annexe/Règles",
@@ -224,7 +236,6 @@
     "Annexe",
     "Oblivion/Joueurs",
     "Oblivion/PDF/Oblivion 1 Le sang d'Oblivion.pdf",
-    "Template",
     "Oblivion/Images/Nocturno.png",
     "Oblivion/Images/Ghûraghasta.png",
     "Images/Ghûraghasta.png",
