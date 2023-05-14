@@ -5,11 +5,11 @@ size: M
 type: Humanoïde
 subtype: Sangdragon
 alignment: Loyal Mauvais
-ac: 15 
-hp: 0
-hit_dice: 1d8+0
-speed: 0
-stats: [10, 10, 10, 10, 10, 10]
+ac: 15 (armure de mage)
+hp: 53
+hit_dice: 7d8+21
+speed: 9m
+stats: [11, 14, 16, 10, 13, 14]
 saves:
   - <ability-score>: number
 skillsaves:

@@ -8,7 +8,7 @@ alignment: Loyal Neutre
 ac: 10
 hp: 60
 hit_dice: 8d8+24
-speed: 9
+speed: 9m
 stats: [19, 10, 16, 5, 7, 7]
 senses: vision dans le noir 18 m, Perception passive 8
 languages: commun

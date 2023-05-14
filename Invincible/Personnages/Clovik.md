@@ -8,7 +8,7 @@ alignment: Loyal Bon
 ac: 12 (16 avec armure de mage)
 hp: 19
 hit_dice: 3d8+3
-speed: 9
+speed: 9m
 stats: [11, 14, 12, 15, 09, 12]
 skillsaves:
   - Arcanes: 4

@@ -8,7 +8,7 @@ alignment: Chaotique Mauvais
 ac: 15 (armure naturelle)
 hp: 45
 hit_dice: 6d10+12
-speed: 9
+speed: 9m
 stats: [17, 8, 15, 5, 7, 7]
 senses: vision dans le noir 18m, Perception passive 8
 languages: commun, géant

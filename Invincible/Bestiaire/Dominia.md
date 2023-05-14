@@ -8,7 +8,7 @@ alignment: Neutre Mauvais
 ac: 15 (bracelets de défense et Dextérité)
 hp: 82
 hit_dice: 11d8+33
-speed: 9
+speed: 9m
 stats: [16, 16, 16, 11, 10, 15]
 saves:
   - Dex: 6
