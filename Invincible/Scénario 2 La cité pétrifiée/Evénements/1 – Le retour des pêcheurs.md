@@ -8,6 +8,8 @@ Si les PJ font vite et qu'ils disposent d'une barque, ils peuvent tenter de sauv
 
 S'ils ont réagi particulièrement vite, octroyez-leur un bonus de +2 et infligez-leur au contraire une pénalité de -2 s'ils ont tergiversé avant d'intervenir. Une réussite rapporte 1 point au groupe. Un échec supprime 1 point. Faites la somme du nombre de points et déterminez le résultat dans le tableau ci-dessous :
 
+
+
 -3 points ou moins
 
 Lorsque les personnages arrivent, tous les pêcheurs sont morts et les écorchés les dévorent. Si les joueurs laissent le bateau dériver, il viendra s'échouer au pied du phare et les écorchés occuperont l'île jusqu'à ce qu'on les supprime.
