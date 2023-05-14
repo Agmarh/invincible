@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Invincible/Bestiaire/Dominia.md",
-                "mode": "preview",
+                "file": "Template/Monstre.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Invincible/Bestiaire/Dominia.md",
+                "file": "Template/Monstre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Invincible/Bestiaire/Dominia.md",
+                "file": "Template/Monstre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,12 +150,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Invincible/Bestiaire/Dominia.md"
+                "file": "Template/Monstre.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "fd5288df57dbe23a",
@@ -173,7 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 753.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,11 +187,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b0228970f64a9c6c",
+  "active": "f313958ee2e0b55c",
   "lastOpenFiles": [
+    "Invincible/Personnages/Clovik.md",
+    "Invincible/Bestiaire/Dominia.md",
+    "Invincible/Personnages",
     "Invincible/Bestiaire/Capitaine de Lycanis.md",
     "Invincible/Bestiaire/Baphit.md",
-    "Invincible/Bestiaire/Dominia.md",
     "Invincible/Objets Magiques/Croc du dragon.md",
     "Invincible/Objets Magiques/Bracelets de défense.md",
     "Oblivion/Objets Magiques/Nocturno.md",
@@ -217,14 +219,12 @@
     "Annexe/Sortilèges/Niveau 3/Cercle magique.md",
     "Annexe/Sortilèges/Niveau 3/Catalepsie.md",
     "Annexe/Sortilèges/Niveau 3/Caresse du vampire.md",
-    "Annexe/Sortilèges/Niveau 3/Boule de feu.md",
     "Annexe/Sortilèges/Niveau 3",
     "Invincible/Scénario 2 La cité pétrifiée/Evénements",
     "Invincible/Scénario 2 La cité pétrifiée",
     "Invincible",
     "Annexe/Sortilèges/Niveau 5",
     "Annexe/Sortilèges/Niveau 2",
-    "Annexe/Règles",
     "Oblivion/Images/Nocturno.png",
     "Oblivion/Images/Ghûraghasta.png",
     "Images/Ghûraghasta.png",
