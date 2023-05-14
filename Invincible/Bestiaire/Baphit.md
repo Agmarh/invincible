@@ -22,9 +22,9 @@ actions:
   - name: Attaques multiples.
     desc: Effectue deux attaques à mains nues.
   - name: Mains nues
-    desc: +6 pour toucher, 6 (1d4+4) dégâts contondants.
+    desc: "Attaque d'arme au corps à corps : +6 pour toucher, allonge 1,50 m, une cible. Touché : 6 (1d4+4) dégâts contondants."
   - name: Javeline
     desc: +6 pour toucher, 9/36m, 7 (1d6+4) dégâts perforants.
-tactique:
-  - Combat jusqu'à la mort si la vie de Dominia est en jeu, sinon prend la fuite s'il lui reste 15 PV.
+tactic:
+  - desc: "Combat jusqu'à la mort si la vie de Dominia est en jeu, sinon prend la fuite s'il lui reste 15 PV."
 ```
