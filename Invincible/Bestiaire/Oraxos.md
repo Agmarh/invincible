@@ -10,17 +10,13 @@ hp: 53
 hit_dice: 7d8+21
 speed: 9m
 stats: [11, 14, 16, 10, 13, 14]
-saves:
-  - <ability-score>: number
 skillsaves:
-  - <skill-name>: number
-damage_vulnerabilities: string
-damage_resistances: string
-damage_immunities: string
-condition_immunities: string
-senses: string
-languages: string
-cr: 1
+  - Religion: 2
+  - Persuasion: 4
+  - Supercherie: 4
+senses: Perception passive 11
+languages: commun, draconique
+cr: 2
 spells:
   - <description>
   - <spell level>: <spell-list>
