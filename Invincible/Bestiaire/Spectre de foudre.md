@@ -1,21 +1,18 @@
 ```statblock
 name: Spectre de foudre
 size: M
-type: 
+type: Elémentaire
 subtype: 
-alignment: Neutre
-ac: 10
-hp: 0
-hit_dice: 1d8+0
-speed: 0
-stats: [10, 10, 10, 10, 10, 10]
+alignment: Loyal Neutre
+ac: 17 (armure naturelle, bouclier)
+hp: 39
+hit_dice: 6d8+12
+speed: 9
+stats: [12, 17, 15, 12, 13, 10]
 saves:
-  - <ability-score>: number
-skillsaves:
-  - <skill-name>: number
-damage_vulnerabilities: string
-damage_resistances: string
-damage_immunities: string
+  - Con: 4
+damage_resistances: psychiques
+damage_immunities: foudre et poison
 condition_immunities: string
 senses: string
 languages: string
