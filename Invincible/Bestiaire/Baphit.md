@@ -24,7 +24,7 @@ actions:
   - name: Mains nues
     desc: "Attaque d'arme au corps à corps : +6 pour toucher, allonge 1,50 m, une cible. Touché : 6 (1d4+4) dégâts contondants."
   - name: Javeline
-    desc: +6 pour toucher, 9/36m, 7 (1d6+4) dégâts perforants.
+    desc: "Attaque d'arme au corps à corps ou à distance : +6 pour toucher, allonge 1,50 m ou portée 9/36 m, une cible. Touché : 7 (1d6+4) dégâts perforants."
 tactic:
   - desc: "Combat jusqu'à la mort si la vie de Dominia est en jeu, sinon prend la fuite s'il lui reste 15 PV."
 ```
