@@ -28,24 +28,21 @@ traits:
   - name: Marche sur l'eau
     desc: "Grâce à son anneau de marche sur l'eau, Oraxos peut marcher sur l'eau et sur les sables mouvants sans être affecté."
 actions:
-  - name: <trait-name>
-    desc: <trait-description>
-  - name: <trait-name>
-    desc: <trait-description>
-legendary_actions:
-  - name: <legendary_actions-name>
-    desc: <legendary_actions-description>
-  - ...
-bonus_actions:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
-reactions:
-  - name: <reaction-name>
-    desc: <reaction-description>
-  - ...
+  - name: Attaques multiples
+    desc: "Grâce à son médaillon (voir trésor) Oraxos peut lancer un tour de magie en utilisant une action bonus en plus de faire une attaque de corps à corps ou à distance."
+  - name: Dague
+    desc: "Attaque d'arme au corps à corps ou à distance : +4 pour toucher, allonge 1,50 m ou portée 6/18 m, une créature. Touché : 4 (1d4+2) dégâts perforants."
 tactic:
-  - desc: <reaction-description>
+  - desc: "Oraxos est un lâche, il fuit dès que ses pv passent sous 20 et il est prêt à toutes les trahisons et les promesses pour sauver sa peau. Cependant, jamais il
+n'entreprendra quoi que ce soit directement contre
+Lytochronox.
+Rien ni personne ne lui fera plus peur
+que le dragon.
+Oraxos est un magicien Sangdragon, il affiche une
+belle prestance. Il est très imbu de lui-même et
+parle comme un aristocrate orgueilleux, convaincu
+de la supériorité de sa lignée sur les simples humains.
+Mais c'est avant tout un couard."
 treasure:
   - name: <reaction-name>
     desc: <reaction-description>
