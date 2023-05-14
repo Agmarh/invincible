@@ -19,8 +19,10 @@ traits:
   - name: Rage
     desc: Si Dominia est blessée et en danger, entre en rage. Obtient un avantage aux tests de Force et Sauvegarde de Force. Quand il utilise une arme de CAC, il gagne +3 au jet de dégâts. Il devient résistant aux dégâts contondants, perforants et tranchants.
 actions:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
-  - ...
+  - name: Attaques multiples.
+    desc: Effectue deux attaques à mains nues.
+  - name: Mains nues
+    desc: +6 pour toucher, 1d4+4 dégâts contondants.
+  - name: Javeline
+    desc: +6 pour toucher, 9/36m, 1d6+4 dégâts pef
 ```
