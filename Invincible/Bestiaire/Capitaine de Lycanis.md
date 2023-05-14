@@ -13,20 +13,18 @@ stats: [16, 13, 14, 10, 11, 10]
 skillsaves:
   - Athlétisme: 5
   - Perception: 2
-senses: string
-languages: string
-cr: 1
-spells:
-  - <description>
-  - <spell level>: <spell-list>
-traits:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
+senses: Perception passive 12
+languages: commun
+cr: 3
 actions:
+  - name: Attaques multiples
+    desc: Le Capitaine effectue deux attaques à l'épée longue. S'il a une épée courte en main, il peut également effectuer une attaque avec cette arme.
+  - name: Arbalète lourde
+    desc: +3 pour toucher, 30/120m, 1d10+1 dégâts perforants.
   - name: <trait-name>
     desc: <trait-description>
-  - ...
+  - name: <trait-name>
+    desc: <trait-description>
 legendary_actions:
   - name: <legendary_actions-name>
     desc: <legendary_actions-description>
