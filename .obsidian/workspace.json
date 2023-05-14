@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Invincible/Objets Magiques/Armure du loup.md",
+                "file": "Invincible/Objets Magiques/Saignemort.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Invincible/Objets Magiques/Armure du loup.md",
+                "file": "Invincible/Objets Magiques/Saignemort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Invincible/Objets Magiques/Armure du loup.md",
+                "file": "Invincible/Objets Magiques/Saignemort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Invincible/Objets Magiques/Armure du loup.md"
+                "file": "Invincible/Objets Magiques/Saignemort.md"
               }
             }
           }
@@ -189,8 +189,9 @@
   },
   "active": "b0228970f64a9c6c",
   "lastOpenFiles": [
-    "Invincible/Bestiaire/Hector de Lycanis.md",
     "Invincible/Objets Magiques/Armure du loup.md",
+    "Invincible/Objets Magiques/Saignemort.md",
+    "Invincible/Bestiaire/Hector de Lycanis.md",
     "Invincible/Bestiaire/Soldat de Lycanis.md",
     "Invincible/Objets Magiques/Boutefeu.md",
     "Invincible/Bestiaire/Ecorché Troll.md",
@@ -226,7 +227,6 @@
     "Invincible/Objets Magiques/Bracelets de défense.md",
     "Invincible/Objets Magiques",
     "Oblivion/Bestiaire/Ghûraghasta.md",
-    "Annexe/Sortilèges/Niveau 3/Esprits gardiens.md",
     "Invincible/Bestiaire",
     "Oblivion/Monstres/Sans titre",
     "Annexe/Sortilèges/Niveau 3",
