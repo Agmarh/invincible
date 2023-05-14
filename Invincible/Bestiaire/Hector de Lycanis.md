@@ -1,5 +1,5 @@
 ```statblock
-image: [[monstre.png]]
+image: [[Hector.jpg]]
 name: Hector de Lycanis
 size: M
 type: Humanoïde
