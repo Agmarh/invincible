@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Invincible/Scénario 2 La cité pétrifiée/Evénements/1 – Le retour des pêcheurs.md",
+                "file": "Annexe/Sortilèges/Niveau 3/Animation des morts.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Invincible/Scénario 2 La cité pétrifiée/Evénements/1 – Le retour des pêcheurs.md",
+                "file": "Annexe/Sortilèges/Niveau 3/Animation des morts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Invincible/Scénario 2 La cité pétrifiée/Evénements/1 – Le retour des pêcheurs.md",
+                "file": "Annexe/Sortilèges/Niveau 3/Animation des morts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Invincible/Scénario 2 La cité pétrifiée/Evénements/1 – Le retour des pêcheurs.md"
+                "file": "Annexe/Sortilèges/Niveau 3/Animation des morts.md"
               }
             }
           }
@@ -189,7 +189,10 @@
   },
   "active": "739d3c4cafaf33e7",
   "lastOpenFiles": [
+    "Template/Sort.md",
+    "Annexe/Sortilèges/Niveau 3/Animation des morts.md",
     "Invincible/Scénario 2 La cité pétrifiée/Evénements/1 – Le retour des pêcheurs.md",
+    "Annexe/Sortilèges/Niveau 3",
     "Invincible/Scénario 2 La cité pétrifiée/Evénements",
     "Oblivion/Monstres/Ghûraghasta.md",
     "Annexe/Règles/Assourdi.md",
@@ -203,7 +206,6 @@
     "Annexe/Sortilèges/Niveau 2/Trouver les pièges.md",
     "Annexe/Sortilèges/Niveau 2/Toile d'araignée.md",
     "Annexe/Sortilèges/Niveau 2/Verrou magique.md",
-    "Template/Sort.md",
     "Annexe/Sortilèges/Niveau 2/Ténèbres.md",
     "Annexe/Sortilèges/Niveau 2/Suggestion.md",
     "Annexe/Sortilèges/Niveau 2/Stalagmites fulgurantes.md",
@@ -217,14 +219,12 @@
     "Annexe/Sortilèges/Niveau 2/Prière de soins.md",
     "Annexe/Sortilèges/Niveau 2/Peau d'écorce.md",
     "Annexe/Sortilèges/Niveau 2/Pattes d'araignée.md",
-    "Annexe/Sortilèges/Niveau 2/Passage sans trace.md",
     "Annexe/Sortilèges/Niveau 5",
     "Annexe/Sortilèges/Niveau 2",
     "Annexe/Règles",
     "Annexe/Sortilèges/Niveau 1",
     "Annexe/Sortilèges/Tours de magie",
     "Annexe/Sortilèges",
-    "Annexe",
     "Oblivion/Images/Nocturno.png",
     "Oblivion/Images/Ghûraghasta.png",
     "Images/Ghûraghasta.png",
