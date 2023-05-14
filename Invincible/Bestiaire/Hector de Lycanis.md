@@ -49,8 +49,8 @@ tactic:
   - desc: "Hector combat sous sa forme normale jusqu'à ce qu'il arrive à 80 pv ou moins, à ce moment là, il se transforme en Hybride, puis il combat jusqu'à la mort. Il se rend seulement si on lui propose une reddition honorable et lorsqu'il ne lui reste pas plus de 5 pv."
   - desc: "Transformation : Lorsqu'il adopte sa forme Hybride, lisez ou paraphrasez le texte ci-dessous à vos joueurs. Ceux-ci doivent bien comprendre que ça va faire mal…"
 treasure:
-  - name: Armure du loup
-  - name: Saignemort
+  - name: [[Armure du loup]]
+  - name: [[Saignemort]]
 ```
 
 Alors que ce dernier coup passe à travers la garde d'Hector et mord la chair en trouvant un des rares endroits non protégés par l'armure, le guerrier grimace un sourire féroce. 

@@ -1,7 +1,7 @@
-![[image.png]]
-Type : 
-Rareté : 
-Harmonisation : 
+Très Rare
+Type : Arme
+Rareté : Très Rare
+Harmonisation : Non
 
 # Effets
 Cette magnifique épée bâtarde incrustée de motifs d'argent semble toujours maculée de sang frais. Même si on la nettoie, du sang recommence bientôt à perler de son tranchant, comme si on venait de l'utiliser. 
