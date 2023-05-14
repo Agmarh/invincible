@@ -22,25 +22,10 @@ traits:
 actions:
   - name: Attaques multiples
     desc: "Servantès effectue deux attaques à la rapière."
-  - name: <trait-name>
-    desc: <trait-description>
-  - name: <trait-name>
-    desc: <trait-description>
-legendary_actions:
-  - name: <legendary_actions-name>
-    desc: <legendary_actions-description>
-  - ...
-bonus_actions:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
-reactions:
-  - name: <reaction-name>
-    desc: <reaction-description>
-  - ...
+  - name: Rapière
+    desc: "Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible. Touché : 9 (1d8+5) dégâts perforants."
+  - name: Dague lancée
+    desc: "Attaque d'arme à distance : +5 pour toucher, portée 6/18 m, une cible. Touché : 5 (1d4+3) dégâts perforants."
 tactic:
-  - desc: <reaction-description>
-treasure:
-  - name: <reaction-name>
-    desc: <reaction-description>
+  - desc: "Servantès est un héros mais il n'est pas suicidaire, il fuit si la défaite est inévitable."
 ```
