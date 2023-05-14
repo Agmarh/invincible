@@ -11,9 +11,14 @@ hit_dice: 15d8+45
 speed: 9m (12m sous forme de loup)
 stats: [18, 15, 16, 10, 14, 15]
 saves:
-  - <ability-score>: number
+  - For: 7
+  - Dex: 5
+  - Con: 6
 skillsaves:
-  - <skill-name>: number
+  - Athlétisme: 10
+  - Intimidation: 5
+  - Discrétion: 5
+  - Perception: 5
 damage_vulnerabilities: string
 damage_resistances: string
 damage_immunities: string
