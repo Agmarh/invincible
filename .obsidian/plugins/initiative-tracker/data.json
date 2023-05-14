@@ -97,7 +97,7 @@
   "monsterMarker": "default",
   "state": {
     "creatures": [],
-    "state": true,
+    "state": false,
     "name": null,
     "round": 2,
     "logFile": ""
