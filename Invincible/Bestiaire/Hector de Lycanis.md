@@ -33,9 +33,14 @@ traits:
   - name: Odorat et ouüe aiguisés
     desc: "Hector est avantagé lors des tests de Sagesse (Perception) basés sur l'odorat ou l'ouïe."
 actions:
+  - name: Attaques multiples
+    desc: "Sous forme humanoïde Hector effectue deux attaques au corps à corps ou deux attaques à distance. Sous forme hybride Hector effectue deux attaques à l'épée (ou de griffe s'il est désarmé) et une avec sa morsure."
+  - name: Epée à 2 mains (forme humanoïde ou hybride uniquement)
+    desc: "Attaque d'arme au corps à corps ou à distance : +8 pour toucher, allonge 1,50 m, une créature. Touché : 14 (3d6+4) dégâts tranchants + 1d6 dégâts nécrotiques pendant 3 rounds (voir saignemort)."
+  - name: Morsure (forme hybride ou de loup)
+    desc: <trait-description>
   - name: <trait-name>
     desc: <trait-description>
-  - ...
 legendary_actions:
   - name: <legendary_actions-name>
     desc: <legendary_actions-description>
