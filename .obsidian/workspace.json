@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Invincible/Objets Magiques/Boutefeu.md",
+                "file": "Invincible/Objets Magiques/Tromperie.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Invincible/Objets Magiques/Boutefeu.md",
+                "file": "Invincible/Objets Magiques/Tromperie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Invincible/Objets Magiques/Boutefeu.md",
+                "file": "Invincible/Objets Magiques/Tromperie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Invincible/Objets Magiques/Boutefeu.md"
+                "file": "Invincible/Objets Magiques/Tromperie.md"
               }
             }
           }
@@ -189,12 +189,13 @@
   },
   "active": "b0228970f64a9c6c",
   "lastOpenFiles": [
+    "Invincible/Objets Magiques/Boutefeu.md",
+    "Invincible/Objets Magiques/Tromperie.md",
     "Invincible/Images/Boutefeu.jpg",
     "Invincible/Images/Mordante.jpg",
     "Invincible/Images/Draconis.jpg",
     "Invincible/Images/Tromperie.jpg",
     "Invincible/Bestiaire/Oraxos.md",
-    "Invincible/Objets Magiques/Boutefeu.md",
     "Invincible/Objets Magiques/Médaillon d'Oraxos.md",
     "Invincible/Personnages/Clovik.md",
     "Invincible/Images/Médaillon Oraxos.jpg",
@@ -234,7 +235,6 @@
     "Annexe/Sortilèges/Niveau 5",
     "Oblivion/Images/Nocturno.png",
     "Oblivion/Images/Ghûraghasta.png",
-    "Images/Ghûraghasta.png",
     "Oblivion/PNJ/Sans titre.canvas"
   ]
 }
