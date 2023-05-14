@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Invincible/Personnages/Clovik.md",
-                "mode": "source",
+                "file": "Oblivion/Objets Magiques/Nocturno.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Invincible/Personnages/Clovik.md",
+                "file": "Oblivion/Objets Magiques/Nocturno.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Invincible/Personnages/Clovik.md",
+                "file": "Oblivion/Objets Magiques/Nocturno.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Invincible/Personnages/Clovik.md"
+                "file": "Oblivion/Objets Magiques/Nocturno.md"
               }
             }
           }
@@ -187,10 +187,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b0228970f64a9c6c",
+  "active": "efc7fbc9dabff410",
   "lastOpenFiles": [
-    "Template/Monstre.md",
+    "Invincible/Images",
     "Invincible/Personnages/Clovik.md",
+    "Template/Monstre.md",
     "Invincible/Bestiaire/Dominia.md",
     "Invincible/Personnages",
     "Invincible/Bestiaire/Capitaine de Lycanis.md",
@@ -218,7 +219,6 @@
     "Annexe/Sortilèges/Niveau 3/Clairvoyance.md",
     "Annexe/Sortilèges/Niveau 3/Cercle magique.md",
     "Annexe/Sortilèges/Niveau 3/Catalepsie.md",
-    "Annexe/Sortilèges/Niveau 3/Caresse du vampire.md",
     "Annexe/Sortilèges/Niveau 3",
     "Invincible/Scénario 2 La cité pétrifiée/Evénements",
     "Invincible/Scénario 2 La cité pétrifiée",
