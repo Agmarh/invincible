@@ -19,20 +19,20 @@ skillsaves:
   - Intimidation: 5
   - Discrétion: 5
   - Perception: 5
-damage_vulnerabilities: string
-damage_resistances: string
-damage_immunities: string
-condition_immunities: string
-senses: string
-languages: string
-cr: 1
-spells:
-  - <description>
-  - <spell level>: <spell-list>
+damage_immunities: contondants, perforants et tranchants infligés par des attaques non-magiques d'armes qui ne sont pas en argent
+senses: Perception passive 15
+languages: commun
+cr: 7
 traits:
+  - name: Brave
+    desc: "Hector obtient un avantage lors des jets de sauvegarde effectués pour ne pas être [[Terrorisé]]."
+  - name: Brutal
+    desc: "Une arme de corps à corps inflige un dé supplémentaire de ses dégâts quand Hector réussit
+une attaque en la maniant (inclus dans l'attaque)."
   - name: <trait-name>
     desc: <trait-description>
-  - ...
+  - name: <trait-name>
+    desc: <trait-description>
 actions:
   - name: <trait-name>
     desc: <trait-description>
