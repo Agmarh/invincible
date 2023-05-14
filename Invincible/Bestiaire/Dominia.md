@@ -5,14 +5,16 @@ size: M
 type: Mort-Vivant
 subtype: 
 alignment: Neutre Mauvais
-ac: 15 (bra)
-hp: 0
-hit_dice: 1d8+0
-speed: 0
-stats: [10, 10, 10, 10, 10, 10]
+ac: 15 (bracelets de défense et Dextérité)
+hp: 82
+hit_dice: 11d8+33
+speed: 9
+stats: [16, 16, 16, 11, 10, 15]
 saves:
-  - <ability-score>: number
+  - Dex: 6
+  - Sag: 3
 skillsaves:
+  - Discrétion: number
   - <skill-name>: number
 damage_vulnerabilities: string
 damage_resistances: string
