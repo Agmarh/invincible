@@ -36,7 +36,7 @@ tactic:
   - desc: "Dominia combat jusqu'à la mort. Grâce aux pouvoirs de Lytochronox, elle se croit invincible. Lorsqu'elle atteint 0 pv, elle se transforme en goule."
 treasure:
   - name: Epée longue +1
-  - name: Bracelets de défense
+  - name: [[Bracelets de défense]]
   - name: Fouet d'os
     desc: "Il perd son pouvoir entre d'autres mains, mais il inflige 1d6 + modificateur de Dextérités dégâts perforants. Portée 3 mètres. Arme martiale."
   - name: Croc du dragon

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Invincible/Objets Magiques/Bracelets de défense.md",
+                "file": "Invincible/Objets Magiques/Croc du dragon.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Invincible/Objets Magiques/Bracelets de défense.md",
+                "file": "Invincible/Objets Magiques/Croc du dragon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Invincible/Objets Magiques/Bracelets de défense.md",
+                "file": "Invincible/Objets Magiques/Croc du dragon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Invincible/Objets Magiques/Bracelets de défense.md"
+                "file": "Invincible/Objets Magiques/Croc du dragon.md"
               }
             }
           }
@@ -189,9 +189,10 @@
   },
   "active": "b0228970f64a9c6c",
   "lastOpenFiles": [
-    "Oblivion/Objets Magiques/Nocturno.md",
-    "Invincible/Objets Magiques/Bracelets de défense.md",
     "Invincible/Bestiaire/Dominia.md",
+    "Invincible/Objets Magiques/Croc du dragon.md",
+    "Invincible/Objets Magiques/Bracelets de défense.md",
+    "Oblivion/Objets Magiques/Nocturno.md",
     "Invincible/Objets Magiques",
     "Template/Monstre.md",
     "Invincible/Bestiaire/Baphit.md",
@@ -217,7 +218,6 @@
     "Annexe/Sortilèges/Niveau 3/Catalepsie.md",
     "Annexe/Sortilèges/Niveau 3/Caresse du vampire.md",
     "Annexe/Sortilèges/Niveau 3/Boule de feu.md",
-    "Annexe/Sortilèges/Niveau 3/Bénédiction héroïque.md",
     "Annexe/Sortilèges/Niveau 3",
     "Invincible/Scénario 2 La cité pétrifiée/Evénements",
     "Invincible/Scénario 2 La cité pétrifiée",
