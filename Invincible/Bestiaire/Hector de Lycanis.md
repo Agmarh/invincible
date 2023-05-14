@@ -37,21 +37,13 @@ actions:
     desc: "Sous forme humanoïde Hector effectue deux attaques au corps à corps ou deux attaques à distance. Sous forme hybride Hector effectue deux attaques à l'épée (ou de griffe s'il est désarmé) et une avec sa morsure."
   - name: Epée à 2 mains (forme humanoïde ou hybride uniquement)
     desc: "Attaque d'arme au corps à corps ou à distance : +8 pour toucher, allonge 1,50 m, une créature. Touché : 14 (3d6+4) dégâts tranchants + 1d6 dégâts nécrotiques pendant 3 rounds (voir saignemort)."
-  - name: Morsure (forme hybride ou de loup)
-    desc: <trait-description>
-  - name: <trait-name>
-    desc: <trait-description>
-legendary_actions:
-  - name: <legendary_actions-name>
-    desc: <legendary_actions-description>
-  - ...
-bonus_actions:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
+  - name: Morsure (forme hybride ou de loup uniquement)
+    desc: "Attaque d'arme au corps à corps : +7 pour toucher, allonge 1,50 m, une cible. Touché : 13 (2d8+4) dégâts perforants. Si la cible est un humanoïde, elle doit réussir un jet de sauvegarde de Constitution DD 12 pour ne pas contracter la malédiction de la lycanthropie du loup-garou."
+  - name: Griffes (forme hybride uniquement)
+    desc: "Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une créature. Touché : 7 (2d4+2) dégâts tranchants."
 reactions:
-  - name: <reaction-name>
-    desc: <reaction-description>
+  - name: Parade
+    desc: "Hector ajoute +3 à sa CA contre une attaque au corps à corps qui devrait le toucher. Il doit voir son agresseur et manier une arme de corps à corps pour pouvoir parer de cette façon."
   - ...
 tactic:
   - desc: <reaction-description>
