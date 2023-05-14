@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Invincible/Bestiaire/Capitaine de Lycanis.md",
+                "file": "Invincible/Personnages/Clovik Scénario 1 1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Invincible/Bestiaire/Capitaine de Lycanis.md",
+                "file": "Invincible/Personnages/Clovik Scénario 1 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Invincible/Bestiaire/Capitaine de Lycanis.md",
+                "file": "Invincible/Personnages/Clovik Scénario 1 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Invincible/Bestiaire/Capitaine de Lycanis.md"
+                "file": "Invincible/Personnages/Clovik Scénario 1 1.md"
               }
             }
           }
@@ -189,8 +189,10 @@
   },
   "active": "b0228970f64a9c6c",
   "lastOpenFiles": [
-    "Template/Monstre.md",
+    "Invincible/Personnages/Clovik Scénario 1.md",
+    "Invincible/Personnages/Clovik Scénario 1 1.md",
     "Invincible/Bestiaire/Capitaine de Lycanis.md",
+    "Template/Monstre.md",
     "Template/Sort.md",
     "Invincible/Bestiaire/Hector de Lycanis.md",
     "Invincible/Images/Hector.jpg",
@@ -215,12 +217,10 @@
     "Invincible/Images/Draconis.jpg",
     "Invincible/Images/Tromperie.jpg",
     "Invincible/Objets Magiques/Médaillon d'Oraxos.md",
-    "Invincible/Personnages/Clovik.md",
     "Invincible/Images/Médaillon Oraxos.jpg",
     "Invincible/Objets Magiques/Anneau de marche sur l'eau.md",
     "Invincible/Images/Clovik.jpg",
     "Invincible/Images/Oraxos.jpg",
-    "Invincible/Bestiaire/Capitaine de Lycanis.md",
     "Invincible/Images/Troll de pierre.jpg",
     "Invincible/Objets Magiques/Sceau d'Urbius.md",
     "Annexe/Sortilèges/Niveau 1/Armure de mage.md",
