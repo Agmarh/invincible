@@ -19,13 +19,9 @@ cr: 1/2
 spells:
   - "Clovik est un lanceur de sorts de niveau 3. Sa caractéristique d'incantation est l'Intelligence (DD du jet de sauvegarde contre les sorts 12, +4 pour toucher avec les attaques de sort). Voici les sorts de magicien préparés par Clovik"
   - Tours de magie (à volonté): lumière, trait de feu, message
-  - 1er niveau: <spell-list>
-traits:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
+  - Niveau 1 (3 emplacements): armure de mage, projectile magique, repli expéditif
 actions:
-  - name: <trait-name>
+  - name: Dague
     desc: <trait-description>
   - ...
 legendary_actions:
