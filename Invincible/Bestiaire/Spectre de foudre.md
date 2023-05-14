@@ -13,36 +13,20 @@ saves:
   - Con: 4
 damage_resistances: psychiques
 damage_immunities: foudre et poison
-condition_immunities: string
-senses: string
-languages: string
-cr: 1
-spells:
-  - <description>
-  - <spell level>: <spell-list>
+condition_immunities: [[Empoisonné]]
+senses: Perception passive 11
+languages: aucune
+cr: 2
 traits:
   - name: <trait-name>
     desc: <trait-description>
-  - ...
+  - name: <trait-name>
+    desc: <trait-description>
+  - name: <trait-name>
+    desc: <trait-description>
 actions:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
-legendary_actions:
-  - name: <legendary_actions-name>
-    desc: <legendary_actions-description>
-  - ...
-bonus_actions:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
-reactions:
-  - name: <reaction-name>
-    desc: <reaction-description>
-  - ...
+  - name: Marteau de guerre
+    desc: "Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible. Touché : 8 (1d10+3) dégâts contondants plus 3 (1d6) dégâts de foudre."
 tactic:
-  - desc: <reaction-description>
-treasure:
-  - name: <reaction-name>
-    desc: <reaction-description>
+  - desc: "Le spectre essaye en priorité d'atteindre la Chronosphère pour la détruire, mais si on l'attaque cela le détourne de sa cible. Il combat jusqu'à la destruction."
 ```
