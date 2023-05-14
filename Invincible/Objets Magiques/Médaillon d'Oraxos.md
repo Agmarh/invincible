@@ -1,7 +1,7 @@
-![[image.png]]
-Type : 
-Rareté : 
-Harmonisation : 
+![[Médaillon Oraxos.jpg]]
+Type : Objet merveilleux (collier)
+Rareté : Rare
+Harmonisation : Oui
 
 # Effets
 L'amulette permet de lancer un tour de magie en action bonus à chaque round.
