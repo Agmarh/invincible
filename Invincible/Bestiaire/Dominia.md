@@ -32,18 +32,6 @@ actions:
     desc: "Attaque d'arme au corps à corps : +7 pour toucher, allonge 1,50 m, une créature. Touché : 8 (1d8+4) dégâts tranchants."
   - name: Fouet d'os
     desc: "Attaque d'arme au corps à corps : +7 pour toucher, allonge 3 m, une cible. Touché : 6 (1d6+3) dégâts perforants et jet de sauvegarde de Constitution DD 13 ou étourdi jusqu'au prochain tour de Dominia."
-legendary_actions:
-  - name: <legendary_actions-name>
-    desc: <legendary_actions-description>
-  - ...
-bonus_actions:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
-reactions:
-  - name: <reaction-name>
-    desc: <reaction-description>
-  - ...
 tactique:
-  - ...
+  - Dominia combat jusqu'à la mort. Grâce aux pouvoirs de Lytochronox, elle se croit invincible. Lorsqu'elle atteint 0 pv, elle se transforme en goule.
 ```
