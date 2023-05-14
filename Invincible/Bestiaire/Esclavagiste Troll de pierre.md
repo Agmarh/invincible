@@ -9,24 +9,13 @@ ac: 15 (armure naturelle)
 hp: 45
 hit_dice: 6d10+12
 speed: 9
-stats: [17, 8, 15, 10, 10, 10]
-saves:
-  - <ability-score>: number
-skillsaves:
-  - <skill-name>: number
-damage_vulnerabilities: string
-damage_resistances: string
-damage_immunities: string
-condition_immunities: string
-senses: string
-languages: string
-cr: 1
-spells:
-  - <description>
-  - <spell level>: <spell-list>
+stats: [17, 8, 15, 5, 7, 7]
+senses: vision dans le noir 18m, Perception passive 8
+languages: commun, géant
+cr: 2
 traits:
-  - name: <trait-name>
-    desc: <trait-description>
+  - name: Régénération
+    desc: "Le troll de pierre récupère 5 points de vie au début de son tour. S'il subit des dégâts d'acide ou de feu, ce trait ne fonctionne pas au début du prochain tour du troll de pierre. Le troll de pierre meurt uniquement s'il commence son tour avec 0 point de vie et ne se régénère pas ou si on utilise une action pour séparer sa tête de son corps."
   - ...
 actions:
   - name: <trait-name>
