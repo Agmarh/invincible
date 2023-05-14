@@ -1,9 +1,9 @@
 ---
-type: 
-niveau: 
-incantation: 
-distance: 
-composantes: 
+type: Transmutation
+niveau: 3
+incantation: 1 action ou 8 heures
+distance: 45 mètres
+composantes: V, S
 temps: 
 classe: 
 ---
