@@ -11,15 +11,11 @@ hit_dice: 3d8+3
 speed: 9
 stats: [11, 14, 12, 15, 09, 12]
 skillsaves:
-  - <skill-name>: number
-  - <skill-name>: number
-damage_vulnerabilities: string
-damage_resistances: string
-damage_immunities: string
-condition_immunities: string
-senses: string
-languages: string
-cr: 1
+  - Arcanes: 4
+  - Persuasion: 3
+senses: Perception passive 09
+languages: commun
+cr: 1/2
 spells:
   - <description>
   - <spell level>: <spell-list>
