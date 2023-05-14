@@ -12,22 +12,17 @@ speed: 9m
 stats: [18, 10, 18, 5, 7, 7]
 saves:
   - Con: 6
-skillsaves:
-  - <skill-name>: number
-damage_vulnerabilities: string
-damage_resistances: string
-damage_immunities: string
-condition_immunities: string
-senses: string
-languages: string
-cr: 1
-spells:
-  - <description>
-  - <spell level>: <spell-list>
+damage_resistances: feu, psychiques
+damage_immunities: poison
+condition_immunities: [[Empoisonné]], charmé, [[Terrorisé]]
+senses: vision dans le noir 19m, Perception passive 8
+languages: ne parle pas, ne comprend aucune langue
+cr: 4
 traits:
   - name: <trait-name>
     desc: <trait-description>
-  - ...
+  - name: <trait-name>
+    desc: <trait-description>
 actions:
   - name: <trait-name>
     desc: <trait-description>
