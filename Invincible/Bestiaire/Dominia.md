@@ -29,10 +29,9 @@ actions:
   - name: Attaques multiples
     desc: Dominia effectue deux attaques à l'épée longue et une de plus avec son fouet d'os.
   - name: Epée longue
-    desc: Attaque d'arme au corps à corps : +7 pour toucher, allonge 1,50 m, une créature.
-Touché : 8 (1d8+4) dégâts tranchants.
-  - name: <trait-name>
-    desc: <trait-description>
+    desc: Attaque d'arme au corps à corps +7 pour toucher, allonge 1,50 m, une créature. Touché 8 (1d8+4) dégâts tranchants.
+  - name: Fouet d'os
+    desc: Attaque d'arme au corps à corps +7 pour toucher, allonge 3 m, une cible. Touché 6 (1d6+3) dégâts perforants et jet de sauvegarde de Constitution DD 13 ou étourdi jusqu'au prochain tour de Dominia.
 legendary_actions:
   - name: <legendary_actions-name>
     desc: <legendary_actions-description>
