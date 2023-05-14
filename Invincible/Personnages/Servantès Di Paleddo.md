@@ -2,23 +2,18 @@
 image: [[Servantès.jpg]]
 name: Servantès Di Paleddo
 size: M
-type: 
-subtype: 
-alignment: Neutre
-ac: 10
-hp: 0
-hit_dice: 1d8+0
-speed: 0
-stats: [10, 10, 10, 10, 10, 10]
-saves:
-  - <ability-score>: number
+type: Humanoïde
+subtype: Humain
+alignment: Loyal Neutre
+ac: 15 (cuir clouté)
+hp: 58
+hit_dice: 9d8+18
+speed: 9m
+stats: [12, 16, 14, 10, 11, 10]
 skillsaves:
-  - <skill-name>: number
-damage_vulnerabilities: string
-damage_resistances: string
-damage_immunities: string
-condition_immunities: string
-senses: string
+  - Athlétisme: 3
+  - Perception: 2
+senses: Per
 languages: string
 cr: 1
 spells:
