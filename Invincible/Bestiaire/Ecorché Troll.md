@@ -26,23 +26,6 @@ traits:
 actions:
   - name: Attaques multiples
     desc: "Le troll effectue deux attaques avec ses griffes."
-  - name: <trait-name>
-    desc: <trait-description>
-legendary_actions:
-  - name: <legendary_actions-name>
-    desc: <legendary_actions-description>
-  - ...
-bonus_actions:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
-reactions:
-  - name: <reaction-name>
-    desc: <reaction-description>
-  - ...
-tactic:
-  - desc: <reaction-description>
-treasure:
-  - name: <reaction-name>
-    desc: <reaction-description>
+  - name: Griffes
+    desc: "Attaque d'arme au corps à corps : +6 pour toucher, allonge 1,50 m, une cible. Touché : 11 (2d6+4) dégâts tranchants."
 ```
