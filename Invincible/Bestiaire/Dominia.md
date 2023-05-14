@@ -37,5 +37,6 @@ tactique:
 trésor:
   - Epée longue +1
   - Bracelets de défense
-  - 
+  - "Fouet d'os : il perd son pouvoir entre d'autres mains, mais il inflige 1d6 + modificateur de Dextérités dégâts perforants. Portée 3 mètres. Arme martiale."
+  - "Croc du dragon : Dominia garde toujours sur elle le ‘Croc du Dragon', une dague dont la lame est une griffe de Lytochronox. Sa garde est en métal noir et la lame est une griffe décolorée. Le poignard est seulement utilisé pour le rituel de création des écorchés, mais elle le garde précieusement. Il s'agit d'une véritable relique. L'arme ne donne aucun bonus, mais elle est considérée comme magique. Toutefois, si elle est utilisée contre le dragon (sous n'importe quelle forme, même un « émissaire » du scénario 5), elle ignore la résistance de la créature."
 ```
