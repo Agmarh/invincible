@@ -13,20 +13,19 @@ stats: [12, 16, 14, 10, 11, 10]
 skillsaves:
   - Athlétisme: 3
   - Perception: 2
-senses: Per
-languages: string
-cr: 1
-spells:
-  - <description>
-  - <spell level>: <spell-list>
+senses: Perception passive 12
+languages: commun
+cr: 3
 traits:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
+  - name: Duel
+    desc: "Quand il manie une arme de corps à corps à une main et aucune autre arme, Servantès gagne un bonus de +2 aux dégâts infligés avec cette arme (déjà pris en compte dans les dégâts)."
 actions:
+  - name: Attaques multiples
+    desc: "Servantès effectue deux attaques à la rapière."
   - name: <trait-name>
     desc: <trait-description>
-  - ...
+  - name: <trait-name>
+    desc: <trait-description>
 legendary_actions:
   - name: <legendary_actions-name>
     desc: <legendary_actions-description>
