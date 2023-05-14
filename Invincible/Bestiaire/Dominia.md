@@ -17,16 +17,20 @@ skillsaves:
   - Discrétion: 6
   - Perception: 3
 damage_resistances: nécrotiques ; contondants, perforants et tranchants infligés par des attaques non-magiques
-senses: string
-languages: string
-cr: 1
-spells:
-  - <description>
-  - <spell level>: <spell-list>
+senses: vision dans le noir 18 m, Perception passive 13
+languages: commun, draconique
+cr: 6
 traits:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
+  - name: Régénération
+    desc: Dominia récupère 10 points de vie au début de son tour s'il lui reste au moins 1 point de vie.
+  - name: Aura de faiblesse
+    desc: Cette aura nécromantique affaiblit les créatures vivantes dans un rayon de
+6 mètres autour de Dominia. À chaque tour, tout
+adversaire dans la zone doit réussir un jet de sauvegarde
+de Constitution DD 13 ou subir un désavantage
+à toutes ses actions basées sur la Force. Cela
+comprend les attaques qui utilisent le modificateur
+de Force.
 actions:
   - name: <trait-name>
     desc: <trait-description>
