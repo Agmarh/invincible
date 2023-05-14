@@ -1,5 +1,5 @@
 ```statblock
-image: [[monstre.png]]
+image: [[clovik.jpg]]
 name: Nom
 size: 
 type: 
