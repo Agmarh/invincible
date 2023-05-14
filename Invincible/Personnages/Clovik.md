@@ -1,8 +1,8 @@
 ```statblock
 image: [[clovik.jpg]]
-name: Nom
-size: 
-type: 
+name: Clovik
+size: M
+type: Humanoïde
 subtype: 
 alignment: Neutre
 ac: 10
