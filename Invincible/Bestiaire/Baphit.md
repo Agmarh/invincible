@@ -24,5 +24,7 @@ actions:
   - name: Mains nues
     desc: +6 pour toucher, 1d4+4 dégâts contondants.
   - name: Javeline
-    desc: +6 pour toucher, 9/36m, 1d6+4 dégâts pef
+    desc: +6 pour toucher, 9/36m, 1d6+4 dégâts perforants.
+reactions:
+  - Combat jusqu'à la mort si la vie de Dominia est en jeu, sinon prend la fuite s'il lui reste 15 PV.
 ```
