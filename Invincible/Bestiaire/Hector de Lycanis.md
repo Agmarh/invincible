@@ -1,15 +1,15 @@
 ```statblock
 image: [[monstre.png]]
-name: Nom
-size: 
-type: 
-subtype: 
-alignment: Neutre
-ac: 10
-hp: 0
-hit_dice: 1d8+0
-speed: 0
-stats: [10, 10, 10, 10, 10, 10]
+name: Hector de Lycanis
+size: M
+type: Humanoïde
+subtype: Humain
+alignment: Neutre Mauvais
+ac: 18 (demi-plate +1)
+hp: 112
+hit_dice: 15d8+45
+speed: 9m (12m sous forme de loup)
+stats: [18, 15, 16, 10, 14, 15]
 saves:
   - <ability-score>: number
 skillsaves:
