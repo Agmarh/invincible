@@ -18,7 +18,9 @@ senses: Perception passive 11
 languages: commun, draconique
 cr: 2
 spells:
-  - <description>
+  - "Oraxos est un lanceur de sorts de niveau 4. Sa caractéristique d'incantation est le Charisme (DD du jet de sauvegarde contre les sorts 12, (+4 pour toucher avec les attaques de sort)."
+  - <spell level>: <spell-list>
+  - <spell level>: <spell-list>
   - <spell level>: <spell-list>
 traits:
   - name: <trait-name>
