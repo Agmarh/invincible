@@ -1,17 +1,17 @@
 ```statblock
-image: [[monstre.png]]
-name: Nom
-size: 
-type: 
+image: [[Troll de pierre.jpg]]
+name: Ecorché Troll
+size: G
+type: Mort-Vivant
 subtype: 
-alignment: Neutre
-ac: 10
-hp: 0
-hit_dice: 1d8+0
-speed: 0
-stats: [10, 10, 10, 10, 10, 10]
+alignment: Neutre Mauvais
+ac: 15 (armure naturelle)
+hp: 85
+hit_dice: 9d10+36
+speed: 9m
+stats: [18, 10, 18, 5, 7, 7]
 saves:
-  - <ability-score>: number
+  - Con: 6
 skillsaves:
   - <skill-name>: number
 damage_vulnerabilities: string
