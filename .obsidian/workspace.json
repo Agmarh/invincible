@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Template/Sort.md",
+                "file": "Annexe/Sortilèges/Niveau 3/Sans titre.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Template/Sort.md",
+                "file": "Annexe/Sortilèges/Niveau 3/Sans titre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Template/Sort.md",
+                "file": "Annexe/Sortilèges/Niveau 3/Sans titre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Template/Sort.md"
+                "file": "Annexe/Sortilèges/Niveau 3/Sans titre.md"
               }
             }
           }
@@ -203,9 +203,10 @@
   },
   "active": "bb4b5c4b88e0a7ab",
   "lastOpenFiles": [
-    "Annexe/Sortilèges/Niveau 3/Sans titre.md",
-    "Annexe/Sortilèges/Niveau 3/Arme sainte.md",
     "Template/Sort.md",
+    "Annexe/Sortilèges/Niveau 3/Sans titre.md",
+    "Annexe/Sortilèges/Niveau 3/Bénédiction héroïque.md",
+    "Annexe/Sortilèges/Niveau 3/Arme sainte.md",
     "Annexe/Sortilèges/Niveau 3/Appel de la foudre.md",
     "Annexe/Sortilèges/Niveau 3/Animation des morts.md",
     "Invincible/Scénario 2 La cité pétrifiée/Evénements/1 – Le retour des pêcheurs.md",
@@ -232,7 +233,6 @@
     "Annexe/Sortilèges/Niveau 2/Rayon de lune.md",
     "Annexe/Sortilèges/Niveau 2/Rayon ardent.md",
     "Annexe/Sortilèges/Niveau 2/Rayon affaiblissant.md",
-    "Annexe/Sortilèges/Niveau 2/Protection contre le poison.md",
     "Annexe/Sortilèges/Niveau 5",
     "Annexe/Sortilèges/Niveau 2",
     "Annexe/Règles",
