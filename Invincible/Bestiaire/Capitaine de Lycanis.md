@@ -24,19 +24,5 @@ actions:
   - name: Epée courte
     desc: +5 pour toucher, 1d6+3 dégâts tranchants.
   - name: Epée longue
-    desc: +5 pour toucher, 1d8+3 dégâts tranchants ou 1d10+3 dégâts si utilisée
-legendary_actions:
-  - name: <legendary_actions-name>
-    desc: <legendary_actions-description>
-  - ...
-bonus_actions:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
-reactions:
-  - name: <reaction-name>
-    desc: <reaction-description>
-  - ...
-tactique:
-  - ...
+    desc: +5 pour toucher, 1d8+3 dégâts tranchants ou 1d10+3 dégâts si utilisée à deux mains.
 ```
