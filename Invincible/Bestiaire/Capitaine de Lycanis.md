@@ -6,18 +6,13 @@ type: Humanoïde
 subtype: Humain
 alignment: Loyal Neutre
 ac: 17 (clibanion)
-hp: 
+hp: 58
 hit_dice: 9d8+18
-speed: 0
-stats: [10, 10, 10, 10, 10, 10]
-saves:
-  - <ability-score>: number
+speed: 9
+stats: [16, 13, 14, 10, 11, 10]
 skillsaves:
-  - <skill-name>: number
-damage_vulnerabilities: string
-damage_resistances: string
-damage_immunities: string
-condition_immunities: string
+  - Athlétisme: 5
+  - Perception: 2
 senses: string
 languages: string
 cr: 1
