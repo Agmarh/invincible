@@ -10,24 +10,13 @@ hp: 60
 hit_dice: 8d8+24
 speed: 9
 stats: [19, 10, 16, 5, 7, 7]
-saves:
-  - <ability-score>: number
-skillsaves:
-  - <skill-name>: number
-damage_vulnerabilities: string
-damage_resistances: string
-damage_immunities: string
-condition_immunities: string
-senses: string
-languages: string
-cr: 1
-spells:
-  - <description>
-  - <spell level>: <spell-list>
+senses: vision dans le noir 18 m, Perception passive 8
+languages: commun
+cr: 3
 traits:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
+  - name: Régénération
+    desc: Récupère 5 PV au début de son tour s'il lui reste au moins 1 PV.
+  - name: 
 actions:
   - name: <trait-name>
     desc: <trait-description>
