@@ -5,16 +5,11 @@ type: Mort-Vivant
 subtype: 
 alignment: Neutre Mauvais
 ac: 12
-hp: 0
-hit_dice: 1d8+0
-speed: 0
-stats: [10, 10, 10, 10, 10, 10]
-saves:
-  - <ability-score>: number
-skillsaves:
-  - <skill-name>: number
-damage_vulnerabilities: string
-damage_resistances: string
+hp: 22
+hit_dice: 3d8+9
+speed: 12m, escalade 4,5m
+stats: [14, 15, 16, 3, 6, 5]
+damage_resistances: psychiques
 damage_immunities: string
 condition_immunities: string
 senses: string
