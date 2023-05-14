@@ -32,11 +32,13 @@ actions:
     desc: "Attaque d'arme au corps à corps : +7 pour toucher, allonge 1,50 m, une créature. Touché : 8 (1d8+4) dégâts tranchants."
   - name: Fouet d'os
     desc: "Attaque d'arme au corps à corps : +7 pour toucher, allonge 3 m, une cible. Touché : 6 (1d6+3) dégâts perforants et jet de sauvegarde de Constitution DD 13 ou étourdi jusqu'au prochain tour de Dominia."
-tactique:
-  - Dominia combat jusqu'à la mort. Grâce aux pouvoirs de Lytochronox, elle se croit invincible. Lorsqu'elle atteint 0 pv, elle se transforme en goule.
+tactic:
+  - desc: "Dominia combat jusqu'à la mort. Grâce aux pouvoirs de Lytochronox, elle se croit invincible. Lorsqu'elle atteint 0 pv, elle se transforme en goule."
 treasure:
   - name: Epée longue +1
-  - Bracelets de défense
-  - "Fouet d'os : il perd son pouvoir entre d'autres mains, mais il inflige 1d6 + modificateur de Dextérités dégâts perforants. Portée 3 mètres. Arme martiale."
-  - "Croc du dragon : Dominia garde toujours sur elle le ‘Croc du Dragon', une dague dont la lame est une griffe de Lytochronox. Sa garde est en métal noir et la lame est une griffe décolorée. Le poignard est seulement utilisé pour le rituel de création des écorchés, mais elle le garde précieusement. Il s'agit d'une véritable relique. L'arme ne donne aucun bonus, mais elle est considérée comme magique. Toutefois, si elle est utilisée contre le dragon (sous n'importe quelle forme, même un « émissaire » du scénario 5), elle ignore la résistance de la créature."
+  - name: Bracelets de défense
+  - name: Fouet d'os
+    desc: "Il perd son pouvoir entre d'autres mains, mais il inflige 1d6 + modificateur de Dextérités dégâts perforants. Portée 3 mètres. Arme martiale."
+  - name: Croc du dragon
+    desc: "Dominia garde toujours sur elle le ‘Croc du Dragon', une dague dont la lame est une griffe de Lytochronox. Sa garde est en métal noir et la lame est une griffe décolorée. Le poignard est seulement utilisé pour le rituel de création des écorchés, mais elle le garde précieusement. Il s'agit d'une véritable relique. L'arme ne donne aucun bonus, mais elle est considérée comme magique. Toutefois, si elle est utilisée contre le dragon (sous n'importe quelle forme, même un « émissaire » du scénario 5), elle ignore la résistance de la créature."
 ```
