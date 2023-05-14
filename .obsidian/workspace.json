@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Invincible/Bestiaire/Dominia.md",
+                "file": "Invincible/Objets Magiques/Bracelets de défense.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Invincible/Bestiaire/Dominia.md",
+                "file": "Invincible/Objets Magiques/Bracelets de défense.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Invincible/Bestiaire/Dominia.md",
+                "file": "Invincible/Objets Magiques/Bracelets de défense.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Invincible/Bestiaire/Dominia.md"
+                "file": "Invincible/Objets Magiques/Bracelets de défense.md"
               }
             }
           }
@@ -189,8 +189,11 @@
   },
   "active": "b0228970f64a9c6c",
   "lastOpenFiles": [
-    "Template/Monstre.md",
+    "Oblivion/Objets Magiques/Nocturno.md",
+    "Invincible/Objets Magiques/Bracelets de défense.md",
     "Invincible/Bestiaire/Dominia.md",
+    "Invincible/Objets Magiques",
+    "Template/Monstre.md",
     "Invincible/Bestiaire/Baphit.md",
     "Invincible/Bestiaire/Capitaine de Lycanis.md",
     "Oblivion/Bestiaire/Ghûraghasta.md",
@@ -215,8 +218,6 @@
     "Annexe/Sortilèges/Niveau 3/Caresse du vampire.md",
     "Annexe/Sortilèges/Niveau 3/Boule de feu.md",
     "Annexe/Sortilèges/Niveau 3/Bénédiction héroïque.md",
-    "Annexe/Sortilèges/Niveau 3/Arme sainte.md",
-    "Annexe/Sortilèges/Niveau 3/Appel de la foudre.md",
     "Annexe/Sortilèges/Niveau 3",
     "Invincible/Scénario 2 La cité pétrifiée/Evénements",
     "Invincible/Scénario 2 La cité pétrifiée",
@@ -224,7 +225,6 @@
     "Annexe/Sortilèges/Niveau 5",
     "Annexe/Sortilèges/Niveau 2",
     "Annexe/Règles",
-    "Annexe/Sortilèges/Niveau 1",
     "Oblivion/Images/Nocturno.png",
     "Oblivion/Images/Ghûraghasta.png",
     "Images/Ghûraghasta.png",
