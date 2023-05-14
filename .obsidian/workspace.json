@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Invincible/Bestiaire/Ecorché.md",
+                "file": "Invincible/Bestiaire/Oraxos.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Invincible/Bestiaire/Ecorché.md",
+                "file": "Invincible/Bestiaire/Oraxos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Invincible/Bestiaire/Ecorché.md",
+                "file": "Invincible/Bestiaire/Oraxos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Invincible/Bestiaire/Ecorché.md"
+                "file": "Invincible/Bestiaire/Oraxos.md"
               }
             }
           }
@@ -189,8 +189,10 @@
   },
   "active": "b0228970f64a9c6c",
   "lastOpenFiles": [
-    "Invincible/Bestiaire/Capitaine de Lycanis.md",
+    "Invincible/Images/Oraxos.jpg",
     "Invincible/Bestiaire/Ecorché.md",
+    "Invincible/Bestiaire/Oraxos.md",
+    "Invincible/Bestiaire/Capitaine de Lycanis.md",
     "Invincible/Bestiaire/Dominia.md",
     "Invincible/Bestiaire/Esclavagiste Troll de pierre.md",
     "Invincible/Images/Troll de pierre.jpg",
@@ -220,8 +222,6 @@
     "Annexe/Sortilèges/Niveau 3/Contresort.md",
     "Annexe/Sortilèges/Niveau 3/Communication avec les plantes.md",
     "Annexe/Sortilèges/Niveau 3/Communication avec les morts.md",
-    "Annexe/Sortilèges/Niveau 3/Colère des damnés.md",
-    "Annexe/Sortilèges/Niveau 3/Clignotement.md",
     "Annexe/Sortilèges/Niveau 3",
     "Invincible/Scénario 2 La cité pétrifiée/Evénements",
     "Invincible/Scénario 2 La cité pétrifiée",
