@@ -21,10 +21,10 @@ actions:
     desc: Le Capitaine effectue deux attaques à l'épée longue. S'il a une épée courte en main, il peut également effectuer une attaque avec cette arme.
   - name: Arbalète lourde
     desc: +3 pour toucher, 30/120m, 1d10+1 dégâts perforants.
-  - name: <trait-name>
-    desc: <trait-description>
-  - name: <trait-name>
-    desc: <trait-description>
+  - name: Epée courte
+    desc: +5 pour toucher, 1d6+3 dégâts tranchants.
+  - name: Epée longue
+    desc: +5 pour toucher, 1d8+3 dégâts tranchants ou 1d10+3 dégâts si utilisée
 legendary_actions:
   - name: <legendary_actions-name>
     desc: <legendary_actions-description>
