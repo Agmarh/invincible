@@ -23,13 +23,15 @@ spells:
   - Niveau 1 (4-1 = 3 emplacements): armure de mage, projectile magique, repli expéditif
   - Niveau 2: pas brumeux, invisibilité
 traits:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
+  - name: Sang du dragon
+    desc: "Oraxos obtient un Avantage lors des jets de sauvegarde effectués pour ne pas être charmé ou terrorisé. De plus il obtient la résistance aux dégâts de feu."
+  - name: Marche sur l'eau
+    desc: "Grâce à son anneau de marche sur l'eau, Oraxos peut marcher sur l'eau et sur les sables mouvants sans être affecté."
 actions:
   - name: <trait-name>
     desc: <trait-description>
-  - ...
+  - name: <trait-name>
+    desc: <trait-description>
 legendary_actions:
   - name: <legendary_actions-name>
     desc: <legendary_actions-description>
