@@ -3,16 +3,15 @@ image: [[clovik.jpg]]
 name: Clovik
 size: M
 type: Humanoïde
-subtype: 
-alignment: Neutre
-ac: 10
-hp: 0
-hit_dice: 1d8+0
-speed: 0
-stats: [10, 10, 10, 10, 10, 10]
-saves:
-  - <ability-score>: number
+subtype: Humain
+alignment: Loyal Bon
+ac: 12 (16 avec armure de mage)
+hp: 19
+hit_dice: 3d8+3
+speed: 9
+stats: [11, 14, 12, 15, 09, 12]
 skillsaves:
+  - <skill-name>: number
   - <skill-name>: number
 damage_vulnerabilities: string
 damage_resistances: string
