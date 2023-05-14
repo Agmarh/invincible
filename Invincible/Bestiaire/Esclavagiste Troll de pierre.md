@@ -1,15 +1,15 @@
 ```statblock
-image: [[monstre.png]]
-name: Nom
-size: 
-type: 
+image: [[Troll de pierre.jpg]]
+name: Esclavagiste Troll de pierre
+size: G
+type: Géant
 subtype: 
-alignment: Neutre
-ac: 10
-hp: 0
-hit_dice: 1d8+0
-speed: 0
-stats: [10, 10, 10, 10, 10, 10]
+alignment: Chaotique Mauvais
+ac: 15 (armure naturelle)
+hp: 45
+hit_dice: 6d10+12
+speed: 9
+stats: [17, 8, 15, 10, 10, 10]
 saves:
   - <ability-score>: number
 skillsaves:
