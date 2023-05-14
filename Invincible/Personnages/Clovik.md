@@ -22,8 +22,7 @@ spells:
   - Niveau 1 (3 emplacements): armure de mage, projectile magique, repli expéditif
 actions:
   - name: Dague
-    desc: "Attaque d'arme au corps à corps ou à distance : +4 pour toucher, allonge 1,50 m ou portée 6/18 m, une créature. Touché : 4 (1d4+2) dégâts
-perforants."
+    desc: "Attaque d'arme au corps à corps ou à distance : +4 pour toucher, allonge 1,50 m ou portée 6/18 m, une créature. Touché : 4 (1d4+2) dégâts perforants."
 treasure:
-  - name: Sceau d'urbius
+  - name: Sceau d'Urbius
 ```
