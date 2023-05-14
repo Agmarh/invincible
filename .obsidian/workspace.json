@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 3/Sans titre.md",
+                "file": "Annexe/Sortilèges/Niveau 3/Caresse du vampire.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 3/Sans titre.md",
+                "file": "Annexe/Sortilèges/Niveau 3/Caresse du vampire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 3/Sans titre.md",
+                "file": "Annexe/Sortilèges/Niveau 3/Caresse du vampire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 3/Sans titre.md"
+                "file": "Annexe/Sortilèges/Niveau 3/Caresse du vampire.md"
               }
             }
           }
@@ -204,7 +204,8 @@
   "active": "bb4b5c4b88e0a7ab",
   "lastOpenFiles": [
     "Template/Sort.md",
-    "Annexe/Sortilèges/Niveau 3/Sans titre.md",
+    "Annexe/Sortilèges/Niveau 3/Caresse du vampire.md",
+    "Annexe/Sortilèges/Niveau 3/Boule de feu.md",
     "Annexe/Sortilèges/Niveau 3/Bénédiction héroïque.md",
     "Annexe/Sortilèges/Niveau 3/Arme sainte.md",
     "Annexe/Sortilèges/Niveau 3/Appel de la foudre.md",
@@ -232,7 +233,6 @@
     "Annexe/Sortilèges/Niveau 2/Restauration inférieure.md",
     "Annexe/Sortilèges/Niveau 2/Rayon de lune.md",
     "Annexe/Sortilèges/Niveau 2/Rayon ardent.md",
-    "Annexe/Sortilèges/Niveau 2/Rayon affaiblissant.md",
     "Annexe/Sortilèges/Niveau 5",
     "Annexe/Sortilèges/Niveau 2",
     "Annexe/Règles",

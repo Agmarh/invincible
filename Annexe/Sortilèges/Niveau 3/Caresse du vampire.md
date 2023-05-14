@@ -1,10 +1,10 @@
 ---
-type: 
-niveau: 
-incantation: 
-distance: 
-composantes: 
-temps: 
+type: Nécromancie
+niveau: 3
+incantation: 1 action
+distance: personnelle
+composantes: V, S
+temps: concentration, jusqu'à 1 minute
 classe: 
 ---
 # <% tp.frontmatter.type %> de niveau <% tp.frontmatter.niveau %>
