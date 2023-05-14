@@ -17,11 +17,10 @@ senses: Perception passive 09
 languages: commun
 cr: 1
 spells:
-  - "Clovik est un lanceur de sorts de niveau 3. Sa caractéristique
-d'incantation est l'Intelligence (DD du jet de sauvegarde contre les sorts 12, +4 pour toucher avec les attaques de sort)."
+  - "Clovik est un lanceur de sorts de niveau 3. Sa caractéristique d'incantation est l'Intelligence (DD du jet de sauvegarde contre les sorts 12, +4 pour toucher avec les attaques de sort)."
   - Tours de magie (à volonté): lumière, trait de feu, message
   - Niveau 1 (4 emplacements): armure de mage, projectile magique, repli expéditif
-  - Niveau 2 (3 emplacements): lévitation, invisib
+  - Niveau 2 (3 emplacements): lévitation, invisibilité
 traits:
   - name: Régénération
     desc: "Clovik récupère 1 point de vie par heure sauf si les dégâts sont causés par une arme en argent ou le feu."
