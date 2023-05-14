@@ -16,21 +16,11 @@ cr: 3
 traits:
   - name: Régénération
     desc: Récupère 5 PV au début de son tour s'il lui reste au moins 1 PV.
-  - name: 
+  - name: Rage
+    desc: Si Dominia est blessée et en danger, entre en rage. Obtient un avantage aux tests de Force et Sauvegarde de Force. Quand il utilise une arme de CAC, il gagne +3 au jet de dégâts. Il devient résistant aux dégâts contondants, perforants et tranchants.
 actions:
   - name: <trait-name>
     desc: <trait-description>
   - ...
-legendary_actions:
-  - name: <legendary_actions-name>
-    desc: <legendary_actions-description>
-  - ...
-bonus_actions:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
-reactions:
-  - name: <reaction-name>
-    desc: <reaction-description>
   - ...
 ```
