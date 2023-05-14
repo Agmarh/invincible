@@ -19,5 +19,5 @@ actions:
     desc: "Attaque d'arme au corps à corps ou à distance : +3 pour toucher, allonge 1,50 m ou portée 6/18 m, une cible. Touché : 4 (1d6+1) dégâts perforants ou 5 (1d8+1) dégâts perforants si elle est maniée à deux mains pour effectuer une attaque au corps à corps."
 tactic:
   - desc: "En présence de leur chef, les soldats combattent jusqu'à la mort, sinon ils se rendent lorsqu'il ne leur reste que 3 pv ou moins."
-  - desc: "Les soldats de Lycanis utilisent des boucliers d'acier rond portant l'emblème du loup noir sur fond argent. Ils possèdent aussi chacun une fiole d'huile et une dizaine de flèches pouvant être enflammées."
+  - desc: "Les soldats de Lycanis utilisent des boucliers d'acier rond portant l'emblème du loup noir sur fond argent."
 ```
