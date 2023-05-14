@@ -1,5 +1,5 @@
 ```statblock
-image: [[clovik.jpg]]
+image: [[Clovik.jpg]]
 name: Clovik
 size: M
 type: Humanoïde
