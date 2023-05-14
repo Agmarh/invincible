@@ -34,4 +34,8 @@ actions:
     desc: "Attaque d'arme au corps à corps : +7 pour toucher, allonge 3 m, une cible. Touché : 6 (1d6+3) dégâts perforants et jet de sauvegarde de Constitution DD 13 ou étourdi jusqu'au prochain tour de Dominia."
 tactique:
   - Dominia combat jusqu'à la mort. Grâce aux pouvoirs de Lytochronox, elle se croit invincible. Lorsqu'elle atteint 0 pv, elle se transforme en goule.
+trésor:
+  - Epée longue +1
+  - Bracelets de défense
+  - 
 ```
