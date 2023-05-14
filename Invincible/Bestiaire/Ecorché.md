@@ -10,8 +10,8 @@ hit_dice: 3d8+9
 speed: 12m, escalade 4,5m
 stats: [14, 15, 16, 3, 6, 5]
 damage_resistances: psychiques
-damage_immunities: string
-condition_immunities: string
+damage_immunities: poison
+condition_immunities: empoisonné, charmé et terrorisé
 senses: string
 languages: string
 cr: 1
