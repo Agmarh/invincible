@@ -11,13 +11,9 @@ speed: 7.5
 stats: [13, 12, 12, 10, 11, 10]
 skillsaves:
   - Perception: 2
-damage_vulnerabilities: string
-damage_resistances: string
-damage_immunities: string
-condition_immunities: string
-senses: string
-languages: string
-cr: 1
+senses: Perception passive 12
+languages: commun
+cr: 1/8
 spells:
   - <description>
   - <spell level>: <spell-list>
