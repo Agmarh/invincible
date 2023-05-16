@@ -15,4 +15,4 @@ Dans le cas où les PJ choisiraient d’échapper à la justice, laissez-les fai
 
 Notez que si l’action s’est déroulée dans Ikhâr, ces tracasseries seront nettement amoindries, mais la réputation des PJ en sortira largement ternie.
 
-Bestiaire : 
+Bestiaire : [[Randel Kane]], [[Milicien]]
