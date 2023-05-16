@@ -13,23 +13,21 @@ saves:
   - For: 7
   - Con: 4
 skillsaves:
-  - Athlétisme: number
-  - Intimis: number
-  - <skill-name>: number
-damage_vulnerabilities: string
-damage_resistances: string
-damage_immunities: string
-condition_immunities: string
-senses: string
-languages: string
-cr: 1
-spells:
-  - <description>
-  - <spell level>: <spell-list>
+  - Athlétisme: 7
+  - Intimidation: 5
+  - Perception: 6
+senses: Vision dans le noir 18m, Perception passive 16
+languages: commun
+cr: 5
 traits:
+  - name: Coups brutaux
+    desc: Randel ajoute deux dés de dégâts à chacune de ses attaques.
   - name: <trait-name>
     desc: <trait-description>
-  - ...
+  - name: <trait-name>
+    desc: <trait-description>
+  - name: <trait-name>
+    desc: <trait-description>
 actions:
   - name: <trait-name>
     desc: <trait-description>
