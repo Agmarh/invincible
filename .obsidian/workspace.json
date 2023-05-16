@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Introduction.md",
+                "file": "Oblivion/Bestiaire/Guerrière soong.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Introduction.md",
+                "file": "Oblivion/Bestiaire/Guerrière soong.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Introduction.md",
+                "file": "Oblivion/Bestiaire/Guerrière soong.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Introduction.md"
+                "file": "Oblivion/Bestiaire/Guerrière soong.md"
               }
             }
           }
@@ -189,8 +189,9 @@
   },
   "active": "d633078d433bb5e6",
   "lastOpenFiles": [
-    "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Sans titre.md",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Introduction.md",
+    "Oblivion/Bestiaire/Guerrière soong.md",
+    "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Sans titre.md",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Chronologie.md",
     "Oblivion/ACTUELLEMENT.md",
     "Oblivion/Groupe/Gestion Compagnie.md",
@@ -219,7 +220,6 @@
     "Template/Sort.md",
     "Invincible/Bestiaire/Hector de Lycanis.md",
     "Invincible/Images/Hector.jpg",
-    "Invincible/Bestiaire/Servantès Di Paleddo.md",
     "Invincible/Images/Servantès.jpg",
     "Invincible/Images/Boutefeu.jpg",
     "Invincible/Images/Mordante.jpg",

@@ -12,4 +12,6 @@ C’est alors qu’un des enfants s’approche de l’étrange femme adossée au
 
 # Début de session
 
-La guerrière dispose d’un round alors que les PJ sont surpris, elle commence à se frayer un chemin vers les enfants en charcutant à tour de bras la foule.
+La guerrière dispose d’un round alors que les PJ sont surpris, elle commence à se frayer un chemin vers les enfants proches des PJ en charcutant à tour de bras la foule.
+
+Si les aventuriers ne réagissent pas immédiatement, une serveuse et un autre enfant sont tués lors du round suivant. Tandis que la tête d’un client décapité vient lourdement choir sur une table. Le round d’après, la puissante guerrière est au contact.
