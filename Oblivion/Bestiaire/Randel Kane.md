@@ -31,6 +31,6 @@ traits:
 actions:
   - name: Attaques multiples
     desc: Randel peut effectuer deux attaques avec une action d’attaque.
-  - name: <trait-name>
-    desc: <trait-description>
+  - name: Epée longue
+    desc: "Attaque d’arme au corps-à-corps : +7 pour toucher, allonge 1,50 m, une cible. Touché : 19 (3d8+6) dégâts tranchants."
 ```
