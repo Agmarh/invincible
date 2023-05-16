@@ -30,24 +30,8 @@ traits:
   - name: Puissance intimidante
     desc: La guerrière soong utilise son modificateur de Force quand elle utilise la compétence Intimidation au lieu de son modificateur de Charisme.
 actions:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
-legendary_actions:
-  - name: <legendary_actions-name>
-    desc: <legendary_actions-description>
-  - ...
-bonus_actions:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
-reactions:
-  - name: <reaction-name>
-    desc: <reaction-description>
-  - ...
-tactic:
-  - desc: <reaction-description>
-treasure:
-  - name: <reaction-name>
-    desc: <reaction-description>
+  - name: Attaques multiples
+    desc: La guerrière soong effectue trois attaques au corps-à-corps avec son cimeterre à deux mains.
+  - name: Cimeterre à deux mains
+    desc: "Attaque d’arme au corps-à-corps : +9 pour toucher, allonge 1,50 m, une cible. Touché : 15 (3d6+6) dégâts tranchants. En cas de coup critique, la victime doit faire un jet de sauvegarde de Constitution DD 15 ou subir l’état étourdi."
 ```
