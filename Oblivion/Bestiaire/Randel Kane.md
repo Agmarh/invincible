@@ -2,16 +2,19 @@
 name: Randel Kane
 size: M
 type: Humanoïde
-subtype: 
+subtype: Nain
 alignment: Neutre
-ac: 10
-hp: 0
-hit_dice: 1d8+0
-speed: 0
-stats: [10, 10, 10, 10, 10, 10]
+ac: 17
+hp: 77
+hit_dice: 14d8+14
+speed: 9
+stats: [19, 17, 11, 13, 11, 13]
 saves:
-  - <ability-score>: number
+  - For: 7
+  - Con: 4
 skillsaves:
+  - Athlétisme: number
+  - Intimis: number
   - <skill-name>: number
 damage_vulnerabilities: string
 damage_resistances: string
