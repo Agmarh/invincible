@@ -1,0 +1,3 @@
+Quelques instants plus tard, la milice locale se précipite sur les lieux (20 Gardes armés
+d’arbalètes). Si personne ne l’a déjà fait, ils abattent la meurtrière sans réfléchir (même si les PJ l’ont immobilisée). Le capitaine de la milice conduit alors une rapide enquête, jette un regard révulsé sur la tache noire qui défigure le visage de la femme, puis fait emmener son
+corps au temple le plus proche.
