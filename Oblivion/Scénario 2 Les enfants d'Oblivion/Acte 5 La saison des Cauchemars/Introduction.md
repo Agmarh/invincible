@@ -2,7 +2,6 @@ La saison des souffles Ardents vient de commencer, des vents capricieux venus de
 
 Les PJ se retrouvent dans la taverne à Ikhâr et peuvent discuter entre eux de leur étrange rêve.
 
-<font style="color:green">Text Color</font>
 C’est alors qu’une étrange femme va entrer dans la taverne : jet de Perspicacité ou Perception DD 20 pour remarquer que “quelque chose ne va pas”.
 
 Près des PJ, des enfants jouent autour d’une fontaine intérieure : l’un d’eux capture un scarabée et, tout en lui arrachant les pattes, murmure une ritournelle qui leur fera sans doute dresser l’oreille jet de Perception DD 8 : « Un, deux, trois. Une nouvelle proie. Quatre, cinq, six. Toute prête au supplice... »
@@ -11,3 +10,6 @@ Si un PJ interroge l’enfant, ce dernier déclare ne pas savoir où il a entend
 
 C’est alors qu’un des enfants s’approche de l’étrange femme adossée au comptoir, les PJ entendent un bruit d’armes que l’on sort du fourreau, puis un hurlement, bestial ! Alors qu’elle embroche l’enfant, sa longue cape tombe au sol, révélant une humaine à la musculature impressionnante, avec des dents taillées en pointes. Dans son regard on peut lire la folie la plus pure, et on peut apercevoir une étrange tache nécrotique qui déforme son visage.
 
+# Début de session
+
+La guerrière dispose d’un round alors que les PJ sont surpris, elle commence à se frayer un chemin vers les enfants en charcutant à tour de bras la foule.
