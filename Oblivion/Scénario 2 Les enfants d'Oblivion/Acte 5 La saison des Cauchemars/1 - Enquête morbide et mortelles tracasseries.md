@@ -9,4 +9,8 @@ En effet, la population locale, révoltée par ce massacre et galvanisée par le
 
 Si les PJ se sont illustrés (en limitant le nombre de morts), ils gagnent immédiatement son estime et sont libérés sans encombre. En revanche, s’ils ont agi de façon inconsidérée (sorts offensifs à grande aire d’effet, clients blessés, etc.), ils sont enfermés dans la prison de la ville : un fortin de pierre comportant un bureau, une salle d’interrogatoire, un dortoir, et une grande cellule commune. Seules de longues plaidoiries et une très lourde amende permettront alors leur relaxe : comptez 2 000 po par victime. 
 
-Un jet de Persuasion DD 18 réussi par victime permet de divisé l’amende par deux à chaque fois. Mais ils doivent répéter le jet pour chacune des victimes qu’ils ont fait, indépendamment les unes des autres. Dans le cas où les PJ choisiraient d’échapper à la justice (ex : en s’évadant), laissez-les faire sans trop leur mettre de bâton dans les roues... Mais n’hésitez pas à ressortir les conséquences de cette affaire un peu plus tard : avis de recherche placardés dans les lieux publics... Notez que si l’action s’est déroulée dans Ikhâr, ces tracasseries seront nettement amoindries, mais la réputation des PJ en sortira largement ternie.
+Un jet de Persuasion DD 18 réussi par victime permet de divisé l’amende par deux à chaque fois. Mais ils doivent répéter le jet pour chacune des victimes qu’ils ont fait, indépendamment les unes des autres. 
+
+Dans le cas où les PJ choisiraient d’échapper à la justice, laissez-les faire sans trop leur mettre de bâton dans les roues... Mais n’hésitez pas à ressortir les conséquences de cette affaire un peu plus tard : avis de recherche placardés dans les lieux publics... 
+
+Notez que si l’action s’est déroulée dans Ikhâr, ces tracasseries seront nettement amoindries, mais la réputation des PJ en sortira largement ternie.
