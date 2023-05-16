@@ -27,8 +27,8 @@ traits:
     desc: La guerrière soong peut remplacer l’échec d’un de ses jets de sauvegarde par une réussite.
   - name: Défense sans armure
     desc: La guerrière soong, quand elle ne porte pas d’armure, peut ajouter son bonus de Constitution à sa défense.
-  - name: <trait-name>
-    desc: <trait-description>
+  - name: Puissance intimidante
+    desc: La guerrière soong utilise son modificateur de Force quand elle utilise la compétence Intimidation au lieu de son modificateur de Charisme.
 actions:
   - name: <trait-name>
     desc: <trait-description>
