@@ -8,13 +8,13 @@ Ikhâr prospère et commence à bénéficier de la renommée de la compagnie des
 
 Possible de consulter un tableau de quêtes, accessible à la capitainerie, devenue depuis une auberge. Fan'Goryah gère la compagnie depuis sa propre gondolfière.
 
-## Le point
+# Le point
 
 Réghûlus et Sérénité refusent toute transmigration avant d’avoir retrouvé leur capacité.
 
 La matrice reste muette.
 
-## L’antre du Nécromant
+# L’antre du Nécromant
 
 [L’antre du Nécromant](https://www.notion.so/L-antre-du-N-cromant-b26d9a07bbe24214b218ac307aacbf65)
 
