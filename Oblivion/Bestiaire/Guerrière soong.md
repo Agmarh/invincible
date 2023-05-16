@@ -12,19 +12,14 @@ speed: 9
 stats: [20, 16, 18, 11, 11, 13]
 saves:
   - Dex: 7
-  - Con: number
+  - Con: 8
 skillsaves:
-  - <skill-name>: number
-damage_vulnerabilities: string
-damage_resistances: string
-damage_immunities: string
-condition_immunities: string
-senses: string
-languages: string
-cr: 1
-spells:
-  - <description>
-  - <spell level>: <spell-list>
+  - Athlétisme: 9
+  - Intimidation: 9
+condition_immunities: charmé
+senses: Perception passive 10
+languages: Commun, Soong
+cr: 7
 traits:
   - name: <trait-name>
     desc: <trait-description>
