@@ -10,34 +10,3 @@ Si un PJ interroge l’enfant, ce dernier déclare ne pas savoir où il a entend
 
 C’est alors qu’un des enfants s’approche de l’étrange femme adossée au comptoir, les PJ entendent un bruit d’armes que l’on sort du fourreau, puis un hurlement, bestial ! Alors qu’elle embroche l’enfant, sa longue cape tombe au sol, révélant une humaine à la musculature impressionnante, avec des dents taillées en pointes. Dans son regard on peut lire la folie la plus pure, et on peut apercevoir une étrange tache nécrotique qui déforme son visage.
 
-La guerrière bénéficie de 1 round durant lequel les personnages sont surpris (sauf contre les PJ ayant réussi précédemment leur jet de Sagesse). Elle en profite pour
-décapiter l’enfant qui s’est approché d’elle, avant de se
-tailler un chemin de chair à travers la foule, droit vers le
-reste du groupe de bambins, et les PJ !
-Si les aventuriers ne réagissent pas immédiatement,
-une serveuse et un autre enfant sont tués lors du round
-suivant. Tandis que la tête d’un client décapité vient lourdement
-choir sur une table. Le round d’après, la puissante
-guerrière est au contact.
-Le combat, dans la taverne bondée, est un véritable
-cauchemar. Les PJ, gênés, ont automatiquement un désavantage
-(5E ou un malus de -3 (COF)) à tous leurs jets
-d’attaque, même ceux impliquant la Dextérité. Le plus
-simple est de neutraliser la guerrière avec un sort, ou de
-sauter sur l’un des lustres au plafond (Force (Athlétisme)
-DD 12 dans 5E, ou Force DD 9 dans COF) pour la frapper
-d’en haut, évitant ainsi la foule. Il est aussi possible
-d’organiser l’évacuation rapide des gens pour isoler la
-guerrière : ceci demande jet de Charisme (Persuasion)
-dans 5E ou de Charisme dans COF. Avec un résultat de
-25 (5E) ou 22 (COF), l’évacuation prend un round. Avec
-un résultat de 20 (5E) ou 17 (COF) cela prend 2 rounds,
-et avec un résultat de 15 (5E) ou 12 (COF) cela prend 3
-rounds. Au quatrième, la foule a de toute façon libéré
-l’aire de combat.
-N’hésitez pas à utiliser toutes les possibilités qu’un tel
-cadre vous offre : duel sur le comptoir, projection de mobilier,
-otage à libérer, etc. Durant le combat. La guerrière
-saisie de furie meurtrière répète sans cesse d’une voix
-éraillée « Les Enfants, il faut tuer les Enfants : ce sont les
-légions de l’Écorcheuse.. »
