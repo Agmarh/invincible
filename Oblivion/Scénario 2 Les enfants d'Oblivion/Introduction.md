@@ -22,3 +22,6 @@ Sur le tableau d'affichage, une petite annonce attire l'œil de nos aventuriers 
 
 # La Chasse Skïam
 
+# Lettre pour Razan
+
+# Le rêve se répand
