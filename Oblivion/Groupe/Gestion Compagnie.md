@@ -11,22 +11,18 @@ Coût d'entretien 52 po par jour.
 | 31 - 40 | Vous devez payer la moitié des coûts d'entretien de l'entreprise pour chacun des jours. Les bénéfices couvrent l'autre moitié |
 | 41 - 60 | L'entreprise couvre ses propres frais d'entretien pour chacun des jours |
 | 61 - 80 | L'entreprise couvre ses propres frais d'entretien pour chacun des jours. Elle génère un bénéfice de 1d6x5 po |
-| 91 ou + | Item 5 |
+| 81 - 91 | L'entreprise couvre ses propres frais d'entretien pour chacun des jours. Elle génère un bénéfice de 2d8x5 po |
+| 91 ou + | L'entreprise couvre ses propres frais d'entretien pour chacun des jours. Elle génère un bénéfice de 3d10x5 po |
 
-
-
-61 - 80
-
-L'entreprise couvre ses propres frais d'entretien pour chacun des jours. Elle génère un bénéfice de 1d6*5 po
-
-81 - 90
-
-L'entreprise couvre ses propres frais d'entretien pour chacun des jours. Elle génère un bénéfice de 2d8*5 po
-
-91 ou +
-
-L'entreprise couvre ses propres frais d'entretien pour chacun des jours. Elle génère un bénéfice de 3d10*5 po
-
+| D100+jours | Résultat |  
+| -------- | -------- |
+| 01 - 20 | Vous devez payer une fois et demi les coûts d'entretien de l'entreprise pour chacun des jours | 
+| 21 - 30 | Vous devez payer le coût d'entretien complet de l'entreprise pour chacun des jours |
+| 31 - 40 | Vous devez payer la moitié des coûts d'entretien de l'entreprise pour chacun des jours. Les bénéfices couvrent l'autre moitié |
+| 41 - 60 | L'entreprise couvre ses propres frais d'entretien pour chacun des jours |
+| 61 - 80 | L'entreprise couvre ses propres frais d'entretien pour chacun des jours. Elle génère un bénéfice de 1d6x5 po |
+| 81 - 91 | L'entreprise couvre ses propres frais d'entretien pour chacun des jours. Elle génère un bénéfice de 2d8x5 po |
+| 91 ou + | L'entreprise couvre ses propres frais d'entretien pour chacun des jours. Elle génère un bénéfice de 3d10x5 po |
 PC
 
 PA
