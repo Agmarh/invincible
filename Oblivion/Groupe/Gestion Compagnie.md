@@ -6,32 +6,14 @@ Coût d'entretien 52 po par jour.
 
 | D100+jours | Résultat |  
 | -------- | -------- |
-| 01 - 20 | Item 2 | 
-| 21 - 30 | Item 5 |
-| 31 - 40 | Item 5 |
-| 41 - 60 | Item 5 |
-| 61 - 80 | Item 5 |
+| 01 - 20 | Vous devez payer une fois et demi les coûts d'entretien de l'entreprise pour chacun des jours | 
+| 21 - 30 | Vous devez payer le coût d'entretien complet de l'entreprise pour chacun des jours |
+| 31 - 40 | Vous devez payer la moitié des coûts d'entretien de l'entreprise pour chacun des jours. Les bénéfices couvrent l'autre moitié |
+| 41 - 60 | L'entreprise couvre ses propres frais d'entretien pour chacun des jours |
+| 61 - 80 | L'entreprise couvre ses propres frais d'entretien pour chacun des jours. Elle génère un bénéfice de 1d6x5 po |
 | 91 ou + | Item 5 |
 
-D100+jours
 
-Résultat
-
-01 - 20
-
-Vous devez payer une fois et demi les coûts d'entretien de l'entreprise pour chacun des jours
-
-21 - 30
-
-Vous devez payer le coût d'entretien complet de l'entreprise pour chacun des jours
-
-31 - 40
-
-Vous devez payer la moitié des coûts d'entretien de l'entreprise pour chacun des jours. Les bénéfices couvrent l'autre moitié
-
-41 - 60
-
-L'entreprise couvre ses propres frais d'entretien pour chacun des jours.
 
 61 - 80
 
