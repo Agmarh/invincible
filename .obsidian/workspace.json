@@ -155,7 +155,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "fd5288df57dbe23a",
@@ -173,7 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 415.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,8 +187,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b0228970f64a9c6c",
+  "active": "dfba10df3d5d2883",
   "lastOpenFiles": [
+    "Oblivion/Scénario 2 Les enfants d'Oblivion/L'Antre du Nécromant.md",
+    "Oblivion/Scénario 2 Les enfants d'Oblivion/Introduction.md",
     "Oblivion/Groupe/Gestion Compagnie.md",
     "Oblivion/Groupe/Planque.md",
     "Template/Sans titre.md",
@@ -197,7 +199,6 @@
     "Oblivion/Magie.md",
     "Template/Objet.md",
     "Oblivion/Objets Magiques/Nocturno.md",
-    "Oblivion/Scénario 2 Les enfants d'Oblivion/Introduction.md",
     "Invincible/Personnages/Clovik Scénario 2.md",
     "Oblivion/Scénario 2 Les enfants d'Oblivion",
     "Invincible/Personnages/Clovik Scénario 1.md",
@@ -217,7 +218,6 @@
     "Invincible/Bestiaire/Dominia.md",
     "Invincible/Bestiaire/Baphit.md",
     "Invincible/Objets Magiques/Saignemort.md",
-    "Invincible/Objets Magiques/Armure du loup.md",
     "Invincible/Images/Servantès.jpg",
     "Invincible/Images/Boutefeu.jpg",
     "Invincible/Images/Mordante.jpg",
