@@ -26,27 +26,11 @@ traits:
     desc: Randel peut utiliser son action bonus afin de regagner 1d10+5 points de vie. Il doit effectuer un repos court avant de réutiliser ces capacités.
   - name: Sursaut d'activité
     desc: Randel peut utiliser cette aptitude afin d’effectuer, lors de son tour, une action supplémentaire. Il doit effectuer un repos long avant de pouvoir user de nouveau de cette capacité. 
-  - name: Style de combat : duel
-    desc: Quand il manie une arme à une main sans aucune autre arme dans l’autre main, Randel gagne +2 à ses dégâts (déjà intégré).
+  - name: Style de combat duel
+    desc: Quand il manie une arme à une main sans aucune autre arme dans l’autre main, Randel gagne + 2 à ses dégâts (déjà intégré).
 actions:
+  - name: Attaques multiples
+    desc: Randel peut effectuer deux attaques avec une action d’attaque.
   - name: <trait-name>
     desc: <trait-description>
-  - ...
-legendary_actions:
-  - name: <legendary_actions-name>
-    desc: <legendary_actions-description>
-  - ...
-bonus_actions:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
-reactions:
-  - name: <reaction-name>
-    desc: <reaction-description>
-  - ...
-tactic:
-  - desc: <reaction-description>
-treasure:
-  - name: <reaction-name>
-    desc: <reaction-description>
 ```
