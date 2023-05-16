@@ -3,15 +3,16 @@ image: [[Guerrière Soong.jpg]]
 name: Guerrière soong
 size: M
 type: Humanoïde
-subtype: 
-alignment: Neutre
-ac: 10
-hp: 0
-hit_dice: 1d8+0
-speed: 0
-stats: [10, 10, 10, 10, 10, 10]
+subtype: Humain
+alignment: Chaotique Mauvais
+ac: 17
+hp: 102
+hit_dice: 12d8+48
+speed: 9
+stats: [20, 16, 18, 11, 11, 13]
 saves:
-  - <ability-score>: number
+  - Dex: 7
+  - Con: number
 skillsaves:
   - <skill-name>: number
 damage_vulnerabilities: string
