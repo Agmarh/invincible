@@ -2,6 +2,7 @@ La saison des souffles Ardents vient de commencer, des vents capricieux venus de
 
 Les PJ se retrouvent dans la taverne à Ikhâr et peuvent discuter entre eux de leur étrange rêve.
 
+<font style="color:green">Text Color</font>
 C’est alors qu’une étrange femme va entrer dans la taverne : jet de Perspicacité ou Perception DD 20 pour remarquer que “quelque chose ne va pas”.
 
 Près des PJ, des enfants jouent autour d’une fontaine intérieure : l’un d’eux capture un scarabée et, tout en lui arrachant les pattes, murmure une ritournelle qui leur fera sans doute dresser l’oreille jet de Perception DD 8 : « Un, deux, trois. Une nouvelle proie. Quatre, cinq, six. Toute prête au supplice... »
