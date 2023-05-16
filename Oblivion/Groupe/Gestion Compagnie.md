@@ -4,6 +4,11 @@ Pour chaque dette impayée contractée de cette manière, le personnage subit un
 
 Coût d'entretien 52 po par jour.
 
+| D100+jours | Résultat |  
+| -------- | -------- | -------- |  
+| Item 1 | Item 2 | Item 3 |  
+| Item 4 | Item 5 | Item 6 |
+
 D100+jours
 
 Résultat
