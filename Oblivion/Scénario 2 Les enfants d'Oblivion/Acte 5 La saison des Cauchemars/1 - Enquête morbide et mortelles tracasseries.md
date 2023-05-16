@@ -14,3 +14,5 @@ Un jet de Persuasion DD 18 réussi par victime permet de divisé l’amende par 
 Dans le cas où les PJ choisiraient d’échapper à la justice, laissez-les faire sans trop leur mettre de bâton dans les roues... Mais n’hésitez pas à ressortir les conséquences de cette affaire un peu plus tard : avis de recherche placardés dans les lieux publics... 
 
 Notez que si l’action s’est déroulée dans Ikhâr, ces tracasseries seront nettement amoindries, mais la réputation des PJ en sortira largement ternie.
+
+Bestiaire : 
