@@ -19,3 +19,6 @@ La matrice reste muette.
 Sur le tableau d'affichage, une petite annonce attire l'œil de nos aventuriers :
 
 "Cherche aventuriers pour nettoyer une grotte, forte récompense à la clé. Contacter Rodrik à l'auberge". [[L'antre du Nécromant]]
+
+# La Chasse Skïam
+
