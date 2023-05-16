@@ -4,6 +4,6 @@ Ils ne trouveront pas d'autres rêveurs comme eux, mais avec un bon jet d'Invest
 
 Dans le même temps, les PJ vont recevoir via Fan'Goriah, une lettre de Malathor indiquant qu’il a fait ce même cauchemar, il demande des nouvelles de la quête de nos personnages.
 
-[Le Cauchemar.pdf](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f54a50eb-b9eb-4695-ae26-17c0327fdc83/Le_Cauchemar.pdf)
+[[Le Cauchemar.pdf]]
 
 Les PJ répondent : Ils parlent du cauchemar, on ne sait pas quoi faire, toute aide est bienvenue.

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ba4df8253f53596b",
+        "id": "4f058291b0e4fb5f",
         "type": "tabs",
         "children": [
           {
-            "id": "b0228970f64a9c6c",
+            "id": "d633078d433bb5e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -187,8 +187,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b0228970f64a9c6c",
+  "active": "d633078d433bb5e6",
   "lastOpenFiles": [
+    "Oblivion/PDF/Le Cauchemar.pdf",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Le rêve se répand.md",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Lettre pour Razan.md",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Introduction.md",
@@ -217,7 +218,6 @@
     "Invincible/Bestiaire/Servantès Di Paleddo.md",
     "Invincible/Bestiaire/Sergents de Lycanis.md",
     "Invincible/Bestiaire/Ecorché Troll.md",
-    "Invincible/Bestiaire/Ecorché.md",
     "Invincible/Images/Servantès.jpg",
     "Invincible/Images/Boutefeu.jpg",
     "Invincible/Images/Mordante.jpg",
@@ -234,7 +234,6 @@
     "Oblivion/Monstres/Sans titre",
     "Annexe/Sortilèges/Niveau 3",
     "Invincible/Scénario 2 La cité pétrifiée/Evénements",
-    "Invincible/Scénario 2 La cité pétrifiée",
     "Oblivion/PNJ/Sans titre.canvas"
   ]
 }
