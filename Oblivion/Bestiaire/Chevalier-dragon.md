@@ -15,22 +15,15 @@ saves:
   - Con: 6
   - Sag: 3
 skillsaves:
-  - <skill-name>: number
-  - <skill-name>: number
-  - <skill-name>: number
-damage_vulnerabilities: string
-damage_resistances: string
-damage_immunities: string
-condition_immunities: string
-senses: string
-languages: string
-cr: 1
-spells:
-  - <description>
-  - <spell level>: <spell-list>
+  - Athlétisme: 7
+  - Intimidation: 5
+  - Perception: 3
+senses: Perception passive 13
+languages: commun
+cr: 7
 traits:
-  - name: <trait-name>
-    desc: <trait-description>
+  - name: Attaques sanglantes
+    desc: Un chevalier-dragon ajoute deux dés de dégâts à chacune de ses attaques.
   - ...
 actions:
   - name: <trait-name>
