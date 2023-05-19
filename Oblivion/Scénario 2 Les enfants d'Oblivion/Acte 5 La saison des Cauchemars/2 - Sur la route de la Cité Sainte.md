@@ -32,4 +32,4 @@ L’Enfermé essaye d’impressionner les PJ (Intimidation) et multiplie les tra
 
 Habilement interrogé, il révélera que son ordre est, pour la première fois dans son histoire, confronté à un adversaire insaisissable qui ose frapper la congrégation sur ses propres terres : une terrible maladie, répandant une implacable épidémie de folie et de mort...
 
-Bestiaire : chevalier-dragon, dragon d’acier adulte, lézard géant, mégaraptor.
+Bestiaire : [[Chevalier-dragon]], dragon d’acier adulte, lézard géant, mégaraptor.
