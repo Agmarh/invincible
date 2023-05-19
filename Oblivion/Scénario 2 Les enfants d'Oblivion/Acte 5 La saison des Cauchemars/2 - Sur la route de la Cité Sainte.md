@@ -11,3 +11,6 @@ Leur patriarche est le fameux barde Faustit Farendhell. À son propos, un test d
 Les elfes sauvés peuvent ajouter qu’il a beaucoup changé ces derniers temps : après une réunion houleuse avec les prêtres de Justicaar, il y a quelques jours, il est devenu ombrageux puis a fini par mettre tout le monde à la porte. Les elfes ont dû quitter le quartier noble et le laisser seul, alors qu’une grave maladie se répandait dans la ville basse, semant le trouble et la confusion.
 
 Les elfes se montreront reconnaissants envers les PJ après leur sauvetage. Ils les remercieront en leur offrant les seuls objets magiques qu’ils possèdent : une cape elfique et des bottes elfiques ainsi qu’un cadeau bien plus précieux, leur amitié.
+
+Bestiaire : elfes de la Maison Farendhell (8), gobelins (28), chefs de meute gobelin
+(2), hyènes de guerre (30).
