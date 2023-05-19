@@ -29,11 +29,6 @@ Ainsi, pendant quelques instants, les PJ ont tout loisir de détailler la formid
 
 Puis le chevalier-dragon commence à questionner les PJ sur les motifs de leur voyage et leur ordonne de se poser en marge de l’Infer, le survol de la cité étant formellement interdit. Si les PJ refusent d’obtempérer, il appelle en renfort les deux autres chevaliers, qui surgissent en quelques minutes, bien décidés à faire respecter la loi...
 
-L’Enfermé essaye d’impressionner les PJ (Intimidation) et multiplie les tracasseries administratives (évitables par trois jets successifs de Diplomatie ou Bluff, DD 10, DD 12 et DD 15) : examen de leurs armes, prélèvementd’une taxe d’atterrissage... Un jet de Psychologie (DD 12)
-permettra de deviner que le zèle de ce chevalier est en
-rapport avec un sentiment inconcevable d’impuissance.
-Habilement interrogé, il révélera que son ordre est, pour
-la première fois dans son histoire, confronté à un adversaire
-insaisissable qui ose frapper la congrégation sur ses
-propres terres : une terrible maladie, répandant une implacable
-épidémie de folie et de mort...
+L’Enfermé essaye d’impressionner les PJ (Intimidation) et multiplie les tracasseries administratives (évitables par trois jets successifs de Diplomatie ou Bluff, DD 10, DD 12 et DD 15) : examen de leurs armes, prélèvement d’une taxe d’atterrissage... Un jet de Perspicacité (DD 12) permettra de deviner que le zèle de ce chevalier est en rapport avec un sentiment inconcevable d’impuissance. 
+
+Habilement interrogé, il révélera que son ordre est, pour la première fois dans son histoire, confronté à un adversaire insaisissable qui ose frapper la congrégation sur ses propres terres : une terrible maladie, répandant une implacable épidémie de folie et de mort...
