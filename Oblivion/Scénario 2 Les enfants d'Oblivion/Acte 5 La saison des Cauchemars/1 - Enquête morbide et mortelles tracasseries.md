@@ -33,15 +33,8 @@ L’examen doit apporter progressivement certaines informations. Les jets de com
 
 ## Sort de communication avec les morts
 Selon l’habileté des PJ, un sort de communication avec les morts (ou sort divinatoire proche) peut révéler une partie - ou l’intégralité - des éléments suivants : 
-- La guerrière soong est une « Jihadda », une tueuse sacrée, élite de son clan. Elle revenait d’Anthéone aprèsun pèlerinage : un rituel impliquant des bains purificateurs
-dans les sources de la cité sainte. Elle s’est détendue
-dans un établissement de plaisir (les « Saintes
-Concubines »). Elle s’est fait tatouer (chez « Katanga,
-le Maître des Encres »). Elle a commencé avoir des
-hallucinations pendant son voyage de retour, et ses
-premières taches noires sont apparues il y a deux
-jours. Elle ne sait pas comment c’est arrivé. Enfin,
-quelle que soit ta question posée, le cadavre répétera
-plusieurs fois « Tuez les Enfants Maudits. Tuez-les
-tous... », comme si son cerveau était obnubilé par
-cette unique idée.
+- La guerrière soong est une « Jihadda », une tueuse sacrée, élite de son clan. Elle revenait d’Anthéone après un pèlerinage : un rituel impliquant des bains purificateurs dans les sources de la cité sainte.
+- Elle s’est détendue dans un établissement de plaisir (les « Saintes Concubines »). 
+- Elle s’est fait tatouer (chez « Katanga, le Maître des Encres »). 
+- Elle a commencé avoir des hallucinations pendant son voyage de retour, et ses premières taches noires sont apparues il y a deux jours. Elle ne sait pas comment c’est arrivé. 
+- Enfin, quelle que soit ta question posée, le cadavre répétera plusieurs fois « Tuez les Enfants Maudits. Tuez-les tous... », comme si son cerveau était obnubilé par cette unique idée.
