@@ -96,7 +96,26 @@
   "playerMarker": "default",
   "monsterMarker": "default",
   "state": {
-    "creatures": [],
+    "creatures": [
+      {
+        "name": "Guerrière soong",
+        "initiative": 5,
+        "modifier": 3,
+        "hp": 102,
+        "currentMaxHP": 102,
+        "ac": 17,
+        "currentAC": 17,
+        "id": "ID_5bfa580a5ada",
+        "currentHP": 102,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "xp": 2900,
+        "hidden": false,
+        "friendly": false,
+        "hit_dice": "12d8+48"
+      }
+    ],
     "state": false,
     "name": null,
     "round": 1,
@@ -1373,6 +1392,32 @@
       ],
       "state": false,
       "name": "Attaque de Caravane",
+      "round": 1,
+      "logFile": ""
+    },
+    "Attaque Taverne": {
+      "creatures": [
+        {
+          "name": "Guerrière soong",
+          "initiative": 5,
+          "modifier": 3,
+          "hp": 102,
+          "currentMaxHP": 102,
+          "ac": 17,
+          "currentAC": 17,
+          "id": "ID_5bfa580a5ada",
+          "currentHP": 102,
+          "tempHP": 0,
+          "status": [],
+          "enabled": true,
+          "xp": 2900,
+          "hidden": false,
+          "friendly": false,
+          "hit_dice": "12d8+48"
+        }
+      ],
+      "state": false,
+      "name": "Attaque Taverne",
       "round": 1,
       "logFile": ""
     }
