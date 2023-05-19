@@ -32,3 +32,40 @@ Puis le chevalier-dragon commence à questionner les PJ sur les motifs de leur v
 L’Enfermé essaye d’impressionner les PJ (Intimidation) et multiplie les tracasseries administratives (évitables par trois jets successifs de Diplomatie ou Bluff, DD 10, DD 12 et DD 15) : examen de leurs armes, prélèvement d’une taxe d’atterrissage... Un jet de Perspicacité (DD 12) permettra de deviner que le zèle de ce chevalier est en rapport avec un sentiment inconcevable d’impuissance. 
 
 Habilement interrogé, il révélera que son ordre est, pour la première fois dans son histoire, confronté à un adversaire insaisissable qui ose frapper la congrégation sur ses propres terres : une terrible maladie, répandant une implacable épidémie de folie et de mort...
+
+Ainsi, quelle que soit la manière dont les PJ sont parvenus jusqu’ici, ils se retrouvent aux pieds de la capitale spirituelle de l’Empire où ils vont être confrontés, au fil de leur enquête, aux deux menaces que l’Écorcheuse fait
+peser sur Anthéone : les ravageurs et la gangrêve...
+Pour la gestion de cet épisode, nous vous fournissons
+les éléments principaux dans les chapitres suivants :
+» Les eaux d’Anthéone, vous donne une vue d’ensemble
+de la ville, son ambiance et son organisation
+: ces notions pourront être révélées aux PJ
+(dialogue avec des pèlerins devant un verre, jets de
+Connaissance...).
+» Terreur sur la cité sainte, résume les faits et gestes
+des ravageurs.
+» Les principaux lieux d’Anthéone sont ensuite décrits
+quartier par quartier, avec pour chacun : les
+indices de l’enquête et la chronologie des événements
+qui s’y déroulent pendant six jours, à partir
+de l’arrivée des PJ (cette chronologie étant, bien sûr,
+susceptible d’être altérée par vos joueurs).
+Vos PJ disposent d’une grande liberté d’action. Aussi
+les différents lieux d’Anthéone ne sont-ils pas décrits
+dans leurs moindres détails.
+Réfléchissez aux aspects de la ville qui vous intéressent
+le plus, imprégnez-vous de leur ambiance et développez-
+les... mais n’oubliez pas que tout cela n’est qu’un décor
+pour mettre en scène les ravageurs et la gangrêve !
+Évitez d’entraîner les joueurs dans des intrigues trop
+secondaires et déplacez à loisir la date des événements
+pour suivre la trame qui vous convient. Si vous peinez,
+les PJ peuvent être subtilement « conseillés » par Malathor
+(cf.).
+Au terme de l’enquête, les déductions des PJ doivent
+les amener dans les sous-sols, sur la piste du chef des
+ravageurs, où ils découvriront plusieurs secrets d’importance,
+et vivront un final particulièrement meurtrier. De
+leur vitesse et leur habileté dépendra leur succès. Désormais,
+l’horloge tourne, et joue contre les PJ... Bienvenue
+à Anthéone !
