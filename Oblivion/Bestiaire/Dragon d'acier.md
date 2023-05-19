@@ -31,6 +31,10 @@ actions:
     desc: "Attaque d’arme au corps à corps : +7 pour toucher, allonge 3 m, une cible. Touché : 15 (2d10+4) dégâts perforants."
   - name: Souffle (Recharge 5-6)
     desc: "Le dragon utilise l’un des souffles suivants :"
+  - name: Souffle de feu
+    desc: "Le dragon souffle du feu sur une ligne de 12 mètres de long et 1,50 mètre de large. Les créatures sur cette ligne doivent chacune effectuer un jet de sauvegarde de Dextérité DD 14 ; elles subissent 42 (12d6) dégâts de feu en cas de jet de sauvegarde raté ou la moitié de ces dégâts seulement en cas de réussite."
+  - name: Souffle soporifique
+    desc: "Le dragon souffle un gaz soporifique sur un cône de 9 mètres. Les créatures dans ce cône doivent chacune réussir un jet de sauvegarde de Constitution DD 14 pour ne pas tomber inconscientes pendant 5 minutes. Une créature victime de cet effet reprend connaissance si elle subit des dégâts ou si quelqu’un consacre une action à lui faire reprendre ses esprits."
 legendary_actions:
   - name: <legendary_actions-name>
     desc: <legendary_actions-description>
