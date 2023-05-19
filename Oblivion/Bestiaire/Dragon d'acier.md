@@ -18,24 +18,19 @@ skillsaves:
   - Discrétion: 3
   - Perception: 6
   - Persuasion: 5
-damage_vulnerabilities: string
-damage_resistances: string
-damage_immunities: string
-condition_immunities: string
-senses: string
-languages: string
-cr: 1
-spells:
-  - <description>
-  - <spell level>: <spell-list>
-traits:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
+damage_immunities: feu
+senses: vision aveugle 9m, vision dans le noir 36m, Perception passive 16
+languages: commun, draconique
+cr: 6
 actions:
+  - name: Attaques multiples
+    desc: <trait-description>
   - name: <trait-name>
     desc: <trait-description>
-  - ...
+  - name: <trait-name>
+    desc: <trait-description>
+  - name: <trait-name>
+    desc: <trait-description>
 legendary_actions:
   - name: <legendary_actions-name>
     desc: <legendary_actions-description>
