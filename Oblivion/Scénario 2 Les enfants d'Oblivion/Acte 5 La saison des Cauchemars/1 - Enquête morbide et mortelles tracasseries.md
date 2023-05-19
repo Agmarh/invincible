@@ -18,3 +18,71 @@ Notez que si l’action s’est déroulée dans Ikhâr, ces tracasseries seront 
 Bestiaire : [[Randel Kane]], [[Milicien]]
 
 # L'examen du corps
+Le corps de la guerrière repose dans le temple le plus proche, où un prêtre lui administre les derniers sacrements. Pour les PJ, il serait judicieux de l’examiner plus avant. (S’ils sont à Ikhâr, leur réputation devrait leur
+permettre d’y accéder sans difficulté. S’ils sont dans une
+autre ville, tout dépend de leur attitude précédente).
+Le temple comporte une chapelle centrale, une maison
+d’habitation et un cimetière. Il est entouré d’une grille
+et gardé par le prêtre et quatre miliciens, qui font aussi
+office d’assistants. Le corps de la guerrière est dans la
+crypte. On y descend par un escalier dérobé, derrière le
+confessionnal que l’on peut découvrir avec un test d’Intelligence
+(Investigation) DD17 (5E) ou de Sagesse DD
+14 (COF). Dans tous les cas, les solutions pour accéder à
+la dépouille ne manquent pas : les PJ peuvent convaincre
+le prêtre de les laisser entrer (Supercherie, Persuasion...),
+se déguiser et s’introduire dans le temple pendant une
+messe, déterrer le corps dans le cimetière, etc.
+L’examen doit apporter progressivement certaines informations.
+Les jets de compétence suivants sont donnés
+à titre indicatif : insistez plutôt sur le jeu d’acteur et les
+découvertes minutieuses...
+» Intelligence (Histoire) DD 12 (5E) ou Intelligence
+DD 10 (COF) : La femme porte les colifichets tribaux
+d’un guerrier soong. Les Soongs forment une
+peuplade violente portée sur le chamanisme. On dit
+que ces berserkers se battent comme des déments,
+mais qu’ils s’imposent paradoxalement de nombreux
+pèlerinages dans des lieux saints. Jamais une
+guerrière soong n’aurait pu briser ainsi son code
+d’honneur pour massacrer aveuglément des innocents.
+» Elle porte aussi une pierre de lave (souvenir de
+pèlerinage), où sur un côté est incrustée une croix
+dans un cercle de fer (Intelligence (Religion) DD
+10 (5E) ou Intelligence DD 7 (COF) : cela désigne
+« le Fer et la Foi », le symbole de l’Ordre de Justicaar).
+Sur l’autre côté est gravé un « A » runique
+(Intelligence (Histoire) DD 12 (5E) ou Intelligence
+DD 9 (COF) : c’est le sceau de la cité sainte d’Anthéone).
+» Sagesse (Médecine) DD 14 (5E) ou Intelligence DD
+11 (COF) : La « tache noire » sur le visage est une
+étrange nécrose des tissus, semblable à une plaque
+de gangrène. On remarque au centre la trace d’une
+morsure humaine. On retrouve trois autres taches
+similaires sur le corps, sans autre trace de morsure.
+» Sagesse (Médecine) DD 16 (5E) ou Intelligence DD
+13 (COF) : À l’opposé de la peau, les yeux, ongles
+et cheveux ont commencé à blanchir étrangement.
+Par ailleurs la salive, ainsi que le sang, présente des
+aspects atypiques (coloration noirâtre, odeur de
+putréfaction...). Si la blessure de l’un des PJ entre en
+contact avec ces liquides organiques, faites-lui tirer
+secrètement un jet de Vigueur et reportez-vous aux
+règles de contamination par la gangrêve.
+» Sagesse (Médecine) DD 18 (5E) ou Intelligence
+DD 15 (COF) : Une autopsie complète montre la
+présence de « taches noires » à l’intérieur des organes
+vitaux. Le cerveau est l’organe le plus profondément
+touché. Attention, pratiquer une telle
+autopsie implique un jet de sauvegarde de Constitution
+avec désavantage (5E) ou de Constitution
+avec un malus de -3 (COF) pour éviter une contamination.
+Les règles sur la gangrêve se trouvent
+page 17.
+» Sagesse (Perception) DD 15 (5E) ou Sagesse DD
+12 (COF) : La guerrière arbore un tatouage récent
+sur la face interne de la cuisse, un crâne, d’un rouge
+carmin particulier.
+» Sagesse (Médecine) DD 15 (5E) ou Intelligence DD
+12 (COF) : sa réalisation remonte à une dizaine de
+jours environ.
