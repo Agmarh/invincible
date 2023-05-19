@@ -38,3 +38,10 @@ Selon l’habileté des PJ, un sort de communication avec les morts (ou sort div
 - Elle s’est fait tatouer (chez « Katanga, le Maître des Encres »). 
 - Elle a commencé avoir des hallucinations pendant son voyage de retour, et ses premières taches noires sont apparues il y a deux jours. Elle ne sait pas comment c’est arrivé. 
 - Enfin, quelle que soit ta question posée, le cadavre répétera plusieurs fois « Tuez les Enfants Maudits. Tuez-les tous... », comme si son cerveau était obnubilé par cette unique idée.
+
+# Autres éléments d’enquête
+Si les PJ interrogent longuement des témoins, des passants etc., ils finiront par trouver quelqu’un qui a vu la guerrière soong arriver par la route des caravanes. Cette route passe par de nombreuses petites villes, mais la seule agglomération d’importance est la cité sainte d’Athéone, à dix jours de route (trois en gondolfière). 
+
+Au total, les PJ devraient commencer à s’intéresser à Anthéone. Ils peuvent même supposer qu’une mystérieuse maladie, capable de transformer les gens en véritables machines à tuer, semble y être apparue. L’utilisation précise de sort de divination confirmera cela, et permettra même d’évoquer une relation avec l’Ecorcheuse (sans plus, car tout ce qui concerne Oblivion est, comment d’habitude, occulté).
+
+Notez que si les PJ ont échoué à récupérer les indices précédents, ils peuvent continuer leur aventure, mais celle-ci sera d’autant plus complexe lorsqu’ils arriveront à la Cité Sainte. Enfin, si des PJ ont été infectés par la gangrêve, ils ont la possibilité de s’en rendre compte (cf. description de la maladie).
