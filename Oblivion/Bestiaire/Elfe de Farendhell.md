@@ -24,24 +24,7 @@ actions:
   - name: Attaques multiples
     desc: "L'éclaireur effectue deux attaques au corps à corps ou deux attaques à distance."
   - name: Arc long
-    desc: <trait-description>
-  - name: <trait-name>
-    desc: <trait-description>
-legendary_actions:
-  - name: <legendary_actions-name>
-    desc: <legendary_actions-description>
-  - ...
-bonus_actions:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
-reactions:
-  - name: <reaction-name>
-    desc: <reaction-description>
-  - ...
-tactic:
-  - desc: <reaction-description>
-treasure:
-  - name: <reaction-name>
-    desc: <reaction-description>
+    desc: "Attaque d'arme à distance : +4 pour toucher, portée 45/180 m, une cible. Touché : 6 (1d8+2) dégâts perforants."
+  - name: Epée courte
+    desc: "Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une cible. Touché : 5 (1d6+2) dégâts perforants."
 ```
