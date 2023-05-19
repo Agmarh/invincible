@@ -8,15 +8,14 @@ ac: 16 (cuir clouté)
 hp: 54
 hit_dice: 12d6+12
 speed: 9
-stats: [13, 18, 11, 10, 10, 10]
+stats: [13, 18, 11, 11, 16, 13]
 saves:
-  - <ability-score>: number
+  - Dex: 6
 skillsaves:
-  - <skill-name>: number
-damage_vulnerabilities: string
-damage_resistances: string
-damage_immunities: string
-condition_immunities: string
+  - Discrétion: 8
+  - Dressage: 5
+  - Perception: 5
+  - Intimidation: 5
 senses: string
 languages: string
 cr: 1
