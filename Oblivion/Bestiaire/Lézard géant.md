@@ -21,21 +21,4 @@ actions:
     desc: "Attaque d'arme au corps à corps : +10 pour toucher, allonge 3 m, une cible. Touché : 33 (4d12+7) dégâts perforants. La cible est [[empoigné]] (évasion DD 17) si elle est de taille M ou plus petite. Elle est [[entravé]] tant qu'elle est et le tyrannosaure ne peut pas mordre une autre créature."
   - name: Queue
     desc: "Attaque d'arme au corps à corps : +10 pour toucher, allonge 3 m, une cible. Touché : 20 (3d8+7) dégâts contondants."
-legendary_actions:
-  - name: <legendary_actions-name>
-    desc: <legendary_actions-description>
-  - ...
-bonus_actions:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
-reactions:
-  - name: <reaction-name>
-    desc: <reaction-description>
-  - ...
-tactic:
-  - desc: <reaction-description>
-treasure:
-  - name: <reaction-name>
-    desc: <reaction-description>
 ```
