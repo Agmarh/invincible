@@ -44,4 +44,46 @@ Si les PJ interrogent longuement des témoins, des passants etc., ils finiront p
 
 Au total, les PJ devraient commencer à s’intéresser à Anthéone. Ils peuvent même supposer qu’une mystérieuse maladie, capable de transformer les gens en véritables machines à tuer, semble y être apparue. L’utilisation précise de sort de divination confirmera cela, et permettra même d’évoquer une relation avec l’Ecorcheuse (sans plus, car tout ce qui concerne Oblivion est, comment d’habitude, occulté).
 
-Notez que si les PJ ont échoué à récupérer les indices précédents, ils peuvent continuer leur aventure, mais celle-ci sera d’autant plus complexe lorsqu’ils arriveront à la Cité Sainte. Enfin, si des PJ ont été infectés par la gangrêve, ils ont la possibilité de s’en rendre compte (cf. description de la maladie).
+Notez que si les PJ ont échoué à récupérer les indices précédents, ils peuvent continuer leur aventure, mais celle-ci sera d’autant plus complexe lorsqu’ils arriveront à la Cité Sainte. 
+
+Enfin, si des PJ ont été infectés par la gangrêve, ils ont la possibilité de s’en rendre compte (cf. description de la maladie).
+
+# Des nouvelles d’Oblivion
+Un ou deux jours après le massacre perpétré par la
+guerrière soong, Grisou le méphite sort soudain de sa
+torpeur habituelle. « Mon Miroir, c’est mon Miroir d’Audience
+!... », hurle-t-il de sa voix nasillarde « ...des nouvelles
+d’Oblivion, Réghûlus va parler ! »
+Effectivement, le miroir oniride, brandi fébrilement
+par le méphite, se couvre bientôt de fumée noire, tandis
+qu’une odeur d’ozone envahit l’air. Après des semaines
+de silence, une nouvelle audience s’ouvre enfin avec le
+Pays des Chimères...
+Réghûlus et Sérénité apparaissent et semblent très inquiets.
+Douze jours auparavant, ils ont clairement « perçu
+» une Transmigration allant d’Alba-Secundum, la citadelle
+de l’Écorcheuse, vers une région très peuplée du
+monde terrestre. En fait, il est probable que plusieurs ravageurs
+aient été expédiés sur place ! Les contraintes imposées
+par le fonctionnement du Miroir d’Audience (cf.
+O1,p. 82) ont hélas empêché les Incarnins de prévenir
+les PJ plus tôt. Réghûlus craint du reste que l’Écorcheuse
+ait minutieusement prémédité ce délai...
+Sérénité, quant à elle, a senti de terribles remous dans
+les rêves des habitants du « Vrai Monde ». Elle pense
+qu’une action d’envergure se prépare, à la fois sur terre
+et dans Oblivion. Elle adjure les PJ de se rendre au plus
+vite, là, où les ravageurs ont été transmigrés.
+Une discussion technique permet ensuite de recouper
+les « perceptions » des Incarnins avec la géographie du
+monde terrestre, et de localiser l’arrivée des ravageurs à...
+Anthéone ! Les PJ n’ont plus qu’à s’y rendre rapidement.
+Il leur faudra dix jours en chariot standard, cinq en chevauchant
+à bride abattue ou trois en gondolfière.
+Bientôt, les aventuriers s’élancent dans les vents brûlants
+de la saison des Souffles Ardents. Autour d’eux l’air
+palpite, troublant la vue et enroulant leurs corps d’une
+sournoise langue de feu. Un peu comme si le monde entier
+avait déjà commencé à fondre. Comme si la réalité
+elle-même allait perdre pied, avant de sombrer dans le
+chaos total...
