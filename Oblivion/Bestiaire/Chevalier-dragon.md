@@ -31,21 +31,7 @@ actions:
     desc: "Attaque d’arme au corps-à-corps : +7 pour toucher, allonge 1,50 m, une cible. Touché : 17 (3d8+4) dégâts tranchants."
   - name: Arc court
     desc: "Attaque d’arme à distance : +5 pour toucher, portée 24/96, une cible. Touché : 12 (3d6+2) dégâts tranchants."
-legendary_actions:
-  - name: <legendary_actions-name>
-    desc: <legendary_actions-description>
-  - ...
-bonus_actions:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
 reactions:
-  - name: <reaction-name>
-    desc: <reaction-description>
-  - ...
-tactic:
-  - desc: <reaction-description>
-treasure:
-  - name: <reaction-name>
-    desc: <reaction-description>
+  - name: Parade de bouclier
+    desc: "Quand une attaque touche un chevalier-dragon, il peut utiliser sa réaction afin d’ajouter 2 à sa CA."
 ```
