@@ -13,7 +13,7 @@ Les elfes sauvés peuvent ajouter qu’il a beaucoup changé ces derniers temps 
 
 Les elfes se montreront reconnaissants envers les PJ après leur sauvetage. Ils les remercieront en leur offrant les seuls objets magiques qu’ils possèdent : une cape elfique et des bottes elfiques ainsi qu’un cadeau bien plus précieux, leur amitié.
 
-Bestiaire : [[Elfe de Farendhell]] (8), [[Gobelin]] (28), [[Chef de meute Gobelin]] (2), hyènes de guerre (30).
+Bestiaire : [[Elfe de Farendhell]] (8), [[Gobelin]] (28), [[Chef de meute Gobelin]] (2), [[Hyène de guerre]] (30).
 
 # Les chevaliers-dragons
 Cette rencontre survient dès que les PJ approchent la cité par la voie des airs, dans un rayon d’une dizaine de kilomètres (s’ils arrivent par la route, une rencontre similaire se produit, mais la monture draconique est alors remplacée par un lézard géant).

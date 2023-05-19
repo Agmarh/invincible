@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/2 - Sur la route de la Cité Sainte.md",
+                "file": "Oblivion/Bestiaire/Chevalier-dragon.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/2 - Sur la route de la Cité Sainte.md",
+                "file": "Oblivion/Bestiaire/Chevalier-dragon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/2 - Sur la route de la Cité Sainte.md",
+                "file": "Oblivion/Bestiaire/Chevalier-dragon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/2 - Sur la route de la Cité Sainte.md"
+                "file": "Oblivion/Bestiaire/Chevalier-dragon.md"
               }
             }
           }
@@ -189,11 +189,13 @@
   },
   "active": "d633078d433bb5e6",
   "lastOpenFiles": [
+    "Oblivion/Images/chevalier-dragon.jpg",
+    "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/2 - Sur la route de la Cité Sainte.md",
+    "Oblivion/Bestiaire/Chevalier-dragon.md",
     "Oblivion/Bestiaire/Gobelin.md",
     "Oblivion/Bestiaire/Guerrière soong.md",
     "Oblivion/Bestiaire/Hyène de guerre.md",
     "Oblivion/Bestiaire/Chef de meute Gobelin.md",
-    "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/2 - Sur la route de la Cité Sainte.md",
     "Invincible/Bestiaire/Baphit.md",
     "Oblivion/Bestiaire/Elfe de Farendhell.md",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/1 - Enquête morbide et mortelles tracasseries.md",
@@ -216,9 +218,7 @@
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars",
     "Oblivion/PDF/Le Cauchemar.pdf",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Le rêve se répand.md",
-    "Template/Sans titre.md",
     "Oblivion/Groupe",
-    "Template/Objet.md",
     "Oblivion/Scénario 2 Les enfants d'Oblivion",
     "Invincible/Images/Hector.jpg",
     "Invincible/Images/Servantès.jpg",
