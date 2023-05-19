@@ -1,24 +1,17 @@
 ```statblock
-image: [[monstre.png]]
-name: Nom
-size: 
-type: 
-subtype: 
-alignment: Neutre
-ac: 10
-hp: 0
-hit_dice: 1d8+0
-speed: 0
-stats: [10, 10, 10, 10, 10, 10]
-saves:
-  - <ability-score>: number
+name: Gobelin
+size: P
+type: Humanoïde
+subtype: Gobelin
+alignment: Neutre Mauvais
+ac: 15
+hp: 7
+hit_dice: 2d6
+speed: 9
+stats: [8, 14, 10, 10, 8, 8]
 skillsaves:
-  - <skill-name>: number
-damage_vulnerabilities: string
-damage_resistances: string
-damage_immunities: string
-condition_immunities: string
-senses: string
+  - Discrétion: 6
+senses: vision dans le noir 18m, Perception passive 9
 languages: string
 cr: 1
 spells:
