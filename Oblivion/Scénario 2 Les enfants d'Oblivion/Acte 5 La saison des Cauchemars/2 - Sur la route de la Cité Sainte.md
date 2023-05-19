@@ -13,8 +13,7 @@ Les elfes sauvés peuvent ajouter qu’il a beaucoup changé ces derniers temps 
 
 Les elfes se montreront reconnaissants envers les PJ après leur sauvetage. Ils les remercieront en leur offrant les seuls objets magiques qu’ils possèdent : une cape elfique et des bottes elfiques ainsi qu’un cadeau bien plus précieux, leur amitié.
 
-Bestiaire : elfes de la Maison Farendhell (8), gobelins (28), chefs de meute gobelin
-(2), hyènes de guerre (30).
+Bestiaire : [[Elfe de Farendhell]] (8), [[Gobelin]] (28), [[Chef de meute Gobelin]] (2), hyènes de guerre (30).
 
 # Les chevaliers-dragons
 Cette rencontre survient dès que les PJ approchent la cité par la voie des airs, dans un rayon d’une dizaine de kilomètres (s’ils arrivent par la route, une rencontre similaire se produit, mais la monture draconique est alors remplacée par un lézard géant).
@@ -33,39 +32,4 @@ L’Enfermé essaye d’impressionner les PJ (Intimidation) et multiplie les tra
 
 Habilement interrogé, il révélera que son ordre est, pour la première fois dans son histoire, confronté à un adversaire insaisissable qui ose frapper la congrégation sur ses propres terres : une terrible maladie, répandant une implacable épidémie de folie et de mort...
 
-Ainsi, quelle que soit la manière dont les PJ sont parvenus jusqu’ici, ils se retrouvent aux pieds de la capitale spirituelle de l’Empire où ils vont être confrontés, au fil de leur enquête, aux deux menaces que l’Écorcheuse fait
-peser sur Anthéone : les ravageurs et la gangrêve...
-Pour la gestion de cet épisode, nous vous fournissons
-les éléments principaux dans les chapitres suivants :
-» Les eaux d’Anthéone, vous donne une vue d’ensemble
-de la ville, son ambiance et son organisation
-: ces notions pourront être révélées aux PJ
-(dialogue avec des pèlerins devant un verre, jets de
-Connaissance...).
-» Terreur sur la cité sainte, résume les faits et gestes
-des ravageurs.
-» Les principaux lieux d’Anthéone sont ensuite décrits
-quartier par quartier, avec pour chacun : les
-indices de l’enquête et la chronologie des événements
-qui s’y déroulent pendant six jours, à partir
-de l’arrivée des PJ (cette chronologie étant, bien sûr,
-susceptible d’être altérée par vos joueurs).
-Vos PJ disposent d’une grande liberté d’action. Aussi
-les différents lieux d’Anthéone ne sont-ils pas décrits
-dans leurs moindres détails.
-Réfléchissez aux aspects de la ville qui vous intéressent
-le plus, imprégnez-vous de leur ambiance et développez-
-les... mais n’oubliez pas que tout cela n’est qu’un décor
-pour mettre en scène les ravageurs et la gangrêve !
-Évitez d’entraîner les joueurs dans des intrigues trop
-secondaires et déplacez à loisir la date des événements
-pour suivre la trame qui vous convient. Si vous peinez,
-les PJ peuvent être subtilement « conseillés » par Malathor
-(cf.).
-Au terme de l’enquête, les déductions des PJ doivent
-les amener dans les sous-sols, sur la piste du chef des
-ravageurs, où ils découvriront plusieurs secrets d’importance,
-et vivront un final particulièrement meurtrier. De
-leur vitesse et leur habileté dépendra leur succès. Désormais,
-l’horloge tourne, et joue contre les PJ... Bienvenue
-à Anthéone !
+Bestiaire : chevalier-dragon, dragon d’acier adulte, lézard géant, mégaraptor.
