@@ -18,26 +18,12 @@ Notez que si l’action s’est déroulée dans Ikhâr, ces tracasseries seront 
 Bestiaire : [[Randel Kane]], [[Milicien]]
 
 # L'examen du corps
-Le corps de la guerrière repose dans le temple le plus proche, où un prêtre lui administre les derniers sacrements. Pour les PJ, il serait judicieux de l’examiner plus avant. (S’ils sont à Ikhâr, leur réputation devrait leur
-permettre d’y accéder sans difficulté. S’ils sont dans une
-autre ville, tout dépend de leur attitude précédente).
-Le temple comporte une chapelle centrale, une maison
-d’habitation et un cimetière. Il est entouré d’une grille
-et gardé par le prêtre et quatre miliciens, qui font aussi
-office d’assistants. Le corps de la guerrière est dans la
-crypte. On y descend par un escalier dérobé, derrière le
-confessionnal que l’on peut découvrir avec un test d’Intelligence
-(Investigation) DD17 (5E) ou de Sagesse DD
-14 (COF). Dans tous les cas, les solutions pour accéder à
-la dépouille ne manquent pas : les PJ peuvent convaincre
-le prêtre de les laisser entrer (Supercherie, Persuasion...),
-se déguiser et s’introduire dans le temple pendant une
-messe, déterrer le corps dans le cimetière, etc.
-L’examen doit apporter progressivement certaines informations.
-Les jets de compétence suivants sont donnés
-à titre indicatif : insistez plutôt sur le jeu d’acteur et les
-découvertes minutieuses...
-» Intelligence (Histoire) DD 12 (5E) ou Intelligence
+Le corps de la guerrière repose dans le temple le plus proche, où un prêtre lui administre les derniers sacrements. Pour les PJ, il serait judicieux de l’examiner plus avant. 
+
+Le temple comporte une chapelle centrale, une maison d’habitation et un cimetière. Il est entouré d’une grille et gardé par le prêtre et quatre miliciens, qui font aussi office d’assistants. Le corps de la guerrière est dans la crypte. On y descend par un escalier dérobé, derrière le confessionnal que l’on peut découvrir avec un test d'Investigation DD17.
+
+L’examen doit apporter progressivement certaines informations. Les jets de compétence suivants sont donnés à titre indicatif : insistez plutôt sur le jeu d’acteur et les découvertes minutieuses...
+- Histoire) DD 12 (5E) ou Intelligence
 DD 10 (COF) : La femme porte les colifichets tribaux
 d’un guerrier soong. Les Soongs forment une
 peuplade violente portée sur le chamanisme. On dit
