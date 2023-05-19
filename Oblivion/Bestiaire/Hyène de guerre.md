@@ -5,24 +5,15 @@ type: Bête
 subtype: 
 alignment: Non-alignée
 ac: 12
-hp: 0
-hit_dice: 1d8+0
-speed: 0
-stats: [10, 10, 10, 10, 10, 10]
-saves:
-  - <ability-score>: number
+hp: 45
+hit_dice: 6d10+12
+speed: 15
+stats: [16, 14, 14, 2, 12, 7]
 skillsaves:
-  - <skill-name>: number
-damage_vulnerabilities: string
-damage_resistances: string
-damage_immunities: string
-condition_immunities: string
-senses: string
-languages: string
+  - Perception: 3
+senses: Perception passive 13
+languages: 
 cr: 1
-spells:
-  - <description>
-  - <spell level>: <spell-list>
 traits:
   - name: <trait-name>
     desc: <trait-description>
