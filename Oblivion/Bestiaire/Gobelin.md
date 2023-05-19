@@ -19,24 +19,7 @@ traits:
     desc: "Le gobelin peut effectuer l'action se désengager ou se cacher par une action bonus à chacun de ses tours."
 actions:
   - name: Arc court
-    desc: "Attaque d'arme à distance : +4 pour toucher, portée 24/96 m, une cible.  
-_Touché_ : 5 (1d6+2) dégâts perforants."
-  - ...
-legendary_actions:
-  - name: <legendary_actions-name>
-    desc: <legendary_actions-description>
-  - ...
-bonus_actions:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
-reactions:
-  - name: <reaction-name>
-    desc: <reaction-description>
-  - ...
-tactic:
-  - desc: <reaction-description>
-treasure:
-  - name: <reaction-name>
-    desc: <reaction-description>
+    desc: "Attaque d'arme à distance : +4 pour toucher, portée 24/96 m, une cible. Touché : 5 (1d6+2) dégâts perforants."
+  - name: Cimeterre
+    desc: "Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une cible. Touché : 5 (1d6+2) dégâts tranchants."
 ```
