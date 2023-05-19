@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oblivion/Bestiaire/Lézard géant.md",
+                "file": "Annexe/Règles/Empoigné.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oblivion/Bestiaire/Lézard géant.md",
+                "file": "Annexe/Règles/Empoigné.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oblivion/Bestiaire/Lézard géant.md",
+                "file": "Annexe/Règles/Empoigné.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oblivion/Bestiaire/Lézard géant.md"
+                "file": "Annexe/Règles/Empoigné.md"
               }
             }
           }
@@ -189,8 +189,9 @@
   },
   "active": "d633078d433bb5e6",
   "lastOpenFiles": [
-    "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/2 - Sur la route de la Cité Sainte.md",
     "Oblivion/Bestiaire/Lézard géant.md",
+    "Annexe/Règles/Empoigné.md",
+    "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/2 - Sur la route de la Cité Sainte.md",
     "Oblivion/Bestiaire/Dragon d'acier adulte.md",
     "Oblivion/Bestiaire/Elfe de Farendhell.md",
     "Oblivion/Bestiaire/Chevalier-dragon.md",
@@ -216,7 +217,6 @@
     "Oblivion/Groupe/Gestion Compagnie.md",
     "Oblivion/Groupe/Planque.md",
     "Oblivion/Magie.md",
-    "Oblivion/L'Empire.md",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars",
     "Oblivion/PDF/Le Cauchemar.pdf",
     "Oblivion/Groupe",
