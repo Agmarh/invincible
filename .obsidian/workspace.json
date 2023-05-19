@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oblivion/Bestiaire/Hyène de guerre.md",
+                "file": "Oblivion/Bestiaire/Gobelin.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oblivion/Bestiaire/Hyène de guerre.md",
+                "file": "Oblivion/Bestiaire/Gobelin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oblivion/Bestiaire/Hyène de guerre.md",
+                "file": "Oblivion/Bestiaire/Gobelin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oblivion/Bestiaire/Hyène de guerre.md"
+                "file": "Oblivion/Bestiaire/Gobelin.md"
               }
             }
           }
@@ -189,8 +189,9 @@
   },
   "active": "d633078d433bb5e6",
   "lastOpenFiles": [
-    "Oblivion/Bestiaire/Chef de meute Gobelin.md",
+    "Oblivion/Bestiaire/Guerrière soong.md",
     "Oblivion/Bestiaire/Hyène de guerre.md",
+    "Oblivion/Bestiaire/Chef de meute Gobelin.md",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/2 - Sur la route de la Cité Sainte.md",
     "Invincible/Bestiaire/Baphit.md",
     "Oblivion/Bestiaire/Gobelin.md",
@@ -206,7 +207,6 @@
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Introduction.md",
     "Oblivion/Bestiaire/Randel Kane.md",
     "Oblivion/Bestiaire/Milicien.md",
-    "Oblivion/Bestiaire/Guerrière soong.md",
     "Oblivion/Images/Guerrière Soong.jpg",
     "Oblivion/ACTUELLEMENT.md",
     "Oblivion/Groupe/Gestion Compagnie.md",

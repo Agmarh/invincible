@@ -15,28 +15,9 @@ senses: Perception passive 13
 languages: 
 cr: 1
 traits:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
+  - name: Déchaînée
+    desc: "Quand la hyène réduit les points de vie d'une créature à 0 suite à une attaque au corps à corps lors de son tour, elle peut effectuer une action bonus pour se déplacer sur une distance maximale égale à la moitié de sa vitesse et effectuer une attaque de morsure."
 actions:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
-legendary_actions:
-  - name: <legendary_actions-name>
-    desc: <legendary_actions-description>
-  - ...
-bonus_actions:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
-reactions:
-  - name: <reaction-name>
-    desc: <reaction-description>
-  - ...
-tactic:
-  - desc: <reaction-description>
-treasure:
-  - name: <reaction-name>
-    desc: <reaction-description>
+  - name: Morsure
+    desc: "Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible. Touché : 10 (2d6+3) dégâts perforants."
 ```
