@@ -4,15 +4,19 @@ name: Chevalier-dragon
 size: M
 type: Humanoïde
 subtype: Humain
-alignment: Neutre
-ac: 10
-hp: 0
-hit_dice: 1d8+0
-speed: 0
-stats: [10, 10, 10, 10, 10, 10]
+alignment: Loyal Variable
+ac: 20 (harnois et bouclier)
+hp: 105
+hit_dice: 13d8+39
+speed: 9
+stats: [19, 15, 16, 10, 10, 15]
 saves:
-  - <ability-score>: number
+  - For: 7
+  - Con: 6
+  - Sag: 3
 skillsaves:
+  - <skill-name>: number
+  - <skill-name>: number
   - <skill-name>: number
 damage_vulnerabilities: string
 damage_resistances: string
