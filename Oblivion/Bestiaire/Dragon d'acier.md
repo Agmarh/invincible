@@ -24,13 +24,13 @@ languages: commun, draconique
 cr: 6
 actions:
   - name: Attaques multiples
-    desc: <trait-description>
-  - name: <trait-name>
-    desc: <trait-description>
-  - name: <trait-name>
-    desc: <trait-description>
-  - name: <trait-name>
-    desc: <trait-description>
+    desc: "Le dragon effectue trois attaques : une avec sa morsure et deux avec ses griffes."
+  - name: Griffe
+    desc: "Attaque d’arme au corps à corps : +7 pour toucher, allonge 1,50 m, une cible. Touché : 11 (2d6+4) dégâts tranchants."
+  - name: Morsure
+    desc: "Attaque d’arme au corps à corps : +7 pour toucher, allonge 3 m, une cible. Touché : 15 (2d10+4) dégâts perforants."
+  - name: Souffle (Recharge 5-6)
+    desc: "Le dragon utilise l’un des souffles suivants :"
 legendary_actions:
   - name: <legendary_actions-name>
     desc: <legendary_actions-description>
