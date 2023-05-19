@@ -2,7 +2,7 @@
 name: Chef de meute Gobelin
 size: P
 type: Humanoïde
-subtype: 
+subtype: Gobelin
 alignment: Neutre
 ac: 10
 hp: 0
