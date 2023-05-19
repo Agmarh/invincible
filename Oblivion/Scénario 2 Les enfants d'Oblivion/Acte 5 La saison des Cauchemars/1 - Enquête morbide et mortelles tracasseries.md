@@ -55,21 +55,8 @@ Effectivement, le miroir oniride, brandi fébrilement par le méphite, se couvre
 
 Réghûlus et Sérénité apparaissent et semblent très inquiets. Douze jours auparavant, ils ont clairement « perçu » une Transmigration allant d’Alba-Secundum, la citadelle de l’Écorcheuse, vers une région très peuplée du monde terrestre. En fait, il est probable que plusieurs ravageurs aient été expédiés sur place ! 
 
-Les contraintes imposées par le fonctionnement du Miroir d’Audience ont hélas empêché les Incarnins de prévenir les PJ plus tôt. Réghûlus craint du reste que l’Écorcheuse ait minutieusement prémédité ce délai... Sérénité, quant à elle, a senti de terribles remous dans
-les rêves des habitants du « Vrai Monde ». Elle pense
-qu’une action d’envergure se prépare, à la fois sur terre
-et dans Oblivion. Elle adjure les PJ de se rendre au plus
-vite, là, où les ravageurs ont été transmigrés.
-Une discussion technique permet ensuite de recouper
-les « perceptions » des Incarnins avec la géographie du
-monde terrestre, et de localiser l’arrivée des ravageurs à...
-Anthéone ! Les PJ n’ont plus qu’à s’y rendre rapidement.
-Il leur faudra dix jours en chariot standard, cinq en chevauchant
-à bride abattue ou trois en gondolfière.
-Bientôt, les aventuriers s’élancent dans les vents brûlants
-de la saison des Souffles Ardents. Autour d’eux l’air
-palpite, troublant la vue et enroulant leurs corps d’une
-sournoise langue de feu. Un peu comme si le monde entier
-avait déjà commencé à fondre. Comme si la réalité
-elle-même allait perdre pied, avant de sombrer dans le
-chaos total...
+Les contraintes imposées par le fonctionnement du Miroir d’Audience ont hélas empêché les Incarnins de prévenir les PJ plus tôt. Réghûlus craint du reste que l’Écorcheuse ait minutieusement prémédité ce délai... Sérénité, quant à elle, a senti de terribles remous dans les rêves des habitants du « Vrai Monde ». Elle pense qu’une action d’envergure se prépare, à la fois sur terre et dans Oblivion. 
+
+Elle adjure les PJ de se rendre au plus vite, là, où les ravageurs ont été transmigrés. Une discussion technique permet ensuite de recouper les « perceptions » des Incarnins avec la géographie du monde terrestre, et de localiser l’arrivée des ravageurs à... Anthéone ! Les PJ n’ont plus qu’à s’y rendre rapidement.
+
+Il leur faudra dix jours en chariot standard, cinq en chevauchant à bride abattue ou trois en gondolfière. Bientôt, les aventuriers s’élancent dans les vents brûlants de la saison des Souffles Ardents. Autour d’eux l’air palpite, troublant la vue et enroulant leurs corps d’une sournoise langue de feu. Un peu comme si le monde entier avait déjà commencé à fondre. Comme si la réalité elle-même allait perdre pied, avant de sombrer dans le chaos total...
