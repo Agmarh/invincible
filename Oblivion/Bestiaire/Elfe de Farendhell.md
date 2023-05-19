@@ -9,16 +9,13 @@ hp: 16
 hit_dice: 3d8+3
 speed: 9
 stats: [11, 14, 12, 11, 13, 11]
-saves:
-  - <ability-score>: number
 skillsaves:
-  - <skill-name>: number
-damage_vulnerabilities: string
-damage_resistances: string
-damage_immunities: string
-condition_immunities: string
-senses: string
-languages: string
+  - Discrétion: 6
+  - Nature: 4
+  - Perception: 5
+  - Survie: 5
+senses: vision dans le noir 18m, Perception passive 15
+languages: commun, elfe
 cr: 1
 spells:
   - <description>
