@@ -21,28 +21,12 @@ languages: commun, gobelin
 cr: 3
 traits:
   - name: Attaque en meute
-    desc: Une fois par tour, si le chef gobelin attaque une créature qui a déjà été attaquée par un autre gobelin à ce round, il obtient au choix un avantage en attaque ou un bonus de 2d6 aux dégâts(du même type que l’arme utilisée).
+    desc: Une fois par tour, si le chef gobelin attaque une créature qui a déjà été attaquée par un autre gobelin à ce round, il obtient au choix un avantage en attaque ou un bonus de 2d6 aux dégâts (du même type que l’arme utilisée).
   - name: Rapide
-    desc: <trait-description>
+    desc: Le chef gobelin peut effectuer l’action Se désengager ou Se précipiter par une action bonus à chacun de ses tours.
 actions:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
-legendary_actions:
-  - name: <legendary_actions-name>
-    desc: <legendary_actions-description>
-  - ...
-bonus_actions:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
-reactions:
-  - name: <reaction-name>
-    desc: <reaction-description>
-  - ...
-tactic:
-  - desc: <reaction-description>
-treasure:
-  - name: <reaction-name>
-    desc: <reaction-description>
+  - name: Attaques multiples
+    desc: "Le chef gobelin effectue deux attaques au corps-à-corps avec son épée courte."
+  - name: Epée courte
+    desc: "Attaque d’arme au corps-à-corps : +6 pour toucher, allonge 1,50 m, une cible. Touché : 7 (1d6+4) dégâts tranchants."
 ```
