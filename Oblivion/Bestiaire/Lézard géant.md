@@ -3,30 +3,17 @@ name: Lézard géant
 size: TG
 type: Bête
 subtype: 
-alignment: Neutre
-ac: 10
-hp: 0
-hit_dice: 1d8+0
-speed: 0
-stats: [10, 10, 10, 10, 10, 10]
-saves:
-  - <ability-score>: number
+alignment: Non-alignée
+ac: 13 (armure naturelle)
+hp: 136
+hit_dice: 13d12+52
+speed: 15
+stats: [25, 10, 19, 2, 12, 9]
 skillsaves:
-  - <skill-name>: number
-damage_vulnerabilities: string
-damage_resistances: string
-damage_immunities: string
-condition_immunities: string
-senses: string
-languages: string
-cr: 1
-spells:
-  - <description>
-  - <spell level>: <spell-list>
-traits:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
+  - Perception: 4
+senses: Perception passive 14
+languages: 
+cr: 8
 actions:
   - name: <trait-name>
     desc: <trait-description>
