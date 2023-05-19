@@ -26,21 +26,9 @@ L’examen doit apporter progressivement certaines informations. Les jets de com
 - Histoire DD 12 : La femme porte les colifichets tribaux d’un guerrier soong. Les Soongs forment une peuplade violente portée sur le chamanisme. On dit que ces berserkers se battent comme des déments, mais qu’ils s’imposent paradoxalement de nombreux pèlerinages dans des lieux saints. Jamais une guerrière soong n’aurait pu briser ainsi son code d’honneur pour massacrer aveuglément des innocents.
 - Elle porte aussi une pierre de lave (souvenir de pèlerinage), où sur un côté est incrustée une croix dans un cercle de fer (Religion DD10 : cela désigne « le Fer et la Foi », le symbole de l’Ordre de Justicaar). Sur l’autre côté est gravé un « A » runique (Histoire DD 12 : c’est le sceau de la cité sainte d’Anthéone).
 - Médecine DD 14 : La « tache noire » sur le visage est une étrange nécrose des tissus, semblable à une plaque de gangrène. On remarque au centre la trace d’une morsure humaine. On retrouve trois autres taches similaires sur le corps, sans autre trace de morsure.
-- Médecine DD 16 : À l’opposé de la peau, les yeux, ongles et cheveux ont commencé à blanchir étrangement. Par ailleurs la salive, ainsi que le sang, présente des aspects atypiques (coloration noirâtre, odeur de putréfaction...). Si la blessure de l’un des PJ entre en contact avec ces liquides organiques, faites-lui tirer secrètement un jet de Vigueur et reportez-vous aux règles de contamination par la gangrêve.
-» Sagesse (Médecine) DD 18 (5E) ou Intelligence
-DD 15 (COF) : Une autopsie complète montre la
-présence de « taches noires » à l’intérieur des organes
-vitaux. Le cerveau est l’organe le plus profondément
-touché. Attention, pratiquer une telle
-autopsie implique un jet de sauvegarde de Constitution
-avec désavantage (5E) ou de Constitution
-avec un malus de -3 (COF) pour éviter une contamination.
-Les règles sur la gangrêve se trouvent
-page 17.
-» Sagesse (Perception) DD 15 (5E) ou Sagesse DD
-12 (COF) : La guerrière arbore un tatouage récent
-sur la face interne de la cuisse, un crâne, d’un rouge
-carmin particulier.
-» Sagesse (Médecine) DD 15 (5E) ou Intelligence DD
+- Médecine DD 16 : À l’opposé de la peau, les yeux, ongles et cheveux ont commencé à blanchir étrangement. Par ailleurs la salive, ainsi que le sang, présente des aspects atypiques (coloration noirâtre, odeur de putréfaction...). 
+- Médecine DD 18 : Une autopsie complète montre la présence de « taches noires » à l’intérieur des organes vitaux. Le cerveau est l’organe le plus profondément touché. 
+- Perception DD 15 : La guerrière arbore un tatouage récent sur la face interne de la cuisse, un crâne, d’un rouge carmin particulier.
+- Médecine) DD 15 (5E) ou Intelligence DD
 12 (COF) : sa réalisation remonte à une dizaine de
 jours environ.
