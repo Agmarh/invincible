@@ -24,11 +24,13 @@ cr: 7
 traits:
   - name: Attaques sanglantes
     desc: Un chevalier-dragon ajoute deux dés de dégâts à chacune de ses attaques.
-  - ...
 actions:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
+  - name: Attaques multiples
+    desc: "Un chevalier-dragon peut effectuer trois attaques avec une action d’attaque."
+  - name: Epée longue
+    desc: "Attaque d’arme au corps-à-corps : +7 pour toucher, allonge 1,50 m, une cible. Touché : 17 (3d8+4) dégâts tranchants."
+  - name: Arc court
+    desc: "Attaque d’arme à distance : +5 pour toucher, portée 24/96, une cible. Touché : 12 (3d6+2) dégâts tranchants."
 legendary_actions:
   - name: <legendary_actions-name>
     desc: <legendary_actions-description>
