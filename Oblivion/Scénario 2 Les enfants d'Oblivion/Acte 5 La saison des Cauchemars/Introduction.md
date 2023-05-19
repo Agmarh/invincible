@@ -2,9 +2,9 @@ La saison des souffles Ardents vient de commencer, des vents capricieux venus de
 
 Les PJ se retrouvent dans la taverne à Ikhâr et peuvent discuter entre eux de leur étrange rêve.
 
-C’est alors qu’une étrange femme va entrer dans la taverne : <style color="blue">jet de Perspicacité ou Perception DD 20</style> pour remarquer que “quelque chose ne va pas”.
+C’est alors qu’une étrange femme va entrer dans la taverne : <font style="color:green">jet de Perspicacité ou Perception DD 20</font> pour remarquer que “quelque chose ne va pas”.
 
-Près des PJ, des enfants jouent autour d’une fontaine intérieure : l’un d’eux capture un scarabée et, tout en lui arrachant les pattes, murmure une ritournelle qui leur fera sans doute dresser l’oreille jet de Perception DD 8 : « *Un, deux, trois. Une nouvelle proie. Quatre, cinq, six. Toute prête au supplice..*. »
+Près des PJ, des enfants jouent autour d’une fontaine intérieure : l’un d’eux capture un scarabée et, tout en lui arrachant les pattes, murmure une ritournelle qui leur fera sans doute dresser l’oreille <font style="color:green">jet de Perception DD 8</font> : « *Un, deux, trois. Une nouvelle proie. Quatre, cinq, six. Toute prête au supplice..*. »
 
 Si un PJ interroge l’enfant, ce dernier déclare ne pas savoir où il a entendu cette comptine, mais il se souvient s’être réveillé ce matin avec ces quelques vers en tête. Si les PJ n’ont pas encore enquêté sur le cauchemar, profitez-en pour placer ici un ou deux PNJ qui semblent suivre leur conversation avec intérêt. Les PJ pourront alors entamer une discussion avec eux et s’apercevoir ainsi qu’ils ne sont pas les seuls à avoir été les victimes du rêve de l’Écorcheuse...
 
@@ -16,6 +16,6 @@ La guerrière dispose d’un round alors que les PJ sont surpris, elle commence 
 
 Si les aventuriers ne réagissent pas immédiatement, une serveuse et un autre enfant sont tués lors du round suivant. Tandis que la tête d’un client décapité vient lourdement choir sur une table. Le round d’après, la puissante guerrière est au contact.
 
-Le combat, dans la taverne bondée, est un véritable cauchemar. Les PJ, gênés, ont automatiquement un désavantage à tous leurs jets d’attaque, même ceux impliquant la Dextérité. Le plus simple est de neutraliser la guerrière avec un sort, ou de sauter sur l’un des lustres au plafond (Athlétisme DD 12) pour la frapper d’en haut, évitant ainsi la foule. Il est aussi possible d’organiser l’évacuation rapide des gens pour isoler la guerrière : ceci demande jet de Persuasion. Avec un résultat de 25, l’évacuation prend un round. Avec un résultat de 20 cela prend 2 rounds, et avec un résultat de 15 cela prend 3 rounds. Au quatrième, la foule a de toute façon libéré l’aire de combat. 
+Le combat, dans la taverne bondée, est un véritable cauchemar. Les PJ, gênés, ont automatiquement un désavantage à tous leurs jets d’attaque, même ceux impliquant la Dextérité. Le plus simple est de neutraliser la guerrière avec un sort, ou de sauter sur l’un des lustres au plafond (<font style="color:green">Athlétisme DD 12) pour la frapper d’en haut, évitant ainsi la foule. Il est aussi possible d’organiser l’évacuation rapide des gens pour isoler la guerrière : ceci demande jet de Persuasion. Avec un résultat de 25, l’évacuation prend un round. Avec un résultat de 20 cela prend 2 rounds, et avec un résultat de 15 cela prend 3 rounds. Au quatrième, la foule a de toute façon libéré l’aire de combat. 
 
 Durant le combat. La guerrière saisie de furie meurtrière répète sans cesse d’une voix éraillée « Les Enfants, il faut tuer les Enfants : ce sont les légions de l’Écorcheuse.. »
