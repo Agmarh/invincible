@@ -187,40 +187,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "floating": {
-    "id": "c0d00243a1ea14fb",
-    "type": "floating",
-    "children": [
-      {
-        "id": "1fce786f25603373",
-        "type": "window",
-        "children": [
-          {
-            "id": "d65d961fb54d300e",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "268bc28b209dac78",
-                "type": "leaf",
-                "state": {
-                  "type": "initiative-tracker-player-view",
-                  "state": {}
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 768,
-        "y": 300,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "268bc28b209dac78",
+  "active": "d633078d433bb5e6",
   "lastOpenFiles": [
     "Oblivion/Bestiaire/Lézard géant.md",
     "Annexe/Règles/Empoigné.md",
