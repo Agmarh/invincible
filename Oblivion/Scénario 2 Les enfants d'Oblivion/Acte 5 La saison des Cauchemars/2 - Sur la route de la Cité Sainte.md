@@ -1,3 +1,4 @@
+# L’attaque de la caravane elfique
 Un matin, à deux jours de la ville, les PJ aperçoivent au loin une colonne de fumée. En s’approchant, ils observent une demi-douzaine de chariots disposés en cercle, dont deux sont la proie des flammes, assaillis par une horde de créatures hurlantes.
 
 Un test de Perception DD 12 révèle que ce sont une trentaine de gobelins, chevauchant des hyènes de guerre. Il s’agit là d’une caravane elfique, quittant précipitamment Anthéone. Les elfes abrités à l’intérieur du cercle formé de six chariots, tirent des flèches argentées contre leurs assaillants. Il y a en tout six familles (8 adultes hommes et femmes, 7 enfants). Les gobelins hurlants attaquent par vagues désorganisées, projetant des lances barbelées et des torches enflammées. Ils tentent de faire sauter leur monture par-dessus les chariots, et vont probablement finir par y arriver.
@@ -14,3 +15,21 @@ Les elfes se montreront reconnaissants envers les PJ après leur sauvetage. Ils 
 
 Bestiaire : elfes de la Maison Farendhell (8), gobelins (28), chefs de meute gobelin
 (2), hyènes de guerre (30).
+
+# Les chevaliers-dragons
+Cette rencontre survient dès que les PJ approchent la
+cité par la voie des airs, dans un rayon d’une dizaine de
+kilomètres (s’ils arrivent par la route, une rencontre similaire
+se produit, mais la monture draconique est alors
+remplacée par un lézard géant).
+Déchirant l’ultime couche de nuages immaculés surplombant
+Anthéone, les PJ découvrent la splendeur imposante
+de la cité sainte : l’impressionnante silhouette
+de l’Oratoire du Jugement, les terrasses luxueuses des
+Hautes Strates et l’étrange ceinture du Moratorium...
+Soudain, alors qu’ils amorcent leur descente, la puissante
+stature d’un dragon d’acier leur barre la route. En
+effet, s’ils ont choisi d’arriver par la voie des airs (en gondolfière,
+sur un hippogriffe...), les PJ sont rapidement
+repérés par l’un des trois chevaliers-dragons patrouillant
+en permanence au-dessus de la ville.

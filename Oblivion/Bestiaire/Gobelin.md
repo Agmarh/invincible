@@ -4,7 +4,7 @@ size: P
 type: Humanoïde
 subtype: Gobelin
 alignment: Neutre Mauvais
-ac: 15
+ac: 15 (armure de cuir, bouclier)
 hp: 7
 hit_dice: 2d6
 speed: 9
