@@ -4,7 +4,7 @@ Les PJ se retrouvent dans la taverne à Ikhâr et peuvent discuter entre eux de 
 
 C’est alors qu’une étrange femme va entrer dans la taverne : jet de Perspicacité ou Perception DD 20 pour remarquer que “quelque chose ne va pas”.
 
-Près des PJ, des enfants jouent autour d’une fontaine intérieure : l’un d’eux capture un scarabée et, tout en lui arrachant les pattes, murmure une ritournelle qui leur fera sans doute dresser l’oreille jet de Perception DD 8 : « *Un, deux, trois. Une nouvelle proie. Quatre, cinq, six. Toute prête au supplice..**. »
+Près des PJ, des enfants jouent autour d’une fontaine intérieure : l’un d’eux capture un scarabée et, tout en lui arrachant les pattes, murmure une ritournelle qui leur fera sans doute dresser l’oreille jet de Perception DD 8 : « *Un, deux, trois. Une nouvelle proie. Quatre, cinq, six. Toute prête au supplice..*. »
 
 Si un PJ interroge l’enfant, ce dernier déclare ne pas savoir où il a entendu cette comptine, mais il se souvient s’être réveillé ce matin avec ces quelques vers en tête. Si les PJ n’ont pas encore enquêté sur le cauchemar, profitez-en pour placer ici un ou deux PNJ qui semblent suivre leur conversation avec intérêt. Les PJ pourront alors entamer une discussion avec eux et s’apercevoir ainsi qu’ils ne sont pas les seuls à avoir été les victimes du rêve de l’Écorcheuse...
 

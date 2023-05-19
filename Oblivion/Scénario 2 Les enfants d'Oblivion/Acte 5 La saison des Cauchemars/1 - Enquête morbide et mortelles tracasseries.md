@@ -49,7 +49,7 @@ Notez que si les PJ ont échoué à récupérer les indices précédents, ils pe
 Enfin, si des PJ ont été infectés par la gangrêve, ils ont la possibilité de s’en rendre compte (cf. description de la maladie).
 
 # Des nouvelles d’Oblivion
-Un ou deux jours après le massacre perpétré par la guerrière soong, Grisou le méphite sort soudain de sa torpeur habituelle. « Mon Miroir, c’est mon Miroir d’Audience !... », hurle-t-il de sa voix nasillarde « ...des nouvelles d’Oblivion, Réghûlus va parler ! »
+Un ou deux jours après le massacre perpétré par la guerrière soong, Grisou le méphite sort soudain de sa torpeur habituelle. « *Mon Miroir, c’est mon Miroir d’Audience !...* », hurle-t-il de sa voix nasillarde « *...des nouvelles d’Oblivion, Réghûlus va parler !* »
 
 Effectivement, le miroir oniride, brandi fébrilement par le méphite, se couvre bientôt de fumée noire, tandis qu’une odeur d’ozone envahit l’air. Après des semaines de silence, une nouvelle audience s’ouvre enfin avec le Pays des Chimères...
 
