@@ -1,23 +1,8 @@
 Un matin, à deux jours de la ville, les PJ aperçoivent au loin une colonne de fumée. En s’approchant, ils observent une demi-douzaine de chariots disposés en cercle, dont deux sont la proie des flammes, assaillis par une horde de créatures hurlantes.
 
-Un test de Sagesse (Perception) DD 12 (5E) ou de Sagesse
-DD 9 (COF) révèle que ce sont une trentaine de
-gobelins, chevauchant des hyènes de guerre. Il s’agit là
-d’une caravane elfique, quittant précipitamment Anthéone.
-Les elfes abrités à l’intérieur du cercle formé de
-six chariots, tirent des flèches argentées contre leurs assaillants.
-Il y a en tout six familles (8 adultes hommes et
-femmes, 7 enfants). Les gobelins hurlants attaquent par
-vagues désorganisées, projetant des lances barbelées et
-des torches enflammées. Ils tentent de faire sauter leur
-monture par-dessus les chariots, et vont probablement
-finir par y arriver.
-Si les PJ n’interviennent pas, l’ensemble des elfes finit
-brûlé ou massacré en moins d’une demi-heure.
-S’ils interviennent, les flammes constituent la menace
-la plus pressante. Ainsi, pour éteindre le feu les PJ ont
-le choix entre : l’utilisation de la magie, larguer au-dessus
-les réserves d’eau potable d’une gondolfière (test de
+Un test de Perception DD 12 révèle que ce sont une trentaine de gobelins, chevauchant des hyènes de guerre. Il s’agit là d’une caravane elfique, quittant précipitamment Anthéone. Les elfes abrités à l’intérieur du cercle formé de six chariots, tirent des flèches argentées contre leurs assaillants. Il y a en tout six familles (8 adultes hommes et femmes, 7 enfants). Les gobelins hurlants attaquent par vagues désorganisées, projetant des lances barbelées et des torches enflammées. Ils tentent de faire sauter leur monture par-dessus les chariots, et vont probablement finir par y arriver.
+
+Si les PJ n’interviennent pas, l’ensemble des elfes finit brûlé ou massacré en moins d’une demi-heure. S’ils interviennent, les flammes constituent la menace la plus pressante. Ainsi, pour éteindre le feu les PJ ont le choix entre : l’utilisation de la magie, larguer au-dessus les réserves d’eau potable d’une gondolfière (test de
 Dextérité DD 15 (5E et CO)) ou encore enlever les elfes
 par les airs (test de Sagesse (Dressage) DD 15 (5E) ou de
 Dextérité DD 12).
