@@ -49,27 +49,13 @@ Notez que si les PJ ont échoué à récupérer les indices précédents, ils pe
 Enfin, si des PJ ont été infectés par la gangrêve, ils ont la possibilité de s’en rendre compte (cf. description de la maladie).
 
 # Des nouvelles d’Oblivion
-Un ou deux jours après le massacre perpétré par la
-guerrière soong, Grisou le méphite sort soudain de sa
-torpeur habituelle. « Mon Miroir, c’est mon Miroir d’Audience
-!... », hurle-t-il de sa voix nasillarde « ...des nouvelles
-d’Oblivion, Réghûlus va parler ! »
-Effectivement, le miroir oniride, brandi fébrilement
-par le méphite, se couvre bientôt de fumée noire, tandis
-qu’une odeur d’ozone envahit l’air. Après des semaines
-de silence, une nouvelle audience s’ouvre enfin avec le
-Pays des Chimères...
-Réghûlus et Sérénité apparaissent et semblent très inquiets.
-Douze jours auparavant, ils ont clairement « perçu
-» une Transmigration allant d’Alba-Secundum, la citadelle
-de l’Écorcheuse, vers une région très peuplée du
-monde terrestre. En fait, il est probable que plusieurs ravageurs
-aient été expédiés sur place ! Les contraintes imposées
-par le fonctionnement du Miroir d’Audience (cf.
-O1,p. 82) ont hélas empêché les Incarnins de prévenir
-les PJ plus tôt. Réghûlus craint du reste que l’Écorcheuse
-ait minutieusement prémédité ce délai...
-Sérénité, quant à elle, a senti de terribles remous dans
+Un ou deux jours après le massacre perpétré par la guerrière soong, Grisou le méphite sort soudain de sa torpeur habituelle. « Mon Miroir, c’est mon Miroir d’Audience !... », hurle-t-il de sa voix nasillarde « ...des nouvelles d’Oblivion, Réghûlus va parler ! »
+
+Effectivement, le miroir oniride, brandi fébrilement par le méphite, se couvre bientôt de fumée noire, tandis qu’une odeur d’ozone envahit l’air. Après des semaines de silence, une nouvelle audience s’ouvre enfin avec le Pays des Chimères...
+
+Réghûlus et Sérénité apparaissent et semblent très inquiets. Douze jours auparavant, ils ont clairement « perçu » une Transmigration allant d’Alba-Secundum, la citadelle de l’Écorcheuse, vers une région très peuplée du monde terrestre. En fait, il est probable que plusieurs ravageurs aient été expédiés sur place ! 
+
+Les contraintes imposées par le fonctionnement du Miroir d’Audience ont hélas empêché les Incarnins de prévenir les PJ plus tôt. Réghûlus craint du reste que l’Écorcheuse ait minutieusement prémédité ce délai... Sérénité, quant à elle, a senti de terribles remous dans
 les rêves des habitants du « Vrai Monde ». Elle pense
 qu’une action d’envergure se prépare, à la fois sur terre
 et dans Oblivion. Elle adjure les PJ de se rendre au plus
