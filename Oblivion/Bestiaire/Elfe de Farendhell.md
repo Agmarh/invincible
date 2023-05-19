@@ -16,18 +16,17 @@ skillsaves:
   - Survie: 5
 senses: vision dans le noir 18m, Perception passive 15
 languages: commun, elfe
-cr: 1
-spells:
-  - <description>
-  - <spell level>: <spell-list>
+cr: 1/2
 traits:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
+  - name: Ouïe et vue aiguisée
+    desc: L'éclaireur obtient un avantage lors des tests de Sagesse (Perception) basés sur l'ouïe ou la vue.
 actions:
+  - name: Attaques multiples
+    desc: "L'éclaireur effectue deux attaques au corps à corps ou deux attaques à distance."
+  - name: Arc long
+    desc: <trait-description>
   - name: <trait-name>
     desc: <trait-description>
-  - ...
 legendary_actions:
   - name: <legendary_actions-name>
     desc: <legendary_actions-description>
