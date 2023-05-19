@@ -16,16 +16,14 @@ skillsaves:
   - Dressage: 5
   - Perception: 5
   - Intimidation: 5
-senses: string
-languages: string
-cr: 1
-spells:
-  - <description>
-  - <spell level>: <spell-list>
+senses: vision dans le noir 19m, Perception passive 15
+languages: commun, gobelin
+cr: 3
 traits:
-  - name: <trait-name>
+  - name: Attaque en meute
+    desc: Une fois par tour, si le chef gobelin attaque une créature qui a déjà été attaquée par un autre gobelin à ce round, il obtient au choix un avantage en attaque ou un bonus de 2d6 aux dégâts(du même type que l’arme utilisée).
+  - name: Rapide
     desc: <trait-description>
-  - ...
 actions:
   - name: <trait-name>
     desc: <trait-description>
