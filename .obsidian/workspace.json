@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4f058291b0e4fb5f",
+        "id": "649b7c88d7ec461d",
         "type": "tabs",
         "children": [
           {
-            "id": "d633078d433bb5e6",
+            "id": "c78b3a0f88088732",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oblivion/ACTUELLEMENT.md",
+                "file": "Invincible/Scénario 2 La cité pétrifiée/Evénements/1 – Le retour des pêcheurs.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oblivion/ACTUELLEMENT.md",
+                "file": "Invincible/Scénario 2 La cité pétrifiée/Evénements/1 – Le retour des pêcheurs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oblivion/ACTUELLEMENT.md",
+                "file": "Invincible/Scénario 2 La cité pétrifiée/Evénements/1 – Le retour des pêcheurs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oblivion/ACTUELLEMENT.md"
+                "file": "Invincible/Scénario 2 La cité pétrifiée/Evénements/1 – Le retour des pêcheurs.md"
               }
             }
           }
@@ -187,11 +187,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d633078d433bb5e6",
+  "active": "c78b3a0f88088732",
   "lastOpenFiles": [
+    "Invincible/Scénario 2 La cité pétrifiée/Personnage Loup-Garou.md",
+    "Oblivion/ACTUELLEMENT.md",
     "Oblivion/L'Empire.md",
     "Oblivion/Magie.md",
-    "Oblivion/ACTUELLEMENT.md",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/2 - Sur la route de la Cité Sainte.md",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/1 - Enquête morbide et mortelles tracasseries.md",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Gangrêve.md",
@@ -215,7 +216,6 @@
     "Oblivion/Bestiaire/Hyène de guerre.md",
     "Oblivion/Bestiaire/Chef de meute Gobelin.md",
     "Invincible/Bestiaire/Baphit.md",
-    "Oblivion/Objets Magiques/Bottes elfiques.md",
     "Oblivion/Images/Guerrière Soong.jpg",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars",
     "Oblivion/PDF/Le Cauchemar.pdf",
