@@ -79,27 +79,27 @@ La pièce que découvrent les personnages est un cube totalement blanc. Au centr
 
 La porte de pierre porte un symbole gravé : un triangle barré (symbole alchimique de la terre). La porte s'ouvre sur un boyau souterrain d'environ 1 mètre de large pour 1 mètre 50 de haut. Après quelques mètres, un croisement permet de prendre à droite ou à gauche. Chaque nouveau tunnel mène à un autre croisement, certains montent, d'autres descendent. Il s'agit d'un labyrinthe sans fin et celui qui s'y engage risque de s'y perdre à jamais.
 
-Une fois engagé, il faut un test d'Intelligence d'une difficulté égale au nombre de minutes passées dans le labyrinthe pour retrouver l'entrée (maximum difficulté 20). Si ce test est raté, le personnage est perdu et il doit tenter de réussir un <font style=color:greentest d'Intelligence DD 20 toutes les heures pour retrouver l'entrée.
+Une fois engagé, il faut un test d'Intelligence d'une difficulté égale au nombre de minutes passées dans le labyrinthe pour retrouver l'entrée (maximum difficulté 20). Si ce test est raté, le personnage est perdu et il doit tenter de réussir un <font style="color:green">test d'Intelligence DD 20</font> toutes les heures pour retrouver l'entrée.
 
 # 7' - Véritable Sanctuaire de la Terre
 
-La pièce que découvrent les personnages est un cube totalement blanc. Au centre, un autel noir sur lequel repose une lame d'acier sur un écrin de velours rouge : [Mordante](onenote:Objets.one#Mordante&section-id={99561796-C9BD-499A-A433-E9DFA73E894F}&page-id={309F9BD3-29CA-4999-98E3-FB92C9F89818}&end&base-path=https://d.docs.live.net/70ed6b548fddc9af/JDR/Héros%20%5e0%20Dragons/MJ/Invincible/Scénario%202/Invincible%20Scénario%202%20La%20Cité%20Pétrifiée).
+La pièce que découvrent les personnages est un cube totalement blanc. Au centre, un autel noir sur lequel repose une lame d'acier sur un écrin de velours rouge : [[Mordante]].
 
 # 8 - Sanctuaire de Selmak
 
 Lisez ou paraphrasez le paragraphe suivant :
-
-"La colonne de lumière vous aveugle momentanément. Vous sentez un long frisson vous parcourir, vous faîtes un pas en avant pour y voir à nouveau et lorsque vos yeux s'habituent à la pénombre vous comprenez que vous n'êtes plus au même endroit. D'une dizaine de mètres de diamètre, la pièce où vous vous tenez est parfaitement circulaire, elle possède un plafond sphérique de couleur bleu nuit piqueté de milliers de points blancs qui représentent un ciel étoilé. Tout bouge en accéléré comme dans un planétarium magique et vous donne légèrement le tournis. Au centre, une sorte de vase fermé à la fois très beau et très sobre est posé sur un petit piédestal blanc. Soudain, un tourbillon de poussière se dégage du sommet de l'objet métallique et, dans un sifflement strident, apparaît le visage d'un noble vieillard barbu. Ses yeux, deux puits noirs ouverts sur les abysses du temps, se fixent sur vous. « Qui vient troubler mon sommeil ? » déclame le spectre."
+> "La colonne de lumière vous aveugle momentanément. Vous sentez un long frisson vous parcourir, vous faîtes un pas en avant pour y voir à nouveau et lorsque vos yeux s'habituent à la pénombre vous comprenez que vous n'êtes plus au même endroit. D'une dizaine de mètres de diamètre, la pièce où vous vous tenez est parfaitement circulaire, elle possède un plafond sphérique de couleur bleu nuit piqueté de milliers de points blancs qui représentent un ciel étoilé. Tout bouge en accéléré comme dans un planétarium magique et vous donne légèrement le tournis. Au centre, une sorte de vase fermé à la fois très beau et très sobre est posé sur un petit piédestal blanc. Soudain, un tourbillon de poussière se dégage du sommet de l'objet métallique et, dans un sifflement strident, apparaît le visage d'un noble vieillard barbu. Ses yeux, deux puits noirs ouverts sur les abysses du temps, se fixent sur vous. « Qui vient troubler mon sommeil ? » déclame le spectre."
 
 Tout va mal : si le personnage ne répond pas ou ment, lisez la scène suivante.
 
-"La silhouette du spectre enfle et s'assombrit. Il va attaquer. D'une voix trahissant une colère immémoriale, il se ravise et hurle : « Qui es-tu réellement ? »"
+> "La silhouette du spectre enfle et s'assombrit. Il va attaquer. D'une voix trahissant une colère immémoriale, il se ravise et hurle : « Qui es-tu réellement ? »"
 
-Si le personnage persiste à mentir, le spectre entre en rage :  « Alors ce sanctuaire sera ta tombe. Ce qu'il contient est trop précieux pour l'avenir. Tu n'es pas un des élus. »
+Si le personnage persiste à mentir, le spectre entre en rage :  
+> « Alors ce sanctuaire sera ta tombe. Ce qu'il contient est trop précieux pour l'avenir. Tu n'es pas un des élus. »
 
 Le visage disparaît dans un énorme tourbillon de poussière qui envahit toute la pièce. La colonne de lumière se dissipe, empêchant toute fuite. Le tourbillon brûle les chairs, les fait vieillir et les arrache des os. Le ou les PJ présents se dirigent vers une mort très douloureuse. 
 
-Le spectre inflige 1d6 dégâts de force par tour, que rien ne peut stopper. S'approcher de l'urne où le tourbillon est le plus destructeur, inflige 3d6 dégâts de force et nécessite un test de Force DD 15. Si un PJ tente de renverser l'urne funéraire, il s'aperçoit qu'elle est fixée au sol de façon très solide, vider l'urne de ses cendres en y plongeant le bras demande un test de Force DD 20 et inflige 2d6 dégâts de Force supplémentaires (que le test soit réussi ou pas). En cas de réussite cela détruit le spectre qui se dissipe dans un « Noooooooon ! » désespéré et glacial. Ce dénouement n'est pas le plus simple, mais ne pose pas de problème pour la suite. Les PJ sont immédiatement téléportés à l'extérieur et ils peuvent récupérer les cendres.
+Le spectre inflige 1d6 dégâts de force par tour, que rien ne peut stopper. S'approcher de l'urne où le tourbillon est le plus destructeur, inflige 3d6 dégâts de force et nécessite un <font style="color:green">test de Force DD 15</font>. Si un PJ tente de renverser l'urne funéraire, il s'aperçoit qu'elle est fixée au sol de façon très solide, vider l'urne de ses cendres en y plongeant le bras demande un test de Force DD 20 et inflige 2d6 dégâts de Force supplémentaires (que le test soit réussi ou pas). En cas de réussite cela détruit le spectre qui se dissipe dans un « Noooooooon ! » désespéré et glacial. Ce dénouement n'est pas le plus simple, mais ne pose pas de problème pour la suite. Les PJ sont immédiatement téléportés à l'extérieur et ils peuvent récupérer les cendres.
 
 Tout va bien : à tout moment, si le PJ donne son vrai nom, le spectre se calme et les événements reprennent un court plus normal. Lisez ou paraphrasez le paragraphe suivant :
 
