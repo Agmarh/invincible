@@ -12,14 +12,14 @@ speed: 9
 stats: [8, 14, 14, 10, 12, 16]
 saves:
   - Sag: 4
-  - <ability-score>: number
+  - Cha: 6
 skillsaves:
-  - <skill-name>: number
-damage_vulnerabilities: string
-damage_resistances: string
-damage_immunities: string
-condition_immunities: string
-senses: string
+  - Arcanes: 3
+  - Histoire: 3
+  - Intimidation: 6
+  - Investigation: 3
+damage_resistances: poison
+senses: vision da
 languages: string
 cr: 1
 spells:
