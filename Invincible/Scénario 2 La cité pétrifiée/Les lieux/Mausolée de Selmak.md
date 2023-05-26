@@ -57,7 +57,7 @@ Si un PJ se trouvait en 5, 6 ou 7 au moment où l'énigme est résolue, il est i
 
 # 3' - Véritable Sanctuaire de Feu
 
-Cette pièce n'apparaît que lorsque les personnages ont résolu l'énigme, elle remplace le couloir 3. On y accède par une porte de métal dorée (la même que celle qui menait avant au couloir), elle porte un symbole gravé : un triangle (symbole alchimique du Feu). La pièce que découvrent les personnages est un cube totalement blanc. Au centre, un autel rouge sur lequel est posé un bâton noir (remplacer par un Arc vicieux et des munitions +2.
+Cette pièce n'apparaît que lorsque les personnages ont résolu l'énigme, elle remplace le couloir 3. On y accède par une porte de métal dorée (la même que celle qui menait avant au couloir), elle porte un symbole gravé : un triangle (symbole alchimique du Feu). La pièce que découvrent les personnages est un cube totalement blanc. Au centre, un autel rouge sur lequel est posé un bâton noir (remplacer par un [[Arc vicieux]] et des munitions +2.
 
 # 5 - Le Sanctuaire de l'Air
 
@@ -65,7 +65,7 @@ La porte de métal cuivrée porte un symbole gravé : un triangle barré (symbol
 
 # 5' - Véritable Sanctuaire de l'Air
 
-La pièce que découvrent les personnages est un cube totalement blanc. Au centre, un autel blanc sur lequel est posé [un miroir d'argent](onenote:Objets.one#Tromperie&section-id={99561796-C9BD-499A-A433-E9DFA73E894F}&page-id={8CCAC63D-7FB8-4B04-AE82-020E4A2F6DAC}&end&base-path=https://d.docs.live.net/70ed6b548fddc9af/JDR/Héros%20%5e0%20Dragons/MJ/Invincible/Scénario%202/Invincible%20Scénario%202%20La%20Cité%20Pétrifiée).
+La pièce que découvrent les personnages est un cube totalement blanc. Au centre, un autel blanc sur lequel est posé un miroir d'argent [[Tromperie]].
 
 # 6 - Le Sanctuaire de l'Eau
 
@@ -73,13 +73,13 @@ La porte de métal argenté porte un symbole gravé : un triangle pointe en bas 
 
 # 6' - Véritable Sanctuaire de l'Eau
 
-La pièce que découvrent les personnages est un cube totalement blanc. Au centre, un autel bleu sur lequel est posé un [anneau de jade et d'argent](onenote:Objets.one#Draconis&section-id={99561796-C9BD-499A-A433-E9DFA73E894F}&page-id={53689057-8DDF-4462-9A03-7723F610B258}&end&base-path=https://d.docs.live.net/70ed6b548fddc9af/JDR/Héros%20%5e0%20Dragons/MJ/Invincible/Scénario%202/Invincible%20Scénario%202%20La%20Cité%20Pétrifiée).
+La pièce que découvrent les personnages est un cube totalement blanc. Au centre, un autel bleu sur lequel est posé un anneau de jade et d'argent [[Draconis]].
 
 # 7 - Sanctuaire de la Terre
 
 La porte de pierre porte un symbole gravé : un triangle barré (symbole alchimique de la terre). La porte s'ouvre sur un boyau souterrain d'environ 1 mètre de large pour 1 mètre 50 de haut. Après quelques mètres, un croisement permet de prendre à droite ou à gauche. Chaque nouveau tunnel mène à un autre croisement, certains montent, d'autres descendent. Il s'agit d'un labyrinthe sans fin et celui qui s'y engage risque de s'y perdre à jamais.
 
-Une fois engagé, il faut un test d'Intelligence d'une difficulté égale au nombre de minutes passées dans le labyrinthe pour retrouver l'entrée (maximum difficulté 20). Si ce test est raté, le personnage est perdu et il doit tenter de réussir un test d'Intelligence DD 20 toutes les heures pour retrouver l'entrée.
+Une fois engagé, il faut un test d'Intelligence d'une difficulté égale au nombre de minutes passées dans le labyrinthe pour retrouver l'entrée (maximum difficulté 20). Si ce test est raté, le personnage est perdu et il doit tenter de réussir un <font style=color:greentest d'Intelligence DD 20 toutes les heures pour retrouver l'entrée.
 
 # 7' - Véritable Sanctuaire de la Terre
 
