@@ -24,7 +24,7 @@ Une grille bloque l'entrée, l'arracher demande <font style="color:green">DD For
 
 ## 1 - Le Puits
 
-Le tunnel débouche sur le puits (4 mètres de diamètre pour 1 mètre au sommet) et 5 mètres de haut, il faut l'escalader pour atteindre le sous-sol. Au premier round où une créature se manifeste dans le puits, un élémentaire d'eau va apparaître. Au premier tour, des frémissement seront visible à la surface de l'eau, au suivant, des vaguelettes se forment un peu partout et au troisième tour, une silhouette menaçante de 2m50 de haut se dresse à la surface de l'eau et attaque. [Combat sous-marin](https://5e-drs.fr/combattre/#combat-sous-marin)
+Le tunnel débouche sur le puits (4 mètres de diamètre pour 1 mètre au sommet) et 5 mètres de haut, il faut l'escalader pour atteindre le sous-sol. Au premier round où une créature se manifeste dans le puits, un élémentaire d'eau va apparaître. Au premier tour, des frémissement seront visible à la surface de l'eau, au suivant, des vaguelettes se forment un peu partout et au troisième tour, une silhouette menaçante de 2m50 de haut se dresse à la surface de l'eau et attaque. [[Combat sous-marin]]
 
 Si un joueur rate un test en escaladant, lui indiquer qu'il vient de desceller une ancienne cachette et découvert un petit trésor. Dans un coffret vermoulu se trouve une vielle bourse de cuir contenant 21 PO et une rapière à lame d'argent sculpté (Tue-Mort).
 
