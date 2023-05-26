@@ -74,17 +74,12 @@ La projection de Lytochronox fonce sur les personnages et la Chronosphère pour 
 Ceux qui font moins que cela, s'envolent littéralement et sont projetés au-delà de la tour ! 
 
 Lisez ou paraphrasez le paragraphe suivant :
-
-"La foudre du dragon percute tout le sommet de la tour. Malgré la douleur, vous apercevez avec soulagement qu'une bonne partie de l'énergie a été canalisée par votre paratonnerre et redirigée vers la Chronosphère. Sous la puissance de l'énergie, la chaîne elle-même est chauffée à blanc ! La violence de la tempête est inouïe. Le trébuchet est renversé par la fureur du dragon-typhon. 
-
+> "La foudre du dragon percute tout le sommet de la tour. Malgré la douleur, vous apercevez avec soulagement qu'une bonne partie de l'énergie a été canalisée par votre paratonnerre et redirigée vers la Chronosphère. Sous la puissance de l'énergie, la chaîne elle-même est chauffée à blanc ! La violence de la tempête est inouïe. Le trébuchet est renversé par la fureur du dragon-typhon. 
 Sous vos yeux, la Chronosphère décrit un arc-de-cercle au bout de sa chaîne qui se brise en son milieu. Vous retenez votre souffle. Le temps ralentit et vous laisse admirer la trajectoire qui propulse l'artefact droit sur le dragon de foudre. Elle émet soudain un violent flash et, en réponse à la foudre du dragon, elle génère à son tour des arcs électriques.
-
 Le temps s'arrête… Soudainement, la Chronosphère explose en une onde de choc lumineuse. Le mur de lumière sphérique, aveuglant, s'étend dans toutes les directions et vous avale comme dans un rêve qui tourne au ralenti. Vous n'y voyez plus rien. La lumière blanche vous brûle la rétine.
-
 Aveuglé, vous voyez votre vie défiler devant vous. Des amis ou des scènes s'animent devant vos yeux tels des spectres sur lesquels vous n'avez aucun contrôle. Vous revivez également des événements de ces derniers jours, Dominia, Hector, Clovik passent devant vous. Vous perdez toute notion du temps au cours d'un voyage initiatique infini. Vous prenez conscience du chemin parcouru, des épreuves que vous avez traversées et de l'expérience acquise en poursuivant cette mission…"
 
 Les joueurs ont terminé le scénario 2, bravo ! Alors qu'ils flottent dans le vortex temporel, vous pouvez faire passer les personnages au niveau 7… Ils ne guérissent pas, mais gagnent les PV du passage de niveau, ils peuvent noter leur score de PV actuels augmenté pour l'utiliser lors de la prochaine aventure.
 
 La suite au prochain épisode mais… avant de conclure, rien ne vaut un petit teaser :
-
-"Vous ne savez toujours pas où vous êtes, mais vous ne pensez pas être mort. Vous flottez dans le néant et cela vous rappelle étrangement votre arrivée dans le marais du Dragon. Peut-être allez-vous rentrer chez vous ? Si vos souvenirs sont bons, logiquement après l'état de grâce, il y a une chute…"
+> "Vous ne savez toujours pas où vous êtes, mais vous ne pensez pas être mort. Vous flottez dans le néant et cela vous rappelle étrangement votre arrivée dans le marais du Dragon. Peut-être allez-vous rentrer chez vous ? Si vos souvenirs sont bons, logiquement après l'état de grâce, il y a une chute…"

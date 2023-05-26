@@ -2,7 +2,7 @@ Le retour des pêcheurs et Les survivants sont des situations tout à fait optio
 
 Le point de départ de la chronologie est le jour J, d'arrivée des PJ à Paleseaux.
 
-- J+1 Le retour des pêcheurs
+- J+1 [[Le retour des pêcheurs
 - J+2-6 Les larmes de nouveau-né
 - J+5 Les survivants !
 - J+6 La mission de Lycanis
