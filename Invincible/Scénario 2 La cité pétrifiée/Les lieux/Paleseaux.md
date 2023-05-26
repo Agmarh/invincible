@@ -37,8 +37,8 @@ Lorsqu'un personnage obtient 13 sur un d20, la foudre le frappe.
 
 # Se déplacer en ville
 
-- D'un pas alerte : les PJs se déplacent rapidement et couvrent une distance en 5 minutes. DD Discrétion 15 pour ne pas faire de rencontre
-- Profil bas : les PJs se déplacent prudemment en évitant de faire du bruit et en étant attentifs à éviter et contourner les dangers. Ils couvrent la distance en 15 minutes. <font style="color:green">DD Discrétion 10< pour ne pas faire de rencontre
+- D'un pas alerte : les PJs se déplacent rapidement et couvrent une distance en 5 minutes. <font style="color:green">DD Discrétion 15</font> pour ne pas faire de rencontre
+- Profil bas : les PJs se déplacent prudemment en évitant de faire du bruit et en étant attentifs à éviter et contourner les dangers. Ils couvrent la distance en 15 minutes. <font style="color:green">DD Discrétion 10</font> pour ne pas faire de rencontre
 - En rasant les murs : Les PJs se déplacent très prudemment en prenant le temps d'être discret. Ils couvrent la distance en 30 minutes. <font style="color:green">DD Discrétion 5</font> pour ne pas faire de rencontre.
 - La nuit : la difficulté est augmenté de 5, chaque joueur qui obtient un 1 naturel ajoute un tirage supplémentaire sur la table de rencontre.
 - Important : dès que les PJs s'arrêtent pour un combat, lancer 1d6 par round, sur un 1 ou 2 (1 à 3 la nuit), un écorché supplémentaire arrive. A partir du 5ème jour, les probabilités augmentent de 1.
