@@ -7,8 +7,8 @@ subtype: Tieffelin Na'saqwu
 alignment: Chaotique Neutre
 ac: 14
 hp: 44
-hit_dice: 6d8
-speed: 9
+hit_dice: 6d8+17
+speed: 9m
 stats: [8, 14, 14, 10, 12, 16]
 saves:
   - Sag: 4
@@ -51,21 +51,4 @@ traits:
 actions:
   - name: [[Tue-Mort]]
     desc: "Attaque d'arme au corps à corps : +6 pour toucher, allonge 3 m, une cible. Touché : 7 (1d8+3) dégâts perforants."
-legendary_actions:
-  - name: <legendary_actions-name>
-    desc: <legendary_actions-description>
-  - ...
-bonus_actions:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
-reactions:
-  - name: <reaction-name>
-    desc: <reaction-description>
-  - ...
-tactic:
-  - desc: <reaction-description>
-treasure:
-  - name: <reaction-name>
-    desc: <reaction-description>
 ```
