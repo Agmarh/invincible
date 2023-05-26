@@ -26,7 +26,7 @@ Pendant qu'ils se déplacent en ville : indiquer que certaines portes de maison 
 
 # Les foudres du temps
 
-La foudre frappe aléatoirement. (Table de rencontre)
+La foudre frappe aléatoirement. (Table de rencontre [[Infos diverses]])
 
 Lorsqu'un personnage obtient 13 sur un d20, la foudre le frappe.
 
