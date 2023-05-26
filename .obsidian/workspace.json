@@ -10,6 +10,7 @@
           {
             "id": "579b07f349848014",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,7 +18,8 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -190,6 +192,8 @@
   "active": "579b07f349848014",
   "lastOpenFiles": [
     "Oblivion/Groupe/Gestion Compagnie.md",
+    "Oblivion/Groupe/Planque.md",
+    "Invincible/Scénario 2 La cité pétrifiée/Evénements/1 – Le retour des pêcheurs.md",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Introduction.md",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Gangrêve.md",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/2 - Sur la route de la Cité Sainte.md",
@@ -200,7 +204,6 @@
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Le rêve se répand.md",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Lettre pour Razan.md",
     "Oblivion/ACTUELLEMENT.md",
-    "Invincible/Scénario 2 La cité pétrifiée/Evénements/1 – Le retour des pêcheurs.md",
     "Invincible/Scénario 2 La cité pétrifiée/Evénements/Chronologie.md",
     "Invincible/Personnages/Clovik Scénario 2.md",
     "Invincible/Personnages/Clovik Scénario 1.md",
@@ -214,7 +217,6 @@
     "Oblivion/Objets Magiques/Bouclier animé.md",
     "Oblivion/Objets Magiques/Gantelets de puissance d'ogre.md",
     "Oblivion/Objets Magiques/Sac sans fond.md",
-    "Oblivion/Objets Magiques/Bâton de combat.md",
     "Oblivion/Images/chevalier-dragon.jpg",
     "Oblivion/Images/Guerrière Soong.jpg",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars",
