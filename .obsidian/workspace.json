@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Invincible/Scénario 2 La cité pétrifiée/Les lieux/1 – La Tour du Phare.md",
+                "file": "Annexe/Règles/Combat sous-marin.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Invincible/Scénario 2 La cité pétrifiée/Les lieux/1 – La Tour du Phare.md",
+                "file": "Annexe/Règles/Combat sous-marin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Invincible/Scénario 2 La cité pétrifiée/Les lieux/1 – La Tour du Phare.md",
+                "file": "Annexe/Règles/Combat sous-marin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Invincible/Scénario 2 La cité pétrifiée/Les lieux/1 – La Tour du Phare.md"
+                "file": "Annexe/Règles/Combat sous-marin.md"
               }
             }
           }
@@ -189,8 +189,9 @@
   },
   "active": "579b07f349848014",
   "lastOpenFiles": [
-    "Annexe/Règles/Asphyxie.md",
     "Invincible/Scénario 2 La cité pétrifiée/Les lieux/1 – La Tour du Phare.md",
+    "Annexe/Règles/Combat sous-marin.md",
+    "Annexe/Règles/Asphyxie.md",
     "Invincible/Scénario 2 La cité pétrifiée/Les lieux/Mausolée de Selmak.md",
     "Invincible/Scénario 2 La cité pétrifiée/Chronologie.md",
     "Invincible/Scénario 2 La cité pétrifiée/Evénements/Mission de Lycanis.md",
@@ -215,7 +216,6 @@
     "Invincible/Scénario 2 La cité pétrifiée/Infos diverses.md",
     "Invincible/Scénario 2 La cité pétrifiée/Les lieux/5 - Cimetière.md",
     "Invincible/Scénario 2 La cité pétrifiée/Les lieux/4 – Auberge du Coq Doré.md",
-    "Invincible/Scénario 2 La cité pétrifiée/Les lieux/3 – La Tour Grise.md",
     "Invincible/Scénario 2 La cité pétrifiée/Les lieux",
     "Oblivion/Images/chevalier-dragon.jpg",
     "Oblivion/Images/Guerrière Soong.jpg",

@@ -12,13 +12,13 @@ Clovik explique que le magicien avait prévu des protections de ce type en cas d
 
 A l'eau : [[Asphyxie]]
 
-La première étape est de descendre au fond du lac, au pied du piton rocheux. 3 DD Athlétisme 10 (18sec). Si un raté, le joueur peut remonter à la surface pour repartir de 0 ou continuer et sacrifier 1 PV et subir un désavantage à son prochain test, mais conserve les succès.
+La première étape est de descendre au fond du lac, au pied du piton rocheux. 3 <font style="color:green">DD Athlétisme 10</font> (18sec). Si un raté, le joueur peut remonter à la surface pour repartir de 0 ou continuer et sacrifier 1 PV et subir un désavantage à son prochain test, mais conserve les succès.
 
-Pour rester au fond : DD Athlétisme 15 par tour. 1d4 dégâts par échec.
+Pour rester au fond : <font style="color:green">DD Athlétisme 15</font> par tour. 1d4 dégâts par échec.
 
-Il faut ensuite réussir un DD Perception 15 pour repérer entre les rochers un conduit naturel. L'explorer demande 3 succès supplémentaires DD Athlétisme 10 (18sec).
+Il faut ensuite réussir un <font style="color:green">DD Perception 15</font> pour repérer entre les rochers un conduit naturel. L'explorer demande 3 succès supplémentaires <font style="color:green">DD Athlétisme 10</font> (18sec).
 
-Une grille bloque l'entrée, l'arracher demande DD Force 20, 1 essai par round. Il n'y a assez de place que pour une seule personne. Il est possible d'attacher une corde, chaque personnage qui tire ajoute un bonus de +2. Une fois la grille retirée, plonger du bord, descendre au fond et franchir le tunnel demande 5 DD Athlétisme 10 (30sec).
+Une grille bloque l'entrée, l'arracher demande <font style="color:green">DD Force 20</font>, 1 essai par round. Il n'y a assez de place que pour une seule personne. Il est possible d'attacher une corde, chaque personnage qui tire ajoute un bonus de +2. Une fois la grille retirée, plonger du bord, descendre au fond et franchir le tunnel demande 5 <font style="color:green">DD Athlétisme 10</font> (30sec).
 
 # Sous-sol
 
