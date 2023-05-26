@@ -50,7 +50,7 @@ Clovik dans la bataille : Clovik utilise un sort de [[lévitation]] pour se mett
 
 Round 2 - 4 : la bataille suit son cours, les Spectres tentent d'atteindre la Chronosphère. 
 
-Round 5 : un nouvel [[éclair]] frappe la Chronosphère amenant le curseur à 8. Le bandeau tourne à présent nettement plus vite et la partie inférieure commence à tourner en sens inverse. Un autre éclair frappe le sol et donne naissance à un nouveau spectre (vous pouvez augmenter ce nombre à 2 si les personnages ont déjà abattu 2 spectres et à 3 s'il n'en reste plus aucun).
+Round 5 : un nouvel éclair frappe la Chronosphère amenant le curseur à 8. Le bandeau tourne à présent nettement plus vite et la partie inférieure commence à tourner en sens inverse. Un autre éclair frappe le sol et donne naissance à un nouveau spectre (vous pouvez augmenter ce nombre à 2 si les personnages ont déjà abattu 2 spectres et à 3 s'il n'en reste plus aucun).
 
 Round 8 : le premier écorché arrive sous la trappe et accède au toit si rien n'a été fait pour la bloquer auparavant. Tant que rien ne sera fait, un nouvel écorché sortira par là à chaque round (seulement tous les 3 rounds si les personnages ont supprimé Dominia). Les écorchés ignorent la Chronosphère et se jettent sur le personnage le plus proche.
 
