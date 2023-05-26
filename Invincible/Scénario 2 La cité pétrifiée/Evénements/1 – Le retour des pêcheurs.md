@@ -8,7 +8,9 @@ Si les PJ font vite et qu'ils disposent d'une barque, ils peuvent tenter de sauv
 
 S'ils ont réagi particulièrement vite, octroyez-leur un bonus de +2 et infligez-leur au contraire une pénalité de -2 s'ils ont tergiversé avant d'intervenir. Une réussite rapporte 1 point au groupe. Un échec supprime 1 point. Faites la somme du nombre de points et déterminez le résultat dans le tableau ci-dessous :
 
-
+| D100+jours | Résultat |  
+| -------- | -------- |
+| 01 - 20 | Vous devez payer une fois et demi les coûts d'entretien de l'entreprise pour chacun des jours | 
 
 -3 points ou moins
 
