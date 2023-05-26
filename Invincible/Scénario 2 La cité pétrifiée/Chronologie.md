@@ -5,6 +5,6 @@ Le point de départ de la chronologie est le jour J, d'arrivée des PJ à Palese
 - J+1 [[Le retour des pêcheurs]]
 - J+2-6 [[Les larmes de nouveau-né]]
 - J+5 [[Les Survivants]]
-- J+6 [[MissiLa mission de Lycanis
-- J+7 Le sang du loup-garou
-- J+8-9 Actionner la Chronosphère
+- J+6 [[Mission de Lycanis]]
+- J+7 [[Le sang de loup-garou]]
+- J+8-9 [[Actionner la Chronosphère]]
