@@ -13,9 +13,9 @@ Hector prend contact avec [[Dominia]] pour passer un accord mutuel de non-agress
 
 Une rencontre entre les 2 chefs paranoïaques est organisée en terrain neutre, à Grand Place à J+7. Si les PJ l'apprenaient, ce pourrait être l'occasion de faire d'une pierre deux coups : déclencher une bataille entre les deux camps en se faisant passer pour l'un ou pour l'autre… Si vous avez joué la scène des survivants, Servantès devient un élément intéressant, il pourrait être l'espion qui leur fait savoir que la rencontre va avoir lieu et, éventuellement, leur filer un coup de main plus tard (par exemple si les PJ souhaitent capturer Hector pour son sang de loup-garou).  
 
-Le Miroir de Tromperie peut s'avérer très utile pour des missions faisant plus appel à la ruse qu'à la force brute !
+Le Miroir de [[Tromperie]] peut s'avérer très utile pour des missions faisant plus appel à la ruse qu'à la force brute !
 
-Dans tous les cas, considérez qu'Hector est impitoyable et cruel. Il négociera avec les PJ pour mieux les trahir et les vendre à Dominia s'il apprend que ce sont des héros sensés vaincre Lytochronox. De même, s'il apprend ou devine qu'ils tentent d'annuler la pétrification de Lytochronox, il fera tout pour les en empêcher et utilisera cette information à son avantage pour négocier avec Dominia.  
+Dans tous les cas, considérez qu'Hector est impitoyable et cruel. Il négociera avec les PJ pour mieux les trahir et les vendre à [[Dominia]] s'il apprend que ce sont des héros sensés vaincre Lytochronox. De même, s'il apprend ou devine qu'ils tentent d'annuler la pétrification de Lytochronox, il fera tout pour les en empêcher et utilisera cette information à son avantage pour négocier avec [[Dominia]].  
 
 Enfin, il essayera de s'emparer de la Chronosphère par tous les moyens. Il est tout à fait capable de capturer un PJ en lui tendant un piège lors d'une négociation puis de marchander son otage contre l'artefact. S'il aperçoit Clovik, il reconnaîtra immédiatement son petit frère et cherchera dès lors à le ramener par tous les moyens à la maison pour que leur père « le remette dans le droit chemin ».
 

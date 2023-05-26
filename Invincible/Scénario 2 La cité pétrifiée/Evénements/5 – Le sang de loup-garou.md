@@ -2,9 +2,9 @@ Le sang de loup-garou doit être récolté à la pleine lune soit à J+7. Comme 
 
 Hector, le frère de Clovik, en est un mais il n'arrive que tardivement. Les PJ auront donc probablement déjà échafaudé un autre plan autour de l'histoire de Clovik. De toute façon, Hector n'est pas disposé à offrir son sang spontanément. Lui prendre de force risque de ne pas être une mince affaire, même si la ruse peut réussir là où la force échouerait.
 
-L'autre solution, c'est donc Clovik. Mais Clovik n'est plus un loup-garou et va tout faire pour essayer de ne pas en redevenir un ! Il a emprisonné cette partie de lui-même dans un cristal qu'il a enterré au cimetière et ce cristal a été déterré par les trolls de Dominia. Il est à présent dans la chambre de la magicienne morte-vivante au Coq Doré en attendant qu'elle réussisse à déterminer ce dont il s'agit.
+L'autre solution, c'est donc Clovik. Mais Clovik n'est plus un loup-garou et va tout faire pour essayer de ne pas en redevenir un ! Il a emprisonné cette partie de lui-même dans un cristal qu'il a enterré au cimetière et ce cristal a été déterré par les trolls de [[Dominia]]. Il est à présent dans la chambre de la magicienne morte-vivante au Coq Doré en attendant qu'elle réussisse à déterminer ce dont il s'agit.
 
-Les PJ pourront mener des recherches dans la bibliothèque pour essayer de déterminer ce qu'on peut faire du cristal. Faites faire un test d'Investigation DD 15 par heure de recherche. Au fur et à mesure des succès obtenus, révélez les informations du tableau ci-dessous à vos joueurs.
+Les PJ pourront mener des recherches dans la bibliothèque pour essayer de déterminer ce qu'on peut faire du cristal. Faites faire un <font style="color:green">test d'Investigation DD 15</font> par heure de recherche. Au fur et à mesure des succès obtenus, révélez les informations du tableau ci-dessous à vos joueurs.
 
 |   |   |
 |---|---|
