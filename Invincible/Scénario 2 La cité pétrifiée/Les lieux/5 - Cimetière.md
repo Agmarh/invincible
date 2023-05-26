@@ -28,4 +28,5 @@ Un atroce cri d'outre-tombe émane alors de la bouche du sarcophage, tandis que 
 
 # La Tombe d'Armand
 
-La tombe, très simple, a été ouverte, et le coffre de métal qu'elle contenait fracassé par les trolls et laissé là. On peut encore lire sur la pierre tombale l'inscription suivante : "Armand, loup parmi les loups. Puisses-tu reposer en paix."
+La tombe, très simple, a été ouverte, et le coffre de métal qu'elle contenait fracassé par les trolls et laissé là. On peut encore lire sur la pierre tombale l'inscription suivante : 
+> "Armand, loup parmi les loups. Puisses-tu reposer en paix."
