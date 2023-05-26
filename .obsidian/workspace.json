@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Invincible/Scénario 2 La cité pétrifiée/Les lieux/Mausolée de Selmak.md",
+                "file": "Invincible/Scénario 2 La cité pétrifiée/Les lieux/Paleseaux.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Invincible/Scénario 2 La cité pétrifiée/Les lieux/Mausolée de Selmak.md",
+                "file": "Invincible/Scénario 2 La cité pétrifiée/Les lieux/Paleseaux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Invincible/Scénario 2 La cité pétrifiée/Les lieux/Mausolée de Selmak.md",
+                "file": "Invincible/Scénario 2 La cité pétrifiée/Les lieux/Paleseaux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Invincible/Scénario 2 La cité pétrifiée/Les lieux/Mausolée de Selmak.md"
+                "file": "Invincible/Scénario 2 La cité pétrifiée/Les lieux/Paleseaux.md"
               }
             }
           }
@@ -189,8 +189,8 @@
   },
   "active": "579b07f349848014",
   "lastOpenFiles": [
-    "Invincible/Objets Magiques/Arc vicieux.md",
     "Invincible/Scénario 2 La cité pétrifiée/Les lieux/Mausolée de Selmak.md",
+    "Invincible/Objets Magiques/Arc vicieux.md",
     "Invincible/Images/epreuveFeu.png",
     "Invincible/Objets Magiques/Draconis.md",
     "Invincible/Objets Magiques/Anneau de marche sur l'eau.md",
