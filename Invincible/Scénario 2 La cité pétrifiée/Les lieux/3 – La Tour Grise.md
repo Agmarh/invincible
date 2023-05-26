@@ -24,15 +24,15 @@ On y trouve une cuisine et 2 dortoirs pour les miliciens de service, une dizaine
 
 Ce sont les appartements du capitaine de la milice : une chambre, un bureau et une salle d'armes pour s'entraîner.
 
-## 3ème étage
+# 3ème étage
 
 L'armurerie occupe cet étage mais la porte d'accès est fermée par de lourds verrous. Ce sont les stocks d'armes et d'armures (boucliers et armures de cuir principalement) destinés à équiper l'armée de conscription de Paleseaux en cas de guerre.
 
-## 4ème étage
+# 4ème étage
 
 Cet étage presque vide comprend quelques réserves de grain. Il peut accueillir plus de miliciens en cas de conflit. L'escalier termine sur une trappe verrouillée de l'intérieur qui donne accès à la terrasse.
 
-## Terrasse
+# Terrasse
 
 La terrasse abrite 2 balistes (portée 100 mètres, 3d6 dégâts, 2 rounds pour recharger) et un grand trébuchet. 10 gargouilles se sont installées ici, moins celles que les personnages on éventuellement supprimées au pied de la tour.
 
@@ -40,7 +40,7 @@ Elles attendent que les PJ soient tous sortis, puis attaquent toutes ensemble. E
 
 Si les personnages détruisent et mettent en fuite les gargouilles de la tour grise, il n'y aura plus de rencontre aléatoire avec ces créatures lors de leurs futurs déplacements. Si un tirage donne ce résultat, il n'y a aucune rencontre et les personnages disposent d'un peu de répit !
 
-## Scène Finale
+# Scène Finale
 
 La scène finale du scénario aura très probablement lieu ici. En effet les recherches des personnages indiquent que pour actionner la Chronosphère, il leur faut :
 
