@@ -74,15 +74,15 @@ Deux portes en bois mènent à la cuisine et à la salle à manger, une ouvertur
 
 Rien de particulier, c'est une cuisine avec une cheminée et une table qui sert à Urbius et Clovik. La cuisine possède un puits qui permet de remonter de l'eau en passant à travers la cave jusqu'au puits.  Il est possible de descendre le sceau pour permettre à un personnage de grimper à la corde : cela nécessite un DD Athlétisme 10 ou 5 si on pense à faire des nœuds.
 
-6 - Salle à manger
+## 6 - Salle à manger
 
 Une grande table en bois massif, 10 sièges à haut dossier et des vaisseliers occupent la pièce. Une peinture de la ville de Bastion et un portrait du roi Lucius III décorent les murs (père de Lucius IV). Sur les meubles quelques cristaux sont exposés (quartz, pyrite, etc.) et une énorme Améthyste occupe le coin Est.
 
-## 1er étage
+# 1er étage
 
 Une porte en bois massif peinte en rouge et décorée de ferrures en bronze ferme l'accès à cet étage. Pour ouvrir la porte il faut prononcer le mot de passe 'Libram' avant d'appuyer sur la porte. Dans le cas contraire, elle reste fermée et toute la cage d'escalier est emplie de flammes. Chaque personnage présent dans l'escalier subit 2d6 dégâts de feu.
 
-7 - Chambre blindée
+# 7 - Chambre blindée
 
 Pièce dépourvue de mobilier, sauf une table en pierre en son centre. C'est là qu'Urbius mène les expériences dangereuses ou explosives, afin de en pas détruire son labo.
 
@@ -90,19 +90,19 @@ Sur les mur extérieur, face à la porte, des volets de métal ferment ce qui re
 
 Quelqu'un qui ouvre les volets aura la surprise de ne pas trouver une vue sur le port mais sur un verger avec des arbres fruitiers à perte de vue et un gazon accueillant. Il s'agit d'un monde de poche créé par Urbius à la suite d'une expérience raté qui a failli faire basculer la tour dans les limbes. C'est ici qu'il a relâché le Basilic qu'il avait capturé pour ses recherches sur la pétrification en attendant de trouver une solution plus radicale.
 
-17 - Le Monde de Poche
+# 17 - Le Monde de Poche
 
 Il s'agit d'un verger regorgeant de fruits de toutes sortes à perte de vue et à l'infini. En fait, la poche dimensionnelle mesure seulement environ 1 kilomètre de diamètre, mais on y revient toujours à son point de départ (c'est comme si on marchait à l'intérieur d'une sphère sans s'en rendre compte). Les fruits sont délicieux, l'herbe confortable et on y trouve quelques écureuils et autres petits rongeurs. Mais il y a 2 dangers. 
 
 Premièrement la fenêtre par laquelle on entre dans le monde de poche n'apparaît pas une fois passé de l'autre côté. Elle est totalement invisible de l'intérieur du monde de poche et il n'y a donc pas moyen de la retrouver sauf à avoir pris la précaution de s'attacher à la corde de la pièce 7 pour retrouver son chemin. Le second danger est la présence d'un couple de basilics qui rôdent à présent dans cet éden…
 
-8 - Chambre de Clovik
+# 8 - Chambre de Clovik
 
 La chambre de Clovik contient un lit, un petit bureau et un coffre où il entrepose ses effets personnels, notamment un épais grimoire qui contient sa collection de fleurs séchées. 
 
 Clovik n'a rien gardé de sa vie d'avant. Il n'y a qu'un bout de parchemin à trouver, envoyé par son frère aîné : "Partout et de tout temps, l'homme a été un loup pour l'homme… Quelle mouche t'aurait donc piqué que tu préfères devenir un mouton ?"
 
-9 - Laboratoire
+# 9 - Laboratoire
 
 Le laboratoire est une vaste pièce remplie, les étagères croulent sous les objets en tous genres : bocaux, liquides colorés, alambics et potions diverses, grimoires, parchemines, outils…
 
@@ -112,19 +112,19 @@ Clovik pourra expliquer que son maître travaillait sur la Chronosphère, destin
 
 "Je n'ai pas eu l'occasion d'aider Urbius pendant ses recherches sur la Chronosphère, mais avec votre aide, je suis sûr qu'on peut trouver comment la faire fonctionner pour dépétrifier tous ces gens, on va devoir concentrer nos recherches sur cette pièce et dans la bibliothèque, au 2ème étage." 
 
-## 2ème étage
+# 2ème étage
 
 Une porte de bois massif peinte en bleu et décorée de ferrures en argent ferme l'accès à cet étage. Pour ouvrir la porte il faut prononcer le mot de passe 'Verata' avant d'appuyer sur la porte. Dans le cas contraire, elle reste fermée, toute la cage d'escalier est soudainement zébrée d'éclairs et chaque personnage présent subit 2d6 dégâts d'électricité.
 
-10 - Palier
+# 10 - Palier
 
 Salle de lecture et de repos.
 
-11 - Le Trésor
+# 11 - Le Trésor
 
 C'est la salle du trésor d'Urbius. Ce butin est hors d'atteinte, le seul moyen d'y accéder est de passer par les appartements d'Urbius.
 
-12 - Bibliothèque
+# 12 - Bibliothèque
 
 La bibliothèque, certainement la pièce la plus importante de la tour avec le laboratoire, est coupée en deux parties. Près de l'entrée, l'espace est principalement occupé par deux pupitres de lecture, puis tout le reste est bondé de livres du sol au plafond, formant un labyrinthe d'allées étroites entre les étagères. 
 
@@ -136,7 +136,7 @@ Il semblerait que ce soit à partir de cette dernière affirmation que l'auteur 
 
 On y trouve aussi des légendes sur le trône de la forêt et Noirbois, des allusions à la « sorcière Rebecca, la très puissante et maléfique reine du marais, fille du démon de Noirbois et d'une fée aussi vieille que le marais lui-même ». Et le livre que les PJ tiennent en main est déjà vieux de 200 ans…
 
-## 3ème étage
+# 3ème étage
 
 Cet étage est le seul qui dispose de fenêtres donnant sur l'extérieur. Une porte de bois massif peinte en noir et décorée de ferrures en or ferme l'accès à cet étage. Une grosse serrure dorée occupe le centre de la porte. Celui qui touche cette porte, même à travers un outil doit réussir un DD JS Constitution 20 ou s'évanouir pendant 1d6 rounds, de plus sa vie est aspirée et il subit 2d6 dégâts nécrotiques. 
 
@@ -144,6 +144,6 @@ La serrure ne peut pas être crochetée, il faut la clef magique d'Urbius. Il po
 
 Pour information, les pièces dessinées sur le plan correspondent à 13- bureau, 14- bibliothèque personnelle, 15- chambre d'Urbius. La bibliothèque d'Urbius est presque exclusivement consacrée aux romans à l'eau de rose, la passion secrète et honteuse d'Urbius…
 
-16 - Le Phare
+# 16 - Le Phare
 
 Le sommet de la tour était occupé par le phare et la cage des cockatrices. Lytochronox a détruit tout cela en se posant dessus et les cockatrices en ont profité pour s'enfuir. Il n'y a rien d'intéressant, si ce n'est des débris, des gravats et quelques poutres.
