@@ -10,16 +10,9 @@ hp: 60
 hit_dice: 8d12+8
 speed: 9m, nage 9m
 stats: [19, 14, 12, 1, 10, 3]
-saves:
-  - <ability-score>: number
 skillsaves:
-  - <skill-name>: number
-damage_vulnerabilities: string
-damage_resistances: string
-damage_immunities: string
-condition_immunities: string
-senses: string
-languages: string
+  - Perception: 2
+senses: vision aveugle 3 m, Perception passive 12
 cr: 1
 spells:
   - <description>
