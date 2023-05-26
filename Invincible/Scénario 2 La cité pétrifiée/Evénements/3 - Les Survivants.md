@@ -10,9 +10,9 @@ Mais l'affaire a évidemment dérapé. Lorsque les PJ débouchent sur le port, i
 
 # Action !
 
-"Alors que vous ramez en direction de la tour, vous entendez quelques cris et apercevez deux hommes qui courent désespérément vers les bateaux du port. Un groupe d'écorchés les poursuit, mais semble s'être momentanément laissé distancer pour s'acharner sur un troisième homme, qui, sans doute blessé, vient de trébucher. Les entrailles du malheureux ne tardent pas à jaillir vers le ciel, déchirées par les griffes des morts-vivants !"
+> "Alors que vous ramez en direction de la tour, vous entendez quelques cris et apercevez deux hommes qui courent désespérément vers les bateaux du port. Un groupe d'écorchés les poursuit, mais semble s'être momentanément laissé distancer pour s'acharner sur un troisième homme, qui, sans doute blessé, vient de trébucher. Les entrailles du malheureux ne tardent pas à jaillir vers le ciel, déchirées par les griffes des morts-vivants !"
 
-Si les personnages rament assez vite, ils pourront arriver vers les 2 hommes avant les écorchés. Ceux-ci, comprenant que leur plat de résistance peut leur échapper, vont se ruer dans leur direction. Demandez un test de Force et Constitution difficulté 12 à chaque personnage présent dans la barque, quelqu'un qui ne rame pas est un poids mort et on considère que ses 2 tests sont des échecs automatiques !
+Si les personnages rament assez vite, ils pourront arriver vers les 2 hommes avant les écorchés. Ceux-ci, comprenant que leur plat de résistance peut leur échapper, vont se ruer dans leur direction. Demandez un <font style="color:green">test de Force et Constitution difficulté 12</font> à chaque personnage présent dans la barque, quelqu'un qui ne rame pas est un poids mort et on considère que ses 2 tests sont des échecs automatiques !
 
 - Si les personnages obtiennent plus de succès que d'échecs, ils arrivent assez tôt, Servantès et son compagnon ont le temps de monter à bord et la barque de repartir avant l'attaque des écorchés.
 - Si le nombre de succès est égal au nombre d'échecs, c'est beaucoup plus limite. Servantès parvient à sauter à bord, mais son compagnon est trop court et tombe à l'eau où il commence à se noyer. Un écorché arrive dans la barque grâce à un bond prodigieux et le combat s'engage, risquant de faire chavirer tout le monde.
@@ -32,7 +32,7 @@ Une fois Servantès (et éventuellement Thyrus, le jeune paysan) hors-de-danger,
 
 Il reste une dizaine de réfugiés dans la maison, 1 homme adulte, 1 vieillard, 1 grand ado, 3 femmes, 2 jeunes filles et 2 enfants. Tout ce petit monde est désespéré. La présence des PJ est considérée comme un miracle et on les suivra comme des messies. Ces gens ne sont pas de taille à aider, au contraire, leur nombre ralentit les PJ et l'expédition n'est pas discrète.
 
-Faites faire un test d'Investigation et de Perception DD 13 au guide du groupe pour trouver le chemin le plus sûr. Un peu avant d'arriver au port, l'expédition est repérée et prise en chasse par un groupe de 5 écorchés. Ajoutez un écorché supplémentaire par test raté et le troll mort-vivant s'il n'a pas encore été abattu.
+Faites faire un <font style="color:green">test d'Investigation et de Perception DD 13</font> au guide du groupe pour trouver le chemin le plus sûr. Un peu avant d'arriver au port, l'expédition est repérée et prise en chasse par un groupe de 5 écorchés. Ajoutez un écorché supplémentaire par test raté et le troll mort-vivant s'il n'a pas encore été abattu.
 
 Les joueurs devront être vigilants pour protéger les réfugiés car les écorchés vont essayer d'attaquer les plus faibles, de contourner les PJ et semer la panique pour les disperser.
 
