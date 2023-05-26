@@ -50,7 +50,7 @@ traits:
     desc: Capable d'évaluer la valeur approximative d'un trésor.
 actions:
   - name: [[Tue-Mort]]
-    desc: "Attaque d'arme au corps à corps : +9 pour toucher, allonge 3 m, une cible. Touché : 15 (3d6+5) dégâts contondants."
+    desc: "Attaque d'arme au corps à corps : +6 pour toucher, allonge 3 m, une cible. Touché : 7 (1d8+3) dégâts perforants."
   - ...
 legendary_actions:
   - name: <legendary_actions-name>
