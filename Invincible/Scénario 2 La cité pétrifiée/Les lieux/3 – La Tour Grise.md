@@ -8,7 +8,7 @@ C'est le point central de la ville et le bras du trébuchet fera un endroit parf
 
 La porte d'entrée, massive et bardée de fer, est entrouverte par un milicien pétrifié qui encombre l'embrasure de la porte.
 
-Il faut un round complet par personnage et réussir un DD Dextérité 15 (Désavantage si en armure lourde) pour pénétrer dans la tour. Dès que la moitié des personnages sont entrés, 4 gargouilles attaquent les personnages encore à l'extérieur en piquant depuis le toit. Elles fuient et retournent sur la terrasse si au moins 2 d'entre elles sont détruites.
+Il faut un round complet par personnage et réussir un <font style="color:green">DD Dextérité 15</font> (Désavantage si en armure lourde) pour pénétrer dans la tour. Dès que la moitié des personnages sont entrés, 4 gargouilles attaquent les personnages encore à l'extérieur en piquant depuis le toit. Elles fuient et retournent sur la terrasse si au moins 2 d'entre elles sont détruites.
 
 Le rez-de-chaussée comporte un hall qui servait aussi de salle de gardes, le bureau des juges et une grande salle d'audience et de justice.
 
