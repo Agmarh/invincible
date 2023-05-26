@@ -19,11 +19,10 @@ skillsaves:
   - Intimidation: 6
   - Investigation: 3
 damage_resistances: poison
-senses: vision da
-languages: string
-cr: 1
+senses: vision dans le noir 18m, Perception passive 11
+languages: commun, infernal, gobelin
 spells:
-  - <description>
+  - Lanceur de sort de niveau 6, DDJS 13, bonus d'attaque +6
   - <spell level>: <spell-list>
 traits:
   - name: <trait-name>
