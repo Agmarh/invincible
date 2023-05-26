@@ -17,13 +17,13 @@ Les PJ pourront mener des recherches dans la bibliothèque pour essayer de déte
 
 # Convaincre Clovik
 
-Il va être très difficile de convaincre Clovik de redevenir un loup-garou. Une seule tentative par jour est possible et cela demande de réussir un test de Persuasion DD 20. Le seul argument qui fait vraiment mouche pour le convaincre concerne Urbius. Si on lui rappelle son dévouement pour le vieux magicien et que cela est nécessaire pour le libérer, la difficulté baisse à 15.
+Il va être très difficile de convaincre Clovik de redevenir un loup-garou. Une seule tentative par jour est possible et cela demande de réussir un <font style="color:green">test de Persuasion DD 20</font>. Le seul argument qui fait vraiment mouche pour le convaincre concerne Urbius. Si on lui rappelle son dévouement pour le vieux magicien et que cela est nécessaire pour le libérer, la difficulté baisse à 15.
 
 S'il refuse, il est toujours possible de se saisir de lui et lui imposer de force. Ce n'est pas très moral, mais en fin de compte, Clovik ne leur en voudra pas trop, car une fois sa partie loup-garou réintégrée, son caractère va changer.
 
 # Si le cristal est brisé ?
 
-Rien ne semble se passer, si ce n'est que les morceaux du cristal perdent rapidement leur teinte noire pour redevenir transparents. Au round suivant, l'humanoïde le plus proche sent une présence à la fois terrifiante et bestiale s'emparer de son âme. Il faut réussir un jet de sauvegarde de Sagesse DD 15 pour y résister. En cas de succès, la force sombre s'éloigne vers l'humanoïde suivant le plus proche. Elle voyage de 50 mètres par tour et tente de s'emparer d'une nouvelle personne, dès que possible jusqu'à trouver un hôte.
+Rien ne semble se passer, si ce n'est que les morceaux du cristal perdent rapidement leur teinte noire pour redevenir transparents. Au round suivant, l'humanoïde le plus proche sent une présence à la fois terrifiante et bestiale s'emparer de son âme. Il faut réussir un <font style="color:green">jet de sauvegarde de Sagesse DD 15</font> pour y résister. En cas de succès, la force sombre s'éloigne vers l'humanoïde suivant le plus proche. Elle voyage de 50 mètres par tour et tente de s'emparer d'une nouvelle personne, dès que possible jusqu'à trouver un hôte.
 
 Si Clovik est dans les parages, la forme sombre le choisit en priorité, même s'il n'est pas vraiment le plus proche. La créature affectée se transforme immédiatement en loup-garou et elle va alors traquer Clovik avec un instinct infaillible, jusqu'à ce qu'elle le trouve et qu'elle le tue. Le porteur de l'affliction deviendra alors un loup-garou ordinaire. 
 
@@ -31,15 +31,15 @@ Si le personnage sous la domination de la forme sombre est tué avant d'avoir pu
 
 # Si le cristal est brisé près de Clovik
 
-Clovik se tord de douleur et de terreur. Son visage commence à se transformer en celui d'un garou. Il hurle un « nooooon ! » désespéré. Il résiste 2 rounds puis se transforme en un loup-garou enragé pour 10 rounds pendant lesquels il attaque toutes les créatures à vue. À chaque fois qu'on le blesse, cela alimente sa fureur et augmente la durée de sa rage de combat de 1 round (un test d'Investigation DD 15 réussi permet de le remarquer à chaque nouvelle attaque).
+Clovik se tord de douleur et de terreur. Son visage commence à se transformer en celui d'un garou. Il hurle un « nooooon ! » désespéré. Il résiste 2 rounds puis se transforme en un loup-garou enragé pour 10 rounds pendant lesquels il attaque toutes les créatures à vue. À chaque fois qu'on le blesse, cela alimente sa fureur et augmente la durée de sa rage de combat de 1 round (un <font style="color:green">test d'Investigation DD 15</font> réussi permet de le remarquer à chaque nouvelle attaque).
 
-Lui parler et essayer de se faire reconnaître de lui en tentant simplement de se défendre demande un test de Persuasion DD 15 à chaque tour et réduit cette durée de 1d6 rounds.
+Lui parler et essayer de se faire reconnaître de lui en tentant simplement de se défendre demande un <font style="color:green">test de Persuasion DD 15</font> à chaque tour et réduit cette durée de 1d6 rounds.
 
 Dans tous les cas, Clovik finira par se dominer avec le temps, mais il sera encore sujet à des crises imprévisibles et il continuera toute sa vie à craindre la pleine lune…
 
 # Utiliser l'appareillage sur Clovik
 
-Comprendre et faire fonctionner l'appareil du cachot demande de réussir un test d'Intelligence DD 15. Ce test passe à 10 avec l'aide de Clovik. Si le test est raté, la procédure suivie n'est pas la bonne et cela revient à briser le cristal !
+Comprendre et faire fonctionner l'appareil du cachot demande de réussir un <font style="color:green">test d'Intelligence DD 15</font>. Ce test passe à 10 avec l'aide de Clovik. Si le test est raté, la procédure suivie n'est pas la bonne et cela revient à briser le cristal !
 
 En cas de réussite, Clovik assimile plutôt bien l'expérience, il ne se transforme pas de façon involontaire, même s'il devient différent. La nuit de pleine lune cependant, il ne réussira pas à contenir sa nature et se transformera en bête sanglante et attaquera même ses amis. Les personnages seraient avisés de l'enfermer et peut-être même de l'attacher cette nuit-là.
 
