@@ -24,13 +24,15 @@ languages: commun, infernal, gobelin
 spells:
   - Lanceur de sort de niveau 6, DDJS 13, bonus d'attaque +6
   - Tours de magie: Explosion occulte, Viser juste, Bouffée de poison, Illusion mineure
-  - Niveau 1: Simulacre de vie, Flamb
-  - <spell level>: <spell-list>
-  - <spell level>: <spell-list>
+  - Niveau 1: Simulacre de vie, Flamboiement funeste
+  - Niveau 2: Briser, Pas brumeux, Représailles infernales
+  - Niveau 3 (2 emplacements) : Caresse du Vampire, Contre-sort
 traits:
   - name: <trait-name>
     desc: <trait-description>
-  - ...
+  - name: <trait-name>
+    desc: <trait-description>
+    
 actions:
   - name: <trait-name>
     desc: <trait-description>
