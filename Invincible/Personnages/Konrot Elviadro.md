@@ -44,12 +44,12 @@ traits:
     desc: Si décède, jet de sauvegarde de Charisme DD 10 / 15 ou 20 suivant l'état du corps pour revenir à la vie au bout de 1d6 heures avec 1d6 PV. Vous perdez définitivement 1 point de Constitution.
   - name: Connaître l'âme
     desc: Dépenser votre action bonus afin de tenter de lire l'âme de l'humanoïde, 1 round = humeur générale, 3 rounds = état d'esprit, 5 rounds = peur ou désir caché. Si 5 rounds, DDJS Charisme 8 + Mod CHA. Concentration.
-  - name: <trait-name>
-    desc: <trait-description>
-  - name: <trait-name>
-    desc: <trait-description>
+  - name: Corps et âme
+    desc: Vous connaissez les tours de magie bouffée de poison et illusion mineure. Vous pouvez les lancer chacun un nombre de fois égal à votre bonus de maîtrise entre deux repos longs. Pour pouvoir lancer de nouveau ces sorts, vous devez avoir pris un repos long.
+  - name: Estimation
+    desc: Capable d'évaluer la valeur approximative d'un trésor.
 actions:
-  - name: <trait-name>
+  - name: Tue-Mort (en argent)
     desc: <trait-description>
   - ...
 legendary_actions:
