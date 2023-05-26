@@ -12,7 +12,7 @@ Si les personnages n'ont pas encore été en reconnaissance à la Tour Grise, il
 
 Une fois la tour sécurisée, il faut que les PJ installent une sorte de paratonnerre pour capter la foudre et suspendent la Chronosphère à cet élément par une chaîne en métal conducteur. Ils trouveront une chaîne dans la cave de la tour du phare et une épée (de l'armurerie de la tour grise par exemple) fera un paratonnerre parfait. Le trébuchet facilite la mise en place du dispositif.  
 
-Pour réussir à mettre en place l'ensemble, il faut réussir un test de Dextérité difficulté 10. Faites aussi lancer 1d6 à celui qui met en place le dispositif, sur un résultat de 1 à 3, il subit immédiatement les effets des foudres du temps.
+Pour réussir à mettre en place l'ensemble, il faut réussir un <font style="color:green">test de Dextérité difficulté 10</font>. Faites aussi lancer 1d6 à celui qui met en place le dispositif, sur un résultat de 1 à 3, il subit immédiatement les effets des foudres du temps.
 
 # Comment ça marche ?
 
@@ -28,7 +28,7 @@ Dès le départ, faites sur votre table de jeu un plan du sommet de la tour (15 
 
 Lisez ou paraphrasez les textes suivant, à mesure que le temps passe : "Après quelques secondes, la foudre frappe une première fois le paratonnerre. L'énergie parcourt la chaîne et la sphère sursaute violemment. La petite aiguille bouge légèrement et vient se positionner doucement sur le chiffre 2 tandis que l'ensemble émet un bourdonnement sourd." 
 
-Si un personnage se tient à moins de 3 mètres de la Chronosphère lorsque la foudre la frappe, il devra réussir un jet de sauvegarde de Constitution difficulté 10 ou être étourdi 1 round. Et ceci à chaque fois que la foudre frappera, personne n'est obligé de rester à cet endroit, mais il faut bien protéger la Chronosphère…
+Si un personnage se tient à moins de 3 mètres de la Chronosphère lorsque la foudre la frappe, il devra réussir un jet de sauvegarde de Constitution difficulté 10 ou être [[étourdi]] 1 round. Et ceci à chaque fois que la foudre frappera, personne n'est obligé de rester à cet endroit, mais il faut bien protéger la Chronosphère…
 
 "Au second coup de foudre, la Chronosphère bourdonne de plus belle et semble s'élever légèrement dans les airs. Votre attention est cependant attirée par une étrange lumière bleutée qui éclaire le centre du maelström comme si un passage s'ouvrait soudain vers l'au-delà. L'éclat cligne une ou deux fois comme un œil géant puis projette un puissant cône de lumière qui fouille la cité plongée dans l'ombre. Brusquement, la lumière se pose sur le sommet de la tour où vous vous trouvez et s'y arrête."
 
@@ -40,17 +40,17 @@ Les personnages peuvent prendre des mesures pour bloquer la trappe d'accès au t
 
 "L'orage se calme sur la ville et pendant de longs instants, rien ne se passe. Seul le bruit de nombreuses griffes sur le sol des rues pavées vient troubler le silence, un son qui se rapproche inéluctablement. L'attente devient insupportable lorsqu'enfin la foudre frappe non pas une fois mais cinq fois d'un coup ! Un des éclairs atteint votre installation, mais les 4 autres frappent le sol autour de vous, faisant trembler la tour sur ses fondations. Vous êtes projetés au sol. Lorsque vos yeux récupèrent, vous constatez que des créatures se dressent à l'endroit où chaque impact a eu lieu. Des sortes de spectres tourbillonnants animés par une énergie électrique se jettent vers la Chronosphère. L'aiguille qui indique le niveau d'énergie est à présent passée à 6 et le bandeau chiffré se met à tourner tout doucement."
 
-Positionnez les 4 éclairs sur le toit de la tour : tout personnage à moins de 4 mètres d'un impact doit réussir un jet de sauvegarde de Force DD 12 ou être projeté à terre. Chaque impact donne naissance à un Spectre de Foudre.
+Positionnez les 4 éclairs sur le toit de la tour : tout personnage à moins de 4 mètres d'un impact doit réussir un jet de sauvegarde de Force DD 12 ou être projeté à terre. Chaque impact donne naissance à un [[Spectre de Foudre]].
 
 Round 1 : à partir de ce moment, commencez à compter précisément les rounds de combat. Les événements suivants sont calés sur ce point de départ. Les Spectres tentent d'atteindre la Chronosphère, mais si on leur barre le chemin, ils ripostent, délaissant momentanément l'objet. 
 
 Si rien n'est fait, il faut 6 attaques pour mettre la Chronosphère hors d'état. Si c'était toutefois le cas, passez tout de suite à la mise en route de la Chronosphère. Vous pourrez toujours faire croire que le désastre qui a projetés les PJ dans le temps est lié aux coups de masse que l'artefact a encaissés !
 
-Clovik dans la bataille : Clovik utilise un sort de lévitation pour se mettre hors de portée des créatures puis il lance son sort de trait de feu à chaque tour. Il est parfois frappé par la foudre, mais son anneau de protection lui permet de tenir le coup.
+Clovik dans la bataille : Clovik utilise un sort de [[lévitation]] pour se mettre hors de portée des créatures puis il lance son sort de [[trait de feu]] à chaque tour. Il est parfois frappé par la foudre, mais son anneau de protection lui permet de tenir le coup.
 
 Round 2 - 4 : la bataille suit son cours, les Spectres tentent d'atteindre la Chronosphère. 
 
-Round 5 : un nouvel éclair frappe la Chronosphère amenant le curseur à 8. Le bandeau tourne à présent nettement plus vite et la partie inférieure commence à tourner en sens inverse. Un autre éclair frappe le sol et donne naissance à un nouveau spectre (vous pouvez augmenter ce nombre à 2 si les personnages ont déjà abattu 2 spectres et à 3 s'il n'en reste plus aucun).
+Round 5 : un nouvel [[éclair]] frappe la Chronosphère amenant le curseur à 8. Le bandeau tourne à présent nettement plus vite et la partie inférieure commence à tourner en sens inverse. Un autre éclair frappe le sol et donne naissance à un nouveau spectre (vous pouvez augmenter ce nombre à 2 si les personnages ont déjà abattu 2 spectres et à 3 s'il n'en reste plus aucun).
 
 Round 8 : le premier écorché arrive sous la trappe et accède au toit si rien n'a été fait pour la bloquer auparavant. Tant que rien ne sera fait, un nouvel écorché sortira par là à chaque round (seulement tous les 3 rounds si les personnages ont supprimé Dominia). Les écorchés ignorent la Chronosphère et se jettent sur le personnage le plus proche.
 
