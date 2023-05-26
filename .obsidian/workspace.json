@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Invincible/Scénario 2 La cité pétrifiée/Infos diverses.md",
+                "file": "Invincible/Scénario 2 La cité pétrifiée/Recherches/À propos de la pétrification.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Invincible/Scénario 2 La cité pétrifiée/Infos diverses.md",
+                "file": "Invincible/Scénario 2 La cité pétrifiée/Recherches/À propos de la pétrification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Invincible/Scénario 2 La cité pétrifiée/Infos diverses.md",
+                "file": "Invincible/Scénario 2 La cité pétrifiée/Recherches/À propos de la pétrification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Invincible/Scénario 2 La cité pétrifiée/Infos diverses.md"
+                "file": "Invincible/Scénario 2 La cité pétrifiée/Recherches/À propos de la pétrification.md"
               }
             }
           }
@@ -203,10 +203,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "efc7fbc9dabff410",
+  "active": "130adaa95b887140",
   "lastOpenFiles": [
-    "Invincible/Scénario 2 La cité pétrifiée/Les lieux/5 - Cimetière.md",
+    "Invincible/Scénario 2 La cité pétrifiée/Les lieux/Mausolée de Selmak.md",
+    "Invincible/Scénario 2 La cité pétrifiée/Recherches/À propos de la pétrification.md",
+    "Invincible/Scénario 2 La cité pétrifiée/Recherches",
     "Invincible/Scénario 2 La cité pétrifiée/Infos diverses.md",
+    "Invincible/Scénario 2 La cité pétrifiée/Les lieux/5 - Cimetière.md",
     "Invincible/Scénario 2 La cité pétrifiée/Les lieux/4 – Auberge du Coq Doré.md",
     "Invincible/Scénario 2 La cité pétrifiée/Les lieux/3 – La Tour Grise.md",
     "Invincible/Scénario 2 La cité pétrifiée/Les lieux/2 – Le Beffroi.md",
@@ -230,8 +233,6 @@
     "Oblivion/Scénario 2 Les enfants d'Oblivion/L'Antre du Nécromant.md",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/La Chasse Skïam.md",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Le rêve se répand.md",
-    "Oblivion/Scénario 2 Les enfants d'Oblivion/Lettre pour Razan.md",
-    "Oblivion/ACTUELLEMENT.md",
     "Oblivion/Images/chevalier-dragon.jpg",
     "Oblivion/Images/Guerrière Soong.jpg",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars",
@@ -250,7 +251,6 @@
     "Invincible/Personnages",
     "Invincible/Objets Magiques",
     "Invincible/Bestiaire",
-    "Oblivion/Monstres/Sans titre",
     "Oblivion/PNJ/Sans titre.canvas"
   ]
 }
