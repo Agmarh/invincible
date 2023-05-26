@@ -46,8 +46,6 @@ Si presque tous les réfugiés ont été sauvés, ils embrassent chaleureusement
 
 Une des femmes remet à un des sauveurs particulièrement héroïque un [[médaillon porte-bonheur]]. Icarn, son mari lui avait confié juste avant de partir au port (c'est l'homme que les PJ ont vu mourir au début de la rencontre).
 
-Médaillon Porte-bonheur : il s'agit d'un simple bijou d'argent représentant un trèfle à quatre feuilles. Ce bijou permet au personnage de relancer un d20 de son choix une fois par jour.
-
 # Le Destin de Servantès
 
 Servantès embarque pour Lycanis avec les réfugiés. Mais, en chemin, ils vont croiser le navire de Lycanis qui les accoste. Les réfugiés continuent leur chemin vers la ville du loup, tandis que Servantès propose ses services comme guide. Si votre groupe semble un peu faible ou manque d'expérience, vous pouvez choisir d'en faire un allié qui pourra leur donner un coup de main et leur servir d'espion.
