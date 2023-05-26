@@ -28,9 +28,9 @@ Le tunnel débouche sur le puits (4 mètres de diamètre pour 1 mètre au sommet
 
 Si un joueur rate un test en escaladant, lui indiquer qu'il vient de desceller une ancienne cachette et découvert un petit trésor. Dans un coffret vermoulu se trouve une vielle bourse de cuir contenant 21 PO et une rapière à lame d'argent sculpté (Tue-Mort).
 
-Une fois l'élémentaire vaincu, il faudra 2 DD Athlétisme 20 successifs pour atteindre le haut du puits. 
+Une fois l'élémentaire vaincu, il faudra 2 <font style="color:green">DD Athlétisme 20</font> successifs pour atteindre le haut du puits. 
 
-Une dernier obstacle attend le grimpeur, des runes magiques légèrement lumineuse forment un cercle à l'intérieur du puits, environ 1 mètre avant le sommet. Elles sont sans danger et servent simplement à purifier l'eau qui franchit ce cercle magique. Un magicien pourra le déterminer avec un DD Arcanes 15.
+Une dernier obstacle attend le grimpeur, des runes magiques légèrement lumineuse forment un cercle à l'intérieur du puits, environ 1 mètre avant le sommet. Elles sont sans danger et servent simplement à purifier l'eau qui franchit ce cercle magique. Un magicien pourra le déterminer avec un <font style="color:green">DD Arcanes 15</font>.
 
 ## 2 - La Cave
 
@@ -38,7 +38,7 @@ La cave possède en son centre une porte qui ouvre sur l'escalier et un puits. L
 
 La cave est bondée d'étagères couvertes d'ustensiles et de vieilleries, bricolage, cuisine…
 
-Il n'y a rien de valeur mais les PJs pourront trouver pleins de choses pour bricoler. Une trappe est cachée dans le sol sous la poussière DD Perception 15 pour la trouver et DD Investigation 15 pour trouver le levier qui fait apparaître les marches permettant de descendre dans le cachot. Mais à chaque fois qu'une personnage farfouille la cave à la recherche d'un objet, lancer 1d12, sur un résultat de 1, il actionne le mécanisme involontairement…
+Il n'y a rien de valeur mais les PJs pourront trouver pleins de choses pour bricoler. Une trappe est cachée dans le sol sous la poussière <font style="color:green">DD Perception 15</font> pour la trouver et <font style="color:green">DD Investigation 15</font> pour trouver le levier qui fait apparaître les marches permettant de descendre dans le cachot. Mais à chaque fois qu'une personnage farfouille la cave à la recherche d'un objet, lancer 1d12, sur un résultat de 1, il actionne le mécanisme involontairement…
 
 Clovik connaît bien ce passage mais n'en soufflera mot tant qu'il n'y est pas contraint.
 
@@ -48,7 +48,7 @@ Pièce rectangulaire sans ouverture qui contient peu de chose. Des chaînes d'ac
 
 Dans un coffret en bois dans un coin on peut découvrir 3 gros cristaux transparents soigneusement emballés dans du velin.
 
-DD Perspicacité 20 pour percevoir des traces de peur et de violence à cet endroit…
+<font style="color:green">DD Perspicacité 20</font> pour percevoir des traces de peur et de violence à cet endroit…
 
 # L'escalier
 
@@ -72,7 +72,7 @@ Deux portes en bois mènent à la cuisine et à la salle à manger, une ouvertur
 
 ## 5 - Cuisine
 
-Rien de particulier, c'est une cuisine avec une cheminée et une table qui sert à Urbius et Clovik. La cuisine possède un puits qui permet de remonter de l'eau en passant à travers la cave jusqu'au puits.  Il est possible de descendre le sceau pour permettre à un personnage de grimper à la corde : cela nécessite un DD Athlétisme 10 ou 5 si on pense à faire des nœuds.
+Rien de particulier, c'est une cuisine avec une cheminée et une table qui sert à Urbius et Clovik. La cuisine possède un puits qui permet de remonter de l'eau en passant à travers la cave jusqu'au puits.  Il est possible de descendre le sceau pour permettre à un personnage de grimper à la corde : cela nécessite un <font style="color:green">DD Athlétisme 10 ou 5</font> si on pense à faire des nœuds.
 
 ## 6 - Salle à manger
 
