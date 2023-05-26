@@ -41,25 +41,32 @@ Les personnages peuvent prendre des mesures pour bloquer la trappe d'accès au t
 
 > "L'orage se calme sur la ville et pendant de longs instants, rien ne se passe. Seul le bruit de nombreuses griffes sur le sol des rues pavées vient troubler le silence, un son qui se rapproche inéluctablement. L'attente devient insupportable lorsqu'enfin la foudre frappe non pas une fois mais cinq fois d'un coup ! Un des éclairs atteint votre installation, mais les 4 autres frappent le sol autour de vous, faisant trembler la tour sur ses fondations. Vous êtes projetés au sol. Lorsque vos yeux récupèrent, vous constatez que des créatures se dressent à l'endroit où chaque impact a eu lieu. Des sortes de spectres tourbillonnants animés par une énergie électrique se jettent vers la Chronosphère. L'aiguille qui indique le niveau d'énergie est à présent passée à 6 et le bandeau chiffré se met à tourner tout doucement."
 
-Positionnez les 4 éclairs sur le toit de la tour : tout personnage à moins de 4 mètres d'un impact doit réussir un <font style="color:green">jet de sauvegarde de Force DD 12</ ou être projeté à terre. Chaque impact donne naissance à un [[Spectre de Foudre]].
+Positionnez les 4 éclairs sur le toit de la tour : tout personnage à moins de 4 mètres d'un impact doit réussir un <font style="color:green">jet de sauvegarde de Force DD 12</font> ou être projeté à terre. Chaque impact donne naissance à un [[Spectre de Foudre]].
 
-Round 1 : à partir de ce moment, commencez à compter précisément les rounds de combat. Les événements suivants sont calés sur ce point de départ. Les Spectres tentent d'atteindre la Chronosphère, mais si on leur barre le chemin, ils ripostent, délaissant momentanément l'objet. 
+# Round 1 
+A partir de ce moment, commencez à compter précisément les rounds de combat. Les événements suivants sont calés sur ce point de départ. Les Spectres tentent d'atteindre la Chronosphère, mais si on leur barre le chemin, ils ripostent, délaissant momentanément l'objet. 
 
 Si rien n'est fait, il faut 6 attaques pour mettre la Chronosphère hors d'état. Si c'était toutefois le cas, passez tout de suite à la mise en route de la Chronosphère. Vous pourrez toujours faire croire que le désastre qui a projetés les PJ dans le temps est lié aux coups de masse que l'artefact a encaissés !
 
 Clovik dans la bataille : Clovik utilise un sort de [[lévitation]] pour se mettre hors de portée des créatures puis il lance son sort de [[trait de feu]] à chaque tour. Il est parfois frappé par la foudre, mais son anneau de protection lui permet de tenir le coup.
 
-Round 2 - 4 : la bataille suit son cours, les Spectres tentent d'atteindre la Chronosphère. 
+# Round 2 - 4 
+La bataille suit son cours, les Spectres tentent d'atteindre la Chronosphère. 
 
-Round 5 : un nouvel éclair frappe la Chronosphère amenant le curseur à 8. Le bandeau tourne à présent nettement plus vite et la partie inférieure commence à tourner en sens inverse. Un autre éclair frappe le sol et donne naissance à un nouveau spectre (vous pouvez augmenter ce nombre à 2 si les personnages ont déjà abattu 2 spectres et à 3 s'il n'en reste plus aucun).
+# Round 5 
+Un nouvel éclair frappe la Chronosphère amenant le curseur à 8. Le bandeau tourne à présent nettement plus vite et la partie inférieure commence à tourner en sens inverse. Un autre éclair frappe le sol et donne naissance à un nouveau spectre (vous pouvez augmenter ce nombre à 2 si les personnages ont déjà abattu 2 spectres et à 3 s'il n'en reste plus aucun).
 
-Round 8 : le premier écorché arrive sous la trappe et accède au toit si rien n'a été fait pour la bloquer auparavant. Tant que rien ne sera fait, un nouvel écorché sortira par là à chaque round (seulement tous les 3 rounds si les personnages ont supprimé Dominia). Les écorchés ignorent la Chronosphère et se jettent sur le personnage le plus proche.
+# Round 8 
+Le premier écorché arrive sous la trappe et accède au toit si rien n'a été fait pour la bloquer auparavant. Tant que rien ne sera fait, un nouvel écorché sortira par là à chaque round (seulement tous les 3 rounds si les personnages ont supprimé Dominia). Les écorchés ignorent la Chronosphère et se jettent sur le personnage le plus proche.
 
-Round 10 : un écorché enjambe le crénelage de la tour et attaque le PJ le plus proche, il a escaladé par l'extérieur ! Un nouvel écorché arrive par là à chaque round (tous les 2 rounds si Dominia est morte), mais quelqu'un qui surveille leur progression peut les faire tomber en leur infligeant des dégâts avant qu'ils n'arrivent au sommet.
+# Round 10 
+Un écorché enjambe le crénelage de la tour et attaque le PJ le plus proche, il a escaladé par l'extérieur ! Un nouvel écorché arrive par là à chaque round (tous les 2 rounds si Dominia est morte), mais quelqu'un qui surveille leur progression peut les faire tomber en leur infligeant des dégâts avant qu'ils n'arrivent au sommet.
 
-Round 11 : trois éclairs frappent la tour. Deux nouveaux spectres apparaissent et visent la Chronosphère. Le dernier éclair frappe le paratonnerre, il est impossible de dire où en est le curseur car l'ensemble tourne à présent beaucoup trop vite ! 
+# Round 11 
+Trois éclairs frappent la tour. Deux nouveaux spectres apparaissent et visent la Chronosphère. Le dernier éclair frappe le paratonnerre, il est impossible de dire où en est le curseur car l'ensemble tourne à présent beaucoup trop vite ! 
 
-Round 14 : Dénouement ! Lisez ou paraphrasez le paragraphe suivant : "Quelque chose se prépare dans le tourbillon de nuages noirs qui domine la tour. L'oeil du cyclone juste au-dessus de vos têtes s'anime, quelque chose de puissant, quelque chose d'énorme se forme. Dans le cœur du maelström, une tempête de foudres se déchaîne, des éclairs zèbrent le ciel en tous sens. La silhouette d'un immense dragon de pure énergie se dessine progressivement. Dans le hurlement démentiel du vent et le fracas du tonnerre, il s'abat soudain sur le sommet de la tour, telle la mère de toutes les tempêtes !"
+# Round 14 
+Dénouement ! Lisez ou paraphrasez le paragraphe suivant : "Quelque chose se prépare dans le tourbillon de nuages noirs qui domine la tour. L'oeil du cyclone juste au-dessus de vos têtes s'anime, quelque chose de puissant, quelque chose d'énorme se forme. Dans le cœur du maelström, une tempête de foudres se déchaîne, des éclairs zèbrent le ciel en tous sens. La silhouette d'un immense dragon de pure énergie se dessine progressivement. Dans le hurlement démentiel du vent et le fracas du tonnerre, il s'abat soudain sur le sommet de la tour, telle la mère de toutes les tempêtes !"
 
 La projection de Lytochronox fonce sur les personnages et la Chronosphère pour les détruire. Les PJ ont un tour pour réagir, ensuite il s'abat telle une tempête de vent et de foudre destructrice. Chaque personnage doit réussir un jet de sauvegarde de Dextérité DD 15 ou être frappé par la foudre et subir 3d6 dégâts. De plus, la violence des vents oblige à faire un jet de sauvegarde de Force. Ceux qui atteignent une difficulté de 18 réussissent à s'accrocher à quelque chose et ne subissent pas de dégâts. Ceux qui atteignent une difficulté de 13 sont projetés vers l'extérieur de la tour où ils percutent les remparts pour 1d6 dégâts contondants.
 
