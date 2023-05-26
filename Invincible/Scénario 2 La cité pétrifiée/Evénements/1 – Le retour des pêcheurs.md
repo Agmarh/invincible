@@ -11,8 +11,9 @@ S'ils ont réagi particulièrement vite, octroyez-leur un bonus de +2 et inflige
 | Dé | Résultat |  
 | -------- | -------- |
 | -3 points ou moins | Lorsque les personnages arrivent, tous les pêcheurs sont morts et les écorchés les dévorent. Si les joueurs laissent le bateau dériver, il viendra s'échouer au pied du phare et les écorchés occuperont l'île jusqu'à ce qu'on les supprime. | 
-| 21 - 30 | Vous devez payer le coût d'entretien complet de l'entreprise pour chacun des jours |
-| 31 - 40 | Vous devez payer la moitié des coûts d'entretien de l'entreprise pour chacun des jours. Les bénéfices couvrent l'autre moitié |
+| -1 ou –2 points | Vous devez payer le coût d'entretien complet de l'entreprise pour chacun des jours |
+| 0 point | Vous devez payer la moitié des coûts d'entretien de l'entreprise pour chacun des jours. Les bénéfices couvrent l'autre moitié |
+| 0 point | Vous devez payer la moitié des coûts d'entretien de l'entreprise pour chacun des jours. Les bénéfices couvrent l'autre moitié |
 
 
 
