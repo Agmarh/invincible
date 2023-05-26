@@ -23,21 +23,19 @@ Rebecca les gratifie d'un sourire et commente leur arrivée d'un ton qui dépend
 - J+6 :
 > « Vous êtes en retard, trop tard même, si je n'étais pas intervenue… »
 
-Rebecca attend ensuite que les PJ lui expliquent ce qu'ils veulent. Puis avec un petit sourire entendu, elle leur déclare :  « Bien, je vous laisse récupérer une larme de mon fils, mais cela me brise le cœur. Comme vous le savez, un service contre un service. Vous deviez vous y attendre, n'est-ce-pas ? »
+Rebecca attend ensuite que les PJ lui expliquent ce qu'ils veulent. Puis avec un petit sourire entendu, elle leur déclare :  
+> « Bien, je vous laisse récupérer une larme de mon fils, mais cela me brise le cœur. Comme vous le savez, un service contre un service. Vous deviez vous y attendre, n'est-ce-pas ? »
 
 Dès que les PJ donnent leur accord, elle reprend :
-
-« Vous devrez obtenir un peu du sang de Pelomonius, le conserver précieusement et me le ramener. »
+> « Vous devrez obtenir un peu du sang de Pelomonius, le conserver précieusement et me le ramener. »
 
 Elle sort une fiole de bois et vous la tend.
-
-« Ne vous inquiétez pas, vous trouverez Pelomonius en temps voulu. »
+> « Ne vous inquiétez pas, vous trouverez Pelomonius en temps voulu. »
 
 Puis elle vous confie le nouveau-né qui vous tend les bras en souriant.
+> « J'ai quelques dernières choses à régler pour un petit présent que je vous prépare en remerciement de… Enfin, pour l'aide que vous m'avez apportée lorsque j'étais vidée de mon sang. En attendant, je vous confie mon fils Noeth ? Faites connaissance et prenez ce qu'il vous faut puisqu'il le faut. Ne lui faites pas mal. Ah ! Je préfère ne pas voir ça… »
 
-« J'ai quelques dernières choses à régler pour un petit présent que je vous prépare en remerciement de… Enfin, pour l'aide que vous m'avez apportée lorsque j'étais vidée de mon sang. En attendant, je vous confie mon fils Noeth ? Faites connaissance et prenez ce qu'il vous faut puisqu'il le faut. Ne lui faites pas mal. Ah ! Je préfère ne pas voir ça… »
-
-En un clin d'oeil, la jeune femme se transforme en corbeau et s'envole au loin.
+En un clin d'œil, la jeune femme se transforme en corbeau et s'envole au loin.
 
 # Faire pleurer Noeth
 
@@ -60,8 +58,10 @@ Lorsque vous estimez que le petit jeu a assez duré, la cigogne ou un autre anim
 
 Il va encore falloir attendre un peu pour que la faim le tenaille. À vous de gérer le temps qui passe. Quoiqu'il en soit, Noeth finira par fatiguer, avoir faim et vouloir sa maman. Il commence par bouder, puis grogner, enfin il se met franchement à pleurer. Les PJ peuvent récupérer le précieux liquide en petite quantité. Sa mère débarque alors aussitôt, récupère son trésor et lui donne le sein sans plus de cérémonie.
 
-« Mille mercis d'avoir veillé sur bébé, j'ai enfin pu finir ce que j'avais à faire, c'est que ce petit monstre demande beaucoup d'énergie, n'est-ce pas ? » lance-t-elle avec un sourire espiègle… Elle désigne du menton un sac de cuir, qu'elle a posé près de vous en arrivant.
+> « Mille mercis d'avoir veillé sur bébé, j'ai enfin pu finir ce que j'avais à faire, c'est que ce petit monstre demande beaucoup d'énergie, n'est-ce pas ? » lance-t-elle avec un sourire espiègle… 
 
-« C'est pour vous, j'appelle cela de la Sève Vitale, cela guérira vos blessures et soigne même les empoisonnements. Accessoirement, c'est assez consistant et ça vous nourrira. Vu votre mode de vie, vous en aurez sûrement besoin ! »
+Elle désigne du menton un sac de cuir, qu'elle a posé près de vous en arrivant.
+
+> « C'est pour vous, j'appelle cela de la Sève Vitale, cela guérira vos blessures et soigne même les empoisonnements. Accessoirement, c'est assez consistant et ça vous nourrira. Vu votre mode de vie, vous en aurez sûrement besoin ! »
 
 Après cela, Rebecca leur souhaite bonne route et retourne dans sa maison. Le petit ange a besoin de dormir. Le sac contient 2 Potions de sève vitale par personnage.
