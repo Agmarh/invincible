@@ -26,13 +26,28 @@ spells:
   - Tours de magie: Explosion occulte, Viser juste, Bouffée de poison, Illusion mineure
   - Niveau 1: Simulacre de vie, Flamboiement funeste
   - Niveau 2: Briser, Pas brumeux, Représailles infernales
-  - Niveau 3 (2 emplacements) : Caresse du Vampire, Contre-sort
+  - Niveau 3 (2 emplacements) : Caresse du Vampire, Contresort
 traits:
+  - name: Relique
+    desc: Possède le bracelet d'un seigneur de guerre, vous obtenez la maîtrise des armes de guerre et des armures intermédiaires.
   - name: <trait-name>
     desc: <trait-description>
   - name: <trait-name>
     desc: <trait-description>
-    
+  - name: <trait-name>
+    desc: <trait-description>
+  - name: <trait-name>
+    desc: <trait-description>
+  - name: <trait-name>
+    desc: <trait-description>
+  - name: <trait-name>
+    desc: <trait-description>
+  - name: <trait-name>
+    desc: <trait-description>
+  - name: <trait-name>
+    desc: <trait-description>
+  - name: <trait-name>
+    desc: <trait-description>
 actions:
   - name: <trait-name>
     desc: <trait-description>
