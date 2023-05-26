@@ -30,13 +30,13 @@ spells:
 traits:
   - name: Relique
     desc: Possède le bracelet d'un seigneur de guerre, vous obtenez la maîtrise des armes de guerre et des armures intermédiaires.
-  - name: <trait-name>
-    desc: <trait-description>
-  - name: <trait-name>
-    desc: <trait-description>
-  - name: <trait-name>
-    desc: <trait-description>
-  - name: <trait-name>
+  - name: Explosion insoutenable
+    desc: Quand vous lancez explosion occulte, ajoutez votre modificateur de Charisme aux dégâts.
+  - name: Vigueur fiélonne
+    desc: Permet de lancer simulacre de vie à volonté sur vous-même sans utiliser d'emplacement de sort.
+  - name: Lame assoiffée
+    desc: À chaque fois que vous utilisez l'action attaquer à votre tour, vous pouvez attaquer deux fois au lieu d'une avec votre arme de pacte.
+  - name: Pacte de la Lame
     desc: <trait-description>
   - name: <trait-name>
     desc: <trait-description>
