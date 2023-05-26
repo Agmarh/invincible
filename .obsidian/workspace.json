@@ -10,7 +10,6 @@
           {
             "id": "579b07f349848014",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,25 +17,10 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "130adaa95b887140",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Invincible/Scénario 2 La cité pétrifiée/Sans titre.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Invincible/Scénario 2 La cité pétrifiée/Sans titre.md",
+                "file": "Invincible/Scénario 2 La cité pétrifiée/Evénements/1 – Le retour des pêcheurs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Invincible/Scénario 2 La cité pétrifiée/Sans titre.md",
+                "file": "Invincible/Scénario 2 La cité pétrifiée/Evénements/1 – Le retour des pêcheurs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Invincible/Scénario 2 La cité pétrifiée/Sans titre.md"
+                "file": "Invincible/Scénario 2 La cité pétrifiée/Evénements/1 – Le retour des pêcheurs.md"
               }
             }
           }
@@ -203,10 +187,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "130adaa95b887140",
+  "active": "579b07f349848014",
   "lastOpenFiles": [
+    "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/2 - Sur la route de la Cité Sainte.md",
+    "Oblivion/Groupe/Planque.md",
+    "Invincible/Scénario 2 La cité pétrifiée/Evénements/1 – Le retour des pêcheurs.md",
+    "Invincible/Personnages/Clovik Scénario 1.md",
+    "Invincible/Scénario 2 La cité pétrifiée/ACTUELLEMENT.md",
     "Invincible/Scénario 2 La cité pétrifiée/Recherches/Bibliothèque.md",
-    "Invincible/Scénario 2 La cité pétrifiée/Sans titre.md",
     "Invincible/Scénario 2 La cité pétrifiée/Recherches/Chronosphère.md",
     "Invincible/Scénario 2 La cité pétrifiée/Recherches/Onguent contre la pétrification.md",
     "Invincible/Scénario 2 La cité pétrifiée/Recherches/À propos de la pétrification.md",
@@ -226,13 +214,9 @@
     "Invincible/Scénario 2 La cité pétrifiée/Evénements/4 – Mission de Lycanis.md",
     "Invincible/Scénario 2 La cité pétrifiée/Evénements/3 - Les Survivants.md",
     "Invincible/Scénario 2 La cité pétrifiée/Evénements/2 - Les larmes de nouveau-né.md",
-    "Invincible/Scénario 2 La cité pétrifiée/Evénements/1 – Le retour des pêcheurs.md",
     "Oblivion/Groupe/Gestion Compagnie.md",
-    "Oblivion/Groupe/Planque.md",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Introduction.md",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Gangrêve.md",
-    "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/2 - Sur la route de la Cité Sainte.md",
-    "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/1 - Enquête morbide et mortelles tracasseries.md",
     "Oblivion/Images/chevalier-dragon.jpg",
     "Oblivion/Images/Guerrière Soong.jpg",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars",
