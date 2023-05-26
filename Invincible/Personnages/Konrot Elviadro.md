@@ -49,9 +49,8 @@ traits:
   - name: Estimation
     desc: Capable d'évaluer la valeur approximative d'un trésor.
 actions:
-  - name: Tue-Mort (en argent)
-    desc: "Attaque d'arme au corps à corps : +9 pour toucher, allonge 3 m, une cible.  
-_Touché_ : 15 (3d6+5) dégâts contondants."
+  - name: [[Tue-Mort]]
+    desc: "Attaque d'arme au corps à corps : +9 pour toucher, allonge 3 m, une cible. Touché : 15 (3d6+5) dégâts contondants."
   - ...
 legendary_actions:
   - name: <legendary_actions-name>
