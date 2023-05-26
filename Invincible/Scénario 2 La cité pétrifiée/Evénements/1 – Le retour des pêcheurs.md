@@ -19,6 +19,7 @@ Lorsque les personnages débarquent sur le navire, il reste 15 points de vie à 
 
 Le capitaine Martok, un homme d'une cinquantaine d'années, est effondré en apprenant le destin de sa cité. Lui et ses hommes sont désespérés d'apprendre que leur famille est pétrifiée. Ils vont presser les PJ de questions pour savoir comment cela est arrivé puis pour savoir s'il est possible de guérir les victimes. 
 
-Clovik se montrera à cette occasion sous un nouveau jour. Il embrasse avec une assurance que les PJ ne lui connaissaient pas jusqu'alors le rôle du nouveau magicien de la Tour du Phare. Il saura rassurer et convaincre ces hommes que les PJ et lui feront tout ce qui est nécessaire pour lever la malédiction. <font style="color:blue">« Et nous réussirons, faites-nous confiance ! »</font>.
+Clovik se montrera à cette occasion sous un nouveau jour. Il embrasse avec une assurance que les PJ ne lui connaissaient pas jusqu'alors le rôle du nouveau magicien de la Tour du Phare. Il saura rassurer et convaincre ces hommes que les PJ et lui feront tout ce qui est nécessaire pour lever la malédiction. 
+> « Et nous réussirons, faites-nous confiance ! »
 
 Les pêcheurs survivants finiront par reprendre la voie des eaux pour aller à Lycanis.

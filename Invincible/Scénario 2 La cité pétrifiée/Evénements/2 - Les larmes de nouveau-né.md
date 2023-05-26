@@ -14,10 +14,14 @@ Quelle que soit la direction choisie, les personnages vont rapidement tomber sur
 
 Rebecca les gratifie d'un sourire et commente leur arrivée d'un ton qui dépend de la date :
 
-- J+3 : « Déjà de retour, bravo vous avez fait vite ! »
-- J+4 : « Belle ponctualité, j'attendais votre retour ! »
-- J+5 : « Il est temps, j'ai failli attendre ! »
-- J+6 : « Vous êtes en retard, trop tard même, si je n'étais pas intervenue… »
+- J+3 : 
+> « Déjà de retour, bravo vous avez fait vite ! »
+- J+4 : 
+> « Belle ponctualité, j'attendais votre retour ! »
+- J+5 : 
+> « Il est temps, j'ai failli attendre ! »
+- J+6 :
+> « Vous êtes en retard, trop tard même, si je n'étais pas intervenue… »
 
 Rebecca attend ensuite que les PJ lui expliquent ce qu'ils veulent. Puis avec un petit sourire entendu, elle leur déclare :  « Bien, je vous laisse récupérer une larme de mon fils, mais cela me brise le cœur. Comme vous le savez, un service contre un service. Vous deviez vous y attendre, n'est-ce-pas ? »
 
