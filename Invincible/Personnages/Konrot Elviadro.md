@@ -37,13 +37,13 @@ traits:
   - name: Lame assoiffée
     desc: À chaque fois que vous utilisez l'action attaquer à votre tour, vous pouvez attaquer deux fois au lieu d'une avec votre arme de pacte.
   - name: Pacte de la Lame
-    desc: <trait-description>
-  - name: <trait-name>
-    desc: <trait-description>
-  - name: <trait-name>
-    desc: <trait-description>
-  - name: <trait-name>
-    desc: <trait-description>
+    desc: Créer une arme magique avec maitrise - (seigneur immortel).
+  - name: Don Mage Combattant
+    desc: Peut exécuter une composante somatique avec la main qui tient une arme. Peut lancer un tour de magie en action bonus si attaque pendant le tour. 
+  - name: Pacte avec la mort
+    desc: Si décède, jet de sauvegarde de Charisme DD 10 / 15 ou 20 suivant l'état du corps pour revenir à la vie au bout de 1d6 heures avec 1d6 PV. Vous perdez définitivement 1 point de Constitution.
+  - name: Connaître l'âme
+    desc: Dépenser votre action bonus afin de tenter de lire l'âme de l'humanoïde, 1 round = humeur générale, 3 rounds = état d'esprit, 5 rounds = peur ou désir caché. Si 5 rounds, DDJS Charisme 8 + Mod CHA. Concentration.
   - name: <trait-name>
     desc: <trait-description>
   - name: <trait-name>
