@@ -110,7 +110,7 @@ Au centre de la pièce une vaste table est occupée par des plans et un objets c
 
 Clovik pourra expliquer que son maître travaillait sur la Chronosphère, destinée à contrer les effets du souffle pétrifiant du dragon. Il n'a pas participé à ces recherches, étant occupé par ses études de magie, mais il sait que l'appareil est presque au point.
 
-"Je n'ai pas eu l'occasion d'aider Urbius pendant ses recherches sur la Chronosphère, mais avec votre aide, je suis sûr qu'on peut trouver comment la faire fonctionner pour dépétrifier tous ces gens, on va devoir concentrer nos recherches sur cette pièce et dans la bibliothèque, au 2ème étage." 
+> "Je n'ai pas eu l'occasion d'aider Urbius pendant ses recherches sur la Chronosphère, mais avec votre aide, je suis sûr qu'on peut trouver comment la faire fonctionner pour dépétrifier tous ces gens, on va devoir concentrer nos recherches sur cette pièce et dans la bibliothèque, au 2ème étage." 
 
 # 2ème étage
 
@@ -130,7 +130,7 @@ La bibliothèque, certainement la pièce la plus importante de la tour avec le l
 
 Sur un des pupitres repose un épais grimoire consacré au Marais du Dragon. Il expose contes et légendes et, en particulier, un récit traite des héros qui ont défait le dragon. Leurs statues sont désormais les gardiennes de la mémoire de cet exploit, érigées à l'endroit précis où, parait-il, se situait l'antre du dragon ! Un récit du combat retranscrit d'après la tradition orale semble très exagéré.
 
-"Estaient si vaillants héros qui occirent le grand ver éclipsant, qu'ils poursuivirent dans les cieux et sous terre, en des mondes différents, en d'autres temps !"
+> "Estaient si vaillants héros qui occirent le grand ver éclipsant, qu'ils poursuivirent dans les cieux et sous terre, en des mondes différents, en d'autres temps !"
 
 Il semblerait que ce soit à partir de cette dernière affirmation que l'auteur bâtit une théorie qui annonce le retour des héros en d'autres temps, c'est-à-dire dans le futur…
 
@@ -138,7 +138,7 @@ On y trouve aussi des légendes sur le trône de la forêt et Noirbois, des allu
 
 # 3ème étage
 
-Cet étage est le seul qui dispose de fenêtres donnant sur l'extérieur. Une porte de bois massif peinte en noir et décorée de ferrures en or ferme l'accès à cet étage. Une grosse serrure dorée occupe le centre de la porte. Celui qui touche cette porte, même à travers un outil doit réussir un DD JS Constitution 20 ou s'évanouir pendant 1d6 rounds, de plus sa vie est aspirée et il subit 2d6 dégâts nécrotiques. 
+Cet étage est le seul qui dispose de fenêtres donnant sur l'extérieur. Une porte de bois massif peinte en noir et décorée de ferrures en or ferme l'accès à cet étage. Une grosse serrure dorée occupe le centre de la porte. Celui qui touche cette porte, même à travers un outil doit réussir un <font style="color:green">DD JS Constitution 20</font> ou s'évanouir pendant 1d6 rounds, de plus sa vie est aspirée et il subit 2d6 dégâts nécrotiques. 
 
 La serrure ne peut pas être crochetée, il faut la clef magique d'Urbius. Il porte toujours celle-ci sur lui, sauf la nuit, et elle est pour le moment sur son bureau. Urbius est quant à lui, pétrifié près de son lit alors qu'il se dirigeait vers le bureau. Dans ces conditions entrer à cet étage sera mission impossible pour les personnages. Une protection magique bloque toute tentative de passage en forme éthérée ou gazeuse ainsi que les sorts de téléportation. Abattre un mur à coups de pioche représenterait un gros effort, récompensé uniquement par la découverte d'une sorte de mur de force empêchant tout accès. De plus, essayer de détruire le mur de l'escalier déclenche simultanément les pièges de Feu et de Foudre…
 
