@@ -11,29 +11,9 @@ S'ils ont réagi particulièrement vite, octroyez-leur un bonus de +2 et inflige
 | Dé | Résultat |  
 | -------- | -------- |
 | -3 points ou moins | Lorsque les personnages arrivent, tous les pêcheurs sont morts et les écorchés les dévorent. Si les joueurs laissent le bateau dériver, il viendra s'échouer au pied du phare et les écorchés occuperont l'île jusqu'à ce qu'on les supprime. | 
-| -1 ou –2 points | Vous devez payer le coût d'entretien complet de l'entreprise pour chacun des jours |
-| 0 point | Vous devez payer la moitié des coûts d'entretien de l'entreprise pour chacun des jours. Les bénéfices couvrent l'autre moitié |
-| 0 point | Vous devez payer la moitié des coûts d'entretien de l'entreprise pour chacun des jours. Les bénéfices couvrent l'autre moitié |
-
-
-
--3 points ou moins
-
-Lorsque les personnages arrivent, tous les pêcheurs sont morts et les écorchés les dévorent. Si les joueurs laissent le bateau dériver, il viendra s'échouer au pied du phare et les écorchés occuperont l'île jusqu'à ce qu'on les supprime.
-
--1 ou –2 points
-
-Tous les membres de l'équipage sont au tapis mais, ils ne sont pas encore tous morts, les écorchés n'ont pas eu le temps de les dévorer. 1d4 pêcheurs pourront être soignés dont le capitaine.
-
-0 point
-
-Il ne reste que le capitaine Martok qui se défend comme un beau diable. 1d4 autres pêcheurs pourront être soignés par la suite.
-
-+1 à +4 points
-
-Il reste 1 membre d'équipage supplémentaire en état de combattre par point (pour un
-
-maximum de 4)
+| -1 ou –2 points | Tous les membres de l'équipage sont au tapis mais, ils ne sont pas encore tous morts, les écorchés n'ont pas eu le temps de les dévorer. 1d4 pêcheurs pourront être soignés dont le capitaine. |
+| 0 point | Il ne reste que le capitaine Martok qui se défend comme un beau diable. 1d4 autres pêcheurs pourront être soignés par la suite. |
+| +1 à +4 points | Il reste 1 membre d'équipage supplémentaire en état de combattre par point (pour un maximum de 4) |
 
 Lorsque les personnages débarquent sur le navire, il reste 15 points de vie à chacun des 3 écorchés.
 

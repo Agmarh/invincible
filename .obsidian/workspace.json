@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "130adaa95b887140",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Invincible/Scénario 2 La cité pétrifiée/Evénements/2 - Les larmes de nouveau-né.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Invincible/Scénario 2 La cité pétrifiée/Evénements/1 – Le retour des pêcheurs.md",
+                "file": "Invincible/Scénario 2 La cité pétrifiée/Evénements/2 - Les larmes de nouveau-né.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -124,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Invincible/Scénario 2 La cité pétrifiée/Evénements/1 – Le retour des pêcheurs.md",
+                "file": "Invincible/Scénario 2 La cité pétrifiée/Evénements/2 - Les larmes de nouveau-né.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Invincible/Scénario 2 La cité pétrifiée/Evénements/1 – Le retour des pêcheurs.md"
+                "file": "Invincible/Scénario 2 La cité pétrifiée/Evénements/2 - Les larmes de nouveau-né.md"
               }
             }
           }
@@ -189,11 +203,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "579b07f349848014",
+  "active": "130adaa95b887140",
   "lastOpenFiles": [
+    "Invincible/Scénario 2 La cité pétrifiée/Evénements/1 – Le retour des pêcheurs.md",
+    "Invincible/Scénario 2 La cité pétrifiée/Evénements/2 - Les larmes de nouveau-né.md",
     "Oblivion/Groupe/Gestion Compagnie.md",
     "Oblivion/Groupe/Planque.md",
-    "Invincible/Scénario 2 La cité pétrifiée/Evénements/1 – Le retour des pêcheurs.md",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Introduction.md",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Gangrêve.md",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/2 - Sur la route de la Cité Sainte.md",
@@ -216,7 +231,6 @@
     "Oblivion/Objets Magiques/Perle de puissance.md",
     "Oblivion/Objets Magiques/Bouclier animé.md",
     "Oblivion/Objets Magiques/Gantelets de puissance d'ogre.md",
-    "Oblivion/Objets Magiques/Sac sans fond.md",
     "Oblivion/Images/chevalier-dragon.jpg",
     "Oblivion/Images/Guerrière Soong.jpg",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars",
