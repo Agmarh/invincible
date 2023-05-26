@@ -51,7 +51,6 @@ traits:
 actions:
   - name: [[Tue-Mort]]
     desc: "Attaque d'arme au corps à corps : +6 pour toucher, allonge 3 m, une cible. Touché : 7 (1d8+3) dégâts perforants."
-  - ...
 legendary_actions:
   - name: <legendary_actions-name>
     desc: <legendary_actions-description>
