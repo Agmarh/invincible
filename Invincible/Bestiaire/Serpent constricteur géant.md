@@ -6,10 +6,10 @@ type: Bête
 subtype: 
 alignment: non-alignée
 ac: 12
-hp: 0
-hit_dice: 1d8+0
-speed: 0
-stats: [10, 10, 10, 10, 10, 10]
+hp: 60
+hit_dice: 8d12+8
+speed: 9m, nage 9m
+stats: [19, 14, 12, 1, 10, 3]
 saves:
   - <ability-score>: number
 skillsaves:
