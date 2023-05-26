@@ -6,11 +6,11 @@ Pour accéder à la tour, Clovik dira aux PJ qu'il faut rejoindre le port pour e
 
 Une protection invisible enveloppe la tour, toute personne qui tente de la toucher se trouve violemment projetée en arrière à 2d4 mètres de là et <font style="color:green">DD Acrobatie 10</font> pour ne pas subir 1d4 dégâts.
 
-Lors de l'arrivée des PJs, Clovik sera sans doute le premier à être éjecté et percutera la personne derrière lui qui subira 1d4 dégâts sauf si <font style="color:green">DD Sauvegarde Dextérité 15< et tous les personnages derrière devront faire un DD Sauvegarde Dextérité 10 pour ne pas chuter dans l'escalier et subir 1d4 dégâts.
+Lors de l'arrivée des PJs, Clovik sera sans doute le premier à être éjecté et percutera la personne derrière lui qui subira 1d4 dégâts sauf si <font style="color:green">DD Sauvegarde Dextérité 15</font> et tous les personnages derrière devront faire un <font style="color:green">DD Sauvegarde Dextérité 10</font> pour ne pas chuter dans l'escalier et subir 1d4 dégâts.
 
 Clovik explique que le magicien avait prévu des protections de ce type en cas d'attaque, mais il n'en connaît pas les détails. Clovik aura un éclair de lucidité et expliquera qu'il y a dans la tour un puits dont on tire de l'eau, il pense que celui-ci pourrait communiquer avec le lac. Il va falloir plonger.
 
-A l'eau : [Rester sous l'eau](https://5e-drs.fr/partir-a-l-aventure/#asphyxie)
+A l'eau : [[Asphyxie]]
 
 La première étape est de descendre au fond du lac, au pied du piton rocheux. 3 DD Athlétisme 10 (18sec). Si un raté, le joueur peut remonter à la surface pour repartir de 0 ou continuer et sacrifier 1 PV et subir un désavantage à son prochain test, mais conserve les succès.
 
