@@ -14,7 +14,7 @@ Une fois la tour sécurisée, il faut que les PJ installent une sorte de paraton
 
 Pour réussir à mettre en place l'ensemble, il faut réussir un test de Dextérité difficulté 10. Faites aussi lancer 1d6 à celui qui met en place le dispositif, sur un résultat de 1 à 3, il subit immédiatement les effets des foudres du temps.
 
-## Comment ça marche ?
+# Comment ça marche ?
 
 Un personnage doit placer les 4 composants magiques dans les petites coupelles prévues à cet effet dans la sphère puis la refermer. Avec la grande aiguille, on indique alors le nombre de jours depuis lesquels les cibles sont affectées par le souffle du dragon : par exemple si vous êtes à J+8 cela représente 11.
 
@@ -24,13 +24,13 @@ Enfin il faut suspendre la sphère et attendre que la foudre frappe plusieurs fo
 
 Dès le départ, faites sur votre table de jeu un plan du sommet de la tour (15 mètres de diamètre), placez le trébuchet (3 mètres sur 4 au sol) et les 2 balistes (1 mètre sur 2 au sol) et demandez aux joueurs de situer leurs PJ.
 
-## Action !
+# Action !
 
 Lisez ou paraphrasez les textes suivant, à mesure que le temps passe : "Après quelques secondes, la foudre frappe une première fois le paratonnerre. L'énergie parcourt la chaîne et la sphère sursaute violemment. La petite aiguille bouge légèrement et vient se positionner doucement sur le chiffre 2 tandis que l'ensemble émet un bourdonnement sourd." 
 
 Si un personnage se tient à moins de 3 mètres de la Chronosphère lorsque la foudre la frappe, il devra réussir un jet de sauvegarde de Constitution difficulté 10 ou être étourdi 1 round. Et ceci à chaque fois que la foudre frappera, personne n'est obligé de rester à cet endroit, mais il faut bien protéger la Chronosphère…
 
-"Au second coup de foudre, la Chronosphère bourdonne de plus belle et semble s'élever légèrement dans les airs. Votre attention est cependant attirée par une étrange lumière bleutée qui éclaire le centre du maelström comme si un passage s'ouvrait soudain vers l'au-delà. L'éclat cligne une ou deux fois comme un oeil géant puis projette un puissant cône de lumière qui fouille la cité plongée dans l'ombre. Brusquement, la lumière se pose sur le sommet de la tour où vous vous trouvez et s'y arrête."
+"Au second coup de foudre, la Chronosphère bourdonne de plus belle et semble s'élever légèrement dans les airs. Votre attention est cependant attirée par une étrange lumière bleutée qui éclaire le centre du maelström comme si un passage s'ouvrait soudain vers l'au-delà. L'éclat cligne une ou deux fois comme un œil géant puis projette un puissant cône de lumière qui fouille la cité plongée dans l'ombre. Brusquement, la lumière se pose sur le sommet de la tour où vous vous trouvez et s'y arrête."
 
 "Tout semble se figer pendant quelques longs instants silencieux. En pleine lumière, vous vous sentez exposé à mille regards au milieu de la cité pétrifiée. Puis le maelström lance un terrible cri, comme un appel à la fois titanesque et lointain qui retentit dans la cité. La lumière s'éteint aussi soudainement qu'elle était apparue."
 

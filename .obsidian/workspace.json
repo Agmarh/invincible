@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Invincible/Scénario 2 La cité pétrifiée/Evénements/6 – Actionner la Chronosphère.md",
+                "file": "Invincible/Scénario 2 La cité pétrifiée/Evénements/Chronologie.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Invincible/Scénario 2 La cité pétrifiée/Evénements/6 – Actionner la Chronosphère.md",
+                "file": "Invincible/Scénario 2 La cité pétrifiée/Evénements/Chronologie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Invincible/Scénario 2 La cité pétrifiée/Evénements/6 – Actionner la Chronosphère.md",
+                "file": "Invincible/Scénario 2 La cité pétrifiée/Evénements/Chronologie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Invincible/Scénario 2 La cité pétrifiée/Evénements/6 – Actionner la Chronosphère.md"
+                "file": "Invincible/Scénario 2 La cité pétrifiée/Evénements/Chronologie.md"
               }
             }
           }
@@ -203,10 +203,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "130adaa95b887140",
+  "active": "efc7fbc9dabff410",
   "lastOpenFiles": [
-    "Invincible/Scénario 2 La cité pétrifiée/Evénements/5 – Le sang de loup-garou.md",
+    "Invincible/Scénario 2 La cité pétrifiée/Sans titre",
     "Invincible/Scénario 2 La cité pétrifiée/Evénements/6 – Actionner la Chronosphère.md",
+    "Invincible/Scénario 2 La cité pétrifiée/Evénements/5 – Le sang de loup-garou.md",
     "Invincible/Scénario 2 La cité pétrifiée/Evénements/4 – Mission de Lycanis.md",
     "Invincible/Scénario 2 La cité pétrifiée/Evénements/3 - Les Survivants.md",
     "Invincible/Scénario 2 La cité pétrifiée/Evénements/2 - Les larmes de nouveau-né.md",
@@ -230,7 +231,6 @@
     "Invincible/Objets Magiques/Sans titre.md",
     "Invincible/Scénario 2 La cité pétrifiée/Personnage Loup-Garou.md",
     "Oblivion/L'Empire.md",
-    "Oblivion/Magie.md",
     "Oblivion/Images/chevalier-dragon.jpg",
     "Oblivion/Images/Guerrière Soong.jpg",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars",
