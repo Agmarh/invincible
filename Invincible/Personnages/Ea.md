@@ -3,14 +3,15 @@ image: [[monstre.png]]
 name: Ea
 size: M
 type: Humanoïde
-subtype: 
-alignment: Neutre
-ac: 10
-hp: 0
-hit_dice: 1d8+0
-speed: 0
-stats: [10, 10, 10, 10, 10, 10]
+subtype: Tieffelin
+alignment: Chaotique Bon
+ac: 15
+hp: 42
+hit_dice: 6d8+15
+speed: 9m
+stats: [8, 14, 13, 13, 15, 12]
 saves:
+  - Int: 4
   - <ability-score>: number
 skillsaves:
   - <skill-name>: number
