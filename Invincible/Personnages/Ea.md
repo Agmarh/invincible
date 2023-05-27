@@ -39,25 +39,4 @@ traits:
     desc: "À partir du niveau 6, vous devenez capable de parler lorsque vous êtes sous forme sauvage, mais vous ne pouvez toujours pas lancer de sort. De plus, lorsque vous utilisez votre forme sauvage pour vous transformer en bête, vous gagnez le pouvoir pattes d'araignée pour toute la durée de la transformation."
   - name: Ascendance infernale
     desc: "Vous connaissez le tour de magie thaumaturgie. Vous pouvez lancer le sort Représailles infernales comme sort de niveau 2. Vous pouvez lancer le sort Ténèbres, repos long pour réutiliser."
-actions:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
-legendary_actions:
-  - name: <legendary_actions-name>
-    desc: <legendary_actions-description>
-  - ...
-bonus_actions:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
-reactions:
-  - name: <reaction-name>
-    desc: <reaction-description>
-  - ...
-tactic:
-  - desc: <reaction-description>
-treasure:
-  - name: <reaction-name>
-    desc: <reaction-description>
 ```
