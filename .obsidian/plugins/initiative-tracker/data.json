@@ -57,6 +57,16 @@
       "players": [
         "Damy"
       ]
+    },
+    {
+      "name": "Test",
+      "players": [
+        "Piotr",
+        "Gorgonzola",
+        "Era",
+        "Ea",
+        "Konrot"
+      ]
     }
   ],
   "defaultParty": null,
@@ -155,96 +165,6 @@
   "monsterMarker": "default",
   "state": {
     "creatures": [
-      {
-        "name": "Ecorché Troll",
-        "initiative": 16,
-        "modifier": 0,
-        "hp": 85,
-        "currentMaxHP": 85,
-        "ac": "15 (armure naturelle)",
-        "currentAC": "15 (armure naturelle)",
-        "id": "ID_ab4a0b593adb",
-        "currentHP": 85,
-        "tempHP": 0,
-        "status": [],
-        "enabled": true,
-        "xp": 1100,
-        "hidden": false,
-        "friendly": false,
-        "hit_dice": "9d10+36"
-      },
-      {
-        "name": "Ecorché Troll",
-        "initiative": 16,
-        "modifier": 0,
-        "hp": 85,
-        "currentMaxHP": 85,
-        "ac": "15 (armure naturelle)",
-        "currentAC": "15 (armure naturelle)",
-        "id": "ID_a948bbe869c9",
-        "currentHP": 85,
-        "tempHP": 0,
-        "status": [],
-        "enabled": true,
-        "xp": 1100,
-        "hidden": false,
-        "friendly": false,
-        "hit_dice": "9d10+36"
-      },
-      {
-        "name": "Ecorché Troll",
-        "initiative": 16,
-        "modifier": 0,
-        "hp": 85,
-        "currentMaxHP": 85,
-        "ac": "15 (armure naturelle)",
-        "currentAC": "15 (armure naturelle)",
-        "id": "ID_ab9b886918d8",
-        "currentHP": 85,
-        "tempHP": 0,
-        "status": [],
-        "enabled": true,
-        "xp": 1100,
-        "hidden": false,
-        "friendly": false,
-        "hit_dice": "9d10+36"
-      },
-      {
-        "name": "Ecorché Troll",
-        "initiative": 16,
-        "modifier": 0,
-        "hp": 85,
-        "currentMaxHP": 85,
-        "ac": "15 (armure naturelle)",
-        "currentAC": "15 (armure naturelle)",
-        "id": "ID_59b8795adaa8",
-        "currentHP": 85,
-        "tempHP": 0,
-        "status": [],
-        "enabled": true,
-        "xp": 1100,
-        "hidden": false,
-        "friendly": false,
-        "hit_dice": "9d10+36"
-      },
-      {
-        "name": "Ecorché Troll",
-        "initiative": 16,
-        "modifier": 0,
-        "hp": 85,
-        "currentMaxHP": 85,
-        "ac": "15 (armure naturelle)",
-        "currentAC": "15 (armure naturelle)",
-        "id": "ID_a84be8ea2a29",
-        "currentHP": 85,
-        "tempHP": 0,
-        "status": [],
-        "enabled": true,
-        "xp": 1100,
-        "hidden": false,
-        "friendly": false,
-        "hit_dice": "9d10+36"
-      },
       {
         "name": "Damy",
         "initiative": 0,
