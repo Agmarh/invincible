@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e6798570b655bc50",
+        "id": "ebcafce2b9e541c0",
         "type": "tabs",
         "children": [
           {
-            "id": "7743ded650ee1921",
+            "id": "909a70dae998ab74",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -147,6 +147,20 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "7ab6d48fd6bde094",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae70a27d035ef81e",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
