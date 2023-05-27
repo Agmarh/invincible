@@ -24,7 +24,10 @@ languages: commun, commun des profondeurs, infernal, druidique, gobelin
 cr: 5
 spells:
   - Lanceur de sort de niveau 6, DDJS 13, bonus d'attaque +5
-  - <spell level>: <spell-list>
+  - Tours de magie: [[Bouffée de poison]], [[Eclat de bois]], Lumière, Assistance, Thaumaturgie
+  - Niveau 1: <spell-list>
+  - Niveau 2: <spell-list>
+  - Niveau 3: <spell-list>
 traits:
   - name: <trait-name>
     desc: <trait-description>
