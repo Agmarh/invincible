@@ -26,8 +26,8 @@ spells:
   - Lanceur de sort de niveau 6, DDJS 13, bonus d'attaque +5
   - Tours de magie: Bouffée de poison, Eclat de bois, Lumière, Assistance, Thaumaturgie
   - Niveau 1: Grande foulée, Mot de guérison, Soin des blessures
-  - Niveau 2: <spell-list>
-  - Niveau 3: <spell-list>
+  - Niveau 2: Amélioration de caractéristique, Passage sans trace, Rayon de lune
+  - Niveau 3: Appel de la foudre, Dissipation de la magie, Invoquer des animaux, Mur de vent, Respiration aquatique
 traits:
   - name: <trait-name>
     desc: <trait-description>
