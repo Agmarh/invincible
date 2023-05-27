@@ -1,9 +1,9 @@
 ---
-type: 
-niveau: 
-incantation: 
-distance: 
-composantes: 
+type: Invocation
+niveau: 3
+incantation: 1 action
+distance: 27 mètres
+composantes: V, S, M (un œuf pourri ou des feuilles de chou pourri)
 temps: 
 classe: 
 ---
