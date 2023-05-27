@@ -19,9 +19,9 @@ skillsaves:
   - Perspicacité: 5
   - Survie: 5
 damage_resistances: feu
-senses: vision dans le noir 18m, Perception passi
-languages: string
-cr: 1
+senses: vision dans le noir 18m, Perception passive 15
+languages: commun, commun des profondeurs, infernal, druidique, gobelin
+cr: 5
 spells:
   - <description>
   - <spell level>: <spell-list>
