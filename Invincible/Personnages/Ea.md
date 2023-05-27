@@ -29,17 +29,15 @@ spells:
   - Niveau 2: Amélioration de caractéristique, Passage sans trace, Rayon de lune
   - Niveau 3: Appel de la foudre, Dissipation de la magie, Invoquer des animaux, Mur de vent, Respiration aquatique
 traits:
-  - name: <trait-name>
+  - name: Fils de la nature
     desc: <trait-description>
-  - name: <trait-name>
+  - name: Forme sauvage
     desc: <trait-description>
-  - name: <trait-name>
+  - name: Don Impitoyable
     desc: <trait-description>
-  - name: <trait-name>
+  - name: Forme sauvage améliorée
     desc: <trait-description>
-  - name: <trait-name>
-    desc: <trait-description>
-  - name: <trait-name>
+  - name: Ascendance infernale
     desc: <trait-description>
 actions:
   - name: <trait-name>
