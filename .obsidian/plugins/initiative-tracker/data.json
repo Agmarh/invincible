@@ -39,6 +39,16 @@
       "ac": "14",
       "modifier": 2,
       "player": true
+    },
+    {
+      "note": "PJ",
+      "path": "Template/PJ.md",
+      "name": "Damy",
+      "level": 5,
+      "hp": 38,
+      "ac": "18",
+      "modifier": 4,
+      "player": true
     }
   ],
   "parties": [
@@ -54,7 +64,9 @@
     },
     {
       "name": "Oblivion",
-      "players": []
+      "players": [
+        "Damy"
+      ]
     }
   ],
   "defaultParty": null,
@@ -158,7 +170,7 @@
     "round": 1,
     "logFile": ""
   },
-  "condense": true,
+  "condense": false,
   "clamp": true,
   "autoStatus": true,
   "beginnerTips": true,
