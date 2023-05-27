@@ -7,11 +7,12 @@ composantes: V, S, M (un projectile)
 temps: instantanée
 classe: Rôdeur
 ---
-# <% tp.frontmatter.type %> de niveau <% tp.frontmatter.niveau %>
+# Invocation de niveau 3
 
-**Temps d'incantation :** <% tp.frontmatter.incantation %>
-**Portée :** <% tp.frontmatter.distance %>
-**Composantes :** <% tp.frontmatter.composantes %>
-**Durée :** <% tp.frontmatter.temps %>
-**Classe :** <% tp.frontmatter.classe %>
+**Temps d'incantation :** 1 action bonus
+**Portée :** selon l'arme utilisée
+**Composantes :** V, S, M (un projectile)
+**Durée :** instantanée
+**Classe :** Rôdeur
 
+Vous utilisez votre action pour lancer une arme ou tirer un projectile et une action bonus pour lancer le sort. Le projectile se dédouble de nombreuses fois et affecte toutes les créatures dans une zone de 3 mètres de rayon autour de votre cible initiale, dans la limite de la portée habituelle de l'arme utilisée. Faites un seul test d'attaque à distance, chaque créature dans la zone subit les dégâts habituels de votre attaque, la moitié seulement si le résultat du test d'attaque n'a pas atteint la CA de la créature. Vous ajoutez normalement votre modificateur de Dextérité aux dégâts et de magie si votre arc ou vos flèches sont magiques. Dans tous les cas, les dégâts sont magiques (du type approprié aux projectiles).

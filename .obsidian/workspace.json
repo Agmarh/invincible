@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 3/Pluie de projectiles.md",
+                "file": "Annexe/Sortilèges/Niveau 3/Projectile toxique.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 3/Pluie de projectiles.md",
+                "file": "Annexe/Sortilèges/Niveau 3/Projectile toxique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 3/Pluie de projectiles.md",
+                "file": "Annexe/Sortilèges/Niveau 3/Projectile toxique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 3/Pluie de projectiles.md"
+                "file": "Annexe/Sortilèges/Niveau 3/Projectile toxique.md"
               }
             }
           }
@@ -175,6 +175,7 @@
   },
   "active": "7743ded650ee1921",
   "lastOpenFiles": [
+    "Annexe/Sortilèges/Niveau 3/Pluie de projectiles.md",
     "Annexe/Sortilèges/Niveau 3/Peur.md",
     "Annexe/Sortilèges/Niveau 3/Petite hutte.md",
     "Annexe/Sortilèges/Niveau 3/Nuage puant.md",
@@ -198,7 +199,6 @@
     "Annexe/Sortilèges/Niveau 3/Respiration aquatique.md",
     "Annexe/Sortilèges/Niveau 3/Protection contre les énergies.md",
     "Annexe/Sortilèges/Niveau 3/Projectile toxique.md",
-    "Annexe/Sortilèges/Niveau 3/Pluie de projectiles.md",
     "Template/Sort.md",
     "Annexe/Sortilèges/Niveau 3/Invoquer des animaux.md",
     "Invincible/Scénario 2 La cité pétrifiée/Recherches",
