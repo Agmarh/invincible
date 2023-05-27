@@ -23,7 +23,7 @@ senses: vision dans le noir 18m, Perception passive 15
 languages: commun, commun des profondeurs, infernal, druidique, gobelin
 cr: 5
 spells:
-  - <description>
+  - Lanceur de sort de niveau 6, DDJS 13, bonus d'attaque +5
   - <spell level>: <spell-list>
 traits:
   - name: <trait-name>

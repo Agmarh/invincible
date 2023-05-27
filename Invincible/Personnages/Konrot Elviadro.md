@@ -21,6 +21,7 @@ skillsaves:
 damage_resistances: poison
 senses: vision dans le noir 18m, Perception passive 11
 languages: commun, infernal, gobelin
+cr: 5
 spells:
   - Lanceur de sort de niveau 6, DDJS 13, bonus d'attaque +6
   - Tours de magie: Explosion occulte, Viser juste, Bouffée de poison, Illusion mineure
