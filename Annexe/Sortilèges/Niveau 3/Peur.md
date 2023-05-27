@@ -1,8 +1,8 @@
 ---
-type: 
-niveau: 
-incantation: 
-distance: 
+type: Illusion
+niveau: 3
+incantation: 1 action
+distance: personnelle (cône de 9 mètres)
 composantes: 
 temps: 
 classe: 
