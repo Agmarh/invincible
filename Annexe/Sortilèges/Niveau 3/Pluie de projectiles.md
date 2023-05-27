@@ -1,11 +1,11 @@
 ---
-type: 
-niveau: 
-incantation: 
-distance: 
-composantes: 
-temps: 
-classe: 
+type: Invocation
+niveau: 3
+incantation: 1 action bonus
+distance: selon l'arme utilisée
+composantes: V, S, M (un projectile)
+temps: instantanée
+classe: Rôdeur
 ---
 # <% tp.frontmatter.type %> de niveau <% tp.frontmatter.niveau %>
 
