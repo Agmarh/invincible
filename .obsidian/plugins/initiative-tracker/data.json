@@ -5,7 +5,31 @@
       "level": 6,
       "hp": 51,
       "ac": "18",
-      "modifier": 3,
+      "modifier": -1,
+      "player": true
+    },
+    {
+      "name": "Gorgonzola",
+      "level": 6,
+      "hp": 67,
+      "ac": "14",
+      "modifier": 2,
+      "player": true
+    },
+    {
+      "name": "Ea",
+      "level": 6,
+      "hp": 42,
+      "ac": "15",
+      "modifier": 2,
+      "player": true
+    },
+    {
+      "name": "Era",
+      "level": 6,
+      "hp": 52,
+      "ac": "17",
+      "modifier": 5,
       "player": true
     }
   ],
