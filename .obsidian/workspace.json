@@ -155,11 +155,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 675.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,7 +173,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7743ded650ee1921",
+  "active": "f313958ee2e0b55c",
   "lastOpenFiles": [
     "Invincible/Personnages/Ea.md",
     "Invincible/Personnages/Gorgonzola.md",

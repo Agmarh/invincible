@@ -9,7 +9,14 @@
       "player": true
     }
   ],
-  "parties": [],
+  "parties": [
+    {
+      "name": "Invincible",
+      "players": [
+        "Piotr"
+      ]
+    }
+  ],
   "defaultParty": null,
   "homebrew": [],
   "statuses": [
@@ -105,26 +112,7 @@
   "playerMarker": "default",
   "monsterMarker": "default",
   "state": {
-    "creatures": [
-      {
-        "name": "Guerrière soong",
-        "initiative": 5,
-        "modifier": 3,
-        "hp": 102,
-        "currentMaxHP": 102,
-        "ac": 17,
-        "currentAC": 17,
-        "id": "ID_5bfa580a5ada",
-        "currentHP": 102,
-        "tempHP": 0,
-        "status": [],
-        "enabled": true,
-        "xp": 2900,
-        "hidden": false,
-        "friendly": false,
-        "hit_dice": "12d8+48"
-      }
-    ],
+    "creatures": [],
     "state": false,
     "name": null,
     "round": 1,
