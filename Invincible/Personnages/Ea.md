@@ -12,14 +12,14 @@ speed: 9m
 stats: [8, 14, 13, 13, 15, 12]
 saves:
   - Int: 4
-  - <ability-score>: number
+  - Sag: 5
 skillsaves:
-  - <skill-name>: number
-damage_vulnerabilities: string
-damage_resistances: string
-damage_immunities: string
-condition_immunities: string
-senses: string
+  - Dressage: 5
+  - Perception: 5
+  - Perspicacité: 5
+  - Survie: 5
+damage_resistances: feu
+senses: vision dans le noir 18m, Perception passi
 languages: string
 cr: 1
 spells:
