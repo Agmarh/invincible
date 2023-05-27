@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4f058291b0e4fb5f",
+        "id": "22403f9f52f2b525",
         "type": "tabs",
         "children": [
           {
-            "id": "d633078d433bb5e6",
+            "id": "40ef0c4d1f37f831",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Invincible/Objets Magiques/Bâton du python.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Invincible/Objets Magiques/Bâton du python.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Invincible/Objets Magiques/Bâton du python.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Invincible/Objets Magiques/Bâton du python.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -173,7 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 415.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,35 +187,39 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d633078d433bb5e6",
+  "active": "40ef0c4d1f37f831",
   "lastOpenFiles": [
-    "Oblivion/ACTUELLEMENT.md",
+    "Invincible/Personnages/Ea.md",
+    "conflict-files-obsidian-git.md",
     "Invincible/Objets Magiques/Bâton du python.md",
-    "Oblivion/L'Empire.md",
-    "Oblivion/Magie.md",
-    "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/2 - Sur la route de la Cité Sainte.md",
-    "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/1 - Enquête morbide et mortelles tracasseries.md",
-    "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Gangrêve.md",
-    "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Introduction.md",
-    "Oblivion/Objets Magiques/Boucle d'oreille de Mysdora.md",
-    "Oblivion/Objets Magiques/Perle de puissance.md",
-    "Oblivion/Objets Magiques/Bouclier animé.md",
-    "Oblivion/Objets Magiques/Gantelets de puissance d'ogre.md",
-    "Oblivion/Objets Magiques/Sac sans fond.md",
-    "Oblivion/Objets Magiques/Bâton de combat.md",
-    "Oblivion/Objets Magiques/Lunettes nocturnes.md",
-    "Oblivion/Objets Magiques/Cape de protection.md",
-    "Oblivion/Bestiaire/Lézard géant.md",
-    "Annexe/Règles/Empoigné.md",
-    "Oblivion/Bestiaire/Dragon d'acier adulte.md",
-    "Oblivion/Bestiaire/Elfe de Farendhell.md",
-    "Oblivion/Bestiaire/Chevalier-dragon.md",
+    "Invincible/Personnages/Konrot Elviadro.md",
+    "Invincible/Bestiaire/Serpent constricteur géant.md",
+    "Invincible/Bestiaire/Sans titre.md",
+    "Invincible/Scénario 2 La cité pétrifiée/Evénements/Actionner la Chronosphère.md",
+    "Invincible/Scénario 2 La cité pétrifiée/Evénements/Le retour des pêcheurs.md",
+    "Invincible/Scénario 2 La cité pétrifiée/Evénements/Les Survivants.md",
+    "Invincible/Scénario 2 La cité pétrifiée/Evénements/Le sang de loup-garou.md",
+    "Invincible/Scénario 2 La cité pétrifiée/Evénements/Les larmes de nouveau-né.md",
+    "Invincible/Scénario 2 La cité pétrifiée/Evénements/Mission de Lycanis.md",
+    "Invincible/Scénario 2 La cité pétrifiée/Infos diverses.md",
+    "Invincible/Scénario 2 La cité pétrifiée/Recherches/À propos de la pétrification.md",
+    "Invincible/Scénario 2 La cité pétrifiée/Recherches/Onguent contre la pétrification.md",
+    "Invincible/Scénario 2 La cité pétrifiée/Recherches/Chronosphère.md",
+    "Invincible/Scénario 2 La cité pétrifiée/Recherches/Bibliothèque.md",
+    "Invincible/Scénario 2 La cité pétrifiée/Recherches",
+    "Invincible/Scénario 2 La cité pétrifiée/Les lieux/Paleseaux.md",
+    "Invincible/Scénario 2 La cité pétrifiée/Les lieux/5 - Cimetière.md",
+    "Invincible/Scénario 2 La cité pétrifiée/Les lieux/Mausolée de Selmak.md",
+    "Invincible/Scénario 2 La cité pétrifiée/Les lieux/4 – Auberge du Coq Doré.md",
+    "Invincible/Scénario 2 La cité pétrifiée/Les lieux/3 – La Tour Grise.md",
+    "Invincible/Scénario 2 La cité pétrifiée/Les lieux/2 – Le Beffroi.md",
+    "Invincible/Scénario 2 La cité pétrifiée/Les lieux/1 – La Tour du Phare.md",
+    "Invincible/Scénario 2 La cité pétrifiée/Les lieux",
+    "Invincible/Scénario 2 La cité pétrifiée/Chronologie.md",
+    "Invincible/Scénario 2 La cité pétrifiée/ACTUELLEMENT J+3.md",
+    "Invincible/Images/epreuveNoir.png",
+    "Invincible/Images/epreuveFeu.png",
     "Oblivion/Images/chevalier-dragon.jpg",
-    "Oblivion/Bestiaire/Gobelin.md",
-    "Oblivion/Bestiaire/Guerrière soong.md",
-    "Oblivion/Bestiaire/Hyène de guerre.md",
-    "Oblivion/Bestiaire/Chef de meute Gobelin.md",
-    "Invincible/Bestiaire/Baphit.md",
     "Oblivion/Images/Guerrière Soong.jpg",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars",
     "Oblivion/PDF/Le Cauchemar.pdf",
@@ -227,14 +231,10 @@
     "Invincible/Images/Mordante.jpg",
     "Invincible/Images/Draconis.jpg",
     "Invincible/Images/Tromperie.jpg",
-    "Invincible/Images/Médaillon Oraxos.jpg",
-    "Invincible/Images/Clovik.jpg",
     "Invincible/Images",
     "Invincible/Personnages",
     "Invincible/Objets Magiques",
     "Invincible/Bestiaire",
-    "Oblivion/Monstres/Sans titre",
-    "Annexe/Sortilèges/Niveau 3",
     "Oblivion/PNJ/Sans titre.canvas"
   ]
 }
