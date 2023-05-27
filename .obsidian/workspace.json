@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 3/Monture fantôme.md",
+                "file": "Annexe/Sortilèges/Niveau 3/Motif hypnotique.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 3/Monture fantôme.md",
+                "file": "Annexe/Sortilèges/Niveau 3/Motif hypnotique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 3/Monture fantôme.md",
+                "file": "Annexe/Sortilèges/Niveau 3/Motif hypnotique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 3/Monture fantôme.md"
+                "file": "Annexe/Sortilèges/Niveau 3/Motif hypnotique.md"
               }
             }
           }
@@ -189,6 +189,8 @@
   },
   "active": "7743ded650ee1921",
   "lastOpenFiles": [
+    "Annexe/Sortilèges/Niveau 3/Mot de guérison de groupe.md",
+    "Annexe/Sortilèges/Niveau 3/Monture fantôme.md",
     "Annexe/Sortilèges/Niveau 3/Marche sur l'eau.md",
     "Annexe/Sortilèges/Niveau 3/Lumière du jour.md",
     "Annexe/Sortilèges/Niveau 3/Lueur d'espoir.md",
@@ -211,8 +213,6 @@
     "Annexe/Sortilèges/Niveau 3/Non-détection.md",
     "Annexe/Sortilèges/Niveau 3/Mur de vent.md",
     "Annexe/Sortilèges/Niveau 3/Motif hypnotique.md",
-    "Annexe/Sortilèges/Niveau 3/Mot de guérison de groupe.md",
-    "Annexe/Sortilèges/Niveau 3/Monture fantôme.md",
     "Template/Sort.md",
     "Annexe/Sortilèges/Niveau 3/Invoquer des animaux.md",
     "Invincible/Scénario 2 La cité pétrifiée/Recherches",
