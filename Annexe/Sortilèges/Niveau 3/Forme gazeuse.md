@@ -7,11 +7,16 @@ composantes: V, S, M (un morceau de gaze et une volute de fumée)
 temps: concentration, jusqu'à 1 heure
 classe: Ensorceleur/Sorcelame, Magicien, Ombrelame, Sorcier
 ---
-# <% tp.frontmatter.type %> de niveau <% tp.frontmatter.niveau %>
+# Transmutation de niveau 3
 
-**Temps d'incantation :** <% tp.frontmatter.incantation %>
-**Portée :** <% tp.frontmatter.distance %>
-**Composantes :** <% tp.frontmatter.composantes %>
-**Durée :** <% tp.frontmatter.temps %>
-**Classe :** <% tp.frontmatter.classe %>
+**Temps d'incantation :** 1 action
+**Portée :** contact
+**Composantes :** V, S, M (un morceau de gaze et une volute de fumée)
+**Durée :** concentration, jusqu'à 1 heure
+**Classe :** Ensorceleur/Sorcelame, Magicien, Ombrelame, Sorcier
 
+Vous touchez une créature consentante et la transformez, ainsi que tous les objets qu'elle porte et qu'elle transporte, en nuage brumeux pour toute la durée du sort. Ce dernier se termine si la créature tombe à 0 point de vie. Le sort n'affecte pas les créatures intangibles.
+
+Sous cette forme, la cible n'a plus qu'un seul mode de déplacement : le vol, à une vitesse de 3 mètres. Elle peut entrer dans l'espace d'une autre créature et l'occuper. Elle est résistante aux dégâts non magiques et elle bénéficie d'un avantage lors des jets de sauvegarde de Force, de Dextérité et de Constitution. Elle peut passer à travers de petits trous, de minces ouvertures et même de simples fissures. En revanche, les liquides équivalent pour elle à des surfaces solides. Elle ne peut pas tomber et continue de flotter dans les airs même si elle est [[étourdi]] ou [[neutralisé]].
+
+Sous forme de nuage brumeux, la cible ne peut pas parler ni manipuler d'objet. Il lui est impossible de lâcher les objets qu'elle portait et qu'elle transportait, et personne ne peut les utiliser ni interagir avec eux. Elle ne peut pas attaquer ni lancer de sort.
