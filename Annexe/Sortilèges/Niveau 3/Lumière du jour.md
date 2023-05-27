@@ -1,10 +1,10 @@
 ---
-type: 
-niveau: 
-incantation: 
-distance: 
-composantes: 
-temps: 
+type: Évocation
+niveau: 3
+incantation: 1 action
+distance: 18 mètres
+composantes: V, S
+temps: 1 heure
 classe: 
 ---
 # <% tp.frontmatter.type %> de niveau <% tp.frontmatter.niveau %>
