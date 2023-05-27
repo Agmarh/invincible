@@ -1,10 +1,10 @@
 ---
-type: 
-niveau: 
-incantation: 
-distance: 
-composantes: 
-temps: 
+type: Divination
+niveau: 3
+incantation: 1 action
+distance: contact
+composantes: V, M (un modèle réduit de ziggourat en argile)
+temps: 1 heure
 classe: 
 ---
 # <% tp.frontmatter.type %> de niveau <% tp.frontmatter.niveau %>
