@@ -147,20 +147,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "7ebc09f5a460c735",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d29763290ed36e62",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-creature-view",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
