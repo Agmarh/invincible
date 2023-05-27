@@ -1,9 +1,9 @@
 ---
-type: 
-niveau: 
-incantation: 
-distance: 
-composantes: 
+type: Transmutation
+niveau: 3
+incantation: 1 action
+distance: contact
+composantes: V, S, M (une rémige)
 temps: 
 classe: 
 ---
