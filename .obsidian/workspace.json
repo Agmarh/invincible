@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oblivion/ACTUELLEMENT.md",
+                "file": "Invincible/Objets Magiques/Bâton du python.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oblivion/ACTUELLEMENT.md",
+                "file": "Invincible/Objets Magiques/Bâton du python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oblivion/ACTUELLEMENT.md",
+                "file": "Invincible/Objets Magiques/Bâton du python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oblivion/ACTUELLEMENT.md"
+                "file": "Invincible/Objets Magiques/Bâton du python.md"
               }
             }
           }
@@ -189,9 +189,10 @@
   },
   "active": "d633078d433bb5e6",
   "lastOpenFiles": [
+    "Oblivion/ACTUELLEMENT.md",
+    "Invincible/Objets Magiques/Bâton du python.md",
     "Oblivion/L'Empire.md",
     "Oblivion/Magie.md",
-    "Oblivion/ACTUELLEMENT.md",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/2 - Sur la route de la Cité Sainte.md",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/1 - Enquête morbide et mortelles tracasseries.md",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Gangrêve.md",
@@ -215,7 +216,6 @@
     "Oblivion/Bestiaire/Hyène de guerre.md",
     "Oblivion/Bestiaire/Chef de meute Gobelin.md",
     "Invincible/Bestiaire/Baphit.md",
-    "Oblivion/Objets Magiques/Bottes elfiques.md",
     "Oblivion/Images/Guerrière Soong.jpg",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars",
     "Oblivion/PDF/Le Cauchemar.pdf",
