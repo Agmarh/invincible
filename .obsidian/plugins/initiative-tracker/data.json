@@ -1,5 +1,14 @@
 {
-  "players": [],
+  "players": [
+    {
+      "name": "Piotr",
+      "level": 6,
+      "hp": 51,
+      "ac": "18",
+      "modifier": 3,
+      "player": true
+    }
+  ],
   "parties": [],
   "defaultParty": null,
   "homebrew": [],
