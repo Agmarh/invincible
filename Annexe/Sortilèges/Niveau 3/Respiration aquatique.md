@@ -1,8 +1,8 @@
 ---
-type: 
-niveau: 
-incantation: 
-distance: 
+type: Transmutation
+niveau: 3 (rituel)
+incantation: 1 action
+distance: 9 mètres
 composantes: 
 temps: 
 classe: 
