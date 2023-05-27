@@ -30,15 +30,15 @@ spells:
   - Niveau 3: Appel de la foudre, Dissipation de la magie, Invoquer des animaux, Mur de vent, Respiration aquatique
 traits:
   - name: Fils de la nature
-    desc: <trait-description>
+    desc: "Vous savez survivre dans la nature. Vous trouvez toujours les points d'eau, les buissons de baies et les lieux propices à la chasse. Vous savez lire la nature et n'êtes jamais vraiment perdu. De plus, vous savez identifier les indices attestant de la présence d'autres clans primitifs : si un tel clan, ou une tribu (ou même un individu) est présent, vous savez remonter la trace jusqu'à son campement."
   - name: Forme sauvage
-    desc: <trait-description>
+    desc: "utilise une action pour se transformer en animal que vous avez déjà vu. Utilisable 2 fois. Doit ensuite finir un repos court ou long pour récupérer les 2 utilisations."
   - name: Don Impitoyable
-    desc: <trait-description>
+    desc: "Lorsqu'un adversaire à moins de 1,50 mètre de vous est blessé par un allié, vous pouvez utiliser votre réaction pour faire une attaque d'opportunité sur cet adversaire. Lorsqu'un adversaire rate une attaque de corps-à-corps contre vous, vous pouvez utiliser votre réaction pour faire porter cette attaque contre un autre adversaire à moins de 1,50 mètres de vous. Cet adversaire doit effectuer un jet de sauvegarde de Dextérité (DD égal à la CA atteinte par l'attaque). En cas d'échec, il subit la moitié des dégâts habituels de l'attaque initiale."
   - name: Forme sauvage améliorée
-    desc: <trait-description>
+    desc: "À partir du niveau 6, vous devenez capable de parler lorsque vous êtes sous forme sauvage, mais vous ne pouvez toujours pas lancer de sort. De plus, lorsque vous utilisez votre forme sauvage pour vous transformer en bête, vous gagnez le pouvoir pattes d'araignée pour toute la durée de la transformation."
   - name: Ascendance infernale
-    desc: <trait-description>
+    desc: "Vous connaissez le tour de magie thaumaturgie. Vous pouvez lancer le sort Représailles infernales comme sort de niveau 2. Vous pouvez lancer le sort Ténèbres, repos long pour réutiliser."
 actions:
   - name: <trait-name>
     desc: <trait-description>
