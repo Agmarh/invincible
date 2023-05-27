@@ -1,9 +1,9 @@
 ---
-type: 
-niveau: 
-incantation: 
-distance: 
-composantes: 
+type: Abjuration
+niveau: 3
+incantation: 1 action
+distance: contact
+composantes: V, S
 temps: 
 classe: 
 ---
