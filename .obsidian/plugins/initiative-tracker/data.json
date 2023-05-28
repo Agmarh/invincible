@@ -186,7 +186,7 @@
       },
       {
         "name": "Gorgonzola",
-        "initiative": 13,
+        "initiative": 14,
         "modifier": 2,
         "hp": 67,
         "currentMaxHP": 67,
@@ -205,7 +205,7 @@
       },
       {
         "name": "Era",
-        "initiative": 2,
+        "initiative": 10,
         "modifier": 5,
         "hp": 52,
         "currentMaxHP": 52,
@@ -224,7 +224,7 @@
       },
       {
         "name": "Ea",
-        "initiative": 14,
+        "initiative": 15,
         "modifier": 2,
         "hp": 42,
         "currentMaxHP": 42,
