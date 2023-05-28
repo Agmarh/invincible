@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Invincible/Objets Magiques/Mordante.md",
+                "file": "Invincible/Scénario 2 La cité pétrifiée/Evénements/Les Survivants.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Invincible/Objets Magiques/Mordante.md",
+                "file": "Invincible/Scénario 2 La cité pétrifiée/Evénements/Les Survivants.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Invincible/Objets Magiques/Mordante.md",
+                "file": "Invincible/Scénario 2 La cité pétrifiée/Evénements/Les Survivants.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Invincible/Objets Magiques/Mordante.md"
+                "file": "Invincible/Scénario 2 La cité pétrifiée/Evénements/Les Survivants.md"
               }
             }
           }
@@ -191,6 +191,7 @@
   },
   "active": "909a70dae998ab74",
   "lastOpenFiles": [
+    "Invincible/Objets Magiques/Mordante.md",
     "Invincible/Scénario 2 La cité pétrifiée/Evénements/Les Survivants.md",
     "Invincible/Scénario 2 La cité pétrifiée/Evénements/Les larmes de nouveau-né.md",
     "Invincible/Scénario 2 La cité pétrifiée/ACTUELLEMENT J+5.md",
@@ -216,7 +217,6 @@
     "Invincible/Personnages/Ea.md",
     "Invincible/Personnages/Konrot Elviadro.md",
     "Annexe/Sortilèges/Niveau 3/Vol.md",
-    "Annexe/Sortilèges/Niveau 3/Vitalité.md",
     "Invincible/Scénario 2 La cité pétrifiée/Recherches",
     "Invincible/Scénario 2 La cité pétrifiée/Les lieux",
     "Invincible/Images/epreuveNoir.png",
