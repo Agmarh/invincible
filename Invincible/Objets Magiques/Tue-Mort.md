@@ -1,4 +1,3 @@
-![[image.png]]
 Type : Arme
 Rareté : Rare
 Harmonisation : Non

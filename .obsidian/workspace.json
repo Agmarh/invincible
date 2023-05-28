@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Invincible/Scénario 2 La cité pétrifiée/ACTUELLEMENT J+5.md",
-                "mode": "source",
+                "file": "Invincible/Objets Magiques/Tue-Mort.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Invincible/Scénario 2 La cité pétrifiée/ACTUELLEMENT J+5.md",
+                "file": "Invincible/Objets Magiques/Tue-Mort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Invincible/Scénario 2 La cité pétrifiée/ACTUELLEMENT J+5.md",
+                "file": "Invincible/Objets Magiques/Tue-Mort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Invincible/Scénario 2 La cité pétrifiée/ACTUELLEMENT J+5.md"
+                "file": "Invincible/Objets Magiques/Tue-Mort.md"
               }
             }
           }
@@ -191,10 +191,11 @@
   },
   "active": "909a70dae998ab74",
   "lastOpenFiles": [
+    "Invincible/Objets Magiques/Tromperie.md",
+    "Invincible/Scénario 2 La cité pétrifiée/ACTUELLEMENT J+5.md",
     "Invincible/Scénario 2 La cité pétrifiée/Evénements/Les Survivants.md",
     "Invincible/Objets Magiques/Mordante.md",
     "Invincible/Scénario 2 La cité pétrifiée/Evénements/Les larmes de nouveau-né.md",
-    "Invincible/Scénario 2 La cité pétrifiée/ACTUELLEMENT J+5.md",
     "Invincible/Scénario 2 La cité pétrifiée/Chronologie.md",
     "Invincible/Scénario 2 La cité pétrifiée/Les lieux/3 – La Tour Grise.md",
     "Invincible/Bestiaire/Gargouille.md",
@@ -216,7 +217,6 @@
     "Invincible/Personnages/Gorgonzola.md",
     "Invincible/Personnages/Ea.md",
     "Invincible/Personnages/Konrot Elviadro.md",
-    "Annexe/Sortilèges/Niveau 3/Vol.md",
     "Invincible/Scénario 2 La cité pétrifiée/Recherches",
     "Invincible/Scénario 2 La cité pétrifiée/Les lieux",
     "Invincible/Images/epreuveNoir.png",
