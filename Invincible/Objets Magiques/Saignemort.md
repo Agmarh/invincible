@@ -1,4 +1,3 @@
-Très Rare
 Type : Arme
 Rareté : Très Rare
 Harmonisation : Non

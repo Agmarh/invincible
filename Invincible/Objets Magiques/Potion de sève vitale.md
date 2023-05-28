@@ -1,4 +1,3 @@
-![[image.png]]
 Type : Potion
 Rareté : Très rare
 Harmonisation : Non
