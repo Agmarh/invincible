@@ -259,6 +259,24 @@
         "active": false,
         "hidden": false,
         "friendly": false
+      },
+      {
+        "name": "Ecorché",
+        "initiative": 6,
+        "modifier": 2,
+        "hp": 22,
+        "currentMaxHP": 22,
+        "ac": 12,
+        "currentAC": 12,
+        "id": "ID_ea1b7adae94a",
+        "currentHP": 22,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "xp": 100,
+        "hidden": false,
+        "friendly": false,
+        "hit_dice": "3d8+9"
       }
     ],
     "state": false,
