@@ -5,5 +5,3 @@ Ils ont eu les larmes de bébé, les cendres de Selmak, le sang de Cockatrice.
 Dominia et Baphit sont morts.
 
 Ils ont pris des vivres à l'auberge.
-
-Ils sont au phare au petit matin avec le cadavre d'une cockatrice.
