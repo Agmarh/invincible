@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oblivion/Objets Magiques/Nocturno.md",
-                "mode": "source",
+                "file": "Oblivion/Objets Magiques/Sac sans fond.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oblivion/Objets Magiques/Nocturno.md",
+                "file": "Oblivion/Objets Magiques/Sac sans fond.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oblivion/Objets Magiques/Nocturno.md",
+                "file": "Oblivion/Objets Magiques/Sac sans fond.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oblivion/Objets Magiques/Nocturno.md"
+                "file": "Oblivion/Objets Magiques/Sac sans fond.md"
               }
             }
           }
@@ -191,6 +191,8 @@
   },
   "active": "909a70dae998ab74",
   "lastOpenFiles": [
+    "Oblivion/Objets Magiques/Perle de puissance.md",
+    "Oblivion/Objets Magiques/Nocturno.md",
     "Oblivion/Objets Magiques/Lunettes nocturnes.md",
     "Oblivion/Objets Magiques/Gantelets de puissance d'ogre.md",
     "Oblivion/Objets Magiques/Cape de protection.md",
@@ -215,8 +217,6 @@
     "Invincible/Objets Magiques/Anneau de marche sur l'eau.md",
     "Invincible/Objets Magiques/Arc vicieux.md",
     "Invincible/Scénario 2 La cité pétrifiée/ACTUELLEMENT J+5.md",
-    "Invincible/Scénario 2 La cité pétrifiée/Evénements/Les Survivants.md",
-    "Invincible/Scénario 2 La cité pétrifiée/Evénements/Les larmes de nouveau-né.md",
     "Invincible/Scénario 2 La cité pétrifiée/Recherches",
     "Invincible/Scénario 2 La cité pétrifiée/Les lieux",
     "Invincible/Images/epreuveNoir.png",
