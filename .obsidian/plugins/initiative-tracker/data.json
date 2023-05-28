@@ -186,7 +186,7 @@
       },
       {
         "name": "Gorgonzola",
-        "initiative": 9,
+        "initiative": 6,
         "modifier": 2,
         "hp": 67,
         "currentMaxHP": 67,
@@ -243,7 +243,7 @@
       },
       {
         "name": "Konrot",
-        "initiative": 3,
+        "initiative": 2,
         "modifier": 2,
         "hp": 44,
         "currentMaxHP": 44,
@@ -262,7 +262,7 @@
       },
       {
         "name": "Ecorché",
-        "initiative": 6,
+        "initiative": 7,
         "modifier": 2,
         "hp": 22,
         "currentMaxHP": 22,
