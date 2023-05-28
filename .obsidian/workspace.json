@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Invincible/Objets Magiques/Potion de sève vitale.md",
-                "mode": "preview",
+                "file": "Oblivion/Objets Magiques/Nocturno.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Invincible/Objets Magiques/Potion de sève vitale.md",
+                "file": "Oblivion/Objets Magiques/Nocturno.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Invincible/Objets Magiques/Potion de sève vitale.md",
+                "file": "Oblivion/Objets Magiques/Nocturno.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Invincible/Objets Magiques/Potion de sève vitale.md"
+                "file": "Oblivion/Objets Magiques/Nocturno.md"
               }
             }
           }
@@ -189,14 +189,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "efc7fbc9dabff410",
+  "active": "909a70dae998ab74",
   "lastOpenFiles": [
+    "Oblivion/Objets Magiques/Lunettes nocturnes.md",
+    "Oblivion/Objets Magiques/Gantelets de puissance d'ogre.md",
+    "Oblivion/Objets Magiques/Cape de protection.md",
+    "Oblivion/Objets Magiques/Bouclier animé.md",
+    "Oblivion/Objets Magiques/Boucle d'oreille de Mysdora.md",
+    "Oblivion/Objets Magiques/Bottes elfiques.md",
+    "Oblivion/Objets Magiques/Bâton de combat.md",
+    "Invincible/Objets Magiques/Potion de sève vitale.md",
     "Invincible/Objets Magiques/Baume revigorant.md",
     "Invincible/Objets Magiques/Tue-Mort.md",
     "Invincible/Objets Magiques/Tromperie.md",
     "Invincible/Objets Magiques/Sceau d'Urbius.md",
     "Invincible/Objets Magiques/Saignemort.md",
-    "Invincible/Objets Magiques/Potion de sève vitale.md",
     "Invincible/Objets Magiques/Mordante.md",
     "Invincible/Objets Magiques/Médaillon Porte-bonheur.md",
     "Invincible/Objets Magiques/Médaillon d'Oraxos.md",
@@ -210,13 +217,6 @@
     "Invincible/Scénario 2 La cité pétrifiée/ACTUELLEMENT J+5.md",
     "Invincible/Scénario 2 La cité pétrifiée/Evénements/Les Survivants.md",
     "Invincible/Scénario 2 La cité pétrifiée/Evénements/Les larmes de nouveau-né.md",
-    "Invincible/Scénario 2 La cité pétrifiée/Chronologie.md",
-    "Invincible/Scénario 2 La cité pétrifiée/Les lieux/3 – La Tour Grise.md",
-    "Invincible/Bestiaire/Gargouille.md",
-    "Invincible/Scénario 2 La cité pétrifiée/Evénements/Le sang de loup-garou.md",
-    "Invincible/Scénario 2 La cité pétrifiée/Personnage Loup-Garou.md",
-    "Invincible/Scénario 2 La cité pétrifiée/Recherches/Bibliothèque.md",
-    "Invincible/Personnages/Clovik Scénario 2.md",
     "Invincible/Scénario 2 La cité pétrifiée/Recherches",
     "Invincible/Scénario 2 La cité pétrifiée/Les lieux",
     "Invincible/Images/epreuveNoir.png",

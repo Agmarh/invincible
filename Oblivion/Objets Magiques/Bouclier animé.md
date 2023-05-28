@@ -1,4 +1,3 @@
-![[image.png]]
 Type : Armure (Bouclier)
 Rareté : Très rare
 Harmonisation : Oui

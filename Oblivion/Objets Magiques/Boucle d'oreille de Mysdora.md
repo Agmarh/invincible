@@ -1,4 +1,3 @@
-![[image.png]]
 Type : Objet merveilleux
 Rareté : Rare
 Harmonisation : Oui

@@ -1,4 +1,3 @@
-![[image.png]]
 Type : Bâton
 Rareté : Très rare
 Harmonisation : Oui
