@@ -1,4 +1,4 @@
-Ils sont au courant pour la nature de loup garou de Clovik.
+Clovik a récupéré sa nature Lycanthropique.
 
 Ils ont eu les larmes de bébé, les cendres de Selmak, le sang de Cockatrice.
 
