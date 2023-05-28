@@ -87,6 +87,7 @@
       {
         "id": "e70e28c56220440f",
         "type": "tabs",
+        "dimension": 60.186513629842175,
         "children": [
           {
             "id": "0cb35b8790d467e5",
@@ -160,6 +161,7 @@
       {
         "id": "7ab6d48fd6bde094",
         "type": "tabs",
+        "dimension": 39.81348637015782,
         "children": [
           {
             "id": "ae70a27d035ef81e",
@@ -187,7 +189,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "909a70dae998ab74",
+  "active": "f313958ee2e0b55c",
   "lastOpenFiles": [
     "Invincible/Scénario 2 La cité pétrifiée/Evénements/Les larmes de nouveau-né.md",
     "Invincible/Scénario 2 La cité pétrifiée/ACTUELLEMENT J+5.md",
