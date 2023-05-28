@@ -167,7 +167,7 @@
     "creatures": [
       {
         "name": "Piotr",
-        "initiative": 15,
+        "initiative": 7,
         "modifier": -1,
         "hp": 51,
         "currentMaxHP": 51,
@@ -205,7 +205,7 @@
       },
       {
         "name": "Era",
-        "initiative": 15,
+        "initiative": 0,
         "modifier": 5,
         "hp": 52,
         "currentMaxHP": 52,
@@ -243,7 +243,7 @@
       },
       {
         "name": "Konrot",
-        "initiative": 16,
+        "initiative": 3,
         "modifier": 2,
         "hp": 44,
         "currentMaxHP": 44,
