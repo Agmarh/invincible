@@ -1,6 +1,6 @@
 ---
-type: 
-niveau: 
+type: rare
+niveau: 2
 incantation: 
 distance: 
 composantes: 
