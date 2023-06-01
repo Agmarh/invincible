@@ -23,3 +23,4 @@ Toutes les 24 h, la victime doit réussir un <font style="color:green">jet de sa
 - Un sort de guérison bloque l’évolution de la maladie pendant 1d3 jours. Ceci neutralise les cauchemars, les hallucinations, le fait d’être « secoué », et la gêne à la lumière. Les éventuelles modifications physiques persistent. Après ce sursis, la gangrêve reprend au même stade.
 - Un souhait rétrogradent immédiatement la maladie d’un stade (le stade 1 étant le minimum), et la bloquent pendant 1d6+1 jours. La gangrêve récidive ensuite. 
 - Pour l’instant, l’unique moyen de guérir la gangrêve est l’incantation d’un sort de souhait lancé par un personnage de niveau 20. Pour contrer l’Écorcheuse, il faut au moins être du même niveau qu’elle.
+[[Oblivion 1 Le sang d'Oblivion.pdf#page=52]]
