@@ -15,7 +15,7 @@ Dans le cas où les PJ choisiraient d’échapper à la justice, laissez-les fai
 
 Notez que si l’action s’est déroulée dans Ikhâr, ces tracasseries seront nettement amoindries, mais la réputation des PJ en sortira largement ternie.
 
-Bestiaire : [[Randel Kane]], [[Milicien]], Chevalier-Dragon
+Bestiaire : [[Randel Kane]], [[Milicien]], [[Chevalier-Dragon]]
 
 # L'examen du corps
 Le corps de la guerrière repose dans le temple le plus proche, où un prêtre lui administre les derniers sacrements. Pour les PJ, il serait judicieux de l’examiner plus avant. 
