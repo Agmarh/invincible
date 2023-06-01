@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Gangrêve.md",
+                "file": "Oblivion/Bestiaire/Lézard géant.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Gangrêve.md",
+                "file": "Oblivion/Bestiaire/Lézard géant.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Gangrêve.md",
+                "file": "Oblivion/Bestiaire/Lézard géant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Gangrêve.md"
+                "file": "Oblivion/Bestiaire/Lézard géant.md"
               }
             }
           }
@@ -191,6 +191,7 @@
   },
   "active": "909a70dae998ab74",
   "lastOpenFiles": [
+    "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Gangrêve.md",
     "Oblivion/PDF/Oblivion 1 Le sang d'Oblivion.pdf",
     "Oblivion/PDF/Le Cauchemar.pdf",
     "Oblivion/Images/chevalier-dragon.jpg",
@@ -236,7 +237,6 @@
     "Invincible/Images",
     "Invincible/Personnages",
     "Invincible/Objets Magiques",
-    "Invincible/Bestiaire",
     "Oblivion/PNJ/Sans titre.canvas"
   ]
 }
