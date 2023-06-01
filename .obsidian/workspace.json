@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Invincible/Scénario 2 La cité pétrifiée/Infos diverses.md",
+                "file": "Invincible/Scénario 2 La cité pétrifiée/Chronologie.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e1bd5add4fba8936",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Invincible/Objets Magiques/Boutefeu.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Invincible/Scénario 2 La cité pétrifiée/Infos diverses.md",
+                "file": "Invincible/Objets Magiques/Boutefeu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -123,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Invincible/Scénario 2 La cité pétrifiée/Infos diverses.md",
+                "file": "Invincible/Objets Magiques/Boutefeu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Invincible/Scénario 2 La cité pétrifiée/Infos diverses.md"
+                "file": "Invincible/Objets Magiques/Boutefeu.md"
               }
             }
           }
@@ -189,8 +203,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "909a70dae998ab74",
+  "active": "e1bd5add4fba8936",
   "lastOpenFiles": [
+    "Invincible/Objets Magiques/Bâton du python.md",
+    "Invincible/Objets Magiques/Baume revigorant.md",
+    "Invincible/Objets Magiques/Anneau de marche sur l'eau.md",
+    "Invincible/Scénario 2 La cité pétrifiée/Evénements/Le retour des pêcheurs.md",
+    "Invincible/Scénario 2 La cité pétrifiée/Chronologie.md",
+    "Invincible/Scénario 2 La cité pétrifiée/Infos diverses.md",
     "Invincible/Scénario 2 La cité pétrifiée/ACTUELLEMENT J+5.md",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/2 - Sur la route de la Cité Sainte.md",
     "Oblivion/Objets Magiques/Boucle d'oreille de Mysdora.md",
@@ -214,12 +234,6 @@
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Introduction.md",
     "Oblivion/L'Empire.md",
     "Oblivion/ACTUELLEMENT.md",
-    "Oblivion/Scénario 2 Les enfants d'Oblivion/L'Antre du Nécromant.md",
-    "Oblivion/Scénario 2 Les enfants d'Oblivion/Introduction.md",
-    "Oblivion/Bestiaire/Ghûraghasta.md",
-    "Invincible/Scénario 2 La cité pétrifiée/Chronologie.md",
-    "Oblivion/Objets Magiques/Sac sans fond.md",
-    "Oblivion/Objets Magiques/Perle de puissance.md",
     "Invincible/Scénario 2 La cité pétrifiée/Recherches",
     "Invincible/Scénario 2 La cité pétrifiée/Les lieux",
     "Invincible/Images/epreuveNoir.png",
