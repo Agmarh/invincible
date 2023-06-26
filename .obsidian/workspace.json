@@ -32,9 +32,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "49c146c72535e5f0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.5"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -203,7 +213,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e1bd5add4fba8936",
+  "active": "49c146c72535e5f0",
   "lastOpenFiles": [
     "Invincible/Objets Magiques/Bâton du python.md",
     "Invincible/Objets Magiques/Baume revigorant.md",
