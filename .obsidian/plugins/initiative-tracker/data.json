@@ -167,7 +167,7 @@
     "creatures": [
       {
         "name": "Piotr",
-        "initiative": 6,
+        "initiative": 20,
         "modifier": -1,
         "hp": 51,
         "currentMaxHP": 51,
@@ -186,7 +186,7 @@
       },
       {
         "name": "Gorgonzola",
-        "initiative": 18,
+        "initiative": 2,
         "modifier": 2,
         "hp": 67,
         "currentMaxHP": 67,
@@ -205,7 +205,7 @@
       },
       {
         "name": "Era",
-        "initiative": 6,
+        "initiative": 19,
         "modifier": 5,
         "hp": 52,
         "currentMaxHP": 52,
@@ -224,7 +224,7 @@
       },
       {
         "name": "Ea",
-        "initiative": 15,
+        "initiative": 1,
         "modifier": 2,
         "hp": 42,
         "currentMaxHP": 42,
@@ -243,7 +243,7 @@
       },
       {
         "name": "Konrot",
-        "initiative": 20,
+        "initiative": 19,
         "modifier": 2,
         "hp": 44,
         "currentMaxHP": 44,
@@ -262,14 +262,14 @@
       },
       {
         "name": "Servantès Di Paleddo",
-        "initiative": 18,
+        "initiative": 11,
         "modifier": 3,
-        "hp": 58,
-        "currentMaxHP": 58,
+        "hp": 56,
+        "currentMaxHP": 56,
         "ac": "15 (cuir clouté)",
         "currentAC": "15 (cuir clouté)",
-        "id": "ID_2a282a7b4998",
-        "currentHP": 58,
+        "id": "ID_0afbd898d928",
+        "currentHP": 56,
         "tempHP": 0,
         "status": [],
         "enabled": true,
@@ -278,30 +278,11 @@
         "hidden": false,
         "friendly": false,
         "hit_dice": "9d8+18"
-      },
-      {
-        "name": "Ecorché",
-        "initiative": 2,
-        "modifier": 2,
-        "hp": 22,
-        "currentMaxHP": 22,
-        "ac": 12,
-        "currentAC": 12,
-        "id": "ID_db68cb091afb",
-        "currentHP": 22,
-        "tempHP": 0,
-        "status": [],
-        "enabled": true,
-        "xp": 100,
-        "active": false,
-        "hidden": false,
-        "friendly": false,
-        "hit_dice": "3d8+9"
       }
     ],
     "state": false,
     "name": null,
-    "round": 3,
+    "round": 1,
     "logFile": ""
   },
   "condense": false,
