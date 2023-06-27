@@ -167,7 +167,7 @@
     "creatures": [
       {
         "name": "Piotr",
-        "initiative": 20,
+        "initiative": 9,
         "modifier": -1,
         "hp": 51,
         "currentMaxHP": 51,
@@ -186,7 +186,7 @@
       },
       {
         "name": "Gorgonzola",
-        "initiative": 2,
+        "initiative": 19,
         "modifier": 2,
         "hp": 67,
         "currentMaxHP": 67,
@@ -205,7 +205,7 @@
       },
       {
         "name": "Era",
-        "initiative": 19,
+        "initiative": 4,
         "modifier": 5,
         "hp": 52,
         "currentMaxHP": 52,
@@ -224,7 +224,7 @@
       },
       {
         "name": "Ea",
-        "initiative": 1,
+        "initiative": 17,
         "modifier": 2,
         "hp": 42,
         "currentMaxHP": 42,
@@ -243,7 +243,7 @@
       },
       {
         "name": "Konrot",
-        "initiative": 19,
+        "initiative": 3,
         "modifier": 2,
         "hp": 44,
         "currentMaxHP": 44,
@@ -262,7 +262,7 @@
       },
       {
         "name": "Servantès Di Paleddo",
-        "initiative": 11,
+        "initiative": 7,
         "modifier": 3,
         "hp": 56,
         "currentMaxHP": 56,
@@ -281,7 +281,7 @@
       },
       {
         "name": "Ecorché Troll",
-        "initiative": 4,
+        "initiative": 18,
         "modifier": 0,
         "hp": 85,
         "currentMaxHP": 85,
@@ -293,13 +293,14 @@
         "status": [],
         "enabled": true,
         "xp": 1100,
+        "active": false,
         "hidden": false,
         "friendly": false,
         "hit_dice": "9d10+36"
       },
       {
         "name": "Ecorché",
-        "initiative": 1,
+        "initiative": 10,
         "modifier": 2,
         "hp": 22,
         "currentMaxHP": 22,
@@ -318,7 +319,7 @@
       },
       {
         "name": "Ecorché",
-        "initiative": 1,
+        "initiative": 2,
         "modifier": 2,
         "hp": 22,
         "currentMaxHP": 22,
@@ -337,7 +338,7 @@
       },
       {
         "name": "Ecorché",
-        "initiative": 1,
+        "initiative": 8,
         "modifier": 2,
         "hp": 22,
         "currentMaxHP": 22,
@@ -356,7 +357,7 @@
       },
       {
         "name": "Ecorché",
-        "initiative": 1,
+        "initiative": 5,
         "modifier": 2,
         "hp": 22,
         "currentMaxHP": 22,
@@ -375,7 +376,7 @@
       },
       {
         "name": "Ecorché",
-        "initiative": 1,
+        "initiative": 10,
         "modifier": 2,
         "hp": 22,
         "currentMaxHP": 22,
@@ -394,7 +395,7 @@
       },
       {
         "name": "Ecorché",
-        "initiative": 1,
+        "initiative": 19,
         "modifier": 2,
         "hp": 22,
         "currentMaxHP": 22,
