@@ -193,7 +193,7 @@
         "ac": "14",
         "currentAC": "14",
         "id": "ID_da88782be908",
-        "currentHP": 67,
+        "currentHP": 58,
         "tempHP": 0,
         "status": [],
         "enabled": true,
@@ -293,7 +293,7 @@
         "status": [],
         "enabled": true,
         "xp": 1100,
-        "active": false,
+        "active": true,
         "hidden": false,
         "friendly": false,
         "hit_dice": "9d10+36"
@@ -407,7 +407,7 @@
         "status": [],
         "enabled": true,
         "xp": 100,
-        "active": true,
+        "active": false,
         "hidden": false,
         "friendly": false,
         "hit_dice": "3d8+9"
