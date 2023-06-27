@@ -280,27 +280,6 @@
         "hit_dice": "9d8+18"
       },
       {
-        "name": "Ecorché Troll",
-        "initiative": 18,
-        "modifier": 0,
-        "hp": 85,
-        "currentMaxHP": 85,
-        "ac": "15 (armure naturelle)",
-        "currentAC": "15 (armure naturelle)",
-        "id": "ID_9859aae868f8",
-        "currentHP": 0,
-        "tempHP": 0,
-        "status": [
-          "Unconscious"
-        ],
-        "enabled": true,
-        "xp": 1100,
-        "active": false,
-        "hidden": false,
-        "friendly": false,
-        "hit_dice": "9d10+36"
-      },
-      {
         "name": "Ecorché",
         "initiative": 8,
         "modifier": 2,
@@ -328,9 +307,11 @@
         "ac": 12,
         "currentAC": 12,
         "id": "ID_7969191bd808",
-        "currentHP": 11,
+        "currentHP": 0,
         "tempHP": 0,
-        "status": [],
+        "status": [
+          "Unconscious"
+        ],
         "enabled": true,
         "xp": 100,
         "active": false,
