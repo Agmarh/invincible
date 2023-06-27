@@ -274,7 +274,7 @@
         "status": [],
         "enabled": true,
         "xp": 700,
-        "active": true,
+        "active": false,
         "hidden": false,
         "friendly": false,
         "hit_dice": "9d8+18"
@@ -314,7 +314,7 @@
         "status": [],
         "enabled": true,
         "xp": 100,
-        "active": false,
+        "active": true,
         "hidden": false,
         "friendly": false,
         "hit_dice": "3d8+9"
