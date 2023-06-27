@@ -357,7 +357,7 @@
       },
       {
         "name": "Ecorché",
-        "initiative": 5,
+        "initiative": 4,
         "modifier": 2,
         "hp": 22,
         "currentMaxHP": 22,
@@ -407,13 +407,13 @@
         "status": [],
         "enabled": true,
         "xp": 100,
-        "active": false,
+        "active": true,
         "hidden": false,
         "friendly": false,
         "hit_dice": "3d8+9"
       }
     ],
-    "state": false,
+    "state": true,
     "name": null,
     "round": 1,
     "logFile": ""
