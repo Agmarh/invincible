@@ -8,4 +8,4 @@ Ils ont pris des vivres à l'auberge.
 
 Ils ont sauvé Servantès qui est parti avec les survivants.
 
-Ils veulent nettoyer la ville de la plupart des morts-vivants (ça va pas marcher mais bon)
+Ils veulent nettoyer la ville de la plupart des morts-vivants (ça va pas marcher mais bon).
