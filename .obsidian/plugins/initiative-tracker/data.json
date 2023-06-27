@@ -309,7 +309,7 @@
         "ac": 12,
         "currentAC": 12,
         "id": "ID_49fb5a783a8a",
-        "currentHP": 4,
+        "currentHP": 1,
         "tempHP": 0,
         "status": [],
         "enabled": true,
@@ -349,9 +349,11 @@
         "ac": 12,
         "currentAC": 12,
         "id": "ID_dbfa2a39f9fa",
-        "currentHP": 1,
+        "currentHP": 0,
         "tempHP": 0,
-        "status": [],
+        "status": [
+          "Unconscious"
+        ],
         "enabled": true,
         "xp": 100,
         "active": false,
