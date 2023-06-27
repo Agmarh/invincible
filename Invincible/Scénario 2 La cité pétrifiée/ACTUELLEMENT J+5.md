@@ -6,4 +6,6 @@ Dominia et Baphit sont morts.
 
 Ils ont pris des vivres à l'auberge.
 
-Ils ont sauvé Servantès et s'apprêtent à nettoyer le port. 
+Ils ont sauvé Servantès qui est parti avec les survivants.
+
+Ils veulent nettoyer la ville de la plupart des morts-vivants (ça va pas marcher mais bon)
