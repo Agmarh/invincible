@@ -54,7 +54,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Invincible/Objets Magiques/Mordante.md",
+                "file": "Invincible/Personnages/Clovik Scénario 2.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Invincible/Objets Magiques/Mordante.md",
+                "file": "Invincible/Personnages/Clovik Scénario 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Invincible/Objets Magiques/Mordante.md",
+                "file": "Invincible/Personnages/Clovik Scénario 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Invincible/Objets Magiques/Mordante.md"
+                "file": "Invincible/Personnages/Clovik Scénario 2.md"
               }
             }
           }
@@ -233,6 +233,7 @@
   },
   "active": "4716ff4d3fc4203b",
   "lastOpenFiles": [
+    "Invincible/Objets Magiques/Mordante.md",
     "Invincible/Bestiaire/Hector de Lycanis.md",
     "Invincible/Scénario 2 La cité pétrifiée/ACTUELLEMENT J+7.md",
     "Invincible/Scénario 2 La cité pétrifiée/Chronologie.md",
@@ -258,7 +259,6 @@
     "Template/PJ.md",
     "Template/Objet.md",
     "Oblivion/Magie.md",
-    "Oblivion/Bestiaire/Lézard géant.md",
     "Oblivion/PDF/Oblivion 1 Le sang d'Oblivion.pdf",
     "Oblivion/PDF/Le Cauchemar.pdf",
     "Oblivion/Images/chevalier-dragon.jpg",
