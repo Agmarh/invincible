@@ -23,25 +23,12 @@
             }
           },
           {
-            "id": "35b0c193c7206c3f",
+            "id": "4a81228dfebd47fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Invincible/Scénario 2 La cité pétrifiée/Infos diverses.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ade60385c3df20c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Invincible/Scénario 2 La cité pétrifiée/Infos diverses.md",
+                "file": "Invincible/Scénario 2 La cité pétrifiée/Chronologie.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +36,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -140,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Invincible/Scénario 2 La cité pétrifiée/Infos diverses.md",
+                "file": "Invincible/Scénario 2 La cité pétrifiée/Chronologie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -152,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Invincible/Scénario 2 La cité pétrifiée/Infos diverses.md",
+                "file": "Invincible/Scénario 2 La cité pétrifiée/Chronologie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Invincible/Scénario 2 La cité pétrifiée/Infos diverses.md"
+                "file": "Invincible/Scénario 2 La cité pétrifiée/Chronologie.md"
               }
             }
           }
@@ -218,10 +205,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ade60385c3df20c0",
+  "active": "4a81228dfebd47fd",
   "lastOpenFiles": [
-    "Invincible/Scénario 2 La cité pétrifiée/ACTUELLEMENT J+5.md",
     "Invincible/Scénario 2 La cité pétrifiée/Infos diverses.md",
+    "Invincible/Scénario 2 La cité pétrifiée/ACTUELLEMENT J+5.md",
     "Invincible/Scénario 2 La cité pétrifiée/Chronologie.md",
     "Invincible/Scénario 2 La cité pétrifiée/Evénements/Les Survivants.md",
     "Invincible/Objets Magiques/Médaillon Porte-bonheur.md",
