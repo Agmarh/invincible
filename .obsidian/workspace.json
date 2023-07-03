@@ -47,8 +47,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4716ff4d3fc4203b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Invincible/Scénario 2 La cité pétrifiée/ACTUELLEMENT J+6.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -217,17 +231,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "278c6fa07fde8a34",
+  "active": "4716ff4d3fc4203b",
   "lastOpenFiles": [
-    "Invincible/Bestiaire/Hector de Lycanis.md",
+    "Invincible/Scénario 2 La cité pétrifiée/Chronologie.md",
     "Invincible/Scénario 2 La cité pétrifiée/Personnage Loup-Garou.md",
+    "Invincible/Scénario 2 La cité pétrifiée/Evénements/Le sang de loup-garou.md",
     "Invincible/Scénario 2 La cité pétrifiée/ACTUELLEMENT J+6.md",
+    "Invincible/Bestiaire/Hector de Lycanis.md",
     "Invincible/Scénario 2 La cité pétrifiée/Recherches/Bibliothèque.md",
     "Invincible/Scénario 2 La cité pétrifiée/Evénements/Mission de Lycanis.md",
     "Invincible/Scénario 2 La cité pétrifiée/Infos diverses.md",
     "Invincible/Bestiaire/Ecorché.md",
     "Invincible/Scénario 2 La cité pétrifiée/Les lieux/Paleseaux.md",
-    "Invincible/Scénario 2 La cité pétrifiée/Chronologie.md",
     "Invincible/Objets Magiques/Médaillon d'Oraxos.md",
     "Invincible/Scénario 2 La cité pétrifiée/Evénements/Les Survivants.md",
     "Invincible/Objets Magiques/Médaillon Porte-bonheur.md",
@@ -244,7 +259,6 @@
     "Template/Objet.md",
     "Oblivion/Magie.md",
     "Oblivion/Bestiaire/Lézard géant.md",
-    "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Gangrêve.md",
     "Oblivion/PDF/Oblivion 1 Le sang d'Oblivion.pdf",
     "Oblivion/PDF/Le Cauchemar.pdf",
     "Oblivion/Images/chevalier-dragon.jpg",
