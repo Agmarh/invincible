@@ -28,8 +28,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Invincible/Scénario 2 La cité pétrifiée/Infos diverses.md",
-                "mode": "source",
+                "file": "Invincible/Bestiaire/Ecorché.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Invincible/Scénario 2 La cité pétrifiée/Infos diverses.md",
+                "file": "Invincible/Bestiaire/Ecorché.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Invincible/Scénario 2 La cité pétrifiée/Infos diverses.md",
+                "file": "Invincible/Bestiaire/Ecorché.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Invincible/Scénario 2 La cité pétrifiée/Infos diverses.md"
+                "file": "Invincible/Bestiaire/Ecorché.md"
               }
             }
           }
@@ -207,8 +207,8 @@
   },
   "active": "4a81228dfebd47fd",
   "lastOpenFiles": [
-    "Invincible/Scénario 2 La cité pétrifiée/Les lieux/Paleseaux.md",
     "Invincible/Scénario 2 La cité pétrifiée/Infos diverses.md",
+    "Invincible/Scénario 2 La cité pétrifiée/Les lieux/Paleseaux.md",
     "Invincible/Scénario 2 La cité pétrifiée/Chronologie.md",
     "Invincible/Objets Magiques/Médaillon d'Oraxos.md",
     "Invincible/Scénario 2 La cité pétrifiée/ACTUELLEMENT J+5.md",
