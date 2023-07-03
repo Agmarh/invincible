@@ -21,8 +21,35 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "7a2f1c5716ea263f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Invincible/Scénario 2 La cité pétrifiée/Personnage Loup-Garou.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "adb03c971c375f16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Invincible/Bestiaire/Hector de Lycanis.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -113,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Invincible/Scénario 2 La cité pétrifiée/ACTUELLEMENT J+6.md",
+                "file": "Invincible/Bestiaire/Hector de Lycanis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Invincible/Scénario 2 La cité pétrifiée/ACTUELLEMENT J+6.md",
+                "file": "Invincible/Bestiaire/Hector de Lycanis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Invincible/Scénario 2 La cité pétrifiée/ACTUELLEMENT J+6.md"
+                "file": "Invincible/Bestiaire/Hector de Lycanis.md"
               }
             }
           }
@@ -191,10 +218,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "278c6fa07fde8a34",
+  "active": "adb03c971c375f16",
   "lastOpenFiles": [
-    "Invincible/Scénario 2 La cité pétrifiée/Evénements/Mission de Lycanis.md",
     "Invincible/Scénario 2 La cité pétrifiée/ACTUELLEMENT J+6.md",
+    "Invincible/Scénario 2 La cité pétrifiée/Personnage Loup-Garou.md",
+    "Invincible/Scénario 2 La cité pétrifiée/Recherches/Bibliothèque.md",
+    "Invincible/Scénario 2 La cité pétrifiée/Evénements/Mission de Lycanis.md",
     "Invincible/Scénario 2 La cité pétrifiée/Infos diverses.md",
     "Invincible/Bestiaire/Ecorché.md",
     "Invincible/Scénario 2 La cité pétrifiée/Les lieux/Paleseaux.md",
@@ -220,8 +249,6 @@
     "Oblivion/PDF/Le Cauchemar.pdf",
     "Oblivion/Images/chevalier-dragon.jpg",
     "Oblivion/Bestiaire/Chef de meute Gobelin.md",
-    "Annexe/Sortilèges/Niveau 1/Amitié avec les animaux.md",
-    "Annexe/Règles/Empoisonné.md",
     "Invincible/Scénario 2 La cité pétrifiée/Recherches",
     "Invincible/Scénario 2 La cité pétrifiée/Les lieux",
     "Invincible/Images/epreuveNoir.png",
