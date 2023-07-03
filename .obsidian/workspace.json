@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Invincible/Scénario 2 La cité pétrifiée/ACTUELLEMENT J+6.md",
+                "file": "Invincible/Scénario 2 La cité pétrifiée/ACTUELLEMENT J+7.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -54,8 +54,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Invincible/Scénario 2 La cité pétrifiée/ACTUELLEMENT J+6.md",
-                "mode": "source",
+                "file": "Invincible/Bestiaire/Hector de Lycanis.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Invincible/Scénario 2 La cité pétrifiée/ACTUELLEMENT J+6.md",
+                "file": "Invincible/Bestiaire/Hector de Lycanis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Invincible/Scénario 2 La cité pétrifiée/ACTUELLEMENT J+6.md",
+                "file": "Invincible/Bestiaire/Hector de Lycanis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Invincible/Scénario 2 La cité pétrifiée/ACTUELLEMENT J+6.md"
+                "file": "Invincible/Bestiaire/Hector de Lycanis.md"
               }
             }
           }
@@ -233,10 +233,10 @@
   },
   "active": "4716ff4d3fc4203b",
   "lastOpenFiles": [
+    "Invincible/Scénario 2 La cité pétrifiée/ACTUELLEMENT J+7.md",
     "Invincible/Scénario 2 La cité pétrifiée/Chronologie.md",
     "Invincible/Scénario 2 La cité pétrifiée/Personnage Loup-Garou.md",
     "Invincible/Scénario 2 La cité pétrifiée/Evénements/Le sang de loup-garou.md",
-    "Invincible/Scénario 2 La cité pétrifiée/ACTUELLEMENT J+6.md",
     "Invincible/Bestiaire/Hector de Lycanis.md",
     "Invincible/Scénario 2 La cité pétrifiée/Recherches/Bibliothèque.md",
     "Invincible/Scénario 2 La cité pétrifiée/Evénements/Mission de Lycanis.md",
