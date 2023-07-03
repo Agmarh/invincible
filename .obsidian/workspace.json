@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "723d19aa5e63b303",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Invincible/Scénario 2 La cité pétrifiée/ACTUELLEMENT J+6.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,7 +191,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "723d19aa5e63b303",
+  "active": "278c6fa07fde8a34",
   "lastOpenFiles": [
     "Invincible/Scénario 2 La cité pétrifiée/Evénements/Mission de Lycanis.md",
     "Invincible/Scénario 2 La cité pétrifiée/ACTUELLEMENT J+6.md",
