@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "4a81228dfebd47fd",
+            "id": "723d19aa5e63b303",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Invincible/Bestiaire/Ecorché.md",
+                "file": "Invincible/Scénario 2 La cité pétrifiée/Infos diverses.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Invincible/Bestiaire/Ecorché.md",
+                "file": "Invincible/Scénario 2 La cité pétrifiée/Infos diverses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Invincible/Bestiaire/Ecorché.md",
+                "file": "Invincible/Scénario 2 La cité pétrifiée/Infos diverses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Invincible/Bestiaire/Ecorché.md"
+                "file": "Invincible/Scénario 2 La cité pétrifiée/Infos diverses.md"
               }
             }
           }
@@ -205,13 +205,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4a81228dfebd47fd",
+  "active": "723d19aa5e63b303",
   "lastOpenFiles": [
+    "Invincible/Scénario 2 La cité pétrifiée/ACTUELLEMENT J+5.md",
+    "Invincible/Bestiaire/Ecorché.md",
     "Invincible/Scénario 2 La cité pétrifiée/Infos diverses.md",
     "Invincible/Scénario 2 La cité pétrifiée/Les lieux/Paleseaux.md",
     "Invincible/Scénario 2 La cité pétrifiée/Chronologie.md",
     "Invincible/Objets Magiques/Médaillon d'Oraxos.md",
-    "Invincible/Scénario 2 La cité pétrifiée/ACTUELLEMENT J+5.md",
     "Invincible/Scénario 2 La cité pétrifiée/Evénements/Les Survivants.md",
     "Invincible/Objets Magiques/Médaillon Porte-bonheur.md",
     "Invincible/Scénario 2 La cité pétrifiée/Evénements/Mission de Lycanis.md",
@@ -235,7 +236,6 @@
     "Oblivion/Bestiaire/Chef de meute Gobelin.md",
     "Annexe/Sortilèges/Niveau 1/Amitié avec les animaux.md",
     "Annexe/Règles/Empoisonné.md",
-    "Annexe/Règles/Combat sous-marin.md",
     "Invincible/Scénario 2 La cité pétrifiée/Recherches",
     "Invincible/Scénario 2 La cité pétrifiée/Les lieux",
     "Invincible/Images/epreuveNoir.png",
