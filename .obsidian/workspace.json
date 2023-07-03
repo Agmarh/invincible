@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Invincible/Scénario 2 La cité pétrifiée/Evénements/Mission de Lycanis.md",
+                "file": "Invincible/Scénario 2 La cité pétrifiée/ACTUELLEMENT J+6.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Invincible/Scénario 2 La cité pétrifiée/Evénements/Mission de Lycanis.md",
+                "file": "Invincible/Scénario 2 La cité pétrifiée/ACTUELLEMENT J+6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Invincible/Scénario 2 La cité pétrifiée/Evénements/Mission de Lycanis.md",
+                "file": "Invincible/Scénario 2 La cité pétrifiée/ACTUELLEMENT J+6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Invincible/Scénario 2 La cité pétrifiée/Evénements/Mission de Lycanis.md"
+                "file": "Invincible/Scénario 2 La cité pétrifiée/ACTUELLEMENT J+6.md"
               }
             }
           }
@@ -205,8 +205,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "723d19aa5e63b303",
+  "active": "efc7fbc9dabff410",
   "lastOpenFiles": [
+    "Invincible/Scénario 2 La cité pétrifiée/Evénements/Mission de Lycanis.md",
     "Invincible/Scénario 2 La cité pétrifiée/ACTUELLEMENT J+6.md",
     "Invincible/Scénario 2 La cité pétrifiée/Infos diverses.md",
     "Invincible/Bestiaire/Ecorché.md",
@@ -215,7 +216,6 @@
     "Invincible/Objets Magiques/Médaillon d'Oraxos.md",
     "Invincible/Scénario 2 La cité pétrifiée/Evénements/Les Survivants.md",
     "Invincible/Objets Magiques/Médaillon Porte-bonheur.md",
-    "Invincible/Scénario 2 La cité pétrifiée/Evénements/Mission de Lycanis.md",
     "Invincible/Objets Magiques/Boutefeu.md",
     "Invincible/Objets Magiques/Bâton du python.md",
     "Invincible/Objets Magiques/Baume revigorant.md",
