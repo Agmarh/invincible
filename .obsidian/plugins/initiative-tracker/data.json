@@ -293,7 +293,7 @@
         "status": [],
         "enabled": true,
         "xp": 100,
-        "active": false,
+        "active": true,
         "hidden": false,
         "friendly": false,
         "hit_dice": "3d8+9"
@@ -345,12 +345,14 @@
         "ac": 12,
         "currentAC": 12,
         "id": "ID_6afaaba85a9b",
-        "currentHP": 6,
+        "currentHP": 0,
         "tempHP": 0,
-        "status": [],
+        "status": [
+          "Unconscious"
+        ],
         "enabled": true,
         "xp": 100,
-        "active": true,
+        "active": false,
         "hidden": false,
         "friendly": false,
         "hit_dice": "3d8+9"
