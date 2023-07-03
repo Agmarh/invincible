@@ -167,7 +167,7 @@
     "creatures": [
       {
         "name": "Piotr",
-        "initiative": 19,
+        "initiative": 16,
         "modifier": -1,
         "hp": 51,
         "currentMaxHP": 51,
@@ -186,7 +186,7 @@
       },
       {
         "name": "Gorgonzola",
-        "initiative": 12,
+        "initiative": 16,
         "modifier": 2,
         "hp": 67,
         "currentMaxHP": 67,
@@ -205,7 +205,7 @@
       },
       {
         "name": "Era",
-        "initiative": 1,
+        "initiative": 2,
         "modifier": 5,
         "hp": 52,
         "currentMaxHP": 52,
@@ -224,7 +224,7 @@
       },
       {
         "name": "Ea",
-        "initiative": 14,
+        "initiative": 19,
         "modifier": 2,
         "hp": 42,
         "currentMaxHP": 42,
@@ -243,7 +243,7 @@
       },
       {
         "name": "Konrot",
-        "initiative": 10,
+        "initiative": 17,
         "modifier": 2,
         "hp": 44,
         "currentMaxHP": 44,
@@ -281,7 +281,7 @@
       },
       {
         "name": "Ecorché",
-        "initiative": 5,
+        "initiative": 6,
         "modifier": 2,
         "hp": 22,
         "currentMaxHP": 22,
