@@ -167,7 +167,7 @@
     "creatures": [
       {
         "name": "Piotr",
-        "initiative": 18,
+        "initiative": 14,
         "modifier": -1,
         "hp": 51,
         "currentMaxHP": 51,
@@ -186,7 +186,7 @@
       },
       {
         "name": "Gorgonzola",
-        "initiative": 3,
+        "initiative": 8,
         "modifier": 2,
         "hp": 67,
         "currentMaxHP": 67,
@@ -205,7 +205,7 @@
       },
       {
         "name": "Era",
-        "initiative": 20,
+        "initiative": 1,
         "modifier": 5,
         "hp": 52,
         "currentMaxHP": 52,
@@ -243,7 +243,7 @@
       },
       {
         "name": "Konrot",
-        "initiative": 5,
+        "initiative": 11,
         "modifier": 2,
         "hp": 44,
         "currentMaxHP": 44,
@@ -259,25 +259,6 @@
         "active": false,
         "hidden": false,
         "friendly": false
-      },
-      {
-        "name": "Ecorché",
-        "initiative": 13,
-        "modifier": 0,
-        "hp": 22,
-        "currentMaxHP": 22,
-        "ac": 12,
-        "currentAC": 12,
-        "id": "ID_7a4b7a292aca",
-        "currentHP": 6,
-        "tempHP": 0,
-        "status": [],
-        "enabled": true,
-        "xp": 100,
-        "active": false,
-        "hidden": false,
-        "friendly": false,
-        "hit_dice": "3d8+9"
       }
     ],
     "state": false,
