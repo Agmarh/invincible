@@ -30,9 +30,9 @@ traits:
   - name: Résistance à la magie
     desc: Bâal obtient un avantage lors des jets de sauvegarde contre les sorts et autres effets magiques.
   - name: Vue du diable
-    desc: <trait-description>
+    desc: Les ténèbres magiques ne bloquent pas la vision dans le noir de Bâal.
   - name: Pouvoirs du ravageur
-    desc: <trait-description>
+    desc: Bâal peut utiliser les sorts suivants à leur niveau minimal : [[Soin des blessures]], [[Blessure]], [[Détection du mal et du bien]], [[Détection de la magie]], [[Détection des pensées]], [[Voir l'invisible]], [[Compréhension des langues]]. Il peut lancer chacun de ces sorts une fois entre chaque repos court ou long.
   - name: Insondable
     desc: <trait-description>
   - name: Résistance légendaire (3/jour)
