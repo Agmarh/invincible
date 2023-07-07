@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 4/Métamorphose.md",
+                "file": "Oblivion/Bestiaire/Sans titre.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 4/Métamorphose.md",
+                "file": "Oblivion/Bestiaire/Sans titre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 4/Métamorphose.md",
+                "file": "Oblivion/Bestiaire/Sans titre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 4/Métamorphose.md"
+                "file": "Oblivion/Bestiaire/Sans titre.md"
               }
             }
           }
@@ -191,14 +191,15 @@
   },
   "active": "aa6de469ba1fc10f",
   "lastOpenFiles": [
-    "Template/Sort.md",
+    "Template/Monstre.md",
+    "Oblivion/Bestiaire/Sans titre.md",
     "Annexe/Sortilèges/Niveau 4/Métamorphose.md",
+    "Template/Sort.md",
     "Oblivion/Objets Magiques/Cape de la chauve-souris.md",
     "Oblivion/Bestiaire/Azmän Sagdïn.md",
     "Annexe/Sortilèges/Niveau 4/Liberté de mouvement.md",
     "Annexe/Sortilèges/Niveau 4/Contrôle de l'eau.md",
     "Annexe/Sortilèges/Niveau 4",
-    "Template/Monstre.md",
     "Oblivion/Bestiaire/Chef de meute Gobelin.md",
     "Oblivion/Bestiaire/Âme-en-peine.md",
     "Annexe/Règles/Pétrifié.md",
@@ -224,7 +225,6 @@
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Introduction.md",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Gangêve/Contamination.md",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Gangrêve.md",
-    "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Gangêve/Aggravation.md",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Gangêve",
     "Oblivion/PDF/Oblivion 1 Le sang d'Oblivion.pdf",
     "Oblivion/PDF/Le Cauchemar.pdf",
