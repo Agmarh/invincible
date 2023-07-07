@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Anthéone.md",
+                "file": "Oblivion/Objets Magiques/La Faucheuse.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Anthéone.md",
+                "file": "Oblivion/Objets Magiques/La Faucheuse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Anthéone.md",
+                "file": "Oblivion/Objets Magiques/La Faucheuse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Anthéone.md"
+                "file": "Oblivion/Objets Magiques/La Faucheuse.md"
               }
             }
           }
@@ -191,8 +191,13 @@
   },
   "active": "aa6de469ba1fc10f",
   "lastOpenFiles": [
-    "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/2 - Sur la route de la Cité Sainte.md",
+    "Invincible/Images/Pasted image 20230707113507.png",
+    "Invincible/Images/Pasted image 20230707113503.png",
+    "Oblivion/Objets Magiques/Gantelets de puissance d'ogre.md",
+    "image.png.md",
+    "Oblivion/Objets Magiques/La Faucheuse.md",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Anthéone.md",
+    "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/2 - Sur la route de la Cité Sainte.md",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Anthéone",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Introduction.md",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Gangêve/Contamination.md",
@@ -215,10 +220,6 @@
     "Invincible/Scénario 2 La cité pétrifiée/Evénements/Le sang de loup-garou.md",
     "Invincible/Scénario 2 La cité pétrifiée/Recherches/Bibliothèque.md",
     "Invincible/Scénario 2 La cité pétrifiée/Evénements/Mission de Lycanis.md",
-    "Invincible/Scénario 2 La cité pétrifiée/Infos diverses.md",
-    "Invincible/Bestiaire/Ecorché.md",
-    "Invincible/Scénario 2 La cité pétrifiée/Les lieux/Paleseaux.md",
-    "Invincible/Objets Magiques/Médaillon d'Oraxos.md",
     "Oblivion/PDF/Oblivion 1 Le sang d'Oblivion.pdf",
     "Oblivion/PDF/Le Cauchemar.pdf",
     "Oblivion/Images/chevalier-dragon.jpg",
@@ -235,7 +236,6 @@
     "Invincible/Images/Boutefeu.jpg",
     "Invincible/Images/Mordante.jpg",
     "Invincible/Images/Draconis.jpg",
-    "Invincible/Images/Tromperie.jpg",
     "Invincible/Images",
     "Oblivion/PNJ/Sans titre.canvas"
   ]
