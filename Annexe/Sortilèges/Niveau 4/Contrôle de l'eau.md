@@ -1,17 +1,17 @@
 ---
-type: rare
-niveau: 2
-incantation: 
-distance: 
-composantes: 
-temps: 
-classe: 
+type: Transmutation
+niveau: 4
+incantation: 1 action
+distance: 90 mètres
+composantes: V, S, M (une goutte d'eau et une pincée de poussière)
+temps: concentration, jusqu'à 10 minutes
+classe: Clerc, Druide, Magicien
 ---
-# <% tp.frontmatter.type %> de niveau <% tp.frontmatter.niveau %>
+# Transmutation de niveau 4
 
-**Temps d'incantation :** <% tp.frontmatter.incantation %>
-**Portée :** <% tp.frontmatter.distance %>
-**Composantes :** <% tp.frontmatter.composantes %>
-**Durée :** <% tp.frontmatter.temps %>
-**Classe :** <% tp.frontmatter.classe %>
+**Temps d'incantation :** 1 action
+**Portée :** 90 mètres
+**Composantes :** V, S, M (une goutte d'eau et une pincée de poussière)
+**Durée :** concentration, jusqu'à 10 minutes
+**Classe :** Clerc, Druide, Magicien
 
