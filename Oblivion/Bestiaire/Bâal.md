@@ -39,7 +39,7 @@ traits:
     desc: Bâal peut remplacer l’échec d’un de ses jets de sauvegarde par une réussite.
 actions:
   - name: Attaques multiples
-    desc: <trait-description>
+    desc: Bâal effectue trois attaques : deux avec son épée et une avec son fouet.
   - name: Epée d'obsidienne
     desc: <trait-description>
   - name: Fouet de flammes
