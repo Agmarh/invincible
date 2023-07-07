@@ -1,0 +1,5 @@
+Anthéone est avant tout devenue la capitale spirituelle de l’Empire. En effet, l’installation du culte de Justicaar sur ce site a rapidement enflammé les imaginations et contribué à développer une intense activité commerciale mélangeant subtilement religion et thermalisme : les « eaux miraculeuses » d’Anthéone attirent ainsi un nombre croissant de curistes. 
+
+La ville s’est peu à peu structurée, accueillant de nombreuses autres chapelles. Les nobles s’y sont installés, et même certains suzerains y possèdent une résidence d’été, dans le quartier réservé des Hautes Strates.
+
+Le pouvoir est officiellement entre les mains d’un Bailli, qui représente l’état et gère la milice. Mais les ordres religieux, et en particulier le puissant Culte de Justicaar et ses fameux Chevaliers du Jugement, s’occupent en fait de quasiment tout le reste...
