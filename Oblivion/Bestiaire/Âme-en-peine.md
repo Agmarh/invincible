@@ -20,7 +20,7 @@ traits:
   - name: Déplacement intangible.
     desc: "L'âme-en-peine peut traverser créatures et objets en les considérant comme un terrain difficile. Elle subit 5 (1d10) dégâts de force si elle termine son tour à l'intérieur d'un objet."
   - name: Sensibilité à la lumière du soleil.
-    desc: <trait-description>
+    desc: "L'âme-en-peine subit un désavantage lors des jets d'attaque et des tests de Sagesse (Perception) basés sur la vue lorsqu'elle est exposée à la lumière du soleil."
 actions:
   - name: <trait-name>
     desc: <trait-description>
