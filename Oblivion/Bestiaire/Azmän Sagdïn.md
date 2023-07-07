@@ -23,8 +23,8 @@ languages: commun
 cr: 7
 spells:
   - Azmän est un lanceur de sorts divins de niveau 7. Sa caractéristique d’incantation est la Sagesse (DD du jet de sauvegarde contre les sorts 15, +7 pour toucher avec les attaques de sorts).
-  - Tours de magie: [[Assistance]]
-  - <spell level>: <spell-list>
+  - Tours de magie: [[Assistance]], [[Flamme sacrée]], [[Lumière]], [[Résistance]]
+  - 1er niveau (4 emplacements): [[Détection de la magie]], [[Injonction]], [[Sanctuaire]]
   - <spell level>: <spell-list>
   - <spell level>: <spell-list>
   - <spell level>: <spell-list>
