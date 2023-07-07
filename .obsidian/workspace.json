@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Annexe/Règles/Charmé.md",
+                "file": "Annexe/Règles/Sans titre.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Annexe/Règles/Charmé.md",
+                "file": "Annexe/Règles/Sans titre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Annexe/Règles/Charmé.md",
+                "file": "Annexe/Règles/Sans titre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Annexe/Règles/Charmé.md"
+                "file": "Annexe/Règles/Sans titre.md"
               }
             }
           }
@@ -191,8 +191,10 @@
   },
   "active": "aa6de469ba1fc10f",
   "lastOpenFiles": [
-    "Annexe/Règles/A terre.md",
     "Annexe/Règles/Charmé.md",
+    "Annexe/Règles/Sans titre.md",
+    "Annexe/Règles/Sans titre",
+    "Annexe/Règles/A terre.md",
     "Oblivion/Bestiaire/Âme-en-peine.md",
     "Oblivion/Bestiaire/Elfe de Farendhell.md",
     "Oblivion/Bestiaire/Ghûraghasta.md",
@@ -223,7 +225,6 @@
     "Oblivion/Magie.md",
     "Oblivion/L'Empire.md",
     "Oblivion/Groupe/Planque.md",
-    "Oblivion/Groupe/Gestion Compagnie.md",
     "Oblivion/PDF/Oblivion 1 Le sang d'Oblivion.pdf",
     "Oblivion/PDF/Le Cauchemar.pdf",
     "Oblivion/Images/chevalier-dragon.jpg",
@@ -236,7 +237,6 @@
     "Oblivion/Groupe",
     "Oblivion/Scénario 2 Les enfants d'Oblivion",
     "Invincible/Images/Hector.jpg",
-    "Invincible/Images",
     "Oblivion/PNJ/Sans titre.canvas"
   ]
 }
