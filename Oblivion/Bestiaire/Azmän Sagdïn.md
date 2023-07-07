@@ -27,13 +27,9 @@ spells:
   - 1er niveau (4 emplacements): [[Détection de la magie]], [[Injonction]], [[Sanctuaire]]
   - 2e niveau (3 emplacements): [[Apaisement des émotions]], [[Silence]], [[Immobiliser un humanoïde]], [[Image miroir]]
   - 3e niveau (3 emplacements): [[Dissipation de la magie]], [[Marche sur l'eau]], [[Respiration aquatique]]
-  - <spell level>: <spell-list>
-traits:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
+  - 4e niveau (3 emplacements): [[Contrôle de l'eau]], [[Liberté de mouvement]]
 actions:
-  - name: <trait-name>
+  - name: Epée longue lumineuse
     desc: <trait-description>
   - ...
 legendary_actions:
