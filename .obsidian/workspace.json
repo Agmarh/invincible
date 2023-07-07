@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Annexe/Règles/Sans titre.md",
+                "file": "Oblivion/Bestiaire/Âme-en-peine.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Annexe/Règles/Sans titre.md",
+                "file": "Oblivion/Bestiaire/Âme-en-peine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Annexe/Règles/Sans titre.md",
+                "file": "Oblivion/Bestiaire/Âme-en-peine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Annexe/Règles/Sans titre.md"
+                "file": "Oblivion/Bestiaire/Âme-en-peine.md"
               }
             }
           }
@@ -191,8 +191,8 @@
   },
   "active": "aa6de469ba1fc10f",
   "lastOpenFiles": [
+    "Annexe/Règles/Pétrifié.md",
     "Annexe/Règles/Charmé.md",
-    "Annexe/Règles/Sans titre.md",
     "Annexe/Règles/Sans titre",
     "Annexe/Règles/A terre.md",
     "Oblivion/Bestiaire/Âme-en-peine.md",
