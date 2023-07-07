@@ -9,9 +9,12 @@ ac: 19 (armure naturelle)
 hp: 184
 hit_dice: 16d12+80
 speed: 12 m, vol 24 m
-stats: [10, 10, 10, 10, 10, 10]
+stats: [26, 16, 20, 18, 16, 24]
 saves:
-  - <ability-score>: number
+  - <ability-score>: +14
+  - <ability-score>: +9
+  - Con: +11
+  - Sag: +9
 skillsaves:
   - <skill-name>: number
 damage_vulnerabilities: string
