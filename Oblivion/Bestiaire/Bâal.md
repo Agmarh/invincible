@@ -26,16 +26,16 @@ languages: commun, abyssal, télépathie 36 m
 cr: 17
 traits:
   - name: Attaques magiques
+    desc: Tous les dégâts provoqués par Bâal sont magiques, qu’il s’agisse de ses attaques ou de ses battements d’ailes.
+  - name: Résistance à la magie
+    desc: Bâal obtient un avantage lors des jets de sauvegarde contre les sorts et autres effets magiques.
+  - name: Vue du diable
     desc: <trait-description>
-  - name: <trait-name>
+  - name: Pouvoirs du ravageur
     desc: <trait-description>
-  - name: <trait-name>
+  - name: Insondable
     desc: <trait-description>
-  - name: <trait-name>
-    desc: <trait-description>
-  - name: <trait-name>
-    desc: <trait-description>
-  - name: <trait-name>
+  - name: Résistance légendaire (3/jour)
     desc: <trait-description>
 actions:
   - name: <trait-name>
