@@ -15,12 +15,13 @@ languages:
 cr: 0
 traits:
   - name: Echolocalisation
-    desc: <trait-description>
-  - name: <trait-name>
-    desc: <trait-description>
+    desc: "La chauve-souris ne peut pas utiliser sa vision aveugle si elle est [[Assourdi]]."
+  - name: Ouïe aiguisée
+    desc: "La chauve-souris obtient un avantage lors des tests de Sagesse (Perception) basés sur l'ouïe."
 actions:
-  - name: <trait-name>
-    desc: <trait-description>
+  - name: Morsure
+    desc: "Attaque d'arme au corps à corps_ : +0 pour toucher, allonge 1,50 m, une créature.  
+_Touché_ : 1 dégât perforant."
   - ...
 legendary_actions:
   - name: <legendary_actions-name>
