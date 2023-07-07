@@ -17,9 +17,9 @@ senses: vision dans le noir 18 m, Perception passive 12
 languages: celles qu'elle connaissait de son vivant
 cr: 5
 traits:
-  - name: Déplace.
-    desc: <trait-description>
-  - name: <trait-name>
+  - name: Déplacement intangible.
+    desc: "L'âme-en-peine peut traverser créatures et objets en les considérant comme un terrain difficile. Elle subit 5 (1d10) dégâts de force si elle termine son tour à l'intérieur d'un objet."
+  - name: Sensibilité à la lumière du soleil.
     desc: <trait-description>
 actions:
   - name: <trait-name>
