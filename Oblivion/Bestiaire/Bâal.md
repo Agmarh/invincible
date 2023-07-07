@@ -39,14 +39,14 @@ traits:
     desc: Bâal peut remplacer l’échec d’un de ses jets de sauvegarde par une réussite.
 actions:
   - name: Attaques multiples
-    desc: Bâal effectue trois attaques : deux avec son épée et une avec son fouet.
+    desc: "Bâal effectue trois attaques : deux avec son épée et une avec son fouet."
   - name: Epée d'obsidienne
-    desc: <trait-description>
+    desc: "Attaque d’arme au corps-à-corps : +14 pour toucher, allonge 3 m, une cible. Touché : 35 (5d8+8) dégâts tranchants."
   - name: Fouet de flammes
-    desc: <trait-description>
+    desc: "Attaque d’arme au corps-à-corps : +14 pour toucher, allonge 3 m, une cible. Touché : 15 (2d6+8) dégâts contondants plus 21 (6d6) dégâts de feu."
 legendary_actions:
   - name: <legendary_actions-name>
-    desc: <legendary_actions-description>
+    desc: "Bâal peut effectuer trois actions légendaires qu’il choisit parmi celles décrites ici. Une seule action légendaire peut être choisie à la fois, et uniquement à la fin du tour d’une autre créature. Bâal récupère au début de son tour les actions légendaires déjà effectuées."
   - name: <legendary_actions-name>
     desc: <legendary_actions-description>
   - name: <legendary_actions-name>
