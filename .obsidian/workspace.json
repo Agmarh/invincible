@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/2 - Sur la route de la Cité Sainte.md",
+                "file": "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Gangrêve.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/2 - Sur la route de la Cité Sainte.md",
+                "file": "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Gangrêve.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/2 - Sur la route de la Cité Sainte.md",
+                "file": "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Gangrêve.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/2 - Sur la route de la Cité Sainte.md"
+                "file": "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Gangrêve.md"
               }
             }
           }
@@ -191,8 +191,11 @@
   },
   "active": "aa6de469ba1fc10f",
   "lastOpenFiles": [
-    "Oblivion/ACTUELLEMENT.md",
+    "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Gangêve/Contamination.md",
+    "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Gangrêve.md",
+    "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Gangêve",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/2 - Sur la route de la Cité Sainte.md",
+    "Oblivion/ACTUELLEMENT.md",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/1 - Enquête morbide et mortelles tracasseries.md",
     "Oblivion/Magie.md",
     "Oblivion/L'Empire.md",
@@ -215,8 +218,6 @@
     "Invincible/Objets Magiques/Médaillon Porte-bonheur.md",
     "Invincible/Objets Magiques/Boutefeu.md",
     "Invincible/Objets Magiques/Bâton du python.md",
-    "Invincible/Objets Magiques/Baume revigorant.md",
-    "Invincible/Objets Magiques/Anneau de marche sur l'eau.md",
     "Oblivion/PDF/Oblivion 1 Le sang d'Oblivion.pdf",
     "Oblivion/PDF/Le Cauchemar.pdf",
     "Oblivion/Images/chevalier-dragon.jpg",
@@ -236,7 +237,6 @@
     "Invincible/Images/Tromperie.jpg",
     "Invincible/Images",
     "Invincible/Personnages",
-    "Invincible/Objets Magiques",
     "Oblivion/PNJ/Sans titre.canvas"
   ]
 }
