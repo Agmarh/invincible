@@ -9,25 +9,15 @@ ac: 12
 hp: 1
 hit_dice: 1d4-1
 speed: 1,50 m, vol 9 m
-stats: [2, 15, 8, 2, 10, 10]
-saves:
-  - <ability-score>: number
-skillsaves:
-  - <skill-name>: number
-damage_vulnerabilities: string
-damage_resistances: string
-damage_immunities: string
-condition_immunities: string
-senses: string
-languages: string
-cr: 1
-spells:
-  - <description>
-  - <spell level>: <spell-list>
+stats: [2, 15, 8, 2, 12, 4]
+senses: vision aveugle 18 m, Perception passive 11
+languages: 
+cr: 0
 traits:
+  - name: Echolocalisation
+    desc: <trait-description>
   - name: <trait-name>
     desc: <trait-description>
-  - ...
 actions:
   - name: <trait-name>
     desc: <trait-description>
