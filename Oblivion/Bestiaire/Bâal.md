@@ -1,3 +1,4 @@
+Sous sa forme de ravageur, Bâal ressemble à un immense démon à la peau noirâtre et aux ailes de corbeau. Il tient dans ses mains un immense fouet de flammes et une massive épée d’obsidienne.
 ```statblock
 image: [[monstre.png]]
 name: Bâal
@@ -23,13 +24,19 @@ damage_immunities: de feu et de poison
 senses: vision parfaite 36 m, Perception passive 13
 languages: commun, abyssal, télépathie 36 m
 cr: 17
-spells:
-  - <description>
-  - <spell level>: <spell-list>
 traits:
+  - name: Attaques magiques
+    desc: <trait-description>
   - name: <trait-name>
     desc: <trait-description>
-  - ...
+  - name: <trait-name>
+    desc: <trait-description>
+  - name: <trait-name>
+    desc: <trait-description>
+  - name: <trait-name>
+    desc: <trait-description>
+  - name: <trait-name>
+    desc: <trait-description>
 actions:
   - name: <trait-name>
     desc: <trait-description>
