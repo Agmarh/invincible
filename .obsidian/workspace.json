@@ -4,65 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "b372f04f25e9ffb1",
+        "id": "571e4f391a1caa97",
         "type": "tabs",
         "children": [
           {
-            "id": "278c6fa07fde8a34",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Invincible/Scénario 2 La cité pétrifiée/ACTUELLEMENT J+8.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "7a2f1c5716ea263f",
+            "id": "aa6de469ba1fc10f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Invincible/Scénario 2 La cité pétrifiée/Personnage Loup-Garou.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "adb03c971c375f16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Invincible/Bestiaire/Hector de Lycanis.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4716ff4d3fc4203b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Invincible/Scénario 2 La cité pétrifiée/ACTUELLEMENT J+8.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -153,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Invincible/Scénario 2 La cité pétrifiée/ACTUELLEMENT J+8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -165,7 +117,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Invincible/Scénario 2 La cité pétrifiée/ACTUELLEMENT J+8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Invincible/Scénario 2 La cité pétrifiée/ACTUELLEMENT J+8.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -231,12 +180,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4716ff4d3fc4203b",
+  "active": "aa6de469ba1fc10f",
   "lastOpenFiles": [
+    "Invincible/Scénario 2 La cité pétrifiée/ACTUELLEMENT J+8.md",
     "Invincible/Personnages/Clovik Scénario 2.md",
     "Invincible/Objets Magiques/Mordante.md",
     "Invincible/Bestiaire/Hector de Lycanis.md",
-    "Invincible/Scénario 2 La cité pétrifiée/ACTUELLEMENT J+8.md",
     "Invincible/Scénario 2 La cité pétrifiée/Chronologie.md",
     "Invincible/Scénario 2 La cité pétrifiée/Personnage Loup-Garou.md",
     "Invincible/Scénario 2 La cité pétrifiée/Evénements/Le sang de loup-garou.md",
