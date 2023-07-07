@@ -50,7 +50,7 @@ legendary_actions:
   - name: Attaque (1 action)
     desc: "Bâal peut effectuer une attaque avec son épée ou son fouet."
   - name: Déplacement (1 action)
-    desc: <legendary_actions-description>
-  - name: <legendary_actions-name>
-    desc: <legendary_actions-description>
+    desc: "Bâal peut se déplacer du double de sa vitesse."
+  - name: Battement d'ailes (2 actions)
+    desc: "Bâal peut décider de battre des ailes si fortement qu’il crée un cône de tempête de 36 m de long au sein duquel il projette une salve de plumes noirâtres et tranchantes. Toutes les créatures prises dans le cône doivent réussir un jet de sauvegarde de Dextérité DD 24 ou être mis à terre et repoussés de 6 m. De plus, les créatures subissent 23 (5d8) points de dégâts tranchants (la moitié seulement en cas de réussite au jet de sauvegarde)."
 ```
