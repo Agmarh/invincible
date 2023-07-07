@@ -12,7 +12,7 @@ speed: 0m, vol 18m (vol stationnaire)
 stats: [6, 16, 16, 12, 14, 15]
 damage_resistances: d'acide, de feu, de foudre, de froid, de tonnerre et contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
 damage_immunities: nécrotiques et de poison
-condition_immunities: string
+condition_immunities: A terre, Charmé, Empoigné, Empoisonné, Epuisé, Entravé, Paralysé, Pétrifié
 senses: string
 languages: string
 cr: 1
