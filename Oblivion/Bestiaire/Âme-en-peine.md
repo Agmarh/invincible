@@ -1,15 +1,15 @@
 ```statblock
 image: [[monstre.png]]
-name: Nom
-size: 
-type: 
+name: Âme-en-peine
+size: M
+type: Mort-Vivant
 subtype: 
-alignment: Neutre
-ac: 10
-hp: 0
-hit_dice: 1d8+0
-speed: 0
-stats: [10, 10, 10, 10, 10, 10]
+alignment: Neutre Mauvais
+ac: 13
+hp: 67
+hit_dice: 9d8+27
+speed: 0m, vol 18m (vol stationnaire)
+stats: [6, 16, 16, 12, 10, 10]
 saves:
   - <ability-score>: number
 skillsaves:
