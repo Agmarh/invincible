@@ -14,15 +14,13 @@ damage_resistances: d'acide, de feu, de foudre, de froid, de tonnerre et contond
 damage_immunities: nécrotiques et de poison
 condition_immunities: [[A terre]], [[Charmé]], [[Empoigné]], [[Empoisonné]], Epuisé, [[Entravé]], [[Paralysé]], [[Pétrifié]]
 senses: vision dans le noir 18 m, Perception passive 12
-languages: celles qu'elle 
-cr: 1
-spells:
-  - <description>
-  - <spell level>: <spell-list>
+languages: celles qu'elle connaissait de son vivant
+cr: 5
 traits:
+  - name: Déplace.
+    desc: <trait-description>
   - name: <trait-name>
     desc: <trait-description>
-  - ...
 actions:
   - name: <trait-name>
     desc: <trait-description>
