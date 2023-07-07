@@ -38,11 +38,11 @@ traits:
   - name: Résistance légendaire (3/jour)
     desc: Bâal peut remplacer l’échec d’un de ses jets de sauvegarde par une réussite.
 actions:
-  - name: <trait-name>
+  - name: Attaques multiples
     desc: <trait-description>
-  - name: <trait-name>
+  - name: Epée d'obsidienne
     desc: <trait-description>
-  - name: <trait-name>
+  - name: Fouet de flammes
     desc: <trait-description>
 legendary_actions:
   - name: <legendary_actions-name>
@@ -51,17 +51,4 @@ legendary_actions:
     desc: <legendary_actions-description>
   - name: <legendary_actions-name>
     desc: <legendary_actions-description>
-bonus_actions:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
-reactions:
-  - name: <reaction-name>
-    desc: <reaction-description>
-  - ...
-tactic:
-  - desc: <reaction-description>
-treasure:
-  - name: <reaction-name>
-    desc: <reaction-description>
 ```
