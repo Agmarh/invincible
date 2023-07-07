@@ -22,7 +22,7 @@ traits:
   - name: Sensibilité à la lumière du soleil.
     desc: "L'âme-en-peine subit un désavantage lors des jets d'attaque et des tests de Sagesse (Perception) basés sur la vue lorsqu'elle est exposée à la lumière du soleil."
 actions:
-  - name: <trait-name>
+  - name: Absorption de 
     desc: <trait-description>
   - ...
 legendary_actions:
