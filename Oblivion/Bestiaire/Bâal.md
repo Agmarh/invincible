@@ -32,19 +32,25 @@ traits:
   - name: Vue du diable
     desc: Les ténèbres magiques ne bloquent pas la vision dans le noir de Bâal.
   - name: Pouvoirs du ravageur
-    desc: Bâal peut utiliser les sorts suivants à leur niveau minimal : [[Soin des blessures]], [[Blessure]], [[Détection du mal et du bien]], [[Détection de la magie]], [[Détection des pensées]], [[Voir l'invisible]], [[Compréhension des langues]]. Il peut lancer chacun de ces sorts une fois entre chaque repos court ou long.
+    desc: "Bâal peut utiliser les sorts suivants à leur niveau minimal : [[Soin des blessures]], [[Blessure]], [[Détection du mal et du bien]], [[Détection de la magie]], [[Détection des pensées]], [[Voir l'invisible]], [[Compréhension des langues]]. Il peut lancer chacun de ces sorts une fois entre chaque repos court ou long."
   - name: Insondable
-    desc: <trait-description>
+    desc: Bâal est en permanence sous l’effet du sort esprit impénétrable. Cet effet ne peut être détecté avec le sort détection de la magie.
   - name: Résistance légendaire (3/jour)
-    desc: <trait-description>
+    desc: Bâal peut remplacer l’échec d’un de ses jets de sauvegarde par une réussite.
 actions:
   - name: <trait-name>
     desc: <trait-description>
-  - ...
+  - name: <trait-name>
+    desc: <trait-description>
+  - name: <trait-name>
+    desc: <trait-description>
 legendary_actions:
   - name: <legendary_actions-name>
     desc: <legendary_actions-description>
-  - ...
+  - name: <legendary_actions-name>
+    desc: <legendary_actions-description>
+  - name: <legendary_actions-name>
+    desc: <legendary_actions-description>
 bonus_actions:
   - name: <trait-name>
     desc: <trait-description>
