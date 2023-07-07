@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oblivion/Objets Magiques/Le poignard polymorphe.md",
+                "file": "Oblivion/Bestiaire/Sans titre.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oblivion/Objets Magiques/Le poignard polymorphe.md",
+                "file": "Oblivion/Bestiaire/Sans titre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oblivion/Objets Magiques/Le poignard polymorphe.md",
+                "file": "Oblivion/Bestiaire/Sans titre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oblivion/Objets Magiques/Le poignard polymorphe.md"
+                "file": "Oblivion/Bestiaire/Sans titre.md"
               }
             }
           }
@@ -191,9 +191,11 @@
   },
   "active": "aa6de469ba1fc10f",
   "lastOpenFiles": [
+    "Template/Monstre.md",
+    "Oblivion/Bestiaire/Sans titre.md",
+    "Oblivion/Objets Magiques/Le poignard polymorphe.md",
     "Oblivion/Images/Le poignard polymorphe.jpg",
     "Oblivion/Objets Magiques/La Faucheuse.md",
-    "Oblivion/Objets Magiques/Le poignard polymorphe.md",
     "Oblivion/Images/La Faucheuse.jpg",
     "Oblivion/Images/img966.jpg",
     "Invincible/Images/Pasted image 20230707113507.png",
@@ -222,7 +224,6 @@
     "Invincible/Scénario 2 La cité pétrifiée/Chronologie.md",
     "Invincible/Scénario 2 La cité pétrifiée/Personnage Loup-Garou.md",
     "Invincible/Scénario 2 La cité pétrifiée/Evénements/Le sang de loup-garou.md",
-    "Invincible/Scénario 2 La cité pétrifiée/Recherches/Bibliothèque.md",
     "Oblivion/PDF/Oblivion 1 Le sang d'Oblivion.pdf",
     "Oblivion/PDF/Le Cauchemar.pdf",
     "Oblivion/Images/chevalier-dragon.jpg",
@@ -235,7 +236,6 @@
     "Oblivion/Groupe",
     "Oblivion/Scénario 2 Les enfants d'Oblivion",
     "Invincible/Images/Hector.jpg",
-    "Invincible/Images/Servantès.jpg",
     "Invincible/Images",
     "Oblivion/PNJ/Sans titre.canvas"
   ]
