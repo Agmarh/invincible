@@ -26,7 +26,7 @@ spells:
   - Tours de magie: [[Assistance]], [[Flamme sacrée]], [[Lumière]], [[Résistance]]
   - 1er niveau (4 emplacements): [[Détection de la magie]], [[Injonction]], [[Sanctuaire]]
   - 2e niveau (3 emplacements): [[Apaisement des émotions]], [[Silence]], [[Immobiliser un humanoïde]], [[Image miroir]]
-  - <spell level>: <spell-list>
+  - 3e niveau (3 emplacements): [[Dissipation de la magie]], [[Marche sur l'eau]], [[Respiration aquatique]]
   - <spell level>: <spell-list>
 traits:
   - name: <trait-name>
