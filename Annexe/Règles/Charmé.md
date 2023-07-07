@@ -1,0 +1,2 @@
+- Une créature [_charmée_](https://5e-drs.fr/gerer-la-sante-du-personnage/#charme) se trouve dans l'incapacité d'attaquer l'individu qui l'a [_charmée_](https://5e-drs.fr/gerer-la-sante-du-personnage/#charme) ou de le cibler avec une capacité ou un effet magique néfaste.
+- L'individu qui a [_charmé_](https://5e-drs.fr/gerer-la-sante-du-personnage/#charme) la créature bénéficie d'un [_avantage_](https://5e-drs.fr/utiliser-les-caracteristiques/#avantage-et-desavantage) pour toutes les interactions sociales avec celle-ci.

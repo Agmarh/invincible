@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Annexe/Règles/A terre.md",
+                "file": "Annexe/Règles/Charmé.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Annexe/Règles/A terre.md",
+                "file": "Annexe/Règles/Charmé.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Annexe/Règles/A terre.md",
+                "file": "Annexe/Règles/Charmé.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Annexe/Règles/A terre.md"
+                "file": "Annexe/Règles/Charmé.md"
               }
             }
           }
@@ -191,8 +191,9 @@
   },
   "active": "aa6de469ba1fc10f",
   "lastOpenFiles": [
-    "Oblivion/Bestiaire/Âme-en-peine.md",
     "Annexe/Règles/A terre.md",
+    "Annexe/Règles/Charmé.md",
+    "Oblivion/Bestiaire/Âme-en-peine.md",
     "Oblivion/Bestiaire/Elfe de Farendhell.md",
     "Oblivion/Bestiaire/Ghûraghasta.md",
     "Oblivion/Bestiaire/Dragon d'acier adulte.md",
@@ -223,7 +224,6 @@
     "Oblivion/L'Empire.md",
     "Oblivion/Groupe/Planque.md",
     "Oblivion/Groupe/Gestion Compagnie.md",
-    "Invincible/Scénario 2 La cité pétrifiée/ACTUELLEMENT J+8.md",
     "Oblivion/PDF/Oblivion 1 Le sang d'Oblivion.pdf",
     "Oblivion/PDF/Le Cauchemar.pdf",
     "Oblivion/Images/chevalier-dragon.jpg",
