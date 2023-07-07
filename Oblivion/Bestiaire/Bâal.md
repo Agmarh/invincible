@@ -20,10 +20,9 @@ skillsaves:
   - Supercherie: +13
 damage_resistances: contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent, de froid et de foudre
 damage_immunities: de feu et de poison
-condition_immunities: string
-senses: string
-languages: string
-cr: 1
+senses: vision parfaite 36 m, Perception passive 13
+languages: commun, abyssal, télépathie 36 m
+cr: 17
 spells:
   - <description>
   - <spell level>: <spell-list>
