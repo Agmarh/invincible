@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oblivion/Objets Magiques/Cape de la chauve-souris.md",
+                "file": "Annexe/Sortilèges/Niveau 4/Métamorphose.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oblivion/Objets Magiques/Cape de la chauve-souris.md",
+                "file": "Annexe/Sortilèges/Niveau 4/Métamorphose.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oblivion/Objets Magiques/Cape de la chauve-souris.md",
+                "file": "Annexe/Sortilèges/Niveau 4/Métamorphose.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oblivion/Objets Magiques/Cape de la chauve-souris.md"
+                "file": "Annexe/Sortilèges/Niveau 4/Métamorphose.md"
               }
             }
           }
@@ -191,8 +191,9 @@
   },
   "active": "aa6de469ba1fc10f",
   "lastOpenFiles": [
-    "Oblivion/Bestiaire/Azmän Sagdïn.md",
     "Oblivion/Objets Magiques/Cape de la chauve-souris.md",
+    "Annexe/Sortilèges/Niveau 4/Métamorphose.md",
+    "Oblivion/Bestiaire/Azmän Sagdïn.md",
     "Annexe/Sortilèges/Niveau 4/Liberté de mouvement.md",
     "Template/Sort.md",
     "Annexe/Sortilèges/Niveau 4/Contrôle de l'eau.md",
@@ -224,7 +225,6 @@
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Gangêve/Contamination.md",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Gangrêve.md",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Gangêve/Aggravation.md",
-    "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Gangêve/Soin.md",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Gangêve",
     "Oblivion/PDF/Oblivion 1 Le sang d'Oblivion.pdf",
     "Oblivion/PDF/Le Cauchemar.pdf",
