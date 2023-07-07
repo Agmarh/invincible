@@ -1,4 +1,4 @@
-![[Pasted image 20230707113507.png]]
+![[image.png]]
 Type : 
 Rareté : 
 Harmonisation : 
