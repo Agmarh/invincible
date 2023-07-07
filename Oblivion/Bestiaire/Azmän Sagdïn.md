@@ -14,10 +14,10 @@ saves:
   - Con: +5
 skillsaves:
   - Religion: +4
-  - Supercherie: number
-  - <skill-name>: number
-  - <skill-name>: number
-  - <skill-name>: number
+  - Supercherie: +4
+  - Persuasion: +4
+  - Médecine: +7
+  - Intimidation: +4
 damage_vulnerabilities: string
 damage_resistances: string
 damage_immunities: string
