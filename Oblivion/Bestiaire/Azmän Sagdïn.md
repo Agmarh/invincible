@@ -30,23 +30,8 @@ spells:
   - 4e niveau (3 emplacements): [[Contrôle de l'eau]], [[Liberté de mouvement]]
 actions:
   - name: Epée longue lumineuse
-    desc: <trait-description>
-  - ...
-legendary_actions:
-  - name: <legendary_actions-name>
-    desc: <legendary_actions-description>
-  - ...
-bonus_actions:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
-reactions:
-  - name: <reaction-name>
-    desc: <reaction-description>
-  - ...
-tactic:
-  - desc: <reaction-description>
+    desc: "Attaque d’arme au corps-à-corps : +4 pour toucher, allonge 1,50 m, une cible. Touché : 5 (1d8+1) dégâts tranchants et 14 (4d6) dégâts radiants ou 6 (1d10+1) dégâts contondants et 14 (4d6) dégâts de foudre à deux mains."
 treasure:
-  - name: <reaction-name>
+  - name: Cape de la chauve-souris.
     desc: <reaction-description>
 ```
