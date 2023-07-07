@@ -20,24 +20,5 @@ traits:
     desc: "La chauve-souris obtient un avantage lors des tests de Sagesse (Perception) basés sur l'ouïe."
 actions:
   - name: Morsure
-    desc: "Attaque d'arme au corps à corps_ : +0 pour toucher, allonge 1,50 m, une créature.  
-_Touché_ : 1 dégât perforant."
-  - ...
-legendary_actions:
-  - name: <legendary_actions-name>
-    desc: <legendary_actions-description>
-  - ...
-bonus_actions:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
-reactions:
-  - name: <reaction-name>
-    desc: <reaction-description>
-  - ...
-tactic:
-  - desc: <reaction-description>
-treasure:
-  - name: <reaction-name>
-    desc: <reaction-description>
+    desc: "Attaque d'arme au corps à corps : +0 pour toucher, allonge 1,50 m, une créature. Touché : 1 dégât perforant."
 ```

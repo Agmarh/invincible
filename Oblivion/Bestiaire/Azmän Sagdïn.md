@@ -32,6 +32,5 @@ actions:
   - name: Epée longue lumineuse
     desc: "Attaque d’arme au corps-à-corps : +4 pour toucher, allonge 1,50 m, une cible. Touché : 5 (1d8+1) dégâts tranchants et 14 (4d6) dégâts radiants ou 6 (1d10+1) dégâts contondants et 14 (4d6) dégâts de foudre à deux mains."
 treasure:
-  - name: Cape de la chauve-souris.
-    desc: <reaction-description>
+  - name: [[Cape de la chauve-souris]]
 ```
