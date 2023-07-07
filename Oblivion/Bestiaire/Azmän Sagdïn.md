@@ -18,15 +18,15 @@ skillsaves:
   - Persuasion: +4
   - Médecine: +7
   - Intimidation: +4
-damage_vulnerabilities: string
-damage_resistances: string
-damage_immunities: string
-condition_immunities: string
-senses: string
-languages: string
-cr: 1
+senses: Perception passive 14
+languages: commun
+cr: 7
 spells:
-  - <description>
+  - Azmän est un lanceur de sorts divins de niveau 7. Sa caractéristique d’incantation est la Sagesse (DD du jet de sauvegarde contre les sorts 15, +7 pour toucher avec les attaques de sorts).
+  - Tours de magie: [[Assistance]]
+  - <spell level>: <spell-list>
+  - <spell level>: <spell-list>
+  - <spell level>: <spell-list>
   - <spell level>: <spell-list>
 traits:
   - name: <trait-name>
