@@ -17,27 +17,8 @@ languages: -
 cr: 1/8
 traits:
   - name: Odorat et ouïe aiguisés
-    desc: "Le mastiff obtient un avantage lors d"
-  - ...
+    desc: "Le mastiff obtient un avantage lors des tests de Sagesse (Perception) basés sur l'odorat ou l'ouïe."
 actions:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
-legendary_actions:
-  - name: <legendary_actions-name>
-    desc: <legendary_actions-description>
-  - ...
-bonus_actions:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
-reactions:
-  - name: <reaction-name>
-    desc: <reaction-description>
-  - ...
-tactic:
-  - desc: <reaction-description>
-treasure:
-  - name: <reaction-name>
-    desc: <reaction-description>
+  - name: Morsure
+    desc: "Attaque d'arme au corps à corps : +3 pour toucher, allonge 1,50 m, une cible. Touché : 4 (1d6+1) dégâts perforants. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 11 pour ne pas être jetée à terre."
 ```
