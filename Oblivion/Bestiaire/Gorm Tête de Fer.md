@@ -1,19 +1,20 @@
 ```statblock
 image: [[monstre.png]]
-name: Nom
-size: 
-type: 
-subtype: 
-alignment: Neutre
-ac: 10
-hp: 0
-hit_dice: 1d8+0
-speed: 0
-stats: [10, 10, 10, 10, 10, 10]
+name: Gorm Tête de Fer
+size: P
+type: Humanoïde
+subtype: Gnome
+alignment: Chaotique Neutre
+ac: 14
+hp: 63
+hit_dice: 14d6+14
+speed: 9 m
+stats: [10, 17, 12, 16, 11, 16]
 saves:
-  - <ability-score>: number
+  - Dex: +5
+  - Int: +5
 skillsaves:
-  - <skill-name>: number
+  - Histoire: number
 damage_vulnerabilities: string
 damage_resistances: string
 damage_immunities: string
