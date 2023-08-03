@@ -27,8 +27,8 @@ spells:
   - 2e niveau (3 emplacements): [[Augure]], [[Détection des pensées]], [[Localiser des animaux ou des plantes]], [[Localiser un objet]], [[Trouver les pièges]], [[Voir l'invisible]]
   - 3e niveau (3 emplacements): [[Bénédiction héroïque]], [[Clairvoyance]], [[Détection des vivants]], [[Langues]]
   - 4e niveau (3 emplacements): [[Divination]], [[Localiser une créature]], [[Œil magique]], [[Rêvevin]]
-  - 5e niveau (3 emplacements): [[Communion]], [[Communion avec la nature]], [[Contacter un autre plan]], [[Lien télépathique]], [[Scrutation]]
-  - 6e niveau (1 emplacement):
+  - 5e niveau (3 emplacements): [[Communion]], [[Communion avec la nature]], [[Contacter un autre plan]], [[Légende]], [[Lien télépathique]], [[Scrutation]]
+  - 6e niveau (1 emplacement): [[Trouver un chemin]], [[Vision suprême]]
   - 7e niveau (1 emplacement):
   - 8e niveau (1 emplacement):
   - 9e niveau (1 emplacement):

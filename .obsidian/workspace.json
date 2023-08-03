@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Template/Sort.md",
+                "file": "Oblivion/Bestiaire/Le Sans-Visage.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Template/Sort.md",
+                "file": "Oblivion/Bestiaire/Le Sans-Visage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Template/Sort.md",
+                "file": "Oblivion/Bestiaire/Le Sans-Visage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Template/Sort.md"
+                "file": "Oblivion/Bestiaire/Le Sans-Visage.md"
               }
             }
           }
@@ -191,12 +191,13 @@
   },
   "active": "6850c780739b4df5",
   "lastOpenFiles": [
+    "Annexe/Sortilèges/Niveau 5/Légende.md",
+    "Template/Sort.md",
     "Oblivion/Bestiaire/Le Sans-Visage.md",
     "Annexe/Sortilèges/Niveau 6/Trouver un chemin.md",
     "Annexe/Sortilèges/Niveau 6/Vision suprême.md",
     "Annexe/Sortilèges/Niveau 9/Prémonition.md",
     "Annexe/Sortilèges/Niveau 9",
-    "Template/Sort.md",
     "Annexe/Sortilèges/Niveau 5/Scrutation.md",
     "Annexe/Sortilèges/Niveau 6",
     "Annexe/Sortilèges/Niveau 5/Restauration supérieure.md",
@@ -207,7 +208,6 @@
     "Annexe/Sortilèges/Niveau 5/Contacter un autre plan.md",
     "Annexe/Sortilèges/Niveau 5/Communion avec la nature.md",
     "Annexe/Sortilèges/Niveau 5/Communion.md",
-    "Annexe/Sortilèges/Niveau 5/Sans titre.md",
     "Annexe/Sortilèges/Niveau 4/Rêvevin.md",
     "Annexe/Sortilèges/Niveau 4/Œil magique.md",
     "Annexe/Sortilèges/Niveau 4/Localiser une créature.md",
