@@ -9,18 +9,17 @@ ac: 12
 hp: 99
 hit_dice: 18d8+18
 speed: 9 m
-stats: [10, 14, 10, 10, 10, 10]
+stats: [10, 14, 12, 20, 15, 16]
 saves:
-  - <ability-score>: number
+  - Int: +9
+  - Sag: +6
 skillsaves:
-  - <skill-name>: number
-damage_vulnerabilities: string
-damage_resistances: string
-damage_immunities: string
-condition_immunities: string
-senses: Perception passive 10
-languages: string
-cr: 1
+  - Arcanes: +9
+  - Histoire: +9
+damage_resistances: contondants, tranchants et perforants
+senses: Perception passive 12
+languages: commun
+cr: 12
 spells:
   - <description>
   - <spell level>: <spell-list>
