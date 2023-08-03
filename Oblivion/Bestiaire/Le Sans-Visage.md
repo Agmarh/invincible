@@ -21,8 +21,9 @@ senses: Perception passive 12
 languages: commun
 cr: 12
 spells:
-  - <description>
-  - <spell level>: <spell-list>
+  - "L'archimage est un lanceur de sorts de niveau 18. Sa caractéristique d'incantation est l'Intelligence (DD du jet de sauvegarde contre les sorts 17, +9 pour toucher avec les attaques de sort). L'archimage peut lancer déguisement et invisibilité à volonté et dispose des sorts de magicien préparés suivants."
+  - Tours de magie: [[Assistance]], [[Viser juste]]
+  - 1er niveau (4 emplacements): [[Communication avec les animaux]], [[Compréhension des langues]], [[Détection de la magie]], 
 traits:
   - name: <trait-name>
     desc: <trait-description>
