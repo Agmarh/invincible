@@ -9,14 +9,9 @@ ac: 9
 hp: 93
 hit_dice: 11d8+44
 speed: 9 m
-stats: [19, 9, 10, 10, 10, 10]
-saves:
-  - <ability-score>: number
-skillsaves:
-  - <skill-name>: number
-damage_vulnerabilities: string
-damage_resistances: string
-damage_immunities: string
+stats: [19, 9, 18, 6, 10, 5]
+damage_resistances: de foudre, de poison et contondants, perforants et tranchants ingligés par des attaques non-magiques qui ne sont pas en adamantium
+damage_immunities: [[Charmé]], [[Empoisonné]], Epuisé, [[Paralysé]], [[]]
 condition_immunities: string
 senses: string
 languages: string
