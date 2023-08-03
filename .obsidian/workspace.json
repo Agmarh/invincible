@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "997efed7e6ec85ee",
+        "id": "73351ef4a4a02bfb",
         "type": "tabs",
         "children": [
           {
-            "id": "885ba471a1528b0c",
+            "id": "4d92a6581bfc8ce7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oblivion/Objets Magiques/Bottes elfiques.md",
+                "file": "Oblivion/Bestiaire/Fantôme d'Anthéos.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oblivion/Objets Magiques/Bottes elfiques.md",
+                "file": "Oblivion/Bestiaire/Fantôme d'Anthéos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oblivion/Objets Magiques/Bottes elfiques.md",
+                "file": "Oblivion/Bestiaire/Fantôme d'Anthéos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oblivion/Objets Magiques/Bottes elfiques.md"
+                "file": "Oblivion/Bestiaire/Fantôme d'Anthéos.md"
               }
             }
           }
@@ -189,8 +189,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "885ba471a1528b0c",
+  "active": "4d92a6581bfc8ce7",
   "lastOpenFiles": [
+    "Oblivion/Objets Magiques/Le poignard polymorphe.md",
+    "Oblivion/Objets Magiques/Gantelets de puissance d'ogre.md",
+    "Oblivion/Objets Magiques/Bottes elfiques.md",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/1 - Enquête morbide et mortelles tracasseries.md",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Anthéone.md",
     "Oblivion/Bestiaire/Chasseur oungann.md",
@@ -214,9 +217,6 @@
     "Oblivion/Bestiaire/Hyène de guerre.md",
     "Oblivion/Bestiaire/Guerrière soong.md",
     "Oblivion/Bestiaire/Gobelin.md",
-    "Oblivion/Bestiaire/Ghûraghasta.md",
-    "Oblivion/Bestiaire/Elfe de Farendhell.md",
-    "Oblivion/Bestiaire/Dragon d'acier adulte.md",
     "Annexe/Sortilèges/Niveau 4",
     "Annexe/Règles/Sans titre",
     "Oblivion/Images/Le poignard polymorphe.jpg",
