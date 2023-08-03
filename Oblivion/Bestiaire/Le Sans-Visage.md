@@ -31,7 +31,7 @@ spells:
   - 6e niveau (1 emplacement): [[Trouver un chemin]], [[Vision suprême]]
   - 7e niveau (1 emplacement):
   - 8e niveau (1 emplacement):
-  - 9e niveau (1 emplacement):
+  - 9e niveau (1 emplacement): [[Prémonition]]
 traits:
   - name: Outils de Franc-Rêveur
     desc: +3

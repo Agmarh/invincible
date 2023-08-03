@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oblivion/Bestiaire/Le Sans-Visage.md",
+                "file": "Oblivion/Bestiaire/Malathor.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oblivion/Bestiaire/Le Sans-Visage.md",
+                "file": "Oblivion/Bestiaire/Malathor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oblivion/Bestiaire/Le Sans-Visage.md",
+                "file": "Oblivion/Bestiaire/Malathor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oblivion/Bestiaire/Le Sans-Visage.md"
+                "file": "Oblivion/Bestiaire/Malathor.md"
               }
             }
           }
@@ -191,9 +191,11 @@
   },
   "active": "6850c780739b4df5",
   "lastOpenFiles": [
+    "Template/Monstre.md",
+    "Oblivion/Bestiaire/Malathor.md",
+    "Oblivion/Bestiaire/Le Sans-Visage.md",
     "Annexe/Sortilèges/Niveau 5/Légende.md",
     "Template/Sort.md",
-    "Oblivion/Bestiaire/Le Sans-Visage.md",
     "Annexe/Sortilèges/Niveau 6/Trouver un chemin.md",
     "Annexe/Sortilèges/Niveau 6/Vision suprême.md",
     "Annexe/Sortilèges/Niveau 9/Prémonition.md",
@@ -212,13 +214,11 @@
     "Annexe/Sortilèges/Niveau 4/Œil magique.md",
     "Annexe/Sortilèges/Niveau 4/Localiser une créature.md",
     "Annexe/Sortilèges/Niveau 4/Divination.md",
-    "Template/Monstre.md",
     "Oblivion/Bestiaire/Katanga.md",
     "Oblivion/Bestiaire/Hyène.md",
     "Oblivion/Bestiaire/Hyène de guerre.md",
     "Oblivion/Bestiaire/Hydre zombie.md",
     "Oblivion/Bestiaire/Humanoïde gangrêvé.md",
-    "Oblivion/Bestiaire/Hékété.md",
     "Annexe/Sortilèges/Niveau 4",
     "Annexe/Règles/Sans titre",
     "Oblivion/Images/Le poignard polymorphe.jpg",
