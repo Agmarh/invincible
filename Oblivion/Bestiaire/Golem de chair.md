@@ -16,9 +16,18 @@ senses: vision dans le noir 18 m, Perception passive 10
 languages: comprend les langues de son créateur mais ne peut pas parler
 cr: 5
 traits:
-  - name: <trait-name>
+  - name: Absorption de la foudre
+    desc: "Chaque fois que le golem devrait subir des dégâts de foudre, ceux-ci ne lui sont pas infligés et il récupère, à la place, un nombre de points de vie égal aux dégâts de foudre qu'il aurait dû subir."
+  - name: Armes magiques
+    desc: "Les attaques d'arme du golem sont magiques."
+  - name: Aversion du feu
     desc: <trait-description>
-  - ...
+  - name: Forme immuable
+    desc: <trait-description>
+  - name: Fou furieux
+    desc: <trait-description>
+  - name: Résistance à la magie
+    desc: <trait-description>
 actions:
   - name: <trait-name>
     desc: <trait-description>
