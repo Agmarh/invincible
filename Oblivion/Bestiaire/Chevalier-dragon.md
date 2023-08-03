@@ -8,7 +8,7 @@ alignment: Loyal Variable
 ac: 20 (harnois et bouclier)
 hp: 105
 hit_dice: 13d8+39
-speed: 9
+speed: 9 m
 stats: [19, 15, 16, 10, 10, 15]
 saves:
   - For: 7

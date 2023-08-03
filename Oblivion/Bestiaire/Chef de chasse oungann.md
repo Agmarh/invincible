@@ -8,7 +8,7 @@ alignment: Non aligné
 ac: 15
 hp: 67
 hit_dice: 9d8+27
-speed: 9
+speed: 9 m
 stats: [16, 12, 17, 9, 11, 9]
 senses: Perception passive 10
 languages: commun

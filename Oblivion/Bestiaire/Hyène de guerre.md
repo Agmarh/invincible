@@ -7,7 +7,7 @@ alignment: Non-alignée
 ac: 12
 hp: 45
 hit_dice: 6d10+12
-speed: 15
+speed: 15 m
 stats: [16, 14, 14, 2, 12, 7]
 skillsaves:
   - Perception: 3

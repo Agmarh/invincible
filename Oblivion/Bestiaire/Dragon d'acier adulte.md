@@ -7,7 +7,7 @@ alignment: Chaotique Bon
 ac: 17
 hp: 110
 hit_dice: 13d10+39
-speed: 12m, fouissement 6m, vol 24m
+speed: 12 m, fouissement 6 m, vol 24 m
 stats: [19, 10, 17, 12, 11, 15]
 saves:
   - Dex: 3

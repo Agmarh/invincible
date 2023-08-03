@@ -7,7 +7,7 @@ alignment: Neutre
 ac: 16
 hp: 11
 hit_dice: 2d8+2
-speed: 7.5
+speed: 7.5 m
 stats: [13, 12, 12, 10, 11, 10]
 skillsaves:
   - Perception: 2
