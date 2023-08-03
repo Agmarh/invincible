@@ -12,27 +12,22 @@ speed: 9 m
 stats: [19, 15, 16, 10, 10, 15]
 saves:
   - For: +7
-  - 
+  - Con: +6
+  - Sag: +3
 skillsaves:
-  - <skill-name>: number
-damage_vulnerabilities: string
-damage_resistances: string
-damage_immunities: string
-condition_immunities: string
-senses: string
-languages: string
-cr: 1
-spells:
-  - <description>
-  - <spell level>: <spell-list>
+  - Athlétisme: +7
+  - Intimidation: +5
+  - Perception: +3
+senses: Perception passive 13
+languages: commun
+cr: 5
 traits:
-  - name: <trait-name>
+  - name: Coups brutaux
     desc: <trait-description>
-  - ...
 actions:
-  - name: <trait-name>
+  - name: Attaques multiples
     desc: <trait-description>
-  - ...
+  - na
 legendary_actions:
   - name: <legendary_actions-name>
     desc: <legendary_actions-description>
