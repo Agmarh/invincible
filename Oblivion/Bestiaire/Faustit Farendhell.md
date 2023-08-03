@@ -1,17 +1,18 @@
 ```statblock
 image: [[monstre.png]]
-name: Nom
-size: 
-type: 
-subtype: 
-alignment: Neutre
-ac: 10
-hp: 0
-hit_dice: 1d8+0
-speed: 0
-stats: [10, 10, 10, 10, 10, 10]
+name: Faustit Farendhell
+size: M
+type: Humanoïde
+subtype: Elfe
+alignment: Chaotique Mauvais
+ac: 17
+hp: 121
+hit_dice: 22d8+22
+speed: 9 m
+stats: [10, 20, 12, 15, 14, 20]
 saves:
-  - <ability-score>: number
+  - Dex: +8
+  - Cha: 
 skillsaves:
   - <skill-name>: number
 damage_vulnerabilities: string
