@@ -4,23 +4,17 @@ name: Griffon
 size: G
 type: Créature monstrueuse
 subtype: 
-alignment: Non-
-ac: 10
-hp: 0
-hit_dice: 1d8+0
-speed: 0
-stats: [10, 10, 10, 10, 10, 10]
-saves:
-  - <ability-score>: number
+alignment: Non-aligné
+ac: 12
+hp: 59
+hit_dice: 7d10+21
+speed: 9 m, 24 m
+stats: [18, 15, 16, 2, 13, 8]
 skillsaves:
-  - <skill-name>: number
-damage_vulnerabilities: string
-damage_resistances: string
-damage_immunities: string
-condition_immunities: string
-senses: string
-languages: string
-cr: 1
+  - Perception: +5
+senses: vision dans le noir 18 m, Perception passive 15
+languages: -
+cr: 2
 spells:
   - <description>
   - <spell level>: <spell-list>
