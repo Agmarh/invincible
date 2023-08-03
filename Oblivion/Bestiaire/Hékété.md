@@ -23,14 +23,14 @@ senses: vision dans le noir 36 m, Perception passive 18
 languages: commun, abyssal, internal, prymordial, télépathie 36 m
 cr: 9
 spells:
-  - Incantation innée. La caractéristique d’incantation d’Hékété est le Charisme (DD du jet de sauvegarde contre les sorts 16, +8 pour toucher avec des attaques de sort). Hékété peut lancer les sorts suivants de manière innée sans aucune composante matérielle :
+  - "Incantation innée. La caractéristique d’incantation d’Hékété est le Charisme (DD du jet de sauvegarde contre les sorts 16, +8 pour toucher avec des attaques de sort). Les sorts sont considétés être lancés au niveau 4. Hékété peut lancer les sorts suivants de manière innée sans aucune composante matérielle :"
   - à volonté: [[Blessure]], [[Dessiccation]], [[Détection de la magie]], [[Pattes d'araignée]], [[Projectile magique]], [[Ténèbres]]
-  - 2/jour chacun: [[Boule de feu]], [[Dissipation de la magie]], [[Rayon affaiblissant]], 
+  - 2/jour chacun: [[Boule de feu]], [[Dissipation de la magie]], [[Rayon affaiblissant]], [[Sommeil]]
 traits:
   - name: <trait-name>
-    desc: <trait-description>
+    desc: "Hékété obtient un avantage lors des jets de sauvegarde contre les sorts et autres effets magiques."
   - name: <trait-name>
-    desc: <trait-description>
+    desc: "Hékété peut utiliser les sorts suivants à leur niveau minimal : soins des blessures, blessure, détection du mal et du bien, détection de la magie, détection des pensées, voir l’invisible, compréhension des langues. Il peut lancer chacun de ces sorts une fois entre chaque repos court ou long."
   - name: <trait-name>
     desc: <trait-description>
 actions:
