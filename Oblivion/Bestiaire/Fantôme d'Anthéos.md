@@ -24,25 +24,8 @@ traits:
   - name: Insensible au renvoi
     desc: "Anthéos est immunisé au renvoi des morts-vivants."
 actions:
-  - name: Attaques multple
-    desc: <trait-description>
-  - name: <trait-name>
-    desc: <trait-description>
-legendary_actions:
-  - name: <legendary_actions-name>
-    desc: <legendary_actions-description>
-  - ...
-bonus_actions:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
-reactions:
-  - name: <reaction-name>
-    desc: <reaction-description>
-  - ...
-tactic:
-  - desc: <reaction-description>
-treasure:
-  - name: <reaction-name>
-    desc: <reaction-description>
+  - name: Attaques multiples
+    desc: "Anthéos peut effectuer quatre attaques."
+  - name: Penumbra
+    desc: "Attaque d’arme au corps-à-corps : +11 pour toucher, allonge 1,50 m, une cible. Touché : 14 (2d10+3) dégâts nécrotiques lorsque Penumbra inflige des dégâts, Anthéos récupère un nombre de points de vie égal à la moitié des dégâts infligés."
 ```
