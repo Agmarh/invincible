@@ -13,19 +13,15 @@ stats: [19, 13, 20, 2, 12, 9]
 saves:
   - Con: +7
 skillsaves:
-  - <skill-name>: number
-damage_vulnerabilities: string
-damage_resistances: string
-damage_immunities: string
-condition_immunities: string
-senses: Perception passive 10
-languages: string
-cr: 1
-spells:
-  - <description>
-  - <spell level>: <spell-list>
+  - Discrétion: +3
+  - Perception: +3
+damage_resistances: de poison
+condition_immunities: [[Charmé]], [[Entravé]], [[Empoigné]]
+senses: vision dans le noir 18 m, Perception passive 13
+languages: -
+cr: 3
 traits:
-  - name: <trait-name>
+  - name: Réaction mortelle
     desc: <trait-description>
   - ...
 actions:
