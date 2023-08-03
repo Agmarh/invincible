@@ -20,9 +20,9 @@ traits:
     desc: "Le griffon obtient un avantage lors des tests de Sagesse (Perception) basés sur la vue."
 actions:
   - name: Attaques multiples
-    desc: <trait-description>
+    desc: "Le griffon effectue deux attaques : une avec son bec et une avec ses griffes."
   - name: Bec
-    desc: <trait-description>
-  - name: 
-    desc: <trait-description>
+    desc: "Attaque d'arme au corps à corps : +6 pour toucher, allonge 1,50 m, une cible. Touché : 8 (1d8+4) dégâts perforants."
+  - name: Griffes
+    desc: "Attaque d'arme au corps à corps : +6 pour toucher, allonge 1,50 m, une cible. Touché : 11 (2d6+4) dégâts tranchants."
 ```
