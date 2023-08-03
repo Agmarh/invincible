@@ -1,26 +1,18 @@
 ```statblock
 image: [[monstre.png]]
-name: Gardien d'AZ
-size: 
-type: 
+name: Gardien d'Azmän
+size: M
+type: Humanoïde
 subtype: 
-alignment: Neutre
-ac: 10
-hp: 0
-hit_dice: 1d8+0
-speed: 0
-stats: [10, 10, 10, 10, 10, 10]
-saves:
-  - <ability-score>: number
-skillsaves:
-  - <skill-name>: number
-damage_vulnerabilities: string
-damage_resistances: string
-damage_immunities: string
-condition_immunities: string
-senses: string
-languages: string
-cr: 1
+alignment: Non aligné
+ac: 20 (harnois, bouclier)
+hp: 52
+hit_dice: 8d8+16
+speed: 9 m
+stats: [18, 11, 14, 11, 11, 15]
+senses: Pereption passive 10
+languages: commun
+cr: 3
 spells:
   - <description>
   - <spell level>: <spell-list>
