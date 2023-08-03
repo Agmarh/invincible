@@ -31,6 +31,6 @@ Vous voyez et entendez une créature donnée de votre choix, à condition qu'ell
 
 Si la cible réussit son jet de sauvegarde, elle n'est pas affectée et vous ne pouvez plus utiliser ce sort sur elle pendant 24 heures.
 
-Si elle rate son jet, le sort crée un organe sensoriel [_invisible_](https://5e-drs.fr/gerer-la-sante-du-personnage/#invisible) dans un rayon de 3 mètres autour d'elle. Vous voyez et entendez à travers cet organe comme si vous vous trouviez à sa place. L'organe sensoriel se déplace avec la cible et reste dans un rayon de 3 mètres autour d'elle pendant toute la durée du sort. Une créature capable de voir les objets invisibles perçoit l'organe sensoriel comme un orbe lumineux de la taille de votre poing.
+Si elle rate son jet, le sort crée un organe sensoriel [[Invisible]] dans un rayon de 3 mètres autour d'elle. Vous voyez et entendez à travers cet organe comme si vous vous trouviez à sa place. L'organe sensoriel se déplace avec la cible et reste dans un rayon de 3 mètres autour d'elle pendant toute la durée du sort. Une créature capable de voir les objets invisibles perçoit l'organe sensoriel comme un orbe lumineux de la taille de votre poing.
 
 Au lieu de prendre une créature pour cible, vous pouvez choisir un lieu que vous avez déjà vu. L'organe sensoriel apparaît alors à cet endroit et n'en bouge pas.
