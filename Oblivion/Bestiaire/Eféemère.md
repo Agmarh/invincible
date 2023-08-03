@@ -39,7 +39,7 @@ traits:
 actions:
   - name: Attaques multiples
     desc: <trait-description>
-  - name: <trait-name>
+  - name: Sarbacane - confusion de l'esprit
     desc: <trait-description>
   - name: <trait-name>
     desc: <trait-description>
