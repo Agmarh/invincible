@@ -27,16 +27,18 @@ languages: commun, gnome, abyssal, télépathie 36 m
 cr: 6
 traits:
   - name: Résistance à la magie
-    desc: <trait-description>
+    desc: "Chelios obtient un avantage lors des jets de sauvegarde contre les sorts et autres effets magiques."
   - name: Vue du diable
+    desc: "Les ténèbres magiques ne bloquent pas la vision dans le noir de Chelios."
+  - name: Pouvoirs du ravageur
+    desc: "Chelios peut utiliser les sorts suivants à leur niveau minimal : soins des blessures, blessure, détection du mal et du bien, détection de la magie, détection des pensées, voir l’invisible, compréhension des langues. Il peut lancer chacun de ces sorts une fois entre chaque repos court ou long."
+  - name: Insondable
     desc: <trait-description>
-  - name: <trait-name>
+  - name: Perception de la magie
     desc: <trait-description>
-  - name: <trait-name>
+  - name: Amphibie
     desc: <trait-description>
-  - name: <trait-name>
-    desc: <trait-description>
-  - name: <trait-name>
+  - name: Pattes d'araignées
     desc: <trait-description>
 actions:
   - name: <trait-name>
