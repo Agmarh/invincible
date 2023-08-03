@@ -1,3 +1,5 @@
+Sous sa forme véritable, Hékété ressemble à un mannequin articulé sans visage. Mais au lieu d’être faite de bois, elle semble faite de chitine noirâtre. Quand elle se déplace, ses mouvements sont saccadés, désarticulés et dérangeants.
+
 ```statblock
 image: [[monstre.png]]
 name: Hékété
@@ -18,34 +20,23 @@ skillsaves:
 damage_resistances: contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent, de feu et de froid
 condition_immunities: [[Charmé]]
 senses: vision dans le noir 36 m, Perception passive 18
-languages: commun, abyssal, p
-cr: 1
+languages: commun, abyssal, internal, prymordial, télépathie 36 m
+cr: 9
 spells:
-  - <description>
+  - Incantation innée. La caractéristique d’incantation d’Hékété est le Charisme (DD du jet de sauvegarde contre les sorts 16, +8 pour toucher avec des attaques de sort). Hékété peut lancer les sorts suivants de manière innée sans aucune composante matérielle
   - <spell level>: <spell-list>
 traits:
   - name: <trait-name>
     desc: <trait-description>
-  - ...
+  - name: <trait-name>
+    desc: <trait-description>
+  - name: <trait-name>
+    desc: <trait-description>
 actions:
   - name: <trait-name>
     desc: <trait-description>
-  - ...
-legendary_actions:
-  - name: <legendary_actions-name>
-    desc: <legendary_actions-description>
-  - ...
-bonus_actions:
   - name: <trait-name>
     desc: <trait-description>
-  - ...
-reactions:
-  - name: <reaction-name>
-    desc: <reaction-description>
-  - ...
-tactic:
-  - desc: <reaction-description>
-treasure:
-  - name: <reaction-name>
-    desc: <reaction-description>
+  - name: <trait-name>
+    desc: <trait-description>
 ```
