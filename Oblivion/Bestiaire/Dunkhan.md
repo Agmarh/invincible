@@ -30,22 +30,13 @@ actions:
   - name: Epée longue
     desc: "Attaque d’arme au corps-à-corps : +7 pour toucher, allonge 1,50 m, une cible. Touché : 17 (3d8+4) dégâts tranchants."
   - name: Arc court
-    desc: <trait-description>
-legendary_actions:
-  - name: <legendary_actions-name>
-    desc: <legendary_actions-description>
-  - ...
-bonus_actions:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
+    desc: "Attaque d’arme à distance : +5 pour toucher, portée 24/96, une cible. Touché : 12 (3d6+2) dégâts tranchants."
 reactions:
-  - name: <reaction-name>
-    desc: <reaction-description>
-  - ...
-tactic:
-  - desc: <reaction-description>
+  - name: Parade de bouclier
+    desc: "Quand une attaque touche un chevalier-dragon, il peut utiliser sa réaction afin d’ajouter 2 à sa CA."
 treasure:
-  - name: <reaction-name>
-    desc: <reaction-description>
+  - name: Bâton de guérison
+    desc: "Le bâton contient 10 charges. Tant que vous le tenez en main, vous pouvez utiliser une action pour dépenser 1 ou plusieurs de ses charges et lancer un des sorts suivants par son biais, en appliquant le DD des jets de sauvegarde contre vos sorts et le modificateur de votre caractéristique d'incantation : soin des blessures (1 charge par niveau de sort, niveau 4 au maximum), restauration inférieure (2 charges) ou soin des blessures de groupe (5 charges).
+
+Le bâton récupère 1d6+4 charges dépensées chaque jour, à l'aube. Si vous dépensez la dernière charge, lancez un d20. Le bâton disparaît en un éclat de lumière sur un résultat de 1."
 ```
