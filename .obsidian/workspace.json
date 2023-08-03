@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 4/Sans titre.md",
+                "file": "Annexe/Sortilèges/Niveau 4/Localiser une créature.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 4/Sans titre.md",
+                "file": "Annexe/Sortilèges/Niveau 4/Localiser une créature.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 4/Sans titre.md",
+                "file": "Annexe/Sortilèges/Niveau 4/Localiser une créature.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 4/Sans titre.md"
+                "file": "Annexe/Sortilèges/Niveau 4/Localiser une créature.md"
               }
             }
           }
@@ -192,7 +192,8 @@
   "active": "6850c780739b4df5",
   "lastOpenFiles": [
     "Template/Sort.md",
-    "Annexe/Sortilèges/Niveau 4/Sans titre.md",
+    "Annexe/Sortilèges/Niveau 4/Localiser une créature.md",
+    "Annexe/Sortilèges/Niveau 4/Divination.md",
     "Oblivion/Bestiaire/Le Sans-Visage.md",
     "Template/Monstre.md",
     "Oblivion/Bestiaire/Katanga.md",
@@ -216,7 +217,6 @@
     "Oblivion/Bestiaire/Gelée ocre.md",
     "Oblivion/Bestiaire/Gardien d'Azmän.md",
     "Oblivion/Bestiaire/Garde.md",
-    "Oblivion/Bestiaire/Faustit Farendhell.md",
     "Annexe/Sortilèges/Niveau 4",
     "Annexe/Règles/Sans titre",
     "Oblivion/Images/Le poignard polymorphe.jpg",
