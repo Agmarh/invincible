@@ -28,26 +28,11 @@ traits:
     desc: "Quand le gangrêvé attaque, il peut effectuer une morsure. En cas de réussite, la cible peut contracter la gangrêve (cf.p. 17 pour les règles sur la gangrêve)."
 actions:
   - name: Attaques multiples
-    desc: <trait-description>
-  - name: <trait-name>
-    desc: <trait-description>
-  - name: <trait-name>
-    desc: <trait-description>
-legendary_actions:
-  - name: <legendary_actions-name>
-    desc: <legendary_actions-description>
-  - ...
-bonus_actions:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
-reactions:
-  - name: <reaction-name>
-    desc: <reaction-description>
-  - ...
+    desc: "Faustit peut effectuer deux attaques à la rapière et une attaque de morsure avec une action d’attaque."
+  - name: Rapière
+    desc: "Attaque d’arme au corps-à-corps : +8 pour toucher, allonge 1,50 m, une cible. Touché : 9 (1d8+5) dégâts perforants."
+  - name: Morsure
+    desc: "Attaque d’arme au corps-à-corps : +3 pour toucher, allonge 1,50 m, une cible. Touché : 2 (1d4) dégâts perforants."
 tactic:
-  - desc: <reaction-description>
-treasure:
-  - name: <reaction-name>
-    desc: <reaction-description>
+  - desc: "Faustit Farendell est gangrêvé au stade 5."
 ```
