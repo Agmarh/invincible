@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oblivion/Bestiaire/Eféemère.md",
+                "file": "Oblivion/Bestiaire/Fantôme d'Anthéos.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oblivion/Bestiaire/Eféemère.md",
+                "file": "Oblivion/Bestiaire/Fantôme d'Anthéos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oblivion/Bestiaire/Eféemère.md",
+                "file": "Oblivion/Bestiaire/Fantôme d'Anthéos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oblivion/Bestiaire/Eféemère.md"
+                "file": "Oblivion/Bestiaire/Fantôme d'Anthéos.md"
               }
             }
           }
@@ -191,14 +191,15 @@
   },
   "active": "f31d6efb5d192db3",
   "lastOpenFiles": [
+    "Template/Monstre.md",
+    "Oblivion/Bestiaire/Fantôme d'Anthéos.md",
+    "Oblivion/Bestiaire/Eféemère.md",
     "Oblivion/Bestiaire/Fantôme.md",
     "Annexe/Sortilèges/Niveau 5/Restauration supérieure.md",
     "Annexe/Règles/Sans titre.md",
     "Template/Sort.md",
-    "Template/Monstre.md",
     "Annexe/Sortilèges/Niveau 5/Dissipation du mal et du bien.md",
     "Annexe/Sortilèges/Niveau 5/Rappel à la vie.md",
-    "Oblivion/Bestiaire/Eféemère.md",
     "Oblivion/Bestiaire/Dunkhan.md",
     "Oblivion/Bestiaire/Ecclésiastique.md",
     "Oblivion/Bestiaire/Chevalier du Jugement.md",
@@ -216,7 +217,6 @@
     "Oblivion/Bestiaire/Chevalier-dragon.md",
     "Oblivion/Bestiaire/Chef de chasse oungann.md",
     "Oblivion/Bestiaire/Chauve-souris.md",
-    "Oblivion/Bestiaire/Chasseur oungann.md",
     "Annexe/Sortilèges/Niveau 4",
     "Annexe/Règles/Sans titre",
     "Oblivion/Images/Le poignard polymorphe.jpg",
