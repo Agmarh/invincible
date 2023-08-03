@@ -17,13 +17,17 @@ senses: vision dans le noir 18 m, Perception passive 12
 languages: commun
 cr: 10
 traits:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
+  - name: Déplacement intangible
+    desc: "Anthéos peut traverser créatures et objets en les considérant comme un terrain difficile. Il subit 5 (1d10) dégâts de force s’il termine son tour à l’intérieur d’un objet."
+  - name: Sansibilité à la lumière du soleil
+    desc: "Anthéos subit un désavantage lors des jets d’attaque et des tests de Sagesse (Perception) basés sur la vue lorsqu’il est exposé à la lumière du soleil."
+  - name: Insensible au renvoi
+    desc: "Anthéos est immunisé au renvoi des morts-vivants."
 actions:
+  - name: Attaques multple
+    desc: <trait-description>
   - name: <trait-name>
     desc: <trait-description>
-  - ...
 legendary_actions:
   - name: <legendary_actions-name>
     desc: <legendary_actions-description>
