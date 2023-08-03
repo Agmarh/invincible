@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oblivion/Bestiaire/Griffon.md",
+                "file": "Oblivion/Bestiaire/Hékété.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oblivion/Bestiaire/Griffon.md",
+                "file": "Oblivion/Bestiaire/Hékété.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oblivion/Bestiaire/Griffon.md",
+                "file": "Oblivion/Bestiaire/Hékété.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oblivion/Bestiaire/Griffon.md"
+                "file": "Oblivion/Bestiaire/Hékété.md"
               }
             }
           }
@@ -192,6 +192,7 @@
   "active": "6850c780739b4df5",
   "lastOpenFiles": [
     "Template/Monstre.md",
+    "Oblivion/Bestiaire/Hékété.md",
     "Oblivion/Bestiaire/Griffon.md",
     "Oblivion/Bestiaire/Grand Nômage.md",
     "Annexe/Sortilèges/Niveau 5/Scrutation.md",
@@ -216,7 +217,6 @@
     "Oblivion/Objets Magiques/Gantelets de puissance d'ogre.md",
     "Oblivion/Objets Magiques/Bottes elfiques.md",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/1 - Enquête morbide et mortelles tracasseries.md",
-    "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Anthéone.md",
     "Annexe/Sortilèges/Niveau 4",
     "Annexe/Règles/Sans titre",
     "Oblivion/Images/Le poignard polymorphe.jpg",
