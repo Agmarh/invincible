@@ -24,19 +24,19 @@ traits:
     desc: "Tout jet de sauvegarde de Constitution effectué par le mékhanôm est automatiquement réussi."
 actions:
   - name: Attaques multiples
-    desc: <trait-description>
+    desc: "Le mékhanôm peut effectuer deux attaques avec une action attaquer."
   - name: Attaque frénétique
-    desc: <trait-description>
+    desc: "Le mékhanôm peut, lorsqu’il utilise l’action attaquer, utiliser une action bonus afin d’effectuer une unique attaque supplémentaire alors que son bras se met à tournoyer à grande vitesse."
   - name: Armes diverses
-    desc: <trait-description>
+    desc: "Chaque mékhanôm ne possède qu’une unique arme soudée à son bras gauche parmi la liste ci-dessous."
   - name: Masse d'arme
-    desc: <trait-description>
+    desc: "Attaque d’arme au corps-à-corps : +6 pour toucher, allonge 1,50 m, une cible. Touché : 6 (1d6+3) dégâts contondants."
   - name: Hachette
-    desc: <trait-description>
+    desc: "Attaque d’arme au corps-à-corps : +6 pour toucher, allonge 1,50 m, une cible. Touché : 6 (1d6+3) dégâts tranchants."
   - name: Epée courte
-    desc: <trait-description>
+    desc: "Attaque d’arme au corps-à-corps : +6 pour toucher, allonge 1,50 m, une cible. Touché : 6 (1d6+3) dégâts tranchants."
   - name: Marteau de gnome
-    desc: <trait-description>
+    desc: "Attaque d’arme au corps-à-corps : +6 pour toucher, allonge 1,50 m, une cible. Touché : 6 (1d6+3) dégâts contondants."
   - name: Arbalète de poing à répétition (pas de rechargement)
     desc: "Attaque d’arme au corps-à-corps : +6 pour toucher, portée 9/36/6, une cible. Touché : 6 (1d6+3) dégâts perforants."
   - name: Autodestruction
