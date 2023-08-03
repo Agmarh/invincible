@@ -29,10 +29,15 @@ traits:
   - name: Santé divine
     desc: "Malathor est immunisé contre les maladies."
 actions:
-  - name: <trait-name>
+  - name: Attaques multiples
     desc: <trait-description>
-  - ...
+  - name: Epée à deux mains enflammée
+    desc: <trait-description>
 treasure:
-  - name: <reaction-name>
-    desc: <reaction-description>
+  - name: Epée enflammée
+  - name: Clibanion
+  - name: Paquetage d'explorateur
+  - name: Habits sacerdotaux de Justicaar
+  - name: Amulette sacrée
+  - name: 150 po
 ```
