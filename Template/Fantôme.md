@@ -11,8 +11,8 @@ hit_dice: 10d8
 speed: 0 m, vol 12 m
 stats: [7, 13, 10, 10, 12, 17]
 damage_resistances: d'acide, de feu, de foudre, de tonnerre et contondants, perforants et tranchants infligés par des attaques non-magiques
-damage_immunities: de froid, nécrotiqu
-condition_immunities: string
+damage_immunities: de froid, nécrotiques et de poison
+condition_immunities: A terre, [[Charmé]], [[Empoigné]], [[Empoisonné]], Epuisé, [[Entravé]], [[Paralysé]], [[Pétrifié]], [[Terrorisé]]
 senses: string
 languages: string
 cr: 1
