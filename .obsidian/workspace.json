@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oblivion/Bestiaire/Chef de chasse oungann.md",
+                "file": "Oblivion/Bestiaire/Chelios.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oblivion/Bestiaire/Chef de chasse oungann.md",
+                "file": "Oblivion/Bestiaire/Chelios.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oblivion/Bestiaire/Chef de chasse oungann.md",
+                "file": "Oblivion/Bestiaire/Chelios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oblivion/Bestiaire/Chef de chasse oungann.md"
+                "file": "Oblivion/Bestiaire/Chelios.md"
               }
             }
           }
@@ -191,9 +191,10 @@
   },
   "active": "aa6de469ba1fc10f",
   "lastOpenFiles": [
-    "Oblivion/Bestiaire/Chasseur oungann.md",
-    "Oblivion/Bestiaire/Chef de chasse oungann.md",
     "Template/Monstre.md",
+    "Oblivion/Bestiaire/Chelios.md",
+    "Oblivion/Bestiaire/Chef de chasse oungann.md",
+    "Oblivion/Bestiaire/Chasseur oungann.md",
     "Oblivion/Bestiaire/Barbare skïam (Berserker).md",
     "Oblivion/Bestiaire/Barbare skïam (Guerrier Tribal).md",
     "Oblivion/Bestiaire/Bâal.md",
@@ -223,7 +224,6 @@
     "Invincible/Images/Pasted image 20230707113507.png",
     "Invincible/Images/Pasted image 20230707113503.png",
     "Oblivion/Objets Magiques/Gantelets de puissance d'ogre.md",
-    "image.png.md",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Anthéone",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Gangêve",
     "Oblivion/PDF/Oblivion 1 Le sang d'Oblivion.pdf",

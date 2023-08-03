@@ -18,5 +18,5 @@ traits:
     desc: "Au début de son tour, le berserker peut bénéficier d'un avantage lors de tous ses jets d'attaque d'arme au corps à corps pendant ce tour, mais les jets d'attaque effectués contre lui bénéficient d'un avantage jusqu'au début de son prochain tour."
 actions:
   - name: Lance
-    desc: "Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une cible. Touché : 5 (1d6+2) dégâts perforants."
+    desc: "Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible. Touché : 9 (1d6+3) dégâts perforants."
 ```
