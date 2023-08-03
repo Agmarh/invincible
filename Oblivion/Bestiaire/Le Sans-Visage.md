@@ -25,7 +25,13 @@ spells:
   - Tours de magie: [[Assistance]], [[Viser juste]]
   - 1er niveau (4 emplacements): [[Communication avec les animaux]], [[Compréhension des langues]], [[Détection de la magie]], [[Détection du poison et des maladies]]; [[Détection du mal et du bien]], [[Identification]], [[Marque du chasseur]]
   - 2e niveau (3 emplacements): [[Augure]], [[Détection des pensées]], [[Localiser des animaux ou des plantes]], [[Localiser un objet]], [[Trouver les pièges]], [[Voir l'invisible]]
-  - 3e niveau (3 emplacements): [[b]]
+  - 3e niveau (3 emplacements): [[Bénédiction héroïque]], [[Clairvoyance]], [[Détection des vivants]], [[Langues]]
+  - 4e niveau (3 emplacements): 
+  - 5e niveau (3 emplacements):
+  - 6e niveau (1 emplacement):
+  - 7e niveau (1 emplacement):
+  - 8e niveau (1 emplacement):
+  - 9e niveau (1 emplacement):
 traits:
   - name: <trait-name>
     desc: <trait-description>
