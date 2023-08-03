@@ -1,22 +1,22 @@
 ```statblock
-name: Hyène de guerre
-size: G
+name: Hyène
+size: M
 type: Bête
 subtype: 
 alignment: Non-alignée
-ac: 12
-hp: 45
-hit_dice: 6d10+12
+ac: 11
+hp: 5
+hit_dice: 1d8+1
 speed: 15 m
-stats: [16, 14, 14, 2, 12, 7]
+stats: [11, 13, 12, 2, 12, 5]
 skillsaves:
   - Perception: 3
 senses: Perception passive 13
-languages: 
-cr: 1
+languages: -
+cr: 0
 traits:
   - name: Déchaînée
-    desc: "Quand la hyène réduit les points de vie d'une créature à 0 suite à une attaque au corps à corps lors de son tour, elle peut effectuer une action bonus pour se déplacer sur une distance maximale égale à la moitié de sa vitesse et effectuer une attaque de morsure."
+    desc: "La hyène obtient un avantage lors d'un jet d'attaque effectué contre une créature si au moins un des alliés de la hyène, qui n'est pas [[Neutralisé]], se trouve à 1,50 mètre ou moins de la créature qu'elle attaque."
 actions:
   - name: Morsure
     desc: "Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible. Touché : 10 (2d6+3) dégâts perforants."
