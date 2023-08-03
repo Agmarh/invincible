@@ -9,11 +9,15 @@ ac: 16
 hp: 105
 hit_dice: 14d10+27
 speed: 12 m, nage 12 m
-stats: [10, 10, 10, 10, 10, 10]
+stats: [20, 16, 14, 13, 14, 10]
 saves:
-  - <ability-score>: number
+  - For: +8
+  - Dex: +6
+  - Sag: +5
 skillsaves:
-  - <skill-name>: number
+  - Athlétisme: +8
+  - Discrétion: +6
+  - Perception: +5
 damage_vulnerabilities: string
 damage_resistances: string
 damage_immunities: string
