@@ -27,19 +27,26 @@ traits:
   - name: Résistance à la magie
     desc: "Ils obtiennent un avantage sur tous les jets de sauvegarde afin de résister aux sorts d’illusion."
   - name: Chevelure parfumée
-    desc: <trait-description>
+    desc: "Le parfum de la chevelure florale des éféemères produit à la fois les effets des sorts charme-personne et apaisement des émotions (jet de sauvegarde DD 17 pour y résister), de façon permanente, dans un rayon de 6 m autour de la créature."
   - name: Apothéose
-    desc: <trait-description>
+    desc: "Pour le bien d’une tierce personne, et seulement dans ce but, une éféemère peut consumer son pouvoir d’un seul coup et faire d’un rêve une réalité. En pratique, l’effet est identique à un souhait que l’éféemère formule en fonction de sa personnalité. Par exemple, une éféemère, incarnation d’un rêve apaisant, pourra choisir de mourir en Apothéose pour apporter à quelqu’un la paix de l’âme (dissiper une malédiction...) ou du corps (guérir une blessure critique...). Quel que soit le résultat, l’éféemère se consume définitivement au cours de cette Apothéose."
   - name: Engendrer une fée
-    desc: <trait-description>
+    desc: "Comme les autres nuitants, les éféemères ne peuvent pas se reproduire. Elles peuvent néanmoins engendrer une fée, une fois par an, en plantant une graine unique issue de leur chevelure de fleur. La graine germe en sept jours, produisant une cosse d’or. Jetez 1d6 pour déterminer quelle fée apparaît alors : 1-2 une dryade, 3-4 un esprit follet, 5-6 un satyre. Ces créatures possèdent un aspect légèrement modifié, comme tout Oblivien « ordinaire »."
   - name: Sarbacane
-    desc: <trait-description>
+    desc: "Cet objet de nature magique est considéré comme une arme +2. Il sert à projeter des fléchettes ou des poudres, selon que l’éféemère souhaite affecter une ou plusieurs personnes."
   - name: Pouvoirs magiques
-    desc: <trait-description>
+    desc: "L'éféemère est capable de lancer les sorts suivants : charme-personne, lumières dansantes, détection du bien et du mal, invisibilité, image majeure, non détection. Une éféemère sur dix peut incanter métamorphose suprême. Quand l’un de ces sorts est lancé, elle doit attendre d’avoir effectué un repos long avant de pouvoir le relancer."
 actions:
+  - name: Attaques multiples
+    desc: <trait-description>
   - name: <trait-name>
     desc: <trait-description>
-  - ...
+  - name: <trait-name>
+    desc: <trait-description>
+  - name: <trait-name>
+    desc: <trait-description>
+  - name: <trait-name>
+    desc: <trait-description>
 legendary_actions:
   - name: <legendary_actions-name>
     desc: <legendary_actions-description>
