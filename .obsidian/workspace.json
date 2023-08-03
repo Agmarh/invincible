@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Template/Monstre.md",
+                "file": "Oblivion/Bestiaire/Mangeuse d'araignées.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Template/Monstre.md",
+                "file": "Oblivion/Bestiaire/Mangeuse d'araignées.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Template/Monstre.md",
+                "file": "Oblivion/Bestiaire/Mangeuse d'araignées.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Template/Monstre.md"
+                "file": "Oblivion/Bestiaire/Mangeuse d'araignées.md"
               }
             }
           }
@@ -191,8 +191,9 @@
   },
   "active": "6850c780739b4df5",
   "lastOpenFiles": [
-    "Oblivion/Bestiaire/Malathor.md",
     "Template/Monstre.md",
+    "Oblivion/Bestiaire/Mangeuse d'araignées.md",
+    "Oblivion/Bestiaire/Malathor.md",
     "Oblivion/Bestiaire/Le Sans-Visage.md",
     "Annexe/Sortilèges/Niveau 5/Légende.md",
     "Template/Sort.md",
@@ -218,7 +219,6 @@
     "Oblivion/Bestiaire/Hyène.md",
     "Oblivion/Bestiaire/Hyène de guerre.md",
     "Oblivion/Bestiaire/Hydre zombie.md",
-    "Oblivion/Bestiaire/Humanoïde gangrêvé.md",
     "Annexe/Sortilèges/Niveau 4",
     "Annexe/Règles/Sans titre",
     "Oblivion/Images/Le poignard polymorphe.jpg",
