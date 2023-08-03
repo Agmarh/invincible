@@ -12,23 +12,20 @@ speed: 9 m
 stats: [10, 20, 12, 15, 14, 20]
 saves:
   - Dex: +8
-  - Cha: 
+  - Cha: +8
 skillsaves:
-  - <skill-name>: number
-damage_vulnerabilities: string
-damage_resistances: string
-damage_immunities: string
-condition_immunities: string
-senses: string
-languages: string
-cr: 1
-spells:
-  - <description>
-  - <spell level>: <spell-list>
+  - Discrétion: +11
+  - Perception: +8
+senses: Perception passive 18
+languages: commun, elfe
+cr: 8
 traits:
+  - name: Immunité aux effets
+    desc: <trait-description>
   - name: <trait-name>
     desc: <trait-description>
-  - ...
+  - name: <trait-name>
+    desc: <trait-description>
 actions:
   - name: <trait-name>
     desc: <trait-description>
