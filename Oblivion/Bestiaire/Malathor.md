@@ -30,11 +30,11 @@ traits:
     desc: "Malathor est immunisé contre les maladies."
 actions:
   - name: Attaques multiples
-    desc: <trait-description>
+    desc: "Malathor peut effectuer deux attaques au corps-à-corps avec une action d’attaque."
   - name: Epée à deux mains enflammée
-    desc: <trait-description>
+    desc: "Attaque d’arme au corps-à-corps : +7 pour toucher, allonge 1,50 m, une cible. Touché : 11 (2d6+4) dégâts tranchants et 3 (1d6) dégâts de feu."
 treasure:
-  - name: Epée enflammée
+  - name: Epée enflammée (+1d6 dégâts de feu)
   - name: Clibanion
   - name: Paquetage d'explorateur
   - name: Habits sacerdotaux de Justicaar
