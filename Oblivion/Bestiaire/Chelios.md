@@ -42,26 +42,9 @@ traits:
     desc: "Chelios peut escalader des surfaces difficiles et être au plafond la tête en bas sans avoir besoin d’effectuer un jet de caractéristique."
 actions:
   - name: Attaques multiples
-    desc: <trait-description>
+    desc: "Chelios effectue trois attaques de griffes. S’il en réussit deux sur la même cible, il peut utiliser sa capacité Absorption magique."
   - name: Griffes
-    desc: <trait-description>
+    desc: "Attaque d’arme au corps-à-corps : +8 pour toucher, allonge 1,5 m, une cible. Touché : 13 (2d6+5) dégâts perforants. S’il réussit deux attaques contre la même cible, elle est alors empoignée."
   - name: Absorption magique
-    desc: <trait-description>
-legendary_actions:
-  - name: <legendary_actions-name>
-    desc: <legendary_actions-description>
-  - ...
-bonus_actions:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
-reactions:
-  - name: <reaction-name>
-    desc: <reaction-description>
-  - ...
-tactic:
-  - desc: <reaction-description>
-treasure:
-  - name: <reaction-name>
-    desc: <reaction-description>
+    desc: "Si Chelios empoigne une cible et que cette dernière est un lanceur de sorts, son visage s’ouvre en deux et commence à absorber la magie se trouvant en elle. La cible doit immédiatement effectuer un jet de sauvegarde de Constitution DD 14 ou perdre son plus haut emplacement de sort non encore dépensé. Au début de chacun de ses tours, tant qu’elle reste empoignée, la cible doit effectuer un nouveau jet de sauvegarde ou perdre un autre emplacement de sort. Si la cible n’a plus aucun emplacement de sort disponible pour absorption, elle subit un niveau de fatigue."
 ```

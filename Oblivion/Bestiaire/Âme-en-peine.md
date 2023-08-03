@@ -8,7 +8,7 @@ alignment: Neutre Mauvais
 ac: 13
 hp: 67
 hit_dice: 9d8+27
-speed: 0m, vol 18m (vol stationnaire)
+speed: 0 m, vol 18 m (vol stationnaire)
 stats: [6, 16, 16, 12, 14, 15]
 damage_resistances: d'acide, de feu, de foudre, de froid, de tonnerre et contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
 damage_immunities: nécrotiques et de poison

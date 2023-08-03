@@ -8,7 +8,7 @@ alignment: Non aligné
 ac: 15
 hp: 11
 hit_dice: 2d8+2
-speed: 9
+speed: 9 m
 stats: [13, 11, 12, 8, 11, 8]
 damage_resistances: feu
 senses: Perception passive 10

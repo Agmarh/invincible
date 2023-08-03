@@ -8,7 +8,7 @@ alignment: Non aligné
 ac: 16
 hp: 16
 hit_dice: 3d8+3
-speed: 9
+speed: 9 m
 stats: [11, 14, 12, 11, 13, 11]
 skillsaves:
   - Discrétion: +4

@@ -8,7 +8,7 @@ alignment: Neutre
 ac: 16 (cotte de mailles)
 hp: 78
 hit_dice: 12d8+24
-speed: 9m
+speed: 9 m
 stats: [12, 15, 14, 12, 19, 13]
 saves:
   - Con: +5
