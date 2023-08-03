@@ -12,21 +12,16 @@ speed: 9 m
 stats: [15, 16, 14, 14, 11, 14]
 saves:
   - For: +4
-  - D
+  - Dex: +5
+  - Sag: +2
 skillsaves:
-  - <skill-name>: number
-damage_vulnerabilities: string
-damage_resistances: string
-damage_immunities: string
-condition_immunities: string
+  - Athlétisme: +4
+  - Supercherie: +4
 senses: Perception passive 10
-languages: string
-cr: 1
-spells:
-  - <description>
-  - <spell level>: <spell-list>
+languages: commun
+cr: 2
 traits:
-  - name: <trait-name>
+  - name: Maîtrise des outils de tatoueur
     desc: <trait-description>
   - ...
 actions:
