@@ -27,18 +27,18 @@ actions:
     desc: <trait-description>
   - name: Attaque frénétique
     desc: <trait-description>
-  - name: Armes
+  - name: Armes diverses
     desc: <trait-description>
-  - name: <trait-name>
+  - name: Masse d'arme
     desc: <trait-description>
-  - name: <trait-name>
+  - name: Hachette
     desc: <trait-description>
-  - name: <trait-name>
+  - name: Epée courte
     desc: <trait-description>
-  - name: <trait-name>
+  - name: Marteau de gnome
     desc: <trait-description>
-  - name: <trait-name>
-    desc: <trait-description>
-  - name: <trait-name>
-    desc: <trait-description>
+  - name: Arbalète de poing à répétition (pas de rechargement)
+    desc: "Attaque d’arme au corps-à-corps : +6 pour toucher, portée 9/36/6, une cible. Touché : 6 (1d6+3) dégâts perforants."
+  - name: Autodestruction
+    desc: "Le mékhanôm peut, si cela est utile à sa mission, décider de s’autodétruire dans une explosion dévastatrice. Il peut utiliser sa réaction à tout moment afin de déclencher l’explosion. Toutes les créatures situées dans un rayon de 3 m autour du mékhanôm doivent réussir un jet de sauvegarde de Dextérité DD 13. En cas d’échec, elles subissent 21 (4d10) points de dégâts. En cas de réussite, elles n’en subissent que la moitié. Le mékhanôm est détruit dans le processus."
 ```
