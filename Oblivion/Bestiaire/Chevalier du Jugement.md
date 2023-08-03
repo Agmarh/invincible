@@ -1,17 +1,18 @@
 ```statblock
 image: [[monstre.png]]
-name: Nom
-size: 
-type: 
+name: Chevalier du Jugement
+size: M
+type: Humanoïde
 subtype: 
-alignment: Neutre
-ac: 10
-hp: 0
-hit_dice: 1d8+0
-speed: 0
-stats: [10, 10, 10, 10, 10, 10]
+alignment: Loyal Variable
+ac: 18 (harnois)
+hp: 75
+hit_dice: 10d8+30
+speed: 9 m
+stats: [19, 15, 16, 10, 10, 15]
 saves:
-  - <ability-score>: number
+  - For: +7
+  - 
 skillsaves:
   - <skill-name>: number
 damage_vulnerabilities: string
