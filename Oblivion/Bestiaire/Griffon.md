@@ -15,32 +15,14 @@ skillsaves:
 senses: vision dans le noir 18 m, Perception passive 15
 languages: -
 cr: 2
-spells:
-  - <description>
-  - <spell level>: <spell-list>
 traits:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
+  - name: Vue aiguisée
+    desc: "Le griffon obtient un avantage lors des tests de Sagesse (Perception) basés sur la vue."
 actions:
-  - name: <trait-name>
+  - name: Attaques multiples
     desc: <trait-description>
-  - ...
-legendary_actions:
-  - name: <legendary_actions-name>
-    desc: <legendary_actions-description>
-  - ...
-bonus_actions:
-  - name: <trait-name>
+  - name: Bec
     desc: <trait-description>
-  - ...
-reactions:
-  - name: <reaction-name>
-    desc: <reaction-description>
-  - ...
-tactic:
-  - desc: <reaction-description>
-treasure:
-  - name: <reaction-name>
-    desc: <reaction-description>
+  - name: 
+    desc: <trait-description>
 ```
