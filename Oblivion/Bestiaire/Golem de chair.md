@@ -10,15 +10,11 @@ hp: 93
 hit_dice: 11d8+44
 speed: 9 m
 stats: [19, 9, 18, 6, 10, 5]
-damage_resistances: de foudre, de poison et contondants, perforants et tranchants ingligés par des attaques non-magiques qui ne sont pas en adamantium
-damage_immunities: [[Charmé]], [[Empoisonné]], Epuisé, [[Paralysé]], [[]]
-condition_immunities: string
-senses: string
-languages: string
-cr: 1
-spells:
-  - <description>
-  - <spell level>: <spell-list>
+damage_immunities: de foudre, de poison et contondants, perforants et tranchants ingligés par des attaques non-magiques qui ne sont pas en adamantium
+condition_immunities: [[Charmé]], [[Empoisonné]], Epuisé, [[Paralysé]], [[Pétrifié]], [[Terrorisé]]
+senses: vision dans le noir 18 m, Perception passive 10
+languages: comprend les langues de son créateur mais ne peut pas parler
+cr: 5
 traits:
   - name: <trait-name>
     desc: <trait-description>
