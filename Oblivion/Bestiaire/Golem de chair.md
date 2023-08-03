@@ -25,14 +25,14 @@ traits:
   - name: Forme immuable
     desc: "Le golem est immunisé contre les sorts et effets susceptibles d'altérer sa forme."
   - name: Fou furieux
-    desc: "Chaque fois que le golem débute son tour avec 40 points de vie ou moins, lancez un d6. Sur un résultat de 6, le golem devient fou furieux. À chacun de ses tours tant qu'il est dans cet état, le golem attaque la créature la plus proche de lui dans son champ de vision. S'il n'y a aucune créature suffisamment proche pour s'en approcher et l'attaquer, le golem attaque un objet, de préférence plus petit que lui. Une fois fou furieux, le golem le reste à moins qu'il ne soit détruit ou qu'il récupère la totalité de ses points de vie.  
-Le créateur du golem, s'il se trouve à 18 mètres ou moins du golem fou furieux, peut tenter de le calmer en s'adressant à lui d'une voix ferme et autoritaire. Le golem doit pouvoir entendre son créateur. Ce dernier doit effectuer une action pour tenter un test de Charisme (Persuasion) DD 15. En cas de test réussi, le golem se calme. S'il subit à nouveau des dégâts alors qu'il lui reste 40 points de vie ou moins, il peut de nouveau devenir fou furieux."
+    desc: "Chaque fois que le golem débute son tour avec 40 points de vie ou moins, lancez un d6. Sur un résultat de 6, le golem devient fou furieux. À chacun de ses tours tant qu'il est dans cet état, le golem attaque la créature la plus proche de lui dans son champ de vision. S'il n'y a aucune créature suffisamment proche pour s'en approcher et l'attaquer, le golem attaque un objet, de préférence plus petit que lui. Une fois fou furieux, le golem le reste à moins qu'il ne soit détruit ou qu'il récupère la totalité de ses points de vie. Le créateur du golem, s'il se trouve à 18 mètres ou moins du golem fou furieux, peut tenter de le calmer en s'adressant à lui d'une voix ferme et autoritaire. Le golem doit pouvoir entendre son créateur. Ce dernier doit effectuer une action pour tenter un test de Charisme (Persuasion) DD 15. En cas de test réussi, le golem se calme. S'il subit à nouveau des dégâts alors qu'il lui reste 40 points de vie ou moins, il peut de nouveau devenir fou furieux."
   - name: Résistance à la magie
-    desc: <trait-description>
+    desc: "Le golem obtient un avantage lors des jets de sauvegarde contre les sorts et autres effets magiques."
 actions:
+  - name: Attaques multiples
+    desc: <trait-description>
   - name: <trait-name>
     desc: <trait-description>
-  - ...
 legendary_actions:
   - name: <legendary_actions-name>
     desc: <legendary_actions-description>
