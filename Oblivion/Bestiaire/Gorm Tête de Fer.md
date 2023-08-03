@@ -23,27 +23,10 @@ languages: commun, gnome
 cr: 3
 traits:
   - name: Anneau d'invibilité
-    desc: Par une action, Gorm peut activer son anneau magique. Il 
-  - ...
+    desc: Par une action, Gorm peut activer son anneau magique. Il bénéficie désormais des effets du sort [[Invisibilité]]
 actions:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
-legendary_actions:
-  - name: <legendary_actions-name>
-    desc: <legendary_actions-description>
-  - ...
-bonus_actions:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
-reactions:
-  - name: <reaction-name>
-    desc: <reaction-description>
-  - ...
-tactic:
-  - desc: <reaction-description>
-treasure:
-  - name: <reaction-name>
-    desc: <reaction-description>
+  - name: Attaques multiples
+    desc: "Gorm peut effectuer deux attaques avec une action d’attaque."
+  - name: Dague de venin
+    desc: "Attaque d’arme au corps-à-corps : +6 pour toucher, allonge 1,50 m, une cible. Touché : 6 (1d4+4) dégâts perforants et 3 (1d6) dégâts de poison. De plus, s’il réussit son attaque, la cible doit effectuer un jet de sauvegarde de Constitution DD 12 ou subir l’état empoisonné pour 1d4 rounds."
 ```
