@@ -19,13 +19,15 @@ senses: Perception passive 13
 languages: commun
 cr: 1/2
 traits:
-  - name: Ouïe 
-    desc: <trait-description>
-  - ...
+  - name: Ouïe et vue aiguisées
+    desc: "L'éclaireur obtient un avantage lors des teste de Sagesse (Perception) basés sur l'ouïe ou la vue."
 actions:
   - name: <trait-name>
     desc: <trait-description>
-  - ...
+  - name: <trait-name>
+    desc: <trait-description>
+  - name: <trait-name>
+    desc: <trait-description>
 legendary_actions:
   - name: <legendary_actions-name>
     desc: <legendary_actions-description>
