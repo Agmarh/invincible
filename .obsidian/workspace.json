@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 4/Tentacules noirs.md",
+                "file": "Template/Sort.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 4/Tentacules noirs.md",
+                "file": "Template/Sort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 4/Tentacules noirs.md",
+                "file": "Template/Sort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 4/Tentacules noirs.md"
+                "file": "Template/Sort.md"
               }
             }
           }
@@ -191,8 +191,8 @@
   },
   "active": "4d92a6581bfc8ce7",
   "lastOpenFiles": [
-    "Template/Sort.md",
     "Annexe/Sortilèges/Niveau 4/Tentacules noirs.md",
+    "Template/Sort.md",
     "Annexe/Sortilèges/Niveau 4/Sanctuaire privé.md",
     "Annexe/Sortilèges/Niveau 4/Bannissement.md",
     "Annexe/Sortilèges/Niveau 4/Contrôle de l'eau.md",
