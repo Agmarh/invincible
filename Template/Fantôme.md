@@ -8,15 +8,10 @@ alignment: N'importe quel alignement
 ac: 11
 hp: 45
 hit_dice: 10d8
-speed: 0 m, vl 
-stats: [10, 10, 10, 10, 10, 10]
-saves:
-  - <ability-score>: number
-skillsaves:
-  - <skill-name>: number
-damage_vulnerabilities: string
-damage_resistances: string
-damage_immunities: string
+speed: 0 m, vol 12 m
+stats: [7, 13, 10, 10, 12, 17]
+damage_resistances: d'acide, de feu, de foudre, de tonnerre et contondants, perforants et tranchants infligés par des attaques non-magiques
+damage_immunities: de froid, nécrotiqu
 condition_immunities: string
 senses: string
 languages: string
