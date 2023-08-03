@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oblivion/Bestiaire/Fantôme.md",
+                "file": "Annexe/Sortilèges/Niveau 5/Restauration supérieure.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oblivion/Bestiaire/Fantôme.md",
+                "file": "Annexe/Sortilèges/Niveau 5/Restauration supérieure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oblivion/Bestiaire/Fantôme.md",
+                "file": "Annexe/Sortilèges/Niveau 5/Restauration supérieure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oblivion/Bestiaire/Fantôme.md"
+                "file": "Annexe/Sortilèges/Niveau 5/Restauration supérieure.md"
               }
             }
           }
@@ -191,10 +191,11 @@
   },
   "active": "aa6de469ba1fc10f",
   "lastOpenFiles": [
-    "Template/Monstre.md",
-    "Oblivion/Bestiaire/Fantôme.md",
-    "Annexe/Sortilèges/Niveau 5/Dissipation du mal et du bien.md",
     "Template/Sort.md",
+    "Annexe/Sortilèges/Niveau 5/Restauration supérieure.md",
+    "Oblivion/Bestiaire/Fantôme.md",
+    "Template/Monstre.md",
+    "Annexe/Sortilèges/Niveau 5/Dissipation du mal et du bien.md",
     "Annexe/Sortilèges/Niveau 5/Rappel à la vie.md",
     "Oblivion/Bestiaire/Eféemère.md",
     "Oblivion/Bestiaire/Dunkhan.md",
@@ -216,7 +217,6 @@
     "Oblivion/Bestiaire/Chauve-souris.md",
     "Oblivion/Bestiaire/Chasseur oungann.md",
     "Oblivion/Bestiaire/Barbare skïam (Guerrier Tribal).md",
-    "Oblivion/Bestiaire/Barbare skïam (Berserker).md",
     "Annexe/Sortilèges/Niveau 4",
     "Annexe/Règles/Sans titre",
     "Oblivion/Images/Le poignard polymorphe.jpg",
