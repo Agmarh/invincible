@@ -14,34 +14,17 @@ damage_resistances: d'acide
 damage_immunities: de foudre et tranchants
 condition_immunities: A terre, [[Assourdi]], [[Aveuglé]], [[Charmé]], Epuisé, [[Terrorisé]]
 senses: vision aveugle 18 m (aveugle au-delà de ce rayon), Perception passive 8
-languages: string
-cr: 1
-spells:
-  - <description>
-  - <spell level>: <spell-list>
+languages: -
+cr: 2
 traits:
-  - name: <trait-name>
+  - name: Informe
     desc: <trait-description>
-  - ...
+  - name: Pattes d'araignée
+    desc: <trait-description>
 actions:
-  - name: <trait-name>
+  - name: Pseudopode
     desc: <trait-description>
-  - ...
-legendary_actions:
-  - name: <legendary_actions-name>
-    desc: <legendary_actions-description>
-  - ...
-bonus_actions:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
 reactions:
-  - name: <reaction-name>
-    desc: <reaction-description>
-  - ...
-tactic:
-  - desc: <reaction-description>
-treasure:
-  - name: <reaction-name>
+  - name: Division
     desc: <reaction-description>
 ```
