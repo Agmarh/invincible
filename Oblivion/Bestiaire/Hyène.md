@@ -19,5 +19,5 @@ traits:
     desc: "La hyène obtient un avantage lors d'un jet d'attaque effectué contre une créature si au moins un des alliés de la hyène, qui n'est pas [[Neutralisé]], se trouve à 1,50 mètre ou moins de la créature qu'elle attaque."
 actions:
   - name: Morsure
-    desc: "Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible. Touché : 10 (2d6+3) dégâts perforants."
+    desc: "Attaque d'arme au corps à corps : +2 pour toucher, allonge 1,50 m, une cible. Touché : 3 (1d6) dégâts perforants."
 ```
