@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9c708da9600f39c6",
+        "id": "997efed7e6ec85ee",
         "type": "tabs",
         "children": [
           {
-            "id": "f31d6efb5d192db3",
+            "id": "885ba471a1528b0c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/1 - Enquête morbide et mortelles tracasseries.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -189,7 +184,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f31d6efb5d192db3",
+  "active": "efc7fbc9dabff410",
   "lastOpenFiles": [
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Anthéone.md",
     "Oblivion/Bestiaire/Chasseur oungann.md",
