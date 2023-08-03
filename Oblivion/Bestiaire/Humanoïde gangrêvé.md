@@ -15,23 +15,5 @@ languages: commun
 cr: 0
 actions:
   - name: Gangrêvé
-    desc: <trait-description>
-  - ...
-legendary_actions:
-  - name: <legendary_actions-name>
-    desc: <legendary_actions-description>
-  - ...
-bonus_actions:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
-reactions:
-  - name: <reaction-name>
-    desc: <reaction-description>
-  - ...
-tactic:
-  - desc: <reaction-description>
-treasure:
-  - name: <reaction-name>
-    desc: <reaction-description>
+    desc: "Quand le gangrêvé attaque, il effectue une morsure (attaque +4, 2 (1d4) dégâts perforants), allonge 1,5 m. En cas de réussite, la cible peut contracter la gangrêve (cf.p. 17 pour les règles sur la gangrêve)."
 ```
