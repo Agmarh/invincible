@@ -8,8 +8,8 @@ alignment: Neutre
 ac: 20
 hp: 172
 hit_dice: 23d8+69
-speed: 0
-stats: [10, 10, 10, 10, 10, 10]
+speed: 9 m
+stats: [6, 16, 16, 12, 14, 18]
 saves:
   - <ability-score>: number
 skillsaves:
