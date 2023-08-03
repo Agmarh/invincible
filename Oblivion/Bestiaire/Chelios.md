@@ -18,13 +18,11 @@ skillsaves:
   - Athlétisme: +8
   - Discrétion: +6
   - Perception: +5
-damage_vulnerabilities: string
-damage_resistances: string
-damage_immunities: string
-condition_immunities: string
-senses: string
-languages: string
-cr: 1
+damage_immunities: feu et de poison
+condition_immunities: [[Empoisonné]]
+senses: vision dnas le noir 36 m, Perception passive 15
+languages: commun, gnome, abyssal, télépathie 36 m
+cr: 6
 spells:
   - <description>
   - <spell level>: <spell-list>
