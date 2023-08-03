@@ -1,8 +1,8 @@
 ---
-type: rare
-niveau: 2
-incantation: 
-distance: 
+type: Divination
+niveau: 5 (rituel)
+incantation: 1 action
+distance: 9
 composantes: 
 temps: 
 classe: 
