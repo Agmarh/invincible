@@ -19,16 +19,16 @@ languages: -
 cr: 8
 traits:
   - name: Petit dormeur
-    desc: <trait-description>
+    desc: "Quand l'hydre dort, une de ses têtes au moins reste éveillée."
   - name: Retenir son souffle
-    desc: <trait-description>
+    desc: "L'hydre peut retenir son souffle pendant 1 heure."
   - name: Tête multiples
-    desc: <trait-description>
-  - name: <trait-name>
+    desc: "L'hydre a cinq têtes. Tant qu'il lui reste plus d'une tête, l'hydre obtient un avantage lors des jets de sauvegarde effectués pour ne pas être assourdie, aveuglée, charmée, étourdie, inconsciente ou terrorisée. Chaque fois que l'hydre subit 25 dégâts ou plus lors d'un même tour, une de ses têtes meurt. Si toutes ses têtes meurent, l'hydre meurt également. À la fin de son tour, deux têtes repoussent pour chacune des têtes mortes lors du dernier tour, à moins qu'elle n'ait subit des dégâts de feu depuis son dernier tour. L'hydre récupère 10 points de vie pour chaque nouvelle tête repoussée de cette façon."
+  - name: Têtes réactives
     desc: <trait-description>
 actions:
-  - name: <trait-name>
+  - name: Attaques multiples
     desc: <trait-description>
-  - name: <trait-name>
+  - name: Morsure
     desc: <trait-description>
 ```
