@@ -41,8 +41,8 @@ actions:
   - name: Dague
     desc: "Attaque d'arme au corps à corps ou à distance : +6 pour toucher, allonge 1,50 ou portée 6/18 m, une cible. Touché : 4 (1d4+2) dégâts perforants."
 treasure:
-  - name: <reaction-name>
-    desc: <reaction-description>
-  - name: <reaction-name>
-    desc: <reaction-description>
+  - name: Manteau de régénération
+    desc: "Régénère 10 PV par tour, ne peut être porté que par le Sans-Visage."
+  - name: Anneau du Franc-Rêveur
+    desc: "1 réaction, téléporte le Sans-Visage dans un sanctuaire protégé quand on l'attaque."
 ```
