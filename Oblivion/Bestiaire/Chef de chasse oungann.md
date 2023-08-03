@@ -5,27 +5,18 @@ size: M
 type: Humanoïde
 subtype: 
 alignment: Non aligné
-ac: 16
-hp: 16
-hit_dice: 3d8+3
+ac: 15
+hp: 67
+hit_dice: 9d8+27
 speed: 9
-stats: [11, 14, 12, 11, 13, 11]
-skillsaves:
-  - Discrétion: +4
-  - Nature: +2
-  - Perception: +3
-  - Survie: +3
-senses: Perception passive 13
+stats: [16, 12, 17, 9, 11, 9]
+senses: Perception passive 10
 languages: commun
-cr: 1/2
+cr: 2
 traits:
-  - name: Ouïe et vue aiguisées
-    desc: "L'éclaireur obtient un avantage lors des teste de Sagesse (Perception) basés sur l'ouïe ou la vue."
+  - name: Téméraire
+    desc: "Au début de son tour, le berserker peut bénéficier d'un avantage lors de tous ses jets d'attaque d'arme au corps à corps pendant ce tour, mais les jets d'attaque effectués contre lui bénéficient d'un avantage jusqu'au début de son prochain tour."
 actions:
-  - name: Attaques multiples
-    desc: "L'éclaireur effectue deux attaques au corps à corps ou deux attaques à distance."
-  - name: Arc long
-    desc: "Attaque d'arme à distance : +4 pour toucher, portée 45/180 m, une cible. Touché : 6 (1d8+2) dégâts perforants."
   - name: Lance
     desc: "Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une cible. Touché : 5 (1d6+2) dégâts perforants."
 ```
