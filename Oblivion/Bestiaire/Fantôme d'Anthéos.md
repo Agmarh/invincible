@@ -10,14 +10,9 @@ hp: 172
 hit_dice: 23d8+69
 speed: 9 m
 stats: [6, 16, 16, 12, 14, 18]
-saves:
-  - <ability-score>: number
-skillsaves:
-  - <skill-name>: number
-damage_vulnerabilities: string
-damage_resistances: string
-damage_immunities: string
-condition_immunities: string
+damage_resistances: d'acide, de feu, de foudre, de froid, de tonnerre, radiants et contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
+damage_immunities: nécrotiques et de poison
+condition_immunities: A terre, [[Charmé]], 
 senses: string
 languages: string
 cr: 1
