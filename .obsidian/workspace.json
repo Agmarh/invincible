@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oblivion/Bestiaire/Grand Nômage.md",
+                "file": "Annexe/Sortilèges/Niveau 4/Bannissement.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oblivion/Bestiaire/Grand Nômage.md",
+                "file": "Annexe/Sortilèges/Niveau 4/Bannissement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oblivion/Bestiaire/Grand Nômage.md",
+                "file": "Annexe/Sortilèges/Niveau 4/Bannissement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oblivion/Bestiaire/Grand Nômage.md"
+                "file": "Annexe/Sortilèges/Niveau 4/Bannissement.md"
               }
             }
           }
@@ -191,8 +191,11 @@
   },
   "active": "4d92a6581bfc8ce7",
   "lastOpenFiles": [
-    "Template/Monstre.md",
+    "Template/Sort.md",
+    "Annexe/Sortilèges/Niveau 4/Bannissement.md",
+    "Annexe/Sortilèges/Niveau 4/Contrôle de l'eau.md",
     "Oblivion/Bestiaire/Grand Nômage.md",
+    "Template/Monstre.md",
     "Oblivion/Bestiaire/Gorm Tête de Fer.md",
     "Oblivion/Bestiaire/Golem de chair.md",
     "Oblivion/Bestiaire/Gobelours.md",
@@ -213,10 +216,7 @@
     "Oblivion/Bestiaire/Eféemère.md",
     "Annexe/Sortilèges/Niveau 5/Restauration supérieure.md",
     "Annexe/Règles/Sans titre.md",
-    "Template/Sort.md",
     "Annexe/Sortilèges/Niveau 5/Dissipation du mal et du bien.md",
-    "Annexe/Sortilèges/Niveau 5/Rappel à la vie.md",
-    "Oblivion/Bestiaire/Dunkhan.md",
     "Annexe/Sortilèges/Niveau 4",
     "Annexe/Règles/Sans titre",
     "Oblivion/Images/Le poignard polymorphe.jpg",
