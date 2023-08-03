@@ -8,10 +8,12 @@ alignment: Toujours Chaotique
 ac: 17
 hp: 90
 hit_dice: 12d10+24
-speed: 0
-stats: [10, 10, 10, 10, 10, 10]
+speed: 0 m
+stats: [14, 11, 14, 20, 15, 8]
 saves:
-  - <ability-score>: number
+  - Con: +6
+  - Int: +9
+  - 
 skillsaves:
   - <skill-name>: number
 damage_vulnerabilities: string
