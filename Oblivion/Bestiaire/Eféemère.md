@@ -9,16 +9,14 @@ ac: 17
 hp: 35
 hit_dice: 10d6
 speed: 0 m, vol 9 m
-stats: [10, 10, 10, 10, 10, 10]
-saves:
-  - <ability-score>: number
+stats: [7, 18, 11, 14, 16, 19]
 skillsaves:
-  - <skill-name>: number
-damage_vulnerabilities: string
-damage_resistances: string
-damage_immunities: string
-condition_immunities: string
-senses: string
+  - Perception: +7
+  - Représentation: +8
+  - Discrétion: +8
+damage_immunities: d'acide et de poison
+condition_immunities: [[Empoisonné]]
+senses: vision dans le noir 36 m, Perception passive
 languages: string
 cr: 1
 spells:
