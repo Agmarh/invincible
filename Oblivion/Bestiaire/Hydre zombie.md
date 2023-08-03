@@ -5,19 +5,15 @@ size: TG
 type: Mort-vivant
 subtype: 
 alignment: Non-aligné
-ac: 10
-hp: 0
-hit_dice: 1d8+0
-speed: 0
-stats: [10, 10, 10, 10, 10, 10]
-saves:
-  - <ability-score>: number
+ac: 15
+hp: 172
+hit_dice: 15d12+75
+speed: 9 m, nage 9 m
+stats: [20, 12, 20, 2, 10, 7]
 skillsaves:
-  - <skill-name>: number
-damage_vulnerabilities: string
-damage_resistances: string
-damage_immunities: string
-condition_immunities: string
+  - Perception: +3
+damage_immunities: de poison
+condition_immunities: [[Charmé]], [[]]
 senses: Perception passive 10
 languages: string
 cr: 1
