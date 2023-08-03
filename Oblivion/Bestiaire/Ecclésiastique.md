@@ -12,20 +12,17 @@ speed: 7,5 m
 stats: [10, 10, 12, 13, 16, 13]
 skillsaves:
   - Médecine: +7
-  - Persuasion: +
-damage_vulnerabilities: string
-damage_resistances: string
-damage_immunities: string
-condition_immunities: string
-senses: string
-languages: string
-cr: 1
+  - Persuasion: +3
+  - Religion: +4
+senses: Perception passive 13
+languages: deux langues au choix
+cr: 2
 spells:
   - <description>
   - <spell level>: <spell-list>
 traits:
-  - name: <trait-name>
-    desc: <trait-description>
+  - name: Distinction divine
+    desc: "Par une action bonus, l'ecclésiastique peut dépenser un emplacement de sort pour que ses attaques d'arme au corps à corps infligent par magie 10 (3d6) dégâts radiants supplémentaires à une cible qu'il parvient à toucher. Cet avantage dure jusqu'à la fin du tour. Si le clerc dépense un emplacement de sort de niveau 2 ou plus, les dégâts supplémentaires augmentent de 1d6 par niveau au-dessus du 1er."
   - ...
 actions:
   - name: <trait-name>
