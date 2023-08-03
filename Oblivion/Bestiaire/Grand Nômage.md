@@ -13,15 +13,16 @@ stats: [14, 11, 14, 20, 15, 8]
 saves:
   - Con: +6
   - Int: +9
-  - 
+  - Sag: +6
 skillsaves:
-  - <skill-name>: number
-damage_vulnerabilities: string
-damage_resistances: string
-damage_immunities: string
-condition_immunities: string
-senses: string
-languages: string
+  - Arcanes: +13
+  - Histoire: +13
+  - Religion: +13
+  - Nature: +13
+damage_immunities: d'acide et de poison
+condition_immunities: [[Charmé]], [[Empoisonné]]
+senses: vision dans le noir 18 m, Perception passive 12
+languages: abyssal, céleste, commun des profondeurs, draconiq
 cr: 1
 spells:
   - <description>
