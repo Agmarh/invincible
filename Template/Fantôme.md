@@ -22,24 +22,12 @@ traits:
   - name: Vision éthérée
     desc: "Le fantôme peut voir jusqu'à 18 mètres dans le plan Éthéré depuis le plan Matériel et vice versa."
 actions:
-  - name: <trait-name>
+  - name: Contact flétrissant
+    desc: "Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible. Touché : 17 (4d6+3) dégâts nécrotiques."
+  - name: Forme éthérée
     desc: <trait-description>
-  - ...
-legendary_actions:
-  - name: <legendary_actions-name>
-    desc: <legendary_actions-description>
-  - ...
-bonus_actions:
-  - name: <trait-name>
+  - name: Possession (Recharge 6)
     desc: <trait-description>
-  - ...
-reactions:
-  - name: <reaction-name>
-    desc: <reaction-description>
-  - ...
-tactic:
-  - desc: <reaction-description>
-treasure:
-  - name: <reaction-name>
-    desc: <reaction-description>
+  - name: Visage terrifiant
+    desc: <trait-description>
 ```
