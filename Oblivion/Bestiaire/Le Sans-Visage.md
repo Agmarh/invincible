@@ -33,28 +33,16 @@ spells:
   - 8e niveau (1 emplacement):
   - 9e niveau (1 emplacement):
 traits:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
+  - name: Outils de Franc-Rêveur
+    desc: +3
+  - name: Résistance à la magie
+    desc: "L'archimage bénéficie d'un avantage lors des jets de sauvegarde contre les sorts et autres effets magiques."
 actions:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
-legendary_actions:
-  - name: <legendary_actions-name>
-    desc: <legendary_actions-description>
-  - ...
-bonus_actions:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
-reactions:
+  - name: Dague
+    desc: "Attaque d'arme au corps à corps ou à distance : +6 pour toucher, allonge 1,50 ou portée 6/18 m, une cible. Touché : 4 (1d4+2) dégâts perforants."
+treasure:
   - name: <reaction-name>
     desc: <reaction-description>
-  - ...
-tactic:
-  - desc: <reaction-description>
-treasure:
   - name: <reaction-name>
     desc: <reaction-description>
 ```
