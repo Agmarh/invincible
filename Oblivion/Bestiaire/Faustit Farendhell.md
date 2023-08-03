@@ -21,15 +21,18 @@ languages: commun, elfe
 cr: 8
 traits:
   - name: Immunité aux effets
-    desc: <trait-description>
-  - name: <trait-name>
-    desc: <trait-description>
-  - name: <trait-name>
-    desc: <trait-description>
+    desc: "de charme et de sommeil"
+  - name: Attaque sournoise
+    desc: "Quand Faustit obtient l’avantage sur ses attaques, il peut rajouter 28 (8d6) dégâts à l’une de ses attaques."
+  - name: Gangrêvé
+    desc: "Quand le gangrêvé attaque, il peut effectuer une morsure. En cas de réussite, la cible peut contracter la gangrêve (cf.p. 17 pour les règles sur la gangrêve)."
 actions:
+  - name: Attaques multiples
+    desc: <trait-description>
   - name: <trait-name>
     desc: <trait-description>
-  - ...
+  - name: <trait-name>
+    desc: <trait-description>
 legendary_actions:
   - name: <legendary_actions-name>
     desc: <legendary_actions-description>
