@@ -1,7 +1,7 @@
 ---
-type: rare
-niveau: 2
-incantation: 
+type: Divination
+niveau: 6
+incantation: 1 m
 distance: 
 composantes: 
 temps: 
