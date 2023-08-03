@@ -1,14 +1,14 @@
 ```statblock
 image: [[monstre.png]]
-name: Nom
-size: 
-type: 
+name: Fantôme
+size: M
+type: Mort-vivant
 subtype: 
-alignment: Neutre
-ac: 10
-hp: 0
-hit_dice: 1d8+0
-speed: 0
+alignment: N'importe quel alignement
+ac: 11
+hp: 45
+hit_dice: 10d8
+speed: 0 m, vl 
 stats: [10, 10, 10, 10, 10, 10]
 saves:
   - <ability-score>: number
