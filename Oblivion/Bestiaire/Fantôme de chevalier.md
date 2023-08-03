@@ -22,8 +22,8 @@ traits:
   - name: Vision éthérée
     desc: "Le fantôme peut voir jusqu'à 18 mètres dans le plan Éthéré depuis le plan Matériel et vice versa."
 actions:
-  - name: Contact flétrissant
-    desc: "Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible. Touché : 17 (4d6+3) dégâts nécrotiques."
+  - name: Epée longue
+    desc: "Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible. Touché : 17 (2d8+3) dégâts nécrotiques, 3 attaques."
   - name: Forme éthérée
     desc: "Le fantôme entre dans le plan Éthéré depuis le plan Matériel, ou vice versa. Il est visible sur le plan Matériel quand il est dans la Frontière éthérée et vice-versa, mais il ne peut pas affecter et ne peut pas être affecté par quoi que ce soit provenant de l'autre plan."
   - name: Possession (Recharge 6)
