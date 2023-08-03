@@ -1,3 +1,5 @@
+Chelios se présente comme un monstre à la chitine noire. Il ne possède pas d’yeux, pas de bouche, et son corps évoque celui une araignée géante. Mais au lieu de la tête de l’araignée, on trouve un buste humanoïde dont les bras sont terminés par d’immenses griffes tranchantes. Son visage lisse et long achève de parfaire cette apparence étrange.
+
 ```statblock
 image: [[monstre.png]]
 name: Chelios
@@ -23,13 +25,19 @@ condition_immunities: [[Empoisonné]]
 senses: vision dnas le noir 36 m, Perception passive 15
 languages: commun, gnome, abyssal, télépathie 36 m
 cr: 6
-spells:
-  - <description>
-  - <spell level>: <spell-list>
 traits:
+  - name: Résistance à la magie
+    desc: <trait-description>
+  - name: Vue du diable
+    desc: <trait-description>
   - name: <trait-name>
     desc: <trait-description>
-  - ...
+  - name: <trait-name>
+    desc: <trait-description>
+  - name: <trait-name>
+    desc: <trait-description>
+  - name: <trait-name>
+    desc: <trait-description>
 actions:
   - name: <trait-name>
     desc: <trait-description>
