@@ -19,5 +19,5 @@ traits:
     desc: "Le guerrier obtient un avantage lors des jets de Force pour maintenant un Mange-Glace au sol lorsqu'un allié lui apporte assistance."
 actions:
   - name: Lance
-    desc: "Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible. Touché : 9 (1d12+3) dégâts tranchants."
+    desc: "Attaque d'arme au corps à corps ou à distance : +3 pour toucher, allonge 1,50 m ou portée 6/18 m, une cible. Touché : 4 (1d6+1) dégâts perforants ou 5 (1d8+1) dégâts perforants si elle est maniée à deux mains pour effectuer une attaque au corps à corps."
 ```
