@@ -7,23 +7,13 @@ subtype:
 alignment: Non aligné
 ac: 16
 hp: 67
-hit_dice: 1d8+0
-speed: 0
-stats: [10, 10, 10, 10, 10, 10]
-saves:
-  - <ability-score>: number
-skillsaves:
-  - <skill-name>: number
-damage_vulnerabilities: string
-damage_resistances: string
-damage_immunities: string
-condition_immunities: string
-senses: string
-languages: string
-cr: 1
-spells:
-  - <description>
-  - <spell level>: <spell-list>
+hit_dice: 9d8+27
+speed: 9
+stats: [16, 12, 17, 9, 11, 9]
+damage_resistances: feu
+senses: Perception passive 10
+languages: commun
+cr: 2
 traits:
   - name: <trait-name>
     desc: <trait-description>
