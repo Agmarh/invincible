@@ -22,19 +22,19 @@ senses: vision dans le noir 36 m, Perception passive 17
 languages: 
 cr: 3
 traits:
-  - name: Vision dans les té
+  - name: Vision dans les ténèbres
+    desc: "Les nuitants voient dans les ténèbres de n’importe quel type, y compris magique, sur une distance de 36 m."
+  - name: Résistance à la magie
+    desc: "Ils obtiennent un avantage sur tous les jets de sauvegarde afin de résister aux sorts d’illusion."
+  - name: Chevelure parfumée
     desc: <trait-description>
-  - name: <trait-name>
+  - name: Apothéose
     desc: <trait-description>
-  - name: <trait-name>
+  - name: Engendrer une fée
     desc: <trait-description>
-  - name: <trait-name>
+  - name: Sarbacane
     desc: <trait-description>
-  - name: <trait-name>
-    desc: <trait-description>
-  - name: <trait-name>
-    desc: <trait-description>
-  - name: <trait-name>
+  - name: Pouvoirs magiques
     desc: <trait-description>
 actions:
   - name: <trait-name>
