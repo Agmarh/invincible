@@ -38,30 +38,13 @@ traits:
     desc: "L'éféemère est capable de lancer les sorts suivants : charme-personne, lumières dansantes, détection du bien et du mal, invisibilité, image majeure, non détection. Une éféemère sur dix peut incanter métamorphose suprême. Quand l’un de ces sorts est lancé, elle doit attendre d’avoir effectué un repos long avant de pouvoir le relancer."
 actions:
   - name: Attaques multiples
-    desc: <trait-description>
+    desc: "Une éféemère peut effectuer deux attaques de corps-à-corps avec une action d’attaque ou une unique attaque de sarbacane à distance."
   - name: Sarbacane - confusion de l'esprit
+    desc: "Attaque d’arme au corps-à-corps : +8 pour toucher, portée 18 m, une cible. Touché : 6 (1d4+4) dégâts perforants. En cas de réussite de l’attaque, la cible est aussi touchée par un sort de confusion (DD 14 pour y résister)."
+  - name: Sarbacane - paralysie du corps
     desc: <trait-description>
-  - name: <trait-name>
+  - name: Sarbacane - marchand de sable
     desc: <trait-description>
-  - name: <trait-name>
+  - name: Dague
     desc: <trait-description>
-  - name: <trait-name>
-    desc: <trait-description>
-legendary_actions:
-  - name: <legendary_actions-name>
-    desc: <legendary_actions-description>
-  - ...
-bonus_actions:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
-reactions:
-  - name: <reaction-name>
-    desc: <reaction-description>
-  - ...
-tactic:
-  - desc: <reaction-description>
-treasure:
-  - name: <reaction-name>
-    desc: <reaction-description>
 ```
