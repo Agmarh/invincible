@@ -18,8 +18,9 @@ senses: Perception passive 12
 languages: commun, nain
 cr: 8
 spells:
-  - <description>
-  - <spell level>: <spell-list>
+  - "Malathor est un lanceur de sorts divin de niveau 8. Sa caractéristique d’incantation est le Charisme (DD du jet de sauvegarde contre les sorts 14, +6 pour toucher avec les attaques de sorts). Il dispose des sorts de paladin préparés suivants"
+  - 1er niveau (4 emplacements): [[Bouclier de la foi]], [[Choc des titans]], [[Injonction]], [[Soin des blessures]], [[Alarme]], [[Héroïsme]]
+  - 2e niveau (3 emplacements): [[Localiser un objet]], [[Trouver une monture]], [[Zone de vérité]]
 traits:
   - name: <trait-name>
     desc: <trait-description>
