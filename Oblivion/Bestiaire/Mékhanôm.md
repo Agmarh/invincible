@@ -10,16 +10,18 @@ hp: 32
 hit_dice: 5d8+10
 speed: 7,5 m
 stats: [16, 14, 14, 12, 10, 10]
-senses: vision dans le noir Perception passive 10
-languages: string
-cr: 1
-spells:
-  - <description>
-  - <spell level>: <spell-list>
+senses: vision dans le noir 18 m, Perception passive 10
+languages: commun, nain
+cr: 2
 traits:
-  - name: <trait-name>
+  - name: Immunités
+    desc: "aux sorts de charme, de contrôle mental, d’illusion, de poison, au sommeil."
+  - name: Autoréparation
     desc: <trait-description>
-  - ...
+  - name: Esquive de ghûraghasta
+    desc: <trait-description>
+  - name: Endurance mécanique
+    desc: <trait-description>
 actions:
   - name: <trait-name>
     desc: <trait-description>
