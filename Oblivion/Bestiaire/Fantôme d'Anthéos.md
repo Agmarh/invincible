@@ -1,13 +1,13 @@
 ```statblock
 image: [[monstre.png]]
-name: Fantôme d'Anthéor
-size: 
-type: 
+name: Fantôme d'Anthéos
+size: M
+type: Mort-vivant
 subtype: 
 alignment: Neutre
-ac: 10
-hp: 0
-hit_dice: 1d8+0
+ac: 20
+hp: 172
+hit_dice: 23d8+69
 speed: 0
 stats: [10, 10, 10, 10, 10, 10]
 saves:

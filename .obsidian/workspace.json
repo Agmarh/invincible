@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oblivion/Bestiaire/Fantôme d'Anthéos.md",
+                "file": "Oblivion/Bestiaire/Chasseur oungann.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oblivion/Bestiaire/Fantôme d'Anthéos.md",
+                "file": "Oblivion/Bestiaire/Chasseur oungann.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oblivion/Bestiaire/Fantôme d'Anthéos.md",
+                "file": "Oblivion/Bestiaire/Chasseur oungann.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oblivion/Bestiaire/Fantôme d'Anthéos.md"
+                "file": "Oblivion/Bestiaire/Chasseur oungann.md"
               }
             }
           }
@@ -175,7 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 563.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,8 +191,8 @@
   },
   "active": "f31d6efb5d192db3",
   "lastOpenFiles": [
-    "Template/Monstre.md",
     "Oblivion/Bestiaire/Fantôme d'Anthéos.md",
+    "Template/Monstre.md",
     "Oblivion/Bestiaire/Eféemère.md",
     "Oblivion/Bestiaire/Fantôme.md",
     "Annexe/Sortilèges/Niveau 5/Restauration supérieure.md",
