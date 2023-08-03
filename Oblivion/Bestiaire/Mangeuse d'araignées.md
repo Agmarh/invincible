@@ -22,27 +22,8 @@ languages: -
 cr: 3
 traits:
   - name: Réaction mortelle
-    desc: <trait-description>
-  - ...
+    desc: "Lorsqu’une créature rate son attaque contre une mangeuse d’araignées, cette dernière peut utiliser sa réaction afin d’effectuer une attaque d’opportunité avec son dard. En cas de réussite, elle ne peut alors cependant pas infliger ses dégâts de poison."
 actions:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
-legendary_actions:
-  - name: <legendary_actions-name>
-    desc: <legendary_actions-description>
-  - ...
-bonus_actions:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
-reactions:
-  - name: <reaction-name>
-    desc: <reaction-description>
-  - ...
-tactic:
-  - desc: <reaction-description>
-treasure:
-  - name: <reaction-name>
-    desc: <reaction-description>
+  - name: Dard
+    desc: "Attaque d’arme au corps-à-corps : +6 pour toucher, allonge 4,5 m, une cible. Touché : 11 (2d6+4) dégâts perforants et 9 (2d8) dégâts de poison."
 ```
