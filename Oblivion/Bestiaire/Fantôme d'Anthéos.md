@@ -12,7 +12,7 @@ speed: 9 m
 stats: [6, 16, 16, 12, 14, 18]
 damage_resistances: d'acide, de feu, de foudre, de froid, de tonnerre, radiants et contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
 damage_immunities: nécrotiques et de poison
-condition_immunities: A terre, [[Charmé]], 
+condition_immunities: A terre, [[Charmé]], [[Empoisonné]], [[Empoigné]], [[]]
 senses: string
 languages: string
 cr: 1
