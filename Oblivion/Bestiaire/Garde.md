@@ -1,24 +1,18 @@
 ```statblock
 image: [[monstre.png]]
-name: Nom
-size: 
-type: 
+name: Garde
+size: M
+type: Humanoïde
 subtype: 
-alignment: Neutre
-ac: 10
-hp: 0
-hit_dice: 1d8+0
-speed: 0
-stats: [10, 10, 10, 10, 10, 10]
-saves:
-  - <ability-score>: number
+alignment: N'importe quel alignement
+ac: 16
+hp: 11
+hit_dice: 2d8+2
+speed: 9 m
+stats: [13, 12, 12, 10, 11, 10]
 skillsaves:
-  - <skill-name>: number
-damage_vulnerabilities: string
-damage_resistances: string
-damage_immunities: string
-condition_immunities: string
-senses: string
+  - Perception: +2
+senses: Perceptio
 languages: string
 cr: 1
 spells:
