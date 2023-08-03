@@ -13,13 +13,12 @@ stats: [18, 15, 16, 18, 14, 20]
 skillsaves:
   - Discrétion: +8
   - Perception: +8
-  - Per
-damage_vulnerabilities: string
-damage_resistances: string
-damage_immunities: string
-condition_immunities: string
-senses: string
-languages: string
+  - Perspicacité: +8
+  - Supercherie: +11
+damage_resistances: contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent, de feu et de froid
+condition_immunities: [[Charmé]]
+senses: vision dans le noir 36 m, Perception passive 18
+languages: commun, abyssal, p
 cr: 1
 spells:
   - <description>
