@@ -33,17 +33,20 @@ traits:
   - name: Pouvoirs du ravageur
     desc: "Chelios peut utiliser les sorts suivants à leur niveau minimal : soins des blessures, blessure, détection du mal et du bien, détection de la magie, détection des pensées, voir l’invisible, compréhension des langues. Il peut lancer chacun de ces sorts une fois entre chaque repos court ou long."
   - name: Insondable
-    desc: <trait-description>
+    desc: "Chelios est en permanence sous l’effet du sort esprit impénétrable. Cet effet ne peut être détecté avec le sort détection de la magie."
   - name: Perception de la magie
-    desc: <trait-description>
+    desc: "Chelios perçoit la magie à volonté sur un rayon de 36 m. L’effet est le même que pour le sort détection de la magie même si cette capacité n’est pas magique en soi."
   - name: Amphibie
-    desc: <trait-description>
+    desc: "Chelios peut respirer à l’air libre comme sous l’eau."
   - name: Pattes d'araignées
-    desc: <trait-description>
+    desc: "Chelios peut escalader des surfaces difficiles et être au plafond la tête en bas sans avoir besoin d’effectuer un jet de caractéristique."
 actions:
-  - name: <trait-name>
+  - name: Attaques multiples
     desc: <trait-description>
-  - ...
+  - name: Griffes
+    desc: <trait-description>
+  - name: Absorption magique
+    desc: <trait-description>
 legendary_actions:
   - name: <legendary_actions-name>
     desc: <legendary_actions-description>
