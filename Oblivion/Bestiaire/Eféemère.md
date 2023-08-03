@@ -42,9 +42,9 @@ actions:
   - name: Sarbacane - confusion de l'esprit
     desc: "Attaque d’arme au corps-à-corps : +8 pour toucher, portée 18 m, une cible. Touché : 6 (1d4+4) dégâts perforants. En cas de réussite de l’attaque, la cible est aussi touchée par un sort de confusion (DD 14 pour y résister)."
   - name: Sarbacane - paralysie du corps
-    desc: <trait-description>
+    desc: "Attaque d’arme au corps-à-corps : +8 pour toucher, portée 18 m, une cible. Touché : 6 (1d4+4) dégâts perforants. En cas de réussite de l’attaque, la cible doit effectuer un jet de sauvegarde de Constitution DD 14 ou subir l’état paralysé pendant 10 rounds."
   - name: Sarbacane - marchand de sable
-    desc: <trait-description>
+    desc: "Attaque d’arme au corps-à-corps : +8 pour toucher, portée 18 m, une cible. Touché : la cible est aussi touchée par un sort de sommeil, indépendamment de son nombre de points de vie."
   - name: Dague
-    desc: <trait-description>
+    desc: "Attaque d’arme au corps-à-corps : +6 pour toucher, allonge 1,50 m, une cible. Touché : 6 (1d4+4) dégâts perforants."
 ```
