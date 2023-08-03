@@ -23,26 +23,10 @@ languages: commun
 cr: 5
 traits:
   - name: Coups brutaux
-    desc: <trait-description>
+    desc: "Un chevalier du Jugement ajoute un dé de dégâts à chacune de ses attaques."
 actions:
   - name: Attaques multiples
-    desc: <trait-description>
-  - na
-legendary_actions:
-  - name: <legendary_actions-name>
-    desc: <legendary_actions-description>
-  - ...
-bonus_actions:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
-reactions:
-  - name: <reaction-name>
-    desc: <reaction-description>
-  - ...
-tactic:
-  - desc: <reaction-description>
-treasure:
-  - name: <reaction-name>
-    desc: <reaction-description>
+    desc: "Un chevalier du Jugement peut effectuer trois attaques avec une action d’attaque."
+  - name: Epée longue
+    desc: "Attaque d’arme au corps-à-corps : +7 pour toucher, allonge 1,50 m, une cible. Touché : 13 (2d8+4) dégâts tranchants."
 ```
