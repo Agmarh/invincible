@@ -1,3 +1,5 @@
+Les éféemères sont l’incarnation des rêves poétiques, emplis de pureté ou d’innocence. Elles ont l’apparence de fées noires et sont dotées d’élégantes ailes ténébreuses. Seule leur chevelure est blanche. Les éféemères portent une grande sarbacane d’ivoire. Ces nuitants respirent le bien-être et n’ont qu’un désir : inspirer aux autres créatures vivantes le même genre d’émotions qui les a créées. Selon leur nature, elles utilisent leurs pouvoirs pour générer l’apaisement, provoquer le rire, exalter la beauté d’une personne, etc. Cette volonté peut aller jusqu’au sacrifice : c’est l’Apothéose, un rituel au cours duquel l’éféemère fait cadeau de sa brève existence pour provoquer l’émotion recherchée.
+
 ```statblock
 image: [[monstre.png]]
 name: Eféemère
@@ -16,16 +18,24 @@ skillsaves:
   - Discrétion: +8
 damage_immunities: d'acide et de poison
 condition_immunities: [[Empoisonné]]
-senses: vision dans le noir 36 m, Perception passive
-languages: string
-cr: 1
-spells:
-  - <description>
-  - <spell level>: <spell-list>
+senses: vision dans le noir 36 m, Perception passive 17
+languages: 
+cr: 3
 traits:
+  - name: Vision dans les té
+    desc: <trait-description>
   - name: <trait-name>
     desc: <trait-description>
-  - ...
+  - name: <trait-name>
+    desc: <trait-description>
+  - name: <trait-name>
+    desc: <trait-description>
+  - name: <trait-name>
+    desc: <trait-description>
+  - name: <trait-name>
+    desc: <trait-description>
+  - name: <trait-name>
+    desc: <trait-description>
 actions:
   - name: <trait-name>
     desc: <trait-description>
