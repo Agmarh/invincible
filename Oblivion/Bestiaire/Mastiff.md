@@ -7,26 +7,17 @@ subtype:
 alignment: Neutre
 ac: 12
 hp: 5
-hit_dice: 1d8+0
-speed: 0
-stats: [10, 10, 10, 10, 10, 10]
-saves:
-  - <ability-score>: number
+hit_dice: 1d8+1
+speed: 12 m
+stats: [13, 14, 12, 3, 12, 7]
 skillsaves:
-  - <skill-name>: number
-damage_vulnerabilities: string
-damage_resistances: string
-damage_immunities: string
-condition_immunities: string
-senses: Perception passive 10
-languages: string
-cr: 1
-spells:
-  - <description>
-  - <spell level>: <spell-list>
+  - Perception: +3
+senses: Perception passive 13
+languages: -
+cr: 1/8
 traits:
-  - name: <trait-name>
-    desc: <trait-description>
+  - name: Odorat et ouïe aiguisés
+    desc: "Le mastiff obtient un avantage lors d"
   - ...
 actions:
   - name: <trait-name>
