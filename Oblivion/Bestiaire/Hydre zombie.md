@@ -1,10 +1,10 @@
 ```statblock
 image: [[monstre.png]]
-name: Nom
-size: 
-type: 
+name: Hydre zombie
+size: TG
+type: Mort-vivant
 subtype: 
-alignment: Neutre
+alignment: Non-aligné
 ac: 10
 hp: 0
 hit_dice: 1d8+0
