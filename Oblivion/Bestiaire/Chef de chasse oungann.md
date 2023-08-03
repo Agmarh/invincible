@@ -1,6 +1,6 @@
 ```statblock
 image: [[monstre.png]]
-name: Chasseur oungann
+name: Chef de chasse oungann
 size: M
 type: Humanoïde
 subtype: 
