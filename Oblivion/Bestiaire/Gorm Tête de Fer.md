@@ -14,20 +14,16 @@ saves:
   - Dex: +5
   - Int: +5
 skillsaves:
-  - Histoire: number
-damage_vulnerabilities: string
-damage_resistances: string
-damage_immunities: string
-condition_immunities: string
-senses: string
-languages: string
-cr: 1
-spells:
-  - <description>
-  - <spell level>: <spell-list>
+  - Histoire: +5
+  - Religion: +5
+  - Supercherie: +7
+  - Intimidation: +7
+senses: Perception passive 10
+languages: commun, gnome
+cr: 3
 traits:
-  - name: <trait-name>
-    desc: <trait-description>
+  - name: Anneau d'invibilité
+    desc: Par une action, Gorm peut activer son anneau magique. Il 
   - ...
 actions:
   - name: <trait-name>
