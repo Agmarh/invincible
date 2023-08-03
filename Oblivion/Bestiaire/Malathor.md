@@ -22,27 +22,16 @@ spells:
   - 1er niveau (4 emplacements): [[Bouclier de la foi]], [[Choc des titans]], [[Injonction]], [[Soin des blessures]], [[Alarme]], [[Héroïsme]]
   - 2e niveau (3 emplacements): [[Localiser un objet]], [[Trouver une monture]], [[Zone de vérité]]
 traits:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
+  - name: Châtiment divin (recharge 6)
+    desc: "Lorsqu’il touche avec une attaque, Malathor peut ajouter 13 (3d8) points de dégâts à son attaque. Les dégâts passent à 18 (4d8) si la créature est un fiélon ou un mort-vivant."
+  - name: Sens Divin
+    desc: "En utilisant une action, Malathor peut, jusqu’à la fin de son prochain tour, savoir où se trouve toute créature céleste, fiélonne ou mort-vivante dans un rayon de 18 m autour de lui, à la condition toutefois qu’elles ne soient pas cachées par un abri total. Dans le même rayon, il détecte aussi tout lieu ou objet consacré ou profané."
+  - name: Santé divine
+    desc: "Malathor est immunisé contre les maladies."
 actions:
   - name: <trait-name>
     desc: <trait-description>
   - ...
-legendary_actions:
-  - name: <legendary_actions-name>
-    desc: <legendary_actions-description>
-  - ...
-bonus_actions:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
-reactions:
-  - name: <reaction-name>
-    desc: <reaction-description>
-  - ...
-tactic:
-  - desc: <reaction-description>
 treasure:
   - name: <reaction-name>
     desc: <reaction-description>
