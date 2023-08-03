@@ -30,24 +30,7 @@ traits:
     desc: "Le golem obtient un avantage lors des jets de sauvegarde contre les sorts et autres effets magiques."
 actions:
   - name: Attaques multiples
-    desc: <trait-description>
-  - name: <trait-name>
-    desc: <trait-description>
-legendary_actions:
-  - name: <legendary_actions-name>
-    desc: <legendary_actions-description>
-  - ...
-bonus_actions:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
-reactions:
-  - name: <reaction-name>
-    desc: <reaction-description>
-  - ...
-tactic:
-  - desc: <reaction-description>
-treasure:
-  - name: <reaction-name>
-    desc: <reaction-description>
+    desc: "Le golem effectue deux attaques de coup."
+  - name: Coup
+    desc: "Attaque d'arme au corps à corps : +7 pour toucher, allonge 1,50 m, une cible. Touché : 13 (2d8+4) dégâts contondants."
 ```
