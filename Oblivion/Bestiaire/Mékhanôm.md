@@ -17,30 +17,28 @@ traits:
   - name: Immunités
     desc: "aux sorts de charme, de contrôle mental, d’illusion, de poison, au sommeil."
   - name: Autoréparation
-    desc: <trait-description>
+    desc: "Un mékhanôm possède un pouvoir d’auto-réparation lui permettant, dans une certaine mesure, d’amoindrir les dégâts reçus. En dépensant son action bonus, il peut récupérer un nombre de points de vie égal au résultat obtenu en jetant un dé de vie."
   - name: Esquive de ghûraghasta
-    desc: <trait-description>
+    desc: "Le mékhanôm a été spécialement conçu afin de lutter contre ces créatures. Une ghûraghasta est affligée d’un désavantage lorsqu’elle attaque un mékhanôm."
   - name: Endurance mécanique
-    desc: <trait-description>
+    desc: "Tout jet de sauvegarde de Constitution effectué par le mékhanôm est automatiquement réussi."
 actions:
+  - name: Attaques multiples
+    desc: <trait-description>
+  - name: Attaque frénétique
+    desc: <trait-description>
+  - name: Armes
+    desc: <trait-description>
   - name: <trait-name>
     desc: <trait-description>
-  - ...
-legendary_actions:
-  - name: <legendary_actions-name>
-    desc: <legendary_actions-description>
-  - ...
-bonus_actions:
   - name: <trait-name>
     desc: <trait-description>
-  - ...
-reactions:
-  - name: <reaction-name>
-    desc: <reaction-description>
-  - ...
-tactic:
-  - desc: <reaction-description>
-treasure:
-  - name: <reaction-name>
-    desc: <reaction-description>
+  - name: <trait-name>
+    desc: <trait-description>
+  - name: <trait-name>
+    desc: <trait-description>
+  - name: <trait-name>
+    desc: <trait-description>
+  - name: <trait-name>
+    desc: <trait-description>
 ```
