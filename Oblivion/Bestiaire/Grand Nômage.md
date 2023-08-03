@@ -32,7 +32,9 @@ languages: abyssal, céleste, commun des profondeurs, draconique, infernal
 cr: 9
 spells:
   - "Le nômage est capable de lancer des sorts comme un magicien de niveau 9, sa caractéristique d’incantation est l’Intelligence (DD du jet de sauvegarde contre les sorts 17, +9 pour toucher avec les attaques de sort)."
-  - <spell level>: <spell-list>
+  - Tours de magie: [[Aspersion acide]], [[Illusion mineure]], [[Lumière]], [[Main du mage]], [[Prestidigitation]]
+  - 1er niveau (4 emplacements): [[Détection de la magie]], [[Fou rire]], [[Graisse]]
+  - 2e niveau (3 emplacements): [[]]
 traits:
   - name: Vision dans les ténèbres
     desc: "Les nuitants voient dans les ténèbres de n’importe quel type, y compris magique, sur une distance de 36 m."
