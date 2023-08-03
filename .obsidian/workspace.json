@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Template/Fantôme.md",
+                "file": "Annexe/Sortilèges/Niveau 5/Dissipation du mal et du bien.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Template/Fantôme.md",
+                "file": "Annexe/Sortilèges/Niveau 5/Dissipation du mal et du bien.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Template/Fantôme.md",
+                "file": "Annexe/Sortilèges/Niveau 5/Dissipation du mal et du bien.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Template/Fantôme.md"
+                "file": "Annexe/Sortilèges/Niveau 5/Dissipation du mal et du bien.md"
               }
             }
           }
@@ -191,8 +191,11 @@
   },
   "active": "aa6de469ba1fc10f",
   "lastOpenFiles": [
-    "Oblivion/Bestiaire/Eféemère.md",
+    "Template/Sort.md",
+    "Annexe/Sortilèges/Niveau 5/Dissipation du mal et du bien.md",
+    "Annexe/Sortilèges/Niveau 5/Rappel à la vie.md",
     "Template/Fantôme.md",
+    "Oblivion/Bestiaire/Eféemère.md",
     "Oblivion/Bestiaire/Dunkhan.md",
     "Oblivion/Bestiaire/Ecclésiastique.md",
     "Oblivion/Bestiaire/Chevalier du Jugement.md",
@@ -214,9 +217,6 @@
     "Oblivion/Bestiaire/Barbare skïam (Guerrier Tribal).md",
     "Oblivion/Bestiaire/Barbare skïam (Berserker).md",
     "Oblivion/Bestiaire/Bâal.md",
-    "Oblivion/Bestiaire/Âme-en-peine.md",
-    "Oblivion/Bestiaire/Azmän Sagdïn.md",
-    "Oblivion/Objets Magiques/Cape de la chauve-souris.md",
     "Annexe/Sortilèges/Niveau 4",
     "Annexe/Règles/Sans titre",
     "Oblivion/Images/Le poignard polymorphe.jpg",
