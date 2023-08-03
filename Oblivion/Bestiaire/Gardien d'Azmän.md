@@ -13,32 +13,19 @@ stats: [18, 11, 14, 11, 11, 15]
 senses: Pereption passive 10
 languages: commun
 cr: 3
-spells:
-  - <description>
-  - <spell level>: <spell-list>
 traits:
-  - name: <trait-name>
+  - name: Brave
     desc: <trait-description>
-  - ...
 actions:
-  - name: <trait-name>
+  - name: Arc long
     desc: <trait-description>
-  - ...
-legendary_actions:
-  - name: <legendary_actions-name>
-    desc: <legendary_actions-description>
-  - ...
-bonus_actions:
-  - name: <trait-name>
+  - name: Attaques multiples
     desc: <trait-description>
-  - ...
+  - name: Epée longue
+    desc: <trait-description>
+  - name: Meneur d'hommes (Recharge après un repos court ou long)
+    desc: <trait-description>
 reactions:
-  - name: <reaction-name>
-    desc: <reaction-description>
-  - ...
-tactic:
-  - desc: <reaction-description>
-treasure:
-  - name: <reaction-name>
+  - name: Parade
     desc: <reaction-description>
 ```
