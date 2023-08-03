@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 5/Lien télépathique.md",
+                "file": "Annexe/Sortilèges/Niveau 6/Vision suprême.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 5/Lien télépathique.md",
+                "file": "Annexe/Sortilèges/Niveau 6/Vision suprême.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 5/Lien télépathique.md",
+                "file": "Annexe/Sortilèges/Niveau 6/Vision suprême.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 5/Lien télépathique.md"
+                "file": "Annexe/Sortilèges/Niveau 6/Vision suprême.md"
               }
             }
           }
@@ -189,16 +189,23 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6850c780739b4df5",
+  "active": "efc7fbc9dabff410",
   "lastOpenFiles": [
+    "Annexe/Sortilèges/Niveau 9",
+    "Annexe/Sortilèges/Niveau 6/Trouver un chemin.md",
+    "Annexe/Sortilèges/Niveau 6/Vision suprême.md",
+    "Template/Sort.md",
+    "Annexe/Sortilèges/Niveau 5/Scrutation.md",
+    "Annexe/Sortilèges/Niveau 6",
+    "Annexe/Sortilèges/Niveau 5/Restauration supérieure.md",
+    "Annexe/Sortilèges/Niveau 5/Rappel à la vie.md",
+    "Annexe/Sortilèges/Niveau 5/Lien télépathique.md",
     "Annexe/Sortilèges/Niveau 5/Dominer un humanoïde.md",
     "Annexe/Sortilèges/Niveau 5/Dissipation du mal et du bien.md",
     "Annexe/Sortilèges/Niveau 5/Contacter un autre plan.md",
     "Annexe/Sortilèges/Niveau 5/Communion avec la nature.md",
     "Annexe/Sortilèges/Niveau 5/Communion.md",
-    "Annexe/Sortilèges/Niveau 5/Lien télépathique.md",
     "Annexe/Sortilèges/Niveau 5/Sans titre.md",
-    "Template/Sort.md",
     "Annexe/Sortilèges/Niveau 4/Rêvevin.md",
     "Annexe/Sortilèges/Niveau 4/Œil magique.md",
     "Annexe/Sortilèges/Niveau 4/Localiser une créature.md",
@@ -211,12 +218,6 @@
     "Oblivion/Bestiaire/Hydre zombie.md",
     "Oblivion/Bestiaire/Humanoïde gangrêvé.md",
     "Oblivion/Bestiaire/Hékété.md",
-    "Oblivion/Bestiaire/Griffon.md",
-    "Oblivion/Bestiaire/Grand Nômage.md",
-    "Annexe/Sortilèges/Niveau 5/Scrutation.md",
-    "Annexe/Sortilèges/Niveau 4/Tentacules noirs.md",
-    "Annexe/Sortilèges/Niveau 4/Sanctuaire privé.md",
-    "Annexe/Sortilèges/Niveau 4/Bannissement.md",
     "Annexe/Sortilèges/Niveau 4",
     "Annexe/Règles/Sans titre",
     "Oblivion/Images/Le poignard polymorphe.jpg",
@@ -235,7 +236,6 @@
     "Invincible/Images/epreuveFeu.png",
     "Oblivion/Images/Guerrière Soong.jpg",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars",
-    "Oblivion/Groupe",
     "Invincible/Images/Hector.jpg",
     "Oblivion/PNJ/Sans titre.canvas"
   ]

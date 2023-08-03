@@ -2,16 +2,21 @@
 type: Divination
 niveau: 5 (rituel)
 incantation: 1 action
-distance: 9
-composantes: 
-temps: 
-classe: 
+distance: 9 mètres
+composantes: V, S, M (bouts de coquille d'œuf issus de deux espèces de créatures différentes)
+temps: 1 heure
+classe: Magicien
 ---
-# <% tp.frontmatter.type %> de niveau <% tp.frontmatter.niveau %>
+# Divination de niveau 5 (rituel)
 
-**Temps d'incantation :** <% tp.frontmatter.incantation %>
-**Portée :** <% tp.frontmatter.distance %>
-**Composantes :** <% tp.frontmatter.composantes %>
-**Durée :** <% tp.frontmatter.temps %>
-**Classe :** <% tp.frontmatter.classe %>
+**Temps d'incantation :** 1 action
+**Portée :** 9 mètres
+**Composantes :** V, S, M (bouts de coquille d'œuf issus de deux espèces de créatures différentes)
+**Durée :** 1 heure
+**Classe :** Magicien
 
+Vous forgez un lien télépathique entre un maximum de huit créatures consentantes situées à portée. Elles sont alors psychiquement liées les unes aux autres pendant la durée du sort. Ce sort n'affecte pas les créatures dotées d'une Intelligence de 2 ou moins.
+
+Jusqu'à la fin du sort, les cibles peuvent communiquer entre elles par télépathie via le lien créé, qu'elles partagent un même langage ou non. Cette communication fonctionne quelle que soit la distance qui les sépare, mais ne s'étend pas aux autres plans d'existence.
+
+**À plus haut niveau**. Lorsque vous lancez ce sort en dépensant un emplacement de sort de niveau 6, la durée passe à 12 heures. Au niveau 7, vous pouvez transmettre des images, sons et autres perceptions sensorielles aux créatures ciblées. Enfin, au niveau 8, la portée devient illimitée tant que vous êtes sur le même plan et que vous connaissez les créatures ciblées.
