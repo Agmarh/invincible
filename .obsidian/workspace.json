@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oblivion/Bestiaire/Mékhanôm.md",
+                "file": "Invincible/Bestiaire/Capitaine de Lycanis.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oblivion/Bestiaire/Mékhanôm.md",
+                "file": "Invincible/Bestiaire/Capitaine de Lycanis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oblivion/Bestiaire/Mékhanôm.md",
+                "file": "Invincible/Bestiaire/Capitaine de Lycanis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oblivion/Bestiaire/Mékhanôm.md"
+                "file": "Invincible/Bestiaire/Capitaine de Lycanis.md"
               }
             }
           }
@@ -189,10 +189,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f313958ee2e0b55c",
+  "active": "6850c780739b4df5",
   "lastOpenFiles": [
-    "Template/Monstre.md",
     "Oblivion/Bestiaire/Mékhanôm.md",
+    "Template/Monstre.md",
     "Template/Sort.md",
     "Oblivion/Bestiaire/Mastiff.md",
     "Oblivion/Bestiaire/Mangeuse d'araignées.md",
