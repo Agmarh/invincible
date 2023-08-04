@@ -34,17 +34,17 @@ spells:
   - <spell level>: <spell-list>
 traits:
   - name: Vision dans les ténèbres
-    desc: <trait-description>
+    desc: "Les nuitants voient dans les ténèbres de n’importe quel type, y compris magique, sur une distance de 36 m."
   - name: Résistance à la magie
-    desc: <trait-description>
+    desc: "Ils obtiennent un avantage sur tous les jets de sauvegarde afin de résister aux sorts d’illusion."
   - name: Résistance légendaire (3/jour)
-    desc: <trait-description>
+    desc: "Le népharum peut remplacer l’échec d’un de ses jets de sauvegarde par une réussite."
   - name: Aura de terreur
-    desc: <trait-description>
-  - name: Engendrer une ghûraghas
-    desc: <trait-description>
-  - name: <trait-name>
-    desc: <trait-description>
+    desc: "Toute créature à moins de 3 m d’un népharum doit réussir un jet de sauvegarde de Sagesse (DD 15) ou subir immédiatement l’effet terrorisé. Les créatures immunisées à cet état obtiennent un avantage sur leur jet de sauvegarde mais subissent tout de même l’effet en cas d’échec."
+  - name: Engendrer une ghûraghasta
+    desc: "Généralement, un népharum torture et dévore ceux qu’il tue. Parfois, il dépose dans leur cadavre un embryon noir unique et l’ensemble se transforme abominablement pour ressusciter sous la forme d’une ghûraghasta. Ce processus prend 1d4 jours. À son terme, ils deviennent une nouvelle et immonde ghûraghasta. Un sort de protection contre le mal et le bien lancé sur le cadavre avant la fin de sa transformation permet d’enrayer le processus."
+  - name: Traquer la peur
+    desc: "Le népharum est capable de ressentir la peur de ses proies. Il a l’avantage à tous les tests de Sagesse (Survie) effectués afin de les pister. Les paladins ne peuvent être traqués de la sorte."
 actions:
   - name: <trait-name>
     desc: <trait-description>
