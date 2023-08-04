@@ -31,13 +31,13 @@ spells:
   - 4e niveau (3 emplacements): [[Flétrissement]], [[Porte dimensionnelle]]
   - 5e niveau (2 emplacements): [[Dominer un humanoïde]]
 traits:
-  - name: <trait-name>
-    desc: <trait-description>
-  - name: <trait-name>
-    desc: <trait-description>
-  - name: <trait-name>
-    desc: <trait-description>
-  - name: <trait-name>
+  - name: Reconstitution
+    desc: "S'il meurt, le naga revient à la vie avec la totalité de ses points de vie au bout de 1d6 jours. Seul un sort de souhait peut empêcher le fonctionnement de ce trait."
+  - name: Résistance à la magie
+    desc: "Naga obtient un avantage lors des jets de sauvegarde contre les sorts et autres effets magiques."
+  - name: Pouvoirs du ravageur
+    desc: "Naga peut utiliser les sorts suivants à leur niveau minimal : soins des blessures, blessure, détection du mal et du bien, détection de la magie, détection des pensées, voir l’invisible, compréhension des langues. Il peut lancer chacun de ces sorts une fois entre chaque repos court ou long."
+  - name: Insondable
     desc: <trait-description>
 actions:
   - name: <trait-name>
