@@ -19,32 +19,11 @@ condition_immunities: [[Charmé]], [[Empoisonné]], Epuisé, [[Paralysé]], [[Te
 senses: vision dans le noir 18 m, Perception passive 10
 languages: celles qu'elle connaissant de son vivant
 cr: 3
-spells:
-  - <description>
-  - <spell level>: <spell-list>
-traits:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
 actions:
-  - name: <trait-name>
+  - name: Attaques multiples
+    desc: "La momie peut utiliser son Regard effroyable et effectuer une attaque avec son poing en décomposition."
+  - name: Poing en décomposition
     desc: <trait-description>
-  - ...
-legendary_actions:
-  - name: <legendary_actions-name>
-    desc: <legendary_actions-description>
-  - ...
-bonus_actions:
-  - name: <trait-name>
+  - name: Regard effroyable
     desc: <trait-description>
-  - ...
-reactions:
-  - name: <reaction-name>
-    desc: <reaction-description>
-  - ...
-tactic:
-  - desc: <reaction-description>
-treasure:
-  - name: <reaction-name>
-    desc: <reaction-description>
 ```
