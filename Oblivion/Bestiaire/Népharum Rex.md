@@ -40,9 +40,9 @@ actions:
   - name: Attaques multiples
     desc: "Le Népharum peut effectuer trois attaques de hache et une attaque de morsure avec une action attaquer."
   - name: Hache de Népharum
-    desc: "Attaque d’arme au corps-àcorps : +12 pour toucher, allonge 3 m, une cible. Touché : 20 (2d12+7) dégâts nécrotiques. Ces dégâts sont considérés comme magiques."
+    desc: "Attaque d’arme au corps-àcorps : +16 pour toucher, allonge 3 m, une cible. Touché : 29 (3d12+10) dégâts nécrotiques. Ces dégâts sont considérés comme magiques."
   - name: Morsure de Népharum
-    desc: "Attaque d’arme au corps-à-corps : +12 pour toucher, allonge 3 m, une cible. Touché : 10 (1d6+7) dégâts perforants. Ces dégâts sont considérés comme magiques. Toute créature blessée par une morsure de népharum doit réussir un jet de sauvegarde de Constitution DD 20 ou subir l’état paralysé pendant 1d6 rounds."
+    desc: "Attaque d’arme au corps-à-corps : +16 pour toucher, allonge 3 m, une cible. Touché : 13 (1d6+10) dégâts perforants. Ces dégâts sont considérés comme magiques. Toute créature blessée par une morsure de népharum doit réussir un jet de sauvegarde de Constitution DD 24 ou subir l’état paralysé pendant 1d6 rounds."
 tactic:
-  - desc: "Il arrive que le népharum manie plutôt une hache simple et un bouclier. Dans ce cas sa CA passe à 19 et ses dégâts d’arme deviennent : Touché : 16 (2d8+7) dégâts nécrotiques."
+  - desc: "Il arrive que le Népharum manie plutôt une hache simple et un bouclier. Dans ce cas sa CA passe à 22 et ses dégâts d’arme deviennent : Touché : 24 (2d8+7) dégâts nécrotiques."
 ```
