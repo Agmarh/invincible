@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oblivion/Bestiaire/Naga.md",
+                "file": "Template/Sort.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oblivion/Bestiaire/Naga.md",
+                "file": "Template/Sort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oblivion/Bestiaire/Naga.md",
+                "file": "Template/Sort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oblivion/Bestiaire/Naga.md"
+                "file": "Template/Sort.md"
               }
             }
           }
@@ -191,8 +191,8 @@
   },
   "active": "888c7c629c8877e0",
   "lastOpenFiles": [
-    "Template/Monstre.md",
     "Oblivion/Bestiaire/Naga.md",
+    "Template/Monstre.md",
     "Oblivion/Bestiaire/Momie.md",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/1 - Enquête morbide et mortelles tracasseries.md",
     "Invincible/Objets Magiques/Anneau de marche sur l'eau.md",
