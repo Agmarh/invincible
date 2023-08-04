@@ -47,10 +47,10 @@ legendary_actions:
   - name: Le népharum Rex peut effectuer trois actions légendaires qu’il choisit parmi celles décrites ici. Une seule action légendaire peut être choisie à la fois, et uniquement à la fin du tour d’une autre créature. Le népharum Rex récupère au début de son tour les actions légendaires déjà effectuées.
   - name: Attaque (1 action)
     desc: "Le népharum Rex peut effectuer une action attaquer."
-  - name: <legendary_actions-name>
-    desc: <legendary_actions-description>
-  - name: <legendary_actions-name>
-    desc: <legendary_actions-description>
+  - name: Déplacement surnaturel (1 action)
+    desc: "Le népharum Rex peut se déplacer de deux fois sa vitesse. Il n’est pas soumis aux attaques d’opportunité qui pourraient le cibler."
+  - name: Magie démoniaque (2 actions)
+    desc: "Le népharum peut utiliser l’un de ses pouvoirs magiques."
 tactic:
   - desc: "Il arrive que le Népharum manie plutôt une hache simple et un bouclier. Dans ce cas sa CA passe à 22 et ses dégâts d’arme deviennent : Touché : 24 (4d6+10) dégâts nécrotiques."
 ```
