@@ -32,7 +32,7 @@ cr: 12
 spells:
   - "Le Népharum peut lancer certains sorts, le DD pour résister à ces sorts est de 20."
   - à volonté: [[Ténèbres]], [[Protection contre le mal et le bien]] (limité au bien)
-  - une fois entre chaq
+  - une fois entre chaque repos court (pour chaque sort): [[Jeter une malédiction]], [[Flamboiement funeste]], [[Colère des damnés]]. Ces 3 sorts sont lancés au niveau 6
 traits:
   - name: Vision dans les ténèbres
     desc: "Les nuitants voient dans les ténèbres de n’importe quel type, y compris magique, sur une distance de 36 m."
@@ -49,22 +49,10 @@ traits:
 actions:
   - name: <trait-name>
     desc: <trait-description>
-  - ...
-legendary_actions:
-  - name: <legendary_actions-name>
-    desc: <legendary_actions-description>
-  - ...
-bonus_actions:
   - name: <trait-name>
     desc: <trait-description>
-  - ...
-reactions:
-  - name: <reaction-name>
-    desc: <reaction-description>
-  - ...
+  - name: <trait-name>
+    desc: <trait-description>
 tactic:
   - desc: <reaction-description>
-treasure:
-  - name: <reaction-name>
-    desc: <reaction-description>
 ```
