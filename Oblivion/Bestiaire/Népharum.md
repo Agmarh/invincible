@@ -33,9 +33,18 @@ spells:
   - <description>
   - <spell level>: <spell-list>
 traits:
+  - name: Vision dans les ténèbres
+    desc: <trait-description>
+  - name: Résistance à la magie
+    desc: <trait-description>
+  - name: Résistance légendaire (3/jour)
+    desc: <trait-description>
+  - name: Aura de terreur
+    desc: <trait-description>
+  - name: Engendrer une ghûraghas
+    desc: <trait-description>
   - name: <trait-name>
     desc: <trait-description>
-  - ...
 actions:
   - name: <trait-name>
     desc: <trait-description>
