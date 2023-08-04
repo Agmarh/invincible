@@ -38,26 +38,8 @@ traits:
   - name: Pouvoirs du ravageur
     desc: "Naga peut utiliser les sorts suivants à leur niveau minimal : soins des blessures, blessure, détection du mal et du bien, détection de la magie, détection des pensées, voir l’invisible, compréhension des langues. Il peut lancer chacun de ces sorts une fois entre chaque repos court ou long."
   - name: Insondable
-    desc: <trait-description>
+    desc: "Naga est en permanence sous l’effet du sort esprit impénétrable. Cet effet ne peut être détecté avec le sort détection de la magie."
 actions:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
-legendary_actions:
-  - name: <legendary_actions-name>
-    desc: <legendary_actions-description>
-  - ...
-bonus_actions:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
-reactions:
-  - name: <reaction-name>
-    desc: <reaction-description>
-  - ...
-tactic:
-  - desc: <reaction-description>
-treasure:
-  - name: <reaction-name>
-    desc: <reaction-description>
+  - name: Morsure
+    desc: "Attaque d'arme au corps à corps : +7 pour toucher, allonge 3 m, une créature. Touché : 7 (1d6+4) dégâts perforants et la cible doit effectuer un jet de sauvegarde de Constitution DD 13 ; elle subit 31 (7d8) dégâts de poison en cas de jet de sauvegarde raté ou la moitié de ces dégâts seulement en cas de réussite."
 ```

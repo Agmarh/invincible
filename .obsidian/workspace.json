@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oblivion/Bestiaire/Naga.md",
+                "file": "Template/Monstre.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oblivion/Bestiaire/Naga.md",
+                "file": "Template/Monstre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oblivion/Bestiaire/Naga.md",
+                "file": "Template/Monstre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oblivion/Bestiaire/Naga.md"
+                "file": "Template/Monstre.md"
               }
             }
           }
@@ -191,12 +191,12 @@
   },
   "active": "888c7c629c8877e0",
   "lastOpenFiles": [
+    "Oblivion/Bestiaire/Naga.md",
     "Annexe/Sortilèges/Niveau 5/Dominer un humanoïde.md",
     "Annexe/Sortilèges/Niveau 5/Sans titre.md",
     "Annexe/Sortilèges/Niveau 4/Porte dimensionnelle.md",
     "Template/Sort.md",
     "Annexe/Sortilèges/Niveau 4/Flétrissement.md",
-    "Oblivion/Bestiaire/Naga.md",
     "Template/Monstre.md",
     "Oblivion/Bestiaire/Momie.md",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/1 - Enquête morbide et mortelles tracasseries.md",
