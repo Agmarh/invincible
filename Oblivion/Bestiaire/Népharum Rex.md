@@ -7,13 +7,13 @@ subtype: Nuitant
 alignment: Chaotique Mauvais
 ac: 20
 hp: 222
-hit_dice: 19d10+95
+hit_dice: 12d20+96
 speed: 9 m
-stats: [24, 14, 20, 18, 17, 15]
+stats: [30, 14, 26, 18, 17, 18]
 saves:
-  - For: +11
-  - Con: +9
-  - Sag: +7
+  - For: +16
+  - Con: +14
+  - Sag: +9
 skillsaves:
   - Athlétisme: +11
   - Intimidation: +6
