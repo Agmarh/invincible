@@ -47,12 +47,12 @@ traits:
   - name: Traquer la peur
     desc: "Le népharum est capable de ressentir la peur de ses proies. Il a l’avantage à tous les tests de Sagesse (Survie) effectués afin de les pister. Les paladins ne peuvent être traqués de la sorte."
 actions:
-  - name: <trait-name>
-    desc: <trait-description>
-  - name: <trait-name>
-    desc: <trait-description>
-  - name: <trait-name>
-    desc: <trait-description>
+  - name: Attaques multiples
+    desc: "Le Népharum peut effectuer trois attaques de hache et une attaque de morsure avec une action attaquer."
+  - name: Hache de Népharum
+    desc: "Attaque d’arme au corps-àcorps : +12 pour toucher, allonge 3 m, une cible. Touché : 20 (2d12+7) dégâts nécrotiques. Ces dégâts sont considérés comme magiques."
+  - name: Morsure de Népharum
+    desc: "Attaque d’arme au corps-à-corps : +12 pour toucher, allonge 3 m, une cible. Touché : 10 (1d6+7) dégâts perforants. Ces dégâts sont considérés comme magiques. Toute créature blessée par une morsure de népharum doit réussir un jet de sauvegarde de Constitution DD 20 ou subir l’état paralysé pendant 1d6 rounds."
 tactic:
   - desc: <reaction-description>
 ```
