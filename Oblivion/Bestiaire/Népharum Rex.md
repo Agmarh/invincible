@@ -43,6 +43,14 @@ actions:
     desc: "Attaque d’arme au corps-àcorps : +16 pour toucher, allonge 3 m, une cible. Touché : 29 (3d12+10) dégâts nécrotiques. Ces dégâts sont considérés comme magiques."
   - name: Morsure de Népharum
     desc: "Attaque d’arme au corps-à-corps : +16 pour toucher, allonge 3 m, une cible. Touché : 13 (1d6+10) dégâts perforants. Ces dégâts sont considérés comme magiques. Toute créature blessée par une morsure de népharum doit réussir un jet de sauvegarde de Constitution DD 24 ou subir l’état paralysé pendant 1d6 rounds."
+legendary_actions:
+  - name: Le népharum Rex peut effectuer trois actions légendaires qu’il choisit parmi celles décrites ici. Une seule action légendaire peut être choisie à la fois, et uniquement à la fin du tour d’une autre créature. Le népharum Rex récupère au début de son tour les actions légendaires déjà effectuées.
+  - name: Attaque (1 action)
+    desc: "Le népharum Rex peut effectuer une action attaquer."
+  - name: <legendary_actions-name>
+    desc: <legendary_actions-description>
+  - name: <legendary_actions-name>
+    desc: <legendary_actions-description>
 tactic:
-  - desc: "Il arrive que le Népharum manie plutôt une hache simple et un bouclier. Dans ce cas sa CA passe à 22 et ses dégâts d’arme deviennent : Touché : 24 (2d8+7) dégâts nécrotiques."
+  - desc: "Il arrive que le Népharum manie plutôt une hache simple et un bouclier. Dans ce cas sa CA passe à 22 et ses dégâts d’arme deviennent : Touché : 24 (4d6+10) dégâts nécrotiques."
 ```
