@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Template/Sort.md",
+                "file": "Annexe/Sortilèges/Niveau 4/Flétrissement.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Template/Sort.md",
+                "file": "Annexe/Sortilèges/Niveau 4/Flétrissement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Template/Sort.md",
+                "file": "Annexe/Sortilèges/Niveau 4/Flétrissement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Template/Sort.md"
+                "file": "Annexe/Sortilèges/Niveau 4/Flétrissement.md"
               }
             }
           }
@@ -191,13 +191,14 @@
   },
   "active": "888c7c629c8877e0",
   "lastOpenFiles": [
+    "Template/Sort.md",
+    "Annexe/Sortilèges/Niveau 4/Flétrissement.md",
     "Oblivion/Bestiaire/Naga.md",
     "Template/Monstre.md",
     "Oblivion/Bestiaire/Momie.md",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/1 - Enquête morbide et mortelles tracasseries.md",
     "Invincible/Objets Magiques/Anneau de marche sur l'eau.md",
     "Annexe/Sortilèges/Niveau 4/Contrôle de l'eau.md",
-    "Template/Sort.md",
     "Invincible/Objets Magiques/Boutefeu.md",
     "Invincible/Objets Magiques/Arc vicieux.md",
     "Invincible/Bestiaire/Hector de Lycanis.md",
@@ -218,7 +219,6 @@
     "Annexe/Sortilèges/Niveau 5/Rappel à la vie.md",
     "Annexe/Sortilèges/Niveau 5/Lien télépathique.md",
     "Annexe/Sortilèges/Niveau 5/Dominer un humanoïde.md",
-    "Annexe/Sortilèges/Niveau 5/Dissipation du mal et du bien.md",
     "Annexe/Sortilèges/Niveau 4",
     "Annexe/Règles/Sans titre",
     "Oblivion/Images/Le poignard polymorphe.jpg",
