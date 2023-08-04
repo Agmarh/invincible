@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 4/Flétrissement.md",
+                "file": "Annexe/Sortilèges/Niveau 4/Porte dimensionnelle.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 4/Flétrissement.md",
+                "file": "Annexe/Sortilèges/Niveau 4/Porte dimensionnelle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 4/Flétrissement.md",
+                "file": "Annexe/Sortilèges/Niveau 4/Porte dimensionnelle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 4/Flétrissement.md"
+                "file": "Annexe/Sortilèges/Niveau 4/Porte dimensionnelle.md"
               }
             }
           }
@@ -192,6 +192,7 @@
   "active": "888c7c629c8877e0",
   "lastOpenFiles": [
     "Template/Sort.md",
+    "Annexe/Sortilèges/Niveau 4/Porte dimensionnelle.md",
     "Annexe/Sortilèges/Niveau 4/Flétrissement.md",
     "Oblivion/Bestiaire/Naga.md",
     "Template/Monstre.md",
@@ -218,7 +219,6 @@
     "Annexe/Sortilèges/Niveau 5/Restauration supérieure.md",
     "Annexe/Sortilèges/Niveau 5/Rappel à la vie.md",
     "Annexe/Sortilèges/Niveau 5/Lien télépathique.md",
-    "Annexe/Sortilèges/Niveau 5/Dominer un humanoïde.md",
     "Annexe/Sortilèges/Niveau 4",
     "Annexe/Règles/Sans titre",
     "Oblivion/Images/Le poignard polymorphe.jpg",
