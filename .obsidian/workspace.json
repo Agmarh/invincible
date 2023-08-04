@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oblivion/Bestiaire/Nécrophage.md",
+                "file": "Oblivion/Bestiaire/Népharum.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oblivion/Bestiaire/Nécrophage.md",
+                "file": "Oblivion/Bestiaire/Népharum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oblivion/Bestiaire/Nécrophage.md",
+                "file": "Oblivion/Bestiaire/Népharum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oblivion/Bestiaire/Nécrophage.md"
+                "file": "Oblivion/Bestiaire/Népharum.md"
               }
             }
           }
@@ -192,6 +192,7 @@
   "active": "888c7c629c8877e0",
   "lastOpenFiles": [
     "Template/Monstre.md",
+    "Oblivion/Bestiaire/Népharum.md",
     "Oblivion/Bestiaire/Nécrophage.md",
     "Oblivion/Bestiaire/Naga.md",
     "Annexe/Sortilèges/Niveau 5/Dominer un humanoïde.md",
@@ -217,7 +218,6 @@
     "Annexe/Sortilèges/Niveau 6/Vision suprême.md",
     "Annexe/Sortilèges/Niveau 9/Prémonition.md",
     "Annexe/Sortilèges/Niveau 9",
-    "Annexe/Sortilèges/Niveau 5/Scrutation.md",
     "Annexe/Sortilèges/Niveau 6",
     "Annexe/Sortilèges/Niveau 4",
     "Annexe/Règles/Sans titre",
