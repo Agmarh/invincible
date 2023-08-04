@@ -8,12 +8,16 @@ alignment: Chaotique Mauvais
 ac: 12
 hp: 199
 hit_dice: 19d10+95
-speed: 
-stats: [10, 10, 10, 10, 10, 10]
+speed: 9 m
+stats: [24, 14, 20, 18, 17, 15]
 saves:
-  - <ability-score>: number
+  - For: +11
+  - Con: +9
+  - Sag: +7
 skillsaves:
-  - <skill-name>: number
+  - Athlétisme: +11
+  - Intimidation: +6
+  - Perception: +7
 damage_vulnerabilities: string
 damage_resistances: string
 damage_immunities: string
