@@ -15,9 +15,9 @@ saves:
   - Con: +14
   - Sag: +9
 skillsaves:
-  - Athlétisme: +11
-  - Intimidation: +6
-  - Perception: +7
+  - Athlétisme: +16
+  - Intimidation: +10
+  - Perception: +9
 damage_immunities: de poison
 condition_immunities: [[Charmé]], [[Empoisonné]], Epuisé, [[Paralysé]]
 senses: vision aveugle 18 m, Perception passive 17
