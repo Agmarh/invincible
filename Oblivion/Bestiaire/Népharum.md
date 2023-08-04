@@ -1,3 +1,9 @@
+Surnommés « les maîtres des chaînes », les redoutables népharums incarnent les rêves d’angoisse et symbolisent la souffrance prolongée d’une façon générale. De loin, leur aspect fait d’abord penser à celui des goules ghûraghastas. Comme elles, ils disposent de six hautes pattes recourbées encadrant une énorme colonne vertébrale horizontale, se redressant à l’avant en un torse humanoïde surmonté d’un crâne aux orbites vides.
+
+Mais de près, les népharums révèlent toute leur terrifiante ampleur. Leurs os ténébreux comme du charbon luisent tels de l’oniriôm pur et emportent à plus de trois mètres de haut un torse de chair noire, couturé de piercings métalliques et de crochets cruels. Quant à leur crâne sombre, orné de clous ou bardé de fil de fer, il s'ouvre sur deux orbites vides scintillant d’une diabolique intelligence.
+
+Experts en maniement d’armes et d’instruments de torture, les népharums en transportent toujours sur eux. Les népharums ont également la capacité d’engendrer une ghûraghasta en déposant un embryon noir dans la carcasse de leur victime. Pour cela, on les considère généralement comme les pères de cette race.
+
 ```statblock
 image: [[monstre.png]]
 name: Népharum
@@ -18,13 +24,11 @@ skillsaves:
   - Athlétisme: +11
   - Intimidation: +6
   - Perception: +7
-damage_vulnerabilities: string
-damage_resistances: string
-damage_immunities: string
-condition_immunities: string
-senses: Perception passive 10
-languages: string
-cr: 1
+damage_immunities: de poison
+condition_immunities: [[Charmé]], [[Empoisonné]], Epuisé, [[Paralysé]]
+senses: vision aveugle 18 m, Perception passive 17
+languages: abyssal, commun des profondeurs, commun
+cr: 12
 spells:
   - <description>
   - <spell level>: <spell-list>
