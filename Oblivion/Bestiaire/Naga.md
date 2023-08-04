@@ -28,12 +28,17 @@ spells:
   - 1er niveau (4 emplacements): [[Charme-personne]], [[Détection de la magie]], [[Sommeil]]
   - 2e niveau (3 emplacements): [[Détection des pensées]], [[Immobiliser un humanoïde]]
   - 3e niveau (3 emplacements): [[Éclair]], [[Respiration aquatique]]
-  - 4e niveau (3 emplacements): 
-  - 5e niveau (2 emplacements): 
+  - 4e niveau (3 emplacements): [[Flétrissement]], [[Porte dimensionnelle]]
+  - 5e niveau (2 emplacements): [[Dominer un humanoïde]]
 traits:
   - name: <trait-name>
     desc: <trait-description>
-  - ...
+  - name: <trait-name>
+    desc: <trait-description>
+  - name: <trait-name>
+    desc: <trait-description>
+  - name: <trait-name>
+    desc: <trait-description>
 actions:
   - name: <trait-name>
     desc: <trait-description>
