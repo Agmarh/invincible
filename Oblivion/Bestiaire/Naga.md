@@ -1,3 +1,5 @@
+Naga est une créature à l’apparence moitié humanoïde, moitié serpentine. Son corps entier semble fait de chitine noire et figée, et il ne se meut que parce que les parties mobiles sont constituées d’anneaux. Son visage est figé dans un rictus terrifiant.
+
 ```statblock
 image: [[monstre.png]]
 name: Naga
@@ -16,10 +18,10 @@ saves:
   - Sag: +5
   - Cha: +6
 damage_immunities: de poison
-condition_immunities: [[Charmé]]
-senses: Perception passive 10
-languages: string
-cr: 1
+condition_immunities: [[Charmé]], [[Empoisonné]]
+senses: vision dans le noir 18 m, Perception passive 12
+languages: -
+cr: 8
 spells:
   - <description>
   - <spell level>: <spell-list>
