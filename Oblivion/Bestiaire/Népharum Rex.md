@@ -20,9 +20,9 @@ skillsaves:
   - Perception: +9
 damage_immunities: de poison
 condition_immunities: [[Charmé]], [[Empoisonné]], Epuisé, [[Paralysé]]
-senses: vision aveugle 18 m, Perception passive 17
+senses: vision aveugle 18 m, Perception passive 19
 languages: abyssal, commun des profondeurs, commun
-cr: 12
+cr: 19
 spells:
   - "Le Népharum peut lancer certains sorts, le DD pour résister à ces sorts est de 20."
   - à volonté: [[Ténèbres]], [[Protection contre le mal et le bien]] (limité au bien)
