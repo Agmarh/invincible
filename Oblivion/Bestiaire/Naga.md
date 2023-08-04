@@ -7,17 +7,16 @@ subtype:
 alignment: Chaotique Mauvais
 ac: 15
 hp: 75
-hit_dice: 1d8+0
-speed: 0
-stats: [10, 10, 10, 10, 10, 10]
+hit_dice: 10d10+20
+speed: 12 m
+stats: [18, 17, 14, 16, 15, 16]
 saves:
-  - <ability-score>: number
-skillsaves:
-  - <skill-name>: number
-damage_vulnerabilities: string
-damage_resistances: string
-damage_immunities: string
-condition_immunities: string
+  - Dex: +6
+  - Con: +5
+  - Sag: +5
+  - Cha: +6
+damage_immunities: de poison
+condition_immunities: [[Charmé]]
 senses: Perception passive 10
 languages: string
 cr: 1
