@@ -23,8 +23,10 @@ senses: vision dans le noir 18 m, Perception passive 12
 languages: -
 cr: 8
 spells:
-  - <description>
-  - <spell level>: <spell-list>
+  - "Le naga est un lanceur de sorts de niveau 10. Sa caractéristique d'incantation est l'Intelligence (DD du jet de sauvegarde contre les sorts 14, +6 pour toucher avec les attaques de sort) et seules les composantes verbales sont nécessaires pour lancer ses sorts."
+  - Tours de magie: [[Illusion mineure]], [[Main du mage]], [[Rayon de givre]]
+  - 1er niveau (4 emplacements): [[Charme-personne]], [[Détection de la magie]], [[Sommeil]]
+  - 2e niveau (3 emplacements): [[]]
 traits:
   - name: <trait-name>
     desc: <trait-description>
