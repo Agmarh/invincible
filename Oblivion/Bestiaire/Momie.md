@@ -13,12 +13,12 @@ stats: [16, 8, 15, 6, 10, 12]
 saves:
   - Sag: +2
 damage_vulnerabilities: de feu
-damage_resistances: string
-damage_immunities: string
-condition_immunities: string
-senses: Perception passive 10
-languages: string
-cr: 1
+damage_resistances: contondants, perforants et tranchants infligés par des attaques non-magiques
+damage_immunities: nécrotiques et de poison
+condition_immunities: [[Charmé]], [[Empoisonné]], Epuisé, [[Paralysé]], [[Terrorisé]]
+senses: vision dans le noir 18 m, Perception passive 10
+languages: celles qu'elle connaissant de son vivant
+cr: 3
 spells:
   - <description>
   - <spell level>: <spell-list>
