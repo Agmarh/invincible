@@ -30,8 +30,9 @@ senses: vision aveugle 18 m, Perception passive 17
 languages: abyssal, commun des profondeurs, commun
 cr: 12
 spells:
-  - <description>
-  - <spell level>: <spell-list>
+  - "Le Népharum peut lancer certains sorts, le DD pour résister à ces sorts est de 20."
+  - à volonté: [[Ténèbres]], [[Protection contre le mal et le bien]] (limité au bien)
+  - une fois entre chaq
 traits:
   - name: Vision dans les ténèbres
     desc: "Les nuitants voient dans les ténèbres de n’importe quel type, y compris magique, sur une distance de 36 m."
