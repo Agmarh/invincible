@@ -24,18 +24,14 @@ senses: vision aveugle 18 m, Perception passive 19
 languages: abyssal, commun des profondeurs, commun
 cr: 19
 spells:
-  - "Le Népharum peut lancer certains sorts, le DD pour résister à ces sorts est de 20."
+  - "Le Népharum peut lancer certains sorts, le DD pour résister à ces sorts est de 24."
   - à volonté: [[Ténèbres]], [[Protection contre le mal et le bien]] (limité au bien)
-  - une fois entre chaque repos court (pour chaque sort): [[Jeter une malédiction]], [[Flamboiement funeste]], [[Colère des damnés]]. Ces 3 sorts sont lancés au niveau 6
+  - une fois entre chaque repos court (pour chaque sort): [[Jeter une malédiction]], [[Flamboiement funeste]], [[Colère des damnés]]. Ces 3 sorts sont lancés au niveau 8
 traits:
-  - name: Vision dans les ténèbres
-    desc: "Les nuitants voient dans les ténèbres de n’importe quel type, y compris magique, sur une distance de 36 m."
-  - name: Résistance à la magie
-    desc: "Ils obtiennent un avantage sur tous les jets de sauvegarde afin de résister aux sorts d’illusion."
   - name: Résistance légendaire (3/jour)
     desc: "Le népharum peut remplacer l’échec d’un de ses jets de sauvegarde par une réussite."
   - name: Aura de terreur
-    desc: "Toute créature à moins de 3 m d’un népharum doit réussir un jet de sauvegarde de Sagesse (DD 15) ou subir immédiatement l’effet terrorisé. Les créatures immunisées à cet état obtiennent un avantage sur leur jet de sauvegarde mais subissent tout de même l’effet en cas d’échec."
+    desc: "Toute créature à moins de 3 m d’un népharum doit réussir un jet de sauvegarde de Sagesse (DD 18) ou subir immédiatement l’effet terrorisé. Les créatures immunisées à cet état obtiennent un avantage sur leur jet de sauvegarde mais subissent tout de même l’effet en cas d’échec."
   - name: Engendrer une ghûraghasta
     desc: "Généralement, un népharum torture et dévore ceux qu’il tue. Parfois, il dépose dans leur cadavre un embryon noir unique et l’ensemble se transforme abominablement pour ressusciter sous la forme d’une ghûraghasta. Ce processus prend 1d4 jours. À son terme, ils deviennent une nouvelle et immonde ghûraghasta. Un sort de protection contre le mal et le bien lancé sur le cadavre avant la fin de sa transformation permet d’enrayer le processus."
   - name: Traquer la peur
