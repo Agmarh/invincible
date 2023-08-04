@@ -26,26 +26,9 @@ actions:
   - name: Attaques multiples
     desc: "Le nécrophage effectue deux attaques à l'épée longue ou deux attaques à l'arc long. Il peut utiliser son _Absorption de vie_ à la place d'une attaque à l'épée longue."
   - name: Absorption de vie
-    desc: "_Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une créature. Touché_ : 5 (1d6+2) dégâts nécrotiques. La cible doit réussir un [jet de sauvegarde](https://5e-drs.fr/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 13 pour ne pas voir son total maximum de points de vie réduit d'un montant égal aux dégâts subis. Cette réduction persiste jusqu'au moment où la créature termine une période de repos long. La cible meurt si cet effet réduit à 0 son total maximum de points de vie. Un humanoïde tué par cette attaque se relève 24 heures plus tard sous forme de zombi contrôlé par le nécrophage, à moins qu'il ne soit ramené à la vie ou que son corps soit détruit. Le nécrophage ne peut avoir plus de douze zombis sous son contrôle en même temps."
+    desc: "Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une créature. Touché : 5 (1d6+2) dégâts nécrotiques. La cible doit réussir un jet de sauvegarde de Constitution DD 13 pour ne pas voir son total maximum de points de vie réduit d'un montant égal aux dégâts subis. Cette réduction persiste jusqu'au moment où la créature termine une période de repos long. La cible meurt si cet effet réduit à 0 son total maximum de points de vie. Un humanoïde tué par cette attaque se relève 24 heures plus tard sous forme de zombi contrôlé par le nécrophage, à moins qu'il ne soit ramené à la vie ou que son corps soit détruit. Le nécrophage ne peut avoir plus de douze zombis sous son contrôle en même temps."
   - name: Arc long
-    desc: <trait-description>
+    desc: "Attaque d'arme à distance : +4 pour toucher, portée 45/180 m, une cible. Touché : 6 (1d8+2) dégâts perforants."
   - name: Epée longue
-    desc: <trait-description>
-legendary_actions:
-  - name: <legendary_actions-name>
-    desc: <legendary_actions-description>
-  - ...
-bonus_actions:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
-reactions:
-  - name: <reaction-name>
-    desc: <reaction-description>
-  - ...
-tactic:
-  - desc: <reaction-description>
-treasure:
-  - name: <reaction-name>
-    desc: <reaction-description>
+    desc: "Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une cible. Touché : 6 (1d8+2) dégâts tranchants ou 7 (1d10+2) dégâts tranchants si elle est maniée à deux mains."
 ```
