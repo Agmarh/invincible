@@ -1,15 +1,15 @@
 ```statblock
 image: [[monstre.png]]
-name: Nom
-size: 
-type: 
+name: Nômage
+size: M
+type: Aberration
 subtype: 
-alignment: Neutre
-ac: 10
-hp: 0
-hit_dice: 1d8+0
-speed: 0
-stats: [10, 10, 10, 10, 10, 10]
+alignment: Toujours Chaotique
+ac: 17
+hp: 78
+hit_dice: 12d8+24
+speed: 0 m
+stats: [12, 11, 14, 20, 15, 8]
 saves:
   - <ability-score>: number
 skillsaves:
