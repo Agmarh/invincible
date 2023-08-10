@@ -8,19 +8,17 @@ alignment: Non aligné
 ac: 13
 hp: 27
 hit_dice: 5d8+5
-speed: 73
-stats: [10, 10, 10, 10, 10, 10]
-saves:
-  - <ability-score>: number
+speed: 7.5 m
+stats: [10, 10, 12, 13, 16, 13]
 skillsaves:
-  - <skill-name>: number
-damage_vulnerabilities: string
-damage_resistances: string
-damage_immunities: string
-condition_immunities: string
-senses: Perception passive 10
-languages: string
-cr: 1
+  - Perspicacité: +7
+  - Supercherie: +5
+  - Médecine: +7
+  - Persuasion: +5
+  - Religion: +5
+senses: Perception passive 13
+languages: commun
+cr: 2
 spells:
   - <description>
   - <spell level>: <spell-list>
