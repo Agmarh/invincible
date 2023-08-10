@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2b947a17eb9a91a6",
+        "id": "2de4f437fbf2801b",
         "type": "tabs",
         "children": [
           {
-            "id": "888c7c629c8877e0",
+            "id": "e513d5e6a14b8f79",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oblivion/Scénario 2 Les enfants d'Oblivion/Introduction.md",
+                "file": "Annexe/Sortilèges/Sorts de niveau 1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oblivion/Scénario 2 Les enfants d'Oblivion/Introduction.md",
+                "file": "Annexe/Sortilèges/Sorts de niveau 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oblivion/Scénario 2 Les enfants d'Oblivion/Introduction.md",
+                "file": "Annexe/Sortilèges/Sorts de niveau 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oblivion/Scénario 2 Les enfants d'Oblivion/Introduction.md"
+                "file": "Annexe/Sortilèges/Sorts de niveau 1.md"
               }
             }
           }
@@ -189,8 +189,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "efc7fbc9dabff410",
+  "active": "e513d5e6a14b8f79",
   "lastOpenFiles": [
+    "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Gangêve/Aggravation.md",
+    "Annexe/Sortilèges/Sorts de niveau 1.md",
+    "Oblivion/Scénario 2 Les enfants d'Oblivion/HS/La Chasse Skïam.md",
+    "Oblivion/Scénario 2 Les enfants d'Oblivion/Introduction.md",
+    "Oblivion/Scénario 2 Les enfants d'Oblivion/Le rêve se répand.md",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/HS",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Introduction.md",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Anthéone.md",
@@ -213,10 +218,6 @@
     "Oblivion/Bestiaire/Ogre d'Oblivion.md",
     "Oblivion/Bestiaire/Orc.md",
     "Oblivion/Bestiaire/Ours Monstrueux.md",
-    "Oblivion/Bestiaire/Oskar Holderhek.md",
-    "Oblivion/Bestiaire/Nômage Supérieur.md",
-    "Annexe/Sortilèges/Niveau 6/Suggestion de groupe.md",
-    "Template/Sort.md",
     "Annexe/Sortilèges/Niveau 9",
     "Annexe/Sortilèges/Niveau 6",
     "Annexe/Sortilèges/Niveau 4",
@@ -232,7 +233,6 @@
     "Oblivion/PDF/Le Cauchemar.pdf",
     "Oblivion/Images/chevalier-dragon.jpg",
     "Invincible/Scénario 2 La cité pétrifiée/Recherches",
-    "Invincible/Scénario 2 La cité pétrifiée/Les lieux",
     "Invincible/Images/epreuveNoir.png",
     "Invincible/Images/epreuveFeu.png",
     "Oblivion/Images/Guerrière Soong.jpg",
