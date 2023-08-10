@@ -1,3 +1,5 @@
+Le ruinard est un charognard étrange que l’on trouve parfois dans les réseaux souterrains, souvent dans les égouts. Nul ne sait d’où vient ce mélange géant entre un ver et un mille-pattes, à la bouche garnie de crocs puissants et entourée de mandibules tranchantes, mais il se repaît la plupart du temps des animaux et déchets qui traînent dans les couloirs qu’il parcourt. Et parfois des malheureux qui se retrouvent face à lui. Solitaire, il arrive que l’on le trouve avec deux ou trois de ses congénères, surtout en période de reproduction.
+
 ```statblock
 image: [[monstre.png]]
 name: Ruinard
@@ -16,35 +18,23 @@ skillsaves:
   - Perception: +3
 damage_immunities: d'acide
 condition_immunities: [[Empoisonné]]
-senses: vision avugle Perception passive 13
-languages: string
-cr: 1
-spells:
-  - <description>
-  - <spell level>: <spell-list>
+senses: vision aveugle 18 m, Perception passive 13
+languages: -
+cr: 3
 traits:
+  - name: Sens aiguisés
+    desc: <trait-description>
+  - name: Pattes d'
+    desc: <trait-description>
   - name: <trait-name>
     desc: <trait-description>
-  - ...
 actions:
   - name: <trait-name>
     desc: <trait-description>
-  - ...
-legendary_actions:
-  - name: <legendary_actions-name>
-    desc: <legendary_actions-description>
-  - ...
-bonus_actions:
   - name: <trait-name>
     desc: <trait-description>
-  - ...
-reactions:
-  - name: <reaction-name>
-    desc: <reaction-description>
-  - ...
-tactic:
-  - desc: <reaction-description>
-treasure:
-  - name: <reaction-name>
-    desc: <reaction-description>
+  - name: <trait-name>
+    desc: <trait-description>
+  - name: <trait-name>
+    desc: <trait-description>
 ```
