@@ -1,5 +1,4 @@
-SESSION 1 
-
+# SESSION 1 
 Armure de l'armée d'Arten, écusson créature écailles ailés crachant des flamme (Dragon quoi). 
 
 Un homme avec nous nous demande pourquoi nous sommes tous dans un état pitoyable (il ressemble à Jasquier) 
@@ -29,16 +28,14 @@ Un groupe de soldat nous encercle, équipés d'armure de plates rouge, l'un d'eu
 
 "Prévenez notre Roi, nous avons enfin trouver une Arma" 
 
-SESSION 2 
-
+# SESSION 2 
 Nous sommes enfermés dans des cachots, séparés de Kabuto. Le roi nous a condamné à mort pour notre insubordination. C'est le roi lui-même qui va nous exécuter. 
 
 Un Animain à tête de loup en armure cri au Roi d'attendre avant d'exécuter la sanction. C'est notre recruteur qui cherche à faire changer d'avis le Roi. 
 
 Après l'intervention de notre mentor qui nous a sauvé, nous arrivons enfin à la basse ville, il va falloir faire profil bas et s'enfuir. 
 
-SESSION 3 
-
+# SESSION 3 
 Après un test raté… Je dirige l'équipe vers le mauvais côté de la basse ville. Grâce à l'intervention de Pavel et Dobard Chu, je me suis rendu compte que je menais le groupe au mauvais endroit… Notamment vers la mafia la plus dangereuse de la ville. 
 
 Nous arrivons enfin à rejoindre le marché, qui se situe sur une grande place et est disposé n'importe comment. Un marchand malhonnête a voulu nous arnaquer en nous forçant à acheter une marchandise, il a appelé la garde et on a réussi à provoquer un effet de foule pour nous enfuir. 
@@ -51,8 +48,7 @@ Nous pouvons retourner à notre aventure principale. Rappel du début du JDR : 
 
 Sylve de Raviel : "Bien le bonjour mes amis, sir Sylve de Raviel, je suis le scribe des célèbres conquérant, j'ai voyagé pendant leurs aventures, j'étais là au début ! Mes chansons sont inspirés de leurs exploits. Vous voulez que je vous raconte leur histoire, et bien, je compte en faire un livre après tout, tout à commencer…" 
 
-SESSION 4 
-
+# SESSION 4 
 Village des 3 pleureurs par les conseils de Sylve de Raviel. Le groupe a affronté, en chemin, un ennemi trop fort pour eux, c'est grâce à l'intervention de Kabuto et son arme pété qu'ils ont pu survivre.  
 
 Ils ont trouvé un ancien repère de bandit qui auraient cachés des objets, dont un collier doré serti d'une pierre rouge (rouge éclat). Le groupe de Bandit et leur chef Coupe Gorge n'est pas très content parce qu'on a trouvé la cache. Le Groupe de bandit fait partie des Rouges Sang, une faction de la Guilde des Lames Sombres, tous ne sont pas mauvais dans ce groupe, les caravaniers en font partie par exemple.  
@@ -61,8 +57,7 @@ Sylve a trouvé l'hospitalité chez un aubergiste qui leur offre le gîte et le 
 
 Le collier appartient à une riche famille noble, on nous a déconseillé d'aller la voir car ils ont mauvaise réputation. 
 
-SESSION 5 
-
+# SESSION 5 
 Sylve de Raviel nous dit que nous devons quitter le continent pour se mettre en sûreté. Il connait une ville portuaire qui n'est pas sous l'influence de l'empire, Roc en Croc. 
 
 Nous devons aller dans la forêt pour trouver la raison de l'absence des marchandises de l'aubergiste. En chemin, on trouve des buissons remplis de baies, en voulant les ramasser on finit attaquer par 3 Hurlecrocs.  
@@ -71,24 +66,20 @@ On trouve enfin un chariot de marchandise renversé, celui-ci est détruit, la m
 
 Après quelques recherches, on cherche à savoir ce qui a obligé l'Arboresprit à quitter son habitat. C'est à cause d'un repère de brigand que celui-ci est parti. Ce camp est bien fortifié et il semble très animé. Nous allons essayer d'attaquer furtivement le camp. 
 
-SESSION 6 
-
+# SESSION 6 
 On se sépare en deux groupes pour attaquer le repère de brigand. La discrétion ne se passe pas exactement comme prévue… On met le feu au campement et on profite de la cohue pour assassiner furtivement de petits groupes d'ennemis. Pendant que Pavel se remplis les poches dans le butin des brigands, un immense ours se dirige vers nous pour nous casser la gueule. 
 
-SESSION 7 
-
+# SESSION 7 
 Le chef des brigands arrive pour nous faire du mal, d'après sa description, il s'agit de Coupe-Gorge. On décide de combattre et on met à mal Coupe-Gorge, il est inconscient et ses acolytes ont fui avec lui. J'ai perdu ma dague en essayant de la lancer sur Coupe-Gorge. 
 
 On a réussi à mettre à mal le Glouserk mais nous avons dû fuir la zone à cause des flammes. 
 
 En rentrant en ville, on constate que l'auberge est sens dessus dessous, et l'aubergiste est salement amoché. Il nous remercie pour la marchandise retrouvée. L'aubergiste nous raconte qu'une patrouille des soldats de l'empire est arrivé et ont réquisitionnés l'auberge. Ils lui ont demandés s'il avait vu des fugitifs, il a répondu non ce qui a énervé les soldats. Sylve s'est énervé sur les soldats et a fini capturé car un témoin a accusé Sylve de nous avoir aidé. 
 
-SESSION 8 
-
+# SESSION 8 
 Ils ont sauvé Sylve sans trop mettre le bordel. 
 
-SESSION 9 
-
+# SESSION 9 
 De retour à l'auberge, on fête notre sauvetage comme il se doit. On doit se rendre à Rockencroc, on doit rendre le bijou à la fille du baron (Dame Vinisse) à Grandchamp.  
 
 Grandchamp : arrivé au château du baron, les gardes sont très menaçant quand ils entendent parlé du collier qu'on est venu rendre. Les gardes veulent faire croire au baron que nous avons dérobé le collier.  
@@ -101,14 +92,12 @@ Pavel et Killy ont récupérer des infos sur le baron dans son bureau alors que 
 
 Une bagarre a éclaté entre Kabuto et Diego contre les gardes. Sylve nous a réveillé au petit matin pour nous prévenir que des soldats sont arrivés pour nous accuser et poser des avis de recherche. 
 
-SESSION 10 
-
+# SESSION 10 
 Le groupe s'est séparé en deux groupes, killy et dobard sont allé voir l'intendant de la guilde des croisés de fer pour remettre les documents incriminant le baron, quant aux autres, ils sont allés à l'auberge pour convaincre les habitants et les alliés contre le baron.  
 
 Nous cherchons à profiter de tout ce bordel pour nous enfuir. 
 
-SESSION 11 
-
+# SESSION 11 
 Les villageois vont demander des comptes au baron, mais au moment de partir, les soldats d'Arten se trouvent derrière la foule. Pavel a voulu prendre la bourse d'un marchand mais s'est fait attraper par les soldats. Après les avoir éliminés nous avons pu continuer à fuir. Pavel a volé la bourse… 
 
 On arrive à un monastère du culte de l'unique, les religions ne sont pas monnaies courante dans le monde. Pour les remercier, Pavel a déposé la bourse du marchand qui contenait 50 pièces dans le bol de conation du monastère. Nous allons loger au monastère pour nous reposer. On a pu négocier quelques rations et équipements avec le moine avant de repartir.
