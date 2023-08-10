@@ -36,7 +36,9 @@ spells:
   - 1er niveau (4 emplacements): [[Détection de la magie]], [[Fou rire]], [[Graisse]]
   - 2e niveau (3 emplacements): [[Dessiccation]], [[Flou]], [[Image miroir]]
   - 3e niveau (3 emplacements): [[Motif hypnotique]], [[Vol]]
-  - 4e niveau (2 emplacements): [[Sanctuaire privé]], [[Tentacules noirs]]
+  - 4e niveau (3 emplacements): [[Sanctuaire privé]], [[Tentacules noirs]]
+  - 5e niveau (3 emplacements): [[Dominer un humanoïde]], [[Scrutation]]
+  - 6e niveau (1 emplacement): 
 traits:
   - name: Vision dans les ténèbres
     desc: "Les nuitants voient dans les ténèbres de n’importe quel type, y compris magique, sur une distance de 36 m."
