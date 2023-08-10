@@ -20,8 +20,10 @@ senses: Perception passive 13
 languages: commun
 cr: 2
 spells:
-  - <description>
-  - <spell level>: <spell-list>
+  - "L'ecclésiastique est un lanceur de sorts de niveau 5. Sa caractéristique d'incantation est la Sagesse (DD du jet de sauvegarde contre les sorts 13, +5 pour toucher avec les attaques de sort)."
+  - Tours de magie: [[Assistance]], [[Lumière]], [[Thaumaturgie]]
+  - 1er niveau (4 emplacements): [[Création ou destruction d'eau]], [[Sanctuaire]], [[Purification de la nourriture et de l'eau]]
+  - 2e niveau (3 emplacements)
 traits:
   - name: <trait-name>
     desc: <trait-description>
