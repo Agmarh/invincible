@@ -1,21 +1,16 @@
 ```statblock
 image: [[monstre.png]]
-name: Nom
-size: 
+name: Vase grise
+size: M
 type: 
 subtype: 
-alignment: Neutre
-ac: 10
-hp: 0
-hit_dice: 1d8+0
-speed: 0
-stats: [10, 10, 10, 10, 10, 10]
-saves:
-  - <ability-score>: number
-skillsaves:
-  - <skill-name>: number
-damage_vulnerabilities: string
-damage_resistances: string
+alignment: Non aligné
+ac: 8
+hp: 52
+hit_dice: 7d8+21
+speed: 3 m, escalade 3 m
+stats: [16, 6, 16, 1, 6, 2]
+damage_resistances: d'acide, de feu et de cro
 damage_immunities: string
 condition_immunities: string
 senses: Perception passive 10
