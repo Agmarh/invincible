@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Animain/JDR/Chapitre 1.md",
+                "file": "D&D/Felgolos.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Animain/JDR/Chapitre 1.md",
+                "file": "D&D/Felgolos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Animain/JDR/Chapitre 1.md",
+                "file": "D&D/Felgolos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Animain/JDR/Chapitre 1.md"
+                "file": "D&D/Felgolos.md"
               }
             }
           }
@@ -189,11 +189,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "57a26b5dea235620",
+  "active": "efc7fbc9dabff410",
   "lastOpenFiles": [
+    "D&D/En quête des Géants.md",
+    "D&D/Felgolos.md",
+    "D&D/Infos sur la guerre des Géants.md",
+    "D&D/Phandalin.md",
+    "D&D/Forge à Phandalin.md",
+    "D&D/Les apprentis.md",
+    "D&D/Infos générales.md",
+    "Animain/JDR/Chapitre 1.md",
+    "D&D",
     "Animain/JDR/Passé commun.md",
     "Animain/JDR/Arten.md",
-    "Animain/JDR/Chapitre 1.md",
     "Animain/Infos/Culte de l'unique.md",
     "Animain/JDR",
     "Animain/Infos/Amélioration équipement.md",
@@ -214,13 +222,6 @@
     "Annexe/Tours de magie.md",
     "Annexe/Sorts de niveau 1.md",
     "Annexe/Sortilèges/Sans titre.md",
-    "Annexe/Sorts de niveau 9.md",
-    "Annexe/Sorts de niveau 8.md",
-    "Annexe/Sorts de niveau 7.md",
-    "Annexe/Sorts de niveau 6.md",
-    "Annexe/Sorts de niveau 5.md",
-    "Annexe/Sorts de niveau 4.md",
-    "Annexe/Sorts de niveau 3.md",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/HS",
     "Annexe/Sortilèges/Niveau 9",
     "Annexe/Sortilèges/Niveau 6",
@@ -231,7 +232,6 @@
     "Oblivion/Images/img966.jpg",
     "Invincible/Images/Pasted image 20230707113507.png",
     "Invincible/Images/Pasted image 20230707113503.png",
-    "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Anthéone",
     "Oblivion/Images/chevalier-dragon.jpg",
     "Invincible/Images/epreuveNoir.png",
     "Invincible/Images/epreuveFeu.png",
