@@ -1,3 +1,9 @@
+Les tisseurs de destin sont l’incarnation des rêves de tentation. Leur apparence réelle est celle d’un humanoïde androgyne dont la chevelure est remplacée par de chatoyantes flflammes noires piquetées d’étoiles. Mais les tisseurs sont avant tout des êtres change-formes. Très habiles à deviner les tentations secrètes de leurs victimes, ils adoptent l’apparence la plus susceptible de les envoûter.
+
+Les tisseurs ne vivent que pour séduire et abandonner. Grands manipulateurs des destins, rien ne leur plaît tant que pousser des êtres naïfs dans des jeux où ils se perdront corps et âme.
+
+Leur tactique favorite est de lancer des défis. Le plus souvent, la victime se laisse prendre et subit un cuisant et coûteux revers, sans avoir conscience qu’elle a été manipulée. Si elle réalise qu’il s’agit d’une folle entreprise et renonce prudemment, le tisseur l’abandonne, faisant disparaître ses espoirs et la plongeant dans la détresse. Rarement, un être subtil arrive à forcer son destin et relève l’impossible défi : il devient alors le débiteur du tisseur de destin, qui le récompense en lui accordant une chance insolente... pour un certain temps. Ces nuitants sont si tristement célèbres qu’en Oblivion, on emploie parfois l’expression « petite tisseuse » pour désigner une créature tentatrice qui entraîne les autres dans de folles entreprises (cf. les ravageurs en parlant de Sérénité, O1p. 76).
+
 ```statblock
 image: [[monstre.png]]
 name: Tisseur de Destin
@@ -21,13 +27,11 @@ skillsaves:
   - Persuasion: +10
   - Représentation: +10
   - Supercherie: +10
-damage_vulnerabilities: string
-damage_resistances: string
-damage_immunities: string
-condition_immunities: string
-senses: Perception passive 10
-languages: string
-cr: 1
+damage_immunities: d'acide et de poison
+condition_immunities: [[Charmé]], [[Empoisonné]]
+senses: Perception passive 15
+languages: commun, sylvestre, céleste
+cr: 5
 spells:
   - <description>
   - <spell level>: <spell-list>
