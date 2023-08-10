@@ -31,11 +31,7 @@ traits:
     desc: "Le ravageur est en permanence sous l’effet du sort esprit impénétrable. Cet effet ne peut être détecté avec le sort détection de la magie."
 actions:
   - name: Attaques multiples
-    desc: "Le ravageur effectue trois attaques : deux avec ses griffes et une avec son dard.
-
-_**Dard**_. Attaque d’arme au corps-à-corps : +8 pour toucher, allonge 3 m, une cible. Touché : 13 (2d8+4) dégâts perforants et 17 (5d6) dégâts de poison, et la cible doit réussir un jet de sauvegarde de Constitution DD 14 pour ne pas être empoisonnée pendant 1 minute. La cible peut retenter le jet de sauvegarde à la fin de chacun de ses tours et mettre fin à l’effet dont elle est victime en cas de réussite
-
-_**Griffes**_. Attaque d’arme au corps-à-corps : +8 pour toucher, allonge 3 m, une cible. Touché : 8 (1d8+4) dégâts tranchants."
+    desc: "Le ravageur effectue trois attaques : deux avec ses griffes et une avec son dard."
   - name: Dard
     desc: "Attaque d’arme au corps-à-corps : +8 pour toucher, allonge 3 m, une cible. Touché : 13 (2d8+4) dégâts perforants et 17 (5d6) dégâts de poison, et la cible doit réussir un jet de sauvegarde de Constitution DD 14 pour ne pas être empoisonnée pendant 1 minute. La cible peut retenter le jet de sauvegarde à la fin de chacun de ses tours et mettre fin à l’effet dont elle est victime en cas de réussite"
   - name: Griffes
