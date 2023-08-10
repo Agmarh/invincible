@@ -1,3 +1,9 @@
+Ces nuitants sont l’incarnation des mystères de la magie ou de la science, des rêves aberrants et de la folie. Ils ont l’aspect d’énormes bouddhas difformes et passent l’essentiel de leur vie à penser, assis en tailleur.
+
+Les nômages sont experts dans de nombreux champs de connaissance et se montrent des sorciers accomplis. Cette pratique intense de la magie les oblige à posséder une méduse circéale pour canaliser leurs pouvoirs (cf. O1,p. 49). Les nômages apprécient particulièrement la race des euryales. Ils développent avec la méduse une relation symbiotique : elle se développe directement à partir des fluides vitaux du nômage. Cette monstruosité finit par le dévorer en une centaine d’années. La carcasse du nuitant se scinde alors en dizaines de bulbes. Ces bulbes rampent ensuite aveuglément jusqu’au Lac de Morte-Pensée, au cœur d’Oblivion, où ils engendrent de nouvelles méduses circéales, bouclant ainsi le cycle de leur reproduction.
+
+On rencontre souvent les nômages en petits groupes appelé cabales. En effet, guidés par les instincts grégaires des méduses circéales, ces nuitants recherchent la compagnie de leurs semblables.
+
 ```statblock
 image: [[monstre.png]]
 name: Nômage
@@ -21,9 +27,9 @@ skillsaves:
   - Nature: +13
 damage_immunities: d'acide et de poison
 condition_immunities: [[Empoisonné]], [[Charmé]]
-senses: Perception passive 10
-languages: string
-cr: 1
+senses: vision dans le noir 18 m, Perception passive 12
+languages: draconique, abyssal, internal, céleste, commun des profondeurs
+cr: 7
 spells:
   - <description>
   - <spell level>: <spell-list>
