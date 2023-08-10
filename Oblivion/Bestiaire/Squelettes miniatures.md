@@ -4,20 +4,15 @@ name: Squelettes miniatures
 size: M
 type: Nuée
 subtype: composée de morts-vivants de taille P
-alignment: Neutre
-ac: 10
-hp: 0
-hit_dice: 1d8+0
-speed: 0
-stats: [10, 10, 10, 10, 10, 10]
-saves:
-  - <ability-score>: number
-skillsaves:
-  - <skill-name>: number
-damage_vulnerabilities: string
-damage_resistances: string
-damage_immunities: string
-condition_immunities: string
+alignment: Loyal Mauvais
+ac: 13
+hp: 45
+hit_dice: 6d10+12
+speed: 9 m
+stats: [10, 14, 15, 6, 8, 5]
+damage_vulnerabilities: contondants
+damage_immunities: de poison
+condition_immunities: [[Empoisonné]], E
 senses: Perception passive 10
 languages: string
 cr: 1
