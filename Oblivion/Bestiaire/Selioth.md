@@ -1,19 +1,21 @@
 ```statblock
 image: [[monstre.png]]
 name: Selioth
-size: 
-type: 
+size: G
+type: Fiélon
 subtype: 
-alignment: Neutre
-ac: 10
-hp: 0
-hit_dice: 1d8+0
-speed: 0
-stats: [10, 10, 10, 10, 10, 10]
+alignment: Loyal Mauvais
+ac: 19
+hp: 142
+hit_dice: 15d10+60
+speed: 12 m, vol 12 m
+stats: [18, 16, 18, 13, 14, 16]
 saves:
-  - <ability-score>: number
+  - Int: +5
+  - Sag: +6
+  - Cha: +7
 skillsaves:
-  - <skill-name>: number
+  - Perspicacité: number
 damage_vulnerabilities: string
 damage_resistances: string
 damage_immunities: string
