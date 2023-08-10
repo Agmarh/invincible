@@ -6,7 +6,7 @@ Leur tactique favorite est de lancer des défis. Le plus souvent, la victime se 
 
 ```statblock
 image: [[monstre.png]]
-name: Tisseur de Destin
+name: Tisseur de Destin supérieur
 size: M
 type: Fée
 subtype: 
@@ -24,9 +24,9 @@ skillsaves:
   - Discrétion: +10
   - Perception: +8
   - Perspicacité: +12
-  - Persuasion: +10
-  - Représentation: +10
-  - Supercherie: +10
+  - Persuasion: +14
+  - Représentation: +40
+  - Supercherie: +14
 damage_immunities: d'acide et de poison
 condition_immunities: [[Charmé]], [[Empoisonné]]
 senses: Perception passive 15
@@ -44,9 +44,9 @@ traits:
   - name: Immunité
     desc: "Immunité aux sorts de sommeil."
   - name: Maître des phantasmes
-    desc: "Les tisseurs de destin sont capables de générer des illusions très réalistes impliquant les cinq sens. Ils ne s’en servent pas de façon offensive, mais plutôt pour faire apparaître des objets de convoitise et satisfaire ainsi partiellement les désirs de leurs victimes avant de les entraîner vers des défis impossibles. La cible de l’illusion doit effectuer un jet de sauvegarde de Charisme DD 15 ou subir l’état charmé et ressentir une irrésistible compulsion à poursuivre l’objet de son désir. L’effet dure autant de temps que le tisseur de destin le décide, mais la cible peut retenter un jet de sauvegarde après chaque repos long."
+    desc: "Les tisseurs de destin sont capables de générer des illusions très réalistes impliquant les cinq sens. Ils ne s’en servent pas de façon offensive, mais plutôt pour faire apparaître des objets de convoitise et satisfaire ainsi partiellement les désirs de leurs victimes avant de les entraîner vers des défis impossibles. La cible de l’illusion doit effectuer un jet de sauvegarde de Charisme DD 18 ou subir l’état charmé et ressentir une irrésistible compulsion à poursuivre l’objet de son désir. L’effet dure autant de temps que le tisseur de destin le décide, mais la cible peut retenter un jet de sauvegarde après chaque repos long."
   - name: Abandon amer
-    desc: "À chaque fois qu’un tisseur abandonne quelqu’un, la victime se retrouve prise d’un immense désespoir. Elle doit effectuer un jet de sauvegarde de Charisme DD 15. En cas d’échec, elle subit un désavantage à tous ses jets. Elle peut cependant retenter un jet de sauvegarde toutes les heures. L’effet dure jusqu’à ce qu’une sauvegarde soit réussie."
+    desc: "À chaque fois qu’un tisseur abandonne quelqu’un, la victime se retrouve prise d’un immense désespoir. Elle doit effectuer un jet de sauvegarde de Charisme DD 18. En cas d’échec, elle subit un désavantage à tous ses jets. Elle peut cependant retenter un jet de sauvegarde toutes les heures. L’effet dure jusqu’à ce qu’une sauvegarde soit réussie."
   - name: Alignement aléatoire
     desc: "Le caractère capricieux et instable des tisseurs se traduit par un changement d’alignement une fois par heure, de façon aléatoire. Pour connaître le nouvel alignement, tirez 1d6 : 1-2 : Chaotique Mauvais, 3-4 : Chaotique Neutre, 5-6 : Chaotique Bon."
   - name: Manipulation du hasard
