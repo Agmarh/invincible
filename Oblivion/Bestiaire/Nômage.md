@@ -32,7 +32,9 @@ languages: draconique, abyssal, internal, céleste, commun des profondeurs
 cr: 7
 spells:
   - "Le nômage est capable de lancer des sorts comme un magicien de niveau 8, sa caractéristique d’incantation est l’Intelligence (DD du jet de sauvegarde contre les sorts 17, +9 pour toucher avec les attaques de sort)."
-  - Tours de magie: [[]]
+  - Tours de magie: [[Aspersion acide]], [[Illusion mineure]], [[Lumière]], [[Main du mage]], [[Prestidigitation]]
+  - 1er niveau (4 emplacements): [[Détection de la magie]], [[Fou rire]], [[Graisse]]
+  - 2e niveau (3 emplacements): 
 traits:
   - name: <trait-name>
     desc: <trait-description>
