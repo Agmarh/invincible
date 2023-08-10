@@ -1,14 +1,16 @@
 ```statblock
 name: Schisme
 size: M
-type: Humanoïde
-subtype: Gobelin
-alignment: Chaotique Mauvais
-ac: 15 (armure de peau, bouclier)
-hp: 27
-hit_dice: 5d8+5
-speed: 9 m
-stats: [15, 14, 13, 8, 11, 9]
+type: Incarnin
+subtype: 
+alignment: Non aligné
+ac: 18
+hp: 78
+hit_dice: 12d8+24
+speed: 0 m, vol 6 m
+stats: [26, 27, 15, 24, 10, 20]
+saves:
+  - <ability-score>: num
 skillsaves:
   - Discrétion: +6
   - Survie: +2
