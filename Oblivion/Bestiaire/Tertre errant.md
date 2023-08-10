@@ -23,7 +23,7 @@ traits:
     desc: "Chaque fois que le tertre errant devrait subir des dégâts de foudre, ceux-ci ne lui sont pas infligés et il récupère, à la place, un nombre de points de vie égal aux dégâts de foudre qu'il aurait dû subir."
 actions:
   - name: Attaques multiples
-    desc: "Le tertre errant effectue deux attaques de coup. S'il réussit ces deux attaques contre une cible de taille M ou plus petite, celle-ci est [[Empoigné]] (évasion DD 14) et le tertre errant utilise son _Enveloppement_ sur elle."
+    desc: "Le tertre errant effectue deux attaques de coup. S'il réussit ces deux attaques contre une cible de taille M ou plus petite, celle-ci est [[Empoigné]] (évasion DD 14) et le tertre errant utilise son Enveloppement sur elle."
   - name: Coup
     desc: "Attaque d'arme au corps à corps : +7 pour toucher, allonge 1,50 m, une cible. Touché : 13 (2d8+4) dégâts contondants."
   - name: Enveloppement
