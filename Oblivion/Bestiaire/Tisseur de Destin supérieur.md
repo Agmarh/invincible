@@ -15,15 +15,15 @@ ac: 19
 hp: 85
 hit_dice: 19d8
 speed: 9 m
-stats: [10, 18, 11, 16, 14, 18]
+stats: [10, 22, 14, 16, 18, 22]
 saves:
-  - Dex: +7
-  - Int: +6
-  - Cha: +7
+  - Dex: +10
+  - Int: +7
+  - Cha: +10
 skillsaves:
-  - Discrétion: +7
-  - Perception: +5
-  - Perspicacité: +8
+  - Discrétion: +10
+  - Perception: +8
+  - Perspicacité: +12
   - Persuasion: +10
   - Représentation: +10
   - Supercherie: +10
@@ -35,7 +35,7 @@ cr: 5
 spells:
   - "Une fois par mois, un tisseur de destin est capable d’enchanter une pierre pour la transformer en pierre de bonne fortune. Il est alors libre de l’utiliser pour lui-même, ou d’en faire cadeau à quelqu’un. À tout moment, il ne peut exister qu’un seul exemplaire de ce type de pierre : si le tisseur en crée une seconde, la première perd aussitôt son pouvoir. La pierre est un objet magique légendaire avec lequel il est nécessaire de s’harmoniser."
   - A volonté: [[Déguisement]], [[Bouclier]], [[Sanctuaire]]
-  - Une fois entre chaque repos long: [[Image miroir]], [[Motif hypnotique]], [[Flou]]
+  - Une fois entre chaque repos long: [[Image miroir]], [[Motif hypnotique]], [[Flou]], [[Dissipation de la magie]], [[Sanctuaire privé]]
 traits:
   - name: Vision dans les ténèbres
     desc: "Les nuitants voient dans les ténèbres de n’importe quel type, y compris magique, sur une distance de 36 m."
@@ -55,5 +55,5 @@ traits:
     desc: "Le tisseur peut choisir de faire recommencer un jet de dé si le résultat ne lui convient pas, ceci pouvant s’appliquer à lui- même ou à une cible unique dans un rayon de 12 m. Il doit effectuer un repos long afin de pouvoir réutiliser cette capacité."
 actions:
   - name: Dague
-    desc: "Attaque d’arme au corps-à-corps : +7 pour toucher, allonge 1,50 m, une cible. Touché : 6 (1d4+4) dégâts perforants."
+    desc: "Attaque d’arme au corps-à-corps : +10 pour toucher, allonge 1,50 m, une cible. Touché : 6 (1d4+6) dégâts perforants."
 ```
