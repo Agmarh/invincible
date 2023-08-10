@@ -33,15 +33,12 @@ senses: Perception passive 15
 languages: commun, sylvestre, céleste
 cr: 5
 spells:
-  - <description>
-  - <spell level>: <spell-list>
+  - "Une fois par mois, un tisseur de destin est capable d’enchanter une pierre pour la transformer en pierre de bonne fortune. Il est alors libre de l’utiliser pour lui-même, ou d’en faire cadeau à quelqu’un. À tout moment, il ne peut exister qu’un seul exemplaire de ce type de pierre : si le tisseur en crée une seconde, la première perd aussitôt son pouvoir. La pierre est un objet magique légendaire avec lequel il est nécessaire de s’harmoniser."
+  - A volonté: [[Déguisement]], [[Bouclier]], [[Sanctuaire]]
+  - Une fois entre chaque repos long: [[Image miroir]], [[Motif hypnotique]], [[Flou]]
 traits:
   - name: Vision dans les ténèbres
     desc: "Les nuitants voient dans les ténèbres de n’importe quel type, y compris magique, sur une distance de 36 m.
-
-_**Manipulation du hasard supérieur**_. Le tisseur peut choisir de faire recommencer un jet de dé si le résultat ne lui convient pas, ceci pouvant s’appliquer à lui- même ou à une cible unique dans un rayon de 12 m. Il doit effectuer un repos long afin de pouvoir réutiliser cette capacité.
-
-_**Pierre enchantée**_. Une fois par mois, un tisseur de destin est capable d’enchanter une pierre pour la transformer en pierre de bonne fortune. Il est alors libre de l’utiliser pour lui-même, ou d’en faire cadeau à quelqu’un. À tout moment, il ne peut exister qu’un seul exemplaire de ce type de pierre : si le tisseur en crée une seconde, la première perd aussitôt son pouvoir. La pierre est un objet magique légendaire avec lequel il est nécessaire de s’harmoniser. Un porteur harmonisé peut alors jeter :
 
 » à volonté : déguisement, bouclier, sanctuaire ;
 
@@ -63,7 +60,7 @@ _**Dague**_. Attaque d’arme au corps-à-corps : +7 pour toucher, allonge 1,50 
   - name: Manipulation du hasard
     desc: "Un tisseur de destin peut manipuler le hasard pour modifier le résultat d’un jet de dé, en ajoutant ou en retirant 1 à ce résultat, au choix. Cette manipulation peut s’appliquer au tisseur ou à une cible unique dans un rayon de 12 m. Il doit effectuer un repos court avant de pouvoir utiliser cette capacité à nouveau."
   - name: Manipulation du hasard supérieur
-    desc: <trait-description>
+    desc: "Le tisseur peut choisir de faire recommencer un jet de dé si le résultat ne lui convient pas, ceci pouvant s’appliquer à lui- même ou à une cible unique dans un rayon de 12 m. Il doit effectuer un repos long afin de pouvoir réutiliser cette capacité."
 actions:
   - name: <trait-name>
     desc: <trait-description>
