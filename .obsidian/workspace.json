@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Annexe/Sorts de niveau 1.md",
+                "file": "Annexe/Sorts de niveau 3.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Annexe/Sorts de niveau 1.md",
+                "file": "Annexe/Sorts de niveau 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Annexe/Sorts de niveau 1.md",
+                "file": "Annexe/Sorts de niveau 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Annexe/Sorts de niveau 1.md"
+                "file": "Annexe/Sorts de niveau 3.md"
               }
             }
           }
@@ -205,8 +205,10 @@
   },
   "active": "eeea018c36e12b6f",
   "lastOpenFiles": [
-    "Annexe/Sortilèges/Niveau 1/Alarme.md",
+    "Annexe/Sorts de niveau 2.md",
+    "Annexe/Sorts de niveau 3.md",
     "Annexe/Sorts de niveau 1.md",
+    "Annexe/Sortilèges/Niveau 1/Alarme.md",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Gangêve/Aggravation.md",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/HS/La Chasse Skïam.md",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Introduction.md",
@@ -230,8 +232,6 @@
     "Oblivion/Bestiaire/Gobelours.md",
     "Oblivion/Bestiaire/Ruinard.md",
     "Oblivion/Bestiaire/Roturier.md",
-    "Oblivion/Bestiaire/Ogre d'Oblivion.md",
-    "Oblivion/Bestiaire/Orc.md",
     "Annexe/Sortilèges/Niveau 9",
     "Annexe/Sortilèges/Niveau 6",
     "Annexe/Sortilèges/Niveau 4",
