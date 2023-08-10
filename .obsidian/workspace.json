@@ -19,6 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "eeea018c36e12b6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Annexe/Sortilèges/Niveau 1/Alarme.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -189,7 +202,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "efc7fbc9dabff410",
+  "active": "e513d5e6a14b8f79",
   "lastOpenFiles": [
     "Annexe/Sortilèges/Niveau 1/Alarme.md",
     "Annexe/Sorts de niveau 1.md",
