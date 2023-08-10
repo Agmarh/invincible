@@ -31,8 +31,8 @@ senses: vision dans le noir 18 m, Perception passive 12
 languages: draconique, abyssal, internal, céleste, commun des profondeurs
 cr: 7
 spells:
-  - <description>
-  - <spell level>: <spell-list>
+  - "Le nômage est capable de lancer des sorts comme un magicien de niveau 8, sa caractéristique d’incantation est l’Intelligence (DD du jet de sauvegarde contre les sorts 17, +9 pour toucher avec les attaques de sort)."
+  - Tours de magie: [[]]
 traits:
   - name: <trait-name>
     desc: <trait-description>
