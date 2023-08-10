@@ -13,18 +13,14 @@ stats: [18, 8, 16, 5, 10, 5]
 skillsaves:
   - Discrétion: +2
 damage_resistances: de feu et de froid
-damage_immunities: string
-condition_immunities: string
-senses: Perception passive 10
-languages: string
-cr: 1
-spells:
-  - <description>
-  - <spell level>: <spell-list>
+damage_immunities: de foudre
+condition_immunities: [[Assourdi]], [[Aveuglé]], Epuisé
+senses: vision aveugle 18 m (aveugle au-delà de cette distance), Perception passive 10
+languages: -
+cr: 5
 traits:
   - name: <trait-name>
     desc: <trait-description>
-  - ...
 actions:
   - name: <trait-name>
     desc: <trait-description>
