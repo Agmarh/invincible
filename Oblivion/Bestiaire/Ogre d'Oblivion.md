@@ -18,5 +18,5 @@ actions:
     desc: "Attaque d'arme au corps à corps ou à distance : +6 pour toucher, allonge 1,50 m, une cible. Touché : 11 (2d6+4) dégâts tranchants."
 treasure:
   - name:
-    desc: "Filet de pêche"
+    desc: "Filet de pêche, harpons, vêtements de qualité."
 ```
