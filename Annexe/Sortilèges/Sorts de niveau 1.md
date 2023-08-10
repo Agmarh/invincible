@@ -1,4 +1,4 @@
 ```dataview
-table niveau, incantation, distance, composantes, temps
-from "#S"
+LIST
+FROM "Niveau 1"
 ```
