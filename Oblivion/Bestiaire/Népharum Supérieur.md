@@ -24,7 +24,7 @@ senses: vision aveugle 18 m, Perception passive 19
 languages: abyssal, commun des profondeurs, commun
 cr: 19
 spells:
-  - "Le Népharum peut lancer certains sorts, le DD pour résister à ces sorts est de 24."
+  - "Le Népharum peut lancer certains sorts, le DD pour résister à ces sorts est de 21."
   - à volonté: [[Ténèbres]], [[Protection contre le mal et le bien]] (limité au bien)
   - une fois entre chaque repos court (pour chaque sort): [[Jeter une malédiction]], [[Flamboiement funeste]], [[Colère des damnés]]. Ces 3 sorts sont lancés au niveau 7
 traits:
@@ -40,9 +40,9 @@ actions:
   - name: Attaques multiples
     desc: "Le Népharum peut effectuer trois attaques de hache et une attaque de morsure avec une action attaquer."
   - name: Hache de Népharum
-    desc: "Attaque d’arme au corps-àcorps : +16 pour toucher, allonge 3 m, une cible. Touché : 29 (3d12+10) dégâts nécrotiques. Ces dégâts sont considérés comme magiques."
+    desc: "Attaque d’arme au corps-àcorps : +13 pour toucher, allonge 3 m, une cible. Touché : 29 (3d10+8) dégâts nécrotiques. Ces dégâts sont considérés comme magiques."
   - name: Morsure de Népharum
-    desc: "Attaque d’arme au corps-à-corps : +16 pour toucher, allonge 3 m, une cible. Touché : 13 (1d6+10) dégâts perforants. Ces dégâts sont considérés comme magiques. Toute créature blessée par une morsure de népharum doit réussir un jet de sauvegarde de Constitution DD 24 ou subir l’état paralysé pendant 1d6 rounds."
+    desc: "Attaque d’arme au corps-à-corps : +13 pour toucher, allonge 3 m, une cible. Touché : 11 (1d6+8) dégâts perforants. Ces dégâts sont considérés comme magiques. Toute créature blessée par une morsure de népharum doit réussir un jet de sauvegarde de Constitution DD 21 ou subir l’état paralysé pendant 1d6 rounds."
 legendary_actions:
   - name: Le népharum Rex peut effectuer trois actions légendaires qu’il choisit parmi celles décrites ici. Une seule action légendaire peut être choisie à la fois, et uniquement à la fin du tour d’une autre créature. Le népharum Rex récupère au début de son tour les actions légendaires déjà effectuées.
   - name: Attaque (1 action)
