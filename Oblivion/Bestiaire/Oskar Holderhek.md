@@ -29,6 +29,6 @@ traits:
   - name: Distinction divine
     desc: "Par une action bonus, l'ecclésiastique peut dépenser un emplacement de sort pour que ses attaques d'arme au corps à corps infligent par magie 10 (3d6) dégâts radiants supplémentaires à une cible qu'il parvient à toucher. Cet avantage dure jusqu'à la fin du tour. Si le clerc dépense un emplacement de sort de niveau 2 ou plus, les dégâts supplémentaires augmentent de 1d6 par niveau au-dessus du 1er."
 actions:
-  - name: <trait-name>
+  - name: Masse d'armes
     desc: "Attaque d'arme au corps à corps : +2 pour toucher, allonge 1,50 m, une cible. Touché : 3 (1d6) dégâts contondants."
 ```
