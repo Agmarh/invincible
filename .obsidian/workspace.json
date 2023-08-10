@@ -26,14 +26,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 1/Alarme.md",
+                "file": "Annexe/Sorts de niveau 1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -62,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "empoisonnée",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -202,7 +203,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e513d5e6a14b8f79",
+  "active": "eeea018c36e12b6f",
   "lastOpenFiles": [
     "Annexe/Sortilèges/Niveau 1/Alarme.md",
     "Annexe/Sorts de niveau 1.md",
