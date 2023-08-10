@@ -5,19 +5,19 @@ size: G
 type: Bête
 subtype: 
 alignment: Neutre
-ac: 13
-hp: 15
-hit_dice: 2d8+6
-speed: 9
-stats: [16, 12, 16, 7, 11, 10]
-skillsaves:
-  - Intimidation: +2
-senses: vision dans le noir 18 m, Perception passive 10
-languages: commun, orc
-cr: 1/2
+ac: 16
+hp: 95
+hit_dice: 10d10+40
+speed: 7.5 m
+stats: [20, 10, 18, 2, 16, 7]
+senses: Perception passive 13
+languages: -
+cr: 6
 traits:
-  - name: Aggressif
-    desc: "Par une action bonus, l'orc peut se déplacer d'une distance maximale égale à sa vitesse vers une créature hostile dans son champ de vision."
+  - name: Immunités
+    desc: "aux sorts de charme."
+  - name: Immunités
+    desc: "aux sorts de charme."
 actions:
   - name: Hache à deux mains
     desc: "Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible. Touché : 9 (1d12+3) dégâts tranchants."
