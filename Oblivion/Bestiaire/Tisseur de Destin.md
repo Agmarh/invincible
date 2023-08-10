@@ -38,15 +38,7 @@ spells:
   - Une fois entre chaque repos long: [[Image miroir]], [[Motif hypnotique]], [[Flou]]
 traits:
   - name: Vision dans les ténèbres
-    desc: "Les nuitants voient dans les ténèbres de n’importe quel type, y compris magique, sur une distance de 36 m.
-
-» à volonté : déguisement, bouclier, sanctuaire ;
-
-» une fois entre chaque repos long : image miroir, motif hypnotique, flou.
-
-## Actions
-
-_**Dague**_. Attaque d’arme au corps-à-corps : +7 pour toucher, allonge 1,50 m, une cible. Touché : 6 (1d4+4) dégâts perforants."
+    desc: "Les nuitants voient dans les ténèbres de n’importe quel type, y compris magique, sur une distance de 36 m."
   - name: Résistance à la magie
     desc: "Ils obtiennent un avantage sur tous les jets de sauvegarde afin de résister aux sorts d’illusion."
   - name: Immunité
@@ -62,24 +54,6 @@ _**Dague**_. Attaque d’arme au corps-à-corps : +7 pour toucher, allonge 1,50 
   - name: Manipulation du hasard supérieur
     desc: "Le tisseur peut choisir de faire recommencer un jet de dé si le résultat ne lui convient pas, ceci pouvant s’appliquer à lui- même ou à une cible unique dans un rayon de 12 m. Il doit effectuer un repos long afin de pouvoir réutiliser cette capacité."
 actions:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
-legendary_actions:
-  - name: <legendary_actions-name>
-    desc: <legendary_actions-description>
-  - ...
-bonus_actions:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
-reactions:
-  - name: <reaction-name>
-    desc: <reaction-description>
-  - ...
-tactic:
-  - desc: <reaction-description>
-treasure:
-  - name: <reaction-name>
-    desc: <reaction-description>
+  - name: Dague
+    desc: "Attaque d’arme au corps-à-corps : +7 pour toucher, allonge 1,50 m, une cible. Touché : 6 (1d4+4) dégâts perforants."
 ```
