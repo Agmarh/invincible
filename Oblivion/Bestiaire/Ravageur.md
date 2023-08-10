@@ -4,13 +4,13 @@ name: Ravageur
 size: G
 type: Fiélon
 subtype: 
-alignment: Neutre
-ac: 16
-hp: 95
-hit_dice: 10d10+40
-speed: 7.5 m
-stats: [20, 10, 18, 2, 16, 7]
-senses: Perception passive 13
+alignment: Loyal Mauvais
+ac: 13
+hp: 142
+hit_dice: 15d10+60
+speed: 12 m, vol 12 m
+stats: [18, 16, 18, 13, 14, 16]
+senses: vision dans le noir 36 m, Perception passive 12
 languages: -
 cr: 6
 traits:
