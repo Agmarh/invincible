@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oblivion/Bestiaire/Népharum Supérieur.md",
+                "file": "Oblivion/Bestiaire/Nômage.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oblivion/Bestiaire/Népharum Supérieur.md",
+                "file": "Oblivion/Bestiaire/Nômage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oblivion/Bestiaire/Népharum Supérieur.md",
+                "file": "Oblivion/Bestiaire/Nômage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oblivion/Bestiaire/Népharum Supérieur.md"
+                "file": "Oblivion/Bestiaire/Nômage.md"
               }
             }
           }
@@ -191,9 +191,10 @@
   },
   "active": "888c7c629c8877e0",
   "lastOpenFiles": [
-    "Oblivion/Bestiaire/Népharum Rex.md",
-    "Oblivion/Bestiaire/Népharum Supérieur.md",
     "Template/Monstre.md",
+    "Oblivion/Bestiaire/Nômage.md",
+    "Oblivion/Bestiaire/Népharum Supérieur.md",
+    "Oblivion/Bestiaire/Népharum Rex.md",
     "Oblivion/Bestiaire/Népharum.md",
     "Oblivion/Bestiaire/Nécrophage.md",
     "Oblivion/Bestiaire/Naga.md",
@@ -216,7 +217,6 @@
     "Oblivion/Bestiaire/Malathor.md",
     "Oblivion/Bestiaire/Le Sans-Visage.md",
     "Annexe/Sortilèges/Niveau 5/Légende.md",
-    "Annexe/Sortilèges/Niveau 6/Trouver un chemin.md",
     "Annexe/Sortilèges/Niveau 9",
     "Annexe/Sortilèges/Niveau 6",
     "Annexe/Sortilèges/Niveau 4",
