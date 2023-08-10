@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D&D/Felgolos.md",
+                "file": "D&D/Infos générales.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D&D/Felgolos.md",
+                "file": "D&D/Infos générales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D&D/Felgolos.md",
+                "file": "D&D/Infos générales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "D&D/Felgolos.md"
+                "file": "D&D/Infos générales.md"
               }
             }
           }
@@ -189,10 +189,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "efc7fbc9dabff410",
+  "active": "57a26b5dea235620",
   "lastOpenFiles": [
-    "D&D/En quête des Géants.md",
+    "D&D/Everlund.md",
+    "D&D/Silverymoon.md",
+    "D&D/Mirabar.md",
+    "D&D/Yarthar.md",
+    "D&D/Waterdeep.md",
+    "D&D/Rassalantar - Amphail.md",
+    "D&D/Vengeance de Eigerone.md",
+    "D&D/Armure complète en métal Nain.md",
     "D&D/Felgolos.md",
+    "D&D/En quête des Géants.md",
     "D&D/Infos sur la guerre des Géants.md",
     "D&D/Phandalin.md",
     "D&D/Forge à Phandalin.md",
@@ -211,17 +219,9 @@
     "Animain/Infos/Duc de Matogo, le prince des charmes d'orient, ou le Scribe des Conquérants..md",
     "Animain/Infos/Amnésie collective.md",
     "Animain/Infos/Yolmain.md",
-    "Pokémon/Recherches pokémons.md",
     "Animain/Infos",
     "Animain",
-    "Pokémon/Ile de Jerseykara.md",
-    "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/2 - Sur la route de la Cité Sainte.md",
     "Pokémon",
-    "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/1 - Enquête morbide et mortelles tracasseries.md",
-    "Oblivion/ACTUELLEMENT.md",
-    "Annexe/Tours de magie.md",
-    "Annexe/Sorts de niveau 1.md",
-    "Annexe/Sortilèges/Sans titre.md",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/HS",
     "Annexe/Sortilèges/Niveau 9",
     "Annexe/Sortilèges/Niveau 6",
