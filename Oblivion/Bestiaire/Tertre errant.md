@@ -1,21 +1,18 @@
 ```statblock
 image: [[monstre.png]]
 name: Tertre errant
-size: 
-type: 
+size: G
+type: Plante
 subtype: 
-alignment: Neutre
-ac: 10
-hp: 0
-hit_dice: 1d8+0
-speed: 0
-stats: [10, 10, 10, 10, 10, 10]
-saves:
-  - <ability-score>: number
+alignment: Non aligné
+ac: 15
+hp: 136
+hit_dice: 16d10+48
+speed: 6 m, nage 6 m
+stats: [18, 8, 16, 5, 10, 5]
 skillsaves:
-  - <skill-name>: number
-damage_vulnerabilities: string
-damage_resistances: string
+  - Discrétion: +2
+damage_resistances: de feu et de froid
 damage_immunities: string
 condition_immunities: string
 senses: Perception passive 10
