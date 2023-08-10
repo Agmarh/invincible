@@ -18,11 +18,11 @@ skillsaves:
   - Intimidation: +7
   - Perception: +2
   - Supercherie: +7
-damage_immunities: s
-condition_immunities: string
-senses: vision dans le noir 18 m, Perception passive 9
-languages: commun, gobelin
-cr: 1
+damage_immunities: de feu, de poison, psychiques, de force et d'acide
+condition_immunities: A terre, [[Charmé]], Epuisé, [[Empoisonné]], [[Paralysé]], [[Pétrifié]], [[Terrorisé]]
+senses: vision dans le noir 36 m, vision parfaite 36 m, Perception passive 12
+languages: toutes les langues
+cr: 0
 traits:
   - name: Attaque surprise
     desc: "Si le gobelours surprend une créature et réussit une attaque contre elle lors du premier round de combat, cette attaque inflige 7 (2d6) dégâts supplémentaires à la cible."
