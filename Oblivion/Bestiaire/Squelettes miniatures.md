@@ -12,36 +12,22 @@ speed: 9 m
 stats: [10, 14, 15, 6, 8, 5]
 damage_vulnerabilities: contondants
 damage_immunities: de poison
-condition_immunities: [[Empoisonné]], E
-senses: Perception passive 10
-languages: string
-cr: 1
-spells:
-  - <description>
-  - <spell level>: <spell-list>
+condition_immunities: [[Empoisonné]], Epuisé
+senses: vision dans le noir 18 m, Perception passive 9
+languages: -
+cr: 1/4
 traits:
-  - name: <trait-name>
+  - name: PV
+    desc: "La nuée possède 50 PV. Chaque fois que ses points de vie sont réduits de 10, les dégâts de chaque attaque sont réduits de 1 (minimum 1).
+
+_**Attaque**_. toutes les créatures présentes dans le même espace que la nuée subissent une attaque, indépendamment du nombre d’attaques total des squelettes.
+
+## Actions
+
+_**Griffes**_. Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une cible. Touché : 5 (1d6+2) dégâts perforants."
+  - name: Attaque
     desc: <trait-description>
-  - ...
 actions:
-  - name: <trait-name>
+  - name: Griffes
     desc: <trait-description>
-  - ...
-legendary_actions:
-  - name: <legendary_actions-name>
-    desc: <legendary_actions-description>
-  - ...
-bonus_actions:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
-reactions:
-  - name: <reaction-name>
-    desc: <reaction-description>
-  - ...
-tactic:
-  - desc: <reaction-description>
-treasure:
-  - name: <reaction-name>
-    desc: <reaction-description>
 ```
