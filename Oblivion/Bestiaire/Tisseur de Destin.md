@@ -39,12 +39,6 @@ traits:
   - name: Vision dans les ténèbres
     desc: "Les nuitants voient dans les ténèbres de n’importe quel type, y compris magique, sur une distance de 36 m.
 
-_**Abandon amer**_. À chaque fois qu’un tisseur abandonne quelqu’un, la victime se retrouve prise d’un immense désespoir. Elle doit effectuer un jet de sauvegarde de Charisme DD 15. En cas d’échec, elle subit un désavantage à tous ses jets. Elle peut cependant retenter un jet de sauvegarde toutes les heures. L’effet dure jusqu’à ce qu’une sauvegarde soit réussie.
-
-_**Alignement aléatoire**_. Le caractère capricieux et instable des tisseurs se traduit par un changement d’alignement une fois par heure, de façon aléatoire. Pour connaître le nouvel alignement, tirez 1d6 : 1-2 : Chaotique Mauvais, 3-4 : Chaotique Neutre, 5-6 : Chaotique Bon.
-
-_**Manipulation du hasard**_. Un tisseur de destin peut manipuler le hasard pour modifier le résultat d’un jet de dé, en ajoutant ou en retirant 1 à ce résultat, au choix. Cette manipulation peut s’appliquer au tisseur ou à une cible unique dans un rayon de 12 m. Il doit effectuer un repos court avant de pouvoir utiliser cette capacité à nouveau.
-
 _**Manipulation du hasard supérieur**_. Le tisseur peut choisir de faire recommencer un jet de dé si le résultat ne lui convient pas, ceci pouvant s’appliquer à lui- même ou à une cible unique dans un rayon de 12 m. Il doit effectuer un repos long afin de pouvoir réutiliser cette capacité.
 
 _**Pierre enchantée**_. Une fois par mois, un tisseur de destin est capable d’enchanter une pierre pour la transformer en pierre de bonne fortune. Il est alors libre de l’utiliser pour lui-même, ou d’en faire cadeau à quelqu’un. À tout moment, il ne peut exister qu’un seul exemplaire de ce type de pierre : si le tisseur en crée une seconde, la première perd aussitôt son pouvoir. La pierre est un objet magique légendaire avec lequel il est nécessaire de s’harmoniser. Un porteur harmonisé peut alors jeter :
@@ -62,13 +56,13 @@ _**Dague**_. Attaque d’arme au corps-à-corps : +7 pour toucher, allonge 1,50 
     desc: "Immunité aux sorts de sommeil."
   - name: Maître des phantasmes
     desc: "Les tisseurs de destin sont capables de générer des illusions très réalistes impliquant les cinq sens. Ils ne s’en servent pas de façon offensive, mais plutôt pour faire apparaître des objets de convoitise et satisfaire ainsi partiellement les désirs de leurs victimes avant de les entraîner vers des défis impossibles. La cible de l’illusion doit effectuer un jet de sauvegarde de Charisme DD 15 ou subir l’état charmé et ressentir une irrésistible compulsion à poursuivre l’objet de son désir. L’effet dure autant de temps que le tisseur de destin le décide, mais la cible peut retenter un jet de sauvegarde après chaque repos long."
-  - name: <trait-name>
-    desc: <trait-description>
-  - name: <trait-name>
-    desc: <trait-description>
-  - name: <trait-name>
-    desc: <trait-description>
-  - name: <trait-name>
+  - name: Abandon amer
+    desc: "À chaque fois qu’un tisseur abandonne quelqu’un, la victime se retrouve prise d’un immense désespoir. Elle doit effectuer un jet de sauvegarde de Charisme DD 15. En cas d’échec, elle subit un désavantage à tous ses jets. Elle peut cependant retenter un jet de sauvegarde toutes les heures. L’effet dure jusqu’à ce qu’une sauvegarde soit réussie."
+  - name: Alignement aléatoire
+    desc: "Le caractère capricieux et instable des tisseurs se traduit par un changement d’alignement une fois par heure, de façon aléatoire. Pour connaître le nouvel alignement, tirez 1d6 : 1-2 : Chaotique Mauvais, 3-4 : Chaotique Neutre, 5-6 : Chaotique Bon."
+  - name: Manipulation du hasard
+    desc: "Un tisseur de destin peut manipuler le hasard pour modifier le résultat d’un jet de dé, en ajoutant ou en retirant 1 à ce résultat, au choix. Cette manipulation peut s’appliquer au tisseur ou à une cible unique dans un rayon de 12 m. Il doit effectuer un repos court avant de pouvoir utiliser cette capacité à nouveau."
+  - name: Manipulation du hasard supérieur
     desc: <trait-description>
 actions:
   - name: <trait-name>
