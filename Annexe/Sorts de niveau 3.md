@@ -1,4 +1,4 @@
 ```dataview
 TABLE incantation
-FROM "Annexe/Sortilèges/Niveau 1"
+FROM "Annexe/Sortilèges/Niveau 3"
 ```
