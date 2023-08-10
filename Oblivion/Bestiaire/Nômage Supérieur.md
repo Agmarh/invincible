@@ -37,6 +37,11 @@ spells:
   - 2e niveau (3 emplacements): [[Dessiccation]], [[Flou]], [[Image miroir]]
   - 3e niveau (3 emplacements): [[Motif hypnotique]], [[Vol]]
   - 4e niveau (2 emplacements): [[Sanctuaire privé]], [[Tentacules noirs]]
+traits:
+  - name: Vision dans les ténèbres
+    desc: "Les nuitants voient dans les ténèbres de n’importe quel type, y compris magique, sur une distance de 36 m."
+  - name: Résistance à la magie
+    desc: "Ils obtiennent un avantage sur tous les jets de sauvegarde afin de résister aux sorts d’illusion."
 actions:
   - name: Regard
     desc: "Un nômage regardant dans les yeux une créature intelligente peut lui infliger à volonté confusion (comme le sort, jet de sauvegarde DD 17). Ceci est compté comme une action gratuite."
