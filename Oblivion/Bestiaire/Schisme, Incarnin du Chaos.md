@@ -22,11 +22,11 @@ damage_immunities: de feu, de poison, psychiques, de force et d'acide
 condition_immunities: A terre, [[Charmé]], Epuisé, [[Empoisonné]], [[Paralysé]], [[Pétrifié]], [[Terrorisé]]
 senses: vision dans le noir 36 m, vision parfaite 36 m, Perception passive 12
 languages: toutes les langues
-cr: 0
+cr: -
 traits:
-  - name: Attaque surprise
+  - name: Immunité contre les dégâts
     desc: "Si le gobelours surprend une créature et réussit une attaque contre elle lors du premier round de combat, cette attaque inflige 7 (2d6) dégâts supplémentaires à la cible."
-  - name: Brutal
+  - name: Immunités
     desc: "Une arme de corps à corps inflige un dé de dégâts supplémentaire quand le gobelours touche son ennemi avec elle (déjà inclus dans l'attaque)."
 actions:
   - name: Javeline
