@@ -17,30 +17,18 @@ senses: vision dans le noir 18 m, Perception passive 10
 languages: comprend toutes les langues qu'il connaissait de son vivant mais ne peut pas parler
 cr: 1
 traits:
-  - name: <trait-name>
+  - name: Déplacement intangible
+    desc: "Le spectre peut traverser créatures et objets en les considérant comme un terrain difficile. Il subit 5 (1d10) dégâts de force s'il termine son tour à l'intérieur d'un objet.
+
+_**Sensibilité à la lumière du soleil**_. 
+
+## Actions
+
+_**Absorption de vie**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une créature.  
+_Touché_ : 10 (3d6) dégâts nécrotiques. La cible doit réussir un [jet de sauvegarde](https://5e-drs.fr/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 10 pour ne pas voir son total maximum de points de vie réduit d'un montant égal aux dégâts subis. Cette réduction persiste jusqu'au moment où la créature termine une période de repos long. La cible meurt si cet effet réduit à 0 son total maximum de points de vie."
+  - name: Sensibilité à la lumière du soleil
     desc: <trait-description>
-  - name: <trait-name>
-    desc: <trait-description>
-- ...
 actions:
-  - name: <trait-name>
+  - name: Absorption de vie
     desc: <trait-description>
-  - ...
-legendary_actions:
-  - name: <legendary_actions-name>
-    desc: <legendary_actions-description>
-  - ...
-bonus_actions:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
-reactions:
-  - name: <reaction-name>
-    desc: <reaction-description>
-  - ...
-tactic:
-  - desc: <reaction-description>
-treasure:
-  - name: <reaction-name>
-    desc: <reaction-description>
 ```
