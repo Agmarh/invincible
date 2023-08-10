@@ -18,16 +18,19 @@ skillsaves:
   - Perspicacité: +6
   - Supercherie: +7
 damage_resistances: contondants, perforants et tranchants inflgiés par des attaques non-magiques qui ne sont pas en argent et de froid
-damage_immunities: string
-condition_immunities: string
+damage_immunities: de feu et de poison
 senses: vision dans le noir 36 m, Perception passive 12
-languages: -
-cr: 6
+languages: commun, infernal
+cr: 9
 traits:
-  - name: Immunités
+  - name: Résistance à la magie
     desc: "aux sorts de charme."
-  - name: Odorat aiguisé
-    desc: "L'ours monstrueux obtient un avantage lors de ses tests de Sagesse (Perception) basés sur l'odorat."
+  - name: Vue du diable
+    desc: "L'ours monstrueux."
+  - name: Pouvoirs du ravageur
+    desc: "L'ours monstrueux."
+  - name: Insondable
+    desc: "L'ours monstrueux."
 actions:
   - name: Attaques multiples
     desc: "L’ours monstrueux peut effectuer trois attaques : une avec sa morsure et deux avec ses griffes."
