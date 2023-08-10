@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "2de4f437fbf2801b",
+        "id": "1c6c82edb70100ab",
         "type": "tabs",
         "children": [
           {
-            "id": "e513d5e6a14b8f79",
+            "id": "57a26b5dea235620",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Annexe/Sorts de niveau 1.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eeea018c36e12b6f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Annexe/Tours de magie.md",
+                "file": "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/1 - Enquête morbide et mortelles tracasseries.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -125,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Annexe/Tours de magie.md",
+                "file": "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/1 - Enquête morbide et mortelles tracasseries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -137,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Annexe/Tours de magie.md",
+                "file": "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/1 - Enquête morbide et mortelles tracasseries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Annexe/Tours de magie.md"
+                "file": "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/1 - Enquête morbide et mortelles tracasseries.md"
               }
             }
           }
@@ -203,10 +189,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "eeea018c36e12b6f",
+  "active": "57a26b5dea235620",
   "lastOpenFiles": [
-    "Annexe/Sorts de niveau 1.md",
+    "Oblivion/ACTUELLEMENT.md",
     "Annexe/Tours de magie.md",
+    "Annexe/Sorts de niveau 1.md",
     "Annexe/Sortilèges/Sans titre.md",
     "Annexe/Sorts de niveau 9.md",
     "Annexe/Sorts de niveau 8.md",
@@ -231,7 +218,6 @@
     "Oblivion/Bestiaire/Tisseur de Destin.md",
     "Oblivion/Bestiaire/Squelettes miniatures.md",
     "Oblivion/Bestiaire/Tertre errant.md",
-    "Oblivion/Bestiaire/Spectre.md",
     "Annexe/Sortilèges/Niveau 9",
     "Annexe/Sortilèges/Niveau 6",
     "Annexe/Sortilèges/Niveau 4",
