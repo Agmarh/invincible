@@ -9,15 +9,15 @@ ac: 18
 hp: 207
 hit_dice: 18d10+108
 speed: 9 m
-stats: [26, 14, 26, 18, 17, 18]
+stats: [26, 14, 22, 18, 17, 18]
 saves:
-  - For: +16
-  - Con: +14
-  - Sag: +9
+  - For: +13
+  - Con: +11
+  - Sag: +8
 skillsaves:
-  - Athlétisme: +16
-  - Intimidation: +10
-  - Perception: +9
+  - Athlétisme: +13
+  - Intimidation: +14
+  - Perception: +8
 damage_immunities: de poison
 condition_immunities: [[Charmé]], [[Empoisonné]], Epuisé, [[Paralysé]]
 senses: vision aveugle 18 m, Perception passive 19
@@ -26,7 +26,7 @@ cr: 19
 spells:
   - "Le Népharum peut lancer certains sorts, le DD pour résister à ces sorts est de 24."
   - à volonté: [[Ténèbres]], [[Protection contre le mal et le bien]] (limité au bien)
-  - une fois entre chaque repos court (pour chaque sort): [[Jeter une malédiction]], [[Flamboiement funeste]], [[Colère des damnés]]. Ces 3 sorts sont lancés au niveau 8
+  - une fois entre chaque repos court (pour chaque sort): [[Jeter une malédiction]], [[Flamboiement funeste]], [[Colère des damnés]]. Ces 3 sorts sont lancés au niveau 7
 traits:
   - name: Résistance légendaire (3/jour)
     desc: "Le népharum peut remplacer l’échec d’un de ses jets de sauvegarde par une réussite."
