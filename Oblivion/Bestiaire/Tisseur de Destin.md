@@ -1,19 +1,21 @@
 ```statblock
 image: [[monstre.png]]
-name: Nom
-size: 
-type: 
+name: Tisseur de Destin
+size: M
+type: Fée
 subtype: 
-alignment: Neutre
-ac: 10
-hp: 0
-hit_dice: 1d8+0
-speed: 0
-stats: [10, 10, 10, 10, 10, 10]
+alignment: Toujours Chaotique
+ac: 19
+hp: 85
+hit_dice: 19d8
+speed: 9 m
+stats: [10, 18, 11, 16, 14, 18]
 saves:
-  - <ability-score>: number
+  - Dex: +7
+  - Int: +6
+  - Cha: +7
 skillsaves:
-  - <skill-name>: number
+  - Discrétion: number
 damage_vulnerabilities: string
 damage_resistances: string
 damage_immunities: string
