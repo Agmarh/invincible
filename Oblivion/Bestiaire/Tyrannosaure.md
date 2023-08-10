@@ -9,44 +9,23 @@ ac: 13
 hp: 136
 hit_dice: 13d12+52
 speed: 15 m
-stats: [25, 10, 19, 2, 12, 10]
-saves:
-  - <ability-score>: number
+stats: [25, 10, 19, 2, 12, 9]
 skillsaves:
-  - <skill-name>: number
-damage_vulnerabilities: string
-damage_resistances: string
-damage_immunities: string
-condition_immunities: string
-senses: Perception passive 10
-languages: string
-cr: 1
-spells:
-  - <description>
-  - <spell level>: <spell-list>
-traits:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
+  - Perception: +4
+senses: Perception passive 14
+languages: -
+cr: 8
 actions:
+  - name: Attaques multiples
+    desc: "Le tyrannosaure effectue deux attaques : une avec sa morsure et une avec sa queue. Il ne peut pas effectuer ces deux attaques contre la même cible.
+
+_**Morsure**_. _Attaque d'arme au corps à corps_ : +10 pour toucher, allonge 3 m, une cible.  
+_Touché_ : 33 (4d12+7) dégâts perforants. La cible est [_empoignée_](https://5e-drs.fr/gerer-la-sante-du-personnage/#empoigne) (évasion DD 17) si elle est de taille M ou plus petite. Elle est [_entravée_](https://5e-drs.fr/gerer-la-sante-du-personnage/#entrave) tant qu'elle est [_empoignée_](https://5e-drs.fr/gerer-la-sante-du-personnage/#empoigne) et le tyrannosaure ne peut pas mordre une autre créature.
+
+_**Queue**_. _Attaque d'arme au corps à corps_ : +10 pour toucher, allonge 3 m, une cible.  
+_Touché_ : 20 (3d8+7) dégâts contondants."
+  - name: Morsure
+    desc: <trait-description>
   - name: <trait-name>
     desc: <trait-description>
-  - ...
-legendary_actions:
-  - name: <legendary_actions-name>
-    desc: <legendary_actions-description>
-  - ...
-bonus_actions:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
-reactions:
-  - name: <reaction-name>
-    desc: <reaction-description>
-  - ...
-tactic:
-  - desc: <reaction-description>
-treasure:
-  - name: <reaction-name>
-    desc: <reaction-description>
 ```
