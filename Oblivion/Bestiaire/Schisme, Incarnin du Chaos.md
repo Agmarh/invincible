@@ -10,10 +10,16 @@ hit_dice: 12d8+24
 speed: 0 m, vol 6 m
 stats: [26, 27, 15, 24, 10, 20]
 saves:
-  - <ability-score>: num
+  - Int: +9
+  - Dex: +10
+  - Cha: +7
 skillsaves:
-  - Discrétion: +6
-  - Survie: +2
+  - Arcanes: +9
+  - Intimidation: +7
+  - Perception: +2
+  - Supercherie: +7
+damage_immunities: s
+condition_immunities: string
 senses: vision dans le noir 18 m, Perception passive 9
 languages: commun, gobelin
 cr: 1
