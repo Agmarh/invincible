@@ -1,8 +1,8 @@
 ```statblock
 image: [[monstre.png]]
-name: Ours Monstrueux
+name: Ravageur
 size: G
-type: Bête
+type: Fiélon
 subtype: 
 alignment: Neutre
 ac: 16
