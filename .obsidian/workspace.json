@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pokémon/Recherches pokémons.md",
+                "file": "Animain/Infos/Sans titre.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pokémon/Recherches pokémons.md",
+                "file": "Animain/Infos/Sans titre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pokémon/Recherches pokémons.md",
+                "file": "Animain/Infos/Sans titre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pokémon/Recherches pokémons.md"
+                "file": "Animain/Infos/Sans titre.md"
               }
             }
           }
@@ -191,8 +191,13 @@
   },
   "active": "57a26b5dea235620",
   "lastOpenFiles": [
-    "Pokémon/Ile de Jerseykara.md",
+    "Animain/Infos/Amnésie collective.md",
+    "Animain/Infos/Sans titre.md",
+    "Animain/Infos/Yolmain.md",
     "Pokémon/Recherches pokémons.md",
+    "Animain/Infos",
+    "Animain",
+    "Pokémon/Ile de Jerseykara.md",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/2 - Sur la route de la Cité Sainte.md",
     "Pokémon",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/1 - Enquête morbide et mortelles tracasseries.md",
@@ -216,9 +221,6 @@
     "Oblivion/Scénario 2 Les enfants d'Oblivion/HS",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Introduction.md",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Anthéone.md",
-    "Oblivion/Bestiaire/Vase grise.md",
-    "Oblivion/Bestiaire/Tyrannosaure.md",
-    "Oblivion/Bestiaire/Tisseur de Destin supérieur.md",
     "Annexe/Sortilèges/Niveau 9",
     "Annexe/Sortilèges/Niveau 6",
     "Annexe/Sortilèges/Niveau 4",
@@ -230,8 +232,6 @@
     "Invincible/Images/Pasted image 20230707113503.png",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Anthéone",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Gangêve",
-    "Oblivion/PDF/Oblivion 1 Le sang d'Oblivion.pdf",
-    "Oblivion/PDF/Le Cauchemar.pdf",
     "Oblivion/Images/chevalier-dragon.jpg",
     "Invincible/Images/epreuveNoir.png",
     "Invincible/Images/epreuveFeu.png",
