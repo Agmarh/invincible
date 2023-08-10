@@ -17,15 +17,9 @@ languages: -
 cr: 8
 actions:
   - name: Attaques multiples
-    desc: "Le tyrannosaure effectue deux attaques : une avec sa morsure et une avec sa queue. Il ne peut pas effectuer ces deux attaques contre la même cible.
-
-_**Morsure**_. _Attaque d'arme au corps à corps_ : +10 pour toucher, allonge 3 m, une cible.  
-_Touché_ : 33 (4d12+7) dégâts perforants. La cible est [_empoignée_](https://5e-drs.fr/gerer-la-sante-du-personnage/#empoigne) (évasion DD 17) si elle est de taille M ou plus petite. Elle est [_entravée_](https://5e-drs.fr/gerer-la-sante-du-personnage/#entrave) tant qu'elle est [_empoignée_](https://5e-drs.fr/gerer-la-sante-du-personnage/#empoigne) et le tyrannosaure ne peut pas mordre une autre créature.
-
-_**Queue**_. _Attaque d'arme au corps à corps_ : +10 pour toucher, allonge 3 m, une cible.  
-_Touché_ : 20 (3d8+7) dégâts contondants."
+    desc: "Le tyrannosaure effectue deux attaques : une avec sa morsure et une avec sa queue. Il ne peut pas effectuer ces deux attaques contre la même cible."
   - name: Morsure
-    desc: <trait-description>
-  - name: <trait-name>
-    desc: <trait-description>
+    desc: "Attaque d'arme au corps à corps : +10 pour toucher, allonge 3 m, une cible. Touché : 33 (4d12+7) dégâts perforants. La cible est [[Empoigné]] (évasion DD 17) si elle est de taille M ou plus petite. Elle est [[Entravé]] tant qu'elle est [[Empoigné]] et le tyrannosaure ne peut pas mordre une autre créature."
+  - name: Queue
+    desc: "Attaque d'arme au corps à corps : +10 pour toucher, allonge 3 m, une cible. Touché : 20 (3d8+7) dégâts contondants."
 ```
