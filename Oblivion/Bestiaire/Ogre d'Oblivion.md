@@ -5,22 +5,14 @@ size: G
 type: Géant
 subtype: 
 alignment: Chaotique Mauvais
-ac: 10
-hp: 0
-hit_dice: 1d8+0
-speed: 0
-stats: [10, 10, 10, 10, 10, 10]
-saves:
-  - <ability-score>: number
-skillsaves:
-  - <skill-name>: number
-damage_vulnerabilities: string
-damage_resistances: string
-damage_immunities: string
-condition_immunities: string
-senses: Perception passive 10
-languages: string
-cr: 1
+ac: 14
+hp: 59
+hit_dice: 7d10+21
+speed: 12 m
+stats: [19, 14, 16, 15, 7, 12]
+senses: Perception passive 8
+languages: commun, géant
+cr: 2
 spells:
   - <description>
   - <spell level>: <spell-list>
