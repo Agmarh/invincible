@@ -15,14 +15,14 @@ saves:
   - Sag: +6
   - Cha: +7
 skillsaves:
-  - Perspicacité: number
-damage_vulnerabilities: string
-damage_resistances: string
-damage_immunities: string
-condition_immunities: string
-senses: Perception passive 10
-languages: string
-cr: 1
+  - Perspicacité: +6
+  - Supercherie: +7
+damage_resistances: contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent et de froid
+damage_immunities: de feu et de poison
+condition_immunities: [[Empoisonné]]]
+senses: Perception passive 12
+languages: internal, commun, gnome, télépathie 36 m
+cr: 9
 spells:
   - <description>
   - <spell level>: <spell-list>
