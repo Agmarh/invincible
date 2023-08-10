@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D&D/Phandalin.md",
+                "file": "D&D/Infos sur la guerre des Géants.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D&D/Phandalin.md",
+                "file": "D&D/Infos sur la guerre des Géants.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D&D/Phandalin.md",
+                "file": "D&D/Infos sur la guerre des Géants.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "D&D/Phandalin.md"
+                "file": "D&D/Infos sur la guerre des Géants.md"
               }
             }
           }
@@ -191,6 +191,7 @@
   },
   "active": "57a26b5dea235620",
   "lastOpenFiles": [
+    "D&D/Phandalin.md",
     "D&D/Forge à Phandalin.md",
     "D&D/Les apprentis.md",
     "D&D/Infos générales.md",
@@ -205,7 +206,6 @@
     "D&D/Felgolos.md",
     "D&D/En quête des Géants.md",
     "D&D/Infos sur la guerre des Géants.md",
-    "D&D/Phandalin.md",
     "Animain/JDR/Chapitre 1.md",
     "D&D",
     "Animain/JDR/Passé commun.md",
