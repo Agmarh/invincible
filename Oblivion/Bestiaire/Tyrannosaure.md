@@ -1,15 +1,15 @@
 ```statblock
 image: [[monstre.png]]
-name: Nom
-size: 
-type: 
-subtype: 
-alignment: Neutre
-ac: 10
-hp: 0
-hit_dice: 1d8+0
-speed: 0
-stats: [10, 10, 10, 10, 10, 10]
+name: Tyrannosaure
+size: TG
+type: Bête
+subtype: Dinosaure
+alignment: Non aligné
+ac: 13
+hp: 136
+hit_dice: 13d12+52
+speed: 15 m
+stats: [25, 10, 19, 2, 12, 10]
 saves:
   - <ability-score>: number
 skillsaves:
