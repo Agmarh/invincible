@@ -1,4 +1,4 @@
 ```dataview
 LIST
-FROM "Niveau 1"
+FROM "Sortilèges"
 ```
