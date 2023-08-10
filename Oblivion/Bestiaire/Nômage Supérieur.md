@@ -21,10 +21,10 @@ saves:
   - Int: +10
   - Sag: +6
 skillsaves:
-  - Arcanes: +13
-  - Histoire: +13
-  - Religion: +13
-  - Nature: +13
+  - Arcanes: +14
+  - Histoire: +14
+  - Religion: +14
+  - Nature: +14
 damage_immunities: d'acide et de poison
 condition_immunities: [[Empoisonné]], [[Charmé]]
 senses: vision dans le noir 18 m, Perception passive 12

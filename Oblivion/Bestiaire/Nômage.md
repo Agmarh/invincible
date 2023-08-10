@@ -37,6 +37,9 @@ spells:
   - 2e niveau (3 emplacements): [[Dessiccation]], [[Flou]], [[Image miroir]]
   - 3e niveau (3 emplacements): [[Motif hypnotique]], [[Vol]]
   - 4e niveau (2 emplacements): [[Sanctuaire privé]], [[Tentacules noirs]]
+traits:
+  - name: <trait-name>
+    desc: <trait-description>
 actions:
   - name: Regard
     desc: "Un nômage regardant dans les yeux une créature intelligente peut lui infliger à volonté confusion (comme le sort, jet de sauvegarde DD 17). Ceci est compté comme une action gratuite."
