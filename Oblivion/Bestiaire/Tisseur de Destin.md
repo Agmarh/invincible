@@ -15,7 +15,12 @@ saves:
   - Int: +6
   - Cha: +7
 skillsaves:
-  - Discrétion: number
+  - Discrétion: +7
+  - Perception: +5
+  - Perspicacité: +8
+  - Persuasion: +10
+  - Représentation: +10
+  - Supercherie: +10
 damage_vulnerabilities: string
 damage_resistances: string
 damage_immunities: string
