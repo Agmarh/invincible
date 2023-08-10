@@ -1,4 +1,4 @@
 ```dataview
-LIST
-FROM "Sortilèges"
+TABLE
+FROM "Annexe/Sortilèges/Niveau 1"
 ```
