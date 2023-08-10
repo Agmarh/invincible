@@ -1,14 +1,14 @@
 ```statblock
 image: [[monstre.png]]
-name: Spectre
-size: M
-type: Mort-vivant
+name: Nom
+size: 
+type: 
 subtype: 
-alignment: Chaotique Mauvais
-ac: 12
-hp: 22
-hit_dice: 5d8
-speed: 0 m, vol 15 l
+alignment: Neutre
+ac: 10
+hp: 0
+hit_dice: 1d8+0
+speed: 0
 stats: [10, 10, 10, 10, 10, 10]
 saves:
   - <ability-score>: number
