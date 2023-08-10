@@ -18,16 +18,10 @@ languages: -
 cr: 1/4
 traits:
   - name: PV
-    desc: "La nuée possède 50 PV. Chaque fois que ses points de vie sont réduits de 10, les dégâts de chaque attaque sont réduits de 1 (minimum 1).
-
-_**Attaque**_. toutes les créatures présentes dans le même espace que la nuée subissent une attaque, indépendamment du nombre d’attaques total des squelettes.
-
-## Actions
-
-_**Griffes**_. Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une cible. Touché : 5 (1d6+2) dégâts perforants."
+    desc: "La nuée possède 50 PV. Chaque fois que ses points de vie sont réduits de 10, les dégâts de chaque attaque sont réduits de 1 (minimum 1)."
   - name: Attaque
-    desc: <trait-description>
+    desc: "Toutes les créatures présentes dans le même espace que la nuée subissent une attaque, indépendamment du nombre d’attaques total des squelettes."
 actions:
   - name: Griffes
-    desc: <trait-description>
+    desc: "Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une cible. Touché : 5 (1d6+2) dégâts perforants."
 ```
