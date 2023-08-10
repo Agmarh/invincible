@@ -1,9 +1,9 @@
 ```statblock
 image: [[monstre.png]]
-name: Nom
-size: 
-type: 
-subtype: 
+name: Squelettes miniatures
+size: M
+type: Nuée
+subtype: composée de morts-vivants de taille P
 alignment: Neutre
 ac: 10
 hp: 0
