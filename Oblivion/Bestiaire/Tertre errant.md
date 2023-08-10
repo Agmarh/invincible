@@ -20,21 +20,12 @@ languages: -
 cr: 5
 traits:
   - name: Absorption de la foudre
-    desc: "Chaque fois que le tertre errant devrait subir des dégâts de foudre, ceux-ci ne lui sont pas infligés et il récupère, à la place, un nombre de points de vie égal aux dégâts de foudre qu'il aurait dû subir.
-
-## Actions
-
-_**Attaques multiples**_. Le tertre errant effectue deux attaques de coup. S'il réussit ces deux attaques contre une cible de taille M ou plus petite, celle-ci est [[Empoigné]] (évasion DD 14) et le tertre errant utilise son _Enveloppement_ sur elle.
-
-_**Coup**_. _Attaque d'arme au corps à corps_ : +7 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 13 (2d8+4) dégâts contondants.
-
-_**Enveloppement**_. Le tertre errant enveloppe une créature de taille M ou plus petite qu'il empoigne. La cible enveloppée est [_aveuglée_](https://5e-drs.fr/gerer-la-sante-du-personnage/#aveugle), [_entravée_](https://5e-drs.fr/gerer-la-sante-du-personnage/#entrave) et incapable de respirer. Elle doit réussir un [jet de sauvegarde](https://5e-drs.fr/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 14 au début de chacun des tours du tertre errant pour ne pas subir 13 (2d8+4) dégâts contondants. Quand le tertre se déplace, la créature enveloppée se déplace avec lui. Le tertre ne peut pas envelopper plus d'une créature à la fois."
+    desc: "Chaque fois que le tertre errant devrait subir des dégâts de foudre, ceux-ci ne lui sont pas infligés et il récupère, à la place, un nombre de points de vie égal aux dégâts de foudre qu'il aurait dû subir."
 actions:
   - name: Attaques multiples
-    desc: <trait-description>
+    desc: "Le tertre errant effectue deux attaques de coup. S'il réussit ces deux attaques contre une cible de taille M ou plus petite, celle-ci est [[Empoigné]] (évasion DD 14) et le tertre errant utilise son _Enveloppement_ sur elle."
   - name: Coup
-    desc: <trait-description>
+    desc: "Attaque d'arme au corps à corps : +7 pour toucher, allonge 1,50 m, une cible. Touché : 13 (2d8+4) dégâts contondants."
   - name: Enveloppement
-    desc: <trait-description>
+    desc: "Le tertre errant enveloppe une créature de taille M ou plus petite qu'il empoigne. La cible enveloppée est [[Aveuglé]], [[Entravé]] et incapable de respirer. Elle doit réussir un jet de sauvegarde de Constitution DD 14 au début de chacun des tours du tertre errant pour ne pas subir 13 (2d8+4) dégâts contondants. Quand le tertre se déplace, la créature enveloppée se déplace avec lui. Le tertre ne peut pas envelopper plus d'une créature à la fois."
 ```
