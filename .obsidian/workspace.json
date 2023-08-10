@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oblivion/Bestiaire/Ogre d'Oblivion.md",
+                "file": "Oblivion/Bestiaire/Orc.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oblivion/Bestiaire/Ogre d'Oblivion.md",
+                "file": "Oblivion/Bestiaire/Orc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oblivion/Bestiaire/Ogre d'Oblivion.md",
+                "file": "Oblivion/Bestiaire/Orc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oblivion/Bestiaire/Ogre d'Oblivion.md"
+                "file": "Oblivion/Bestiaire/Orc.md"
               }
             }
           }
@@ -192,6 +192,7 @@
   "active": "888c7c629c8877e0",
   "lastOpenFiles": [
     "Template/Monstre.md",
+    "Oblivion/Bestiaire/Orc.md",
     "Oblivion/Bestiaire/Ogre d'Oblivion.md",
     "Oblivion/Bestiaire/Nômage Supérieur.md",
     "Annexe/Sortilèges/Niveau 6/Suggestion de groupe.md",
@@ -216,7 +217,6 @@
     "Invincible/Bestiaire/Hector de Lycanis.md",
     "Invincible/Bestiaire/Capitaine de Lycanis.md",
     "Oblivion/Bestiaire/Mékhanôm.md",
-    "Oblivion/Bestiaire/Mastiff.md",
     "Annexe/Sortilèges/Niveau 9",
     "Annexe/Sortilèges/Niveau 6",
     "Annexe/Sortilèges/Niveau 4",
