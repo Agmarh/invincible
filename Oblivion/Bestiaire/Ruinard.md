@@ -6,19 +6,17 @@ type: Aberration
 subtype: 
 alignment: Non aligné
 ac: 14
-hp: 0
-hit_dice: 1d8+0
-speed: 0
-stats: [10, 10, 10, 10, 10, 10]
+hp: 84
+hit_dice: 8d12+32
+speed: 9 m
+stats: [17, 12, 18, 1, 12, 3]
 saves:
-  - <ability-score>: number
+  - Con: +6
 skillsaves:
-  - <skill-name>: number
-damage_vulnerabilities: string
-damage_resistances: string
-damage_immunities: string
-condition_immunities: string
-senses: Perception passive 10
+  - Perception: +3
+damage_immunities: d'acide
+condition_immunities: [[Empoisonné]]
+senses: vision avugle Perception passive 13
 languages: string
 cr: 1
 spells:
