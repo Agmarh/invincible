@@ -13,32 +13,10 @@ stats: [19, 14, 16, 15, 7, 12]
 senses: Perception passive 8
 languages: commun, géant
 cr: 2
-spells:
-  - <description>
-  - <spell level>: <spell-list>
-traits:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
 actions:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
-legendary_actions:
-  - name: <legendary_actions-name>
-    desc: <legendary_actions-description>
-  - ...
-bonus_actions:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
-reactions:
-  - name: <reaction-name>
-    desc: <reaction-description>
-  - ...
-tactic:
-  - desc: <reaction-description>
+  - name: Epée à deux mains
+    desc: "Attaque d'arme au corps à corps ou à distance : +6 pour toucher, allonge 1,50 m, une cible. Touché : 11 (2d6+4) dégâts tranchants."
 treasure:
-  - name: <reaction-name>
-    desc: <reaction-description>
+  - name:
+    desc: "Filet de pêche"
 ```
