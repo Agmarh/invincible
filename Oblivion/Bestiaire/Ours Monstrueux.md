@@ -16,11 +16,11 @@ cr: 6
 traits:
   - name: Immunités
     desc: "aux sorts de charme."
-  - name: Immunités
-    desc: "aux sorts de charme."
+  - name: Odorat aiguisé
+    desc: "L'ours monstrueux obtient un avantage lors de ses tests de Sagesse (Perception) basés sur l'odorat."
 actions:
-  - name: Hache à deux mains
-    desc: "Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible. Touché : 9 (1d12+3) dégâts tranchants."
+  - name: Attaques multiples
+    desc: "L’ours monstrueux peut effectuer trois attaques : une avec sa morsure et deux avec ses griffes."
   - name: Javeline
     desc: "Attaque d'arme au corps à corps ou à distance : +5 pour toucher, allonge 1,50 m ou portée 9/36 m, une cible. Touché : 6 (1d6+3) dégâts perforants."
 ```
