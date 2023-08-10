@@ -11,13 +11,16 @@ hit_dice: 12d8+24
 speed: 0 m
 stats: [12, 11, 14, 20, 15, 8]
 saves:
-  - <ability-score>: number
+  - Con: +6
+  - Int: +9
+  - Sag: +6
 skillsaves:
-  - <skill-name>: number
-damage_vulnerabilities: string
-damage_resistances: string
-damage_immunities: string
-condition_immunities: string
+  - Arcanes: +13
+  - Histoire: +13
+  - Religion: +13
+  - Nature: +13
+damage_immunities: d'acide et de poison
+condition_immunities: [[Empoisonné]], [[Charmé]]
 senses: Perception passive 10
 languages: string
 cr: 1
