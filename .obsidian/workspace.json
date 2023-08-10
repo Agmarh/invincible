@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Template/Monstre.md",
+                "file": "Oblivion/Bestiaire/Ravageur.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Template/Monstre.md",
+                "file": "Oblivion/Bestiaire/Ravageur.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Template/Monstre.md",
+                "file": "Oblivion/Bestiaire/Ravageur.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Template/Monstre.md"
+                "file": "Oblivion/Bestiaire/Ravageur.md"
               }
             }
           }
@@ -191,11 +191,11 @@
   },
   "active": "888c7c629c8877e0",
   "lastOpenFiles": [
+    "Template/Monstre.md",
     "Oblivion/Bestiaire/Ravageur.md",
     "Oblivion/Bestiaire/Ours Monstrueux.md",
     "Oblivion/Bestiaire/Orc.md",
     "Oblivion/Bestiaire/Oskar Holderhek.md",
-    "Template/Monstre.md",
     "Oblivion/Bestiaire/Ogre d'Oblivion.md",
     "Oblivion/Bestiaire/Nômage Supérieur.md",
     "Annexe/Sortilèges/Niveau 6/Suggestion de groupe.md",
