@@ -6,7 +6,7 @@ On rencontre souvent les nômages en petits groupes appelé cabales. En effet, g
 
 ```statblock
 image: [[monstre.png]]
-name: Nômage
+name: Nômage Supérieur
 size: M
 type: Aberration
 subtype: 
