@@ -1,0 +1,1 @@
+Un géant mort nous a demandé de le venger en tuant son père, on doit trouver et tuer un géant des nuages du nom de Blagothkus.
