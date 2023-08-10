@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Animain/Infos/Sans titre.md",
+                "file": "Animain/JDR/Chapitre 1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Animain/Infos/Sans titre.md",
+                "file": "Animain/JDR/Chapitre 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Animain/Infos/Sans titre.md",
+                "file": "Animain/JDR/Chapitre 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Animain/Infos/Sans titre.md"
+                "file": "Animain/JDR/Chapitre 1.md"
               }
             }
           }
@@ -191,8 +191,13 @@
   },
   "active": "57a26b5dea235620",
   "lastOpenFiles": [
+    "Animain/JDR/Passé commun.md",
+    "Animain/JDR/Arten.md",
+    "Animain/JDR/Chapitre 1.md",
+    "Animain/Infos/Culte de l'unique.md",
+    "Animain/JDR",
+    "Animain/Infos/Amélioration équipement.md",
     "Animain/Infos/Moyens de locomotion.md",
-    "Animain/Infos/Sans titre.md",
     "Animain/Infos/Saisons.md",
     "Animain/Infos/PJ.md",
     "Animain/Infos/Duc de Matogo, le prince des charmes d'orient, ou le Scribe des Conquérants..md",
@@ -216,10 +221,6 @@
     "Annexe/Sorts de niveau 5.md",
     "Annexe/Sorts de niveau 4.md",
     "Annexe/Sorts de niveau 3.md",
-    "Annexe/Sorts de niveau 2.md",
-    "Annexe/Sortilèges/Niveau 1/Alarme.md",
-    "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Gangêve/Aggravation.md",
-    "Oblivion/Scénario 2 Les enfants d'Oblivion/HS/La Chasse Skïam.md",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/HS",
     "Annexe/Sortilèges/Niveau 9",
     "Annexe/Sortilèges/Niveau 6",
@@ -231,7 +232,6 @@
     "Invincible/Images/Pasted image 20230707113507.png",
     "Invincible/Images/Pasted image 20230707113503.png",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Anthéone",
-    "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Gangêve",
     "Oblivion/Images/chevalier-dragon.jpg",
     "Invincible/Images/epreuveNoir.png",
     "Invincible/Images/epreuveFeu.png",

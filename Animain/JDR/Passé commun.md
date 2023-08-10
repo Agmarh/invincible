@@ -1,0 +1,3 @@
+On ne se souvient pas de notre enfance, on s'est réveillé sur une plage d'une ile appartenant à l'empire d'Alten, des pirates nous ont capturés et gardés comme esclave, on a été vendu à un commerçant qui nous offrit comme tribu à l'armée impériale.  
+
+On a fait des tâches ingrate pour l'armée, ainsi que des entraînements plus poussé, nous sommes devenus des soldats, jeunes recrues, tout à basculer durant notre dernière patrouille
