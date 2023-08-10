@@ -8,25 +8,16 @@ alignment: Chaotique Mauvais
 ac: 13
 hp: 15
 hit_dice: 2d8+6
-speed: 0
-stats: [10, 10, 10, 10, 10, 10]
-saves:
-  - <ability-score>: number
+speed: 9
+stats: [16, 12, 16, 7, 11, 10]
 skillsaves:
-  - <skill-name>: number
-damage_vulnerabilities: string
-damage_resistances: string
-damage_immunities: string
-condition_immunities: string
-senses: Perception passive 10
-languages: string
-cr: 1
-spells:
-  - <description>
-  - <spell level>: <spell-list>
+  - Intimidation: +2
+senses: vision dans le noir 18 m, Perception passive 10
+languages: commun, orc
+cr: 1/2
 traits:
-  - name: <trait-name>
-    desc: <trait-description>
+  - name: Aggressif
+    desc: ""<trait-description>
   - ...
 actions:
   - name: <trait-name>
