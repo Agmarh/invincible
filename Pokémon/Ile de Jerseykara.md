@@ -1,0 +1,1 @@
+Revenir avec un pokémon pouvant surfer et se diriger vers l'ouest pour explorer et découvrir quelque chose ?
