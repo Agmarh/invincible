@@ -17,27 +17,11 @@ languages: commun, orc
 cr: 1/2
 traits:
   - name: Aggressif
-    desc: ""<trait-description>
-  - ...
+    desc: "Par une action bonus, l'orc peut se déplacer d'une distance maximale égale à sa vitesse vers une créature hostile dans son champ de vision."
 actions:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
-legendary_actions:
-  - name: <legendary_actions-name>
-    desc: <legendary_actions-description>
-  - ...
-bonus_actions:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
-reactions:
-  - name: <reaction-name>
-    desc: <reaction-description>
-  - ...
-tactic:
-  - desc: <reaction-description>
-treasure:
-  - name: <reaction-name>
-    desc: <reaction-description>
+  - name: Hache à deux mains
+    desc: "Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible. Touché : 9 (1d12+3) dégâts tranchants."
+  - name: Javeline
+    desc: "_Attaque d'arme au corps à corps ou à distance_ : +5 pour toucher, allonge 1,50 m ou portée 9/36 m, une cible.  
+_Touché_ : 6 (1d6+3) dégâts perforants."
 ```
