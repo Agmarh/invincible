@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oblivion/Bestiaire/Nômage.md",
+                "file": "Oblivion/Bestiaire/Nômage Supérieur.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oblivion/Bestiaire/Nômage.md",
+                "file": "Oblivion/Bestiaire/Nômage Supérieur.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oblivion/Bestiaire/Nômage.md",
+                "file": "Oblivion/Bestiaire/Nômage Supérieur.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oblivion/Bestiaire/Nômage.md"
+                "file": "Oblivion/Bestiaire/Nômage Supérieur.md"
               }
             }
           }
@@ -191,9 +191,9 @@
   },
   "active": "888c7c629c8877e0",
   "lastOpenFiles": [
-    "Template/Monstre.md",
     "Oblivion/Bestiaire/Nômage.md",
     "Oblivion/Bestiaire/Nômage Supérieur.md",
+    "Template/Monstre.md",
     "Oblivion/Bestiaire/Népharum Supérieur.md",
     "Oblivion/Bestiaire/Népharum Rex.md",
     "Oblivion/Bestiaire/Népharum.md",
