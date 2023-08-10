@@ -12,17 +12,16 @@ speed: 0 m, vol 15 m
 stats: [1, 14, 11, 10, 10, 11]
 damage_resistances: d'acide, de feu, de foudre, de froid et contondants, perforants et tranchants infligés par des attaques non-magiques
 damage_immunities: nécrotiques et de poison
-condition_immunities: A terre, [[Charmé]], [[Empoigné]], [[Emo]]
-senses: Perception passive 10
-languages: string
+condition_immunities: A terre, [[Charmé]], [[Empoigné]], [[Empoisonné]], [[Entravé]], Epuisé, Inconscient, [[Paralysé]], [[Pétrifié]]
+senses: vision dans le noir 18 m, Perception passive 10
+languages: comprend toutes les langues qu'il connaissait de son vivant mais ne peut pas parler
 cr: 1
-spells:
-  - <description>
-  - <spell level>: <spell-list>
 traits:
   - name: <trait-name>
     desc: <trait-description>
-  - ...
+  - name: <trait-name>
+    desc: <trait-description>
+- ...
 actions:
   - name: <trait-name>
     desc: <trait-description>
