@@ -7,18 +7,18 @@ On rencontre souvent les nômages en petits groupes appelé cabales. En effet, g
 ```statblock
 image: [[monstre.png]]
 name: Nômage Supérieur
-size: M
+size: TG
 type: Aberration
 subtype: 
 alignment: Toujours Chaotique
 ac: 17
-hp: 78
-hit_dice: 12d8+24
+hp: 102
+hit_dice: 12d12+24
 speed: 0 m
-stats: [12, 11, 14, 20, 15, 8]
+stats: [16, 11, 14, 22, 15, 8]
 saves:
   - Con: +6
-  - Int: +9
+  - Int: +10
   - Sag: +6
 skillsaves:
   - Arcanes: +13
