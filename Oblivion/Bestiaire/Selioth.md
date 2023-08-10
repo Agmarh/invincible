@@ -23,32 +23,20 @@ condition_immunities: [[Empoisonné]]]
 senses: Perception passive 12
 languages: internal, commun, gnome, télépathie 36 m
 cr: 9
-spells:
-  - <description>
-  - <spell level>: <spell-list>
 traits:
-  - name: <trait-name>
+  - name: Résistance à la magie
     desc: <trait-description>
-  - ...
+  - name: Vue du diable
+    desc: <trait-description>
+  - name: Pouvoirs du ravageur
+    desc: <trait-description>
+  - name: Insondable
+    desc: <trait-description>
 actions:
   - name: <trait-name>
     desc: <trait-description>
-  - ...
-legendary_actions:
-  - name: <legendary_actions-name>
-    desc: <legendary_actions-description>
-  - ...
-bonus_actions:
   - name: <trait-name>
     desc: <trait-description>
-  - ...
-reactions:
-  - name: <reaction-name>
-    desc: <reaction-description>
-  - ...
-tactic:
-  - desc: <reaction-description>
-treasure:
-  - name: <reaction-name>
-    desc: <reaction-description>
+  - name: <trait-name>
+    desc: <trait-description>
 ```
