@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "7e24e8c276970971",
+        "id": "755bd92e71b89eaf",
         "type": "tabs",
         "children": [
           {
-            "id": "ef1d1063847d478e",
+            "id": "11f8d032cc5782a5",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -180,7 +180,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ef1d1063847d478e",
+  "active": "11f8d032cc5782a5",
   "lastOpenFiles": [
     "Invincible/Scénario 2 La cité pétrifiée/ACTUELLEMENT J+8.md",
     "Invincible/Personnages/Clovik Scénario 2.md",
