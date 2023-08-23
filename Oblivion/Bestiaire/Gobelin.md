@@ -7,7 +7,7 @@ alignment: Neutre Mauvais
 ac: 15 (armure de cuir, bouclier)
 hp: 7
 hit_dice: 2d6
-speed: 9
+speed: 9 m
 stats: [8, 14, 10, 10, 8, 8]
 skillsaves:
   - Discrétion: 6

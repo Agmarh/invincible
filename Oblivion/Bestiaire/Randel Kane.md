@@ -7,7 +7,7 @@ alignment: Neutre
 ac: 17
 hp: 77
 hit_dice: 14d8+14
-speed: 7.5
+speed: 7.5 m
 stats: [19, 17, 11, 13, 11, 13]
 saves:
   - For: 7

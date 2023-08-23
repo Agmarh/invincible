@@ -1,1 +1,1 @@
-A Ikhâr, Razan et Nevilynn sont à l'auberge près à combattre la guerrière Soong tandis que Damy médite mais ne va pas tarder à entendre le grabuge
+Ils sont arrivé à Anthéone et s'apprête à traverser la ville pour rencontrer Malathor.

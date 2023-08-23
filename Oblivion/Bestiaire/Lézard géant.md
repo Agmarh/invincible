@@ -7,7 +7,7 @@ alignment: Non-alignée
 ac: 13 (armure naturelle)
 hp: 136
 hit_dice: 13d12+52
-speed: 15
+speed: 15 m
 stats: [25, 10, 19, 2, 12, 9]
 skillsaves:
   - Perception: 4

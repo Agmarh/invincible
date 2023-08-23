@@ -8,7 +8,7 @@ alignment: Chaotique Mauvais
 ac: 17
 hp: 102
 hit_dice: 12d8+48
-speed: 9
+speed: 9 m
 stats: [20, 16, 18, 11, 11, 13]
 saves:
   - Dex: 7

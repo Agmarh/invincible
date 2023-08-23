@@ -7,7 +7,7 @@ alignment: Neutre Mauvais
 ac: 16 (cuir clouté)
 hp: 54
 hit_dice: 12d6+12
-speed: 9
+speed: 9 m
 stats: [13, 18, 11, 11, 16, 13]
 saves:
   - Dex: 6
