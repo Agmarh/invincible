@@ -5,14 +5,19 @@ La ville s’est peu à peu structurée, accueillant de nombreuses autres chapel
 Le pouvoir est officiellement entre les mains d’un Bailli, qui représente l’état et gère la milice. Mais les ordres religieux, et en particulier le puissant Culte de Justicaar et ses fameux Chevaliers du Jugement, s’occupent en fait de quasiment tout le reste...
 
 Anthéone se décompose en cinq grands quartiers échelonnés sur la pente de la montagne tellurique :
-- L’Oratoire du Jugement : fondé par Anthéos il y a mille ans après sa victoire sur l’archiliche Azel-Liark. L’Ordre de Justicaar représente, aujourd’hui, un culte puissant, et l’Oratoire qui domine la ville, une véritable forteresse où siège chaque archonte du culte pendant son règne, en est le symbole le plus marquant...
 
-- Les Hautes Strates : étalant leurs élégants réseaux de jardins et de bassins d’eaux chaudes, elles abritent les résidences des nobles et des plus riches personnalités non loin des villégiatures estivales de certains suzerains.
+# L’Oratoire du Jugement 
+Fondé par Anthéos il y a mille ans après sa victoire sur l’archiliche Azel-Liark. L’Ordre de Justicaar représente, aujourd’hui, un culte puissant, et l’Oratoire qui domine la ville, une véritable forteresse où siège chaque archonte du culte pendant son règne, en est le symbole le plus marquant...
 
-- La Terrasse des Mille Négoces : thermes, saunas, hammams y côtoient les comptoirs des plus grandes compagnies commerciales dans une ferveur marchande inégalée.
+# Les Hautes Strates 
+Etalant leurs élégants réseaux de jardins et de bassins d’eaux chaudes, elles abritent les résidences des nobles et des plus riches personnalités non loin des villégiatures estivales de certains suzerains.
 
-- Les Marches Sacrées : grouillant d’une foule ininterrompue de pèlerins, ce quartier compte plus de cinquante lieux de culte, cohabitant dans un statu quo spirituel unique en son genre.
+# La Terrasse des Mille Négoces
+Thermes, saunas, hammams y côtoient les comptoirs des plus grandes compagnies commerciales dans une ferveur marchande inégalée.
 
-- L’Infer : situé à l’extérieur de l’enceinte-forteresse qu’on appelle « le Moratorium », l’infer est un quartier hétéroclite et populaire dont l’organisation n’est soumise qu’à l’anarchie aléatoire des flux migratoires. En effet, Anthéone constitue souvent un pèlerinage coûteux et difficile et une grande partie des arrivants ne peut s’offrir qu’un séjour très limité dans la ville proprement dite.
+# Les Marches Sacrées
+Grouillant d’une foule ininterrompue de pèlerins, ce quartier compte plus de cinquante lieux de culte, cohabitant dans un statu quo spirituel unique en son genre.
+
+# L’Infer : situé à l’extérieur de l’enceinte-forteresse qu’on appelle « le Moratorium », l’infer est un quartier hétéroclite et populaire dont l’organisation n’est soumise qu’à l’anarchie aléatoire des flux migratoires. En effet, Anthéone constitue souvent un pèlerinage coûteux et difficile et une grande partie des arrivants ne peut s’offrir qu’un séjour très limité dans la ville proprement dite.
 
 - L’intérieur de la montagne : sous les fondations d’Anthéone, court un vaste réseau souterrain de galeries, tunnels et cavernes, fruit de l’érosion aquatique et des entreprises humaines. En effet, il y a encore quelques années, chaque temple aménageait sa propre crypte tandis que de nombreux marchands creusaient des passages dérobés. Le développement anarchique de ces excavations ayant commencé à affaiblir les fondations de la ville, il est à présent interdit de percer la moindre cave. Par ailleurs, devant l’impossibilité de surveiller des centaines de kilomètres de galeries, le bailli d’Anthéone, Garibald Bartok, a ordonné, il y a peu, de les inonder. Aujourd’hui, Personne ne sait dans quel état se trouve le réseau...
