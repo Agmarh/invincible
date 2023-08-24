@@ -13,4 +13,18 @@ De plus, un certain nombre d’autres enfants peuvent être amenés à séjourne
 
 Ceci fait que « les Pupilles de Justicaar » est devenu l’un des deux sites majeurs de propagation de la gangrêve dans Anthéone. Si les PJ parviennent à démonter cette organisation, ils diminueront significativement les ravages de la maladie.
 
-- Créatures : Pupille de Justicaar, cf. p. 91 ; Gorm « Tête-de-Fer », cf. p. 92.
+- Créatures : [[Humanoïde gangrêvé]] Pupille de Justicaar, [[Gorm Tête de Fer]].
+
+# Les événements
+- J2 : attaque d’une entrée principale d’Anthéone par un puissant groupe d’orphelins (voir Infer).
+» J3 : on retrouve, non loin de l’orphelinat, le cadavre
+de l’un des pensionnaires (un récalcitrant, tué pour
+l’exemple). Si les PJ enquêtent sur l’affaire, ils découvrent
+à la morgue, parmi ses effets personnels,
+une bourse contenant deux ou trois petites aiguilles
+creuses, dont l’analyse du contenu révèle des liquides
+contaminés. Une enquête bien menée perpermet
+de remonter ensuite à la forge de Gorm, et à
+Gorm lui-même.
+» J4 : le ravageur Naga entraîne tous ses disciples
+dans un massacre aveugle (voir Infer).
