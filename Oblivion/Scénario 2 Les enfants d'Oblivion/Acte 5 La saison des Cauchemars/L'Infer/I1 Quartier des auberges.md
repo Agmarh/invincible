@@ -7,8 +7,8 @@ Ainsi, les PJ pourront s’installer au comptoir de L’Hydrophobe Manchot et en
 
 L’Hydrophobe est constamment rempli d’une foule d’éclopés, mutilés et autres malades venus chercher un miracle à Anthéone.
 
-Il y règne une « saine » ambiance d’aventuriers de comptoirs et de héros alcooliques. C’est là que les faiseurs
-de spectres (voirp. 30) fixent souvent leurs rendez-
-vous d’affaires.
-» Créature : Oskar Holderhek, patron de l’Hydrophobe,
-cf.p. 91.
+Il y règne une « saine » ambiance d’aventuriers de comptoirs et de héros alcooliques. C’est là que les faiseurs de spectres fixent souvent leurs rendez-vous d’affaires.
+
+- Créature : [[Oskar Holderhek]], patron de l’Hydrophobe.
+
+# Quelques rumeurs
