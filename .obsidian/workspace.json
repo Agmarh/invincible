@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/La terrasse des Mille Négoces/La terrasse des Mille Négoces.md",
+                "file": "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/La terrasse des Mille Négoces/TN1 Chez Azmän Sagdïn le marchand.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/La terrasse des Mille Négoces/La terrasse des Mille Négoces.md",
+                "file": "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/La terrasse des Mille Négoces/TN1 Chez Azmän Sagdïn le marchand.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/La terrasse des Mille Négoces/La terrasse des Mille Négoces.md",
+                "file": "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/La terrasse des Mille Négoces/TN1 Chez Azmän Sagdïn le marchand.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/La terrasse des Mille Négoces/La terrasse des Mille Négoces.md"
+                "file": "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/La terrasse des Mille Négoces/TN1 Chez Azmän Sagdïn le marchand.md"
               }
             }
           }
@@ -189,10 +189,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "efc7fbc9dabff410",
+  "active": "db18c6ae97a9cba9",
   "lastOpenFiles": [
-    "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/1 - Enquête morbide et mortelles tracasseries.md",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/La terrasse des Mille Négoces/La terrasse des Mille Négoces.md",
+    "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/La terrasse des Mille Négoces/TN1 Chez Azmän Sagdïn le marchand.md",
+    "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/1 - Enquête morbide et mortelles tracasseries.md",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Décompte des jours J1.md",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/La terrasse des Mille Négoces",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Anthéone.md",
@@ -221,7 +222,6 @@
     "D&D/Rassalantar - Amphail.md",
     "D&D/Vengeance de Eigerone.md",
     "D&D/Felgolos.md",
-    "D&D/Armure complète en métal Nain.md",
     "D&D/Armure complète en métal Nain.png",
     "Invincible/Images/GetImage.png",
     "D&D",

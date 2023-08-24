@@ -4,5 +4,4 @@ Contrats, échanges, ventes, telles sont les uniques préoccupations des réside
 
 Les Mille Négoces abritent aussi les comptoirs des grandes Compagnies marchandes de l’Empire. Ces échoppes constituent de véritables vitrines de leur savoir-faire, destinées aux différents cultes (les expéditions lointaines comportent souvent un prêtre missionnaire) et surtout aux nobles des Hautes Strates en quête de nouveautés, ou désireux d’ouvrir des routes commerciales pour s’enrichir.
 
-À noter que certains commerçants des Mille Négoces possèdent quelques chambres au-dessus de leur échoppe
-afin d’accueillir les clients les plus importants.
+À noter que certains commerçants des Mille Négoces possèdent quelques chambres au-dessus de leur échoppe afin d’accueillir les clients les plus importants.
