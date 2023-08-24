@@ -1,7 +1,8 @@
 Répartition des ravageur :
 - Chelos et Heketée sont remontés à la surface, se mêlant aux enfants d'un orphelinat, pour s'introduire par la suite dans l'Oratoire du jugement et s'emparer du livre saint : les Tables d'Antheos
 	- Objectif rempli
-	- Valkin blessé et souffrant de la gangrêve
+	- Personnes atteintes de la gangrêve : Valkin, la Matriarche des Saintes Concubines, Faustit Farendhell
+	- Malathor a quitté l'Oratoire furieux que l'affa
 
 - Deux ravageurs sont restés dans le labyrinthe des souterrains afin d'élaborer des tactiques efficaces de diffusion de la gangrêve.
 
