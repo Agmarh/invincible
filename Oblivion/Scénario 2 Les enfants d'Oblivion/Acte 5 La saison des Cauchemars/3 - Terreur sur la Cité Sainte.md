@@ -10,3 +10,4 @@ Répartition des ravageur :
 	- Naga a fait fabriquer des aiguilles creuses par un forgeron pour inoculer la gangrêve au plus grand nombre
 
 - Le dernier, Bâal, coordonne les actions des autres depuis les profondeurs de son repaire. Il ne sort que rarement, se fondant dans la masse des enfants de rues, pour résoudre un problème ponctuel en surface.
+	- A l'air de son "père adoptif", il monte la secte des Aiguilles Creuses auront pour mission de propager la gangrêve grâce aux aiguilles.
