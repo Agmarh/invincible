@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pokémon/Recherches pokémons.md",
+                "file": "Pokémon/Moveset Typhlosion.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pokémon/Recherches pokémons.md",
+                "file": "Pokémon/Moveset Typhlosion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pokémon/Recherches pokémons.md",
+                "file": "Pokémon/Moveset Typhlosion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pokémon/Recherches pokémons.md"
+                "file": "Pokémon/Moveset Typhlosion.md"
               }
             }
           }
@@ -191,6 +191,8 @@
   },
   "active": "57a26b5dea235620",
   "lastOpenFiles": [
+    "Pokémon/Recherches pokémons.md",
+    "Pokémon/Moveset Typhlosion.md",
     "Pokémon/Ile de Jerseykara.md",
     "D&D/Everlund.md",
     "D&D/Silverymoon.md",
@@ -219,8 +221,6 @@
     "Animain/Infos/Moyens de locomotion.md",
     "Animain/Infos/Saisons.md",
     "Animain/Infos/PJ.md",
-    "Animain/Infos/Duc de Matogo, le prince des charmes d'orient, ou le Scribe des Conquérants..md",
-    "Animain/Infos/Amnésie collective.md",
     "Animain/Infos",
     "Animain",
     "Pokémon",
