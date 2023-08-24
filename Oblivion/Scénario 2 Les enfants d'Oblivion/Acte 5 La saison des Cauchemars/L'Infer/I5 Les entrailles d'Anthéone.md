@@ -12,16 +12,10 @@ La table suivante vous propose quelques rencontres si les PJ s’aventurent dans
 
 - 6 : gangrêvé. Une créature au stade 4 ou 5 de la maladie, réfugiée dans le noir et qui attaque les PJ à vue.
 
-- 7 : patrouille de 1d4+4 chevaliers du Jugement. Méfiants, ils attaqueront au moindre faux pas des
-PJ auxquels il faudra des arguments solides pour ne
-pas se retrouver dans les geôles du Moratorium.
-» 8 : un noble dont la fille est gravement atteinte a
-décidé de fuir Anthéone discrètement. Il sera prêt
-à toutes les largesses pour que les PJ le laisse partir,
-voire l’aident.
-» 9 : un cadavre affreusement mutilé. Visiblement,
-il rôde quelque part une créature particulièrement
-puissante.
-» 10 : ravageur ! Au choix : un « enfant » qui disparaît
-mystérieusement ; une énorme silhouette aperçue
-de loin ; une attaque du ravageur Selioth etc.
+- 7 : patrouille de 1d4+4 chevaliers du Jugement. Méfiants, ils attaqueront au moindre faux pas des PJ auxquels il faudra des arguments solides pour ne pas se retrouver dans les geôles du Moratorium.
+
+- 8 : un noble dont la fille est gravement atteinte a décidé de fuir Anthéone discrètement. Il sera prêt à toutes les largesses pour que les PJ le laisse partir, voire l’aident.
+
+- 9 : un cadavre affreusement mutilé. Visiblement, il rôde quelque part une créature particulièrement puissante.
+
+- 10 : ravageur ! Au choix : un « enfant » qui disparaît mystérieusement ; une énorme silhouette aperçue de loin ; une attaque du ravageur Selioth etc.
