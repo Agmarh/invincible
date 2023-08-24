@@ -7,4 +7,4 @@ Les détails sont développés ci-dessous, mais sachez qu’à :
 
 - J4 : s’il n’a pas été stoppé avant, le ravageur Naga ameute tous les gangrêvés qu’il a contaminé (3d6 Pupilles de Justicaar, et 3d6 humanoïdes variés, aux stades 4 et 5 de la gangrêve). La nuit venue, il effectue sa transformation monstrueuse et conduit ses « troupes » à travers tout l’Infer pour massacrer la population.
 
-- Créatures : gangrêvé humanoïde standard, cf.p. 91 ; pupille de Justicaar, cf.p. 91.
+- Créatures : [[Humanoïde gangrêvé]]
