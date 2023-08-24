@@ -24,13 +24,8 @@ Il y règne une « saine » ambiance d’aventuriers de comptoirs et de héros a
 
 - Un étranger, venu des royaumes du Sud prétend avoir rencontré en plusieurs points de son périple des « gangrêvés » : la maladie menace l’Empire à présent... - Vrai.
 
-- Un chaman prétend avoir vu, au cours d’une transe divinatoire, des enfants s’amusant à inoculer la maladie en contaminant certains établissements de bains - Partiellement vrai : il est exact que des enfants
-participent à la propagation de la gangrêve,
-mais c’est à l’aide des aiguilles creuses d’Azmän.
-- La population voit dans la gangrêve, la vengeance
-de l’archiliche Azel-Liark détruite, mille ans plus tôt
-par l’Archonte Anthéos - Faux.
-- On murmure que d’inquiétantes créatures rôdent
-dans les sous-sols de la ville et qu’il serait grand
-temps que le Bailli Bartok sorte de sa piscine et
-fasse quelque chose... - Vrai.
+- Un chaman prétend avoir vu, au cours d’une transe divinatoire, des enfants s’amusant à inoculer la maladie en contaminant certains établissements de bains - Partiellement vrai : il est exact que des enfants participent à la propagation de la gangrêve, mais c’est à l’aide des aiguilles creuses d’Azmän.
+
+- La population voit dans la gangrêve, la vengeance de l’archiliche Azel-Liark détruite, mille ans plus tôt par l’Archonte Anthéos - Faux.
+
+- On murmure que d’inquiétantes créatures rôdent dans les sous-sols de la ville et qu’il serait grand temps que le Bailli Bartok sorte de sa piscine et fasse quelque chose... - Vrai.
