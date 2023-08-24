@@ -1,20 +1,11 @@
 # Les lieux
-Fidèle à ses préoccupations caritatives, l’Ordre a créé un orphelinat dans la zone la plus défavorisée de la
-ville : un moyen pour former de futurs chevaliers et de
-se donner une bonne image sociale. On retrouve d’ailleurs
-quelques établissements similaires à travers l’Empire.
-En général, la gestion en est confiée à un généreux
-donateur ; ici, Gorm « Tête-de-Fer », un forgeron gnome,
-qui s’acquitte de cette tâche depuis des années avec un
-zèle apparemment sans faille. C’est ainsi qu’il a pu décrocher
-un contrat avec les Enfermés. Cependant, Gorm
-n’est présent sur place qu’occasionnellement. Les tâches
-journalières sont accomplies par ses employées : deux
-femmes de service gnomes, arriérées.
-Depuis l’arrivée des ravageurs, l’orphelinat est la cible
-privilégiée de l’un d’entre eux : Naga. En effet, ce dernier
-a intégré l’établissement et contaminé la plupart
-des enfants (30 pensionnaires sur 36) sous l’oeil bienveillant
+Fidèle à ses préoccupations caritatives, l’Ordre a créé un orphelinat dans la zone la plus défavorisée de la ville : un moyen pour former de futurs chevaliers et de se donner une bonne image sociale. On retrouve d’ailleurs quelques établissements similaires à travers l’Empire.
+
+En général, la gestion en est confiée à un généreux donateur ; ici, Gorm « Tête-de-Fer », un forgeron gnome, qui s’acquitte de cette tâche depuis des années avec un zèle apparemment sans faille. C’est ainsi qu’il a pu décrocher un contrat avec les Enfermés. 
+
+Cependant, Gorm n’est présent sur place qu’occasionnellement. Les tâches journalières sont accomplies par ses employées : deux femmes de service gnomes, arriérées.
+
+Depuis l’arrivée des ravageurs, l’orphelinat est la cible privilégiée de l’un d’entre eux : Naga. En effet, ce dernier a intégré l’établissement et contaminé la plupart des enfants (30 pensionnaires sur 36) sous l’oeil bienveillant
 de Gorm « Tête-de-Fer » (1 000 po ont endormi sa
 conscience).
 Cette contamination a eu lieu à leur insu, par le biais
