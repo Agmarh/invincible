@@ -14,31 +14,17 @@ Il y règne une « saine » ambiance d’aventuriers de comptoirs et de héros a
 # Quelques rumeurs
 - On prétend que, depuis quelque temps, les pensionnaires d’un orphelinat (Cf. les Pupilles de Justicaar) s’organisent en bandes et s’illustrent par des actions violentes - Vrai.
 
-- Les Chevaliers du Jugement seraient directement
-responsables des troubles à l’orphelinat afin de discréditer
-la milice locale - Faux.
-- L’étrange maladie qui frappe Anthéone a depuis
-peu trouvé un nom, la gangrêve. C’est le célèbre
-barde Farendhell qui l’a trouvé, il a même composé
-un sonnet- requiem sur cette calamité - Vrai.
-- Farendhell s’est violemment disputé avec l’Archonte
-de Justicaar. Depuis, il a été consigné chez lui et sa
-maison reste porte et volets close - Partiellement
-vrai : Farendhell s’est bien disputé, mais il s’est luimême
-enfermé pour se protéger de la lumière, alors
-qu’il s’enfonce dans la gangrêve.
-- Les apothicaires et savants officiels affirment que la
-gangrêve se contracte pendant le sommeil, à travers
-un cauchemar envoyé par une créature nommée
-l’Écorcheuse - Faux.
-- Un étranger, venu des royaumes du Sud prétend
-avoir rencontré en plusieurs points de son périple
-des « gangrêvés » : la maladie menace l’Empire à
-présent... - Vrai.
-- Un chaman prétend avoir vu, au cours d’une transe
-divinatoire, des enfants s’amusant à inoculer la maladie
-en contaminant certains établissements de
-bains - Partiellement vrai : il est exact que des enfants
+- Les Chevaliers du Jugement seraient directement responsables des troubles à l’orphelinat afin de discréditer la milice locale - Faux.
+
+- L’étrange maladie qui frappe Anthéone a depuis peu trouvé un nom, la gangrêve. C’est le célèbre barde Farendhell qui l’a trouvé, il a même composé un sonnet - requiem sur cette calamité - Vrai.
+
+- Farendhell s’est violemment disputé avec l’Archonte de Justicaar. Depuis, il a été consigné chez lui et sa maison reste porte et volets close - Partiellement vrai : Farendhell s’est bien disputé, mais il s’est lui-même enfermé pour se protéger de la lumière, alors qu’il s’enfonce dans la gangrêve.
+
+- Les apothicaires et savants officiels affirment que la gangrêve se contracte pendant le sommeil, à travers un cauchemar envoyé par une créature nommée l’Écorcheuse - Faux.
+
+- Un étranger, venu des royaumes du Sud prétend avoir rencontré en plusieurs points de son périple des « gangrêvés » : la maladie menace l’Empire à présent... - Vrai.
+
+- Un chaman prétend avoir vu, au cours d’une transe divinatoire, des enfants s’amusant à inoculer la maladie en contaminant certains établissements de bains - Partiellement vrai : il est exact que des enfants
 participent à la propagation de la gangrêve,
 mais c’est à l’aide des aiguilles creuses d’Azmän.
 - La population voit dans la gangrêve, la vengeance
