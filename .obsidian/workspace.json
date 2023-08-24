@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/L'Infer/I2 Katanga, le Maître des encres.md",
+                "file": "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/La terrasse des Mille Négoces/La terrasse des Mille Négoces.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/L'Infer/I2 Katanga, le Maître des encres.md",
+                "file": "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/La terrasse des Mille Négoces/La terrasse des Mille Négoces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/L'Infer/I2 Katanga, le Maître des encres.md",
+                "file": "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/La terrasse des Mille Négoces/La terrasse des Mille Négoces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/L'Infer/I2 Katanga, le Maître des encres.md"
+                "file": "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/La terrasse des Mille Négoces/La terrasse des Mille Négoces.md"
               }
             }
           }
@@ -203,10 +203,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "db18c6ae97a9cba9",
+  "active": "efc7fbc9dabff410",
   "lastOpenFiles": [
-    "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/L'Infer/I5 Les entrailles d'Anthéone.md",
+    "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/1 - Enquête morbide et mortelles tracasseries.md",
+    "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/La terrasse des Mille Négoces/La terrasse des Mille Négoces.md",
+    "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Décompte des jours J1.md",
+    "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/La terrasse des Mille Négoces",
+    "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Anthéone.md",
+    "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/3 - Terreur sur la Cité Sainte.md",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/L'Infer/I2 Katanga, le Maître des encres.md",
+    "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/L'Infer/I5 Les entrailles d'Anthéone.md",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/L'Infer/I4 Forge Au Souffle Draconique.md",
     "Oblivion/Images/Gorm.jpg",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/L'Infer/I1 Quartier des auberges.md",
@@ -214,10 +220,7 @@
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/L'Infer/L'Infer.md",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/L'Infer/Evénements.md",
     "Oblivion/Images/Katanga.png",
-    "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Décompte des jours J1.md",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/L'Infer",
-    "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/3 - Terreur sur la Cité Sainte.md",
-    "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Anthéone.md",
     "Oblivion/Images/Anthéone.png",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Introduction.md",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/2 - Sur la route de la Cité Sainte.md",
@@ -235,8 +238,6 @@
     "D&D/Armure complète en métal Nain.md",
     "D&D/Armure complète en métal Nain.png",
     "Invincible/Images/GetImage.png",
-    "D&D/En quête des Géants.md",
-    "D&D/Infos sur la guerre des Géants.md",
     "D&D",
     "Animain/JDR",
     "Animain/Infos",
@@ -245,7 +246,6 @@
     "Oblivion/Scénario 2 Les enfants d'Oblivion/HS",
     "Annexe/Sortilèges/Niveau 9",
     "Annexe/Sortilèges/Niveau 6",
-    "Annexe/Sortilèges/Niveau 4",
     "Oblivion/Images/Le poignard polymorphe.jpg",
     "Oblivion/Images/La Faucheuse.jpg",
     "Oblivion/Images/img966.jpg",
