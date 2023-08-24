@@ -9,13 +9,6 @@ En cambriolant le coffre de [[Gorm Tête de Fer]], on peut y trouver les schéma
 
 # Les événements
 ## J3
-près la découverte du cadavre de l’enfant portant
-des aiguilles, Gorm « Tête-de-Fer » sent que
-le vent tourne. Il enfile son anneau d’invisibilité,
-retrouve Azmän dans un lieu discret de l’Infer, et
-s’enfonce avec lui dans les souterrains jusqu’au siège
-de la conjuration.
-» J4 : Gorm et Azmän reviennent pour faire disparaître
-toutes les pièces à conviction de la forge (ils
-reprennent les aiguilles non-utilisées ainsi que les
-plans et mettent le feu avant de partir).
+Après la découverte du cadavre de l’enfant portant des aiguilles, [[Gorm Tête de Fer]] sent que le vent tourne. Il enfile son anneau d’invisibilité, retrouve Azmän dans un lieu discret de l’Infer, et s’enfonce avec lui dans les souterrains jusqu’au siège de la conjuration.
+## J4
+Gorm et Azmän reviennent pour faire disparaître toutes les pièces à conviction de la forge (ils reprennent les aiguilles non-utilisées ainsi que les plans et mettent le feu avant de partir).
