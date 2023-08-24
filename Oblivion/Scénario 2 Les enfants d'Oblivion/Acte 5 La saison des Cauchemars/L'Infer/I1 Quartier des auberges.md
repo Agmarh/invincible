@@ -29,3 +29,5 @@ Il y règne une « saine » ambiance d’aventuriers de comptoirs et de héros a
 - La population voit dans la gangrêve, la vengeance de l’archiliche Azel-Liark détruite, mille ans plus tôt par l’Archonte Anthéos - <font style="color:red">Faux</font>.
 
 - On murmure que d’inquiétantes créatures rôdent dans les sous-sols de la ville et qu’il serait grand temps que le Bailli Bartok sorte de sa piscine et fasse quelque chose... - <font style="color:green">Vrai</font>.
+
+Les évenements
