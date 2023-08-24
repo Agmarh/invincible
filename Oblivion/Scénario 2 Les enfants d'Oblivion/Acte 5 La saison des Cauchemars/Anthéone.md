@@ -22,3 +22,5 @@ Situé à l’extérieur de l’enceinte-forteresse qu’on appelle « le Morato
 
 # L’intérieur de la montagne
 Sous les fondations d’Anthéone, court un vaste réseau souterrain de galeries, tunnels et cavernes, fruit de l’érosion aquatique et des entreprises humaines. En effet, il y a encore quelques années, chaque temple aménageait sa propre crypte tandis que de nombreux marchands creusaient des passages dérobés. Le développement anarchique de ces excavations ayant commencé à affaiblir les fondations de la ville, il est à présent interdit de percer la moindre cave. Par ailleurs, devant l’impossibilité de surveiller des centaines de kilomètres de galeries, le bailli d’Anthéone, Garibald Bartok, a ordonné, il y a peu, de les inonder. Aujourd’hui, Personne ne sait dans quel état se trouve le réseau...
+
+![[Anthéone.png]]
