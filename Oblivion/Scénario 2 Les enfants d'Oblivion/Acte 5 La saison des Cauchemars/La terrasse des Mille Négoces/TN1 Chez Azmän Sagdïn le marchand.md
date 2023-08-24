@@ -18,3 +18,12 @@ Si les PJ sont appréhendés, ils ont toutes les chances de finir dans les geôl
 - Créatures : [[Gardien d'Azmän]] (4), [[Mastiff]] chiens
 de guerre (3).
 # Les événements
+Accaparé par ses nouvelles occupations (recruter de nouveaux adeptes, kidnapper des victimes pour ses prochains sacrifices, etc.), Azmän est peu présent chez lui. Vous pouvez le placer à l’endroit qui vous convient le mieux, en sachant que :
+
+## J1 et plus
+Azmän orchestre une noire célébration dans les souterrains tous les soirs vers minuit (il est souvent sur place entre 20h et 4h du matin).
+## J3
+Il récupère [[Gorm Tête de Fer]], et l’initie au culte de l’Écorcheuse. Le même jour, les gardes permutent leur poste avec leurs collègues dans les souterrains (cf.). Ils y vont les yeux bandés, guidés par Azmän.
+» J4 : il fait l’aller-retour à la forge de Gorm, avec lui.
+» J6 : il se disperse loin d’Anthéone, avec tous ses
+adeptes, pour répandre la gangrêve.
