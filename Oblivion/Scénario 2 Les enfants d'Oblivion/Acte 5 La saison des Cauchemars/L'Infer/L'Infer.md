@@ -1,7 +1,9 @@
 # Les lieux
-Beaucoup d’habitants « d’en-haut » considèrent que l’Infer ne fait pas vraiment partie d’Anthéone. C’est ici qu’échouent de nombreux pèlerins, ruinés par leur séjour dans les quartiers supérieurs, désireux de rester près des sources spirituelles ou incapables de trouver une caravane pour rentrer sur leurs terres. Ainsi, cette véritable cité en marge d’Anthéone rassemble-t-elle une incroyable mosaïque de cultures... L’Infer est un chaudron incandescent où se mêlent les saveurs, les parfums et les accents de toutes les provinces de l’Empire !
+Beaucoup d’habitants « d’en-haut » considèrent que l’Infer ne fait pas vraiment partie d’Anthéone. C’est ici qu’échouent de nombreux pèlerins, ruinés par leur séjour dans les quartiers supérieurs, désireux de rester près des sources spirituelles ou incapables de trouver une caravane pour rentrer sur leurs terres. 
 
-De plus, c’est le seul endroit où les auberges sont autorisées : une manière astucieuse de « filtrer » la population puisqu’il faut impérativement être « invité » pour séjourner à l’intérieur de la cité. Du coup, les auberges de l’infer sont si nombreuses qu’elles représentent un quartier à elles seules.
+Cette véritable cité rassemble une incroyable mosaïque de cultures...
+
+C’est le seul endroit où les auberges sont autorisées : une manière de « filtrer » la population puisqu’il faut impérativement être « invité » pour séjourner à l’intérieur de la cité. Du coup, les auberges de l’infer sont si nombreuses qu’elles représentent un quartier à elles seules.
 
 L’autre industrie particulièrement développée est l’exploitation des eaux, et il existe de nombreuses maisons de bains comme dans la ville. Néanmoins, les eaux sont d’une qualité douteuse après être passées successivement dans les bassins et les piscines des quartiers supérieurs...
 
