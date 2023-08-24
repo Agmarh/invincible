@@ -4,8 +4,8 @@ Répartition des ravageur :
 	- Personnes atteintes de la gangrêve : Valkin, la Matriarche des Saintes Concubines, Faustit Farendhell
 	- Malathor a quitté l'Oratoire furieux que l'affaire ait été étouffée
 	- Chelos se situe dans le réseau aquatique qui relie les piscines des Hautes Strates et tue ses occupants de temps à autre
-	- Heketée s'est réfugié dans les so
+	- Heketée s'est réfugié dans les sous-sols d'Anthéone pour décrypter les tables d'Anthéos
 
-- Deux ravageurs sont restés dans le labyrinthe des souterrains afin d'élaborer des tactiques efficaces de diffusion de la gangrêve.
+- Selioth et Naga sont restés dans le labyrinthe des souterrains afin d'élaborer des tactiques efficaces de diffusion de la gangrêve.
 
 - Le dernier, Bâal, coordonne les actions des autres depuis les profondeurs de son repaire. Il ne sort que rarement, se fondant dans la masse des enfants de rues, pour résoudre un problème ponctuel en surface.
