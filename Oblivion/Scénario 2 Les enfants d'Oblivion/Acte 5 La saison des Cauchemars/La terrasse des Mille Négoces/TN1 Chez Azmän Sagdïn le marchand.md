@@ -3,20 +3,11 @@ Originaire de lointaines contrées orientales, [[Azmän Sagdïn]] est arrivé il
 
 Cependant, ses suppliques sont restées vaines. Alors, Azmän a abandonné son ancien métier de prêtre pour devenir marchand, tandis que sa femme, prêtresse également, gravissait les échelons de la hiérarchie de l’Oratoire du Jugement. Depuis, Azmän a monté une florissante affaire de milice privée, tout en noyant lentement son chagrin et sa moralité dans l’alcool.
 
-Lorsque sa femme disparut à son tour, il y a quelques semaines (kidnappée au hasard par l’Écorcheuse, comme son fils), Azmän faillit perdre la raison. Aussi, quand son fils Azmaël resurgit soudainement, peu de temps après, le marchand se soumit immédiatement à son emprise... tombant droit dans les mains d’Azmaël/Bâal, le chef des
-ravageurs.
-Rapidement converti au culte de l’Écorcheuse, Azmän
-fonda alors une secte destinée à préparer l’arrivée sur
-terre de l’Incarnin maléfique, dans laquelle il entraîna
-plusieurs de ses employés. En guise de « présent », à Azmaël/
-Bâal, Azmän offrit de contaminer l’une des gardes
-de sa milice privée, une fille chargée du maintien de
-l’ordre au sein des Saintes Concubines. C’est cette garde
-qui transmit à son tour la gangrêve à la guerrière soong,
-rencontrée au début de l’histoire par les PJ.
-Mais Azmaël/Bâal, toujours plus exigeant, suggèra à
-son père l’idée des aiguilles creuses. Azmän finança alors
-le forgeron Gorm Tête-de-Fer, et les Aiguilles Creuses
+Lorsque sa femme disparut à son tour, il y a quelques semaines (kidnappée au hasard par l’Écorcheuse, comme son fils), Azmän faillit perdre la raison. Aussi, quand son fils Azmaël resurgit soudainement, peu de temps après, le marchand se soumit immédiatement à son emprise... tombant droit dans les mains d’Azmaël/[[Bâal]], le chef des ravageurs.
+
+Rapidement converti au culte de l’Écorcheuse, Azmän fonda alors une secte destinée à préparer l’arrivée sur terre de l’Incarnin maléfique, dans laquelle il entraîna plusieurs de ses employés. En guise de « présent », à Azmaël/[[Bâal]], Azmän offrit de contaminer l’une des gardes de sa milice privée, une fille chargée du maintien de l’ordre au sein des Saintes Concubines. C’est cette garde qui transmit à son tour la gangrêve à la guerrière soong, rencontrée au début de l’histoire par les PJ.
+
+Mais Azmaël/[[Bâal]], toujours plus exigeant, suggéra à son père l’idée des aiguilles creuses. Azmän finança alors le forgeron [[Gorm.jpg]], et les Aiguilles Creuses
 devinrent le nom « officiel » de sa secte, promise à un
 avenir de gloire sous le joug prochain de l’Écorcheuse !
 Ainsi, si les PJ se présentent au domicile d’Azmän Sagdïn
