@@ -5,7 +5,6 @@ La ville s’est peu à peu structurée, accueillant de nombreuses autres chapel
 Le pouvoir est officiellement entre les mains d’un Bailli, qui représente l’état et gère la milice. Mais les ordres religieux, et en particulier le puissant Culte de Justicaar et ses fameux Chevaliers du Jugement, s’occupent en fait de quasiment tout le reste...
 
 Anthéone se décompose en cinq grands quartiers échelonnés sur la pente de la montagne tellurique :
-
 # L’Oratoire du Jugement 
 Fondé par Anthéos il y a mille ans après sa victoire sur l’archiliche Azel-Liark. L’Ordre de Justicaar représente, aujourd’hui, un culte puissant, et l’Oratoire qui domine la ville, une véritable forteresse où siège chaque archonte du culte pendant son règne, en est le symbole le plus marquant...
 
