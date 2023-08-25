@@ -14,3 +14,13 @@ Ces produits seront ensuite dispersés dans la ville et les royaumes voisins, pr
 Les aiguilles creuses sont prêtes : 2000 pièces, à emporter dans la ville et les royaumes voisins, afin d’y monter de nouvelles cellules de la secte.
 ## J6
 Si la secte n’a pas été arrêtée avant, elle quitte les profondeurs de la Cité Sainte et se disperse dans l’Empire. Le sort de milliers de gens est scellé.
+
+<span 
+	  class='ob-timelines' 
+	  data-date='5' 
+	  data-title='Rituel' 
+	  data-class='orange' 
+	  data-type='range' 
+	  data-end='5'> 
+Les aiguilles creuses sont prêtes : 2000 pièces, à emporter dans la ville et les royaumes voisins, afin d’y monter de nouvelles cellules de la secte.
+</span>

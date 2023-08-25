@@ -14,3 +14,12 @@ Trois fois par jour (7 h, 15 h, 23 h), un enfant gangrêvé de la salle [[11 Le 
 # Les événements
 ## J4 et plus
 Si les PJ n’ont pas tué le ravageur [[Selioth]] avant, ils le rencontrent ici, dissimulé dans les sommets de la forêt de chaînes.
+<span 
+	  class='ob-timelines' 
+	  data-date='4' 
+	  data-title='Rituel' 
+	  data-class='orange' 
+	  data-type='range' 
+	  data-end='6'> 
+Si les PJ n’ont pas tué le ravageur Selioth avant, ils le rencontrent ici, dissimulé dans les sommets de la forêt de chaînes.
+</span>
