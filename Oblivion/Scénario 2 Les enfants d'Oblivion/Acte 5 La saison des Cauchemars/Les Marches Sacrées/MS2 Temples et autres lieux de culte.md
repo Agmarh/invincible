@@ -29,10 +29,10 @@ Diverses cérémonies sont ajournées, perturbées par les premières manifestat
 </span>
 <span 
 	  class='ob-timelines' 
-	  data-date='3' 
+	  data-date='01-01-03' 
 	  data-title='Fermeture des portes du Moratorium' 
 	  data-class='orange' 
 	  data-type='range' 
-	  data-end='6'> 
+	  data-end='01-01-06'> 
 Le Moratorium ferme ses portes. Mais, l’activité des temples ne cesse pas, offrandes et auto-flagellations se multiplient, pour demander aux dieux de faire cesser le « Mal venu des Rêves ».
 </span>
