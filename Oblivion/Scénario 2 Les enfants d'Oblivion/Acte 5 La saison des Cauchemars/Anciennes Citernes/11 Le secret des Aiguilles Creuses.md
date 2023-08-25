@@ -18,7 +18,7 @@ Si la secte n’a pas été arrêtée avant, elle quitte les profondeurs de la C
 <span 
 	  class='ob-timelines' 
 	  data-date='5' 
-	  data-title='Rituel' 
+	  data-title='Aiguilles Creuses' 
 	  data-class='orange' 
 	  data-type='range' 
 	  data-end='5'> 
@@ -27,7 +27,7 @@ Les aiguilles creuses sont prêtes : 2000 pièces, à emporter dans la ville et 
 <span 
 	  class='ob-timelines' 
 	  data-date='6' 
-	  data-title='Rituel' 
+	  data-title='Dispersion de la secte' 
 	  data-class='orange' 
 	  data-type='range' 
 	  data-end='6'> 

@@ -39,3 +39,13 @@ Il y règne une « saine » ambiance d’aventuriers de comptoirs et de héros a
 Dès l’arrivée des PJ, le ravageur [[Selioth]] commence un massacre dans le quartier des auberges, il sort chaque nuit, et parfois le jour, jaillissant d’un puits, ou entrant par une fenêtre, frappant des victimes isolées puis disparaît. Si les PJ sont à proximité, ils ont une chance de l’affronter. S’il se sent menacé, il fuit dans les souterrains de la ville.
 ## J4 et plus 
 S’il n’a pas été tué, on le retrouve dans le repaire final.
+
+<span 
+	  class='ob-timelines' 
+	  data-date='5' 
+	  data-title='Massacre du quartier des auberges' 
+	  data-class='orange' 
+	  data-type='range' 
+	  data-end='5'> 
+Les aiguilles creuses sont prêtes : 2000 pièces, à emporter dans la ville et les royaumes voisins, afin d’y monter de nouvelles cellules de la secte.
+</span>
