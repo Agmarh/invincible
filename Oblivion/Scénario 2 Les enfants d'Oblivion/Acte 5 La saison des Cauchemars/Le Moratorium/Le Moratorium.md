@@ -13,17 +13,8 @@ En effet, la maintenance d’un tel bâtiment dépasse les capacités de l’Ord
 
 - Créatures : [[Chevalier du Jugement]], [[Milicien]] du bailli,  [[Milicien]] gardien bourreau, [[Gardien d'Azmän]].
 # Les événements
-Si les PJ sont enfermés ici, la broche confiée par Malathor pourra leur permettre de se sortir d’un mauvais pas à condition qu’ils parviennent à la montrer à un Chevalier.
-Ils seront alors immédiatement relâchés, et éventuellement
-conduits à l’Oratoire pour une entrevue avec
-le Grand Cardinal Balthus.
-» J1, J2 : quarantaine limitée. Tous les Gangrêvés
-identifiés par les autorités (stades 4 surtout) sont
-enfermés ici dans des cellules individuelles, pour
-y attendre la mort (il y en a 1d6 nouveaux chaque
-jour).
-» J3 : la quarantaine est étendue à tout Anthéone.
-Le Moratorium ferme les accès entre les différents
-quartiers. Il est impossible de circuler entre les différents
-quartiers, à moins de s’aventurer dans les
-sous-sols...
+Si les PJ sont enfermés ici, la broche confiée par Malathor pourra leur permettre de se sortir d’un mauvais pas à condition qu’ils parviennent à la montrer à un Chevalier. Ils seront alors immédiatement relâchés, et éventuellement conduits à l’Oratoire pour une entrevue avec le Grand Cardinal Balthus.
+# J1, J2
+Quarantaine limitée. Tous les Gangrêvés identifiés par les autorités (stades 4 surtout) sont enfermés ici dans des cellules individuelles, pour y attendre la mort (il y en a 1d6 nouveaux chaque jour).
+# J3
+La quarantaine est étendue à tout Anthéone. Le Moratorium ferme les accès entre les différents quartiers. Il est impossible de circuler entre les différents quartiers, à moins de s’aventurer dans les sous-sols...
