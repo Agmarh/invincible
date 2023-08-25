@@ -1,11 +1,11 @@
 | Date | Evénement | Terminé |
 | ---------- | --------- | --------- |
-| J1 | [[I2 Katanga, le Maître des encres#J1]] | Non |
-| J1 | [[TN1 Chez Azmän Sagdïn le marchand#J1 et plus]] | Non |
-| J1 | [[HS1 Le Bailli Garibald Bartok#J1]] | Non |
-| J1 - J2 | [[Le Moratorium#J1, J2]] | Non |
-| J1 - J2 | [[MS2 Temples et autres lieux de culte#J1, J2]] | Non |
-| J1 - J2 - J3 | [[I1 Quartier des auberges#J1, J2, J3]] | Non |
+| J1 | [[I2 Katanga, le Maître des encres#J1]] | En cours |
+| J1 | [[TN1 Chez Azmän Sagdïn le marchand#J1 et plus]] | En cours |
+| J1 | [[HS1 Le Bailli Garibald Bartok#J1]] | En cours |
+| J1 - J2 | [[Le Moratorium#J1, J2]] | En cours |
+| J1 - J2 | [[MS2 Temples et autres lieux de culte#J1, J2]] | En cours |
+| J1 - J2 - J3 | [[I1 Quartier des auberges#J1, J2, J3]] | En cours |
 | J2 | [[L'Infer#J2]] | Non |
 | J2 | [[I2 Katanga, le Maître des encres#J2]] | Non |
 | J2 | [[I3 Orphelinat Les Pupilles de Justicaar#J2]] | Non |
