@@ -2,18 +2,10 @@ C’est une autre crypte funéraire des bâtisseurs nains. Le ravageur [[Heketé
 
 Ils forment alors un cercle monstrueux autour de la silhouette enfantine d’Azmaël/[[Bâal]], et conversent tous ensemble dans un langage impie, qui résonne sous la voûte des citernes et glace le sang de ceux qui l’entendent (<font style="color:lightgreen">jet de sauvegarde de Charisme DD 18</style>. 
 - En cas d’échec, le personnage subit un désavantage à tous ses jets de sauvegarde. L’effet dure 1D10 minutes.
-Deux « pages » du livre saint les Tables d’Anthéos ont été
-oubliées là. Ces reliques ont l’apparence de fines plaques
-d’adamantine gravées de signes cabalistiques (du langage
-Céleste). Quelle que soit la protection qui empêchait de
-les lire, les ravageurs l’ont fait disparaître. L’Archonte Anthéos
-y relate les derniers jours de son règne. Il révèle
-qu’un extraordinaire messager céleste (un ange, du type
-« Solar ») lui est apparu pour le mettre en garde contre
-le pouvoir de la Clé des Songes, si elle venait à tomber
-en de mauvaises mains. Cette clé, Chiaroscuro, aurait
-l’aspect d’un tétraèdre, décomposé en quatre fragments
-triangulaires : un triangle de cuivre, un triangle de papier, un triangle de ténèbres, et un autre... (La première
+
+Deux « pages » du livre saint les Tables d’Anthéos ont été oubliées là. Ces reliques ont l’apparence de fines plaques d’adamantine gravées de signes cabalistiques (du langage Céleste). Quelle que soit la protection qui empêchait de les lire, les ravageurs l’ont fait disparaître. 
+
+L’Archonte Anthéos y relate les derniers jours de son règne. Il révèle qu’un extraordinaire messager céleste (un ange, du type « Solar ») lui est apparu pour le mettre en garde contre le pouvoir de la Clé des Songes, si elle venait à tomber en de mauvaises mains. Cette clé, Chiaroscuro, aurait l’aspect d’un tétraèdre, décomposé en quatre fragments triangulaires : un triangle de cuivre, un triangle de papier, un triangle de ténèbres, et un autre... (La première
 tablette s’arrête là).
 La seconde tablette semble avoir été déchirée de rage par
 un ravageur. Elle est maculée de notes sanglantes ajoutées
