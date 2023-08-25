@@ -12,12 +12,12 @@
 | J4 | [[I3 Orphelinat Les Pupilles de Justicaar#J4]] | Non |
 | J4 | [[I4 Forge Au Souffle Draconique#J3]] | Non |
 | J4 | [[I4 Forge Au Souffle Draconique#J4]] | Non |
-| J4 | [[]] | Non |
-| J4 | [[]] | Non |
-| J4 | [[]] | Non |
-| J4 | [[]] | Non |
-| J4 | [[]] | Non |
-| J4 | [[]] | Non |
+| J4 | [[TN1 Chez Azmän Sagdïn le marchand#J1 et plus]] | Non |
+| J4 | [[TN1 Chez Azmän Sagdïn le marchand#J3]] | Non |
+| J4 | [[TN1 Chez Azmän Sagdïn le marchand#J4]] | Non |
+| J4 | [[TN1 Chez Azmän Sagdïn le marchand#J6]] | Non |
+| J4 | [[Le Moratorium#J1, J2]] | Non |
+| J4 | [[Le Moratorium#]] | Non |
 | J4 | [[]] | Non |
 | J4 | [[]] | Non |
 | J4 | [[]] | Non |
