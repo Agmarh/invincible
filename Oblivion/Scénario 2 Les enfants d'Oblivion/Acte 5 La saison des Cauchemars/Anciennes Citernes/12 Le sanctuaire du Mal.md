@@ -1,16 +1,9 @@
 Ancienne chapelle construite par les premiers bâtisseurs nains en l’honneur d’une divinité des eaux depuis longtemps oubliée. Il sert de repère au ravageur qui mène les opérations dans Anthéone : Azmaël/[[Bâal]].
-Bâal est le plus puissant des ravageurs, et le seul à porter
-un nom. L’Écorcheuse a investi beaucoup de ses énergies
-nécromantiques en lui. En effet, lorsqu’il choisira d’effectuer
-sa transformation monstrueuse, il prendra aussitôt
-l’aspect d’un terrible démon ailé à la puissance incommensurable
-!
-Il est actuellement sous son apparence d’enfant, mais sa
-cruauté inhumaine le rend terrifiant. Il a, par exemple, décapité
-cinq fragiles statues de la chapelle, et remplacé leurs
-têtes par celles d’adeptes récalcitrants. Il a ensuite griffonné
-des plans et des notes sur tous les murs du lieu saint avec
-leur sang.
+
+Bâal est le plus puissant des ravageurs, et le seul à porter un nom. L’Écorcheuse a investi beaucoup de ses énergies nécromantiques en lui. En effet, lorsqu’il choisira d’effectuer sa transformation monstrueuse, il prendra aussitôt l’aspect d’un terrible démon ailé à la puissance incommensurable !
+
+Il est actuellement sous son apparence d’enfant, mais sa cruauté inhumaine le rend terrifiant. Il a, par exemple, décapité cinq fragiles statues de la chapelle, et remplacé leurs têtes par celles d’adeptes récalcitrants. Il a ensuite griffonné des plans et des notes sur tous les murs du lieu saint avec leur sang.
+
 La plupart du temps (75 %), Bâal se tient sur un antique
 trône sacramentel, échafaudant ses plans de conquête, tandis qu’une horde de rats grouille à ses pieds, attirée par les
 restes des adeptes décapités. S’il n’est pas là, il est avec le
