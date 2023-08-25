@@ -1,6 +1,5 @@
 ---
 banner: "![[Oblivion 2 bannière.png]]"
-tags: [timeline, acte5]
 ---
 Parcourues d’allées ombragées serpentant entre les parcs de luxueuses propriétés, les Hautes Strates profitent des eaux les plus pures d’Anthéone. Le quartier a jadis été dessiné par le Grand Architecte Hâz Farâzon.
 
