@@ -11,12 +11,12 @@ En réalité la guerrière soong est arrivée ici un peu par hasard, pensant y t
 Par souci commercial, la Matriarche a étouffé l’affaire, puis a rendu le corps à la milice d’Azmän, et fait disparaître le nom de la fille de la liste des employés. Néanmoins, si l’un des PJ fait « l’effort » de s’isoler un moment avec l’une des hôtesses, il pourra obtenir quelques confessions sur cet épisode : 
 - « C’est vrai, il y avait une gardienne qui était un peu bizarre, surtout après sa morsure au cou par un petit animal, mais, de là à agresser la clientèle »
 
-Indépendamment de cette affaire, les PJ auront peut-être l’occasion de découvrir un secret majeur : la Matriarche, quelques filles et plusieurs Matriarche elle-même qui est à la source de cette dissémination, après avoir été blessée par un ravageur, lors de l’attaque initiale de l’Oratoire.
-Obsédée par l’idée d’un scandale, elle est devenue paranoïaque
-et se terre dans le noir, donnant ses ordres derrière
-une porte. Aux PJ de tendre l’oreille et de remarquer
-qu’il règne une fébrilité inaccoutumée...
-Si les PJ avertissent les autorités et font fermer ce deuxième
-point majeur de propagation de la gangrêve, ils
-mettent un sérieux coup d’arrêt à la maladie.
-» Créature : la Matriarche, cf. Oskar Holderhekp. 91.
+Indépendamment de cette affaire, les PJ auront peut-être l’occasion de découvrir un secret majeur : la Matriarche, quelques filles et plusieurs « eunuques » sont contaminés par la gangrêve ! 
+
+C’est la Matriarche elle-même qui est à la source de cette dissémination, après avoir été blessée par un ravageur, lors de l’attaque initiale de l’Oratoire. 
+
+Obsédée par l’idée d’un scandale, elle est devenue paranoïaque et se terre dans le noir, donnant ses ordres derrière une porte. Aux PJ de tendre l’oreille et de remarquer qu’il règne une fébrilité inaccoutumée...
+
+Si les PJ avertissent les autorités et font fermer ce deuxième point majeur de propagation de la gangrêve, ils mettent un sérieux coup d’arrêt à la maladie.
+
+- Créature : la Matriarche, cf. Oskar Holderhekp. 91. 35
