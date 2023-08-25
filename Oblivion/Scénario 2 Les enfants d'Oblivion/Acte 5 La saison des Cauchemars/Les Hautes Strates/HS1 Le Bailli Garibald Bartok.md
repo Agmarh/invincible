@@ -4,18 +4,8 @@ Sous une gouaille et un zèle sans bornes, ce personnage rubicond cache des orig
 # J1
 Bartok, dépassé, s’oppose violemment aux chevaliers du Jugement et refuse de paniquer la population en répandant la nouvelle d’une épidémie.
 # J2
-Refusant de n’être qu’une façade, Bartok s’entête par fierté malgré l’insistance des prêtres des
-Marches Sacrées et des marchands de la Terrasse
-des Mille Négoces. Sa milice, noyautée par des
-membres de l’Ordre, commence à ne plus accepter
-ses ordres irresponsables.
-» J3 : après avoir reçu des menaces de mort « anonymes
-», il décide de se débarrasser du pouvoir,
-remettant aux chevaliers de Justicaar les clefs de la
-ville : la quarantaine est déclarée, la cité entièrement
-confinée et Garibald retrouve le calme de sa piscine
-d’eaux chaudes...
-» J4 : le paisible bailli meurt dans son bain, déchiqueté
-par le ravageur « Chelios » qui rôdait dans le réseau
-de bassins (si le ravageur a été éliminé, c’est un
-jardinier gangrêvé qui s’en charge).
+Refusant de n’être qu’une façade, Bartok s’entête par fierté malgré l’insistance des prêtres des Marches Sacrées et des marchands de la Terrasse des Mille Négoces. Sa milice, noyautée par des membres de l’Ordre, commence à ne plus accepter ses ordres irresponsables.
+# J3
+Après avoir reçu des menaces de mort « anonymes », il décide de se débarrasser du pouvoir, remettant aux chevaliers de Justicaar les clefs de la ville : la quarantaine est déclarée, la cité entièrement confinée et Garibald retrouve le calme de sa piscine d’eaux chaudes...
+# J4
+Le paisible bailli meurt dans son bain, déchiqueté par le ravageur « Chelios » qui rôdait dans le réseau de bassins (si le ravageur a été éliminé, c’est un jardinier gangrêvé qui s’en charge).
