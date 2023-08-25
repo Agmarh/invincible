@@ -20,10 +20,10 @@ Alors qu’Anthéone ravagée par la gangrêve tombe en déliquescence, ou comme
 
 <span 
 	  class='ob-timelines' 
-	  data-date='01-01-06' 
+	  data-date='6' 
 	  data-title='Attaque en Oblivion' 
 	  data-class='orange' 
 	  data-type='range' 
-	  data-end='01-01-06'> 
+	  data-end='6'> 
 Les PJ reçoivent un message de Réghûlus.
 </span>

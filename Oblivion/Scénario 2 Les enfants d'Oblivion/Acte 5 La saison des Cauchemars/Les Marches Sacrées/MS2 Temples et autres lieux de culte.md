@@ -20,19 +20,19 @@ Diverses cérémonies sont ajournées, perturbées par les premières manifestat
 
 <span 
 	  class='ob-timelines' 
-	  data-date='01-01-01' 
+	  data-date='1' 
 	  data-title='Cérémonies annulées' 
 	  data-class='orange' 
 	  data-type='range' 
-	  data-end='01-01-02'> 
+	  data-end='2'> 
 Diverses cérémonies sont ajournées, perturbées par les premières manifestations importantes de la gangrêve.
 </span>
 <span 
 	  class='ob-timelines' 
-	  data-date='01-01-03' 
+	  data-date='3' 
 	  data-title='Fermeture des portes du Moratorium' 
 	  data-class='orange' 
 	  data-type='range' 
-	  data-end='01-01-06'> 
+	  data-end='6'> 
 Le Moratorium ferme ses portes. Mais, l’activité des temples ne cesse pas, offrandes et auto-flagellations se multiplient, pour demander aux dieux de faire cesser le « Mal venu des Rêves ».
 </span>

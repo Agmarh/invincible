@@ -1,49 +1,6 @@
-<!--TIMELINE BEGIN tags='acte5'--><div class="timeline"><div class="timeline-container timeline-left"><h2>01-01-01</h2><div class="timeline-event-list" style="display: block"><div class="timeline-card blue"><article><h3><a class="internal-link" href="/Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Anciennes Citernes/9 La Citerne principale.md">Rituel</a></h3></article><p> 
-Un grand rituel est organisé par Azmän en l’honneur de l’Écorcheuse, sous l’œil cruel de son fils Azmaël/Bâal.
-</p></div><div class="timeline-card orange"><article><h3><a class="internal-link" href="/Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Les Hautes Strates/HS1 Le Bailli Garibald Bartok.md">Bartok</a></h3></article><p> 
-Bartok, dépassé, s’oppose violemment aux chevaliers du Jugement et refuse de paniquer la population en répandant la nouvelle d’une épidémie.
-</p></div><div class="timeline-card orange"><article><h3><a class="internal-link" href="/Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Le Moratorium/Le Moratorium.md">Quarantaine limitée</a></h3></article><p> 
-Tous les Gangrêvés identifiés par les autorités (stades 4 surtout) sont enfermés dans des cellules individuelles, pour y attendre la mort.
-</p></div><div class="timeline-card orange"><article><h3><a class="internal-link" href="/Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Les Marches Sacrées/MS2 Temples et autres lieux de culte.md">Cérémonies annulées</a></h3></article><p> 
-Diverses cérémonies sont ajournées, perturbées par les premières manifestations importantes de la gangrêve.
-</p></div><div class="timeline-card orange"><article><h3><a class="internal-link" href="/Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/L'Infer/I2 Katanga, le Maître des encres.md">Emeute chez Katanga</a></h3></article><p> 
-Une émeute éclate chez le tatoueur que la vindicte populaire rend responsable de la propagation de la maladie
-</p></div><div class="timeline-card orange"><article><h3><a class="internal-link" href="/Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/L'Infer/I1 Quartier des auberges.md">Massacre du quartier des auberges</a></h3></article><p> 
-Le ravageur Selioth commence un massacre dans le quartier des auberges.
-</p></div></div></div><div class="timeline-container timeline-right"><h2 style="text-align: right;">01-01-02</h2><div class="timeline-event-list" style="display: block"><div class="timeline-card orange"><article><h3><a class="internal-link" href="/Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Les Hautes Strates/HS1 Le Bailli Garibald Bartok.md">Révolte de la milice de Bartok</a></h3></article><p> 
-Refusant de n’être qu’une façade, Bartok s’entête par fierté malgré l’insistance des prêtres des Marches Sacrées et des marchands de la Terrasse des Mille Négoces. Sa milice, noyautée par des membres de l’Ordre, commence à ne plus accepter ses ordres irresponsables.
-</p></div><div class="timeline-card orange"><article><h3><a class="internal-link" href="/Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Les Marches Sacrées/MS1 La résidence de Malathor.md">Valkin stade 5</a></h3></article><p> 
-Si les PJ n’ont rien tenté, Valkin passe au stade 5 de la maladie.
-</p></div><div class="timeline-card orange"><article><h3><a class="internal-link" href="/Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/L'Infer/I2 Katanga, le Maître des encres.md">Mort de Katanga</a></h3></article><p> 
-Si personne ne lui a porté secours, l’état de Katanga finit par s’aggraver, et il décède de ses blessures. 
-</p></div><div class="timeline-card orange"><article><h3><a class="internal-link" href="/Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/L'Infer/L'Infer.md">Attaque d'une entrée d'Anthéone</a></h3></article><p> 
-L’une des deux entrées principales de la ville est attaquée par un groupe d’enfants venus de l’orphelinat des Pupilles de Justicaar (des gangrêvés). L’attaque est pilotée à distance par le ravageur Naga.
-</p></div></div></div><div class="timeline-container timeline-left"><h2>01-01-03</h2><div class="timeline-event-list" style="display: block"><div class="timeline-card orange"><article><h3><a class="internal-link" href="/Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Les Hautes Strates/HS1 Le Bailli Garibald Bartok.md">Pouvoir donné aux chevaliers de Justicaar</a></h3></article><p> 
-Après avoir reçu des menaces de mort « anonymes », il décide de se débarrasser du pouvoir, remettant aux chevaliers de Justicaar les clefs de la ville : la quarantaine est déclarée, la cité entièrement confinée et Garibald retrouve le calme de sa piscine d’eaux chaudes...
-</p></div><div class="timeline-card orange"><article><h3><a class="internal-link" href="/Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Le Moratorium/Le Moratorium.md">Quarantaine étendue à tout Anthéone</a></h3></article><p> 
-La quarantaine est étendue à tout Anthéone. Le Moratorium ferme les accès entre les différents quartiers. Il est impossible de circuler entre les différents quartiers, à moins de s’aventurer dans les sous-sols...
-</p></div><div class="timeline-card orange"><article><h3><a class="internal-link" href="/Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Les Marches Sacrées/MS2 Temples et autres lieux de culte.md">Fermeture des portes du Moratorium</a></h3></article><p> 
-Le Moratorium ferme ses portes. Mais, l’activité des temples ne cesse pas, offrandes et auto-flagellations se multiplient, pour demander aux dieux de faire cesser le « Mal venu des Rêves ».
-</p></div><div class="timeline-card orange"><article><h3><a class="internal-link" href="/Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/L'Infer/I4 Forge Au Souffle Draconique.md">Gorm retrouve Azmän</a></h3></article><p> 
-Après la découverte du cadavre de l’enfant portant des aiguilles, Gorm Tête de Fer sent que le vent tourne. Il retrouve Azmän dans un lieu discret de l’Infer, et s’enfonce avec lui dans les souterrains jusqu’au siège de la conjuration.
-</p></div><div class="timeline-card orange"><article><h3><a class="internal-link" href="/Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/L'Infer/I3 Orphelinat Les Pupilles de Justicaar.md">Cadavre d'un pensionnaire de l'orphelinat</a></h3></article><p> 
-On retrouve, non loin de l’orphelinat, le cadavre de l’un des pensionnaires (un récalcitrant, tué pour l’exemple). 
-</p></div></div></div><div class="timeline-container timeline-right"><h2 style="text-align: right;">01-01-04</h2><div class="timeline-event-list" style="display: block"><div class="timeline-card orange"><article><h3><a class="internal-link" href="/Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Anciennes Citernes/10 La Forêt de chaînes et le crucifié.md">Emplacement de Selioth</a></h3></article><p> 
-Si les PJ n’ont pas tué le ravageur Selioth avant, ils le rencontrent ici, dissimulé dans les sommets de la forêt de chaînes.
-</p></div><div class="timeline-card blue"><article><h3><a class="internal-link" href="/Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Anciennes Citernes/9 La Citerne principale.md">Emplacement de Chelios</a></h3></article><p> 
-	Si les PJ n’ont pas tué le ravageur Chelios avant, ils le rencontrent ici, caché dans le bassin.
-</p></div><div class="timeline-card orange"><article><h3><a class="internal-link" href="/Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Les Hautes Strates/HS1 Le Bailli Garibald Bartok.md">Bartok meurt</a></h3></article><p> 
-Le paisible bailli meurt dans son bain, déchiqueté par le ravageur « Chelios » qui rôdait dans le réseau de bassins (si le ravageur a été éliminé, c’est un jardinier gangrêvé qui s’en charge).
-</p></div><div class="timeline-card orange"><article><h3><a class="internal-link" href="/Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Les Marches Sacrées/MS1 La résidence de Malathor.md">Mort de Valkin</a></h3></article><p> 
-Si les PJ n’ont rien tenté, Valkin décède au décours d’une lente et atroce agonie. Malathor s’enfonce alors dans une folie mélancolique, dont rien ne le sortira.
-</p></div><div class="timeline-card orange"><article><h3><a class="internal-link" href="/Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/L'Infer/I4 Forge Au Souffle Draconique.md">Nettoyage de la forge</a></h3></article><p> 
-Gorm et Azmän reviennent pour faire disparaître toutes les pièces à conviction de la forge.
-</p></div><div class="timeline-card orange"><article><h3><a class="internal-link" href="/Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/L'Infer/L'Infer.md">Naga massacre la population de l'Infer</a></h3></article><p> 
-S’il n’a pas été stoppé avant, le ravageur Naga ameute tous les gangrêvés qu’il a contaminé. La nuit venue, il effectue sa transformation monstrueuse et conduit ses « troupes » à travers tout l’Infer pour massacrer la population.
-</p></div></div></div><div class="timeline-container timeline-left"><h2>01-01-05</h2><div class="timeline-event-list" style="display: block"><div class="timeline-card orange"><article><h3><a class="internal-link" href="/Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Anciennes Citernes/11 Le secret des Aiguilles Creuses.md">Aiguilles Creuses</a></h3></article><p> 
-Les aiguilles creuses sont prêtes : 2000 pièces, à emporter dans la ville et les royaumes voisins, afin d’y monter de nouvelles cellules de la secte.
-</p></div></div></div><div class="timeline-container timeline-right"><h2 style="text-align: right;">01-01-06</h2><div class="timeline-event-list" style="display: block"><div class="timeline-card orange"><article><h3><a class="internal-link" href="/Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/4 - La fin des Cauchemars.md">Attaque en Oblivion</a></h3></article><p> 
-Les PJ reçoivent un message de Réghûlus.
-</p></div><div class="timeline-card orange"><article><h3><a class="internal-link" href="/Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Anciennes Citernes/11 Le secret des Aiguilles Creuses.md">Dispersion de la secte</a></h3></article><p> 
-Si la secte n’a pas été arrêtée avant, elle quitte les profondeurs de la Cité Sainte et se disperse dans l’Empire. Le sort de milliers de gens est scellé.
-</p></div></div></div></div><div class="timeline-rendered">Fri Aug 25 2023 16:37:24 GMT+0200 (heure d’été d’Europe centrale)</div><!--TIMELINE END-->
+```timeline-vis
+tags=acte5
+startDate=01-01-01
+endDate=01-01-06
+minDate=
+```
