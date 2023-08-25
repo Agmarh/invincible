@@ -3,5 +3,5 @@ tags=acte5
 startDate=1
 endDate=6
 minDate=0
-maxDate=
+maxDate=6
 ```
