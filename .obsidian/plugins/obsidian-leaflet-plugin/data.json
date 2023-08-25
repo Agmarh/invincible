@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "antheone",
-      "lastAccessed": 1692967775196,
+      "lastAccessed": 1692967873188,
       "markers": [
         {
           "id": "ID_ca1a19eb2a98",
@@ -83,7 +83,7 @@
         },
         {
           "id": "ID_cad85bc8387b",
-          "type": "default",
+          "type": "Autre",
           "loc": [
             -1.013336181640625,
             1.3017578125
@@ -311,7 +311,7 @@
         },
         {
           "id": "ID_186b9b5a0948",
-          "type": "default",
+          "type": "Autre",
           "loc": [
             -1.71484375,
             0.48046875
@@ -416,6 +416,22 @@
       "type": "Autre",
       "iconName": "map-marker",
       "color": "#00ffe1",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "PJ",
+      "iconName": "bolt",
+      "color": "#ff7300",
       "alpha": 1,
       "layer": true,
       "transform": {
