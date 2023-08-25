@@ -20,19 +20,19 @@ Si les PJ n’ont pas tué le ravageur [[Chelios]] avant, ils le rencontrent ici
 
 <span 
 	  class='ob-timelines' 
-	  data-date='01-01-01' 
+	  data-date='1' 
 	  data-title='Rituel' 
 	  data-class='blue' 
 	  data-type='range' 
-	  data-end='01-01-04'> 
+	  data-end='4'> 
 Un grand rituel est organisé par Azmän en l’honneur de l’Écorcheuse, sous l’œil cruel de son fils Azmaël/Bâal.
 </span>
 <span 
 	  class='ob-timelines' 
-	  data-date='01-01-04' 
+	  data-date='4' 
 	  data-title='Emplacement de Chelios' 
 	  data-class='blue' 
 	  data-type='range' 
-	  data-end='01-01-06'> 
+	  data-end='6'> 
 	Si les PJ n’ont pas tué le ravageur Chelios avant, ils le rencontrent ici, caché dans le bassin.
 </span>
