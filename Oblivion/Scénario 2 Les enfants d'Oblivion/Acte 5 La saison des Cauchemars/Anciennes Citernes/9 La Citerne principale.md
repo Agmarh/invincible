@@ -13,12 +13,12 @@ Chaque soir vers minuit, les cérémonies de la secte naissante se tiennent ici,
 # Les événements
 <span 
 	  class='ob-timelines' 
-	  data-date='2000-10-10-00' 
+	  data-date='1' 
 	  data-title='Rituel' 
 	  data-class='orange' 
 	  data-img = 'Timeline Example/Timeline_2.jpg' 
 	  data-type='range' 
-	  data-end='2000-10-10-00'> 
+	  data-end='6'> 
 	[[9 La Citerne principale#J1]]
 </span>
 ## J1
