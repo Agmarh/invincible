@@ -5,5 +5,6 @@ Ces tunnels lépreux ont presque un millier d’années et sont les plus bas sit
 Une bonne partie de ces tunnels furent rebouchés, ou totalement immergés, ceux qui restent font deux mètres de diamètre en moyenne. Sous leur voute, une eau boueuse stagne jusqu’à mi-hauteur 
 - <font style="color:red">Désavantage aux jets d’attaque</style>. 
 
-Des PJ progressant normalement mettront une heure à traverser ce labyrinthe. Toutes les dix minutes, ils ont 10 % de chances de rencontrer 1d4 ruinards. Ces gros vers se cachent sous l’eau en attendant leur proie (<font style="cotest de Perception DD 20 pour les repérer).
-» Créature : ruinard, cf.p. 96.
+Des PJ progressant normalement mettront une heure à traverser ce labyrinthe. Toutes les dix minutes, ils ont 10 % de chances de rencontrer 1d4 ruinards. Ces gros vers se cachent sous l’eau en attendant leur proie (<font style="color:lightgreen">test de Perception DD 20 pour les repérer</style>).
+
+- Créature : [[Ruinard]].
