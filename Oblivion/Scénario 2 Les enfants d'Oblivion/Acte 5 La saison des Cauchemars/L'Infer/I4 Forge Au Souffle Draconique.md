@@ -28,10 +28,10 @@ Après la découverte du cadavre de l’enfant portant des aiguilles, Gorm Tête
 </span>
 <span 
 	  class='ob-timelines' 
-	  data-date='4' 
+	  data-date='01-01-04' 
 	  data-title='Nettoyage de la forge' 
 	  data-class='orange' 
 	  data-type='range' 
-	  data-end='4'> 
+	  data-end='01-01-04'> 
 Gorm et Azmän reviennent pour faire disparaître toutes les pièces à conviction de la forge.
 </span>
