@@ -28,21 +28,9 @@ Il existe cependant trois principaux moyens d’entrer dans la citadelle :
 - Si les PJ, au cours du scénario précédent, ont tout raconté de leurs aventures à Malathor, celui-ci a automatiquement averti sa hiérarchie. Le Grand cardinal Balthus a alors une idée du danger que représente Oblivion, et il voudra interroger les PJ s’il apprend qu’ils sont à leur porte
 - Se présenter comme les hauts représentants d’un ordre religieux (PJ prêtres) ou de chevalerie (PJ guerriers), et de demander une audience officielle : 1 à 3 jours d’attente, suivant la façon dont les PJ présentent leur requête
 - Présenter la broche de Malathor à un chevalier du Jugement. Balthus comprend alors que quelque chose ne va pas et reçoit les PJ.
-Une fois à l’intérieur, il n’est pas difficile de conduire une
-enquête discrète, et d’apprendre le vol des Tables d’Anthéos
-(révélez alors les détails du vol et la transformation des
-ravageurs). Cependant, un mystère semble entourer ces
-Tables, tout comme leur créateur. En effet, alors que le
-fameux archonte Anthéos les aurait écrites au terme de
-sa vie, personne ne semble savoir ce qu’elles contiennent
-exactement. Anthéos aurait d’ailleurs disparu peu après,
-pour un ultime pèlerinage, et là non plus, personne ne sait
-comment il a fini sa vie...
-Dans tous les cas, les aventuriers devront se montrer
-prudents, s’ils mentionnent directement le massacre des
-ravageurs à l’Oratoire... alors que l’Ordre a soigneusement
-étouffé l’affaire, les choses risquent de mal tourner !
-Tout dépend des relations qu’ils ont tissé avec Balthus. Au
-mieux, ils subissent un long interrogatoire et ressortent
-sous surveillance, s’ils ont prouvé qu’ils ne sont pas des
-criminels. Au pire, ils terminent dans le Moratorium...
+
+Une fois à l’intérieur, il n’est pas difficile de conduire une enquête discrète, et d’apprendre le vol des Tables d’Anthéos (révélez alors les détails du vol et la transformation des ravageurs). 
+
+Cependant, un mystère semble entourer ces Tables, tout comme leur créateur. En effet, alors que le fameux archonte Anthéos les aurait écrites au terme de sa vie, personne ne semble savoir ce qu’elles contiennent exactement. Anthéos aurait d’ailleurs disparu peu après, pour un ultime pèlerinage, et là non plus, personne ne sait comment il a fini sa vie...
+
+Dans tous les cas, les aventuriers devront se montrer prudents, s’ils mentionnent directement le massacre des ravageurs à l’Oratoire... alors que l’Ordre a soigneusement étouffé l’affaire, les choses risquent de mal tourner ! Tout dépend des relations qu’ils ont tissé avec Balthus. Au mieux, ils subissent un long interrogatoire et ressortent sous surveillance, s’ils ont prouvé qu’ils ne sont pas des criminels. Au pire, ils terminent dans le Moratorium...
