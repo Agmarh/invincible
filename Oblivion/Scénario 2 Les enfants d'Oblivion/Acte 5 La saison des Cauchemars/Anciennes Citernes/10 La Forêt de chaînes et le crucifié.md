@@ -17,7 +17,7 @@ Si les PJ n’ont pas tué le ravageur [[Selioth]] avant, ils le rencontrent ici
 <span 
 	  class='ob-timelines' 
 	  data-date='4' 
-	  data-title='Rituel' 
+	  data-title='Emplacement de Selioth' 
 	  data-class='orange' 
 	  data-type='range' 
 	  data-end='6'> 

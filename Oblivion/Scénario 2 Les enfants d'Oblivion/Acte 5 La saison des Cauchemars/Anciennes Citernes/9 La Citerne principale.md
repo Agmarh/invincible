@@ -30,7 +30,7 @@ Un grand rituel est organisé par Azmän en l’honneur de l’Écorcheuse, sous
 <span 
 	  class='ob-timelines' 
 	  data-date='4' 
-	  data-title='Rituel' 
+	  data-title='Emplacement de Chelios' 
 	  data-class='orange' 
 	  data-type='range' 
 	  data-end='6'> 
