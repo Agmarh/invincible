@@ -25,4 +25,4 @@
 | J4 | [[L'Infer#J4]] | Non |
 | J4 | [[I1 Quartier des auberges#J4 et plus]] | Non |
 | J4 | [[I3 Orphelinat Les Pupilles de Justicaar#J4]] | Non |
-| J6 | [[TN1 Chez Azmän Sagdïn le marchand#J6]] | Non |
+| J6 | [[TN1 Chez Azmän Sagdïn le marchand#J6]] | <input type="checkbox"> | 
