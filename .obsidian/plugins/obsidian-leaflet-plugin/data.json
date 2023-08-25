@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "antheone",
-      "lastAccessed": 1692967456365,
+      "lastAccessed": 1692967507096,
       "markers": [
         {
           "id": "ID_ca1a19eb2a98",
@@ -209,6 +209,119 @@
           "percent": [
             0.3660287081339713,
             0.5539877300613497
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fa08391aaa19",
+          "type": "default",
+          "loc": [
+            -2.419921875,
+            0.654296875
+          ],
+          "link": "I1 Quartier des auberges",
+          "layer": "%5B%5BAnth%C3%A9one.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.2671451355661882,
+            0.7601226993865031
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_eb58cac8da39",
+          "type": "default",
+          "loc": [
+            -2.658203125,
+            0.720703125
+          ],
+          "link": "I2 Katanga, le Maître des encres",
+          "layer": "%5B%5BAnth%C3%A9one.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.2942583732057416,
+            0.8349693251533742
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ea18b9384a08",
+          "type": "default",
+          "loc": [
+            -2.700836181640625,
+            1.2646484375
+          ],
+          "link": "L'Infer",
+          "layer": "%5B%5BAnth%C3%A9one.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e97b28bb7949",
+          "type": "default",
+          "loc": [
+            -2.948883056640625,
+            0.7958984375
+          ],
+          "link": "I3 Orphelinat Les Pupilles de Justicaar",
+          "layer": "%5B%5BAnth%C3%A9one.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_8a0bcb0a3bd8",
+          "type": "default",
+          "loc": [
+            -2.41015625,
+            2.013671875
+          ],
+          "link": "I4 Forge Au Souffle Draconique",
+          "layer": "%5B%5BAnth%C3%A9one.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.8221690590111643,
+            0.7570552147239263
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_186b9b5a0948",
+          "type": "default",
+          "loc": [
+            -1.71484375,
+            0.48046875
+          ],
+          "layer": "%5B%5BAnth%C3%A9one.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.19617224880382775,
+            0.5386503067484663
           ],
           "description": null,
           "minZoom": null,
