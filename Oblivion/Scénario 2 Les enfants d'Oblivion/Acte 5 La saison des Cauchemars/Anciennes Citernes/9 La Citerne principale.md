@@ -11,6 +11,16 @@ Quinze mètres plus haut, le plafond de mosaïque s’entrouvre, en des milliers
 
 Chaque soir vers minuit, les cérémonies de la secte naissante se tiennent ici, pendant deux heures. Elles réunissent l’ensemble des personnes en [[I5 Les entrailles d'Anthéone]], [[6 Anciennes catacombes]] et [[11 Le secret des Aiguilles Creuses]].
 # Les événements
+<span 
+	  class='ob-timelines' 
+	  data-date='J1' 
+	  data-title='Another Event' 
+	  data-class='orange' 
+	  data-img = 'Timeline Example/Timeline_2.jpg' 
+	  data-type='range' 
+	  data-end='2000-10-20-00'> 
+	A second event!
+</span>
 ## J1
 Un grand rituel est organisé par Azmän en l’honneur de l’Écorcheuse, sous l’œil cruel de son fils Azmaël/[[Bâal]]. 
 
