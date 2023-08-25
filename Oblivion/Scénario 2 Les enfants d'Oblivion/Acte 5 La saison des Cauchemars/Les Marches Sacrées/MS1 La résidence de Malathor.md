@@ -13,7 +13,7 @@ D’ailleurs, il a parfaitement vu la créature enduire ses griffes de son propr
 
 Si les P] lui demandent expressément de l’aide, il leur fournira une broche vermeille représentant le symbole de l’ordre qui leur permettra d’obtenir une oreille attentive auprès d’un vieil ami, le Grand Cardinal Balthus, et ceci quelles que soient les circonstances (même emprisonnés dans le Moratorium).
 # Les événements
-# J2
+## J2
 Si les PJ n’ont rien tenté, Valkin passe au stade 5 de la maladie.
-# J4
+## J4
 Si les PJ n’ont rien tenté, Valkin décède au décours d’une lente et atroce agonie. Malathor s’enfonce alors dans une folie mélancolique, dont rien ne le sortira (jusqu’à l’acte VII).
