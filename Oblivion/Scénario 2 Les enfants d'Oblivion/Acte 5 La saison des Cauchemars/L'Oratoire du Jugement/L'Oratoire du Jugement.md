@@ -9,17 +9,11 @@ Close par les parois déchiquetées et mangées de verdure de l’ancien cratèr
 
 Cette fresque rappelle à chacun le triomphe de la Loi sur le Chaos, et comment le petit culte rural de Justicaar devint une puissante église, mille ans après l’exploit d’Anthéos (cf. « [[Les cantiques de Justicaar]]).
 
-Au-dessus du bâtiment du grand hall s’élève la tour de l’Oratoire, qui comporte essentiellement une vaste bibliothèque spirituelle et les appartements des prêtres (c’est
-ici que travaillait la femme d’Azmän Sagdïn en tant que
-conservatrice. Elle avait notamment la garde des Tables
-d’Anthéos, lesquelles parlaient d’une mystérieuse relique
-divine nommée Chiaroscuro. Lorsqu’elle fut enlevée par
-l’Écorcheuse, la femme d’Azmän a tout révélé, conduisant
-ainsi à l’attaque des ravageurs).
-Les autres bâtiments, à demi enterrés, abritent les
-quartiers des chevaliers du Jugement, des chapelles, et
-d’étranges laboratoires où l’on teste les forces telluriques
-du volcan d’Anthéone.
+Au-dessus du bâtiment du grand hall s’élève la tour de l’Oratoire, qui comporte essentiellement une vaste bibliothèque spirituelle et les appartements des prêtres 
+- C’est ici que travaillait la femme d’Azmän Sagdïn en tant que conservatrice. Elle avait notamment la garde des Tables d’Anthéos, lesquelles parlaient d’une mystérieuse relique divine nommée Chiaroscuro. 
+- Lorsqu’elle fut enlevée par l’Écorcheuse, la femme d’Azmän a tout révélé, conduisant ainsi à l’attaque des ravageurs.
+
+Les autres bâtiments, à demi enterrés, abritent les quartiers des chevaliers du Jugement, des chapelles, et d’étranges laboratoires où l’on teste les forces telluriques du volcan d’Anthéone.
 # Les événements
 L’archonte actuel est absent depuis plusieurs semaines.
 On raconte parmi les prêtres qu’il s’est retiré dans sa citadelle
