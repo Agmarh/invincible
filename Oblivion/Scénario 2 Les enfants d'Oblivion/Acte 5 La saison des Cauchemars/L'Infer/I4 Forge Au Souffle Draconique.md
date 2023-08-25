@@ -29,7 +29,7 @@ Après la découverte du cadavre de l’enfant portant des aiguilles, Gorm Tête
 <span 
 	  class='ob-timelines' 
 	  data-date='4' 
-	  data-title='Nettoyage de la forme' 
+	  data-title='Nettoyage de la forge' 
 	  data-class='orange' 
 	  data-type='range' 
 	  data-end='4'> 

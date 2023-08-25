@@ -30,3 +30,40 @@ Il récupère [[Gorm Tête de Fer]], et l’initie au culte de l’Écorcheuse. 
 Il fait l’aller-retour à la forge de Gorm, avec lui.
 ## J6
 Il se disperse loin d’Anthéone, avec tous ses adeptes, pour répandre la gangrêve.
+
+<span 
+	  class='ob-timelines' 
+	  data-date='1' 
+	  data-title='Nettoyage de la forge' 
+	  data-class='orange' 
+	  data-type='range' 
+	  data-end='4'> 
+Gorm et Azmän reviennent pour faire disparaître toutes les pièces à conviction de la forge.
+</span>
+<span 
+	  class='ob-timelines' 
+	  data-date='4' 
+	  data-title='Nettoyage de la forge' 
+	  data-class='orange' 
+	  data-type='range' 
+	  data-end='4'> 
+Gorm et Azmän reviennent pour faire disparaître toutes les pièces à conviction de la forge.
+</span>
+<span 
+	  class='ob-timelines' 
+	  data-date='4' 
+	  data-title='Nettoyage de la forge' 
+	  data-class='orange' 
+	  data-type='range' 
+	  data-end='4'> 
+Gorm et Azmän reviennent pour faire disparaître toutes les pièces à conviction de la forge.
+</span>
+<span 
+	  class='ob-timelines' 
+	  data-date='4' 
+	  data-title='Nettoyage de la forge' 
+	  data-class='orange' 
+	  data-type='range' 
+	  data-end='4'> 
+Gorm et Azmän reviennent pour faire disparaître toutes les pièces à conviction de la forge.
+</span>

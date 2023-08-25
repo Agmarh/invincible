@@ -53,5 +53,5 @@ Les portes du Moratorium sont closes et une quarantaine est mise en place.
 	  data-class='orange' 
 	  data-type='range' 
 	  data-end='4'> 
-S’il n’a pas été stoppé avant, le ravageur Naga ameute tous les gangrêvés qu’il a contaminé (3d6 Pupilles de Justicaar, et 3d6 humanoïdes variés, aux stades 4 et 5 de la gangrêve). La nuit venue, il effectue sa transformation monstrueuse et conduit ses « troupes » à travers tout l’Infer pour massacrer la population.
+S’il n’a pas été stoppé avant, le ravageur Naga ameute tous les gangrêvés qu’il a contaminé. La nuit venue, il effectue sa transformation monstrueuse et conduit ses « troupes » à travers tout l’Infer pour massacrer la population.
 </span>
