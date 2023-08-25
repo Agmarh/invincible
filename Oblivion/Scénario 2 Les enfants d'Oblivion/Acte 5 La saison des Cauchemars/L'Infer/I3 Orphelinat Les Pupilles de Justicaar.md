@@ -29,15 +29,6 @@ Le ravageur [[Naga]] entraîne tous ses disciples dans un massacre aveugle (voir
 
 <span 
 	  class='ob-timelines' 
-	  data-date='2' 
-	  data-title="Attaque d'une entrée d'Anthéone" 
-	  data-class='orange' 
-	  data-type='range' 
-	  data-end='2'> 
-Attaque d’une entrée principale d’Anthéone par un puissant groupe d’orphelins.
-</span>
-<span 
-	  class='ob-timelines' 
 	  data-date='3' 
 	  data-title="Cadavre d'un pensionnaire de l'orphelinat" 
 	  data-class='orange' 

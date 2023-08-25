@@ -31,11 +31,11 @@ Alors que les incidents se multiplient dans Anthéone (hallucinations produites 
 <span 
 	  class='ob-timelines' 
 	  data-date='2' 
-	  data-title="Attaque d'une entrée principale de la ville" 
+	  data-title="Attaque d'une entrée d'Anthéone" 
 	  data-class='orange' 
 	  data-type='range' 
 	  data-end='2'> 
-Gorm et Azmän reviennent pour faire disparaître toutes les pièces à conviction de la forge.
+L’une des deux entrées principales de la ville est attaquée par un groupe d’enfants venus de l’orphelinat des Pupilles de Justicaar (des gangrêvés). L’attaque est pilotée à distance par le ravageur [[Naga]] : c’est un test avant J4.
 </span>
 <span 
 	  class='ob-timelines' 
