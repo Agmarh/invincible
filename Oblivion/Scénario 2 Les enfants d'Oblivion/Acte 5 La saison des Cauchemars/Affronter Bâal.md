@@ -9,5 +9,5 @@ En pratique, donnez aux aventuriers 2 rounds de répit à partir du moment où l
 La fuite est alors probablement la seule option des PJ, en profitant du fait que Bâal ne puisse pas s’aventurer bien loin dans les tunnels d’Anthéone, étant donné sa nouvelle taille et l’encombrement de ses ailes monstrueuses.
 
 De son côté, le ravageur préférera plutôt infliger d’horribles blessures et laisser fuir une partie de ses assaillants : quelques témoins mutilés constituent un excellent moyen de faire connaître toute la démesure de son pouvoir, et celui de l’Écorcheuse.
-
-Si Bâal est tué une immense surprise se peint un instant sur son visage, puis son corps s’embrase de flammes noires, et tombe en cendre. Peu après, une sensation terrifiante envahi l’esprit de ses meurtriers : une puissante vague de haine les submerge, tandis qu’ils perçoivent l’écho de chocs sourds, comme si l’âme d’une divinité en colère voulait déchirer les murs de la réalité pour venir les écorcher. Puis la sensation cesse. Mais l’Incarnin du Mal est loin d’avoir dit son dernier mot...
+# Mort de Bâal
+Si Bâal est tué une immense surprise se peint un instant sur son visage, puis son corps s’embrase de flammes noires, et tombe en cendre. Peu après, une sensation terrifiante envahi l’esprit de ses meurtriers : une puissante vague de haine les submerge, tandis qu’ils perçoivent l’écho de chocs sourds, comme si l’âme d’une divinité en colère voulait déchirer les murs de la réalité pour venir les écorcher. Puis la sensation cesse.
