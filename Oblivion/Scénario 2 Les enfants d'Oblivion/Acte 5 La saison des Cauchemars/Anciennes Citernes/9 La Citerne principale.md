@@ -6,14 +6,8 @@ Quinze mètres plus haut, le plafond de mosaïque s’entrouvre, en des milliers
 - Le coffret contient une baguette de [[Sommeil]] (au 6e niveau, 10 charges).
 
 Chaque soir vers minuit, les cérémonies de la secte naissante se tiennent ici, pendant deux heures. Elles réunissent l’ensemble des personnes en 5, 6 et 11.
-
-# J1un grand rituel est organisé par Azmän en
-l’honneur de l’Écorcheuse, sous l’oeil cruel de son
-fils Azmaël/Bâal. Trois des filles de l’oubliette « 8 A »
-sont emmenées et sacrifiées. Puis les cinq enfants
-de l’oubliette « 8B » sont endormis (avec la baguette
-de sommeil) et rapatriés en Oblivion par Transmigration.
-L’Écorcheuse en profite pour récupérer les
-Tables d’Anthéos.
-» J4 et plus : si les PJ n’ont pas tué le ravageur Chelios
-avant, ils le rencontrent ici, caché dans le bassin.
+# J1
+Un grand rituel est organisé par Azmän en l’honneur de l’Écorcheuse, sous l’œil cruel de son fils Azmaël/[[Bâal]]. 
+Trois des filles de l’oubliette « 8 A » sont emmenées et sacrifiées. Puis les cinq enfants de l’oubliette « 8B » sont endormis (avec la baguette de sommeil) et rapatriés en Oblivion par Transmigration. L’Écorcheuse en profite pour récupérer les Tables d’Anthéos.
+# J4 et plus 
+Si les PJ n’ont pas tué le ravageur Chelios avant, ils le rencontrent ici, caché dans le bassin.
