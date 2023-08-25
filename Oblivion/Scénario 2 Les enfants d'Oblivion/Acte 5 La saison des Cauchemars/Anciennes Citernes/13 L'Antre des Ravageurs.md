@@ -13,7 +13,4 @@ La seconde tablette semble avoir été déchirée de rage par un ravageur. Elle 
 
 L’explication est simple : le reste des tablettes révélait que les quatre Incarnins d’Oblivion forment chacun un aspect de l’antique Dieu-Céphale. Si Chiaroscuro est reconstituée et confiée à un Incarnin, elle provoquera automatiquement sa « fusion » avec les trois autres, ressuscitant ainsi le Dieu d’Oblivion... en faisant disparaître l’Écorcheuse et tous ses espoirs de conquête.
 
-Les Tablettes, transmigrées à la hâte (à J1, cf. salle 9, cet
-événement arrivant quelle que soit l’évolution de l’aventure),
-vont provoquer un changement radical dans la
-tactique de l’Écorcheuse.
+Les Tablettes, transmigrées à la hâte (à J1, cf. salle 9, cet événement arrivant quelle que soit l’évolution de l’aventure), vont provoquer un changement radical dans la tactique de l’Écorcheuse.
