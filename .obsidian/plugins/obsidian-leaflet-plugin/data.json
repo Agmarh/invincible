@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "antheone",
-      "lastAccessed": 1692967753429,
+      "lastAccessed": 1692967775196,
       "markers": [
         {
           "id": "ID_ca1a19eb2a98",
@@ -400,6 +400,22 @@
       "type": "Terrasses",
       "iconName": "map-marker",
       "color": "#fff700",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Autre",
+      "iconName": "map-marker",
+      "color": "#00ffe1",
       "alpha": 1,
       "layer": true,
       "transform": {
