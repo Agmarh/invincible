@@ -4,15 +4,12 @@ Bâal est le plus puissant des ravageurs, et le seul à porter un nom. L’Écor
 
 Il est actuellement sous son apparence d’enfant, mais sa cruauté inhumaine le rend terrifiant. Il a, par exemple, décapité cinq fragiles statues de la chapelle, et remplacé leurs têtes par celles d’adeptes récalcitrants. Il a ensuite griffonné des plans et des notes sur tous les murs du lieu saint avec leur sang.
 
-La plupart du temps (75 %), Bâal se tient sur un antique
-trône sacramentel, échafaudant ses plans de conquête, tandis qu’une horde de rats grouille à ses pieds, attirée par les
-restes des adeptes décapités. S’il n’est pas là, il est avec le
-ravageur Heketé.
-Les PJ peuvent déchiffrer les sanglantes notes cabalistiques
-sur les murs grâce à un sort de lecture de la magie
-(ce langage est en effet « magique », tout comme l’esprit du
-ravageur). Ils apprendront ainsi en détail le plan d’attaque
-d’Anthéone décrit dans « Terreur sur la Cité Sainte » (p. 24).
+La plupart du temps (75 %), Bâal se tient sur un antique trône sacramentel, échafaudant ses plans de conquête, tandis qu’une horde de rats grouille à ses pieds, attirée par les restes des adeptes décapités. S’il n’est pas là, il est avec le ravageur [[Heketé]].
+
+Les PJ peuvent déchiffrer les sanglantes notes cabalistiques sur les murs grâce à un sort de lecture de la magie (ce langage est en effet « magique », tout comme l’esprit du ravageur). 
+
+Ils apprendront ainsi en détail le plan d’attaque d’Anthéone décrit dans « Terreur sur la Cité Sainte » (p. 24).
+
 Mais surtout, l’objectif principal de l’Écorcheuse est
 clairement exposé : elle a attaqué le temple de Justicaar
 parce qu’elle savait que des documents précieux sur
