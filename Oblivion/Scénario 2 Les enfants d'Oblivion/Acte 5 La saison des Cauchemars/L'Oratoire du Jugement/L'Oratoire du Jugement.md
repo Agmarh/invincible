@@ -2,7 +2,7 @@
 Close par les parois déchiquetées et mangées de verdure de l’ancien cratère, la citadelle de l’Ordre de Justicaar est ceinte par une formidable muraille de granit sombre. Son accès est limité par une étrange porte sphérique de six mètres de diamètre, représentant le symbole de l’Ordre : un cercle entourant une croix gigantesque. 
 
 - Cette porte sert de « filtre », tous ceux qui la traversent subissent le sort détection du Mal. Si la détection est positive et détecte une aberration, un fiélon ou un mort-vivant, la croix, taillée comme une lame, se met à tourner et tranche l’hérétique 
-	- Jet de sauvegarde de <style font=green>Dextérité DD 18</style>. 15d8 dégâts moitié des dégâts en cas de réussite au jet) ! 
+	- Jet de sauvegarde de <font style="color:lightgreen">Dextérité DD 18</style>. <font style="color:red">15d8 dégâts</style> moitié des dégâts en cas de réussite au jet) ! 
 	- Ceux qui ne sont ni des aberrations, des fiélons ou des morts-vivants (ou dont la nature est indétectable, comme les ravageurs), n’ont rien à craindre. 
 
 À l’intérieur, le grand hall d’audience de l’Oratoire est un spectacle à lui seul, conçu pour impressionner le visiteur, et raffermir le croyant. On peut en effet y contempler
