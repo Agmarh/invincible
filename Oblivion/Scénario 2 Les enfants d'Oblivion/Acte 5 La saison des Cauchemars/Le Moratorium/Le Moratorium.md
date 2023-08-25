@@ -9,15 +9,9 @@ Le Moratorium est aussi une prison redoutable, dont l’épaisseur des murs (10 
 
 Si les PJ ont le malheur d’y être emprisonnés, ils seront soumis aux interrogatoires légaux (toutes les 24 h), mais aussi à la merci des nombreux gardes loués par Azmän.
 
-En effet, la maintenance d’un tel bâtiment dépasse les capacités de l’Ordre. Les chevaliers en assurent la sécurité extérieure (rondes par groupe de deux sur les remparts
-toutes les heures, et présence constante à chaque porte
-d’un chevalier), ils ne font toutefois que superviser la sécurité
-intérieure (1 chevalier par quartier de 10 cellules,
-50 chevaliers en tout). Ils recrutent donc les gardiens auprès
-des milices d’autres cultes, où dans les compagnies
-privées, comme celle d’Azmän.
-» Créatures : chevalier du Jugement, cf.p. 95 ; milicien
-du bailli, cf.p. 89 ; gardien bourreau, cf.p. 95 ;
+En effet, la maintenance d’un tel bâtiment dépasse les capacités de l’Ordre. Les chevaliers en assurent la sécurité extérieure (rondes par groupe de deux sur les remparts toutes les heures, et présence constante à chaque porte d’un chevalier), ils ne font toutefois que superviser la sécurité intérieure (1 chevalier par quartier de 10 cellules, 50 chevaliers en tout). Ils recrutent donc les gardiens auprès des milices d’autres cultes, où dans les compagnies privées, comme celle d’Azmän.
+
+- Créatures : [[Chevalier du Jugement]], [[Milicien]] du bailli,  gardien bourreau, cf.p. 95 ;
 gardien d’Azmän, cf.p. 93.
 # Les événements
 Si les PJ sont enfermés ici, la broche confiée par Malathor
