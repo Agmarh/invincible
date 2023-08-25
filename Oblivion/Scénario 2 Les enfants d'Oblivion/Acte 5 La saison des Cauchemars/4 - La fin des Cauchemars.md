@@ -1,10 +1,11 @@
-Succès possibles :
+# Succès possibles
 - S’ils ont interrompu les sources de contaminations majeures que sont les Saintes Concubines et l’Orphelinat, ils sécurisent considérablement Anthéone, qui sera reprise en main par l’Ordre de Justicaar.
 
 - Si les PJ tuent Azmän Sagdïn et détruisent les aiguilles creuses, ils mettent un sérieux coup d’arrêt à la gangrêve. Ce geste sauve la vie de centaines de personnes dans les royaumes voisins.
 
 - Tuer les Ravageurs
 
+# J6
 Quelles que soient les actions entreprises et les succès obtenus, à l’aube du sixième jour de l’arrivée des PJ à Anthéone, le Miroir d’Audience de Grisou le méphite s’active à nouveau. Le visage de Réghûlus y apparaît. Il semble épuisé et, pour la première fois depuis que les PJ l’ont rencontré, inquiet. 
 
 Soufflant comme un orgue de cuivre, il annonce 

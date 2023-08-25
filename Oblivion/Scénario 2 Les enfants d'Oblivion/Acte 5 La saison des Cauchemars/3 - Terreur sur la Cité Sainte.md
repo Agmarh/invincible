@@ -14,8 +14,8 @@ Répartition des ravageur :
 	- Chelos se situe dans le réseau aquatique qui relie les piscines des Hautes Strates et tue ses occupants de temps à autre
 	- Heketée s'est réfugié dans les sous-sols d'Anthéone pour décrypter les tables d'Anthéos
 
-- Selioth et Naga sont restés dans le labyrinthe des souterrains afin d'élaborer des tactiques efficaces de diffusion de la gangrêve.
+- [[Selioth]] et [[Naga]] sont restés dans le labyrinthe des souterrains afin d'élaborer des tactiques efficaces de diffusion de la gangrêve.
 	- Naga a fait fabriquer des aiguilles creuses par un forgeron pour inoculer la gangrêve au plus grand nombre
 
-- Le dernier, Bâal, coordonne les actions des autres depuis les profondeurs de son repaire. Il ne sort que rarement, se fondant dans la masse des enfants de rues, pour résoudre un problème ponctuel en surface.
+- Le dernier, [[Bâal]], coordonne les actions des autres depuis les profondeurs de son repaire. Il ne sort que rarement, se fondant dans la masse des enfants de rues, pour résoudre un problème ponctuel en surface.
 	- A l'aide de son "père adoptif", il monte la secte des Aiguilles Creuses auront pour mission de propager la gangrêve grâce aux aiguilles.

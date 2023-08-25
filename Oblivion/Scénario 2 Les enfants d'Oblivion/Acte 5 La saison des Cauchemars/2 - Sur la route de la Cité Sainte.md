@@ -24,7 +24,7 @@ Soudain, alors qu’ils amorcent leur descente, la puissante stature d’un drag
 
 Ainsi, pendant quelques instants, les PJ ont tout loisir de détailler la formidable créature et son étrange cavalier : ce dernier appartient, en effet, à la caste des Enfermés, un corps d’élite parmi les chevaliers du culte de Justicaar ayant fait voeu d’enfermement permanent dans leur armure. Celle-ci, pratiquement hermétique, est bardée d’ingénieux mécanismes et autres astuces magiques assurant à son hôte une vie autonome...
 
-« *Par le Fer et la Foi, je vous ordonne de vous arrêter ! Qu’Azel-Liark me maudisse si vous ne vous posez pas immédiatement...* », tonne l’Enfermé d’une voix caverneuse.
+> « *Par le Fer et la Foi, je vous ordonne de vous arrêter ! Qu’Azel-Liark me maudisse si vous ne vous posez pas immédiatement...* », tonne l’Enfermé d’une voix caverneuse.
 
 Puis le chevalier-dragon commence à questionner les PJ sur les motifs de leur voyage et leur ordonne de se poser en marge de l’Infer, le survol de la cité étant formellement interdit. Si les PJ refusent d’obtempérer, il appelle en renfort les deux autres chevaliers, qui surgissent en quelques minutes, bien décidés à faire respecter la loi...
 
