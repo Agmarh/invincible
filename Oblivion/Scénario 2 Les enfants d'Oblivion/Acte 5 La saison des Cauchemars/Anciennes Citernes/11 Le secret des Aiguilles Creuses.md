@@ -3,6 +3,8 @@ Cette salle de stockage contient des douzaines d’amphores antiques. Elle sert 
 Ils remplissent des centaines d’aiguilles creuses avec le sang de l’homme crucifié en 10, et dissimulent ces aiguilles dans toutes sortes d’articles récupérés dans Anthéone.
 
 Ces produits seront ensuite dispersés dans la ville et les royaumes voisins, provoquant autant de piqûres afin de propager la gangrêve rapidement ! Les orphelins et les hommes d’Azmän ne quittent jamais cet endroit.
+
+
 # J5 
 Les aiguilles creuses sont prêtes : 2000 pièces, à emporter dans la ville et les royaumes voisins, afin d’y monter de nouvelles cellules de la secte.
 # J6
