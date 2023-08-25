@@ -26,3 +26,33 @@ Attaque d’une entrée principale d’Anthéone par un puissant groupe d’orph
 On retrouve, non loin de l’orphelinat, le cadavre de l’un des pensionnaires (un récalcitrant, tué pour l’exemple). Si les PJ enquêtent sur l’affaire, ils découvrent à la morgue, parmi ses effets personnels, une bourse contenant deux ou trois petites aiguilles creuses, dont l’analyse du contenu révèle des liquides contaminés. Une enquête bien menée permet de remonter ensuite à la forge de Gorm, et à Gorm lui-même.
 # J4
 Le ravageur [[Naga]] entraîne tous ses disciples dans un massacre aveugle (voir [[L'Infer#J4]]).
+
+<span 
+	  class='ob-timelines' 
+	  data-date='2' 
+	  data-title='Mort de Katanga' 
+	  data-class='orange' 
+	  data-type='range' 
+	  data-end='2'> 
+Si personne ne lui a porté secours, l’état de Katanga finit par s’aggraver, et il décède de ses blessures. 
+</span>
+
+<span 
+	  class='ob-timelines' 
+	  data-date='2' 
+	  data-title='Mort de Katanga' 
+	  data-class='orange' 
+	  data-type='range' 
+	  data-end='2'> 
+Si personne ne lui a porté secours, l’état de Katanga finit par s’aggraver, et il décède de ses blessures. 
+</span>
+
+<span 
+	  class='ob-timelines' 
+	  data-date='2' 
+	  data-title='Mort de Katanga' 
+	  data-class='orange' 
+	  data-type='range' 
+	  data-end='2'> 
+Si personne ne lui a porté secours, l’état de Katanga finit par s’aggraver, et il décède de ses blessures. 
+</span>
