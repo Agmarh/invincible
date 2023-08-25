@@ -33,15 +33,6 @@ Il se disperse loin d’Anthéone, avec tous ses adeptes, pour répandre la gang
 
 <span 
 	  class='ob-timelines' 
-	  data-date='1' 
-	  data-title='Rituel de la secte' 
-	  data-class='orange' 
-	  data-type='range' 
-	  data-end='6'> 
-Azmän orchestre une noire célébration dans les souterrains tous les soirs vers minuit (il est souvent sur place entre 20h et 4h du matin).
-</span>
-<span 
-	  class='ob-timelines' 
 	  data-date='3' 
 	  data-title='Récupération de Gorm et changement de gardes' 
 	  data-class='orange' 
