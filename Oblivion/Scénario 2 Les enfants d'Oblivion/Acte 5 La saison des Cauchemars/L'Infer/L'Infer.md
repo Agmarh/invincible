@@ -37,7 +37,6 @@ Alors que les incidents se multiplient dans Anthéone (hallucinations produites 
 	  data-end='2'> 
 Gorm et Azmän reviennent pour faire disparaître toutes les pièces à conviction de la forge.
 </span>
-
 <span 
 	  class='ob-timelines' 
 	  data-date='3' 
@@ -45,15 +44,14 @@ Gorm et Azmän reviennent pour faire disparaître toutes les pièces à convicti
 	  data-class='orange' 
 	  data-type='range' 
 	  data-end='3'> 
-Gorm et Azmän reviennent pour faire disparaître toutes les pièces à conviction de la forge.
+Les portes du Moratorium sont closes et une quarantaine est mise en place. 
 </span>
-
 <span 
 	  class='ob-timelines' 
 	  data-date='4' 
-	  data-title='Nettoyage de la forme' 
+	  data-title="Naga massacre la population de l'Infer" 
 	  data-class='orange' 
 	  data-type='range' 
 	  data-end='4'> 
-Gorm et Azmän reviennent pour faire disparaître toutes les pièces à conviction de la forge.
+S’il n’a pas été stoppé avant, le ravageur Naga ameute tous les gangrêvés qu’il a contaminé (3d6 Pupilles de Justicaar, et 3d6 humanoïdes variés, aux stades 4 et 5 de la gangrêve). La nuit venue, il effectue sa transformation monstrueuse et conduit ses « troupes » à travers tout l’Infer pour massacrer la population.
 </span>
