@@ -21,3 +21,22 @@ Si les P] lui demandent expressément de l’aide, il leur fournira une broche v
 Si les PJ n’ont rien tenté, Valkin passe au stade 5 de la maladie.
 ## J4
 Si les PJ n’ont rien tenté, Valkin décède au décours d’une lente et atroce agonie. [[Malathor]] s’enfonce alors dans une folie mélancolique, dont rien ne le sortira (jusqu’à l’acte VII).
+
+<span 
+	  class='ob-timelines' 
+	  data-date='2' 
+	  data-title='Valkin stade 5' 
+	  data-class='orange' 
+	  data-type='range' 
+	  data-end='2'> 
+Le paisible bailli meurt dans son bain, déchiqueté par le ravageur « Chelios » qui rôdait dans le réseau de bassins (si le ravageur a été éliminé, c’est un jardinier gangrêvé qui s’en charge).
+</span>
+<span 
+	  class='ob-timelines' 
+	  data-date='4' 
+	  data-title='Bartok meurt' 
+	  data-class='orange' 
+	  data-type='range' 
+	  data-end='4'> 
+Le paisible bailli meurt dans son bain, déchiqueté par le ravageur « Chelios » qui rôdait dans le réseau de bassins (si le ravageur a été éliminé, c’est un jardinier gangrêvé qui s’en charge).
+</span>

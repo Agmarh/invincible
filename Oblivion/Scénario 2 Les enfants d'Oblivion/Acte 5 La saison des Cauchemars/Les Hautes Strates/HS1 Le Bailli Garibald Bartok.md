@@ -43,10 +43,10 @@ Après avoir reçu des menaces de mort « anonymes », il décide de se débarra
 </span>
 <span 
 	  class='ob-timelines' 
-	  data-date='3' 
-	  data-title='Quarantaine étendue à tout Anthéone' 
+	  data-date='4' 
+	  data-title='Bartok meurt' 
 	  data-class='orange' 
 	  data-type='range' 
-	  data-end='3'> 
-La quarantaine est étendue à tout Anthéone. Le Moratorium ferme les accès entre les différents quartiers. Il est impossible de circuler entre les différents quartiers, à moins de s’aventurer dans les sous-sols...
+	  data-end='4'> 
+Le paisible bailli meurt dans son bain, déchiqueté par le ravageur « Chelios » qui rôdait dans le réseau de bassins (si le ravageur a été éliminé, c’est un jardinier gangrêvé qui s’en charge).
 </span>
