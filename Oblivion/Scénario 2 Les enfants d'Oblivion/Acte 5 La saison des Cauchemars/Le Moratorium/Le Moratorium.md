@@ -25,19 +25,19 @@ La quarantaine est étendue à tout Anthéone. Le Moratorium ferme les accès en
 
 <span 
 	  class='ob-timelines' 
-	  data-date='01-01-01' 
+	  data-date='1' 
 	  data-title='Quarantaine limitée' 
 	  data-class='orange' 
 	  data-type='range' 
-	  data-end='01-01-02'> 
+	  data-end='2'> 
 Tous les Gangrêvés identifiés par les autorités (stades 4 surtout) sont enfermés dans des cellules individuelles, pour y attendre la mort.
 </span>
 <span 
 	  class='ob-timelines' 
-	  data-date='01-01-03' 
+	  data-date='3' 
 	  data-title='Quarantaine étendue à tout Anthéone' 
 	  data-class='orange' 
 	  data-type='range' 
-	  data-end='01-01-03'> 
+	  data-end='3'> 
 La quarantaine est étendue à tout Anthéone. Le Moratorium ferme les accès entre les différents quartiers. Il est impossible de circuler entre les différents quartiers, à moins de s’aventurer dans les sous-sols...
 </span>

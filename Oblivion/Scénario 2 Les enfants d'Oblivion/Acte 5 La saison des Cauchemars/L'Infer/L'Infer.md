@@ -30,19 +30,19 @@ Alors que les incidents se multiplient dans Anthéone (hallucinations produites 
 
 <span 
 	  class='ob-timelines' 
-	  data-date='01-01-02' 
+	  data-date='2' 
 	  data-title="Attaque d'une entrée d'Anthéone" 
 	  data-class='orange' 
 	  data-type='range' 
-	  data-end='01-01-02'> 
+	  data-end='2'> 
 L’une des deux entrées principales de la ville est attaquée par un groupe d’enfants venus de l’orphelinat des Pupilles de Justicaar (des gangrêvés). L’attaque est pilotée à distance par le ravageur Naga.
 </span>
 <span 
 	  class='ob-timelines' 
-	  data-date='01-01-04' 
+	  data-date='4' 
 	  data-title="Naga massacre la population de l'Infer" 
 	  data-class='orange' 
 	  data-type='range' 
-	  data-end='01-01-04'> 
+	  data-end='4'> 
 S’il n’a pas été stoppé avant, le ravageur Naga ameute tous les gangrêvés qu’il a contaminé. La nuit venue, il effectue sa transformation monstrueuse et conduit ses « troupes » à travers tout l’Infer pour massacrer la population.
 </span>
