@@ -1,3 +1,6 @@
+---
+banner: "![[Oblivion 2 bannière.png]]"
+---
 Lorsque les PJ parviennent à Anthéone, cela fait environ une quinzaine de jours que les ravageurs s’y sont installés, et plus d’une semaine qu’ils rôdent, massacrant et propageant la gangrêve. Toutefois, contaminer la ville n’est que leur second objectif, car l’Écorcheuse les a surtout envoyés pour s’emparer d’un livre saint, les Tables d’Anthéos, dans les cryptes de l’Oratoire du Jugement.
 
 Le premier groupe de ravageur, destiné à piller les archives de l’Ordre de Justicaar, a déjà atteint son but. En fait, il a même réussi s’introduire dans l’Oratoire grâce à l’aide involontaire de... Valkin, le fils du paladin [[Malathor]] !

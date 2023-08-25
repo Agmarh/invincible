@@ -1,3 +1,6 @@
+---
+banner: "![[Oblivion 2 bannière.png]]"
+---
 # Succès possibles
 - S’ils ont interrompu les sources de contaminations majeures que sont les Saintes Concubines et l’Orphelinat, ils sécurisent considérablement Anthéone, qui sera reprise en main par l’Ordre de Justicaar.
 

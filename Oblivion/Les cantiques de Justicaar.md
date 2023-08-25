@@ -1,3 +1,6 @@
+---
+banner: "![[Oblivion 2 bannière.png]]"
+---
 Saint-Justicaar, le Punisseur, le Forgeron des Absolutions, le Juge des Cours Célestes, ou Justicaar tout simplement, autant de noms qui désignent l’inflexible dieu de la loi et des justes sentences.
 
 En tant que tel, son alignement est avant tout Loyal Neutre. La plupart de ses prêtres sont d’alignement Loyal Bon ou Loyal Neutre. Son symbole est un cercle de fer entourant la croix de la Foi.

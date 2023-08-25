@@ -1,3 +1,6 @@
+---
+banner: "![[Oblivion 2 bannière.png]]"
+---
 À Anthéone, la prostitution est officiellement interdite (la ou le coupable est tatoué du sceau de l’infamie puis expulsé). Cependant, les immuables exigences de leurs riches donateurs ont poussé les prêtres à autoriser la création de cet établissement de « charme ».
 
 L’Ordre de Justicaar y exerce un contrôle attentif par l’intermédiaire de la Matriarche. En effet, une prêtresse veille au respect mutuel des hôtesses et de leurs clients, à l’absence de tout débordement... et fait son rapport toutes les semaines à l’Oratoire. De plus, à la sortie des « Saintes Concubines », l’Ordre envoie régulièrement ses novices recueillir la confession de la clientèle : un acte de foi qu’il est difficile de refuser et qui permet aux chevaliers de constituer des dossiers personnalisés...

@@ -1,3 +1,6 @@
+---
+banner: "![[Oblivion 2 bannière.png]]"
+---
 Cher Razan,
 
 Au vue de vos capacités, j'ai cru comprendre que vous n'étiez pas habilité à pratiquer votre magie au sein de l'Empire.

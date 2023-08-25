@@ -1,3 +1,6 @@
+---
+banner: "![[Oblivion 2 bannière.png]]"
+---
 # Les lieux
 Installés dans une ancienne chapelle désacralisée, les appartements de [[Malathor]] brillent par leur austérité : une décoration quasi-absente et un mobilier réduit au strict nécessaire.
 
