@@ -11,6 +11,13 @@ Quinze mètres plus haut, le plafond de mosaïque s’entrouvre, en des milliers
 
 Chaque soir vers minuit, les cérémonies de la secte naissante se tiennent ici, pendant deux heures. Elles réunissent l’ensemble des personnes en [[I5 Les entrailles d'Anthéone]], [[6 Anciennes catacombes]] et [[11 Le secret des Aiguilles Creuses]].
 # Les événements
+## J1
+Un grand rituel est organisé par Azmän en l’honneur de l’Écorcheuse, sous l’œil cruel de son fils Azmaël/[[Bâal]]. 
+
+Trois des filles de l’oubliette « [[8 Les geôles]] A » sont emmenées et sacrifiées. Puis les cinq enfants de l’oubliette « [[8 Les geôles]] B » sont endormis (avec la baguette de [[sommeil]]) et rapatriés en Oblivion par Transmigration. L’Écorcheuse en profite pour récupérer les Tables d’Anthéos.
+## J4 et plus 
+Si les PJ n’ont pas tué le ravageur [[Chelios]] avant, ils le rencontrent ici, caché dans le bassin.
+
 <span 
 	  class='ob-timelines' 
 	  data-date='1' 
@@ -29,9 +36,3 @@ Chaque soir vers minuit, les cérémonies de la secte naissante se tiennent ici,
 	  data-end='6'> 
 	Chelios est retranché ici
 </span>
-## J1
-Un grand rituel est organisé par Azmän en l’honneur de l’Écorcheuse, sous l’œil cruel de son fils Azmaël/[[Bâal]]. 
-
-Trois des filles de l’oubliette « [[8 Les geôles]] A » sont emmenées et sacrifiées. Puis les cinq enfants de l’oubliette « [[8 Les geôles]] B » sont endormis (avec la baguette de [[sommeil]]) et rapatriés en Oblivion par Transmigration. L’Écorcheuse en profite pour récupérer les Tables d’Anthéos.
-## J4 et plus 
-Si les PJ n’ont pas tué le ravageur [[Chelios]] avant, ils le rencontrent ici, caché dans le bassin.
