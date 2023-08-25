@@ -14,27 +14,9 @@ La fuite est alors probablement la seule option des PJ, en profitant du fait que
 
 De son côté, le ravageur préférera plutôt infliger d’horribles blessures et laisser fuir une partie de ses assaillants : quelques témoins mutilés constituent un excellent moyen de faire connaître toute la démesure de son pouvoir, et celui de l’Écorcheuse.
 
-Si Bâal est tué une immense surprise se peint un instant
-sur son visage, puis son corps s’embrase de flammes
-noires, et tombe en cendre.
-Peu après, une sensation terrifiante envahi l’esprit de
-ses meurtriers : une puissante vague de haine les submerge,
-tandis qu’ils perçoivent l’écho de chocs sourds,
-comme si l’âme d’une divinité en colère voulait déchirer
-les murs de la réalité pour venir les écorcher. Puis la sensation
-cesse. Mais l’Incarnin du Mal est loin d’avoir dit
-son dernier mot...
-Quelles que soient les actions entreprises et les succès
-obtenus, à l’aube du sixième jour de l’arrivée des PJ
-à Anthéone, le Miroir d’Audience de Grisou le méphite
-s’active à nouveau. Le visage de Réghûlus y apparaît. Il
-semble épuisé et, pour la première fois depuis que les PJ
-l’ont rencontré, inquiet.
-Soufflant comme un orgue de cuivre, il annonce « Mes
-amis, l’heure est grave ! »... Une détonation retentit derrière
-lui dans le lointain... « Vous devez revenir immédiatement
-en Oblivion. Nous avons désespérément besoin de
-vous. Retirez mes colliers de protection, trouvez un moyen
+Si Bâal est tué une immense surprise se peint un instant sur son visage, puis son corps s’embrase de flammes noires, et tombe en cendre. Peu après, une sensation terrifiante envahi l’esprit de ses meurtriers : une puissante vague de haine les submerge, tandis qu’ils perçoivent l’écho de chocs sourds, comme si l’âme d’une divinité en colère voulait déchirer les murs de la réalité pour venir les écorcher. Puis la sensation cesse. Mais l’Incarnin du Mal est loin d’avoir dit son dernier mot...
+
+Quelles que soient les actions entreprises et les succès obtenus, à l’aube du sixième jour de l’arrivée des PJ à Anthéone, le Miroir d’Audience de Grisou le méphite s’active à nouveau. Le visage de Réghûlus y apparaît. Il semble épuisé et, pour la première fois depuis que les PJ l’ont rencontré, inquiet. Soufflant comme un orgue de cuivre, il annonce « Mes amis, l’heure est grave ! »... Une détonation retentit derrière lui dans le lointain... « Vous devez revenir immédiatement en Oblivion. Nous avons désespérément besoin de vous. Retirez mes colliers de protection, trouvez un moyen
 quelconque pour vous endormir, et je vous emporte aussitôt
 dans le Pays des Chimères »... Un jet de flamme
 traverse le décor derrière Réghûlus... « Vite, je vous en
