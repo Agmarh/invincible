@@ -25,4 +25,9 @@ Sous les fondations d’Anthéone, court un vaste réseau souterrain de galeries
 
 Par ailleurs, devant l’impossibilité de surveiller des centaines de kilomètres de galeries, le bailli d’Anthéone, Garibald Bartok, a ordonné, il y a peu, de les inonder. Aujourd’hui, Personne ne sait dans quel état se trouve le réseau...
 
+```leaflet
+id: antheone
+image: [[Anthéone.png]]
+```
+
 ![[Anthéone.png]]
