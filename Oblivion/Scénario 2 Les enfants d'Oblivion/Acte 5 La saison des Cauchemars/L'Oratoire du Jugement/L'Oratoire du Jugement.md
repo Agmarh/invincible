@@ -15,20 +15,11 @@ Au-dessus du bâtiment du grand hall s’élève la tour de l’Oratoire, qui co
 
 Les autres bâtiments, à demi enterrés, abritent les quartiers des chevaliers du Jugement, des chapelles, et d’étranges laboratoires où l’on teste les forces telluriques du volcan d’Anthéone.
 # Les événements
-L’archonte actuel est absent depuis plusieurs semaines.
-On raconte parmi les prêtres qu’il s’est retiré dans sa citadelle
-secrète de Sereniti Sanctum (nul ne sait où elle se
-trouve), pour y préparer une prochaine croisade. Ceci ne
-l’empêche pas de suivre régulièrement le développement
-de la situation dans Anthéone, par divers moyens magiques.
-L’archonte absent, le plus haut religieux en poste est actuellement
-son vieil ami et bras droit, le Grand cardinal
-Balthus. C’est un homme droit et sévère mais âgé, surpris
-par la soudaineté des événements (c’est l’Archonte luimême
-qui est intervenu pour étouffer le scandale de l’attaque
-des ravageurs).
-Actuellement, Balthus coordonne l’action des chevaliers
-du Jugement pour juguler des incidents urbains de plus
+L’archonte actuel est absent depuis plusieurs semaines. On raconte parmi les prêtres qu’il s’est retiré dans sa citadelle secrète de Sereniti Sanctum (nul ne sait où elle se trouve), pour y préparer une prochaine croisade. Ceci ne l’empêche pas de suivre régulièrement le développement de la situation dans Anthéone, par divers moyens magiques.
+
+L’archonte absent, le plus haut religieux en poste est actuellement son vieil ami et bras droit, le Grand cardinal Balthus. C’est un homme droit et sévère mais âgé, surpris par la soudaineté des événements (c’est l’Archonte lui-même qui est intervenu pour étouffer le scandale de l’attaque des ravageurs).
+
+Actuellement, Balthus coordonne l’action des chevaliers du Jugement pour juguler des incidents urbains de plus
 en plus fréquents. Passé au second plan, le débat sur la
 gangrêve stagne, les prêtres croient qu’il s’agit d’une sorte
 de malédiction arrivée avant les ravageurs, par le rêve
