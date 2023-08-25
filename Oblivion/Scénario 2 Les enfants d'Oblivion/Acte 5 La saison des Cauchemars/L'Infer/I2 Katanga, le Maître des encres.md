@@ -1,3 +1,6 @@
+---
+banner: "![[Oblivion 2 bannière.png]]"
+---
 # Les lieux
 Encombrée de colifichets ethniques, l’échoppe de [[Katanga]] ressemble plus à une herboristerie tribale qu’à un atelier de tatouage. Et pourtant, la réputation de l’artiste est telle que l’on s’arrache ses créations à prix d’or ( 1 -100 po par tatouage). En effet, cet athlétique humanoïde à la peau de jais portant des tatouages blancs, est passé maître dans l’élaboration d’encres aux propriétés uniques : motifs mouvants ou changeant avec l’humeur de son porteur.
 

@@ -1,3 +1,7 @@
+
+---
+banner: "![[Oblivion 2 bannière.png]]"
+---
 Dans cette salle étaient jadis suspendues des amphores contenant des eaux de vie en maturation. D’innombrables chaînes pendent du plafond (10 m de haut), jusqu’à terre, cliquetant doucement. 
 
 Au centre de cette forêt d’acier se tient une « clairière », éclairée par un puits de lumière (une flamme magique brûlant éternellement, et placée au plafond).

@@ -1,3 +1,6 @@
+---
+banner: "![[Oblivion 2 bannière.png]]"
+---
 - À chaque blessure sanglante infligée par un ravageur ou un gangrêvé, avec une arme naturelle tranchante ou contondante (croc, griffe, etc.), la victime risque d’attraper la gangrêve. Pour l’éviter, elle doit réussir un <font style="color:green">jet de Sauvegarde de Constitution DD 15</font>. En cas d’échec, la contamination est instantanée.
  
 - Il n’y a pas d’effet immédiat, ni dommage primaire ou secondaire. Seul un <font style="color:green">jet de Médecine DD 20</font>, ou le recours à la magie, permet d’apprendre que la victime est « infectée », mais sans savoir par quoi.

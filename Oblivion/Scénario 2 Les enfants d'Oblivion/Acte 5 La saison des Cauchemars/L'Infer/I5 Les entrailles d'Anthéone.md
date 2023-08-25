@@ -1,3 +1,6 @@
+---
+banner: "![[Oblivion 2 bannière.png]]"
+---
 # Les lieux
 Un dédale de conduits et d’anciens égouts noyaute le cœur de la montagne. Bien qu’il bénéficie d’une protection « naturelle » contre les moyens de détection, ce réseau est quasiment inoccupé. En effet, rares sont ceux qui sont capables de se diriger dans ces galeries à moitié englouties et éviter ses dangers : les risques d’éboulements subites (10 % par heure), de jaillissement d’un geyser d’eau bouillante (5 % par heure) ou de noyade par montée brutale des flots (20 % par heure).
 

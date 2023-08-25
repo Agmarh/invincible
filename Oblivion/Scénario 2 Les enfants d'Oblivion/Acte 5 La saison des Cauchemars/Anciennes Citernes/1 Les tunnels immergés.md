@@ -1,3 +1,6 @@
+---
+banner: "![[Oblivion 2 bannière.png]]"
+---
 On accède à ces tunnels après un long cheminement dans le labyrinthe des profondeurs d’Anthéone. Y arriver par hasard est impossible : les PJ devront soit suivre quelqu’un jusqu’ici, soit emporter les plans trouvés chez Azmän. 
 
 Ces tunnels lépreux ont presque un millier d’années et sont les plus bas situés parmi les galeries de la cité. Ils formaient au départ l’ébauche d’un premier réseau d’égouts reliant les temples (le « Réseau Divin »), mais les galeries, trop larges, ont commencé à s’effondrer lorsque les constructions se sont accumulées sur les pentes d’Anthéone. 

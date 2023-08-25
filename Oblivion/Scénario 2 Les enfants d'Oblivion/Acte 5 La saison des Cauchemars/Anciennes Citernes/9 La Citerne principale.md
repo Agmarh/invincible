@@ -1,3 +1,6 @@
+---
+banner: "![[Oblivion 2 bannière.png]]"
+---
 L’ancienne citerne creusée par le nain Hâz Farâzon n’a rien perdu de sa magnificence d’antan. Elle comprend un vaste bassin (profondeur 6m), d’où jaillissent douze colonnes de basalte, toutes ornées de sa signature runique.
 
 Quinze mètres plus haut, le plafond de mosaïque s’entrouvre, en des milliers d’endroits, pour laisser filtrer l’eau pure, jadis recueillie par un réseau de canalisations. Aujourd’hui, il tombe que quelques gouttes, clapotant sur ce lac souterrain endormi. Des passerelles en pierre conduisent à une esplanade au-dessus de l’eau. 

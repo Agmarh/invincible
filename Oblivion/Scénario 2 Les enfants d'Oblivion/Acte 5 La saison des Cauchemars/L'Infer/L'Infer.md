@@ -1,3 +1,6 @@
+---
+banner: "![[Oblivion 2 bannière.png]]"
+---
 # Les lieux
 Beaucoup d’habitants « d’en-haut » considèrent que l’Infer ne fait pas vraiment partie d’Anthéone. C’est ici qu’échouent de nombreux pèlerins, ruinés par leur séjour dans les quartiers supérieurs, désireux de rester près des sources spirituelles ou incapables de trouver une caravane pour rentrer sur leurs terres. 
 

@@ -1,3 +1,6 @@
+---
+banner: "![[Oblivion 2 bannière.png]]"
+---
 Toutes les 24 h, la victime doit réussir un <font style="color:green">jet de sauvegarde de Constitution DD 10</font>. La difficulté augmente de 1 chaque jour. À chaque échec, un stade est franchi.
 # Stade 1
 Cauchemars abominables. Chaque matin, le sujet se réveille très « secoué » (considérez qu’il subit un niveau de fatigue. Cet état dure 1d4 heures, et revient une heure avant de s’endormir (la peur de rêver à nouveau...). Les personnes qui ne rêvent pas (elfes...) subissent à la place de terribles angoisses de mort pendant leurs phases de repos. Les conséquences sont identiques.

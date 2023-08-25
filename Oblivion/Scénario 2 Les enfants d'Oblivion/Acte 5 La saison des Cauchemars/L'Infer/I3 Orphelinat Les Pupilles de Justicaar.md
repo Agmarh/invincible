@@ -1,3 +1,6 @@
+---
+banner: "![[Oblivion 2 bannière.png]]"
+---
 # Les lieux
 Fidèle à ses préoccupations caritatives, l’Ordre a créé un orphelinat dans la zone la plus défavorisée de la ville : un moyen pour former de futurs chevaliers et de se donner une bonne image sociale. On retrouve d’ailleurs quelques établissements similaires à travers l’Empire.
 

@@ -1,3 +1,6 @@
+---
+banner: "![[Oblivion 2 bannière.png]]"
+---
 Ici, deux grandes cuves en cuivre (6 m de haut, 3 m de diamètre) servaient jadis à stocker des eaux parfumées. 
 
 Une échelle permet d’accéder à leur sommet. Une corde remontée y est attachée. L’intérieur des cuves a été reconverti en oubliettes, les victimes y sont jetées sommairement du haut de l’échelle ; on les fait ressortir avec la corde lorsqu’on en a besoin.

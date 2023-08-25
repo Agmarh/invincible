@@ -1,3 +1,6 @@
+---
+banner: "![[Oblivion 2 bannière.png]]"
+---
 # Les lieux
 Formidable muraille forteresse, le Moratorium embrasse, de ses puissantes fortifications, les quartiers des Mille Négoces et des Marches Sacrées. Gravées par des générations de novices sur les pierres de sa façade, des milliers de préceptes spirituels rappellent sans cesse les commandements d’Anthéos.
 

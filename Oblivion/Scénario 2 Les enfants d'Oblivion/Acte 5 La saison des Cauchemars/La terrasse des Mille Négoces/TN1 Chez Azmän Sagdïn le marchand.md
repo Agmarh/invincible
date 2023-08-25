@@ -1,3 +1,6 @@
+---
+banner: "![[Oblivion 2 bannière.png]]"
+---
 # Les lieux
 Originaire de lointaines contrées orientales, [[Azmän Sagdïn]] est arrivé il y a quelques années à Anthéone avec sa femme pour tenter de convaincre les dieux de lui « rendre » son fils disparu dans de mystérieuses circonstances (en effet, le fils d’Azmän était un Oublié, tout comme sa femme, il a été enlevé par l’Écorcheuse il y a longtemps).
 

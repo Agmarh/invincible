@@ -1,3 +1,6 @@
+---
+banner: "![[Oblivion 2 bannière.png]]"
+---
 # Les lieux
 Depuis qu’il a passé un marché avec les Enfermés pour la fabrication des pièces principales de leurs armures, [[Gorm Tête de Fer]], artisan forgeron de génie, s’est mis à rêver de s’installer un jour dans [[les Hautes Strates]]. Ainsi, il cultive une parfaite façade sociale et ne refuse aucun contrat pourvu qu’il soit richement rétribué.
 
