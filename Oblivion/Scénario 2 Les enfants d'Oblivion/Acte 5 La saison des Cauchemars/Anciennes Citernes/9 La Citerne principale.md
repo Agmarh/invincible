@@ -2,14 +2,7 @@ L’ancienne citerne creusée par le nain Hâz Farâzon n’a rien perdu de sa m
 
 Quinze mètres plus haut, le plafond de mosaïque s’entrouvre, en des milliers d’endroits, pour laisser filtrer l’eau pure, jadis recueillie par un réseau de canalisations. Aujourd’hui, il tombe que quelques gouttes, clapotant sur ce lac souterrain endormi. Des passerelles en pierre conduisent à une esplanade au-dessus de l’eau. 
 
-[[Azmän Sagdïn]] y a installé d’immenses porte torches et un autel sanglant, dédié à l’Écorcheuse. Un coffret est caché sous l’autel (<font style="color:lightgreen">test d’Investigation DD 15</style>), protégé par un piège à gaz empoisonné. Il faut
-un jet de Sagesse (Perception) DD 19 (5E) ou de Sagesse
-DD 16 (COF) pour repérer le piège, puis un test de Dextérité
-(Outils de voleur) DD 21 (5E) ou de Dextérité DD
-18 pour le désamorcer. Il s’active en cas d’échec ou si l’on
-ouvre le coffret sans l’avoir désamorcé. S’il s’active, tous les
-personnages présents dans un rayon de 3 m doivent effectuer
-un jet de sauvegarde de Constitution DD 18 (5E) ou
+[[Azmän Sagdïn]] y a installé d’immenses porte torches et un autel sanglant, dédié à l’Écorcheuse. Un coffret est caché sous l’autel (<font style="color:lightgreen">test d’Investigation DD 15</style>), protégé par un piège à gaz empoisonné. Il faut un <font style="color:lightgreen">jet de Perception DD 19</style> pour repérer le piège, puis un <font style="color:lightgreen">test de Dextérité (Outils de voleur) DD 21</style> pour le désamorcer. Il s’active en cas d’échec ou si l’on ouvre le coffret sans l’avoir désamorcé. S’il s’active, tous les personnages présents dans un rayon de 3 m doivent effectuer un jet de sauvegarde de Constitution DD 18 (5E) ou
 de Constitution DD 15 (COF) ou subir 5d8 dégâts de poison
 être empoisonnés pour 2d10 minutes (état empoisonné
 pour 5E, ou -3 à tous les jets de dés concernant les activités
