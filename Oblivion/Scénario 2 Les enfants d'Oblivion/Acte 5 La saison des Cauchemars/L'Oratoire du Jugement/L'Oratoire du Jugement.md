@@ -19,21 +19,12 @@ L’archonte actuel est absent depuis plusieurs semaines. On raconte parmi les p
 
 L’archonte absent, le plus haut religieux en poste est actuellement son vieil ami et bras droit, le Grand cardinal Balthus. C’est un homme droit et sévère mais âgé, surpris par la soudaineté des événements (c’est l’Archonte lui-même qui est intervenu pour étouffer le scandale de l’attaque des ravageurs).
 
-Actuellement, Balthus coordonne l’action des chevaliers du Jugement pour juguler des incidents urbains de plus
-en plus fréquents. Passé au second plan, le débat sur la
-gangrêve stagne, les prêtres croient qu’il s’agit d’une sorte
-de malédiction arrivée avant les ravageurs, par le rêve
-prophétique de l’Écorcheuse. Ils n’ont pas fait le lien avec
-le sang contaminé des ravageurs (au contraire de Malathor),
-et leurs divinations ne les aident pas.
-Les PJ ont tout intérêt à venir enquêter ici, car il s’agit du
-lieu de l’attaque des ravageurs. Cependant, pénétrer dans
-l’Oratoire n’est pas évident. Effectivement, en ces temps
-de crise les audiences se font rares et pénétrer par effraction
-est difficilement envisageable au niveau actuel des PJ
-(les protections ont été largement renforcées depuis l’intrusion
-des ravageurs, par des pièges mécaniques et magiques,
-DD 17 et plus (COF et 5E)). Il existe cependant
+Actuellement, Balthus coordonne l’action des chevaliers du Jugement pour juguler des incidents urbains de plus en plus fréquents. Passé au second plan, le débat sur la gangrêve stagne, les prêtres croient qu’il s’agit d’une sorte de malédiction arrivée avant les ravageurs, par le rêve prophétique de l’Écorcheuse. Ils n’ont pas fait le lien avec le sang contaminé des ravageurs (au contraire de Malathor), et leurs divinations ne les aident pas.
+
+Les PJ ont tout intérêt à venir enquêter ici, car il s’agit du lieu de l’attaque des ravageurs. Cependant, pénétrer dans l’Oratoire n’est pas évident. Effectivement, en ces temps de crise les audiences se font rares et pénétrer par effraction est difficilement envisageable au niveau actuel des PJ 
+- Les protections ont été largement renforcées depuis l’intrusion des ravageurs, par des pièges mécaniques et magiques, DD 17 et plus. 
+
+Il existe cependant
 trois principaux moyens d’entrer dans la citadelle :
 » si les PJ, au cours du scénario précédent, ont tout
 raconté de leurs aventures à Malathor, celui-ci a
