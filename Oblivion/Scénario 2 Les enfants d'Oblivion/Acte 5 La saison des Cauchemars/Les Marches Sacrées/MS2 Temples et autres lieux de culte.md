@@ -17,3 +17,22 @@ Enfin, les PJ apprendront que les cryptes souterraines d’Anthéone ont été p
 Diverses cérémonies sont ajournées, perturbées par les premières manifestations importantes de la gangrêve.
 ## J3 et plus 
 [[Le Moratorium]] ferme ses portes. Mais, l’activité des temples ne cesse pas, offrandes et auto-flagellations se multiplient, pour demander aux dieux de faire cesser le « Mal venu des Rêves ».
+
+<span 
+	  class='ob-timelines' 
+	  data-date='1' 
+	  data-title='' 
+	  data-class='orange' 
+	  data-type='range' 
+	  data-end='2'> 
+Si les PJ n’ont rien tenté, Valkin décède au décours d’une lente et atroce agonie. Malathor s’enfonce alors dans une folie mélancolique, dont rien ne le sortira.
+</span>
+<span 
+	  class='ob-timelines' 
+	  data-date='4' 
+	  data-title='Mort de Valkin' 
+	  data-class='orange' 
+	  data-type='range' 
+	  data-end='4'> 
+Si les PJ n’ont rien tenté, Valkin décède au décours d’une lente et atroce agonie. Malathor s’enfonce alors dans une folie mélancolique, dont rien ne le sortira.
+</span>
