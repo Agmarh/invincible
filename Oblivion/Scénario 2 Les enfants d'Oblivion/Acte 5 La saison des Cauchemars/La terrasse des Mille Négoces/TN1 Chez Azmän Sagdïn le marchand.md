@@ -33,24 +33,6 @@ Il se disperse loin d’Anthéone, avec tous ses adeptes, pour répandre la gang
 
 <span 
 	  class='ob-timelines' 
-	  data-date='3' 
-	  data-title='Récupération de Gorm et changement de gardes' 
-	  data-class='orange' 
-	  data-type='range' 
-	  data-end='3'> 
-Il récupère Gorm Tête de Fer, et l’initie au culte de l’Écorcheuse. Le même jour, les gardes permutent leur poste avec leurs collègues dans les souterrains.
-</span>
-<span 
-	  class='ob-timelines' 
-	  data-date='4' 
-	  data-title='Nettoyage de la forge' 
-	  data-class='orange' 
-	  data-type='range' 
-	  data-end='4'> 
-Azmän fait l’aller-retour à la forge de Gorm, avec lui.
-</span>
-<span 
-	  class='ob-timelines' 
 	  data-date='6' 
 	  data-title='Dispersion du culte' 
 	  data-class='orange' 

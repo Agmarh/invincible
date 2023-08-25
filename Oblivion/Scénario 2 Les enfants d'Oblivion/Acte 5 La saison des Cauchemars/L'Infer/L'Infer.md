@@ -39,15 +39,6 @@ Gorm et Azmän reviennent pour faire disparaître toutes les pièces à convicti
 </span>
 <span 
 	  class='ob-timelines' 
-	  data-date='3' 
-	  data-title='Fermeture des portes du Moratorium' 
-	  data-class='orange' 
-	  data-type='range' 
-	  data-end='3'> 
-Les portes du Moratorium sont closes et une quarantaine est mise en place. 
-</span>
-<span 
-	  class='ob-timelines' 
 	  data-date='4' 
 	  data-title="Naga massacre la population de l'Infer" 
 	  data-class='orange' 
