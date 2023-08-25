@@ -31,20 +31,20 @@ Alors que les incidents se multiplient dans Anthéone (hallucinations produites 
 <span 
 	  class='ob-timelines' 
 	  data-date='2' 
-	  data-title='ettoyage de la forme' 
+	  data-title="Attaque d'une entrée principale de la ville" 
 	  data-class='orange' 
 	  data-type='range' 
-	  data-end='4'> 
+	  data-end='2'> 
 Gorm et Azmän reviennent pour faire disparaître toutes les pièces à conviction de la forge.
 </span>
 
 <span 
 	  class='ob-timelines' 
-	  data-date='4' 
-	  data-title='Nettoyage de la forme' 
+	  data-date='3' 
+	  data-title='Fermeture des portes du Moratorium' 
 	  data-class='orange' 
 	  data-type='range' 
-	  data-end='4'> 
+	  data-end='3'> 
 Gorm et Azmän reviennent pour faire disparaître toutes les pièces à conviction de la forge.
 </span>
 
