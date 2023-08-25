@@ -1,1 +1,1 @@
-Ils sont arrivé à Anthéone et s'apprête à traverser la ville pour rencontrer Malathor.
+Ils sont arrivé à Anthéone 
