@@ -1,4 +1,4 @@
-Par ailleurs, même si les aventuriers peuvent rencontrer Bâal à plusieurs reprises, il est probable que l’affrontement final aura lieu dans les anciennes citernes. Bâal est destiné à devenir le chef des forces d’invasion, le représentant direct de l’Incarnin du Mal sur la terre.
+Par ailleurs, même si les aventuriers peuvent rencontrer [[Bâal]] à plusieurs reprises, il est probable que l’affrontement final aura lieu dans les anciennes citernes. Bâal est destiné à devenir le chef des forces d’invasion, le représentant direct de l’Incarnin du Mal sur la terre.
 
 Il est suprêmement orgueilleux et sûr de ses capacités, comme tous les ravageurs (véritables « sorts vivants », ils ne possèdent aucune notion de danger ou de pitié). C’est son talon d’Achille. Si Bâal est menacé, il ordonnera à un autre ravageur de s’interposer, plutôt que de se transformer trop tôt (il garde cela pour une bataille d’envergure).
 
