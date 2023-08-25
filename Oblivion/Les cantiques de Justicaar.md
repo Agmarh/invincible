@@ -8,14 +8,6 @@ Jadis, le culte rural de Justicaar, saint patron débonnaire et sentencieux, ét
 
 Ce haut fait inégalé porta le culte de Justicaar au-devant de la scène, sur le plan primaire comme dans les sphères célestes. Dès lors, le culte grandit.
 # ... à nos jours.
-Mille ans plus tard, il a bâti la plus puissante église de l’Empire, présente dans toutes les cités. Son bras armé, le fameux ordre des Chevaliers du Jugement, incarne la stabilité, la fermeté et la protection pour
-tous les humains (des valeurs quelque peu xénophobes,
-mais indispensables pour garantir l’avenir
-et la sécurité des populations, dit-on). Ses prêtres
-dévoués offrent le gîte et le couvert aux démunis et
-leur proposent une sainte conversion. Ses juristes
-prodiguent leurs conseils aux puissantes guildes de
-marchands et aux simples artisans. Ses scribes sont
-les témoins assermentés des alliances et des contrats.
-Et on murmure que ses grands cardinaux trouvent
-toujours une oreille attentive chez les rois.
+Mille ans plus tard, il a bâti la plus puissante église de l’Empire, présente dans toutes les cités. Son bras armé, le fameux ordre des Chevaliers du Jugement, incarne la stabilité, la fermeté et la protection pour tous les humains (des valeurs quelque peu xénophobes, mais indispensables pour garantir l’avenir et la sécurité des populations, dit-on). 
+
+Ses prêtres dévoués offrent le gîte et le couvert aux démunis et leur proposent une sainte conversion. Ses juristes prodiguent leurs conseils aux puissantes guildes de marchands et aux simples artisans. Ses scribes sont les témoins assermentés des alliances et des contrats. Et on murmure que ses grands cardinaux trouvent toujours une oreille attentive chez les rois.

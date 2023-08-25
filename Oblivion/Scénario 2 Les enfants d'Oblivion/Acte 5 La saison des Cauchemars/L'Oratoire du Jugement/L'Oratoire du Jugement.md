@@ -7,11 +7,9 @@ Close par les parois déchiquetées et mangées de verdure de l’ancien cratèr
 
 À l’intérieur, le grand hall d’audience de l’Oratoire est un spectacle à lui seul, conçu pour impressionner le visiteur, et raffermir le croyant. On peut en effet y contempler « L’Apothéose de Saint Anthéos », une gigantesque fresque de 7 mètres de haut sur 15 de long, représentant Anthéos 1er, fondateur de l’ordre de Justicaar, pourfendant l’archiliche Azel-Liark, fléau de l’ancien monde. Les symboles de chacun y sont représentés face à face : une croix brillante dans un cercle de fer pour Justicaar, un serpent dans un disque lunaire pour Azel-Liark. 
 
-Cette fresque rappelle à chacun le triomphe de la Loi sur le Chaos, et comment le petit culte rural de Justicaar devint une puissante église, mille ans après l’exploit d’Anthéos (cf. « les Cantiques de Justicaar », dans O1p. 32).
+Cette fresque rappelle à chacun le triomphe de la Loi sur le Chaos, et comment le petit culte rural de Justicaar devint une puissante église, mille ans après l’exploit d’Anthéos (cf. « [[Les cantiques de Justicaar]]).
 
-Au-dessus du bâtiment du grand hall s’élève la tour de
-l’Oratoire, qui comporte essentiellement une vaste bibliothèque
-spirituelle et les appartements des prêtres (c’est
+Au-dessus du bâtiment du grand hall s’élève la tour de l’Oratoire, qui comporte essentiellement une vaste bibliothèque spirituelle et les appartements des prêtres (c’est
 ici que travaillait la femme d’Azmän Sagdïn en tant que
 conservatrice. Elle avait notamment la garde des Tables
 d’Anthéos, lesquelles parlaient d’une mystérieuse relique
