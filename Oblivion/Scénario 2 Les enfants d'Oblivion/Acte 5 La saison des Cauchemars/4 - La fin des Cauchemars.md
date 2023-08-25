@@ -17,3 +17,13 @@ Soufflant comme un orgue de cuivre, il annonce
 Hélas, Réghûlus ne croit pas si bien dire. Devant une telle pression, il est improbable que les PJ refusent l’appel d’Oblivion. S’ils temporisent, utilisez les moyens à votre disposition : Réghûlus promet n’importe quelle récompense, Sérénité supplie les PJ d’alignement bon, et surtout l’épée [[Nocturno]] s’emballe, contrôlant au besoin son porteur (son objectif primaire est de défendre l’univers d’Oblivion).
 
 Alors qu’Anthéone ravagée par la gangrêve tombe en déliquescence, ou commence à peine à renaître, les PJ vont devoir s’enfermer pour dormir... dormir... et plonger droit au cœur des rêves, vers le chaos total...
+
+<span 
+	  class='ob-timelines' 
+	  data-date='6' 
+	  data-title='Fermeture des portes du Moratorium' 
+	  data-class='orange' 
+	  data-type='range' 
+	  data-end='6'> 
+Le Moratorium ferme ses portes. Mais, l’activité des temples ne cesse pas, offrandes et auto-flagellations se multiplient, pour demander aux dieux de faire cesser le « Mal venu des Rêves ».
+</span>

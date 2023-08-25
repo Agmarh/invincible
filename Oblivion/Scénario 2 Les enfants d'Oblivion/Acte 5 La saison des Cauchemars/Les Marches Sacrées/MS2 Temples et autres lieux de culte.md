@@ -21,18 +21,18 @@ Diverses cérémonies sont ajournées, perturbées par les premières manifestat
 <span 
 	  class='ob-timelines' 
 	  data-date='1' 
-	  data-title='' 
+	  data-title='Cérémonies annulées' 
 	  data-class='orange' 
 	  data-type='range' 
 	  data-end='2'> 
-Si les PJ n’ont rien tenté, Valkin décède au décours d’une lente et atroce agonie. Malathor s’enfonce alors dans une folie mélancolique, dont rien ne le sortira.
+Diverses cérémonies sont ajournées, perturbées par les premières manifestations importantes de la gangrêve.
 </span>
 <span 
 	  class='ob-timelines' 
-	  data-date='4' 
-	  data-title='Mort de Valkin' 
+	  data-date='3' 
+	  data-title='Fermeture des portes du Moratorium' 
 	  data-class='orange' 
 	  data-type='range' 
-	  data-end='4'> 
-Si les PJ n’ont rien tenté, Valkin décède au décours d’une lente et atroce agonie. Malathor s’enfonce alors dans une folie mélancolique, dont rien ne le sortira.
+	  data-end='6'> 
+Le Moratorium ferme ses portes. Mais, l’activité des temples ne cesse pas, offrandes et auto-flagellations se multiplient, pour demander aux dieux de faire cesser le « Mal venu des Rêves ».
 </span>
