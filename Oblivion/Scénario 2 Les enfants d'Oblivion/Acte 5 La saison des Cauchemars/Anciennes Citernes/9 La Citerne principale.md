@@ -25,7 +25,9 @@ Si les PJ n’ont pas tué le ravageur [[Chelios]] avant, ils le rencontrent ici
 	  data-class='orange' 
 	  data-type='range' 
 	  data-end='4'> 
-	Rituel organsié par Azmän
+	Un grand rituel est organisé par Azmän en l’honneur de l’Écorcheuse, sous l’œil cruel de son fils Azmaël/[[Bâal]]. 
+
+Trois des filles de l’oubliette « [[8 Les geôles]] A » sont emmenées et sacrifiées. Puis les cinq enfants de l’oubliette « [[8 Les geôles]] B » sont endormis (avec la baguette de [[sommeil]]) et rapatriés en Oblivion par Transmigration. L’Écorcheuse en profite pour récupérer les Tables d’Anthéos.
 </span>
 <span 
 	  class='ob-timelines' 
