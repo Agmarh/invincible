@@ -70,7 +70,6 @@
     }
   ],
   "defaultParty": null,
-  "homebrew": [],
   "statuses": [
     {
       "name": "Blinded",
@@ -154,13 +153,16 @@
     }
   ],
   "unconsciousId": "Unconscious",
-  "version": null,
+  "version": [
+    12,
+    1,
+    1
+  ],
   "canUseDiceRoll": false,
   "preferStatblockLink": true,
   "initiative": "1d20 + %mod%",
   "modifier": null,
   "sync": true,
-  "leafletIntegration": false,
   "playerMarker": "default",
   "monsterMarker": "default",
   "state": {
@@ -168,12 +170,13 @@
       {
         "name": "Piotr",
         "initiative": 11,
+        "static": false,
         "modifier": -1,
         "hp": 51,
         "currentMaxHP": 51,
         "ac": "18",
         "currentAC": "18",
-        "id": "ID_ea78189a0a88",
+        "id": "ID_4bdada997bbb",
         "currentHP": 51,
         "tempHP": 0,
         "status": [],
@@ -187,12 +190,13 @@
       {
         "name": "Gorgonzola",
         "initiative": 4,
+        "static": false,
         "modifier": 2,
         "hp": 67,
         "currentMaxHP": 67,
         "ac": "14",
         "currentAC": "14",
-        "id": "ID_da88782be908",
+        "id": "ID_981828d8f8da",
         "currentHP": 67,
         "tempHP": 0,
         "status": [],
@@ -206,12 +210,13 @@
       {
         "name": "Era",
         "initiative": 5,
+        "static": false,
         "modifier": 5,
         "hp": 52,
         "currentMaxHP": 52,
         "ac": "17",
         "currentAC": "17",
-        "id": "ID_2b4b594b0ba8",
+        "id": "ID_7b98ab49896a",
         "currentHP": 52,
         "tempHP": 0,
         "status": [],
@@ -225,9 +230,11 @@
       {
         "name": "Ea",
         "initiative": 18,
+        "static": false,
         "modifier": 2,
         "hp": 42,
         "currentMaxHP": 42,
+        "cr": 5,
         "ac": "15",
         "currentAC": "15",
         "id": "ID_1b79f9eb2b98",
@@ -244,12 +251,13 @@
       {
         "name": "Konrot",
         "initiative": 15,
+        "static": false,
         "modifier": 2,
         "hp": 44,
         "currentMaxHP": 44,
         "ac": "14",
         "currentAC": "14",
-        "id": "ID_78a98a6b8bba",
+        "id": "ID_c97b6aea78db",
         "currentHP": 44,
         "tempHP": 0,
         "status": [],
@@ -264,7 +272,8 @@
     "state": false,
     "name": null,
     "round": 1,
-    "logFile": ""
+    "logFile": "",
+    "rollHP": false
   },
   "condense": false,
   "clamp": true,
@@ -282,10 +291,19 @@
   },
   "hpOverflow": "ignore",
   "additiveTemp": false,
+  "rpgSystem": "dnd5e",
   "logging": false,
   "logFolder": "/",
   "useLegacy": true,
-  "integrateSRD": false,
   "diplayPlayerHPValues": true,
-  "rollHP": false
+  "rollHP": false,
+  "descending": true,
+  "builder": {
+    "showParty": true,
+    "showXP": true,
+    "sidebarIcon": true
+  },
+  "homebrew": [],
+  "leafletIntegration": false,
+  "integrateSRD": false
 }
