@@ -9,10 +9,7 @@ Pour les PJ, se sera l’occasion de dépenser leur argent pour essayer de soign
 
 Enfin, les PJ apprendront que les cryptes souterraines d’Anthéone ont été protégées au fil des âges par des dizaines de puissants sorts, afin d’empêcher toute divination et intrusion (chaque culte œuvrant dans son coin pour protéger ses reliques). Paradoxalement, ce sont justement les interférences produites par ces protections qui empêchent aujourd’hui de localiser magiquement le repaire des ravageurs.
 # Les événements
-# J1 et J2 : diverses cérémonies sont ajournées, perturbées
-par les premières manifestations importantes
-de la gangrêve.
-» J3 et plus : le Moratorium ferme ses portes. Mais,
-l’activité des temples ne cesse pas, offrandes et auto-
-flagellations se multiplient, pour demander aux
-dieux de faire cesser le « Mal venu des Rêves ».
+# J1 et J2
+Diverses cérémonies sont ajournées, perturbées par les premières manifestations importantes de la gangrêve.
+# J3 et plus 
+Le Moratorium ferme ses portes. Mais, l’activité des temples ne cesse pas, offrandes et auto-flagellations se multiplient, pour demander aux dieux de faire cesser le « Mal venu des Rêves ».
