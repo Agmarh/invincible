@@ -8,5 +8,4 @@ Les aiguilles creuses sont prêtes : 2000 pièces, à emporter dans la ville et 
 # J6
 Si la secte n’a pas été arrêtée avant, elle quitte les profondeurs de la Cité Sainte et se disperse dans l’Empire. Le sort de milliers de gens est scellé.
 
-- Créatures : gardiens d’Azmän (6), cf.p. 93 ; orphelins
-gangrêvés (6), cf.p. 91.
+- Créatures : [[Gardien d'Azmän]] (6), [[Humanoïde gangrêvé]] orphelins (6).
