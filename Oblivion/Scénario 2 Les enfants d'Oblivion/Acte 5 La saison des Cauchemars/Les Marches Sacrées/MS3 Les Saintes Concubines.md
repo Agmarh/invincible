@@ -19,4 +19,4 @@ Obsédée par l’idée d’un scandale, elle est devenue paranoïaque et se ter
 
 Si les PJ avertissent les autorités et font fermer ce deuxième point majeur de propagation de la gangrêve, ils mettent un sérieux coup d’arrêt à la maladie.
 
-- Créature : la Matriarche, cf. Oskar Holderhekp. 91. 35
+- Créature : la Matriarche [[Oskar Holderhek]]
