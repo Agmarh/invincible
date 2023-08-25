@@ -16,37 +16,37 @@ Le paisible bailli meurt dans son bain, déchiqueté par le ravageur « [[Chelio
 
 <span 
 	  class='ob-timelines' 
-	  data-date='1' 
+	  data-date='01-01-01' 
 	  data-title='Bartok' 
 	  data-class='orange' 
 	  data-type='range' 
-	  data-end='1'> 
+	  data-end='01-01-01'> 
 Bartok, dépassé, s’oppose violemment aux chevaliers du Jugement et refuse de paniquer la population en répandant la nouvelle d’une épidémie.
 </span>
 <span 
 	  class='ob-timelines' 
-	  data-date='2' 
+	  data-date='01-01-02' 
 	  data-title='Révolte de la milice de Bartok' 
 	  data-class='orange' 
 	  data-type='range' 
-	  data-end='2'> 
+	  data-end='01-01-02'> 
 Refusant de n’être qu’une façade, Bartok s’entête par fierté malgré l’insistance des prêtres des Marches Sacrées et des marchands de la Terrasse des Mille Négoces. Sa milice, noyautée par des membres de l’Ordre, commence à ne plus accepter ses ordres irresponsables.
 </span>
 <span 
 	  class='ob-timelines' 
-	  data-date='3' 
+	  data-date='01-01-03' 
 	  data-title='Pouvoir donné aux chevaliers de Justicaar' 
 	  data-class='orange' 
 	  data-type='range' 
-	  data-end='3'> 
+	  data-end='01-01-03'> 
 Après avoir reçu des menaces de mort « anonymes », il décide de se débarrasser du pouvoir, remettant aux chevaliers de Justicaar les clefs de la ville : la quarantaine est déclarée, la cité entièrement confinée et Garibald retrouve le calme de sa piscine d’eaux chaudes...
 </span>
 <span 
 	  class='ob-timelines' 
-	  data-date='4' 
+	  data-date='01-01-04' 
 	  data-title='Bartok meurt' 
 	  data-class='orange' 
 	  data-type='range' 
-	  data-end='4'> 
+	  data-end='01-01-04'> 
 Le paisible bailli meurt dans son bain, déchiqueté par le ravageur « Chelios » qui rôdait dans le réseau de bassins (si le ravageur a été éliminé, c’est un jardinier gangrêvé qui s’en charge).
 </span>
