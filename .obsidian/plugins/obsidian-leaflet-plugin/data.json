@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "antheone",
-      "lastAccessed": 1692967507096,
+      "lastAccessed": 1692967546905,
       "markers": [
         {
           "id": "ID_ca1a19eb2a98",
@@ -316,6 +316,7 @@
             -1.71484375,
             0.48046875
           ],
+          "link": "Le Moratorium",
           "layer": "%5B%5BAnth%C3%A9one.png%5D%5D",
           "mutable": true,
           "command": false,
