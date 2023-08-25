@@ -17,11 +17,11 @@
 | J4 | [[TN1 Chez Azmän Sagdïn le marchand#J4]] | Non |
 | J4 | [[TN1 Chez Azmän Sagdïn le marchand#J6]] | Non |
 | J4 | [[Le Moratorium#J1, J2]] | Non |
-| J4 | [[Le Moratorium#]] | Non |
-| J4 | [[]] | Non |
-| J4 | [[]] | Non |
-| J4 | [[]] | Non |
-| J4 | [[]] | Non |
+| J4 | [[Le Moratorium#J3]] | Non |
+| J4 | [[HS1 Le Bailli Garibald Bartok#J1]] | Non |
+| J4 | [[HS1 Le Bailli Garibald Bartok#J2]] | Non |
+| J4 | [[HS1 Le Bailli Garibald Bartok#J3]] | Non |
+| J4 | [[HS1 Le Bailli Garibald Bartok#J4]] | Non |
 | J4 | [[]] | Non |
 | J4 | [[]] | Non |
 | J4 | [[]] | Non |
