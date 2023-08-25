@@ -7,9 +7,9 @@ Ainsi, si les P] suivent la piste du tatouage trouvé sur la guerrière soong, i
 
 # Les événements
 Souhaitons pour Katanga que les PJ suivent avant tout la piste du tatouage sur la guerrière soong, car...
-# J1
+## J1
 Le jour de l’arrivé des PJ, une émeute éclate chez le tatoueur que la vindicte populaire rend responsable de la propagation de la maladie. Si les PJ sont dans le coin, ils peuvent intervenir. Sinon Katanga est sévèrement blessé dans l’incendie de sa boutique (PV 0, stabilisé mais inconscient).
-# J2
+## J2
 Débordée par les événements dans la ville, ni la milice ni les Chevaliers du Jugement ne sont intervenus. Si personne ne lui a porté secours, l’état de Katanga finit par s’aggraver, et il décède de ses blessures. En revanche, si les PJ l’aident, il les présente aux faiseurs de spectres ([[I5 Les entrailles d'Anthéone#Les lieux]]) qui pourront faciliter tous leurs déplacements dès J3, à la proclamation de la quarantaine.
 
 - Créatures : [[Milicien]] émeutiers.

@@ -31,7 +31,7 @@ Il y règne une « saine » ambiance d’aventuriers de comptoirs et de héros a
 - On murmure que d’inquiétantes créatures rôdent dans les sous-sols de la ville et qu’il serait grand temps que le Bailli Bartok sorte de sa piscine et fasse quelque chose... - <font style="color:green">Vrai</font>.
 
 # Les événements
-# J1, J2, J3
+## J1, J2, J3
 Dès l’arrivée des PJ, le ravageur Selioth commence un massacre dans le quartier des auberges, il sort chaque nuit, et parfois le jour, jaillissant d’un puits, ou entrant par une fenêtre, frappant des victimes isolées puis disparaît. Si les PJ sont à proximité, ils ont une chance de l’affronter. S’il se sent menacé, il fuit dans les souterrains de la ville.
-# J4 et plus 
+## J4 et plus 
 S’il n’a pas été tué, on le retrouve dans le repaire final.
