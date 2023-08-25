@@ -22,3 +22,22 @@ Si les PJ sont enfermés ici, la broche confiée par [[Malathor]] pourra leur pe
 Quarantaine limitée. Tous les Gangrêvés identifiés par les autorités (stades 4 surtout) sont enfermés ici dans des cellules individuelles, pour y attendre la mort (il y en a 1d6 nouveaux chaque jour).
 # J3
 La quarantaine est étendue à tout Anthéone. Le Moratorium ferme les accès entre les différents quartiers. Il est impossible de circuler entre les différents quartiers, à moins de s’aventurer dans les sous-sols...
+
+<span 
+	  class='ob-timelines' 
+	  data-date='4' 
+	  data-title='Nettoyage de la forge' 
+	  data-class='orange' 
+	  data-type='range' 
+	  data-end='4'> 
+Azmän fait l’aller-retour à la forge de Gorm, avec lui.
+</span>
+<span 
+	  class='ob-timelines' 
+	  data-date='4' 
+	  data-title='Nettoyage de la forge' 
+	  data-class='orange' 
+	  data-type='range' 
+	  data-end='4'> 
+Azmän fait l’aller-retour à la forge de Gorm, avec lui.
+</span>
