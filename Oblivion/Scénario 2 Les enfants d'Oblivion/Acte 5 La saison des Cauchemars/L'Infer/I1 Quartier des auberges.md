@@ -49,12 +49,3 @@ S’il n’a pas été tué, on le retrouve dans le repaire final.
 	  data-end='3'> 
 Le ravageur Selioth commence un massacre dans le quartier des auberges.
 </span>
-<span 
-	  class='ob-timelines' 
-	  data-date='4' 
-	  data-title='Massacre du quartier des auberges' 
-	  data-class='orange' 
-	  data-type='range' 
-	  data-end='6'> 
-S’il n’a pas été tué, on le retrouve dans le repaire final.
-</span>

@@ -17,3 +17,22 @@ Le jour de l’arrivé des PJ, une émeute éclate chez le tatoueur que la vindi
 Débordée par les événements dans la ville, ni la milice ni les Chevaliers du Jugement ne sont intervenus. Si personne ne lui a porté secours, l’état de [[Katanga]] finit par s’aggraver, et il décède de ses blessures. En revanche, si les PJ l’aident, il les présente aux faiseurs de spectres ([[I5 Les entrailles d'Anthéone#Les lieux]]) qui pourront faciliter tous leurs déplacements dès J3, à la proclamation de la quarantaine.
 
 - Créatures : [[Milicien]] émeutiers.
+
+<span 
+	  class='ob-timelines' 
+	  data-date='2' 
+	  data-title='Massacre du quartier des auberges' 
+	  data-class='orange' 
+	  data-type='range' 
+	  data-end='2'> 
+S’il n’a pas été tué, on le retrouve dans le repaire final.
+</span>
+<span 
+	  class='ob-timelines' 
+	  data-date='1' 
+	  data-title='Emeute chez Katanga' 
+	  data-class='orange' 
+	  data-type='range' 
+	  data-end='1'> 
+Une émeute éclate chez le tatoueur que la vindicte populaire rend responsable de la propagation de la maladie
+</span>
