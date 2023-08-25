@@ -11,12 +11,9 @@
             "id": "8d11de19954abc58",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Oblivion/ACTUELLEMENT.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Oblivion/Images/Plan citerne.jpg"
               }
             }
           }
@@ -111,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oblivion/ACTUELLEMENT.md",
+                "file": "Oblivion/Images/Plan citerne.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -123,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oblivion/ACTUELLEMENT.md",
+                "file": "Oblivion/Images/Plan citerne.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oblivion/ACTUELLEMENT.md"
+                "file": "Oblivion/Images/Plan citerne.jpg"
               }
             }
           }
@@ -191,9 +188,16 @@
   },
   "active": "8d11de19954abc58",
   "lastOpenFiles": [
+    "Oblivion/Images/Le poignard polymorphe.jpg",
+    "Oblivion/Images/La Faucheuse.jpg",
+    "Oblivion/Images/Katanga.png",
+    "Oblivion/Images/Guerrière Soong.jpg",
+    "Oblivion/Images/Gorm.jpg",
+    "Oblivion/Images/chevalier-dragon.jpg",
+    "Oblivion/Images/Anthéone.png",
+    "Oblivion/ACTUELLEMENT.md",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Timeline.md",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/1 - Enquête morbide et mortelles tracasseries.md",
-    "Oblivion/ACTUELLEMENT.md",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Anthéone.md",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/2 - Sur la route de la Cité Sainte.md",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/4 - La fin des Cauchemars.md",
@@ -216,8 +220,6 @@
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/L'Infer/I2 Katanga, le Maître des encres.md",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/L'Infer/I1 Quartier des auberges.md",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Gangêve/Soin.md",
-    "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Gangêve/Contamination.md",
-    "Oblivion/Images/Anthéone.png",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Anciennes Citernes",
     "Oblivion/Images/Plan citerne.jpg",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/L'Oratoire du Jugement",
@@ -226,17 +228,12 @@
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Les Marches Sacrées/Sans titre",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Les Marches Sacrées",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/La terrasse des Mille Négoces",
-    "Oblivion/Images/Gorm.jpg",
-    "Oblivion/Images/Katanga.png",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/L'Infer",
     "D&D/Armure complète en métal Nain.png",
     "Invincible/Images/GetImage.png",
     "D&D",
     "Animain/JDR",
-    "Oblivion/Images/Le poignard polymorphe.jpg",
-    "Oblivion/Images/La Faucheuse.jpg",
     "Oblivion/Images/img966.jpg",
-    "Invincible/Images/Pasted image 20230707113507.png",
     "Oblivion/PNJ/Sans titre.canvas"
   ]
 }
