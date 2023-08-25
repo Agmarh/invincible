@@ -21,9 +21,9 @@ Alors qu’Anthéone ravagée par la gangrêve tombe en déliquescence, ou comme
 <span 
 	  class='ob-timelines' 
 	  data-date='6' 
-	  data-title='Fermeture des portes du Moratorium' 
+	  data-title='Attaque en Oblivion' 
 	  data-class='orange' 
 	  data-type='range' 
 	  data-end='6'> 
-Le Moratorium ferme ses portes. Mais, l’activité des temples ne cesse pas, offrandes et auto-flagellations se multiplient, pour demander aux dieux de faire cesser le « Mal venu des Rêves ».
+Les PJ reçoivent un message de Réghûlus.
 </span>
