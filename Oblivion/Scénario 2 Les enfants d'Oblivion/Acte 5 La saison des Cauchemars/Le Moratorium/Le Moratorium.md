@@ -1,17 +1,9 @@
 # Les lieux
-Formidable muraille forteresse, le Moratorium embrasse, de ses puissantes fortifications, les quartiers
-des Mille Négoces et des Marches Sacrées. Gravées
-par des générations de novices sur les pierres de sa façade,
-des milliers de préceptes spirituels rappellent sans
-cesse les commandements d’Anthéos.
-Le Moratorium constitue une barrière efficace régulant
-à loisir les flux de population d’un quartier à un autre.
-Il faut, en effet, franchir à chaque fois une porte monumentale
-sous le contrôle attentif de deux gardiens tatillons
-: un chevalier du Jugement (qui détermine le droit
-« moral » d’entrer) et un milicien du bailli, qui fixe le droit
-d’entrée (de 1 po à... plusieurs milliers, en fonction de la
-situation sociale du voyageur). Le sommet des murailles
+Formidable muraille forteresse, le Moratorium embrasse, de ses puissantes fortifications, les quartiers des Mille Négoces et des Marches Sacrées. Gravées par des générations de novices sur les pierres de sa façade, des milliers de préceptes spirituels rappellent sans cesse les commandements d’Anthéos.
+
+Le Moratorium constitue une barrière efficace régulant à loisir les flux de population d’un quartier à un autre. Il faut, en effet, franchir à chaque fois une porte monumentale sous le contrôle attentif de deux gardiens tatillons : un chevalier du Jugement (qui détermine le droit « moral » d’entrer) et un milicien du bailli, qui fixe le droit d’entrée (de 1 po à... plusieurs milliers, en fonction de la situation sociale du voyageur). 
+
+Le sommet des murailles
 est protégé de nombreux sorts de détection permettant
 de détecter l’invisibilité, les créatures incorporelles, la
 magie en général ou simplement les intrus un peu trop
