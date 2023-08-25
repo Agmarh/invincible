@@ -14,12 +14,12 @@ Chaque soir vers minuit, les cérémonies de la secte naissante se tiennent ici,
 <span 
 	  class='ob-timelines' 
 	  data-date='J1' 
-	  data-title='Another Event' 
+	  data-title='Rituel' 
 	  data-class='orange' 
 	  data-img = 'Timeline Example/Timeline_2.jpg' 
 	  data-type='range' 
-	  data-end='2000-10-20-00'> 
-	A second event!
+	  data-end='J1'> 
+	[[9 La Citerne principale#J1]]
 </span>
 ## J1
 Un grand rituel est organisé par Azmän en l’honneur de l’Écorcheuse, sous l’œil cruel de son fils Azmaël/[[Bâal]]. 
