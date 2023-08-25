@@ -4,9 +4,7 @@ Ils ne sont à leur poste qu’aux moments où Azmän est le plus susceptible de
 
 S’ils sont avertis de l’arrivée d’intrus, ils essayent de régler le problème seuls (ils ne préviendront les ravageurs qu’en dernier recours). 
 
-Leur position est très stratégique : dissimulés aux trois-quarts (abris partiel), ils laissent les
-importuns grimper les escaliers, puis les tirent à l’arc, en
-jetant des eux grégeois. Ils repoussent dans le vide quiconque
-arrive jusqu’à eux (Charge à mains nues, chute de
-12m dans 1 mètre d’eau, 4d6 PV).
-» Créatures : gardiens d’Azmän (4), cf.p. 93.
+Leur position est très stratégique : dissimulés aux trois-quarts (abris partiel), ils laissent les importuns grimper les escaliers, puis les tirent à l’arc, en jetant des feux grégeois. Ils repoussent dans le vide quiconque arrive jusqu’à eux 
+- Charge à mains nues, chute de 12m dans 1 mètre d’eau, 4d6 PV.
+
+- Créatures : [[Gardien d'Azmän]] (4).
