@@ -10,8 +10,8 @@ Les PJ peuvent déchiffrer les sanglantes notes cabalistiques sur les murs grâc
 
 Ils apprendront ainsi en détail le plan d’attaque d’Anthéone décrit dans « [[Terreur sur la Cité Sainte]] ».
 
-Mais surtout, l’objectif principal de l’Écorcheuse est clairement exposé : elle a attaqué le temple de Justicaar parce qu’elle savait que des documents précieux sur Chiaroscuro y étaient enfermés 
-- La personne à l’origine de cette information était une Oubliée capturée il y a quelques semaines, la femme d’Azmän, torturée par Bâal). 
+Mais surtout, l’objectif principal de l’Écorcheuse est clairement exposé : elle a attaqué le temple de Justicaar parce qu’elle savait que des documents précieux sur Chiaroscuro y étaient enfermés.
+- La personne à l’origine de cette information était une Oubliée capturée il y a quelques semaines, la femme d’Azmän, torturée par Bâal. 
 
 Ces documents, les Tablettes d’Anthéos, ont été récupérés et décryptés. Ils confirment les espoirs de l’Écorcheuse : l’Incarnin qui s’emparera des quatre fragments de la Clé des Songes acquerra les pouvoirs d’un dieu !
 
