@@ -13,3 +13,40 @@ Refusant de n’être qu’une façade, Bartok s’entête par fierté malgré l
 Après avoir reçu des menaces de mort « anonymes », il décide de se débarrasser du pouvoir, remettant aux chevaliers de Justicaar les clefs de la ville : la quarantaine est déclarée, la cité entièrement confinée et Garibald retrouve le calme de sa piscine d’eaux chaudes...
 ## J4
 Le paisible bailli meurt dans son bain, déchiqueté par le ravageur « [[Chelios]] » qui rôdait dans le réseau de bassins (si le ravageur a été éliminé, c’est un jardinier gangrêvé qui s’en charge).
+
+<span 
+	  class='ob-timelines' 
+	  data-date='1' 
+	  data-title='Bartok' 
+	  data-class='orange' 
+	  data-type='range' 
+	  data-end='1'> 
+Bartok, dépassé, s’oppose violemment aux chevaliers du Jugement et refuse de paniquer la population en répandant la nouvelle d’une épidémie.
+</span>
+<span 
+	  class='ob-timelines' 
+	  data-date='2' 
+	  data-title='Quarantaine étendue à tout Anthéone' 
+	  data-class='orange' 
+	  data-type='range' 
+	  data-end='2'> 
+La quarantaine est étendue à tout Anthéone. Le Moratorium ferme les accès entre les différents quartiers. Il est impossible de circuler entre les différents quartiers, à moins de s’aventurer dans les sous-sols...
+</span>
+<span 
+	  class='ob-timelines' 
+	  data-date='3' 
+	  data-title='Quarantaine étendue à tout Anthéone' 
+	  data-class='orange' 
+	  data-type='range' 
+	  data-end='3'> 
+La quarantaine est étendue à tout Anthéone. Le Moratorium ferme les accès entre les différents quartiers. Il est impossible de circuler entre les différents quartiers, à moins de s’aventurer dans les sous-sols...
+</span>
+<span 
+	  class='ob-timelines' 
+	  data-date='3' 
+	  data-title='Quarantaine étendue à tout Anthéone' 
+	  data-class='orange' 
+	  data-type='range' 
+	  data-end='3'> 
+La quarantaine est étendue à tout Anthéone. Le Moratorium ferme les accès entre les différents quartiers. Il est impossible de circuler entre les différents quartiers, à moins de s’aventurer dans les sous-sols...
+</span>
