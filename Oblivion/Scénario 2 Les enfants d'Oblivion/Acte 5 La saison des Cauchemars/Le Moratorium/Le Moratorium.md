@@ -3,24 +3,13 @@ Formidable muraille forteresse, le Moratorium embrasse, de ses puissantes fortif
 
 Le Moratorium constitue une barrière efficace régulant à loisir les flux de population d’un quartier à un autre. Il faut, en effet, franchir à chaque fois une porte monumentale sous le contrôle attentif de deux gardiens tatillons : un chevalier du Jugement (qui détermine le droit « moral » d’entrer) et un milicien du bailli, qui fixe le droit d’entrée (de 1 po à... plusieurs milliers, en fonction de la situation sociale du voyageur). 
 
-Le sommet des murailles
-est protégé de nombreux sorts de détection permettant
-de détecter l’invisibilité, les créatures incorporelles, la
-magie en général ou simplement les intrus un peu trop
-discret, et constamment parcouru par le même genre de
-patrouille qui en garde les portes.
-Le Moratorium est aussi une prison redoutable, dont
-l’épaisseur des murs (10 mètres !) loge des centaines de
-geôles. Là, croupissent tous ceux que les chevaliers décident,
-après « jugement », d’y enfermer. Une armée de
-bourreaux, « assermentés », sont chargés d’obtenir des
-aveux par tous les moyens.
-Si les PJ ont le malheur d’y être emprisonnés, ils seront
-soumis aux interrogatoires légaux (toutes les 24 h), mais
-aussi à la merci des nombreux gardes loués par Azmän.
-En effet, la maintenance d’un tel bâtiment dépasse les capacités
-de l’Ordre. Les chevaliers en assurent la sécurité
-extérieure (rondes par groupe de deux sur les remparts
+Le sommet des murailles est protégé de nombreux sorts de détection permettant de détecter l’invisibilité, les créatures incorporelles, la magie en général ou simplement les intrus un peu trop discret, et constamment parcouru par le même genre de patrouille qui en garde les portes.
+
+Le Moratorium est aussi une prison redoutable, dont l’épaisseur des murs (10 mètres !) loge des centaines de geôles. Là, croupissent tous ceux que les chevaliers décident, après « jugement », d’y enfermer. Une armée de bourreaux, « assermentés », sont chargés d’obtenir des aveux par tous les moyens.
+
+Si les PJ ont le malheur d’y être emprisonnés, ils seront soumis aux interrogatoires légaux (toutes les 24 h), mais aussi à la merci des nombreux gardes loués par Azmän.
+
+En effet, la maintenance d’un tel bâtiment dépasse les capacités de l’Ordre. Les chevaliers en assurent la sécurité extérieure (rondes par groupe de deux sur les remparts
 toutes les heures, et présence constante à chaque porte
 d’un chevalier), ils ne font toutefois que superviser la sécurité
 intérieure (1 chevalier par quartier de 10 cellules,
