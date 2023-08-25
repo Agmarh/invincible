@@ -9,14 +9,13 @@ Rapidement converti au culte de l’Écorcheuse, Azmän fonda alors une secte de
 
 Mais Azmaël/[[Bâal]], toujours plus exigeant, suggéra à son père l’idée des aiguilles creuses. Azmän finança alors le forgeron [[Gorm.jpg]], et les Aiguilles Creuses devinrent le nom « officiel » de sa secte, promise à un avenir de gloire sous le joug prochain de l’Écorcheuse !
 
-Ainsi, si les PJ se présentent au domicile d’[[Azmän Sagdïn]] (soit en remontant la piste des aiguilles creuses, soit en suivant celle de la guerrière soong, cf.), il fera preuve d’une méfiance légitime et mettra tout en œuvre pour éliminer ces curieux. Il dispose d’importants appuis et n’hésitera pas à commanditer leur assassinat par ses gardes personnels...
+Ainsi, si les PJ se présentent au domicile d’[[Azmän Sagdïn]] (soit en remontant la piste des aiguilles creuses, soit en suivant celle de la guerrière soong), il fera preuve d’une méfiance légitime et mettra tout en œuvre pour éliminer ces curieux. Il dispose d’importants appuis et n’hésitera pas à commanditer leur assassinat par ses gardes personnels...
 
 Sa demeure (seize pièces sur deux niveaux, réparties en carré autour d’une cour intérieure) est protégée en permanence par quatre gardes, trois chiens de guerre, et divers pièges (DD 15 à 19). Si les PJ parviennent à s’y introduire, ils pourront y dénicher diverses références à l’Écorcheuse (dessins symboliques, ébauche d’un livre de prière), un plan d’accès aux anciennes citernes d’eau potable de la ville (quartier général des ravageurs), ainsi que les preuves de son trafic d’aiguilles avec [[Gorm Tête de Fer]] (attention, cet achat est néanmoins légal).
 
 Si les PJ sont appréhendés, ils ont toutes les chances de finir dans les geôles du Moratorium.
 
-- Créatures : [[Gardien d'Azmän]] (4), [[Mastiff]] chiens
-de guerre (3).
+- Créatures : [[Gardien d'Azmän]] (4), [[Mastiff]] chiens de guerre (3).
 # Les événements
 Accaparé par ses nouvelles occupations (recruter de nouveaux adeptes, kidnapper des victimes pour ses prochains sacrifices, etc.), Azmän est peu présent chez lui. Vous pouvez le placer à l’endroit qui vous convient le mieux, en sachant que :
 ## J1 et plus
