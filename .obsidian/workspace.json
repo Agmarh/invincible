@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pokémon/Moveset Typhlosion.md",
+                "file": "Pokémon/Moveset Pokémons.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pokémon/Moveset Typhlosion.md",
+                "file": "Pokémon/Moveset Pokémons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pokémon/Moveset Typhlosion.md",
+                "file": "Pokémon/Moveset Pokémons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pokémon/Moveset Typhlosion.md"
+                "file": "Pokémon/Moveset Pokémons.md"
               }
             }
           },
