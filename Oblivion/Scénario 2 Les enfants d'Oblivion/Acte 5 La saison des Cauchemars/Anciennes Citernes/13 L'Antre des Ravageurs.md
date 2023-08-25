@@ -5,20 +5,14 @@ Ils forment alors un cercle monstrueux autour de la silhouette enfantine d’Azm
 
 Deux « pages » du livre saint les Tables d’Anthéos ont été oubliées là. Ces reliques ont l’apparence de fines plaques d’adamantine gravées de signes cabalistiques (du langage Céleste). Quelle que soit la protection qui empêchait de les lire, les ravageurs l’ont fait disparaître. 
 
-L’Archonte Anthéos y relate les derniers jours de son règne. Il révèle qu’un extraordinaire messager céleste (un ange, du type « Solar ») lui est apparu pour le mettre en garde contre le pouvoir de la Clé des Songes, si elle venait à tomber en de mauvaises mains. Cette clé, Chiaroscuro, aurait l’aspect d’un tétraèdre, décomposé en quatre fragments triangulaires : un triangle de cuivre, un triangle de papier, un triangle de ténèbres, et un autre... (La première
-tablette s’arrête là).
-La seconde tablette semble avoir été déchirée de rage par
-un ravageur. Elle est maculée de notes sanglantes ajoutées
-par Bâal : « ... péril majeur... » et « ... l’Incarnin du Mal doit
-être averti... ». Le texte de la tablette elle- même parle seulement
-du « Retour du Rêveur », sans autre détail.
-L’explication est simple : le reste des tablettes révélait
-que les quatre Incarnins d’Oblivion forment chacun un
-aspect de l’antique Dieu-Céphale. Si Chiaroscuro est
-reconstituée et confiée à un Incarnin, elle provoquera
-automatiquement sa « fusion » avec les trois autres, ressuscitant
-ainsi le Dieu d’Oblivion... en faisant disparaître
-l’Écorcheuse et tous ses espoirs de conquête.
+L’Archonte Anthéos y relate les derniers jours de son règne. Il révèle qu’un extraordinaire messager céleste (un ange, du type « Solar ») lui est apparu pour le mettre en garde contre le pouvoir de la Clé des Songes, si elle venait à tomber en de mauvaises mains. 
+
+Cette clé, Chiaroscuro, aurait l’aspect d’un tétraèdre, décomposé en quatre fragments triangulaires : un triangle de cuivre, un triangle de papier, un triangle de ténèbres, et un autre... (La première tablette s’arrête là).
+
+La seconde tablette semble avoir été déchirée de rage par un ravageur. Elle est maculée de notes sanglantes ajoutées par [[Bâal]] : « ... péril majeur... » et « ... l’Incarnin du Mal doit être averti... ». Le texte de la tablette elle-même parle seulement du « Retour du Rêveur », sans autre détail.
+
+L’explication est simple : le reste des tablettes révélait que les quatre Incarnins d’Oblivion forment chacun un aspect de l’antique Dieu-Céphale. Si Chiaroscuro est reconstituée et confiée à un Incarnin, elle provoquera automatiquement sa « fusion » avec les trois autres, ressuscitant ainsi le Dieu d’Oblivion... en faisant disparaître l’Écorcheuse et tous ses espoirs de conquête.
+
 Les Tablettes, transmigrées à la hâte (à J1, cf. salle 9, cet
 événement arrivant quelle que soit l’évolution de l’aventure),
 vont provoquer un changement radical dans la
