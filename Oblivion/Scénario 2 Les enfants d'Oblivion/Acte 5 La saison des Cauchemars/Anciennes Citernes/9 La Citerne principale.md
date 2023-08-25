@@ -16,10 +16,18 @@ Chaque soir vers minuit, les cérémonies de la secte naissante se tiennent ici,
 	  data-date='1' 
 	  data-title='Rituel' 
 	  data-class='orange' 
-	  data-img = 'Timeline Example/Timeline_2.jpg' 
+	  data-type='range' 
+	  data-end='4'> 
+	Rituel organsié par Azmän
+</span>
+<span 
+	  class='ob-timelines' 
+	  data-date='4' 
+	  data-title='Rituel' 
+	  data-class='orange' 
 	  data-type='range' 
 	  data-end='6'> 
-	[[9 La Citerne principale#J1]]
+	Chelios est retranché ici
 </span>
 ## J1
 Un grand rituel est organisé par Azmän en l’honneur de l’Écorcheuse, sous l’œil cruel de son fils Azmaël/[[Bâal]]. 
