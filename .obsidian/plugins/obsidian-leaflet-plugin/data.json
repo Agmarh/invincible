@@ -1,0 +1,261 @@
+{
+  "mapMarkers": [
+    {
+      "id": "antheone",
+      "lastAccessed": 1692967456365,
+      "markers": [
+        {
+          "id": "ID_ca1a19eb2a98",
+          "type": "default",
+          "loc": [
+            -0.810546875,
+            1.541015625
+          ],
+          "link": "HS1 Le Bailli Garibald Bartok",
+          "layer": "%5B%5BAnth%C3%A9one.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6291866028708134,
+            0.254601226993865
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fb28d969bafa",
+          "type": "default",
+          "loc": [
+            -0.81170654296875,
+            1.8818359375
+          ],
+          "link": "Les Hautes Strates",
+          "layer": "%5B%5BAnth%C3%A9one.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a8dbfb180889",
+          "type": "default",
+          "loc": [
+            -1,
+            1.919921875
+          ],
+          "link": "HS2 La demeure du Barde Faustit Farendhell",
+          "layer": "%5B%5BAnth%C3%A9one.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.7838915470494418,
+            0.3141104294478528
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_899baa39ea09",
+          "type": "default",
+          "loc": [
+            -1.4609375,
+            1.8984375
+          ],
+          "link": "I5 Les entrailles d'Anthéone",
+          "layer": "%5B%5BAnth%C3%A9one.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.7751196172248804,
+            0.4588957055214724
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_cad85bc8387b",
+          "type": "default",
+          "loc": [
+            -1.013336181640625,
+            1.3017578125
+          ],
+          "link": "L'Oratoire du Jugement",
+          "layer": "%5B%5BAnth%C3%A9one.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4aaa09cbeb09",
+          "type": "default",
+          "loc": [
+            -2.109375,
+            0.796875
+          ],
+          "link": "TN1 Chez Azmän Sagdïn le marchand",
+          "layer": "%5B%5BAnth%C3%A9one.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.3253588516746411,
+            0.6625766871165644
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_bbb9ca6a58e8",
+          "type": "default",
+          "loc": [
+            -2.248046875,
+            1.255859375
+          ],
+          "link": "MS1 La résidence de Malathor",
+          "layer": "%5B%5BAnth%C3%A9one.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5127591706539075,
+            0.7061349693251534
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a808abaa195a",
+          "type": "default",
+          "loc": [
+            -1.962890625,
+            1.34375
+          ],
+          "link": "MS2 Temples et autres lieux de culte",
+          "layer": "%5B%5BAnth%C3%A9one.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5486443381180224,
+            0.6165644171779141
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_daeb8ad968d9",
+          "type": "default",
+          "loc": [
+            -1.927398681640625,
+            2.0322265625
+          ],
+          "link": "MS3 Les Saintes Concubines",
+          "layer": "%5B%5BAnth%C3%A9one.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5a6819587889",
+          "type": "default",
+          "loc": [
+            -2.0390625,
+            1.587890625
+          ],
+          "link": "Les Marches Sacrées",
+          "layer": "%5B%5BAnth%C3%A9one.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6483253588516746,
+            0.6404907975460122
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c87889494beb",
+          "type": "default",
+          "loc": [
+            -1.763671875,
+            0.896484375
+          ],
+          "link": "La terrasse des Mille Négoces",
+          "layer": "%5B%5BAnth%C3%A9one.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.3660287081339713,
+            0.5539877300613497
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Anthéone.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#dddddd",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": false,
+  "layerMarkers": true,
+  "previousVersion": "5.7.2",
+  "version": {
+    "major": 5,
+    "minor": 7,
+    "patch": 2
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {},
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",
+  "defaultAttribution": "Map tiles by <a href=\"http://stamen.com\">Stamen Design</a>, under <a href=\"http://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>. Data by <a href=\"http://openstreetmap.org\">OpenStreetMap</a>, under <a href=\"http://www.openstreetmap.org/copyright\">ODbL</a>.",
+  "defaultTileSubdomains": "a,b,c"
+}
