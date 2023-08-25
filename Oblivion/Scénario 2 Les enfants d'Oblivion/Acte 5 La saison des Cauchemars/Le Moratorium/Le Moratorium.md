@@ -11,12 +11,9 @@ Si les PJ ont le malheur d’y être emprisonnés, ils seront soumis aux interro
 
 En effet, la maintenance d’un tel bâtiment dépasse les capacités de l’Ordre. Les chevaliers en assurent la sécurité extérieure (rondes par groupe de deux sur les remparts toutes les heures, et présence constante à chaque porte d’un chevalier), ils ne font toutefois que superviser la sécurité intérieure (1 chevalier par quartier de 10 cellules, 50 chevaliers en tout). Ils recrutent donc les gardiens auprès des milices d’autres cultes, où dans les compagnies privées, comme celle d’Azmän.
 
-- Créatures : [[Chevalier du Jugement]], [[Milicien]] du bailli,  gardien bourreau, cf.p. 95 ;
-gardien d’Azmän, cf.p. 93.
+- Créatures : [[Chevalier du Jugement]], [[Milicien]] du bailli,  [[Milicien]] gardien bourreau, [[Gardien d'Azmän]].
 # Les événements
-Si les PJ sont enfermés ici, la broche confiée par Malathor
-pourra leur permettre de se sortir d’un mauvais pas
-à condition qu’ils parviennent à la montrer à un Chevalier.
+Si les PJ sont enfermés ici, la broche confiée par Malathor pourra leur permettre de se sortir d’un mauvais pas à condition qu’ils parviennent à la montrer à un Chevalier.
 Ils seront alors immédiatement relâchés, et éventuellement
 conduits à l’Oratoire pour une entrevue avec
 le Grand Cardinal Balthus.
