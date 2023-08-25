@@ -1,6 +1,5 @@
 ---
-banner: "![[Oblivion 2.png]]"
-banner_y: 0.3
+banner: "![[Oblivion 2 bannière.png]]"
 ---
 Ils sont arrivé à Anthéone et ont posé la Gondolfière en marge de [[l'Infer]]. 
 

@@ -1,3 +1,6 @@
+---
+banner: "![[Oblivion 2 bannière.png]]"
+---
 # Structure Sociale
  -   Citoyen : titre héréditaire
 	-   Peuvent posséder des terres et des esclaves

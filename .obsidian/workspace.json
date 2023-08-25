@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oblivion/ACTUELLEMENT.md",
+                "file": "Oblivion/L'Empire.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oblivion/ACTUELLEMENT.md",
+                "file": "Oblivion/L'Empire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oblivion/ACTUELLEMENT.md",
+                "file": "Oblivion/L'Empire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oblivion/ACTUELLEMENT.md"
+                "file": "Oblivion/L'Empire.md"
               }
             }
           }
@@ -189,8 +189,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "efc7fbc9dabff410",
+  "active": "8d11de19954abc58",
   "lastOpenFiles": [
+    "Oblivion/ACTUELLEMENT.md",
     "Oblivion/Images/Oblivion 2 bannière.png",
     "Oblivion/Images/Plan citerne.jpg",
     "Oblivion/Images/Oblivion 2.png",
@@ -201,7 +202,6 @@
     "Oblivion/Images/Gorm.jpg",
     "Oblivion/Images/chevalier-dragon.jpg",
     "Oblivion/Images/Anthéone.png",
-    "Oblivion/ACTUELLEMENT.md",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Timeline.md",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/1 - Enquête morbide et mortelles tracasseries.md",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Anthéone.md",
@@ -234,7 +234,6 @@
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Les Marches Sacrées",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/La terrasse des Mille Négoces",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/L'Infer",
-    "D&D/Armure complète en métal Nain.png",
     "D&D",
     "Animain/JDR",
     "Oblivion/PNJ/Sans titre.canvas"
