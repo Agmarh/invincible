@@ -29,9 +29,9 @@ Après la découverte du cadavre de l’enfant portant des aiguilles, Gorm Tête
 <span 
 	  class='ob-timelines' 
 	  data-date='4' 
-	  data-title='Massacre provoqué par Naga' 
+	  data-title='Nettoyage de la forme' 
 	  data-class='orange' 
 	  data-type='range' 
 	  data-end='4'> 
-Le ravageur Naga entraîne tous ses disciples dans un massacre aveugle.
+Gorm et Azmän reviennent pour faire disparaître toutes les pièces à conviction de la forge.
 </span>
