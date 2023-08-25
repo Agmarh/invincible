@@ -39,19 +39,19 @@ Attaque d’une entrée principale d’Anthéone par un puissant groupe d’orph
 <span 
 	  class='ob-timelines' 
 	  data-date='3' 
-	  data-title="" 
+	  data-title="Cadavre d'un pensionnaire de l'orphelinat" 
 	  data-class='orange' 
 	  data-type='range' 
 	  data-end='3'> 
-Si personne ne lui a porté secours, l’état de Katanga finit par s’aggraver, et il décède de ses blessures. 
+On retrouve, non loin de l’orphelinat, le cadavre de l’un des pensionnaires (un récalcitrant, tué pour l’exemple). 
 </span>
 
 <span 
 	  class='ob-timelines' 
-	  data-date='2' 
-	  data-title='Mort de Katanga' 
+	  data-date='4' 
+	  data-title='Massacre provoqué par Naga' 
 	  data-class='orange' 
 	  data-type='range' 
-	  data-end='2'> 
-Si personne ne lui a porté secours, l’état de Katanga finit par s’aggraver, et il décède de ses blessures. 
+	  data-end='4'> 
+Le ravageur Naga entraîne tous ses disciples dans un massacre aveugle (voir [[L'Infer#J4]]).
 </span>
