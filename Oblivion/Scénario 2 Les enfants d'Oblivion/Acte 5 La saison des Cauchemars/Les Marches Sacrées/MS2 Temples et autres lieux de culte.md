@@ -1,5 +1,6 @@
 ---
 banner: "![[Oblivion 2 bannière.png]]"
+tags: [timeline, acte5]
 ---
 # Les lieux
 Tolérance et ouverture semblent être les notions qui ont présidé à la création de cette extraordinaire promiscuité spirituelle. Néanmoins, la vérité est plus nuancée, car aucun culte d’alignement mauvais n’a jamais pu s’installer dans ce quartier. 

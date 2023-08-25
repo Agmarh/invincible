@@ -1,5 +1,6 @@
 ---
 banner: "![[Oblivion 2 bannière.png]]"
+tags: [timeline, acte5]
 ---
 L’architecture étrange de la demeure du plus célèbre barde d’Anthéone exerce une attraction quasi-hypnotique. 
 
