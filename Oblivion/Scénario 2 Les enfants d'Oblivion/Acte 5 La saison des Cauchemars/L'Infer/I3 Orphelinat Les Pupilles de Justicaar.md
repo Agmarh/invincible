@@ -29,10 +29,10 @@ Le ravageur [[Naga]] entraîne tous ses disciples dans un massacre aveugle (voir
 
 <span 
 	  class='ob-timelines' 
-	  data-date='01-01-03' 
+	  data-date='3' 
 	  data-title="Cadavre d'un pensionnaire de l'orphelinat" 
 	  data-class='orange' 
 	  data-type='range' 
-	  data-end='01-01-03'> 
+	  data-end='3'> 
 On retrouve, non loin de l’orphelinat, le cadavre de l’un des pensionnaires (un récalcitrant, tué pour l’exemple). 
 </span>

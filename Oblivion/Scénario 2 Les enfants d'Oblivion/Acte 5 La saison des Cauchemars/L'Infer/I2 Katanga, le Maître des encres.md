@@ -20,19 +20,19 @@ Débordée par les événements dans la ville, ni la milice ni les Chevaliers du
 
 <span 
 	  class='ob-timelines' 
-	  data-date='01-01-01' 
+	  data-date='1' 
 	  data-title='Emeute chez Katanga' 
 	  data-class='orange' 
 	  data-type='range' 
-	  data-end='01-01-01'> 
+	  data-end='1'> 
 Une émeute éclate chez le tatoueur que la vindicte populaire rend responsable de la propagation de la maladie
 </span>
 <span 
 	  class='ob-timelines' 
-	  data-date='01-01-02' 
+	  data-date='2' 
 	  data-title='Mort de Katanga' 
 	  data-class='orange' 
 	  data-type='range' 
-	  data-end='01-01-02'> 
+	  data-end='2'> 
 Si personne ne lui a porté secours, l’état de Katanga finit par s’aggraver, et il décède de ses blessures. 
 </span>

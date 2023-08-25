@@ -19,11 +19,11 @@ Gorm et Azmän reviennent pour faire disparaître toutes les pièces à convicti
 
 <span 
 	  class='ob-timelines' 
-	  data-date='01-01-03' 
+	  data-date='3' 
 	  data-title='Gorm retrouve Azmän' 
 	  data-class='orange' 
 	  data-type='range' 
-	  data-end='01-01-03'> 
+	  data-end='3'> 
 Après la découverte du cadavre de l’enfant portant des aiguilles, Gorm Tête de Fer sent que le vent tourne. Il retrouve Azmän dans un lieu discret de l’Infer, et s’enfonce avec lui dans les souterrains jusqu’au siège de la conjuration.
 </span>
 <span 
