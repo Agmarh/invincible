@@ -30,11 +30,11 @@ Alors que les incidents se multiplient dans Anthéone (hallucinations produites 
 
 <span 
 	  class='ob-timelines' 
-	  data-date='2' 
+	  data-date='01-01-02' 
 	  data-title="Attaque d'une entrée d'Anthéone" 
 	  data-class='orange' 
 	  data-type='range' 
-	  data-end='2'> 
+	  data-end='01-01-02'> 
 L’une des deux entrées principales de la ville est attaquée par un groupe d’enfants venus de l’orphelinat des Pupilles de Justicaar (des gangrêvés). L’attaque est pilotée à distance par le ravageur Naga.
 </span>
 <span 

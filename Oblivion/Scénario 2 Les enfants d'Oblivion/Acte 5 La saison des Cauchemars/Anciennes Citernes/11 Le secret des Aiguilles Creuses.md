@@ -17,19 +17,19 @@ Si la secte n’a pas été arrêtée avant, elle quitte les profondeurs de la C
 
 <span 
 	  class='ob-timelines' 
-	  data-date='5' 
+	  data-date='01-01-05' 
 	  data-title='Aiguilles Creuses' 
 	  data-class='orange' 
 	  data-type='range' 
-	  data-end='5'> 
+	  data-end='01-01-05'> 
 Les aiguilles creuses sont prêtes : 2000 pièces, à emporter dans la ville et les royaumes voisins, afin d’y monter de nouvelles cellules de la secte.
 </span>
 <span 
 	  class='ob-timelines' 
-	  data-date='6' 
+	  data-date='01-01-06' 
 	  data-title='Dispersion de la secte' 
 	  data-class='orange' 
 	  data-type='range' 
-	  data-end='6'> 
+	  data-end='01-01-06'> 
 Si la secte n’a pas été arrêtée avant, elle quitte les profondeurs de la Cité Sainte et se disperse dans l’Empire. Le sort de milliers de gens est scellé.
 </span>
