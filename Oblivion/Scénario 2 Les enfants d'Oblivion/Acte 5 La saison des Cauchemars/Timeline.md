@@ -5,7 +5,7 @@
 | J3 | [[L'Infer#J3]] | Non |
 | J4 | [[L'Infer#J4]] | Non |
 | J4 | [[I1 Quartier des auberges#J4 et plus]] | Non |
-| J4 | [[I2 Katanga, le Maître des encres#J1]] | Non |
+
 | J4 | [[I2 Katanga, le Maître des encres#J2]] | Non |
 | J4 | [[I3 Orphelinat Les Pupilles de Justicaar#J2]] | Non |
 | J4 | [[I3 Orphelinat Les Pupilles de Justicaar#J3]] | Non |
@@ -22,8 +22,7 @@
 | J4 | [[HS1 Le Bailli Garibald Bartok#J2]] | Non |
 | J4 | [[HS1 Le Bailli Garibald Bartok#J3]] | Non |
 | J4 | [[HS1 Le Bailli Garibald Bartok#J4]] | Non |
-| J4 | [[]] | Non |
-| J4 | [[]] | Non |
-| J4 | [[]] | Non |
-| J4 | [[]] | Non |
-| J4 | [[]] | Non |
+| J4 | [[MS1 La résidence de Malathor#J2]] | Non |
+| J4 | [[MS1 La résidence de Malathor#J4]] | Non |
+| J4 | [[MS2 Temples et autres lieux de culte#J1, J2]] | Non |
+| J4 | [[MS2 Temples et autres lieux de culte#J3 et plus]] | Non |
