@@ -16,3 +16,22 @@ En cambriolant le coffre de [[Gorm Tête de Fer]], on peut y trouver les schéma
 Après la découverte du cadavre de l’enfant portant des aiguilles, [[Gorm Tête de Fer]] sent que le vent tourne. Il enfile son anneau d’[[invisibilité]], retrouve Azmän dans un lieu discret de l’Infer, et s’enfonce avec lui dans les souterrains jusqu’au siège de la conjuration.
 ## J4
 Gorm et Azmän reviennent pour faire disparaître toutes les pièces à conviction de la forge (ils reprennent les aiguilles non-utilisées ainsi que les plans et mettent le feu avant de partir).
+
+<span 
+	  class='ob-timelines' 
+	  data-date='3' 
+	  data-title='Gorm retrouve Azmän' 
+	  data-class='orange' 
+	  data-type='range' 
+	  data-end='3'> 
+Après la découverte du cadavre de l’enfant portant des aiguilles, Gorm Tête de Fer sent que le vent tourne. Il retrouve Azmän dans un lieu discret de l’Infer, et s’enfonce avec lui dans les souterrains jusqu’au siège de la conjuration.
+</span>
+<span 
+	  class='ob-timelines' 
+	  data-date='4' 
+	  data-title='Massacre provoqué par Naga' 
+	  data-class='orange' 
+	  data-type='range' 
+	  data-end='4'> 
+Le ravageur Naga entraîne tous ses disciples dans un massacre aveugle.
+</span>

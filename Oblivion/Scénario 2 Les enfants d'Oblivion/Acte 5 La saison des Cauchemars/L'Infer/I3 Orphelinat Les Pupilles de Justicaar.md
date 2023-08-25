@@ -53,5 +53,5 @@ On retrouve, non loin de l’orphelinat, le cadavre de l’un des pensionnaires 
 	  data-class='orange' 
 	  data-type='range' 
 	  data-end='4'> 
-Le ravageur Naga entraîne tous ses disciples dans un massacre aveugle (voir [[L'Infer#J4]]).
+Le ravageur Naga entraîne tous ses disciples dans un massacre aveugle.
 </span>
