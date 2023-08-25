@@ -1,5 +1,3 @@
 | Evénement | J1 | J2 | J3 | J4 | J5 | J6 |
 | ---------- | --------- | --------- | --------- | --------- | --------- | --------- |
-| Max | - [ ] |  |  |  |  |  |
-
-- [x] This is a completed task. - [ ] This is an incomplete task.
+| Max |  |  |  |  |  |  |
