@@ -26,20 +26,20 @@ Bartok, dépassé, s’oppose violemment aux chevaliers du Jugement et refuse de
 <span 
 	  class='ob-timelines' 
 	  data-date='2' 
-	  data-title='Quarantaine étendue à tout Anthéone' 
+	  data-title='Révolte de la milice de Bartok' 
 	  data-class='orange' 
 	  data-type='range' 
 	  data-end='2'> 
-La quarantaine est étendue à tout Anthéone. Le Moratorium ferme les accès entre les différents quartiers. Il est impossible de circuler entre les différents quartiers, à moins de s’aventurer dans les sous-sols...
+Refusant de n’être qu’une façade, Bartok s’entête par fierté malgré l’insistance des prêtres des Marches Sacrées et des marchands de la Terrasse des Mille Négoces. Sa milice, noyautée par des membres de l’Ordre, commence à ne plus accepter ses ordres irresponsables.
 </span>
 <span 
 	  class='ob-timelines' 
 	  data-date='3' 
-	  data-title='Quarantaine étendue à tout Anthéone' 
+	  data-title='Pouvoir donné aux chevaliers de Justicaar' 
 	  data-class='orange' 
 	  data-type='range' 
 	  data-end='3'> 
-La quarantaine est étendue à tout Anthéone. Le Moratorium ferme les accès entre les différents quartiers. Il est impossible de circuler entre les différents quartiers, à moins de s’aventurer dans les sous-sols...
+Après avoir reçu des menaces de mort « anonymes », il décide de se débarrasser du pouvoir, remettant aux chevaliers de Justicaar les clefs de la ville : la quarantaine est déclarée, la cité entièrement confinée et Garibald retrouve le calme de sa piscine d’eaux chaudes...
 </span>
 <span 
 	  class='ob-timelines' 
