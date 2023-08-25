@@ -2,15 +2,12 @@ L’ancienne citerne creusée par le nain Hâz Farâzon n’a rien perdu de sa m
 
 Quinze mètres plus haut, le plafond de mosaïque s’entrouvre, en des milliers d’endroits, pour laisser filtrer l’eau pure, jadis recueillie par un réseau de canalisations. Aujourd’hui, il tombe que quelques gouttes, clapotant sur ce lac souterrain endormi. Des passerelles en pierre conduisent à une esplanade au-dessus de l’eau. 
 
-[[Azmän Sagdïn]] y a installé d’immenses porte torches et un autel sanglant, dédié à l’Écorcheuse. Un coffret est caché sous l’autel (<font style="color:lightgreen">test d’Investigation DD 15</style>), protégé par un piège à gaz empoisonné. Il faut un <font style="color:lightgreen">jet de Perception DD 19</style> pour repérer le piège, puis un <font style="color:lightgreen">test de Dextérité (Outils de voleur) DD 21</style> pour le désamorcer. Il s’active en cas d’échec ou si l’on ouvre le coffret sans l’avoir désamorcé. S’il s’active, tous les personnages présents dans un rayon de 3 m doivent effectuer un <font style="color:lightgreen">jet de sauvegarde de Constitution DD 18</style> ou subir <font style="color:red">5d8 dégâts de poison et être empoisonnés pour 2d10 minutes</style> (état [[Empoisonné]]). Si le jet de sauvegarde est réussi, ils
-ne sont pas empoisonnés et subissent la moitié des dégâts.
-Le coffret contient une baguette de sommeil (5E idem sort,
-au 6e niveau, 10 charges ou COF comme le sort d’ensorceleur
-de rang 2).
-Chaque soir vers minuit, les cérémonies de la secte
-naissante se tiennent ici, pendant deux heures. Elles réunissent
-l’ensemble des personnes en 5, 6 et 11.
-» J1 : un grand rituel est organisé par Azmän en
+[[Azmän Sagdïn]] y a installé d’immenses porte torches et un autel sanglant, dédié à l’Écorcheuse. Un coffret est caché sous l’autel (<font style="color:lightgreen">test d’Investigation DD 15</style>), protégé par un piège à gaz empoisonné. Il faut un <font style="color:lightgreen">jet de Perception DD 19</style> pour repérer le piège, puis un <font style="color:lightgreen">test de Dextérité (Outils de voleur) DD 21</style> pour le désamorcer. Il s’active en cas d’échec ou si l’on ouvre le coffret sans l’avoir désamorcé. S’il s’active, tous les personnages présents dans un rayon de 3 m doivent effectuer un <font style="color:lightgreen">jet de sauvegarde de Constitution DD 18</style> ou subir <font style="color:red">5d8 dégâts de poison et être empoisonnés pour 2d10 minutes</style> (état [[Empoisonné]]). Si le jet de sauvegarde est réussi, ils ne sont pas empoisonnés et subissent la moitié des dégâts.
+- Le coffret contient une baguette de [[Sommeil]] (au 6e niveau, 10 charges).
+
+Chaque soir vers minuit, les cérémonies de la secte naissante se tiennent ici, pendant deux heures. Elles réunissent l’ensemble des personnes en 5, 6 et 11.
+
+# J1un grand rituel est organisé par Azmän en
 l’honneur de l’Écorcheuse, sous l’oeil cruel de son
 fils Azmaël/Bâal. Trois des filles de l’oubliette « 8 A »
 sont emmenées et sacrifiées. Puis les cinq enfants
