@@ -36,13 +36,3 @@ Le ravageur [[Naga]] entraîne tous ses disciples dans un massacre aveugle (voir
 	  data-end='3'> 
 On retrouve, non loin de l’orphelinat, le cadavre de l’un des pensionnaires (un récalcitrant, tué pour l’exemple). 
 </span>
-
-<span 
-	  class='ob-timelines' 
-	  data-date='4' 
-	  data-title='Massacre provoqué par Naga' 
-	  data-class='orange' 
-	  data-type='range' 
-	  data-end='4'> 
-Le ravageur Naga entraîne tous ses disciples dans un massacre aveugle.
-</span>

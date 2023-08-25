@@ -35,7 +35,7 @@ Alors que les incidents se multiplient dans Anthéone (hallucinations produites 
 	  data-class='orange' 
 	  data-type='range' 
 	  data-end='2'> 
-L’une des deux entrées principales de la ville est attaquée par un groupe d’enfants venus de l’orphelinat des Pupilles de Justicaar (des gangrêvés). L’attaque est pilotée à distance par le ravageur [[Naga]] : c’est un test avant J4.
+L’une des deux entrées principales de la ville est attaquée par un groupe d’enfants venus de l’orphelinat des Pupilles de Justicaar (des gangrêvés). L’attaque est pilotée à distance par le ravageur Naga.
 </span>
 <span 
 	  class='ob-timelines' 
