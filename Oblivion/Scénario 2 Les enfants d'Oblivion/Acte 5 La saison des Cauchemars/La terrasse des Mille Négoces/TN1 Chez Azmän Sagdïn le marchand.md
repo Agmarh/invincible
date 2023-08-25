@@ -30,13 +30,3 @@ Il récupère [[Gorm Tête de Fer]], et l’initie au culte de l’Écorcheuse. 
 Il fait l’aller-retour à la forge de Gorm, avec lui.
 ## J6
 Il se disperse loin d’Anthéone, avec tous ses adeptes, pour répandre la gangrêve.
-
-<span 
-	  class='ob-timelines' 
-	  data-date='6' 
-	  data-title='Dispersion du culte' 
-	  data-class='orange' 
-	  data-type='range' 
-	  data-end='6'> 
-Le culte se disperse loin d’Anthéone, avec tous ses adeptes, pour répandre la gangrêve.
-</span>
