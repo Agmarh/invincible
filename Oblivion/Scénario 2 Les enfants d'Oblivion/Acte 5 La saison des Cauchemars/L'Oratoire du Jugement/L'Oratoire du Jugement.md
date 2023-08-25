@@ -1,18 +1,9 @@
 # Les lieux
-Close par les parois déchiquetées et mangées de verdure
-de l’ancien cratère, la citadelle de l’Ordre de Justicaar est
-ceinte par une formidable muraille de granit sombre. Son
-accès est limité par une étrange porte sphérique de six
-mètres de diamètre, représentant le symbole de l’Ordre :
-un cercle entourant une croix gigantesque. Cette porte
-sert de « filtre », tous ceux qui la traversent subissent le
-sort détection du Mal. Si la détection est positive et détecte
-une aberration, un fiélon ou un mort-vivant, la croix, taillée
-comme une lame, se met à tourner et tranche l’hérétique
-(jet de sauvegarde de Dextérité DD 18 (5E) ou de
-Dextérité DD 15 (COF). 15d8 dégâts (5E) ou 10d8 (COF),
-moitié des dégâts en cas de réussite au jet) ! Ceux qui ne
-sont ni des aberrations, des fiélons ou des morts-vivants
+Close par les parois déchiquetées et mangées de verdure de l’ancien cratère, la citadelle de l’Ordre de Justicaar est ceinte par une formidable muraille de granit sombre. Son accès est limité par une étrange porte sphérique de six mètres de diamètre, représentant le symbole de l’Ordre : un cercle entourant une croix gigantesque. 
+
+Cette porte sert de « filtre », tous ceux qui la traversent subissent le sort détection du Mal. Si la détection est positive et détecte une aberration, un fiélon ou un mort-vivant, la croix, taillée comme une lame, se met à tourner et tranche l’hérétique (jet de sauvegarde de Dextérité DD 18 (5E). 15d8 dégâts (5E) moitié des dégâts en cas de réussite au jet) ! 
+
+Ceux qui ne sont ni des aberrations, des fiélons ou des morts-vivants
 (ou dont la nature est indétectable, comme les ravageurs),
 n’ont rien à craindre.
 À l’intérieur, le grand hall d’audience de l’Oratoire est
