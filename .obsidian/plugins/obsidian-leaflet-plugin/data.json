@@ -2,11 +2,11 @@
   "mapMarkers": [
     {
       "id": "antheone",
-      "lastAccessed": 1692967636337,
+      "lastAccessed": 1692967694130,
       "markers": [
         {
           "id": "ID_ca1a19eb2a98",
-          "type": "default",
+          "type": "Hautes strates",
           "loc": [
             -0.810546875,
             1.541015625
@@ -26,7 +26,7 @@
         },
         {
           "id": "ID_fb28d969bafa",
-          "type": "default",
+          "type": "Hautes strates",
           "loc": [
             -0.81170654296875,
             1.8818359375
@@ -43,7 +43,7 @@
         },
         {
           "id": "ID_a8dbfb180889",
-          "type": "default",
+          "type": "Hautes strates",
           "loc": [
             -1,
             1.919921875
@@ -63,7 +63,7 @@
         },
         {
           "id": "ID_899baa39ea09",
-          "type": "default",
+          "type": "Infer",
           "loc": [
             -1.4609375,
             1.8984375
@@ -217,7 +217,7 @@
         },
         {
           "id": "ID_fa08391aaa19",
-          "type": "default",
+          "type": "Infer",
           "loc": [
             -2.419921875,
             0.654296875
@@ -237,7 +237,7 @@
         },
         {
           "id": "ID_eb58cac8da39",
-          "type": "default",
+          "type": "Infer",
           "loc": [
             -2.658203125,
             0.720703125
@@ -257,7 +257,7 @@
         },
         {
           "id": "ID_ea18b9384a08",
-          "type": "default",
+          "type": "Infer",
           "loc": [
             -2.700836181640625,
             1.2646484375
@@ -274,7 +274,7 @@
         },
         {
           "id": "ID_e97b28bb7949",
-          "type": "default",
+          "type": "Infer",
           "loc": [
             -2.948883056640625,
             0.7958984375
@@ -291,7 +291,7 @@
         },
         {
           "id": "ID_8a0bcb0a3bd8",
-          "type": "default",
+          "type": "Infer",
           "loc": [
             -2.41015625,
             2.013671875
