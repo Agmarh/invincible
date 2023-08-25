@@ -28,5 +28,5 @@ Par ailleurs, devant l’impossibilité de surveiller des centaines de kilomètr
 ```leaflet
 id: antheone
 image: [[Anthéone.png]]
-defaultZoom: 10
+defaultZoom: 9
 ```

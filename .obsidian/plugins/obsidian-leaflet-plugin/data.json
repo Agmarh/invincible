@@ -1,5 +1,37 @@
 {
-  "mapMarkers": [],
+  "mapMarkers": [
+    {
+      "id": "antheone",
+      "lastAccessed": 1692967336586,
+      "markers": [
+        {
+          "id": "ID_ca1a19eb2a98",
+          "type": "default",
+          "loc": [
+            -0.810546875,
+            1.541015625
+          ],
+          "link": "HS1 Le Bailli Garibald Bartok",
+          "layer": "%5B%5BAnth%C3%A9one.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6291866028708134,
+            0.254601226993865
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Anthéone.md"
+      ]
+    }
+  ],
   "defaultMarker": {
     "type": "default",
     "iconName": "map-marker",
