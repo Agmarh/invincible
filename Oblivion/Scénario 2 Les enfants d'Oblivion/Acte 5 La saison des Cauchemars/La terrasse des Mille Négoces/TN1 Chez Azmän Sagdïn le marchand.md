@@ -34,11 +34,11 @@ Il se disperse loin d’Anthéone, avec tous ses adeptes, pour répandre la gang
 <span 
 	  class='ob-timelines' 
 	  data-date='1' 
-	  data-title='Nettoyage de la forge' 
+	  data-title='Rituel de la secte' 
 	  data-class='orange' 
 	  data-type='range' 
-	  data-end='4'> 
-Gorm et Azmän reviennent pour faire disparaître toutes les pièces à conviction de la forge.
+	  data-end='6'> 
+Azmän orchestre une noire célébration dans les souterrains tous les soirs vers minuit (il est souvent sur place entre 20h et 4h du matin).
 </span>
 <span 
 	  class='ob-timelines' 
@@ -47,7 +47,7 @@ Gorm et Azmän reviennent pour faire disparaître toutes les pièces à convicti
 	  data-class='orange' 
 	  data-type='range' 
 	  data-end='4'> 
-Gorm et Azmän reviennent pour faire disparaître toutes les pièces à conviction de la forge.
+Il récupère Gorm Tête de Fer, et l’initie au culte de l’Écorcheuse. Le même jour, les gardes permutent leur poste avec leurs collègues dans les souterrains (cf.). Ils y vont les yeux bandés, guidés par Azmän.
 </span>
 <span 
 	  class='ob-timelines' 
