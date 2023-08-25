@@ -42,12 +42,12 @@ Azmän orchestre une noire célébration dans les souterrains tous les soirs ver
 </span>
 <span 
 	  class='ob-timelines' 
-	  data-date='4' 
-	  data-title='Nettoyage de la forge' 
+	  data-date='3' 
+	  data-title='Récupération de Gorm et changement de gardes' 
 	  data-class='orange' 
 	  data-type='range' 
-	  data-end='4'> 
-Il récupère Gorm Tête de Fer, et l’initie au culte de l’Écorcheuse. Le même jour, les gardes permutent leur poste avec leurs collègues dans les souterrains (cf.). Ils y vont les yeux bandés, guidés par Azmän.
+	  data-end='3'> 
+Il récupère Gorm Tête de Fer, et l’initie au culte de l’Écorcheuse. Le même jour, les gardes permutent leur poste avec leurs collègues dans les souterrains.
 </span>
 <span 
 	  class='ob-timelines' 
