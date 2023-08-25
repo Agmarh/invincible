@@ -1,8 +1,9 @@
 Toutes les 24 h, la victime doit réussir un <font style="color:green">jet de sauvegarde de Constitution DD 10</font>. La difficulté augmente de 1 chaque jour. À chaque échec, un stade est franchi.
 
-- Stade 1. Cauchemars abominables. Chaque matin, le sujet se réveille très « secoué » (considérez qu’il subit un niveau de fatigue. Cet état dure 1d4 heures, et revient une heure avant de s’endormir (la peur de rêver à nouveau...). Les personnes qui ne rêvent pas (elfes...) subissent à la place de terribles angoisses de mort pendant leurs phases de repos. Les conséquences sont identiques.
+# Stade 1
+Cauchemars abominables. Chaque matin, le sujet se réveille très « secoué » (considérez qu’il subit un niveau de fatigue. Cet état dure 1d4 heures, et revient une heure avant de s’endormir (la peur de rêver à nouveau...). Les personnes qui ne rêvent pas (elfes...) subissent à la place de terribles angoisses de mort pendant leurs phases de repos. Les conséquences sont identiques.
 
-- Stade 2. Idem stade 1, avec brèves hallucinations 1d2 fois par jour. Chaque hallucination est suivie d’un round de « confusion » (Considérez qu’en plus, il subit un désavantage d’INT, de SAG et de CHA), qui laisse le malade « secoué » pendant 1 heure.
+# Stade 2. Idem stade 1, avec brèves hallucinations 1d2 fois par jour. Chaque hallucination est suivie d’un round de « confusion » (Considérez qu’en plus, il subit un désavantage d’INT, de SAG et de CHA), qui laisse le malade « secoué » pendant 1 heure.
 
 - Stade 3. Idem stade 2, avec hallucinations 1d4 fois par jour, augmentant les risques d’accident dans la vie courante et l’agressivité envers les autres. Les taches noires de la gangrêve commencent à apparaître sur la peau. La victime est constamment « secouée ».
 
