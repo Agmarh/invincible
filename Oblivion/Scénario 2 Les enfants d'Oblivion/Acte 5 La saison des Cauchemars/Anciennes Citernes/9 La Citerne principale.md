@@ -1,4 +1,5 @@
 ---
+banner: "![[Oblivion 2 bannière.png]]"
 tags: [timeline, acte5]
 ---
 L’ancienne citerne creusée par le nain Hâz Farâzon n’a rien perdu de sa magnificence d’antan. Elle comprend un vaste bassin (profondeur 6m), d’où jaillissent douze colonnes de basalte, toutes ornées de sa signature runique.
@@ -12,12 +13,12 @@ Chaque soir vers minuit, les cérémonies de la secte naissante se tiennent ici,
 # Les événements
 <span 
 	  class='ob-timelines' 
-	  data-date='J1' 
+	  data-date='2000-10-10-00' 
 	  data-title='Rituel' 
 	  data-class='orange' 
 	  data-img = 'Timeline Example/Timeline_2.jpg' 
 	  data-type='range' 
-	  data-end='J1'> 
+	  data-end='2000-10-10-00'> 
 	[[9 La Citerne principale#J1]]
 </span>
 ## J1
