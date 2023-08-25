@@ -28,6 +28,10 @@ Par ailleurs, devant l’impossibilité de surveiller des centaines de kilomètr
 ```leaflet
 id: antheone
 image: [[Anthéone.png]]
+minZoom: 1
+maxZoom: 10
+defaultZoom: 5
+unit: meters
 ```
 
 ![[Anthéone.png]]
