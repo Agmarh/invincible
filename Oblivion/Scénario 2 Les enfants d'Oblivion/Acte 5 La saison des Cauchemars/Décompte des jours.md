@@ -1,3 +1,3 @@
-| Evénement | J1 | J2 | J3 | J4 | J5 | J6 |
-| ---------- | --------- | --------- | --------- | --------- | --------- | --------- |
-| [[4 - La fin des Cauchemars]] |  |  |  |  |  | Oui |
+| Evénement | Evénement | Terminé |
+| ---------- | --------- | --------- |
+| [[4 - La fin des Cauchemars]] | J6 | Non |
