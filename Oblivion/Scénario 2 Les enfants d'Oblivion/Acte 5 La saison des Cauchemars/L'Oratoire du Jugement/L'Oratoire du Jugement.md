@@ -24,21 +24,10 @@ Actuellement, Balthus coordonne l’action des chevaliers du Jugement pour jugul
 Les PJ ont tout intérêt à venir enquêter ici, car il s’agit du lieu de l’attaque des ravageurs. Cependant, pénétrer dans l’Oratoire n’est pas évident. Effectivement, en ces temps de crise les audiences se font rares et pénétrer par effraction est difficilement envisageable au niveau actuel des PJ 
 - Les protections ont été largement renforcées depuis l’intrusion des ravageurs, par des pièges mécaniques et magiques, DD 17 et plus. 
 
-Il existe cependant
-trois principaux moyens d’entrer dans la citadelle :
-» si les PJ, au cours du scénario précédent, ont tout
-raconté de leurs aventures à Malathor, celui-ci a
-automatiquement averti sa hiérarchie (cf. Le Sang
-d’Oblivion). Le Grand cardinal Balthus a alors une idée du danger que représente Oblivion, et il voudra
-interroger les PJ s’il apprend qu’ils sont à leur porte ;
-» se présenter comme les hauts représentants d’un
-ordre religieux (PJ prêtres) ou de chevalerie (PJ
-guerriers), et de demander une audience officielle :
-1 à 3 jours d’attente, suivant la façon dont les PJ présentent
-leur requête ;
-» présenter la broche de Malathor à un chevalier du
-Jugement. Balthus comprend alors que quelque
-chose ne va pas et reçoit les PJ.
+Il existe cependant trois principaux moyens d’entrer dans la citadelle : 
+- Si les PJ, au cours du scénario précédent, ont tout raconté de leurs aventures à Malathor, celui-ci a automatiquement averti sa hiérarchie. Le Grand cardinal Balthus a alors une idée du danger que représente Oblivion, et il voudra interroger les PJ s’il apprend qu’ils sont à leur porte
+- Se présenter comme les hauts représentants d’un ordre religieux (PJ prêtres) ou de chevalerie (PJ guerriers), et de demander une audience officielle : 1 à 3 jours d’attente, suivant la façon dont les PJ présentent leur requête
+- Présenter la broche de Malathor à un chevalier du Jugement. Balthus comprend alors que quelque chose ne va pas et reçoit les PJ.
 Une fois à l’intérieur, il n’est pas difficile de conduire une
 enquête discrète, et d’apprendre le vol des Tables d’Anthéos
 (révélez alors les détails du vol et la transformation des
