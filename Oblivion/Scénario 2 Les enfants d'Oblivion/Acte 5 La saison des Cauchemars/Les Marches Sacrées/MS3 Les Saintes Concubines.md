@@ -1,23 +1,10 @@
-À Anthéone, la prostitution est officiellement interdite
-(la ou le coupable est tatoué du sceau de l’infamie puis
-expulsé). Cependant, les immuables exigences de leurs
-riches donateurs ont poussé les prêtres à autoriser la
-création de cet établissement de « charme ».
-L’Ordre de Justicaar y exerce un contrôle attentif par
-l’intermédiaire de la Matriarche. En effet, une prêtresse
-veille au respect mutuel des hôtesses et de leurs clients,
-à l’absence de tout débordement... et fait son rapport
-toutes les semaines à l’Oratoire. De plus, à la sortie des
-« Saintes Concubines », l’Ordre envoie régulièrement ses
-novices recueillir la confession de la clientèle : un acte de
-foi qu’il est difficile de refuser et qui permet aux chevaliers
-de constituer des dossiers personnalisés...
-S’ils parviennent à suivre la piste de la guerrière soong,
-les PJ seront probablement tentés d’enquêter dans les alcôves
-des « Saintes Concubines ».
-Cependant, recueillir des informations dans ces lieux
-où la discrétion est une authentique profession de foi,
-risque de s’avérer difficile. D’autant plus que la guerrière
+À Anthéone, la prostitution est officiellement interdite (la ou le coupable est tatoué du sceau de l’infamie puis expulsé). Cependant, les immuables exigences de leurs riches donateurs ont poussé les prêtres à autoriser la création de cet établissement de « charme ».
+
+L’Ordre de Justicaar y exerce un contrôle attentif par l’intermédiaire de la Matriarche. En effet, une prêtresse veille au respect mutuel des hôtesses et de leurs clients, à l’absence de tout débordement... et fait son rapport toutes les semaines à l’Oratoire. De plus, à la sortie des « Saintes Concubines », l’Ordre envoie régulièrement ses novices recueillir la confession de la clientèle : un acte de foi qu’il est difficile de refuser et qui permet aux chevaliers de constituer des dossiers personnalisés...
+
+S’ils parviennent à suivre la piste de la guerrière soong, les PJ seront probablement tentés d’enquêter dans les alcôves des « Saintes Concubines ».
+
+Cependant, recueillir des informations dans ces lieux où la discrétion est une authentique profession de foi, risque de s’avérer difficile. D’autant plus que la guerrière
 soong n’est jamais venue en tant que cliente véritable
 (aucune trace dans les registres).
 En réalité la guerrière soong est arrivée ici un peu par
