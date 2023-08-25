@@ -20,11 +20,11 @@ Si les PJ n’ont pas tué le ravageur [[Chelios]] avant, ils le rencontrent ici
 
 <span 
 	  class='ob-timelines' 
-	  data-date='2300-02-00-00' 
+	  data-date='1' 
 	  data-title='Rituel' 
 	  data-class='blue' 
 	  data-type='range' 
-	  data-end='2300-02-00-00'> 
+	  data-end='4'> 
 Un grand rituel est organisé par Azmän en l’honneur de l’Écorcheuse, sous l’œil cruel de son fils Azmaël/Bâal.
 </span>
 <span 
