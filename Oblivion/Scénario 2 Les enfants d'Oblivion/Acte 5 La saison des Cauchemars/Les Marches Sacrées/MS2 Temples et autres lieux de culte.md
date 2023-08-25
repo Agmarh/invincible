@@ -12,4 +12,4 @@ Enfin, les PJ apprendront que les cryptes souterraines d’Anthéone ont été p
 ## J1, J2
 Diverses cérémonies sont ajournées, perturbées par les premières manifestations importantes de la gangrêve.
 ## J3 et plus 
-Le Moratorium ferme ses portes. Mais, l’activité des temples ne cesse pas, offrandes et auto-flagellations se multiplient, pour demander aux dieux de faire cesser le « Mal venu des Rêves ».
+[[Le Moratorium]] ferme ses portes. Mais, l’activité des temples ne cesse pas, offrandes et auto-flagellations se multiplient, pour demander aux dieux de faire cesser le « Mal venu des Rêves ».
