@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "917fec7b2d570f00",
+        "id": "cee66bff5d0db2ba",
         "type": "tabs",
         "children": [
           {
-            "id": "db18c6ae97a9cba9",
+            "id": "96cd68966d522c70",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Oblivion/Images/Anthéone.png"
+                "file": "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Anciennes Citernes/1 Les tunnels immergés.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -108,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oblivion/Images/Anthéone.png",
+                "file": "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Anciennes Citernes/1 Les tunnels immergés.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -120,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oblivion/Images/Anthéone.png",
+                "file": "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Anciennes Citernes/1 Les tunnels immergés.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oblivion/Images/Anthéone.png"
+                "file": "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Anciennes Citernes/1 Les tunnels immergés.md"
               }
             }
           }
@@ -186,8 +189,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "db18c6ae97a9cba9",
+  "active": "96cd68966d522c70",
   "lastOpenFiles": [
+    "Oblivion/Images/Anthéone.png",
+    "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Anciennes Citernes/1 Les tunnels immergés.md",
+    "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Anciennes Citernes",
+    "Oblivion/Images/Plan citerne.jpg",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/L'Oratoire du Jugement/L'Oratoire du Jugement.md",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Les Hautes Strates/HS2 La demeure du Barde Faustit Farendhell.md",
     "Oblivion/Les cantiques de Justicaar.md",
@@ -220,20 +227,15 @@
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/L'Infer/Evénements.md",
     "Oblivion/Images/Katanga.png",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/L'Infer",
-    "Oblivion/Images/Anthéone.png",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Introduction.md",
-    "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/2 - Sur la route de la Cité Sainte.md",
-    "Pokémon/Moveset Typhlosion.md",
     "D&D/Armure complète en métal Nain.png",
     "Invincible/Images/GetImage.png",
     "D&D",
     "Animain/JDR",
-    "Animain/Infos",
     "Oblivion/Images/Le poignard polymorphe.jpg",
     "Oblivion/Images/La Faucheuse.jpg",
     "Oblivion/Images/img966.jpg",
     "Invincible/Images/Pasted image 20230707113507.png",
-    "Invincible/Images/Pasted image 20230707113503.png",
     "Oblivion/PNJ/Sans titre.canvas"
   ]
 }
