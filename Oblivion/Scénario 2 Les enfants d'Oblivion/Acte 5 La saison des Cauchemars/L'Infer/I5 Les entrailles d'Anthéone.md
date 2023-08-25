@@ -18,4 +18,4 @@ La table suivante vous propose quelques rencontres si les PJ s’aventurent dans
 
 - 9 : un cadavre affreusement mutilé. Visiblement, il rôde quelque part une créature particulièrement puissante.
 
-- 10 : ravageur ! Au choix : un « enfant » qui disparaît mystérieusement ; une énorme silhouette aperçue de loin ; une attaque du ravageur Selioth etc.
+- 10 : ravageur ! Au choix : un « enfant » qui disparaît mystérieusement ; une énorme silhouette aperçue de loin ; une attaque du ravageur [[Selioth]] etc.
