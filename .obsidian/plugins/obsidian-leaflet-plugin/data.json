@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "antheone",
-      "lastAccessed": 1692967694130,
+      "lastAccessed": 1692967753429,
       "markers": [
         {
           "id": "ID_ca1a19eb2a98",
@@ -100,7 +100,7 @@
         },
         {
           "id": "ID_4aaa09cbeb09",
-          "type": "default",
+          "type": "Terrasses",
           "loc": [
             -2.109375,
             0.796875
@@ -120,7 +120,7 @@
         },
         {
           "id": "ID_bbb9ca6a58e8",
-          "type": "default",
+          "type": "Marches",
           "loc": [
             -2.248046875,
             1.255859375
@@ -140,7 +140,7 @@
         },
         {
           "id": "ID_a808abaa195a",
-          "type": "default",
+          "type": "Marches",
           "loc": [
             -1.962890625,
             1.34375
@@ -160,7 +160,7 @@
         },
         {
           "id": "ID_daeb8ad968d9",
-          "type": "default",
+          "type": "Marches",
           "loc": [
             -1.927398681640625,
             2.0322265625
@@ -177,7 +177,7 @@
         },
         {
           "id": "ID_5a6819587889",
-          "type": "default",
+          "type": "Marches",
           "loc": [
             -2.0390625,
             1.587890625
@@ -197,7 +197,7 @@
         },
         {
           "id": "ID_c87889494beb",
-          "type": "default",
+          "type": "Terrasses",
           "loc": [
             -1.763671875,
             0.896484375
@@ -368,6 +368,38 @@
       "type": "Hautes strates",
       "iconName": "map-marker",
       "color": "#001eff",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Marches",
+      "iconName": "map-marker",
+      "color": "#00ff33",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Terrasses",
+      "iconName": "map-marker",
+      "color": "#fff700",
       "alpha": 1,
       "layer": true,
       "transform": {
