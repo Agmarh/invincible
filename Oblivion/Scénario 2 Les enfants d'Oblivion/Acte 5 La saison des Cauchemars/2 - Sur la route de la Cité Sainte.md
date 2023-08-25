@@ -7,7 +7,7 @@ Si les PJ n’interviennent pas, l’ensemble des elfes finit brûlé ou massacr
 
 Les gobelins doivent être contenus en même temps, ceux-ci n’ont pas de réelle tactique : ils attaquent de front, 2d4 à la fois, n’hésitant pas à charger avec leurs lances, puis se rabattent. Si les PJ les attaquent à distance, ils sortent des frondes et des feux grégeois. Certains de leur supériorité numérique, ils n’abandonneront pas avant que les deux tiers d’entre eux soient à terre. Si les PJ sauvent les elfes, ceux-ci se présentent comme des habitants et serviteurs de la Maison Elfique de Farendhell,une demeure noble d’Anthéone. 
 
-Leur patriarche est le fameux barde Faustit Farendhell. À son propos, un test d'<font style="color:green">Histoire DD 10</font> permet de se rappeler qu’il est l’héritier d’une grande lignée elfique, qu’il est connu dans l’Empire pour ses sonnets impertinents, et qu’il s’est établi à Anthéone pour surveiller d’un oeil critique l’esprit un tantinet « xénophobe » du culte de Justicaar. 
+Leur patriarche est le fameux barde [[Faustit Farendhell]]. À son propos, un test d'<font style="color:green">Histoire DD 10</font> permet de se rappeler qu’il est l’héritier d’une grande lignée elfique, qu’il est connu dans l’Empire pour ses sonnets impertinents, et qu’il s’est établi à Anthéone pour surveiller d’un oeil critique l’esprit un tantinet « xénophobe » du culte de Justicaar. 
 
 Les elfes sauvés peuvent ajouter qu’il a beaucoup changé ces derniers temps : après une réunion houleuse avec les prêtres de Justicaar, il y a quelques jours, il est devenu ombrageux puis a fini par mettre tout le monde à la porte. Les elfes ont dû quitter le quartier noble et le laisser seul, alors qu’une grave maladie se répandait dans la ville basse, semant le trouble et la confusion.
 
@@ -16,7 +16,7 @@ Les elfes se montreront reconnaissants envers les PJ après leur sauvetage. Ils 
 Bestiaire : [[Elfe de Farendhell]] (8), [[Gobelin]] (28), [[Chef de meute Gobelin]] (2), [[Hyène de guerre]] (30).
 
 # Les chevaliers-dragons
-Cette rencontre survient dès que les PJ approchent la cité par la voie des airs, dans un rayon d’une dizaine de kilomètres (s’ils arrivent par la route, une rencontre similaire se produit, mais la monture draconique est alors remplacée par un lézard géant).
+Cette rencontre survient dès que les PJ approchent la cité par la voie des airs, dans un rayon d’une dizaine de kilomètres (s’ils arrivent par la route, une rencontre similaire se produit, mais la monture draconique est alors remplacée par un [[lézard géant]]).
 
 Déchirant l’ultime couche de nuages immaculés surplombant Anthéone, les PJ découvrent la splendeur imposante de la cité sainte : l’impressionnante silhouette de l’Oratoire du Jugement, les terrasses luxueuses des Hautes Strates et l’étrange ceinture du Moratorium...
 
@@ -26,7 +26,7 @@ Ainsi, pendant quelques instants, les PJ ont tout loisir de détailler la formid
 
 > « *Par le Fer et la Foi, je vous ordonne de vous arrêter ! Qu’Azel-Liark me maudisse si vous ne vous posez pas immédiatement...* », tonne l’Enfermé d’une voix caverneuse.
 
-Puis le chevalier-dragon commence à questionner les PJ sur les motifs de leur voyage et leur ordonne de se poser en marge de l’Infer, le survol de la cité étant formellement interdit. Si les PJ refusent d’obtempérer, il appelle en renfort les deux autres chevaliers, qui surgissent en quelques minutes, bien décidés à faire respecter la loi...
+Puis le [[chevalier-dragon]] commence à questionner les PJ sur les motifs de leur voyage et leur ordonne de se poser en marge de l’Infer, le survol de la cité étant formellement interdit. Si les PJ refusent d’obtempérer, il appelle en renfort les deux autres chevaliers, qui surgissent en quelques minutes, bien décidés à faire respecter la loi...
 
 L’Enfermé essaye d’impressionner les PJ (Intimidation) et multiplie les tracasseries administratives (évitables par trois jets successifs de Diplomatie ou Bluff, <font style="color:green">DD 10, DD 12 et DD 15</font>) : examen de leurs armes, prélèvement d’une taxe d’atterrissage... Un <font style="color:green">jet de Perspicacité (DD 12)</font> permettra de deviner que le zèle de ce chevalier est en rapport avec un sentiment inconcevable d’impuissance. 
 
