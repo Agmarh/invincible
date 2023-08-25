@@ -1,5 +1,5 @@
 | Date | Evénement | En cours | Terminé |
-| ---------- | --------- | --------- |
+| ---------- | --------- | --------- | --------- |
 | J1 | [[I2 Katanga, le Maître des encres#J1]] | <input type="checkbox"> | <input type="checkbox"> |
 | J1 | [[TN1 Chez Azmän Sagdïn le marchand#J1 et plus]] | <input type="checkbox"> | <input type="checkbox"> |
 | J1 | [[HS1 Le Bailli Garibald Bartok#J1]] | <input type="checkbox"> | <input type="checkbox"> |
