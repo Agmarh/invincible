@@ -11,7 +11,10 @@ Affreusement transformé, il gît sur une couche rudimentaire entre deux accès 
 
 D’ailleurs, il a parfaitement vu la créature enduire ses griffes de son propre sang avant de se lancer à l’attaque. En revanche, Malathor ignore tout du vol des Tables d’Anthéos.
 
-Si les P] lui demandent expressément de l’aide, il leur fournira une broche vermeille représentant le symbole de l’ordre qui leur permettra d’obtenir une oreille attentive auprès d’un vieil ami, le Grand Cardinal Balthus, et
-ceci quelles que soient les circonstances (même emprisonnés
-dans le Moratorium).
+Si les P] lui demandent expressément de l’aide, il leur fournira une broche vermeille représentant le symbole de l’ordre qui leur permettra d’obtenir une oreille attentive auprès d’un vieil ami, le Grand Cardinal Balthus, et ceci quelles que soient les circonstances (même emprisonnés dans le Moratorium).
 # Les événements
+# J2
+Si les PJ n’ont rien tenté, Valkin passe au stade 5 de la maladie.
+
+# J4
+Si les PJ n’ont rien tenté, Valkin décède au décours d’une lente et atroce agonie. Malathor s’enfonce alors dans une folie mélancolique, dont rien ne le sortira (jusqu’à l’acte VII).
