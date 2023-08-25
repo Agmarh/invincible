@@ -6,11 +6,6 @@ Le second, un ravageur au nom de Naga (qui n’est pas non plus transformé), a 
 
 Quant à, Bâal, le chef des ravageurs, il organise la cerise sur le gâteau : utilisant son apparence « d’enfant », il est parvenu à retrouver son « père » d’origine, et à en faire un adorateur de l’Écorcheuse. Ce père s’attelle maintenant à monter une secte, les Aiguilles Creuses. Ces adeptes recrutés parmi ses propres employés (des hommes d’armes), et les fragiles orphelins des Pupilles de Justicaar, auront pour mission de propager la gangrêve aux quatre coins du monde, grâce aux aiguilles fabriquées précédemment !
 
-Comme vous le voyez, les plans de l’Écorcheuse sont
-parfaitement rodés. Les PJ, qui arrivent à Anthéone à J1
-(date fixée arbitrairement pour démarrer le compte des
-jours), vont avoir fort à faire pour la mettre en échec...
-
 Répartition des ravageur :
 - Chelos et Heketée sont remontés à la surface, se mêlant aux enfants d'un orphelinat, pour s'introduire par la suite dans l'Oratoire du jugement et s'emparer du livre saint : les Tables d'Antheos
 	- Objectif rempli

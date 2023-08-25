@@ -8,7 +8,7 @@ La plupart du temps (75 %), Bâal se tient sur un antique trône sacramentel, é
 
 Les PJ peuvent déchiffrer les sanglantes notes cabalistiques sur les murs grâce à un sort de lecture de la magie (ce langage est en effet « magique », tout comme l’esprit du ravageur). 
 
-Ils apprendront ainsi en détail le plan d’attaque d’Anthéone décrit dans « [[Terreur sur la Cité Sainte]] ».
+Ils apprendront ainsi en détail le plan d’attaque d’Anthéone décrit dans « [[3 - Terreur sur la Cité Sainte]] ».
 
 Mais surtout, l’objectif principal de l’Écorcheuse est clairement exposé : elle a attaqué le temple de Justicaar parce qu’elle savait que des documents précieux sur Chiaroscuro y étaient enfermés.
 - La personne à l’origine de cette information était une Oubliée capturée il y a quelques semaines, la femme d’Azmän, torturée par Bâal. 
