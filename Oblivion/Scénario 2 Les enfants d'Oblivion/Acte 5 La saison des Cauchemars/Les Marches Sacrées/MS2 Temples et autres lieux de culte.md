@@ -20,11 +20,11 @@ Diverses cérémonies sont ajournées, perturbées par les premières manifestat
 
 <span 
 	  class='ob-timelines' 
-	  data-date='1' 
+	  data-date='01-01-01' 
 	  data-title='Cérémonies annulées' 
 	  data-class='orange' 
 	  data-type='range' 
-	  data-end='2'> 
+	  data-end='01-01-02'> 
 Diverses cérémonies sont ajournées, perturbées par les premières manifestations importantes de la gangrêve.
 </span>
 <span 

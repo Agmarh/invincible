@@ -24,19 +24,19 @@ Si les PJ n’ont rien tenté, Valkin décède au décours d’une lente et atro
 
 <span 
 	  class='ob-timelines' 
-	  data-date='2' 
+	  data-date='01-01-02' 
 	  data-title='Valkin stade 5' 
 	  data-class='orange' 
 	  data-type='range' 
-	  data-end='2'> 
+	  data-end='01-01-02'> 
 Si les PJ n’ont rien tenté, Valkin passe au stade 5 de la maladie.
 </span>
 <span 
 	  class='ob-timelines' 
-	  data-date='4' 
+	  data-date='01-01-04' 
 	  data-title='Mort de Valkin' 
 	  data-class='orange' 
 	  data-type='range' 
-	  data-end='4'> 
+	  data-end='01-01-04'> 
 Si les PJ n’ont rien tenté, Valkin décède au décours d’une lente et atroce agonie. Malathor s’enfonce alors dans une folie mélancolique, dont rien ne le sortira.
 </span>
