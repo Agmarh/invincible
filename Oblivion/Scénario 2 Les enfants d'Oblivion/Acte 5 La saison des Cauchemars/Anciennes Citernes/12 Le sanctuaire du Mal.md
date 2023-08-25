@@ -1,3 +1,6 @@
+---
+banner: "![[Oblivion 2 bannière.png]]"
+---
 Ancienne chapelle construite par les premiers bâtisseurs nains en l’honneur d’une divinité des eaux depuis longtemps oubliée. Il sert de repère au ravageur qui mène les opérations dans Anthéone : Azmaël/[[Bâal]].
 
 [[Bâal]] est le plus puissant des ravageurs, et le seul à porter un nom. L’Écorcheuse a investi beaucoup de ses énergies nécromantiques en lui. En effet, lorsqu’il choisira d’effectuer sa transformation monstrueuse, il prendra aussitôt l’aspect d’un terrible démon ailé à la puissance incommensurable !

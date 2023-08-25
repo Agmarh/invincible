@@ -1,4 +1,3 @@
-
 ---
 banner: "![[Oblivion 2 bannière.png]]"
 ---

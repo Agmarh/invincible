@@ -1,3 +1,6 @@
+---
+banner: "![[Oblivion 2 bannière.png]]"
+---
 C’est une autre crypte funéraire des bâtisseurs nains. Le ravageur [[Heketé]] y passe 75 % de son temps. Les ravageurs s’y réunissent pour mettre au point leurs tactiques.
 
 Ils forment alors un cercle monstrueux autour de la silhouette enfantine d’Azmaël/[[Bâal]], et conversent tous ensemble dans un langage impie, qui résonne sous la voûte des citernes et glace le sang de ceux qui l’entendent (<font style="color:lightgreen">jet de sauvegarde de Charisme DD 18</style>. 
