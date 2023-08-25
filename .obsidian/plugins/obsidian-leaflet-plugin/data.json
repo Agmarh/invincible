@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "antheone",
-      "lastAccessed": 1692967873188,
+      "lastAccessed": 1692967912188,
       "markers": [
         {
           "id": "ID_ca1a19eb2a98",
@@ -323,6 +323,57 @@
           "percent": [
             0.19617224880382775,
             0.5386503067484663
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a80adb3a686a",
+          "type": "PJ",
+          "loc": [
+            -3.122650146484375,
+            1.13232421875
+          ],
+          "layer": "%5B%5BAnth%C3%A9one.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c878e92a4a68",
+          "type": "PJ",
+          "loc": [
+            -2.9984130859375,
+            1.177734375
+          ],
+          "layer": "%5B%5BAnth%C3%A9one.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ab4b8bead81a",
+          "type": "PJ",
+          "loc": [
+            -3.12890625,
+            1.1640625
+          ],
+          "layer": "%5B%5BAnth%C3%A9one.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.47527910685805425,
+            0.9828220858895705
           ],
           "description": null,
           "minZoom": null,
