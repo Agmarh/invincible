@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "antheone",
-      "lastAccessed": 1692967912188,
+      "lastAccessed": 1693212272349,
       "markers": [
         {
           "id": "ID_ca1a19eb2a98",
@@ -330,52 +330,36 @@
           "tooltip": "hover"
         },
         {
-          "id": "ID_a80adb3a686a",
-          "type": "PJ",
-          "loc": [
-            -3.122650146484375,
-            1.13232421875
-          ],
-          "layer": "%5B%5BAnth%C3%A9one.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_c878e92a4a68",
-          "type": "PJ",
-          "loc": [
-            -2.9984130859375,
-            1.177734375
-          ],
-          "layer": "%5B%5BAnth%C3%A9one.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
           "id": "ID_ab4b8bead81a",
           "type": "PJ",
           "loc": [
-            -3.12890625,
-            1.1640625
+            -3.146484375,
+            1.17578125
           ],
           "layer": "%5B%5BAnth%C3%A9one.png%5D%5D",
           "mutable": true,
           "command": false,
           "percent": [
-            0.47527910685805425,
-            0.9828220858895705
+            0.4800637958532695,
+            0.9883435582822085
           ],
           "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0a895bcb7af9",
+          "type": "Infer",
+          "loc": [
+            -3.13201904296875,
+            1.1298828125
+          ],
+          "layer": "%5B%5BAnth%C3%A9one.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Gondolfière",
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
