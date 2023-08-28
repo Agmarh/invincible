@@ -1,5 +1,8 @@
 ---
 banner: "![[Oblivion 2 bannière.png]]"
+---
+---
+banner: "![[Oblivion 2 bannière.png]]"
 tags: [timeline, acte5]
 ---
 # Les lieux
