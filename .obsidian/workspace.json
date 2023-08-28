@@ -11,8 +11,13 @@
             "id": "d31c363096b1dd87",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Oblivion/ACTUELLEMENT.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -89,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oblivion/Groupe/Extases Nocturno.md",
+                "file": "Oblivion/ACTUELLEMENT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -101,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oblivion/Groupe/Extases Nocturno.md",
+                "file": "Oblivion/ACTUELLEMENT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,10 +157,10 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "efc7fbc9dabff410",
+  "active": "d31c363096b1dd87",
   "lastOpenFiles": [
-    "Oblivion/Objets Magiques/Nocturno.md",
     "Oblivion/Groupe/Extases Nocturno.md",
+    "Oblivion/Objets Magiques/Nocturno.md",
     "Oblivion/Groupe/Planque.md",
     "Oblivion/Groupe/Gestion Compagnie.md",
     "Oblivion/ACTUELLEMENT.md",
