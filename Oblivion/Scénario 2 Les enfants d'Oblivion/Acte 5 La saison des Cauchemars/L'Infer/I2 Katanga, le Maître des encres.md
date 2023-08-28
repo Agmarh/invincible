@@ -8,7 +8,6 @@ Encombrée de colifichets ethniques, l’échoppe de [[Katanga]] ressemble plus 
 Ainsi, si les P] suivent la piste du tatouage trouvé sur la [[guerrière soong]], ils seront peu à peu aiguillés vers le commerce de [[Katanga]]. En particulier, une description de son travail sera identifiée par toute personne ayant eu recours à ses services. [[Katanga]] n’est pas contaminé par la gangrêve et, si les P] font preuve de tact, il répondra à leurs questions. Il se souvient parfaitement de la [[guerrière soong]] et du crâne rouge qu’il lui a dessiné sur la peau.
 
 - Créature : [[Katanga]], le Maître des Encres.
-
 # Les événements
 Souhaitons pour [[Katanga]] que les PJ suivent avant tout la piste du tatouage sur la [[guerrière soong]], car...
 ## J1
