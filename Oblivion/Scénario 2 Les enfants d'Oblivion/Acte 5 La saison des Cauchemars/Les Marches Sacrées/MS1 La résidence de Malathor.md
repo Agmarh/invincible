@@ -7,7 +7,7 @@ Installés dans une ancienne chapelle désacralisée, les appartements de [[Mala
 
 Depuis l’attaque des ravageurs, [[Malathor]] s’est enfermé dans sa demeure avec son fils sévèrement atteint par la gangrêve. En effet, malgré la gravité des événements, l’Ordre a décidé d’étouffer l’affaire et n’a pas jugé utile de comprendre pourquoi le mal de Valkin résistait aux sortilèges de soins classiques (cet ordre vient de l’Archonte en personne). 
 
-Écoeuré, [[Malathor]] a installé son fils dans une « chambre cellule » pour tenter de le guérir (il a déjà essayé, en vain des sorts pour lever les malédictions ou guérir les maladies). 
+Ecœuré, [[Malathor]] a installé son fils dans une « chambre cellule » pour tenter de le guérir (il a déjà essayé, en vain des sorts pour lever les malédictions ou guérir les maladies). 
 
 Valkin est au stade 4 de la maladie. 
 
