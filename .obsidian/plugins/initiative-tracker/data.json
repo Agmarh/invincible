@@ -49,6 +49,14 @@
       "ac": "18",
       "modifier": 4,
       "player": true
+    },
+    {
+      "name": "Nevilynn",
+      "level": 6,
+      "hp": 58,
+      "ac": "19",
+      "modifier": -1,
+      "player": true
     }
   ],
   "parties": [
