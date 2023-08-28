@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oblivion/Magie.md",
+                "file": "Oblivion/Scénario 2 Les enfants d'Oblivion/Introduction.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oblivion/Magie.md",
+                "file": "Oblivion/Scénario 2 Les enfants d'Oblivion/Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oblivion/Magie.md",
+                "file": "Oblivion/Scénario 2 Les enfants d'Oblivion/Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oblivion/Magie.md"
+                "file": "Oblivion/Scénario 2 Les enfants d'Oblivion/Introduction.md"
               }
             }
           },
@@ -176,11 +176,12 @@
   },
   "active": "146fbdb920209172",
   "lastOpenFiles": [
-    "Oblivion/Les cantiques de Justicaar.md",
+    "Oblivion/Scénario 2 Les enfants d'Oblivion/Le rêve se répand.md",
     "Oblivion/ACTUELLEMENT.md",
     "Oblivion/L'Empire.md",
+    "Oblivion/Les cantiques de Justicaar.md",
+    "Oblivion/Magie.md",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Introduction.md",
-    "Oblivion/Scénario 2 Les enfants d'Oblivion/Le rêve se répand.md",
     "Pokémon/Moveset Pokémons.md",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Timeline.md",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Anciennes Citernes/10 La Forêt de chaînes et le crucifié.md",
@@ -201,7 +202,6 @@
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/L'Infer/I3 Orphelinat Les Pupilles de Justicaar.md",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/L'Infer/I1 Quartier des auberges.md",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/L'Infer/I2 Katanga, le Maître des encres.md",
-    "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/L'Oratoire du Jugement/L'Oratoire du Jugement.md",
     "Oblivion/Images/Anthéone.png",
     "Oblivion/Images/Oblivion 2 bannière.png",
     "Oblivion/Images/Plan citerne.jpg",
