@@ -57,6 +57,14 @@
       "ac": "19",
       "modifier": -1,
       "player": true
+    },
+    {
+      "name": "Rasan",
+      "level": 6,
+      "hp": 37,
+      "ac": "14",
+      "modifier": 3,
+      "player": true
     }
   ],
   "parties": [
@@ -192,6 +200,44 @@
         "status": [],
         "enabled": true,
         "level": 5,
+        "player": true,
+        "hidden": false,
+        "friendly": false
+      },
+      {
+        "name": "Nevilynn",
+        "initiative": 11,
+        "static": false,
+        "modifier": -1,
+        "hp": 58,
+        "currentMaxHP": 58,
+        "ac": "19",
+        "currentAC": "19",
+        "id": "ID_49888babb82a",
+        "currentHP": 58,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "level": 6,
+        "player": true,
+        "hidden": false,
+        "friendly": false
+      },
+      {
+        "name": "Rasan",
+        "initiative": 19,
+        "static": false,
+        "modifier": 3,
+        "hp": 37,
+        "currentMaxHP": 37,
+        "ac": "14",
+        "currentAC": "14",
+        "id": "ID_6939faf8096b",
+        "currentHP": 37,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "level": 6,
         "player": true,
         "hidden": false,
         "friendly": false
