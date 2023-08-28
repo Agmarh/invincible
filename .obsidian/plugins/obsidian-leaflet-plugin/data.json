@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "antheone",
-      "lastAccessed": 1693212320200,
+      "lastAccessed": 1693254710187,
       "markers": [
         {
           "id": "ID_ca1a19eb2a98",
@@ -299,16 +299,16 @@
           "id": "ID_8a0bcb0a3bd8",
           "type": "Infer",
           "loc": [
-            -2.46875,
-            2.015625
+            -2.4484374821186066,
+            2.018749952316284
           ],
           "link": "I4 Forge Au Souffle Draconique",
           "layer": "%5B%5BAnth%C3%A9one.png%5D%5D",
           "mutable": true,
           "command": false,
           "percent": [
-            0.8229665071770335,
-            0.7754601226993865
+            0.8242424047734749,
+            0.7690797489844948
           ],
           "description": null,
           "minZoom": null,
