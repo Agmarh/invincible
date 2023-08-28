@@ -2,22 +2,22 @@
   "mapMarkers": [
     {
       "id": "antheone",
-      "lastAccessed": 1693212272349,
+      "lastAccessed": 1693212320200,
       "markers": [
         {
           "id": "ID_ca1a19eb2a98",
           "type": "Hautes strates",
           "loc": [
-            -0.810546875,
-            1.541015625
+            -0.84375,
+            1.544921875
           ],
           "link": "HS1 Le Bailli Garibald Bartok",
           "layer": "%5B%5BAnth%C3%A9one.png%5D%5D",
           "mutable": true,
           "command": false,
           "percent": [
-            0.6291866028708134,
-            0.254601226993865
+            0.6307814992025519,
+            0.2650306748466258
           ],
           "description": null,
           "minZoom": null,
@@ -45,16 +45,16 @@
           "id": "ID_a8dbfb180889",
           "type": "Hautes strates",
           "loc": [
-            -1,
-            1.919921875
+            -1.033203125,
+            1.923828125
           ],
           "link": "HS2 La demeure du Barde Faustit Farendhell",
           "layer": "%5B%5BAnth%C3%A9one.png%5D%5D",
           "mutable": true,
           "command": false,
           "percent": [
-            0.7838915470494418,
-            0.3141104294478528
+            0.7854864433811802,
+            0.3245398773006135
           ],
           "description": null,
           "minZoom": null,
@@ -65,16 +65,16 @@
           "id": "ID_899baa39ea09",
           "type": "Infer",
           "loc": [
-            -1.4609375,
-            1.8984375
+            -1.5078125,
+            1.890625
           ],
           "link": "I5 Les entrailles d'Anthéone",
           "layer": "%5B%5BAnth%C3%A9one.png%5D%5D",
           "mutable": true,
           "command": false,
           "percent": [
-            0.7751196172248804,
-            0.4588957055214724
+            0.7719298245614035,
+            0.4736196319018405
           ],
           "description": null,
           "minZoom": null,
@@ -102,16 +102,16 @@
           "id": "ID_4aaa09cbeb09",
           "type": "Terrasses",
           "loc": [
-            -2.109375,
-            0.796875
+            -2.158203125,
+            0.798828125
           ],
           "link": "TN1 Chez Azmän Sagdïn le marchand",
           "layer": "%5B%5BAnth%C3%A9one.png%5D%5D",
           "mutable": true,
           "command": false,
           "percent": [
-            0.3253588516746411,
-            0.6625766871165644
+            0.32615629984051037,
+            0.6779141104294478
           ],
           "description": null,
           "minZoom": null,
@@ -122,16 +122,16 @@
           "id": "ID_bbb9ca6a58e8",
           "type": "Marches",
           "loc": [
-            -2.248046875,
-            1.255859375
+            -2.291015625,
+            1.259765625
           ],
           "link": "MS1 La résidence de Malathor",
           "layer": "%5B%5BAnth%C3%A9one.png%5D%5D",
           "mutable": true,
           "command": false,
           "percent": [
-            0.5127591706539075,
-            0.7061349693251534
+            0.5143540669856459,
+            0.7196319018404908
           ],
           "description": null,
           "minZoom": null,
@@ -142,16 +142,16 @@
           "id": "ID_a808abaa195a",
           "type": "Marches",
           "loc": [
-            -1.962890625,
-            1.34375
+            -2.00390625,
+            1.349609375
           ],
           "link": "MS2 Temples et autres lieux de culte",
           "layer": "%5B%5BAnth%C3%A9one.png%5D%5D",
           "mutable": true,
           "command": false,
           "percent": [
-            0.5486443381180224,
-            0.6165644171779141
+            0.55103668261563,
+            0.6294478527607362
           ],
           "description": null,
           "minZoom": null,
@@ -179,16 +179,16 @@
           "id": "ID_5a6819587889",
           "type": "Marches",
           "loc": [
-            -2.0390625,
-            1.587890625
+            -2.08984375,
+            1.591796875
           ],
           "link": "Les Marches Sacrées",
           "layer": "%5B%5BAnth%C3%A9one.png%5D%5D",
           "mutable": true,
           "command": false,
           "percent": [
-            0.6483253588516746,
-            0.6404907975460122
+            0.6499202551834131,
+            0.656441717791411
           ],
           "description": null,
           "minZoom": null,
@@ -199,7 +199,7 @@
           "id": "ID_c87889494beb",
           "type": "Terrasses",
           "loc": [
-            -1.763671875,
+            -1.791015625,
             0.896484375
           ],
           "link": "La terrasse des Mille Négoces",
@@ -208,7 +208,7 @@
           "command": false,
           "percent": [
             0.3660287081339713,
-            0.5539877300613497
+            0.5625766871165644
           ],
           "description": null,
           "minZoom": null,
@@ -219,16 +219,16 @@
           "id": "ID_fa08391aaa19",
           "type": "Infer",
           "loc": [
-            -2.419921875,
-            0.654296875
+            -2.466796875,
+            0.6484375
           ],
           "link": "I1 Quartier des auberges",
           "layer": "%5B%5BAnth%C3%A9one.png%5D%5D",
           "mutable": true,
           "command": false,
           "percent": [
-            0.2671451355661882,
-            0.7601226993865031
+            0.2647527910685805,
+            0.7748466257668711
           ],
           "description": null,
           "minZoom": null,
@@ -239,7 +239,7 @@
           "id": "ID_eb58cac8da39",
           "type": "Infer",
           "loc": [
-            -2.658203125,
+            -2.701171875,
             0.720703125
           ],
           "link": "I2 Katanga, le Maître des encres",
@@ -248,7 +248,7 @@
           "command": false,
           "percent": [
             0.2942583732057416,
-            0.8349693251533742
+            0.8484662576687116
           ],
           "description": null,
           "minZoom": null,
@@ -259,14 +259,17 @@
           "id": "ID_ea18b9384a08",
           "type": "Infer",
           "loc": [
-            -2.700836181640625,
-            1.2646484375
+            -2.74609375,
+            1.26953125
           ],
           "link": "L'Infer",
           "layer": "%5B%5BAnth%C3%A9one.png%5D%5D",
           "mutable": true,
           "command": false,
-          "percent": null,
+          "percent": [
+            0.518341307814992,
+            0.8625766871165644
+          ],
           "description": null,
           "minZoom": null,
           "maxZoom": null,
@@ -276,14 +279,17 @@
           "id": "ID_e97b28bb7949",
           "type": "Infer",
           "loc": [
-            -2.948883056640625,
-            0.7958984375
+            -2.99609375,
+            0.794921875
           ],
           "link": "I3 Orphelinat Les Pupilles de Justicaar",
           "layer": "%5B%5BAnth%C3%A9one.png%5D%5D",
           "mutable": true,
           "command": false,
-          "percent": null,
+          "percent": [
+            0.32456140350877194,
+            0.9411042944785276
+          ],
           "description": null,
           "minZoom": null,
           "maxZoom": null,
@@ -293,16 +299,16 @@
           "id": "ID_8a0bcb0a3bd8",
           "type": "Infer",
           "loc": [
-            -2.41015625,
-            2.013671875
+            -2.46875,
+            2.015625
           ],
           "link": "I4 Forge Au Souffle Draconique",
           "layer": "%5B%5BAnth%C3%A9one.png%5D%5D",
           "mutable": true,
           "command": false,
           "percent": [
-            0.8221690590111643,
-            0.7570552147239263
+            0.8229665071770335,
+            0.7754601226993865
           ],
           "description": null,
           "minZoom": null,
@@ -313,16 +319,16 @@
           "id": "ID_186b9b5a0948",
           "type": "Autre",
           "loc": [
-            -1.71484375,
-            0.48046875
+            -1.7578125,
+            0.478515625
           ],
           "link": "Le Moratorium",
           "layer": "%5B%5BAnth%C3%A9one.png%5D%5D",
           "mutable": true,
           "command": false,
           "percent": [
-            0.19617224880382775,
-            0.5386503067484663
+            0.19537480063795853,
+            0.5521472392638037
           ],
           "description": null,
           "minZoom": null,
@@ -343,7 +349,7 @@
             0.4800637958532695,
             0.9883435582822085
           ],
-          "description": null,
+          "description": "PJ",
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
