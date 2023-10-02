@@ -1,3 +1,3 @@
 - SUPER POTION : 
-	- 2 soignons / Poirotourond / Sauthon
+	- 2 soignons / 1 Poirotourond / 1 Sauthon /  1 Champitourond (remplace 3 soignons)
 	- 2 baies Oran
