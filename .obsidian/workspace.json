@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Introduction.md",
+                "file": "Pokémon/Recettes.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Introduction.md",
+                "file": "Pokémon/Recettes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Introduction.md",
+                "file": "Pokémon/Recettes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Introduction.md"
+                "file": "Pokémon/Recettes.md"
               }
             }
           },
@@ -176,6 +176,8 @@
   },
   "active": "c3ceef27934671c6",
   "lastOpenFiles": [
+    "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Introduction.md",
+    "Pokémon/Recettes.md",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Anthéone.md",
     "Oblivion/ACTUELLEMENT.md",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/L'Infer/I4 Forge Au Souffle Draconique.md",
@@ -200,8 +202,6 @@
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Gangêve/Aggravation.md",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Gangêve/Contamination.md",
     "Oblivion/Bestiaire/Chevalier du Jugement.md",
-    "Oblivion/Groupe/Extases Nocturno.md",
-    "Oblivion/Objets Magiques/Nocturno.md",
     "Oblivion/Images/Anthéone.png",
     "Oblivion/Images/Oblivion 2 bannière.png",
     "Oblivion/Images/Plan citerne.jpg",
