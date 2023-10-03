@@ -114,4 +114,4 @@ L'avis des COMPAGNONS :
 # SESSION 13
 On décide d'aller au camp des Sombrelames pour se reposer en attendant de prendre une décision.
 
-On rencontre la cheffe des Sombrelames
+On rencontre la cheffe des Sombrelames, on nous autorise à rester pour la nuit. Elle nous a posé des questions sur comment nous avons rencontré Coupe-Gorge et quelles étaient nos intentions contre la guilde des Sombrelames. 
