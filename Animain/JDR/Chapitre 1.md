@@ -113,3 +113,5 @@ L'avis des COMPAGNONS :
 
 # SESSION 13
 On décide d'aller au camp des Sombrelames pour se reposer en attendant de prendre une décision.
+
+On rencontre la cheffe des Sombrelames
