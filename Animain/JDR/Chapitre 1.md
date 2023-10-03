@@ -103,6 +103,11 @@ Les villageois vont demander des comptes au baron, mais au moment de partir, les
 On arrive à un monastère du culte de l'unique, les religions ne sont pas monnaies courante dans le monde. Pour les remercier, Pavel a déposé la bourse du marchand qui contenait 50 pièces dans le bol de conation du monastère. Nous allons loger au monastère pour nous reposer. On a pu négocier quelques rations et équipements avec le moine avant de repartir.
 
 # SESSION 12
-Graham MORNING ANIMAIN Sombrelames vous propose de venir vous reposer dans leur camps secret de la région de GRAND CHAMPS (vu que de toute façon vous avez attiré l'attention des SOMBRELAMES). Il vous propose de venir vous y reposer et de se porter garant de votre présence dans le camps. Il vous propose également de rejoindre les SOMBRELAMES au vu de votre passé et de votre... "Atout". Mais ce n'est pas lui qui décide, c'est la Chef-Lame du camps qui a cette autorité.  
+Graham MORNING ANIMAIN Sombrelames vous propose de venir vous reposer dans leur camps secret de la région de GRAND CHAMPS (vu que de toute façon vous avez attiré l'attention des SOMBRELAMES). Il vous propose de venir vous y reposer et de se porter garant de votre présence dans le camps. Il vous propose également de rejoindre les SOMBRELAMES au vu de votre passé et de votre… "Atout". Mais ce n'est pas lui qui décide, c'est la Chef-Lame du camps qui a cette autorité.  
 
 SOMBRELAMES : l'une des 3 guildes les plus puissantes et influente du monde. Elle regroupe des mercenaires, hommes à tout faire, voleurs, assassin et hors la loi. Cette guilde, malgré leur codes de conduite, n'a pas une bonne réputation à cause des divers clans extrémistes (Rouge-Sang). Cependant, les marchands itinérants, marché noir et caravaniers sont associés à cette guilde.
+
+L'avis des COMPAGNONS :
+- Karik trouve que s'est une bonne idée de leur rejoindre (influence "gamin des rues' ?? )
+- Chantemonde a un avis mitigé sur le fait de les rejoindre... peut être trouver un compromis ??
+
