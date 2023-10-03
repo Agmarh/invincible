@@ -112,3 +112,4 @@ L'avis des COMPAGNONS :
 - Chantemonde a un avis mitigé sur le fait de les rejoindre… peut être trouver un compromis ??
 
 # SESSION 13
+On décide d'aller au camp des Sombrelames
