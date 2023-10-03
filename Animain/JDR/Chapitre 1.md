@@ -109,5 +109,6 @@ SOMBRELAMES : l'une des 3 guildes les plus puissantes et influente du monde. Ell
 
 L'avis des COMPAGNONS :
 - Karik trouve que s'est une bonne idée de leur rejoindre (influence "gamin des rues' ?? )
-- Chantemonde a un avis mitigé sur le fait de les rejoindre... peut être trouver un compromis ??
+- Chantemonde a un avis mitigé sur le fait de les rejoindre… peut être trouver un compromis ??
 
+# SESSION 13
