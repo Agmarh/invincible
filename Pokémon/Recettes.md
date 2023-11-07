@@ -3,6 +3,7 @@ Baies :
 
 Remplacement soignon :
 - CHAMPITOUROND = 3 soignon
+- CARPUITE = 1 soignon
 
 SUPER POTION : 
 	- 2 soignons + 2 baies Oran
