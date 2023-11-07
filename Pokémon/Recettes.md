@@ -24,4 +24,7 @@ SOUPE DE VIANDE EN CONSERVE
 	- 3 soignons + 3 baies + 1 viande
 
 
-9
+12 poirotourond = 36 soignons
+11 Baies oran
+15 baies citrus
+10 baies mepo
