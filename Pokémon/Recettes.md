@@ -7,11 +7,11 @@ Remplacement soignon :
 
 SUPER POTION : 
 	- 2 soignons + 2 baies Oran
-	- 1 Poirotourond + 2 baies Oran
+	- 1 Poirotourond (ou sauthon) + 2 baies Oran
 	- 1 Sauthon + 2 baies Oran
 	- 1 Champitourond + 4 baies Oran = 2 superpotions
 
-POIROTOROND TOROND + BAIE = soupe extra / super potion / total soin)
+POIROTOROND (ou sauthon) + BAIE = soupe extra / super potion / total soin
 
 SOUPE LEGUMES EXTRA : 
 	- 2 baies au choix + 2 soignons
