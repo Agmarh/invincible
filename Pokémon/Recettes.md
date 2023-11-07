@@ -22,9 +22,3 @@ SOUPE DE LEGUME EXTRA ROYAL :
 SOUPE DE VIANDE EN CONSERVE
 	- rapporte plus XP que la soupe de légumes extra 
 	- 3 soignons + 3 baies + 1 viande
-
-
-12 poirotourond = 36 soignons
-11 Baies oran
-15 baies citrus
-10 baies mepo
