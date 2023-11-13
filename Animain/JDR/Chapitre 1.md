@@ -120,3 +120,4 @@ On a appris que Graham voulait renverser la cheffe des Sombrelames et devenir Ka
 
 # SESSION 14
 Le marchand est au camps des Sombrelames depuis 2 jours, ils ne comptent pas rester. Il n'a pas l'air d'avoir trop entendu de choses, mais on dit que Graham et la cheffe ne s'entendent pas très bien.
+
