@@ -116,6 +116,8 @@ On décide d'aller au camp des Sombrelames pour se reposer en attendant de prend
 
 On rencontre la cheffe des Sombrelames, on nous autorise à rester pour la nuit. Elle nous a posé des questions sur comment nous avons rencontré Coupe-Gorge et quelles étaient nos intentions contre la guilde des Sombrelames. 
 
+On a appris que Graham voulait renverser la cheffe des Sombrelames et devenir Kalif à la place du Kalif.
+
 # SESSION 14
 
 
