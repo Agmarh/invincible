@@ -122,3 +122,5 @@ On a appris que Graham voulait renverser la cheffe des Sombrelames et devenir Ka
 Le marchand est au camps des Sombrelames depuis 2 jours, ils ne comptent pas rester. Il n'a pas l'air d'avoir trop entendu de choses, mais on dit que Graham et la cheffe ne s'entendent pas très bien.
 
 Les chefs Sombrelames nous proposent de devenir des "passes murailles", nous ne rejoignons pas officiellement les Sombrelames mais nous avons des droits de passages dans leurs camps moyennant finance. De leurs côtés, ils s'engagent à ne pas tenir compte de la prime sur Kabuto (sauf les plus téméraires). 
+
+On a décidé de tout révéler à la cheffe concernant Graham. 
