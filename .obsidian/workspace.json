@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ac7b5f6fc99791e7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -174,7 +185,7 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "c3ceef27934671c6",
+  "active": "ac7b5f6fc99791e7",
   "lastOpenFiles": [
     "Pokémon/Recherches pokémons.md",
     "Animain/JDR/Chapitre 1.md",
