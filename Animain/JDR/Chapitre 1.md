@@ -119,6 +119,3 @@ On rencontre la cheffe des Sombrelames, on nous autorise à rester pour la nuit.
 On a appris que Graham voulait renverser la cheffe des Sombrelames et devenir Kalif à la place du Kalif.
 
 # SESSION 14
-
-
-
