@@ -1,14 +1,13 @@
 ```statblock
-name: H
-size: 
-type: 
+name: Hibours
+size: G
+type: Créature monstrueuse
 subtype: 
-alignment: Neutre
-ac: 10
-hp: 0
-hit_dice: 1d8+0
-speed: 0
-stats: [10, 10, 10, 10, 10, 10]
+ac: 13 (armure naturelle)
+hp: 59
+hit_dice: 7d10+21
+speed: 12
+stats: [20, 12, 17, 3, 12, 7]
 saves:
   - <ability-score>: number
 skillsaves:
