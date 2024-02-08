@@ -154,11 +154,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 257.5
+    "width": 404.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,7 +175,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5b9333d41726df0d",
+  "active": "be134d0fda6ae94e",
   "lastOpenFiles": [
     "Invincible/Bestiaire/Ankheg.md",
     "Invincible/Bestiaire/Hibours.md",

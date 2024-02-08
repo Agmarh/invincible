@@ -241,6 +241,25 @@
         "player": true,
         "hidden": false,
         "friendly": false
+      },
+      {
+        "name": "Hibours",
+        "initiative": 18,
+        "static": false,
+        "modifier": 1,
+        "hp": 59,
+        "currentMaxHP": 59,
+        "cr": 3,
+        "ac": "13 (armure naturelle)",
+        "currentAC": "13 (armure naturelle)",
+        "id": "ID_8b0b79c809c8",
+        "currentHP": 59,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "hidden": false,
+        "friendly": false,
+        "hit_dice": "7d10+21"
       }
     ],
     "state": false,
