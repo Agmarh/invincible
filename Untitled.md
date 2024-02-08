@@ -8,15 +8,11 @@ hp: 59
 hit_dice: 7d10+21
 speed: 12
 stats: [20, 12, 17, 3, 12, 7]
-senses: Perception passive 13
+senses: vision dans le noir 18m, Perception passive 13
 cr: 3
-spells:
-  - <description>
-  - <spell level>: <spell-list>
 traits:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
+  - name: Odorat et vue aiguisés
+    desc: Le hibours obtient un avantage lors des tests de Sagesse (Perception) basés sur l'odorat ou la vue.
 actions:
   - name: <trait-name>
     desc: <trait-description>
