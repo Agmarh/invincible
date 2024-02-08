@@ -5,14 +5,14 @@ type: Créature monstrueuse
 subtype: 
 ac: 13 (armure naturelle)
 hp: 26
-hit_dice: 4d10+21
-speed: 12
-stats: [20, 12, 17, 3, 12, 7]
-senses: vision dans le noir 18m, Perception passive 13
-cr: 3
+hit_dice: 4d10+4
+speed: 15
+stats: [16, 13, 13, 7, 11, 8]
+senses: vision dans le noir 18m, Perception passive 14
+cr: 1/2
 traits:
-  - name: Odorat et vue aiguisés
-    desc: Le hibours obtient un avantage lors des tests de Sagesse (Perception) basés sur l'odorat ou la vue.
+  - name: Odorat et ouïe aiguisés
+    desc: Le worg obtient un avantage lors des tests de Sagesse (Perception) basés sur l'odorat ou l'ouïe.
 actions:
   - name: Attaque multiple
     desc: "Le hibours effectue deux attaques : une avec son bec et une avec ses griffes."
