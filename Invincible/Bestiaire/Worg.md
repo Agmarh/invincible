@@ -1,11 +1,11 @@
 ```statblock
-name: Hibours
+name: Worg
 size: G
 type: Créature monstrueuse
 subtype: 
 ac: 13 (armure naturelle)
-hp: 59
-hit_dice: 7d10+21
+hp: 26
+hit_dice: 4d10+21
 speed: 12
 stats: [20, 12, 17, 3, 12, 7]
 senses: vision dans le noir 18m, Perception passive 13
