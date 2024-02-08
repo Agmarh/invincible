@@ -14,24 +14,11 @@ traits:
   - name: Odorat et vue aiguisés
     desc: Le hibours obtient un avantage lors des tests de Sagesse (Perception) basés sur l'odorat ou la vue.
 actions:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
-legendary_actions:
-  - name: <legendary_actions-name>
-    desc: <legendary_actions-description>
-  - ...
-bonus_actions:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
-reactions:
-  - name: <reaction-name>
-    desc: <reaction-description>
-  - ...
-tactic:
-  - desc: <reaction-description>
-treasure:
-  - name: <reaction-name>
-    desc: <reaction-description>
+  - name: Attaque multiple
+    desc: Le hibours effectue deux attaques : une avec son bec et une avec ses griffes.
+  - name: Bec
+    desc: Attaque d'arme au corps à corps : +7 pour toucher, allonge 1,50 m, une créature. Touché : 10 (1d10+5) dégâts perforants.
+  - name: Griffe
+    desc: Attaque d'arme au corps à corps : +7 pour toucher, allonge 1,50 m, une cible.  
+_Touché_ : 14 (2d8+5) dégâts tranchants.
 ```
