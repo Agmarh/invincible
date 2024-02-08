@@ -8,17 +8,8 @@ hp: 59
 hit_dice: 7d10+21
 speed: 12
 stats: [20, 12, 17, 3, 12, 7]
-saves:
-  - <ability-score>: number
-skillsaves:
-  - <skill-name>: number
-damage_vulnerabilities: string
-damage_resistances: string
-damage_immunities: string
-condition_immunities: string
-senses: Perception passive 10
-languages: string
-cr: 1
+senses: Perception passive 13
+cr: 3
 spells:
   - <description>
   - <spell level>: <spell-list>
