@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Invincible/Bestiaire/Worg.md",
+                "file": "Invincible/Bestiaire/Hibours.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Invincible/Bestiaire/Worg.md",
+                "file": "Invincible/Bestiaire/Hibours.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Invincible/Bestiaire/Worg.md",
+                "file": "Invincible/Bestiaire/Hibours.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Invincible/Bestiaire/Worg.md"
+                "file": "Invincible/Bestiaire/Hibours.md"
               }
             }
           },
@@ -176,8 +176,8 @@
   },
   "active": "5b9333d41726df0d",
   "lastOpenFiles": [
-    "Invincible/Bestiaire/Hibours.md",
     "Invincible/Bestiaire/Worg.md",
+    "Invincible/Bestiaire/Hibours.md",
     "Invincible/Bestiaire/Oraxos.md",
     "Untitled.md",
     "Invincible/Personnages/Ea Créatures monstrueuses.md",
