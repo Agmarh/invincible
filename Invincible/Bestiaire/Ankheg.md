@@ -3,10 +3,10 @@ name: Ankheg
 size: G
 type: Créature monstrueuse
 subtype: 
-ac: 14 (armure naturelle), 11 
-hp: 26
-hit_dice: 4d10+4
-speed: 15
+ac: 14 (armure naturelle), 11 quand il est à terre
+hp: 39
+hit_dice: 6d10+6
+speed: 9m, fouissement 3m
 stats: [16, 13, 13, 7, 11, 8]
 senses: vision dans le noir 18m, Perception passive 14
 cr: 1/2
