@@ -11,12 +11,9 @@
             "id": "6d7022d3c874b9ed",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Invincible/Scénario 2 La cité pétrifiée/Personnage Loup-Garou.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Invincible/PDF/hd_04_invincible_web_v1.pdf"
               }
             }
           }
@@ -94,7 +91,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Invincible/Scénario 2 La cité pétrifiée/Personnage Loup-Garou.md",
+                "file": "Invincible/PDF/hd_04_invincible_web_v1.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -106,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Invincible/Scénario 2 La cité pétrifiée/Personnage Loup-Garou.md",
+                "file": "Invincible/PDF/hd_04_invincible_web_v1.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Invincible/Scénario 2 La cité pétrifiée/Personnage Loup-Garou.md"
+                "file": "Invincible/PDF/hd_04_invincible_web_v1.pdf"
               }
             }
           },
@@ -189,8 +186,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "efc7fbc9dabff410",
+  "active": "6d7022d3c874b9ed",
   "lastOpenFiles": [
+    "Invincible/Scénario 2 La cité pétrifiée/Personnage Loup-Garou.md",
+    "Invincible/PDF/hd_04_invincible_web_v1 1.pdf",
+    "Invincible/PDF/hd_04_invincible_web_v1.pdf",
     "Invincible/PDF",
     "Invincible/Scénario 2 La cité pétrifiée/ACTUELLEMENT J+8.md",
     "Invincible/Bestiaire/Ankheg.md",
@@ -234,9 +234,6 @@
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Les Marches Sacrées/Sans titre",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Les Marches Sacrées",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/La terrasse des Mille Négoces",
-    "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/L'Infer",
-    "D&D",
-    "Animain/JDR",
     "Oblivion/PNJ/Sans titre.canvas"
   ]
 }
