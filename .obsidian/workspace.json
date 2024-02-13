@@ -11,9 +11,12 @@
             "id": "6d7022d3c874b9ed",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Invincible/PDF/hd_04_invincible_web_v1.pdf"
+                "file": "Invincible/Personnages/Clovik Scénario 2.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -91,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Invincible/PDF/hd_04_invincible_web_v1.pdf",
+                "file": "Invincible/Personnages/Clovik Scénario 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -103,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Invincible/PDF/hd_04_invincible_web_v1.pdf",
+                "file": "Invincible/Personnages/Clovik Scénario 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Invincible/PDF/hd_04_invincible_web_v1.pdf"
+                "file": "Invincible/Personnages/Clovik Scénario 2.md"
               }
             }
           },
@@ -188,9 +191,10 @@
   },
   "active": "6d7022d3c874b9ed",
   "lastOpenFiles": [
+    "Invincible/Personnages/Clovik Scénario 1.md",
+    "Invincible/PDF/hd_04_invincible_web_v1.pdf",
     "Invincible/Scénario 2 La cité pétrifiée/Personnage Loup-Garou.md",
     "Invincible/PDF/hd_04_invincible_web_v1 1.pdf",
-    "Invincible/PDF/hd_04_invincible_web_v1.pdf",
     "Invincible/PDF",
     "Invincible/Scénario 2 La cité pétrifiée/ACTUELLEMENT J+8.md",
     "Invincible/Bestiaire/Ankheg.md",
@@ -216,7 +220,6 @@
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/L'Infer/I4 Forge Au Souffle Draconique.md",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/3 - Terreur sur la Cité Sainte.md",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Les Marches Sacrées/MS1 La résidence de Malathor.md",
-    "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/L'Infer/I2 Katanga, le Maître des encres.md",
     "Oblivion/Images/Anthéone.png",
     "Oblivion/Images/Oblivion 2 bannière.png",
     "Oblivion/Images/Plan citerne.jpg",
