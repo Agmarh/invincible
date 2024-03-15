@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "93991db8152e7438",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -189,7 +200,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6d7022d3c874b9ed",
+  "active": "93991db8152e7438",
   "lastOpenFiles": [
     "Invincible/Personnages/Clovik Scénario 1.md",
     "Invincible/Personnages/Clovik Scénario 2.md",
