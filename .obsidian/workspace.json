@@ -11,8 +11,13 @@
             "id": "882754390f332d4d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Animain/JDR/Chapitre 1.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -73,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.5
+    "width": 200
   },
   "right": {
     "id": "2c1869ba7ed0e65f",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Animain/JDR/Chapitre 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -100,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Animain/JDR/Chapitre 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pokémon/Enquête Bateau Bordeauxelle.md"
+                "file": "Animain/JDR/Chapitre 1.md"
               }
             }
           },
@@ -148,7 +155,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "3d8f38c70e883ce6",
@@ -166,7 +173,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 404.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,7 +190,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "efc7fbc9dabff410",
+  "active": "882754390f332d4d",
   "lastOpenFiles": [
     "Pokémon/Enquête Bateau Bordeauxelle.md",
     "Invincible/Personnages/Clovik Scénario 2.md",
