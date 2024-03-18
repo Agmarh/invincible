@@ -11,13 +11,8 @@
             "id": "882754390f332d4d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pokémon/Enquête Bateau Bordeauxelle.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pokémon/Enquête Bateau Bordeauxelle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -106,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pokémon/Enquête Bateau Bordeauxelle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +182,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "882754390f332d4d",
+  "active": "efc7fbc9dabff410",
   "lastOpenFiles": [
     "Pokémon/Enquête Bateau Bordeauxelle.md",
     "Invincible/Personnages/Clovik Scénario 2.md",
