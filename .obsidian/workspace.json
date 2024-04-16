@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Invincible/Scénario 2 La cité pétrifiée/Les lieux/3 – La Tour Grise.md",
+                "file": "Invincible/Scénario 2 La cité pétrifiée/Evénements/Actionner la Chronosphère.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Invincible/Scénario 2 La cité pétrifiée/Les lieux/3 – La Tour Grise.md",
+                "file": "Invincible/Scénario 2 La cité pétrifiée/Evénements/Actionner la Chronosphère.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Invincible/Scénario 2 La cité pétrifiée/Les lieux/3 – La Tour Grise.md",
+                "file": "Invincible/Scénario 2 La cité pétrifiée/Evénements/Actionner la Chronosphère.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Invincible/Scénario 2 La cité pétrifiée/Les lieux/3 – La Tour Grise.md"
+                "file": "Invincible/Scénario 2 La cité pétrifiée/Evénements/Actionner la Chronosphère.md"
               }
             }
           },
@@ -192,6 +192,8 @@
   },
   "active": "882754390f332d4d",
   "lastOpenFiles": [
+    "Invincible/Scénario 2 La cité pétrifiée/Evénements/Les Survivants.md",
+    "Invincible/Scénario 2 La cité pétrifiée/Les lieux/3 – La Tour Grise.md",
     "Invincible/Scénario 2 La cité pétrifiée/Les lieux/1 – La Tour du Phare.md",
     "Invincible/Scénario 2 La cité pétrifiée/ACTUELLEMENT J+8.md",
     "Invincible/Scénario 2 La cité pétrifiée/Infos diverses.md",
@@ -219,8 +221,6 @@
     "Pokémon/Recherches pokémons.md",
     "Animain/JDR/Arten.md",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Introduction.md",
-    "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Anthéone.md",
-    "Oblivion/ACTUELLEMENT.md",
     "Oblivion/Images/Anthéone.png",
     "Oblivion/Images/Oblivion 2 bannière.png",
     "Oblivion/Images/Plan citerne.jpg",
