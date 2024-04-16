@@ -11,9 +11,12 @@
             "id": "882754390f332d4d",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Invincible/PDF/hd_04_invincible_web_v1.pdf"
+                "file": "Invincible/Scénario 2 La cité pétrifiée/Evénements/Actionner la Chronosphère.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -91,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Invincible/PDF/hd_04_invincible_web_v1.pdf",
+                "file": "Invincible/Scénario 2 La cité pétrifiée/Evénements/Actionner la Chronosphère.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -103,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Invincible/PDF/hd_04_invincible_web_v1.pdf",
+                "file": "Invincible/Scénario 2 La cité pétrifiée/Evénements/Actionner la Chronosphère.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Invincible/PDF/hd_04_invincible_web_v1.pdf"
+                "file": "Invincible/Scénario 2 La cité pétrifiée/Evénements/Actionner la Chronosphère.md"
               }
             }
           },
@@ -189,6 +192,7 @@
   },
   "active": "882754390f332d4d",
   "lastOpenFiles": [
+    "Invincible/PDF/hd_04_invincible_web_v1.pdf",
     "Invincible/Scénario 2 La cité pétrifiée/Evénements/Actionner la Chronosphère.md",
     "Invincible/Scénario 2 La cité pétrifiée/Chronologie.md",
     "Invincible/Scénario 2 La cité pétrifiée/ACTUELLEMENT J+8.md",
@@ -196,7 +200,6 @@
     "Pokémon/Enquête Bateau Bordeauxelle.md",
     "Invincible/Personnages/Clovik Scénario 2.md",
     "Invincible/Personnages/Clovik Scénario 1.md",
-    "Invincible/PDF/hd_04_invincible_web_v1.pdf",
     "Invincible/Scénario 2 La cité pétrifiée/Personnage Loup-Garou.md",
     "Invincible/PDF/hd_04_invincible_web_v1 1.pdf",
     "Invincible/PDF",
@@ -217,7 +220,6 @@
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Introduction.md",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Anthéone.md",
     "Oblivion/ACTUELLEMENT.md",
-    "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/L'Infer/I4 Forge Au Souffle Draconique.md",
     "Oblivion/Images/Anthéone.png",
     "Oblivion/Images/Oblivion 2 bannière.png",
     "Oblivion/Images/Plan citerne.jpg",
