@@ -305,26 +305,6 @@
         "hit_dice": "4d8+4"
       },
       {
-        "name": "Spectre de foudre",
-        "initiative": 12,
-        "static": false,
-        "modifier": 3,
-        "hp": 39,
-        "currentMaxHP": 39,
-        "cr": 2,
-        "ac": "17 (armure naturelle, bouclier)",
-        "currentAC": "17 (armure naturelle, bouclier)",
-        "id": "ID_683938db1bb8",
-        "currentHP": 10,
-        "tempHP": 0,
-        "status": [],
-        "enabled": true,
-        "active": false,
-        "hidden": false,
-        "friendly": false,
-        "hit_dice": "6d8+12"
-      },
-      {
         "name": "Gargouille",
         "display": "Saphira",
         "initiative": 14,
