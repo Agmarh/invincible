@@ -118,7 +118,7 @@
       {
         "id": "e70e28c56220440f",
         "type": "tabs",
-        "dimension": 70.21428571428572,
+        "dimension": 70.21428571428571,
         "children": [
           {
             "id": "c56cf9106d335454",
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Invincible/Scénario 2 La cité pétrifiée/Evénements/Actionner la Chronosphère.md",
+                "file": "Invincible/Scénario 2 La cité pétrifiée/ACTUELLEMENT J+8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Invincible/Scénario 2 La cité pétrifiée/Evénements/Actionner la Chronosphère.md"
+                "file": "Invincible/Scénario 2 La cité pétrifiée/ACTUELLEMENT J+8.md"
               }
             }
           },
@@ -173,6 +173,18 @@
               "type": "DICE_ROLLER_VIEW",
               "state": {}
             }
+          },
+          {
+            "id": "9d2d9031cca91609",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Invincible/Scénario 2 La cité pétrifiée/ACTUELLEMENT J+8.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
         ],
         "currentTab": 2
@@ -180,7 +192,7 @@
       {
         "id": "3d8f38c70e883ce6",
         "type": "tabs",
-        "dimension": 29.78571428571429,
+        "dimension": 29.785714285714285,
         "children": [
           {
             "id": "22415a0d12e480ce",
