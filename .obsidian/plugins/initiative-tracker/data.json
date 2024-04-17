@@ -383,6 +383,26 @@
         "hidden": false,
         "friendly": false,
         "hit_dice": "6d8+12"
+      },
+      {
+        "name": "Gargouille",
+        "display": "Saphira",
+        "initiative": 19,
+        "static": false,
+        "modifier": 0,
+        "hp": 52,
+        "currentMaxHP": 52,
+        "cr": 2,
+        "ac": 15,
+        "currentAC": 15,
+        "id": "ID_58d8ebbb9a88",
+        "currentHP": 52,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "hidden": false,
+        "friendly": false,
+        "hit_dice": "7d8+21"
       }
     ],
     "state": false,
