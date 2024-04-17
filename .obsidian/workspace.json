@@ -19,8 +19,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1df24ad2a04303ff",
+            "type": "leaf",
+            "state": {
+              "type": "intiative-tracker-encounter-builder",
+              "state": []
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -143,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "3d8f38c70e883ce6",
@@ -161,7 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 516.5
+    "width": 327.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,7 +186,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "be134d0fda6ae94e",
+  "active": "12c473161a52aa97",
   "lastOpenFiles": [
     "Invincible/Personnages/Clovik Scénario 2.md",
     "Invincible/Scénario 2 La cité pétrifiée/Infos diverses.md",
