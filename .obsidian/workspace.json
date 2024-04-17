@@ -89,18 +89,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dfba10df3d5d2883",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Invincible/Scénario 2 La cité pétrifiée/Evénements/Actionner la Chronosphère.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
             "id": "c56cf9106d335454",
             "type": "leaf",
             "state": {
@@ -155,7 +143,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "3d8f38c70e883ce6",
@@ -173,7 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 516.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,7 +177,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "882754390f332d4d",
+  "active": "be134d0fda6ae94e",
   "lastOpenFiles": [
     "Invincible/Personnages/Clovik Scénario 2.md",
     "Invincible/Scénario 2 La cité pétrifiée/Infos diverses.md",
