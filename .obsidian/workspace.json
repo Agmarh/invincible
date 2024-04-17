@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Invincible/Scénario 2 La cité pétrifiée/ACTUELLEMENT J+8.md",
+                "file": "Invincible/Bestiaire/Gargouille.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Invincible/Scénario 2 La cité pétrifiée/ACTUELLEMENT J+8.md",
+                "file": "Invincible/Bestiaire/Gargouille.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Invincible/Scénario 2 La cité pétrifiée/ACTUELLEMENT J+8.md"
+                "file": "Invincible/Bestiaire/Gargouille.md"
               }
             }
           },
@@ -210,8 +210,8 @@
   },
   "active": "58cc5c11c93be1d4",
   "lastOpenFiles": [
-    "Invincible/Scénario 2 La cité pétrifiée/Chronologie.md",
     "Invincible/Scénario 2 La cité pétrifiée/ACTUELLEMENT J+8.md",
+    "Invincible/Scénario 2 La cité pétrifiée/Chronologie.md",
     "Invincible/Personnages/Clovik Scénario 2.md",
     "Invincible/Bestiaire/Gargouille.md",
     "Template/Monstre.md",
