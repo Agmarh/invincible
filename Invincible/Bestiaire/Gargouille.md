@@ -10,9 +10,9 @@ hp: 52
 hit_dice: 7d8+21
 speed: 9m, vol 18m
 stats: [15, 11, 16, 6, 11, 7]
-damage_resistances: contondants, perforan
-damage_immunities: string
-condition_immunities: string
+damage_resistances: contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en adamantium
+damage_immunities: poison
+condition_immunities: [[Empoisonné]], Epuisé, [[Pétrifié]]
 senses: Perception passive 10
 languages: string
 cr: 1
