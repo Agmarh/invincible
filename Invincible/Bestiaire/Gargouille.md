@@ -13,20 +13,18 @@ stats: [15, 11, 16, 6, 11, 7]
 damage_resistances: contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en adamantium
 damage_immunities: poison
 condition_immunities: [[Empoisonné]], Epuisé, [[Pétrifié]]
-senses: Perception passive 10
-languages: string
-cr: 1
-spells:
-  - <description>
-  - <spell level>: <spell-list>
+senses: vision dans le noir 18m, Perception passive 10
+languages: terreux
+cr: 2
 traits:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
+  - name: Faux-semblant
+    desc: "Aussi longtemps que la gargouille reste immobile, il est impossible de la distinguer d'une statue inanimée."
 actions:
   - name: <trait-name>
     desc: <trait-description>
-  - ...
+  - name: <trait-name>
+    desc: <trait-description>
+
 legendary_actions:
   - name: <legendary_actions-name>
     desc: <legendary_actions-description>
