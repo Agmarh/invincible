@@ -20,26 +20,11 @@ traits:
   - name: Faux-semblant
     desc: "Aussi longtemps que la gargouille reste immobile, il est impossible de la distinguer d'une statue inanimée."
 actions:
-  - name: <trait-name>
-    desc: <trait-description>
-  - name: <trait-name>
-    desc: <trait-description>
-
-legendary_actions:
-  - name: <legendary_actions-name>
-    desc: <legendary_actions-description>
-  - ...
-bonus_actions:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
-reactions:
-  - name: <reaction-name>
-    desc: <reaction-description>
-  - ...
-tactic:
-  - desc: <reaction-description>
-treasure:
-  - name: <reaction-name>
-    desc: <reaction-description>
+  - name: Attaques multiples
+    desc: "La gargouille effectue deux attaques : une avec sa morsure et une avec ses griffes."
+  - name: Griffes
+    desc: "Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une cible. Touché : 5 (1d6+2) dégâts tranchants."
+  - name: Morsure
+    desc: "Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une cible.  
+Touché_ : 5 (1d6+2) dégâts perforants."
 ```
