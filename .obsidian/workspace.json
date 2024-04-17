@@ -4,28 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "480f25e243af229e",
+        "id": "64a807f0bcb3829b",
         "type": "tabs",
         "children": [
           {
-            "id": "882754390f332d4d",
+            "id": "616408c5dba6c09d",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Invincible/Bestiaire/Gargouille.md",
+                "file": "Invincible/Scénario 2 La cité pétrifiée/ACTUELLEMENT J+8.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "1df24ad2a04303ff",
-            "type": "leaf",
-            "state": {
-              "type": "intiative-tracker-encounter-builder",
-              "state": []
+              },
+              "pinned": true
             }
           }
         ]
@@ -102,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Invincible/Bestiaire/Gargouille.md",
+                "file": "Invincible/Scénario 2 La cité pétrifiée/ACTUELLEMENT J+8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Invincible/Bestiaire/Gargouille.md"
+                "file": "Invincible/Scénario 2 La cité pétrifiée/ACTUELLEMENT J+8.md"
               }
             }
           },
@@ -185,10 +179,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "882754390f332d4d",
+  "active": "616408c5dba6c09d",
   "lastOpenFiles": [
-    "Template/Monstre.md",
     "Invincible/Bestiaire/Gargouille.md",
+    "Template/Monstre.md",
     "Invincible/Scénario 2 La cité pétrifiée/Evénements/Actionner la Chronosphère.md",
     "Invincible/Personnages/Clovik Scénario 2.md",
     "Invincible/Scénario 2 La cité pétrifiée/Infos diverses.md",
