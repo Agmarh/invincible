@@ -387,7 +387,7 @@
       {
         "name": "Gargouille",
         "display": "Saphira",
-        "initiative": 19,
+        "initiative": 14,
         "static": false,
         "modifier": 0,
         "hp": 52,
