@@ -36,9 +36,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "58cc5c11c93be1d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Invincible/Scénario 2 La cité pétrifiée/ACTUELLEMENT J+8.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -112,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Invincible/Personnages/Clovik Scénario 2.md",
+                "file": "Invincible/Scénario 2 La cité pétrifiée/ACTUELLEMENT J+8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Invincible/Personnages/Clovik Scénario 2.md"
+                "file": "Invincible/Scénario 2 La cité pétrifiée/ACTUELLEMENT J+8.md"
               }
             }
           },
@@ -195,15 +208,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "12c473161a52aa97",
+  "active": "58cc5c11c93be1d4",
   "lastOpenFiles": [
+    "Invincible/Scénario 2 La cité pétrifiée/Chronologie.md",
     "Invincible/Scénario 2 La cité pétrifiée/ACTUELLEMENT J+8.md",
+    "Invincible/Personnages/Clovik Scénario 2.md",
     "Invincible/Bestiaire/Gargouille.md",
     "Template/Monstre.md",
     "Invincible/Scénario 2 La cité pétrifiée/Evénements/Actionner la Chronosphère.md",
-    "Invincible/Personnages/Clovik Scénario 2.md",
     "Invincible/Scénario 2 La cité pétrifiée/Infos diverses.md",
-    "Invincible/Scénario 2 La cité pétrifiée/Chronologie.md",
     "Invincible/Scénario 2 La cité pétrifiée/Evénements/Les Survivants.md",
     "Invincible/Scénario 2 La cité pétrifiée/Les lieux/3 – La Tour Grise.md",
     "Invincible/Scénario 2 La cité pétrifiée/Les lieux/1 – La Tour du Phare.md",
