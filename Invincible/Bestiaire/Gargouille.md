@@ -2,20 +2,15 @@
 image: [[monstre.png]]
 name: Gargouille
 size: M
-type: 
+type: Elémentaire
 subtype: 
-alignment: Neutre
-ac: 10
-hp: 0
-hit_dice: 1d8+0
-speed: 0
-stats: [10, 10, 10, 10, 10, 10]
-saves:
-  - <ability-score>: number
-skillsaves:
-  - <skill-name>: number
-damage_vulnerabilities: string
-damage_resistances: string
+alignment: Chaotique Mauvais
+ac: 15
+hp: 52
+hit_dice: 7d8+21
+speed: 9m, vol 18m
+stats: [15, 11, 16, 6, 11, 7]
+damage_resistances: contondants, perforan
 damage_immunities: string
 condition_immunities: string
 senses: Perception passive 10
