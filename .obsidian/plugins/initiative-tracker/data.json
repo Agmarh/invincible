@@ -184,37 +184,16 @@
   "state": {
     "creatures": [
       {
-        "name": "Damy",
+        "name": "Piotr",
         "initiative": 0,
         "static": false,
-        "modifier": 4,
-        "hp": 38,
-        "currentMaxHP": 38,
+        "modifier": -1,
+        "hp": 51,
+        "currentMaxHP": 51,
         "ac": "18",
         "currentAC": "18",
-        "note": "PJ",
-        "path": "Template/PJ.md",
-        "id": "ID_6a080b9aa95b",
-        "currentHP": 38,
-        "tempHP": 0,
-        "status": [],
-        "enabled": true,
-        "level": 5,
-        "player": true,
-        "hidden": false,
-        "friendly": false
-      },
-      {
-        "name": "Nevilynn",
-        "initiative": 11,
-        "static": false,
-        "modifier": -1,
-        "hp": 58,
-        "currentMaxHP": 58,
-        "ac": "19",
-        "currentAC": "19",
-        "id": "ID_98fa9919da4a",
-        "currentHP": 58,
+        "id": "ID_1b484b0979ba",
+        "currentHP": 51,
         "tempHP": 0,
         "status": [],
         "enabled": true,
@@ -224,16 +203,16 @@
         "friendly": false
       },
       {
-        "name": "Rasan",
-        "initiative": 19,
+        "name": "Gorgonzola",
+        "initiative": 0,
         "static": false,
-        "modifier": 3,
-        "hp": 37,
-        "currentMaxHP": 37,
+        "modifier": 2,
+        "hp": 67,
+        "currentMaxHP": 67,
         "ac": "14",
         "currentAC": "14",
-        "id": "ID_dbf938abda5a",
-        "currentHP": 37,
+        "id": "ID_181af95b5bcb",
+        "currentHP": 67,
         "tempHP": 0,
         "status": [],
         "enabled": true,
@@ -243,23 +222,63 @@
         "friendly": false
       },
       {
-        "name": "Hibours",
-        "initiative": 18,
+        "name": "Era",
+        "initiative": 0,
         "static": false,
-        "modifier": 1,
-        "hp": 59,
-        "currentMaxHP": 59,
-        "cr": 3,
-        "ac": "13 (armure naturelle)",
-        "currentAC": "13 (armure naturelle)",
-        "id": "ID_8b0b79c809c8",
-        "currentHP": 59,
+        "modifier": 5,
+        "hp": 52,
+        "currentMaxHP": 52,
+        "ac": "17",
+        "currentAC": "17",
+        "id": "ID_983a3b187b89",
+        "currentHP": 52,
         "tempHP": 0,
         "status": [],
         "enabled": true,
+        "level": 6,
+        "player": true,
         "hidden": false,
-        "friendly": false,
-        "hit_dice": "7d10+21"
+        "friendly": false
+      },
+      {
+        "name": "Ea",
+        "initiative": 0,
+        "static": false,
+        "modifier": 2,
+        "hp": 42,
+        "currentMaxHP": 42,
+        "cr": 5,
+        "ac": "15",
+        "currentAC": "15",
+        "id": "ID_1b79f9eb2b98",
+        "currentHP": 42,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "level": 6,
+        "player": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false
+      },
+      {
+        "name": "Konrot",
+        "initiative": 0,
+        "static": false,
+        "modifier": 2,
+        "hp": 44,
+        "currentMaxHP": 44,
+        "ac": "14",
+        "currentAC": "14",
+        "id": "ID_d8b8aa688a48",
+        "currentHP": 44,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "level": 6,
+        "player": true,
+        "hidden": false,
+        "friendly": false
       }
     ],
     "state": false,
@@ -293,7 +312,7 @@
   "descending": true,
   "builder": {
     "showParty": true,
-    "showXP": true,
+    "showXP": false,
     "sidebarIcon": true,
     "headers": [
       {
@@ -316,7 +335,126 @@
         "field": "alignment",
         "type": 0
       }
-    ]
+    ],
+    "filters": {
+      "filters": [
+        {
+          "type": 0,
+          "text": "CR",
+          "fields": [
+            "cr"
+          ],
+          "options": [
+            0,
+            19
+          ],
+          "id": "ID_DEFAULT_CR_FILTER",
+          "derive": true
+        },
+        {
+          "type": 2,
+          "text": "Size",
+          "fields": [
+            "size"
+          ],
+          "options": [
+            "G",
+            "M",
+            "P",
+            "TG",
+            "TP",
+            "Gig"
+          ],
+          "id": "ID_DEFAULT_SIZE_FILTER",
+          "derive": true
+        },
+        {
+          "type": 2,
+          "text": "Type",
+          "fields": [
+            "type"
+          ],
+          "options": [
+            "Mort-Vivant",
+            "Humanoïde",
+            "Géant",
+            "Elémentaire",
+            "Bête",
+            "Dragon",
+            "Fiélon",
+            "Aberration",
+            "Fée",
+            "Mort-vivant",
+            "Vase",
+            "Créature artificielle",
+            "Créature monstrueuse",
+            "Incarnin",
+            "Nuée",
+            "Plante",
+            null
+          ],
+          "id": "ID_DEFAULT_TYPE_FILTER",
+          "derive": true
+        },
+        {
+          "type": 2,
+          "text": "Alignment",
+          "fields": [
+            "alignment"
+          ],
+          "options": [
+            "Chaotique Mauvais",
+            "Loyal Neutre",
+            "Neutre Mauvais",
+            "Loyal Mauvais",
+            "Loyal Bon",
+            "Neutre",
+            "Non-alignée",
+            "Loyal Variable",
+            "Chaotique Bon",
+            "non-alignée",
+            "Non aligné",
+            "N'importe quel alignement",
+            "Toujours Bon",
+            "Chaotique Neutre",
+            "Toujours Chaotique",
+            "Non-aligné"
+          ],
+          "id": "ID_DEFAULT_ALIGNMENT_FILTER",
+          "derive": true
+        }
+      ],
+      "layout": [
+        {
+          "nested": [
+            {
+              "id": "ID_DEFAULT_CR_FILTER",
+              "type": "filter"
+            }
+          ],
+          "id": "ID_DEFAULT_NESTED_CR",
+          "type": "nested"
+        },
+        {
+          "id": "ID_DEFAULT_NESTED_LAYOUT",
+          "type": "nested",
+          "nested": [
+            {
+              "id": "ID_DEFAULT_SIZE_FILTER",
+              "type": "filter"
+            },
+            {
+              "id": "ID_DEFAULT_TYPE_FILTER",
+              "type": "filter"
+            },
+            {
+              "id": "ID_DEFAULT_ALIGNMENT_FILTER",
+              "type": "filter"
+            }
+          ]
+        }
+      ]
+    }
   },
   "homebrew": [],
   "leafletIntegration": false,
