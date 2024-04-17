@@ -118,6 +118,7 @@
       {
         "id": "e70e28c56220440f",
         "type": "tabs",
+        "dimension": 63.92857142857142,
         "children": [
           {
             "id": "c56cf9106d335454",
@@ -179,6 +180,7 @@
       {
         "id": "3d8f38c70e883ce6",
         "type": "tabs",
+        "dimension": 36.07142857142857,
         "children": [
           {
             "id": "22415a0d12e480ce",
@@ -208,7 +210,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "98dcfe8dfdea15e1",
+  "active": "12c473161a52aa97",
   "lastOpenFiles": [
     "Invincible/Scénario 2 La cité pétrifiée/Infos diverses.md",
     "Invincible/Scénario 2 La cité pétrifiée/Evénements/Actionner la Chronosphère.md",
