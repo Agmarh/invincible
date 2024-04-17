@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Invincible/Scénario 2 La cité pétrifiée/Evénements/Actionner la Chronosphère.md",
+                "file": "Invincible/Bestiaire/Gargouille.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -28,8 +28,7 @@
               "state": []
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Invincible/Scénario 2 La cité pétrifiée/Evénements/Actionner la Chronosphère.md",
+                "file": "Invincible/Bestiaire/Gargouille.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Invincible/Scénario 2 La cité pétrifiée/Evénements/Actionner la Chronosphère.md"
+                "file": "Invincible/Bestiaire/Gargouille.md"
               }
             }
           },
@@ -186,13 +185,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "12c473161a52aa97",
+  "active": "882754390f332d4d",
   "lastOpenFiles": [
+    "Template/Monstre.md",
+    "Invincible/Bestiaire/Gargouille.md",
+    "Invincible/Scénario 2 La cité pétrifiée/Evénements/Actionner la Chronosphère.md",
     "Invincible/Personnages/Clovik Scénario 2.md",
     "Invincible/Scénario 2 La cité pétrifiée/Infos diverses.md",
     "Invincible/Scénario 2 La cité pétrifiée/Chronologie.md",
     "Invincible/Scénario 2 La cité pétrifiée/ACTUELLEMENT J+8.md",
-    "Invincible/Scénario 2 La cité pétrifiée/Evénements/Actionner la Chronosphère.md",
     "Invincible/Scénario 2 La cité pétrifiée/Evénements/Les Survivants.md",
     "Invincible/Scénario 2 La cité pétrifiée/Les lieux/3 – La Tour Grise.md",
     "Invincible/Scénario 2 La cité pétrifiée/Les lieux/1 – La Tour du Phare.md",
@@ -215,8 +216,6 @@
     "Pokémon/Recettes.md",
     "Pokémon/Moveset Pokémons.md",
     "Pokémon/Recherches pokémons.md",
-    "Animain/JDR/Arten.md",
-    "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Introduction.md",
     "Oblivion/Images/Anthéone.png",
     "Oblivion/Images/Oblivion 2 bannière.png",
     "Oblivion/Images/Plan citerne.jpg",
