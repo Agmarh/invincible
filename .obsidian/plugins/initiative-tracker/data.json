@@ -185,7 +185,7 @@
     "creatures": [
       {
         "name": "Piotr",
-        "initiative": 0,
+        "initiative": 3,
         "static": false,
         "modifier": -1,
         "hp": 51,
@@ -199,12 +199,13 @@
         "enabled": true,
         "level": 6,
         "player": true,
+        "active": false,
         "hidden": false,
         "friendly": false
       },
       {
         "name": "Gorgonzola",
-        "initiative": 0,
+        "initiative": 10,
         "static": false,
         "modifier": 2,
         "hp": 67,
@@ -218,12 +219,13 @@
         "enabled": true,
         "level": 6,
         "player": true,
+        "active": false,
         "hidden": false,
         "friendly": false
       },
       {
         "name": "Era",
-        "initiative": 0,
+        "initiative": 11,
         "static": false,
         "modifier": 5,
         "hp": 52,
@@ -237,12 +239,13 @@
         "enabled": true,
         "level": 6,
         "player": true,
+        "active": false,
         "hidden": false,
         "friendly": false
       },
       {
         "name": "Ea",
-        "initiative": 0,
+        "initiative": 3,
         "static": false,
         "modifier": 2,
         "hp": 42,
@@ -263,7 +266,7 @@
       },
       {
         "name": "Konrot",
-        "initiative": 0,
+        "initiative": 8,
         "static": false,
         "modifier": 2,
         "hp": 44,
@@ -277,6 +280,7 @@
         "enabled": true,
         "level": 6,
         "player": true,
+        "active": false,
         "hidden": false,
         "friendly": false
       }
