@@ -26,7 +26,7 @@ traits:
     desc: "Le spectre de foudre diffuse une lumière faible dans un rayon de 3 mètres."
 actions:
   - name: Marteau de guerre
-    desc: "Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible. Touché : 8 (1d10+3) dégâts contondants plus 3 (1d6) dégâts de foudre."
+    desc: "Attaque d'arme au corps à corps : 5 (1d20+5) pour toucher, allonge 1,50 m, une cible. Touché : 8 (1d10+3) dégâts contondants plus 3 (1d6) dégâts de foudre."
 tactic:
   - desc: "Le spectre essaye en priorité d'atteindre la Chronosphère pour la détruire, mais si on l'attaque cela le détourne de sa cible. Il combat jusqu'à la destruction."
 ```

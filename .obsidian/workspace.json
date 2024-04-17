@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Invincible/Bestiaire/Gargouille.md",
+                "file": "Invincible/Bestiaire/Spectre de foudre.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Invincible/Bestiaire/Gargouille.md",
+                "file": "Invincible/Bestiaire/Spectre de foudre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Invincible/Bestiaire/Gargouille.md"
+                "file": "Invincible/Bestiaire/Spectre de foudre.md"
               }
             }
           },
@@ -210,10 +210,11 @@
   },
   "active": "58cc5c11c93be1d4",
   "lastOpenFiles": [
+    "Invincible/Bestiaire/Ecorché.md",
+    "Invincible/Bestiaire/Gargouille.md",
     "Invincible/Scénario 2 La cité pétrifiée/ACTUELLEMENT J+8.md",
     "Invincible/Scénario 2 La cité pétrifiée/Chronologie.md",
     "Invincible/Personnages/Clovik Scénario 2.md",
-    "Invincible/Bestiaire/Gargouille.md",
     "Template/Monstre.md",
     "Invincible/Scénario 2 La cité pétrifiée/Evénements/Actionner la Chronosphère.md",
     "Invincible/Scénario 2 La cité pétrifiée/Infos diverses.md",
@@ -238,7 +239,6 @@
     "Pokémon/Ile de Jerseykara.md",
     "Pokémon/Recettes.md",
     "Pokémon/Moveset Pokémons.md",
-    "Pokémon/Recherches pokémons.md",
     "Oblivion/Images/Anthéone.png",
     "Oblivion/Images/Oblivion 2 bannière.png",
     "Oblivion/Images/Plan citerne.jpg",

@@ -20,5 +20,5 @@ traits:
     desc: "Si des dégâts réduisent à 0 les points de vie de l'écorché, celui-ci doit effectuer un jet de sauvegarde de Constitution DD 5 + les dégâts subis, à moins que ces dégâts de soient de type radiants ou infligés par un coup critique. En cas de réussite, l'écorché tombe à 1 point de vie à la place."
 actions:
   - name: Griffes
-    desc: "Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une cible. Touché : 7 (2d4+2) dégâts perforants."
+    desc: "Attaque d'arme au corps à corps : 4 (1d20+4) pour toucher, allonge 1,50 m, une cible. Touché : 7 (2d4+2) dégâts perforants."
 ```
