@@ -274,7 +274,7 @@
         "ac": "14",
         "currentAC": "14",
         "id": "ID_d8b8aa688a48",
-        "currentHP": 21,
+        "currentHP": 23,
         "tempHP": 0,
         "status": [],
         "enabled": true,
@@ -336,9 +336,11 @@
         "ac": "17 (armure naturelle, bouclier)",
         "currentAC": "17 (armure naturelle, bouclier)",
         "id": "ID_cba958590bfa",
-        "currentHP": 21,
+        "currentHP": 0,
         "tempHP": 0,
-        "status": [],
+        "status": [
+          "Unconscious"
+        ],
         "enabled": true,
         "active": false,
         "hidden": false,
