@@ -2,18 +2,19 @@
 image: [[monstre.png]]
 name: Léandra, Reine des harpes
 size: M
-type: Hum
+type: Humanoïde
 subtype: 
-alignment: Neutre
-ac: 10
-hp: 0
-hit_dice: 1d8+0
-speed: 0
-stats: [10, 10, 10, 10, 10, 10]
+alignment: Loyal Mauvais
+ac: 13 (16 avec armure du mage)
+hp: 49+20
+hit_dice: 9d8+9
+speed: 9m
+stats: [9, 14, 13, 17, 12, 15]
 saves:
-  - <ability-score>: number
+  - Int: +6
+  - Sag: +4
 skillsaves:
-  - <skill-name>: number
+  - Arca: number
 damage_vulnerabilities: string
 damage_resistances: string
 damage_immunities: string
