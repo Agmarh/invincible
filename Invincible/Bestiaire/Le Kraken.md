@@ -25,28 +25,15 @@ traits:
   - name: Monstre assiégeur
     desc: "Le kraken inflige des dégâts doublés aux objets et aux structures."
 actions:
-  - name: <trait-name>
+  - name: Attaques multiples
+    desc: "Le kraken effectue trois attaques de tentacule et peut remplacer l'une d'elles par une utilisation de Projection ou une morsure."
+  - name: Morsure
+    desc: "Attaque d'arme au corps à corps : 12 (1d20+12) pour toucher, allonge 1,50 m, une cible. Touché : 17 (3d6+7) dégâts perforants."
+  - name: Tentacule
+    desc: "Attaque d'arme au corps à corps : +12 pour toucher, allonge 9 m, une cible. Touché : 14 (2d6+7)dégâts contondants et la cible est empoignée (évasion
+DD 18). La cible est entravée jusqu'au terme de
+cette empoignade. Le kraken possède dix tentacules
+qui peuvent chacun empoigner une cible."
+  - name: Projection
     desc: <trait-description>
-  - name: <trait-name>
-    desc: <trait-description>
-  - name: <trait-name>
-    desc: <trait-description>
-
-legendary_actions:
-  - name: <legendary_actions-name>
-    desc: <legendary_actions-description>
-  - ...
-bonus_actions:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
-reactions:
-  - name: <reaction-name>
-    desc: <reaction-description>
-  - ...
-tactic:
-  - desc: <reaction-description>
-treasure:
-  - name: <reaction-name>
-    desc: <reaction-description>
 ```
