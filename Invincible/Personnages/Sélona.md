@@ -14,12 +14,13 @@ skillsaves:
   - Médecine: +4
   - Nature: +3
   - Perception: +4
-senses: Perception passive 10
-languages: string
+senses: Perception passive 14
+languages: langue des druides, commun, commun des profondeurs
 cr: 1
 spells:
-  - <description>
+  - "Sélona est un lanceur de sorts de niveau 4. Sa caractéristique d'incantation est la Sagesse (DD du jet de sauvegarde contre les sorts 12, 4 (1d20+4) pour toucher avec les attaques de sort)."
   - <spell level>: <spell-list>
+  - 
 traits:
   - name: <trait-name>
     desc: <trait-description>
