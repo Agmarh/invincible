@@ -28,7 +28,7 @@ traits:
     desc: "L'homme-lézard peut retenir son souffle pendant 15 minutes."
 actions:
   - name: Attaques multiples
-    desc: "L'homme-lézard effectue trois attaques au corps à corps, chacune devant être effectuée avec une arme différente."
+    desc: "L'homme-lézard effectue deux attaques au corps à corps, chacune devant être effectuée avec une arme différente."
   - name: Bouclier à pointes
     desc: "Attaque d'arme au corps à corps : 4 (1d20+4) pour toucher, allonge 1,50 m, une cible. Touché : 5 (1d6+2) dégâts perforants."
   - name: Gourdin lourd
@@ -39,5 +39,5 @@ actions:
     desc: "Attaque d'arme au corps à corps : 4 (1d20+4) pour toucher, allonge 1,50 m, une cible. Touché : 5 (1d6+2) dégâts perforants."
 tactic:
   - name: 
-    desc: "le groupe dirigé par le champion approche derrière de grandes protections de bois qui procurent un abri important (+5 CA et avantage aux jets de sauvegarde de Dextérité) jusqu'à ce qu'ils arrivent au contact ou au pied des arbres."
+    desc: "Le groupe dirigé par le shaman envoie 6 guerriers derrière de grandes protections de bois (abri important) jusqu'à ce qu'ils arrivent au contact ou au pied des arbres. Ils transportent des barils d'huile et des buissons ardents pour mettre le feu aux arbres et enfumer les PJ (tests de Constitution DD 15 à chaque round ou subir un désavantage à tous les tests et 1d6 dégâts de feu)."
 ```
