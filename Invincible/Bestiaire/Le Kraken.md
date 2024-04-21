@@ -19,17 +19,19 @@ condition_immunities: [[Terrorisé]], [[Paralysé]]
 senses: Vision dans le noir 36m, Perception passive 11
 languages: aucune
 cr: 15
-spells:
-  - <description>
-  - <spell level>: <spell-list>
 traits:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
+  - name: Amphibie
+    desc: "Le kraken peut respirer l'air et l'eau."
+  - name: Monstre assiégeur
+    desc: "Le kraken inflige des dégâts doublés aux objets et aux structures."
 actions:
   - name: <trait-name>
     desc: <trait-description>
-  - ...
+  - name: <trait-name>
+    desc: <trait-description>
+  - name: <trait-name>
+    desc: <trait-description>
+
 legendary_actions:
   - name: <legendary_actions-name>
     desc: <legendary_actions-description>
