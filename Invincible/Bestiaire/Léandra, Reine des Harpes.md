@@ -6,7 +6,7 @@ type: Humanoïde
 subtype: 
 alignment: Loyal Mauvais
 ac: 13 (16 avec armure du mage)
-hp: 49+20
+hp: 69
 hit_dice: 9d8+9
 speed: 9m
 stats: [9, 14, 13, 17, 12, 15]
@@ -14,16 +14,13 @@ saves:
   - Int: +6
   - Sag: +4
 skillsaves:
-  - Arca: number
-damage_vulnerabilities: string
-damage_resistances: string
-damage_immunities: string
-condition_immunities: string
-senses: Perception passive 10
-languages: string
-cr: 1
+  - Arcanes: +6
+  - Histoire: +6
+senses: Perception passive 11
+languages: commun, draconique
+cr: 6
 spells:
-  - <description>
+  - "Léandra est une lanceuse de sorts de niveau 9. Sa caractéristique d'incantation est l'Intelligence (DD du jet de sauvegarde contre les sorts 14, 6 (1d20+6) pour toucher avec les attaques de sort)."
   - <spell level>: <spell-list>
 traits:
   - name: <trait-name>
