@@ -33,4 +33,6 @@ actions:
 treasure:
   - name: Cape de la Harpe
     desc: "Objet merveilleux, très rare, harmonisation exigée. Cette longue cape en plume de harpie est cousu sur un corset décoré d'un oiseau noir. L'ensemble apporte un bonus de +1 en CA (non cumulable avec une armure, sauf le sort armure du mage) et immunise son porteur au chant des harpies. La cape se transforme en ailes noires et permet de voler à une vitesse de 9 mètres. Cette cape ne fonctionne que portée par une femme."
+  - name: Phylactère de vie
+    desc: "Objet merveilleux, rare. Ce gros rubis rouge apporte 20 points de vie temporaires à son porteur. Il encaisse la moitié des dégâts subis à sa place. Lorsque tous les PV du rubis sont détruits, il tombe en poussière."
 ```
