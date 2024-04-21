@@ -22,13 +22,13 @@ traits:
     desc: "L'homme-lézard peut retenir son souffle pendant 15 minutes."
 actions:
   - name: Attaques multiples
-    desc: <trait-description>
+    desc: "L'homme-lézard effectue deux attaques au corps à corps, chacune devant être effectuée avec une arme différente."
   - name: Bouclier à pointes
     desc: <trait-description>
-  - name: <trait-name>
+  - name: Gourdin lourd
     desc: <trait-description>
-  - name: <trait-name>
+  - name: Javeline
     desc: <trait-description>
-  - name: <trait-name>
+  - name: Morsure
     desc: <trait-description>
 ```
