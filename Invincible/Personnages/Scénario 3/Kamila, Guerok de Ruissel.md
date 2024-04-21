@@ -15,15 +15,18 @@ saves:
   - Con: +6
 senses: Perception passive 10
 languages: commun
-cr: 5
+cr: 3
 traits:
-  - name: Brutal
-    desc: "Une arme de corps à corps inflige un dé supplémentaire de ses dégâts quand Calidann réussit une attaque en la maniant (inclus dans l'attaque)."
+  - name: Critique supérieur
+    desc: "Kamila inflige des coups critiques sur un résultat de 18 à 20 au d20."
+  - name: Brave
+    desc: "La créature obtient un avantage lors des jets de sauvegarde effectués pour ne pas être terrorisé."
   - name: Téméraire
     desc: "Au début de son tour, la créature peut bénéficier d'un avantage lors de tous ses jets d'attaque d'arme au corps à corps pendant ce tour, mais les jets d'attaque effectués contre elle bénéficient d'un avantage jusqu'au début de son prochain tour."
 actions:
   - name: Attaques multiples
-    desc: "Calidann effectue deux attaques à la hache à 2 mains."
+    desc: "Kamila effectue deux attaques
+avec fauchegorge (une arme à 2 mains constituée"
   - name: Epée à deux mains
     desc: "Attaque d'arme au corps à corps : 8 (1d20+8) pour toucher, allonge 1,50 m, une cible. Touché : 18 (2d12+5) dégâts tranchants."
 ```
