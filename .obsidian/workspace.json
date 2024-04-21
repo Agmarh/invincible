@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Template/Monstre.md",
+                "file": "Invincible/Bestiaire/Swarathnak, Dragon noir adulte.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Template/Monstre.md",
+                "file": "Invincible/Bestiaire/Swarathnak, Dragon noir adulte.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Template/Monstre.md"
+                "file": "Invincible/Bestiaire/Swarathnak, Dragon noir adulte.md"
               }
             }
           },
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Template/Monstre.md",
+                "file": "Invincible/Bestiaire/Swarathnak, Dragon noir adulte.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,6 +194,8 @@
   },
   "active": "2fcc855b945038d5",
   "lastOpenFiles": [
+    "Template/Monstre.md",
+    "Invincible/Bestiaire/Swarathnak, Dragon noir adulte.md",
     "Invincible/Scénario 2 La cité pétrifiée/Infos diverses.md",
     "Invincible/Scénario 2 La cité pétrifiée/Evénements/Actionner la Chronosphère.md",
     "Invincible/Scénario 2 La cité pétrifiée/ACTUELLEMENT J+8.md",
@@ -202,7 +204,6 @@
     "Invincible/Bestiaire/Ecorché.md",
     "Invincible/Bestiaire/Gargouille.md",
     "Invincible/Scénario 2 La cité pétrifiée/Chronologie.md",
-    "Template/Monstre.md",
     "Invincible/Scénario 2 La cité pétrifiée/Evénements/Les Survivants.md",
     "Invincible/Scénario 2 La cité pétrifiée/Les lieux/3 – La Tour Grise.md",
     "Invincible/Scénario 2 La cité pétrifiée/Les lieux/1 – La Tour du Phare.md",
@@ -222,7 +223,6 @@
     "Invincible/Bestiaire/Oraxos.md",
     "Untitled.md",
     "Pokémon/Ile de Jerseykara.md",
-    "Pokémon/Recettes.md",
     "Oblivion/Images/Anthéone.png",
     "Oblivion/Images/Oblivion 2 bannière.png",
     "Oblivion/Images/Plan citerne.jpg",
