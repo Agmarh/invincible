@@ -22,10 +22,10 @@ languages: commun
 cr: 3
 actions:
   - name: Attaques multiples
-    desc: "Praegar effectue une attaque de chaque hache (2 attaques au total)."
-  - name: Haches
-    desc: "Attaque d'arme au corps à corps : 5 (1d20+5) pour toucher, allonge 1,50 m, une cible. Touché : 7 (1d8+3) dégâts tranchants."
-  - name: Haches
+    desc: "Au corps à corps, Urimak effectue une attaque avec sa hache puis une attaque avec son épée (avec avantage si la cible est à terre). Il effectue deux attaques à distance."
+  - name: Hache
+    desc: "Attaque d'arme au corps à corps : 6 (1d20+6) pour toucher, allonge 1,50 m, une créature. Touché : 8 (1d8+4) dégâts contondants. En cas de réussite de l'attaque, si la cible est une créature de taille M ou plus petite, elle doit réussir un jet de sauvegarde de Force DD 15 pour ne pas être repoussée de (1d4) mètres et être jetée à terre."
+  - name: Epée
     desc: "Attaque d'arme au corps à corps : 5 (1d20+5) pour toucher, allonge 1,50 m, une cible. Touché : 7 (1d8+3) dégâts tranchants."
 ```
 
