@@ -25,15 +25,11 @@ spells:
   - 1er niveau (4 emplacements): [[Armure de mage]], [[Bouclier]], [[Détection de la magie]], [[Projectile magique]]
   - 2e niveau (3 emplacements): [[Pas brumeux]], [[Suggestion]]
   - 3e niveau (3 emplacements): [[Éclair]], [[Contresort]], [[Respiration aquatique]]
-  - 4e niveau (3 emplacements): [[invisibilité supérieure]], [[Tempête de grêle]]
-  - 5e niveau (1 emplacement): [[cône de froid]]
-traits:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
+  - 4e niveau (3 emplacements): [[Invisibilité supérieure]], [[Tempête de grêle]]
+  - 5e niveau (1 emplacement): [[Cône de froid]]
 actions:
-  - name: <trait-name>
-    desc: <trait-description>
+  - name: Dague
+    desc: "Attaque d'arme au corps à corps ou à distance : +5 pour toucher, allonge 1,50 m ou portée 6/18 m, une cible. Touché : 4 (1d4+2) dégâts perforants."
   - ...
 legendary_actions:
   - name: <legendary_actions-name>
