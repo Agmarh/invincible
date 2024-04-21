@@ -9,18 +9,16 @@ ac: 18 (armure naturelle)
 hp: 232
 hit_dice: 15d20+75
 speed: 6m, nage 18m
-stats: [10, 10, 10, 10, 10, 10]
+stats: [24, 11, 20, 12, 10, 12]
 saves:
-  - <ability-score>: number
-skillsaves:
-  - <skill-name>: number
-damage_vulnerabilities: string
-damage_resistances: string
-damage_immunities: string
-condition_immunities: string
-senses: Perception passive 10
-languages: string
-cr: 1
+  - For: +12
+  - Dex: +5
+  - Con: +10
+  - Sag: +6
+condition_immunities: [[Terrorisé]], [[Paralysé]]
+senses: Vision dans le noir 36m, Perception passive 11
+languages: aucune
+cr: 15
 spells:
   - <description>
   - <spell level>: <spell-list>
