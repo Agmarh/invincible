@@ -29,23 +29,8 @@ spells:
   - 5e niveau (1 emplacement): [[Cône de froid]]
 actions:
   - name: Dague
-    desc: "Attaque d'arme au corps à corps ou à distance : +5 pour toucher, allonge 1,50 m ou portée 6/18 m, une cible. Touché : 4 (1d4+2) dégâts perforants."
-  - ...
-legendary_actions:
-  - name: <legendary_actions-name>
-    desc: <legendary_actions-description>
-  - ...
-bonus_actions:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
-reactions:
-  - name: <reaction-name>
-    desc: <reaction-description>
-  - ...
-tactic:
-  - desc: <reaction-description>
+    desc: "Attaque d'arme au corps à corps ou à distance : 5 (1d20+5) pour toucher, allonge 1,50 m ou portée 6/18 m, une cible. Touché : 4 (1d4+2) dégâts perforants."
 treasure:
-  - name: <reaction-name>
-    desc: <reaction-description>
+  - name: Cape de la Harpe
+    desc: "Objet merveilleux, très rare, harmonisation exigée. Cette longue cape en plume de harpie est cousu sur un corset décoré d'un oiseau noir. L'ensemble apporte un bonus de +1 en CA (non cumulable avec une armure, sauf le sort armure du mage) et immunise son porteur au chant des harpies. La cape se transforme en ailes noires et permet de voler à une vitesse de 9 mètres. Cette cape ne fonctionne que portée par une femme."
 ```
