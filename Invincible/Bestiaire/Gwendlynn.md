@@ -23,15 +23,18 @@ spells:
   - 2e niveau (3 emplacements): [[Messager animal]], [[Peau d'écorce]]
 traits:
   - name: Action fourbe
-    desc: <trait-description>
+    desc: "À chacun de ses tours, elle peut utiliser une action bonus pour effectuer l'action Se précipiter, Se désengager ou Se cacher."
   - name: Archer
-    desc: <trait-description>
+    desc: "Gwen ajoute un dé de dégât à ses attaques d'arme à distance."
   - name: Attaque sournoise (1/tour)
-    desc: <trait-description>
+    desc: "Gwendlynn inflige 7 (2d6) dégâts supplémentaires quand elle touche une cible avec une attaque d'arme et si elle obtient un avantage au jet d'attaque, ou quand la cible se trouve à 1,50 mètre ou moins d'un de ses alliés qui n'est pas neutralisé et qu'elle ne subit pas de désavantage lors du jet d'attaque."
 actions:
-  - name: <trait-name>
+  - name: Attaques multiples
+    desc: "Gwen effectue deux attaques au corps à corps ou à distance."
+  - name: Epée courte
     desc: <trait-description>
-  - ...
+  - name: Arc court
+    desc: <trait-description>
 tactic:
   - name: 
     desc: "Gwendlynn utilise ses attaques à distance pour infliger le plus de dégâts possibles. Elle tire depuis son rocher sur les voleurs tant que quelqu'un est en vue et en vie, mais elle ne poursuit pas les PJ s'ils se sont contentés de lui voler un vêtement. Elle comprend vite qu'il s'agit encore d'un tour des Farfadets. Si le combat tourne mal, elle saute à l'eau, se transforme en poisson et disparaît sous les rochers dans l'eau trouble."
