@@ -2,18 +2,18 @@
 image: [[monstre.png]]
 name: Homme-Lézard
 size: M
-type: 
+type: Humanoïde
 subtype: 
 alignment: Neutre
-ac: 10
-hp: 0
-hit_dice: 1d8+0
-speed: 0
-stats: [10, 10, 10, 10, 10, 10]
-saves:
-  - <ability-score>: number
+ac: 15 (armure naturelle, bouclier)
+hp: 22
+hit_dice: 4d8+4
+speed: 9m, nage 9m
+stats: [15, 10, 13, 7, 12, 7]
 skillsaves:
-  - <skill-name>: number
+  - Discrétion: +4
+  - Perception: +3
+  - Survie: +5
 damage_vulnerabilities: string
 damage_resistances: string
 damage_immunities: string
