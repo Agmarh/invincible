@@ -22,5 +22,5 @@ actions:
   - name: Arc long
     desc: "Attaque d'arme à distance : 4 (1d20+4) pour toucher, portée 45/180 m, une cible. Touché : 6 (1d8+2) dégâts perforants."
   - name: Epée courte
-    desc: "Attaque d'arme au corps à corps : 4 (1d20+4) pour toucher, allonge 1,50 m, une cible. Touché : 9 (1d12+3) dégâts tranchants."
+    desc: "Attaque d'arme au corps à corps : 4 (1d20+4) pour toucher, allonge 1,50 m, une cible. Touché : 5 (1d6+2) dégâts tranchants."
 ```
