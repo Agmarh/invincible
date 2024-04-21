@@ -8,21 +8,16 @@ alignment: Neutre Mauvais
 ac: 13
 hp: 45
 hit_dice: 7d8+14
-speed: 0
-stats: [10, 10, 10, 10, 10, 10]
-saves:
-  - <ability-score>: number
+speed: 9m
+stats: [10, 15, 14, 10, 14, 14]
 skillsaves:
-  - <skill-name>: number
-damage_vulnerabilities: string
-damage_resistances: string
-damage_immunities: string
-condition_immunities: string
-senses: Perception passive 10
-languages: string
-cr: 1
+  - Discrétion: +4
+  - Perception: +6
+senses: Perception passive 16
+languages: commun, sylvestre
+cr: 3
 spells:
-  - <description>
+  - "Gwendlynn est un lanceur de sorts de niveau 4. Sa caractéristique d'incantation est la Sagesse (DD du jet de sauvegarde contre les sorts 12, +4 pour toucher avec les attaques de sort). Gwen peut lancer forme sauvage (aptitude de druide, 2 fois après chaque repos)."
   - <spell level>: <spell-list>
 traits:
   - name: <trait-name>
