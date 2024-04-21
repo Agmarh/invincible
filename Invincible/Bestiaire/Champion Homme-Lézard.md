@@ -1,13 +1,13 @@
 ```statblock
 image: [[monstre.png]]
-name: Homme-Lézard
+name: Champion Homme-Lézard
 size: M
 type: Humanoïde
 subtype: 
-alignment: Neutre
+alignment: Loyal Neutre
 ac: 15 (armure naturelle, bouclier)
-hp: 22
-hit_dice: 4d8+4
+hp: 44
+hit_dice: 8d8+8
 speed: 9m, nage 9m
 stats: [15, 10, 13, 7, 12, 7]
 skillsaves:

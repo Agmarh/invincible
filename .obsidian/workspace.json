@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Invincible/Bestiaire/Homme-Lézard.md",
+                "file": "Invincible/Bestiaire/Champion Homme-Lézard.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Invincible/Bestiaire/Homme-Lézard.md",
+                "file": "Invincible/Bestiaire/Champion Homme-Lézard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Invincible/Bestiaire/Homme-Lézard.md"
+                "file": "Invincible/Bestiaire/Champion Homme-Lézard.md"
               }
             }
           },
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Invincible/Bestiaire/Homme-Lézard.md",
+                "file": "Invincible/Bestiaire/Champion Homme-Lézard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,8 +194,9 @@
   },
   "active": "120ecef360b3981b",
   "lastOpenFiles": [
-    "Template/Monstre.md",
     "Invincible/Bestiaire/Homme-Lézard.md",
+    "Invincible/Bestiaire/Champion Homme-Lézard.md",
+    "Template/Monstre.md",
     "Invincible/Bestiaire/Blaireau.md",
     "Invincible/Bestiaire/Gwendlynn.md",
     "Invincible/Bestiaire/Swarathnak, Dragon noir adulte.md",
@@ -219,7 +220,6 @@
     "Template/Objet.md",
     "Invincible/Bestiaire/Léandra, Reine des Harpes.md",
     "Annexe/Sortilèges/Niveau 5/Cône de froid.md",
-    "Annexe/Sortilèges/Niveau 4/Tempête de grêle.md",
     "Invincible/Personnages/Scénario 3",
     "Invincible/PDF/hd_04_invincible_web_v1.pdf",
     "Invincible/PDF/hd_04_invincible_web_v1 1.pdf",
