@@ -19,14 +19,10 @@ languages: langue des druides, commun, commun des profondeurs
 cr: 1
 spells:
   - "Sélona est un lanceur de sorts de niveau 4. Sa caractéristique d'incantation est la Sagesse (DD du jet de sauvegarde contre les sorts 12, 4 (1d20+4) pour toucher avec les attaques de sort)."
-  - <spell level>: <spell-list>
-  - 
-traits:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
+  - Tours de magie: [[Druidisme]], [[Assistance]], [[Résistance]]
+  - 1er niveau (4 emplacements): [[Communication avec les animaux]], [[Baies nourricières]], [[Grande foulée]], [[Soin des blessures]]
 actions:
-  - name: <trait-name>
+  - name: Bâton
     desc: <trait-description>
   - ...
 legendary_actions:
