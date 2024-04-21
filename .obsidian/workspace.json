@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Invincible/Personnages/Scénario 3/Loknir, Khâl de Hauvre.md",
+                "file": "Invincible/Bestiaire/Barbares.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Invincible/Personnages/Scénario 3/Loknir, Khâl de Hauvre.md",
+                "file": "Invincible/Bestiaire/Barbares.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Invincible/Personnages/Scénario 3/Loknir, Khâl de Hauvre.md"
+                "file": "Invincible/Bestiaire/Barbares.md"
               }
             }
           },
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Invincible/Personnages/Scénario 3/Loknir, Khâl de Hauvre.md",
+                "file": "Invincible/Bestiaire/Barbares.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,11 +192,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "efc7fbc9dabff410",
+  "active": "2fcc855b945038d5",
   "lastOpenFiles": [
-    "Invincible/Personnages/Scénario 3",
-    "Template/Monstre.md",
     "Invincible/Personnages/Scénario 3/Loknir, Khâl de Hauvre.md",
+    "Template/Monstre.md",
+    "Invincible/Bestiaire/Barbares.md",
+    "Invincible/Personnages/Scénario 3",
     "Invincible/Personnages/Ea Créatures monstrueuses.md",
     "Invincible/Personnages/Scénario 3/Sélona.md",
     "Invincible/Personnages/Clovik Scénario 2.md",
@@ -239,7 +240,6 @@
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Le Moratorium",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Les Marches Sacrées/Sans titre",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Les Marches Sacrées",
-    "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/La terrasse des Mille Négoces",
     "Oblivion/PNJ/Sans titre.canvas"
   ]
 }
