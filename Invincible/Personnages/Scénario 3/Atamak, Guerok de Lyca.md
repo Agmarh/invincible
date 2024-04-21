@@ -22,15 +22,13 @@ languages: commun
 cr: 3
 traits:
   - name: Attaque sournoise
-    desc: "La créature obtient un avantage lors des jets de sauvegarde effectués pour ne pas être terrorisé."
-  - name: Téméraire
-    desc: "Au début de son tour, la créature peut bénéficier d'un avantage lors de tous ses jets d'attaque d'arme au corps à corps pendant ce tour, mais les jets d'attaque effectués contre elle bénéficient d'un avantage jusqu'au début de son prochain tour."
-  - name: Rage
-    desc: "Praegar peut entrer en rage en utilisant une action bonus. Il obtient un avantage sur les tests de Force et les jets de sauvegarde de Force. Quand il utilise une arme de corps à corps, il gagne un bonus de +3 au jet de dégâts. Enfin, il devient résistant aux dégâts contondants, perforants et tranchants."
+    desc: "Une fois par tour, Atamak inflige 14 (4d6) dégâts supplémentaires quand il touche une cible avec une attaque d'arme s'il est avantagé lors du jet d'attaque, ou quand la cible se trouve à 1,50 mètre ou moins d'un de ses alliés qui n'est pas neutralisé, et qu'Atamak n'est pas désavantagé lors du jet d'attaque."
 actions:
   - name: Attaques multiples
-    desc: "Praegar effectue une attaque de chaque hache (2 attaques au total)."
-  - name: Haches
+    desc: "Atamak effectue une attaque au fléau et une attaque avec son gantelet à pointes."
+  - name: Fléau
+    desc: "Attaque d'arme au corps à corps : 3 (1d20+3) pour toucher, allonge 1,50 m, une cible. Touché : 6 (1d8+1) dégâts contondants."
+  - name: Gantelet à pointes
     desc: "Attaque d'arme au corps à corps : 5 (1d20+5) pour toucher, allonge 1,50 m, une cible. Touché : 7 (1d8+3) dégâts tranchants."
 ```
 
