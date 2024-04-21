@@ -15,11 +15,11 @@ languages: -
 cr: 2
 traits:
   - name: Charge
-    desc: "Si le centaure se déplace de 9 mètres au moins en ligne droite vers une cible contre laquelle il réussit ensuite une attaque de pique lors du même tour, la cible subit 10 (3d6) dégâts perforants supplémentaires."
+    desc: "Si le sanglier se déplace de 6 mètres au moins en ligne droite vers une cible contre laquelle il réussit ensuite une attaque de défense lors du même tour, celle-ci subit 7 (2d6) dégâts tranchants supplémentaires. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 13 pour ne pas être jetée [[A terre]]."
 actions:
   - name: Attaques multiples
     desc: "Le centaure effectue deux attaques, l'une avec sa pique et l'autre avec ses sabots, ou bien deux attaques avec son arc long."
-  - name: Arc
+  - name: Implacable (Recharge après un repos court ou long)
     desc: "Attaque d'arme à distance : 4 (1d20+4) pour toucher, portée 45/180 m, une cible. Touché : 6 (1d8+2) dégâts perforants."
   - name: Pique
     desc: "Attaque d'arme au corps à corps : 6 (1d20+6) pour toucher, allonge 1,50 m, une cible.  Touché : 9 (1d10+4) dégâts perforants."
