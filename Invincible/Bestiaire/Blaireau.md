@@ -21,5 +21,5 @@ actions:
     desc: "Attaque d'arme au corps à corps : 2 (1d20+2) pour toucher, allonge 1,50 m, une cible. Touché : 1 dégât perforant."
 tactic:
   - name: 
-    desc: "Gwendlynn utilise ses attaques à distance pour infliger le plus de dégâts possibles. Elle tire depuis son rocher sur les voleurs tant que quelqu'un est en vue et en vie, mais elle ne poursuit pas les PJ s'ils se sont contentés de lui voler un vêtement. Elle comprend vite qu'il s'agit encore d'un tour des Farfadets. Si le combat tourne mal, elle saute à l'eau, se transforme en poisson et disparaît sous les rochers dans l'eau trouble."
+    desc: "Si un PJ tue le blaireau de Gwendlynn, cette dernière devient alors un ennemi mortel. Elle le piste dans la forêt et essaye de tuer le coupable dès que l'occasion se présente. Par exemple lors du combat contre les hommes-lézards (voir plus loin)."
 ```
