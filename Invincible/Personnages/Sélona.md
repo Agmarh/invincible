@@ -8,16 +8,12 @@ alignment: Neutre Bon
 ac: 11
 hp: 16
 hit_dice: 3d8+2
-speed: 9
-stats: [10, 10, 10, 10, 10, 10]
-saves:
-  - <ability-score>: number
+speed: 9m
+stats: [10, 12, 13, 12, 15, 11]
 skillsaves:
-  - <skill-name>: number
-damage_vulnerabilities: string
-damage_resistances: string
-damage_immunities: string
-condition_immunities: string
+  - Médecine: +4
+  - Nature: +3
+  - Perception: +4
 senses: Perception passive 10
 languages: string
 cr: 1
