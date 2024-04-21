@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 4/Bannissement.md",
+                "file": "Annexe/Sortilèges/Niveau 4/Invisibilité supérieure.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 4/Bannissement.md",
+                "file": "Annexe/Sortilèges/Niveau 4/Invisibilité supérieure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 4/Bannissement.md"
+                "file": "Annexe/Sortilèges/Niveau 4/Invisibilité supérieure.md"
               }
             }
           },
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 4/Bannissement.md",
+                "file": "Annexe/Sortilèges/Niveau 4/Invisibilité supérieure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,6 +194,9 @@
   },
   "active": "2fcc855b945038d5",
   "lastOpenFiles": [
+    "Template/Sort.md",
+    "Annexe/Sortilèges/Niveau 4/Invisibilité supérieure.md",
+    "Annexe/Sortilèges/Niveau 4/Bannissement.md",
     "Invincible/Bestiaire/Léandra, Reine des Harpes.md",
     "Template/Monstre.md",
     "Invincible/Bestiaire/Harpie.md",
@@ -219,9 +222,6 @@
     "Invincible/Scénario 2 La cité pétrifiée/Les lieux/1 – La Tour du Phare.md",
     "Invincible/PDF/hd_04_invincible_web_v1.pdf",
     "Animain/JDR/Chapitre 1.md",
-    "Pokémon/Enquête Bateau Bordeauxelle.md",
-    "Invincible/Personnages/Clovik Scénario 1.md",
-    "Invincible/Scénario 2 La cité pétrifiée/Personnage Loup-Garou.md",
     "Invincible/PDF/hd_04_invincible_web_v1 1.pdf",
     "Invincible/PDF",
     "Oblivion/Images/Anthéone.png",
