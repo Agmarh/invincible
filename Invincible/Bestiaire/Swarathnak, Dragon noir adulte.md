@@ -31,11 +31,13 @@ actions:
   - name: Attaques multiples
     desc: "Le dragon peut utiliser sa Présence terrifiante. Il effectue ensuite trois attaques : une avec sa morsure et deux avec ses griffes."
   - name: Morsure
-    desc: "Attaque d'arme au corps à corps : +11 pour toucher, allonge 3 m, une cible."
+    desc: "Attaque d'arme au corps à corps : 11 (1d20+11) pour toucher, allonge 3 m, une cible. Touché : 17 (2d10+6) dégâts perforants plus 4 (1d8) dégâts d'acide."
   - name: Griffe
-    desc: <trait-description>
+    desc: "Attaque d'arme au corps à corps : 11 (1d20+11) pour toucher, allonge 1,50 m, une cible. Touché : 13 (2d6+6) dégâts tranchants."
   - name: Queue
-    desc: <trait-description>
+    desc: "Attaque d'arme au corps à corps : +11 pour toucher,
+allonge 4,50 m, une cible.
+Touché : 15 (2d8+6) dégâts contondants."
   - name: Présence terrifiante
     desc: <trait-description>
   - name: Souffle d'acide (Recharge 5-6)
