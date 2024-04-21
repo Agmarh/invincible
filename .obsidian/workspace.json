@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Invincible/Bestiaire/Farfadet.md",
+                "file": "Invincible/Bestiaire/Centaure.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Invincible/Bestiaire/Farfadet.md",
+                "file": "Invincible/Bestiaire/Centaure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Invincible/Bestiaire/Farfadet.md"
+                "file": "Invincible/Bestiaire/Centaure.md"
               }
             }
           },
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Invincible/Bestiaire/Farfadet.md",
+                "file": "Invincible/Bestiaire/Centaure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,8 +194,10 @@
   },
   "active": "120ecef360b3981b",
   "lastOpenFiles": [
-    "Template/Monstre.md",
+    "Invincible/Bestiaire/Gargouille.md",
+    "Invincible/Bestiaire/Centaure.md",
     "Invincible/Bestiaire/Farfadet.md",
+    "Template/Monstre.md",
     "Invincible/Bestiaire/Le Kraken.md",
     "Invincible/Personnages/Scénario 3/Rognar, Ancien de Lyca.md",
     "Invincible/Bestiaire/Barbares.md",
@@ -218,9 +220,7 @@
     "Annexe/Sortilèges/Niveau 4/Bannissement.md",
     "Invincible/Bestiaire/Harpie.md",
     "Invincible/Bestiaire/Villageois aguérris.md",
-    "Invincible/Bestiaire/Capitaine de Lycanis.md",
     "Invincible/Personnages/Scénario 3",
-    "Invincible/Personnages/Ea Créatures monstrueuses.md",
     "Invincible/PDF/hd_04_invincible_web_v1.pdf",
     "Invincible/PDF/hd_04_invincible_web_v1 1.pdf",
     "Invincible/PDF",
