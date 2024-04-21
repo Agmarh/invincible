@@ -4,19 +4,22 @@ name: Shaman Homme-Lézard
 size: M
 type: Humanoïde
 subtype: 
-alignment: Loyal Neutre
-ac: 15 (armure naturelle, bouclier)
+alignment: Neutre Mauvais
+ac: 13 (armure naturelle)
 hp: 44
 hit_dice: 8d8+8
 speed: 9m, nage 9m
-stats: [15, 10, 13, 7, 12, 7]
+stats: [15, 10, 13, 7, 15, 7]
 skillsaves:
   - Discrétion: +4
-  - Perception: +3
+  - Perception: +4
   - Survie: +5
-senses: Perception passive 13
+senses: Perception passive 14
 languages: draconique
-cr: 2
+cr: 3
+spells:
+  - desc: "Le shaman est un lanceur de sorts de niveau 5. Sa caractéristique d'incantation est la Sagesse (DD du jet de sauvegarde contre les sorts 13, +5 pour toucher avec les attaques de sort)."
+  - 
 traits:
   - name: Retenir son souffle
     desc: "L'homme-lézard peut retenir son souffle pendant 15 minutes."
