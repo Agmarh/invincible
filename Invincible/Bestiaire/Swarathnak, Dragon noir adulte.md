@@ -35,13 +35,11 @@ actions:
   - name: Griffe
     desc: "Attaque d'arme au corps à corps : 11 (1d20+11) pour toucher, allonge 1,50 m, une cible. Touché : 13 (2d6+6) dégâts tranchants."
   - name: Queue
-    desc: "Attaque d'arme au corps à corps : +11 pour toucher,
-allonge 4,50 m, une cible.
-Touché : 15 (2d8+6) dégâts contondants."
+    desc: "Attaque d'arme au corps à corps : 11 (1d20+11) pour toucher, allonge 4,50 m, une cible. Touché : 15 (2d8+6) dégâts contondants."
   - name: Présence terrifiante
-    desc: <trait-description>
+    desc: "Les créatures choisies par le dragon, situées à 36 mètres ou moins de lui et conscientes de sa présence, doivent chacune réussir un jet de sauvegarde de Sagesse DD 16 pour ne pas être terrorisées pendant 1 minute. Une créature peut retenter le jet de sauvegarde à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite. Si le jet de sauvegarde d'une créature est réussi ou si l'effet dont elle est victime prend fin, elle est immunisée contre la présence terrifiante du dragon pendant 24 heures."
   - name: Souffle d'acide (Recharge 5-6)
-    desc: <trait-description>
+    desc: "Le dragon souffle de l'acide sur une ligne de 18 mètres de long et 1,50 mètre de large. Les créatures sur cette ligne doivent chacune effectuer un jet de sauvegarde de Dextérité DD 18 ; elles subissent 54 (12d8) dégâts d'acide en cas d'échec ou la moitié de ces dégâts seulement en cas de réussite."
 legendary_actions:
   - name: <legendary_actions-name>
     desc: <legendary_actions-description>
