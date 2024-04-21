@@ -1,11 +1,11 @@
 ---
-type: rare
-niveau: 2
+type: 
+niveau: 
 incantation: 
 distance: 
 composantes: 
 temps: 
-classe: 
+classe:
 ---
 # <% tp.frontmatter.type %> de niveau <% tp.frontmatter.niveau %>
 
