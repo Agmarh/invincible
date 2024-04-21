@@ -44,11 +44,10 @@ reactions:
   - name: <reaction-name>
     desc: <reaction-description>
   - ...
-tactic:
-  - desc: <reaction-description>
-  - ...
+tactc:
+  - name: 
+    desc:
 treasure:
   - name: <reaction-name>
     desc: <reaction-description>
-tac
 ```
