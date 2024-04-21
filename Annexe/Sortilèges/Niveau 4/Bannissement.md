@@ -1,6 +1,6 @@
 ---
 type: Abjuration
-niveau: 4
+niveau: 4 (rituel)
 incantation: 1 action
 distance: 18 mètres
 composantes: V, S, M (un objet qui répugne à la cible)
