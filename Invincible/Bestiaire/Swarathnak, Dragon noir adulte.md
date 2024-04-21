@@ -49,17 +49,4 @@ legendary_actions:
     desc: "Le dragon effectue une attaque de queue. Il peut faire plusieurs attaques de queue dans le round, mais pas plus d'une attaque sur une même créature."
   - name: Attaque avec les ailes (coûte 2 actions légendaires)
     desc: "Le dragon bat violemment des ailes. Les créatures situées à 3 mètres ou moins de lui doivent chacune réussir un jet de sauvegarde de Dextérité DD 19 pour ne pas subir 13 (2d6+6) dégâts contondants et être jetées à terre. Le dragon peut ensuite prendre son envol à la moitié de sa vitesse de vol."
-bonus_actions:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
-reactions:
-  - name: <reaction-name>
-    desc: <reaction-description>
-  - ...
-tactic:
-  - desc: <reaction-description>
-treasure:
-  - name: <reaction-name>
-    desc: <reaction-description>
 ```
