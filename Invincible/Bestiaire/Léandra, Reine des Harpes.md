@@ -24,9 +24,9 @@ spells:
   - Tours de magie: [[Rayon de givre]], [[Lumière]], [[Contact glacial]], [[Prestidigitation]]
   - 1er niveau (4 emplacements): [[Armure de mage]], [[Bouclier]], [[Détection de la magie]], [[Projectile magique]]
   - 2e niveau (3 emplacements): [[Pas brumeux]], [[Suggestion]]
-  - 3e niveau (3 emplacements): [[Éclair]], []
-  - 4e niveau (3 emplacements): <spell-list>
-  - 5e niveau (1 emplacement): <spell-list>
+  - 3e niveau (3 emplacements): [[Éclair]], [[Contresort]], [[Respiration aquatique]]
+  - 4e niveau (3 emplacements): [[invisibilité supérieure]], [[Tempête de grêle]]
+  - 5e niveau (1 emplacement): [[cône de froid]]
 traits:
   - name: <trait-name>
     desc: <trait-description>
