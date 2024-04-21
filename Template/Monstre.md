@@ -50,4 +50,5 @@ tactic:
 treasure:
   - name: <reaction-name>
     desc: <reaction-description>
+tac
 ```
