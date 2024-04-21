@@ -7,46 +7,19 @@ subtype:
 alignment: Chaotique Mauvais
 ac: 11
 hp: 38
-hit_dice: 1d8+0
-speed: 0
-stats: [10, 10, 10, 10, 10, 10]
-saves:
-  - <ability-score>: number
-skillsaves:
-  - <skill-name>: number
-damage_vulnerabilities: string
-damage_resistances: string
-damage_immunities: string
-condition_immunities: string
+hit_dice: 7d8+7
+speed: 6m, vol 12m
+stats: [12, 13, 12, 7, 10, 13]
 senses: Perception passive 10
-languages: string
+languages: commun
 cr: 1
-spells:
-  - <description>
-  - <spell level>: <spell-list>
-traits:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
 actions:
+  - name: Attaques multiples
+    desc: <trait-description>
+  - name: Chant captivant
+    desc: <trait-description>
+  - name: Gourdin
+    desc: <trait-description>
   - name: <trait-name>
     desc: <trait-description>
-  - ...
-legendary_actions:
-  - name: <legendary_actions-name>
-    desc: <legendary_actions-description>
-  - ...
-bonus_actions:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
-reactions:
-  - name: <reaction-name>
-    desc: <reaction-description>
-  - ...
-tactic:
-  - desc: <reaction-description>
-treasure:
-  - name: <reaction-name>
-    desc: <reaction-description>
 ```
