@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Invincible/Bestiaire/Léandra, Reine des Harpes.md",
+                "file": "Template/Srotilèges.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Invincible/Bestiaire/Léandra, Reine des Harpes.md",
+                "file": "Template/Srotilèges.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Invincible/Bestiaire/Léandra, Reine des Harpes.md"
+                "file": "Template/Srotilèges.md"
               }
             }
           },
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Invincible/Bestiaire/Léandra, Reine des Harpes.md",
+                "file": "Template/Srotilèges.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,14 +194,15 @@
   },
   "active": "120ecef360b3981b",
   "lastOpenFiles": [
+    "Template/Sort.md",
+    "Template/Srotilèges.md",
+    "Template/Monstre.md",
+    "Invincible/Bestiaire/Léandra, Reine des Harpes.md",
     "Annexe/Sortilèges/Niveau 5/Cône de froid.md",
     "Annexe/Sortilèges/Niveau 4/Tempête de grêle.md",
     "Untitled.md",
-    "Template/Sort.md",
     "Annexe/Sortilèges/Niveau 4/Invisibilité supérieure.md",
     "Annexe/Sortilèges/Niveau 4/Bannissement.md",
-    "Invincible/Bestiaire/Léandra, Reine des Harpes.md",
-    "Template/Monstre.md",
     "Invincible/Bestiaire/Harpie.md",
     "Invincible/Personnages/Scénario 3/Praegar.md",
     "Invincible/Personnages/Scénario 3/Loknir, Khâl de Hauvre.md",
@@ -220,7 +221,6 @@
     "Invincible/Bestiaire/Ecorché.md",
     "Invincible/Bestiaire/Gargouille.md",
     "Invincible/Scénario 2 La cité pétrifiée/Chronologie.md",
-    "Invincible/Scénario 2 La cité pétrifiée/Evénements/Les Survivants.md",
     "Invincible/PDF/hd_04_invincible_web_v1.pdf",
     "Invincible/PDF/hd_04_invincible_web_v1 1.pdf",
     "Invincible/PDF",
