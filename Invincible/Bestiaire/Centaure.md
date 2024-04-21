@@ -19,8 +19,10 @@ traits:
 actions:
   - name: Attaques multiples
     desc: "Le centaure effectue deux attaques, l'une avec sa pique et l'autre avec ses sabots, ou bien deux attaques avec son arc long."
-  - name: Griffes
-    desc: "Attaque d'arme à distance : 4 (1d20+4) pour toucher, portée 45/180 m, une cible. _Touché_ : 6 (1d8+2) dégâts perforants."
-  - name: Morsure
-    desc: "Attaque d'arme au corps à corps : 4 (1d20+4) pour toucher, allonge 1,50 m, une cible.  Touché : 5 (1d6+2) dégâts perforants."
+  - name: Arc
+    desc: "Attaque d'arme à distance : 4 (1d20+4) pour toucher, portée 45/180 m, une cible. Touché : 6 (1d8+2) dégâts perforants."
+  - name: Pique
+    desc: "Attaque d'arme au corps à corps : 6 (1d20+6) pour toucher, allonge 1,50 m, une cible.  Touché : 9 (1d10+4) dégâts perforants."
+  - name: Sabots
+    desc: "Attaque d'arme au corps à corps : 6 (1d20+6) pour toucher, allonge 1,50 m, une cible.  Touché : 11 (2d6+4) dégâts contondants."
 ```
