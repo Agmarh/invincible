@@ -44,7 +44,7 @@ reactions:
   - name: <reaction-name>
     desc: <reaction-description>
   - ...
-tactc:
+tactic:
   - name: 
     desc:
 treasure:

@@ -1,13 +1,13 @@
 ```statblock
 image: [[monstre.png]]
 name: Gwendlynn
-size: 
-type: 
+size: M
+type: Humanoïde
 subtype: 
-alignment: Neutre
-ac: 10
-hp: 0
-hit_dice: 1d8+0
+alignment: Neutre Mauvais
+ac: 13
+hp: 45
+hit_dice: 7d8+14
 speed: 0
 stats: [10, 10, 10, 10, 10, 10]
 saves:
@@ -33,5 +33,6 @@ actions:
     desc: <trait-description>
   - ...
 tactic:
-  - desc: "Gwendlynn utilise ses attaques à distance pour infliger le plus de dégâts possibles. Elle tire depuis son rocher sur les voleurs tant que quelqu'un est en vue et en vie, mais elle ne poursuit pas les PJ s'ils se sont contentés de lui voler un vêtement. Elle comprend vite qu'il s'agit encore d'un tour des Farfadets. Si le combat tourne mal, elle saute à l'eau, se transforme en poisson et disparaît sous les rochers dans l'eau trouble."
+  - name: 
+    desc: "Gwendlynn utilise ses attaques à distance pour infliger le plus de dégâts possibles. Elle tire depuis son rocher sur les voleurs tant que quelqu'un est en vue et en vie, mais elle ne poursuit pas les PJ s'ils se sont contentés de lui voler un vêtement. Elle comprend vite qu'il s'agit encore d'un tour des Farfadets. Si le combat tourne mal, elle saute à l'eau, se transforme en poisson et disparaît sous les rochers dans l'eau trouble."
 ```
