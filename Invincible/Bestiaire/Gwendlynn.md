@@ -17,8 +17,10 @@ senses: Perception passive 16
 languages: commun, sylvestre
 cr: 3
 spells:
-  - "Gwendlynn est un lanceur de sorts de niveau 4. Sa caractéristique d'incantation est la Sagesse (DD du jet de sauvegarde contre les sorts 12, +4 pour toucher avec les attaques de sort). Gwen peut lancer forme sauvage (aptitude de druide, 2 fois après chaque repos)."
-  - <spell level>: <spell-list>
+  - "Gwendlynn est un lanceur de sorts de niveau 4. Sa caractéristique d'incantation est la Sagesse (DD du jet de sauvegarde contre les sorts 12, 4 (1d20+4) pour toucher avec les attaques de sort). Gwen peut lancer forme sauvage (aptitude de druide, 2 fois après chaque repos)."
+  - Tours de magie: [[Druidisme]], [[Gourdin magique]], [[Produire une flamme]]
+  - 1er niveau (4 emplacements): [[Communication avec l]]
+  - 2e niveau (3 emplacements): <spell-list>
 traits:
   - name: <trait-name>
     desc: <trait-description>
