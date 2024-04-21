@@ -44,11 +44,11 @@ legendary_actions:
   - name: 
     desc: "Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décrites ici. Seule une action légendaire peut être choisie à la fois et uniquement à la fin du tour d'une autre créature. Le dragon récupère l'utilisation des actions légendaires déjà effectuées au début de son propre tour."
   - name: Détecter
-    desc: <legendary_actions-description>
-  - name: Attaque avec
-    desc: <legendary_actions-description>
-  - name: <legendary_actions-name>
-    desc: <legendary_actions-description>
+    desc: "Le dragon effectue un test de Sagesse (Perception)."
+  - name: Attaque avec la queue
+    desc: "Le dragon effectue une attaque de queue. Il peut faire plusieurs attaques de queue dans le round, mais pas plus d'une attaque sur une même créature."
+  - name: Attaque avec les ailes (coûte 2 actions légendaires)
+    desc: "Le dragon bat violemment des ailes. Les créatures situées à 3 mètres ou moins de lui doivent chacune réussir un jet de sauvegarde de Dextérité DD 19 pour ne pas subir 13 (2d6+6) dégâts contondants et être jetées à terre. Le dragon peut ensuite prendre son envol à la moitié de sa vitesse de vol."
 bonus_actions:
   - name: <trait-name>
     desc: <trait-description>
