@@ -21,6 +21,11 @@ languages: commun, draconique
 cr: 6
 spells:
   - "Léandra est une lanceuse de sorts de niveau 9. Sa caractéristique d'incantation est l'Intelligence (DD du jet de sauvegarde contre les sorts 14, 6 (1d20+6) pour toucher avec les attaques de sort)."
+  - Tours de magie: [[Rayon de givre]], [[Lumière]], [[Contact glacial]], [[Prestidigitation]]
+  - 1er niveau (4 emplacements): [[Armure de mage]], [[Bouclier]], 
+  - <spell level>: <spell-list>
+  - <spell level>: <spell-list>
+  - <spell level>: <spell-list>
   - <spell level>: <spell-list>
 traits:
   - name: <trait-name>
