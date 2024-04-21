@@ -2,22 +2,23 @@
 image: [[monstre.png]]
 name: Farfadet
 size: TP
-type: 
+type: Fée
 subtype: 
-alignment: Neutre
-ac: 10
-hp: 0
-hit_dice: 1d8+0
-speed: 0
-stats: [10, 10, 10, 10, 10, 10]
+alignment: Neutre Bon
+ac: 15 (armure de cuir)
+hp: 10
+hit_dice: 4d4
+speed: 3m
+stats: [3, 18, 10, 14, 13, 11]
 skillsaves:
-  - <skill-name>: number
-condition_immunities: string
-senses: Perception passive 10
-languages: string
-cr: 1
+  - Discrétion: +8
+  - Perception: +3
+condition_immunities: [[Charmé]], [[Empoisonné]]
+senses: Perception passive 13
+languages: commun, elfe, sylvestre
+cr: 1/2
 actions:
-  - name: <trait-name>
+  - name: Dague
     desc: <trait-description>
   - name: <trait-name>
     desc: <trait-description>
