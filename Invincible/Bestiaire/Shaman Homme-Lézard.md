@@ -1,6 +1,6 @@
 ```statblock
 image: [[monstre.png]]
-name: Champion Homme-Lézard
+name: Shaman Homme-Lézard
 size: M
 type: Humanoïde
 subtype: 
