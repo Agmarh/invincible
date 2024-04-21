@@ -24,11 +24,12 @@ actions:
   - name: Attaques multiples
     desc: "L'homme-lézard effectue deux attaques au corps à corps, chacune devant être effectuée avec une arme différente."
   - name: Bouclier à pointes
-    desc: <trait-description>
+    desc: "Attaque d'arme au corps à corps : 4 (1d20+4) pour toucher, allonge 1,50 m, une cible. Touché : 5 (1d6+2) dégâts perforants."
   - name: Gourdin lourd
-    desc: <trait-description>
+    desc: "Attaque d'arme au corps à corps : 4 (1d20+4) pour toucher, allonge 1,50 m, une cible. Touché : 5 (1d6+2) dégâts contondants."
   - name: Javeline
-    desc: <trait-description>
+    desc: "Attaque d'arme au corps à corps ou à distance : +4 pour toucher, portée 1,50 m ou portée 9/36 m, une cible.  
+_Touché_ : 5 (1d6+2) dégâts perforants."
   - name: Morsure
     desc: <trait-description>
 ```
