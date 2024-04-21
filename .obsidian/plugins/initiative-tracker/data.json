@@ -71,7 +71,10 @@
       "path": "Invincible/Personnages/Clovik Scénario 2.md",
       "name": "Clovik",
       "player": true,
-      "level": 3
+      "level": 3,
+      "hp": 24,
+      "ac": "16",
+      "modifier": 2
     },
     {
       "note": "Sélona",

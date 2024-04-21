@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Invincible/Personnages/Ea Créatures monstrueuses.md",
+                "file": "Template/Monstre.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Invincible/Personnages/Ea Créatures monstrueuses.md",
+                "file": "Template/Monstre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Invincible/Personnages/Ea Créatures monstrueuses.md"
+                "file": "Template/Monstre.md"
               }
             }
           },
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Invincible/Personnages/Ea Créatures monstrueuses.md",
+                "file": "Template/Monstre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,6 +194,7 @@
   },
   "active": "2fcc855b945038d5",
   "lastOpenFiles": [
+    "Invincible/Personnages/Ea Créatures monstrueuses.md",
     "Invincible/Personnages/Sélona.md",
     "Invincible/Personnages/Clovik Scénario 2.md",
     "Template/Monstre.md",
@@ -217,7 +218,6 @@
     "Invincible/PDF",
     "Invincible/Bestiaire/Ankheg.md",
     "Invincible/Bestiaire/Baphit.md",
-    "Invincible/Personnages/Ea Créatures monstrueuses.md",
     "Invincible/Scénario 2 La cité pétrifiée/Evénements/Le retour des pêcheurs.md",
     "Invincible/Bestiaire/Hibours.md",
     "Invincible/Bestiaire/Worg.md",
