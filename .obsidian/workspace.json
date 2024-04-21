@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Invincible/Personnages/Scénario 3/Kamila, Guerok de Ruissel.md",
+                "file": "Template/Monstre.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Invincible/Personnages/Scénario 3/Kamila, Guerok de Ruissel.md",
+                "file": "Template/Monstre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Invincible/Personnages/Scénario 3/Kamila, Guerok de Ruissel.md"
+                "file": "Template/Monstre.md"
               }
             }
           },
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Invincible/Personnages/Scénario 3/Kamila, Guerok de Ruissel.md",
+                "file": "Template/Monstre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,8 +194,8 @@
   },
   "active": "120ecef360b3981b",
   "lastOpenFiles": [
-    "Invincible/Personnages/Scénario 3/Calidann, Khâl de Ruissel.md",
     "Invincible/Personnages/Scénario 3/Kamila, Guerok de Ruissel.md",
+    "Invincible/Personnages/Scénario 3/Calidann, Khâl de Ruissel.md",
     "Invincible/Personnages/Scénario 3/Praegar.md",
     "Invincible/Personnages/Scénario 3/Loknir, Khâl de Hauvre.md",
     "Template/Sort.md",

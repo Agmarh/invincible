@@ -25,10 +25,9 @@ traits:
     desc: "Au début de son tour, la créature peut bénéficier d'un avantage lors de tous ses jets d'attaque d'arme au corps à corps pendant ce tour, mais les jets d'attaque effectués contre elle bénéficient d'un avantage jusqu'au début de son prochain tour."
 actions:
   - name: Attaques multiples
-    desc: "Kamila effectue deux attaques
-avec fauchegorge (une arme à 2 mains constituée"
-  - name: Epée à deux mains
-    desc: "Attaque d'arme au corps à corps : 8 (1d20+8) pour toucher, allonge 1,50 m, une cible. Touché : 18 (2d12+5) dégâts tranchants."
+    desc: "Kamila effectue deux attaques avec fauchegorge (une arme à 2 mains constituée d'un long manche muni d'une vicieuse lame recourbée, propriété finesse)."
+  - name: Fauchegorge
+    desc: "Attaque d'arme au corps à corps : 5 (1d20+5) pour toucher, allonge 3 m, une cible. Touché : 8 (1d10+3) dégâts tranchants."
 ```
 
 Calidann est un géant de 2,05 mètres, un guerrier admiré et réputé dans toute la région. Il parle peu et semble toujours sombre. Il est dur mais juste, courageux et inflexible, sa seule faiblesse est sa fille (sa seule enfant) pour laquelle il est prêt à tout sacrifier. Si les PJ réussissent à gagner son adhésion ou sa confiance, c'est un allié de poids, car tous les autres membres du conseil le respectent. 
