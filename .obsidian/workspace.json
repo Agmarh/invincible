@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Invincible/Bestiaire/Swarathnak, Dragon noir adulte.md",
+                "file": "Invincible/Personnages/Sélona.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Invincible/Bestiaire/Swarathnak, Dragon noir adulte.md",
+                "file": "Invincible/Personnages/Sélona.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Invincible/Bestiaire/Swarathnak, Dragon noir adulte.md"
+                "file": "Invincible/Personnages/Sélona.md"
               }
             }
           },
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Invincible/Bestiaire/Swarathnak, Dragon noir adulte.md",
+                "file": "Invincible/Personnages/Sélona.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,12 +194,13 @@
   },
   "active": "2fcc855b945038d5",
   "lastOpenFiles": [
+    "Invincible/Personnages/Clovik Scénario 2.md",
+    "Invincible/Personnages/Sélona.md",
     "Template/Monstre.md",
     "Invincible/Bestiaire/Swarathnak, Dragon noir adulte.md",
     "Invincible/Scénario 2 La cité pétrifiée/Infos diverses.md",
     "Invincible/Scénario 2 La cité pétrifiée/Evénements/Actionner la Chronosphère.md",
     "Invincible/Scénario 2 La cité pétrifiée/ACTUELLEMENT J+8.md",
-    "Invincible/Personnages/Clovik Scénario 2.md",
     "Invincible/Bestiaire/Spectre de foudre.md",
     "Invincible/Bestiaire/Ecorché.md",
     "Invincible/Bestiaire/Gargouille.md",
@@ -222,7 +223,6 @@
     "Invincible/Bestiaire/Worg.md",
     "Invincible/Bestiaire/Oraxos.md",
     "Untitled.md",
-    "Pokémon/Ile de Jerseykara.md",
     "Oblivion/Images/Anthéone.png",
     "Oblivion/Images/Oblivion 2 bannière.png",
     "Oblivion/Images/Plan citerne.jpg",
