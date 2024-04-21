@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Template/Sort.md",
+                "file": "Invincible/Personnages/Scénario 3/Praegar.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Template/Sort.md",
+                "file": "Invincible/Personnages/Scénario 3/Praegar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Template/Sort.md"
+                "file": "Invincible/Personnages/Scénario 3/Praegar.md"
               }
             }
           },
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Template/Sort.md",
+                "file": "Invincible/Personnages/Scénario 3/Praegar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,8 +194,9 @@
   },
   "active": "120ecef360b3981b",
   "lastOpenFiles": [
-    "Template/Srotilèges.md",
+    "Invincible/Personnages/Scénario 3/Loknir, Khâl de Hauvre.md",
     "Template/Sort.md",
+    "Template/Srotilèges.md",
     "Template/Sort 1.md",
     "Template/Objet.md",
     "Template/Monstre.md",
@@ -207,7 +208,6 @@
     "Annexe/Sortilèges/Niveau 4/Bannissement.md",
     "Invincible/Bestiaire/Harpie.md",
     "Invincible/Personnages/Scénario 3/Praegar.md",
-    "Invincible/Personnages/Scénario 3/Loknir, Khâl de Hauvre.md",
     "Invincible/Bestiaire/Villageois aguérris.md",
     "Invincible/Bestiaire/Barbares.md",
     "Invincible/Bestiaire/Capitaine de Lycanis.md",
