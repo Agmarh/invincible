@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Invincible/Bestiaire/Barbares.md",
+                "file": "Invincible/Bestiaire/Villageois aguérris.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Invincible/Bestiaire/Barbares.md",
+                "file": "Invincible/Bestiaire/Villageois aguérris.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Invincible/Bestiaire/Barbares.md"
+                "file": "Invincible/Bestiaire/Villageois aguérris.md"
               }
             }
           },
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Invincible/Bestiaire/Barbares.md",
+                "file": "Invincible/Bestiaire/Villageois aguérris.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,9 +194,10 @@
   },
   "active": "2fcc855b945038d5",
   "lastOpenFiles": [
-    "Invincible/Bestiaire/Capitaine de Lycanis.md",
     "Invincible/Bestiaire/Barbares.md",
+    "Invincible/Bestiaire/Villageois aguérris.md",
     "Invincible/Personnages/Scénario 3/Loknir, Khâl de Hauvre.md",
+    "Invincible/Bestiaire/Capitaine de Lycanis.md",
     "Template/Monstre.md",
     "Invincible/Personnages/Scénario 3",
     "Invincible/Personnages/Ea Créatures monstrueuses.md",
@@ -223,7 +224,6 @@
     "Invincible/Bestiaire/Ankheg.md",
     "Invincible/Bestiaire/Baphit.md",
     "Invincible/Scénario 2 La cité pétrifiée/Evénements/Le retour des pêcheurs.md",
-    "Invincible/Bestiaire/Hibours.md",
     "Oblivion/Images/Anthéone.png",
     "Oblivion/Images/Oblivion 2 bannière.png",
     "Oblivion/Images/Plan citerne.jpg",
