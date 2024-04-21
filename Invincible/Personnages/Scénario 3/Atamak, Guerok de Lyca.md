@@ -12,11 +12,16 @@ speed: 9m
 stats: [13, 16, 14, 13, 11, 10]
 saves:
   - Dex: +5
-senses: Perception passive 10
+skillsaves:
+  - Acrobaties: +6
+  - Discrétion: +9
+  - Perception: +3
+damage_resistances: de poison
+senses: Perception passive 13
 languages: commun
 cr: 3
 traits:
-  - name: Brave
+  - name: Attaque sournoise
     desc: "La créature obtient un avantage lors des jets de sauvegarde effectués pour ne pas être terrorisé."
   - name: Téméraire
     desc: "Au début de son tour, la créature peut bénéficier d'un avantage lors de tous ses jets d'attaque d'arme au corps à corps pendant ce tour, mais les jets d'attaque effectués contre elle bénéficient d'un avantage jusqu'au début de son prochain tour."
