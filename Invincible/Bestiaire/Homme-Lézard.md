@@ -14,40 +14,21 @@ skillsaves:
   - Discrétion: +4
   - Perception: +3
   - Survie: +5
-damage_vulnerabilities: string
-damage_resistances: string
-damage_immunities: string
-condition_immunities: string
-senses: Perception passive 10
-languages: string
-cr: 1
-spells:
-  - <description>
-  - <spell level>: <spell-list>
+senses: Perception passive 13
+languages: draconique
+cr: 1/2
 traits:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
+  - name: Retenir son souffle
+    desc: "L'homme-lézard peut retenir son souffle pendant 15 minutes."
 actions:
+  - name: Attaques multiples
+    desc: <trait-description>
+  - name: Bouclier à pointes
+    desc: <trait-description>
   - name: <trait-name>
     desc: <trait-description>
-  - ...
-legendary_actions:
-  - name: <legendary_actions-name>
-    desc: <legendary_actions-description>
-  - ...
-bonus_actions:
   - name: <trait-name>
     desc: <trait-description>
-  - ...
-reactions:
-  - name: <reaction-name>
-    desc: <reaction-description>
-  - ...
-tactic:
-  - name: 
-    desc:
-treasure:
-  - name: <reaction-name>
-    desc: <reaction-description>
+  - name: <trait-name>
+    desc: <trait-description>
 ```
