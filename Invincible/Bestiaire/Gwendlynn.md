@@ -32,9 +32,9 @@ actions:
   - name: Attaques multiples
     desc: "Gwen effectue deux attaques au corps à corps ou à distance."
   - name: Epée courte
-    desc: <trait-description>
+    desc: "Attaque d'arme au corps à corps : 5 (1d20+5) pour toucher, allonge 1,50 m, une cible. Touché : 6 (1d6+3) dégâts perforants."
   - name: Arc court
-    desc: <trait-description>
+    desc: "Attaque d'arme à distance : 5 (1d20+5) pour toucher, portée 24/96 m, une cible. Touché : 10 (2d6+3) dégâts perforants."
 tactic:
   - name: 
     desc: "Gwendlynn utilise ses attaques à distance pour infliger le plus de dégâts possibles. Elle tire depuis son rocher sur les voleurs tant que quelqu'un est en vue et en vie, mais elle ne poursuit pas les PJ s'ils se sont contentés de lui voler un vêtement. Elle comprend vite qu'il s'agit encore d'un tour des Farfadets. Si le combat tourne mal, elle saute à l'eau, se transforme en poisson et disparaît sous les rochers dans l'eau trouble."
