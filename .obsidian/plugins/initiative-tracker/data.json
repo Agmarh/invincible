@@ -70,7 +70,8 @@
       "note": "Clovik Scénario 2",
       "path": "Invincible/Personnages/Clovik Scénario 2.md",
       "name": "Clovik",
-      "player": true
+      "player": true,
+      "level": 3
     },
     {
       "note": "Sélona",
