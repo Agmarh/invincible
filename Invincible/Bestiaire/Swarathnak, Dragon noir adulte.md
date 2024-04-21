@@ -20,19 +20,26 @@ skillsaves:
   - Perception: +11
 damage_immunities: d'acide
 senses: vision aveugle 18m, vision dans le noir 36m, Perception passive 21
-languages: commun, dracon
-cr: 1
-spells:
-  - <description>
-  - <spell level>: <spell-list>
+languages: commun, draconique
+cr: 14
 traits:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
+  - name: Amphibie
+    desc: "Le dragon peut respirer l'air et l'eau"
+  - name: Résistance légendaire (3/jour)
+    desc: "Le dragon peut remplacer l'échec d'un de ses jets de sauvegarde par une réussite."
 actions:
   - name: <trait-name>
     desc: <trait-description>
-  - ...
+  - name: <trait-name>
+    desc: <trait-description>
+  - name: <trait-name>
+    desc: <trait-description>
+  - name: <trait-name>
+    desc: <trait-description>
+  - name: <trait-name>
+    desc: <trait-description>
+  - name: <trait-name>
+    desc: <trait-description>
 legendary_actions:
   - name: <legendary_actions-name>
     desc: <legendary_actions-description>
