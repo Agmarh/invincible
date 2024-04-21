@@ -10,20 +10,17 @@ hp: 45
 hit_dice: 6d10+12
 speed: 15m
 stats: [18, 14, 14, 9, 13, 11]
-damage_resistances: contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en adamantium
-damage_immunities: poison
-condition_immunities: [[Empoisonné]], Epuisé, [[Pétrifié]]
-senses: vision dans le noir 18m, Perception passive 10
-languages: terreux
+senses: Perception passive 13
+languages: elfe, sylvestre
 cr: 2
 traits:
-  - name: Faux-semblant
-    desc: "Aussi longtemps que la gargouille reste immobile, il est impossible de la distinguer d'une statue inanimée."
+  - name: Charge
+    desc: "Si le centaure se déplace de 9 mètres au moins en ligne droite vers une cible contre laquelle il réussit ensuite une attaque de pique lors du même tour, la cible subit 10 (3d6) dégâts perforants supplémentaires."
 actions:
   - name: Attaques multiples
-    desc: "La gargouille effectue deux attaques : une avec sa morsure et une avec ses griffes."
+    desc: "Le centaure effectue deux attaques, l'une avec sa pique et l'autre avec ses sabots, ou bien deux attaques avec son arc long."
   - name: Griffes
-    desc: "Attaque d'arme au corps à corps : 4 (1d20+4) pour toucher, allonge 1,50 m, une cible. Touché : 5 (1d6+2) dégâts tranchants."
+    desc: "Attaque d'arme à distance : 4 (1d20+4) pour toucher, portée 45/180 m, une cible. _Touché_ : 6 (1d8+2) dégâts perforants."
   - name: Morsure
     desc: "Attaque d'arme au corps à corps : 4 (1d20+4) pour toucher, allonge 1,50 m, une cible.  Touché : 5 (1d6+2) dégâts perforants."
 ```
