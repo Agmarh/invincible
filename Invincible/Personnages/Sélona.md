@@ -23,23 +23,12 @@ spells:
   - 1er niveau (4 emplacements): [[Communication avec les animaux]], [[Baies nourricières]], [[Grande foulée]], [[Soin des blessures]]
 actions:
   - name: Bâton
-    desc: <trait-description>
+    desc: "Attaque d'arme au corps à corps : 2 (1d20+2) pour toucher, allonge 1,50 m, une cible. Touché: 3 (1d6) dégâts contondants."
   - ...
 legendary_actions:
   - name: <legendary_actions-name>
     desc: <legendary_actions-description>
-  - ...
-bonus_actions:
-  - name: <trait-name>
-    desc: <trait-description>
-  - ...
-reactions:
-  - name: <reaction-name>
-    desc: <reaction-description>
-  - ...
-tactic:
-  - desc: <reaction-description>
 treasure:
-  - name: <reaction-name>
-    desc: <reaction-description>
+  - name: Amulette de Léora
+    desc: "Objet merveilleux, Rare. Cette amulette en forme de feuille de chêne appartenait à sa mère, c'est un souvenir important pour Sélona. L'amulette permet de communiquer par télépathie avec les bêtes à une distance de 20 mètres."
 ```
