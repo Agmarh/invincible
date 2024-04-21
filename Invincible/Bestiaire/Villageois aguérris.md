@@ -15,12 +15,12 @@ languages: commun
 cr: 1/2
 traits:
   - name: Ouïe et vue aiguisées
-    desc: "Au début de son tour, la créature peut bénéficier d'un avantage lors de tous ses jets d'attaque d'arme au corps à corps pendant ce tour, mais les jets d'attaque effectués contre elle bénéficient d'un avantage jusqu'au début de son prochain tour."
+    desc: "L'éclaireur obtient un avantage lors des tests de Sagesse (Perception) basés sur l'ouïe ou la vue."
 actions:
   - name: Attaques multiples
-    desc: "Attaque d'arme au corps à corps : 5 (1d20+5) pour toucher, allonge 1,50 m, une cible. Touché : 9 (1d12+3) dégâts tranchants."
+    desc: "L'éclaireur effectue deux attaques au corps à corps ou deux attaques à distance."
   - name: Arc long
-    desc: "Attaque d'arme au corps à corps : 5 (1d20+5) pour toucher, allonge 1,50 m, une cible. Touché : 9 (1d12+3) dégâts tranchants."
+    desc: "Attaque d'arme à distance : 4 (1d20+4) pour toucher, portée 45/180 m, une cible. Touché : 6 (1d8+2) dégâts perforants."
   - name: Epée courte
-    desc: "Attaque d'arme au corps à corps : 5 (1d20+5) pour toucher, allonge 1,50 m, une cible. Touché : 9 (1d12+3) dégâts tranchants."
+    desc: "Attaque d'arme au corps à corps : 4 (1d20+4) pour toucher, allonge 1,50 m, une cible. Touché : 9 (1d12+3) dégâts tranchants."
 ```
