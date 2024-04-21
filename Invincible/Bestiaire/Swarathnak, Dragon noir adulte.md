@@ -18,12 +18,9 @@ saves:
 skillsaves:
   - Discrétion: +7
   - Perception: +11
-damage_vulnerabilities: string
-damage_resistances: string
-damage_immunities: string
-condition_immunities: string
-senses: Perception passive 10
-languages: string
+damage_immunities: d'acide
+senses: vision aveugle 18m, vision dans le noir 36m, Perception passive 21
+languages: commun, dracon
 cr: 1
 spells:
   - <description>
