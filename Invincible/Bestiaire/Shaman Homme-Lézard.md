@@ -18,8 +18,11 @@ senses: Perception passive 14
 languages: draconique
 cr: 3
 spells:
-  - desc: "Le shaman est un lanceur de sorts de niveau 5. Sa caractéristique d'incantation est la Sagesse (DD du jet de sauvegarde contre les sorts 13, +5 pour toucher avec les attaques de sort)."
-  - 
+  - "Le shaman est un lanceur de sorts de niveau 5. Sa caractéristique d'incantation est la Sagesse (DD du jet de sauvegarde contre les sorts 13, +5 pour toucher avec les attaques de sort)."
+  - Tours de magie: [[Flamme sacrée]], [[Lumière]], [[Produire une flamme]]
+  - 1er niveau (4 emplacements): 
+  - 2e niveau (3 emplacements):
+  - 3e niveau (2 emplacements):
 traits:
   - name: Retenir son souffle
     desc: "L'homme-lézard peut retenir son souffle pendant 15 minutes."
