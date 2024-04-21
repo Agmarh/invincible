@@ -11,42 +11,21 @@ hit_dice: 9d8+27
 speed: 9m
 stats: [16, 10, 17, 11, 11, 13]
 saves:
-  - <ability-score>: number
-skillsaves:
-  - <skill-name>: number
-damage_vulnerabilities: string
-damage_resistances: string
-damage_immunities: string
-condition_immunities: string
+  - For: +5
+  - Con: +5
 senses: Perception passive 10
-languages: string
-cr: 1
-spells:
-  - <description>
-  - <spell level>: <spell-list>
+languages: commun
+cr: 3
 traits:
-  - name: <trait-name>
+  - name: Brutal
     desc: <trait-description>
-  - ...
+  - name: Téméraire
+    desc: <trait-description>
 actions:
   - name: <trait-name>
     desc: <trait-description>
-  - ...
-legendary_actions:
-  - name: <legendary_actions-name>
-    desc: <legendary_actions-description>
-  - ...
-bonus_actions:
   - name: <trait-name>
     desc: <trait-description>
-  - ...
-reactions:
-  - name: <reaction-name>
-    desc: <reaction-description>
-  - ...
 tactic:
   - desc: <reaction-description>
-treasure:
-  - name: <reaction-name>
-    desc: <reaction-description>
 ```
