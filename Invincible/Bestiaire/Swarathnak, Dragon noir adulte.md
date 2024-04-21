@@ -41,9 +41,14 @@ actions:
   - name: Souffle d'acide (Recharge 5-6)
     desc: "Le dragon souffle de l'acide sur une ligne de 18 mètres de long et 1,50 mètre de large. Les créatures sur cette ligne doivent chacune effectuer un jet de sauvegarde de Dextérité DD 18 ; elles subissent 54 (12d8) dégâts d'acide en cas d'échec ou la moitié de ces dégâts seulement en cas de réussite."
 legendary_actions:
+  - name: 
+    desc: "Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décrites ici. Seule une action légendaire peut être choisie à la fois et uniquement à la fin du tour d'une autre créature. Le dragon récupère l'utilisation des actions légendaires déjà effectuées au début de son propre tour."
+  - name: Détecter
+    desc: <legendary_actions-description>
+  - name: Attaque avec
+    desc: <legendary_actions-description>
   - name: <legendary_actions-name>
     desc: <legendary_actions-description>
-  - ...
 bonus_actions:
   - name: <trait-name>
     desc: <trait-description>
