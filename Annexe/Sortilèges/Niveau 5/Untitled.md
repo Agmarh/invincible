@@ -1,17 +1,9 @@
 ---
-type: rare
-niveau: 2
-incantation: 
+type: Évocation
+niveau: 5
+incantation: 1 action
 distance: 
 composantes: 
 temps: 
-classe: 
+classe:
 ---
-# undefined de niveau undefined
-
-**Temps d'incantation :** undefined
-**Portée :** undefined
-**Composantes :** undefined
-**Durée :** undefined
-**Classe :** undefined
-
