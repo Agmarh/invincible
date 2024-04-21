@@ -28,17 +28,17 @@ traits:
   - name: Résistance légendaire (3/jour)
     desc: "Le dragon peut remplacer l'échec d'un de ses jets de sauvegarde par une réussite."
 actions:
-  - name: <trait-name>
+  - name: Attaques multiples
+    desc: "Le dragon peut utiliser sa Présence terrifiante. Il effectue ensuite trois attaques : une avec sa morsure et deux avec ses griffes."
+  - name: Morsure
+    desc: "Attaque d'arme au corps à corps : +11 pour toucher, allonge 3 m, une cible."
+  - name: Griffe
     desc: <trait-description>
-  - name: <trait-name>
+  - name: Queue
     desc: <trait-description>
-  - name: <trait-name>
+  - name: Présence terrifiante
     desc: <trait-description>
-  - name: <trait-name>
-    desc: <trait-description>
-  - name: <trait-name>
-    desc: <trait-description>
-  - name: <trait-name>
+  - name: Souffle d'acide (Recharge 5-6)
     desc: <trait-description>
 legendary_actions:
   - name: <legendary_actions-name>
