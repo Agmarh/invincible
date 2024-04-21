@@ -1,11 +1,11 @@
 ---
 type: Illusion
-niveau: 4
+niveau: "4"
 incantation: 1 action
-distance: 
-composantes: 
-temps: 
-classe:
+distance: contact
+composantes: V, S
+temps: concentration, jusqu'à 1 minute
+classe: Barde, Ensorceleur/Sorcelame, Magicien, Ombrelame
 ---
 # undefined de niveau undefined
 
