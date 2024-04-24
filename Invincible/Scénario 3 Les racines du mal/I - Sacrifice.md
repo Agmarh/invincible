@@ -29,12 +29,9 @@ La chronosphère s'arrête progressivement de tourner et descend vers le niveau 
 > [!NOTE] Les personnages avec plus de 18 d'initiative peuvent agir une seconde fois avec les mêmes restrictions
 > La Chronosphère émet une série d'éclairs qui fusent en direction de tous les protagonistes de la scène, y compris le dragon. Mais autant vous ressentez à peine un petit frisson lorsque l'éclair vous frappe de plein fouet, autant le dragon subit manifestement quelque chose de beaucoup plus violent et de très douloureux. Ses écailles fument et semblent avoir été transpercées. Avec une vitesse stupéfiante pour une créature de cette taille, il se jette immédiatement à pleines dents sur la Chronosphère. Mais comme lors de sa précédente attaque sa gueule passe à travers l'artefact intangible qui disparaît dans la silhouette du monstre.
 
-Les personnages qui ont plus de 10 en initiative agissent avec les mêmes restrictions, Clovik lance un sort de [[Vol]] :
-
 > [!NOTE] Les personnages qui ont plus de 10 en initiative agissent avec les mêmes restrictions, Clovik lance un sort de [[Vol]]
-> Un brusque changement de pression survient,
-comme la sensation que vos oreilles se débouchent,
-tandis qu'une odeur acide agresse immédiatement
-votre odorat, d'abord, puis très vite vos poumons
-aussi. Et c'est la chute !
+> Un brusque changement de pression survient, comme la sensation que vos oreilles se débouchent, tandis qu'une odeur acide agresse immédiatement votre odorat, d'abord, puis très vite vos poumons aussi. Et c'est la chute !
 
+Les personnages chutent de 3 mètres, ils subissent 3 (1d6 dégâts contondants et doivent réussir un test de Dextérité (Acrobaties) DD 10 pour ne pas tomber à terre. 
+
+Ceux qui ont annoncé utiliser leur action précédente pour se préparer à chuter évitent automatiquement ces dégâts et arrivent sur leurs pieds. Ceux qui n'ont pas encore agi à ce round peuvent le faire, mais jusqu'à la fin du round, les personnages sont désorientés et subissent un désavantage à leurs actions.
