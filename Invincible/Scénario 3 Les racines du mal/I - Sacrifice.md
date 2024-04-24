@@ -39,6 +39,8 @@ Ceux qui ont annoncé utiliser leur action précédente pour se préparer à chu
 # Round 3
 Initiative 18 : le dragon se tord de douleur alors que la Chronosphère se matérialise dans son corps, il se roule au sol dans un fracas terrifiant et soulève un nuage de poussière dans des rugissements horribles. 
 
-Les PJ qui se trouvent à six mètres ou moins de la créature doivent réussir un jet de sauvegarde de Dextérité DD 12 ou subir 2d6 dégâts contondants parce que le dragon les a écrasés sans même le faire exprès.
+Les PJ qui se trouvent à six mètres ou moins de la créature doivent réussir un ==jet de sauvegarde de Dextérité DD 12 ou subir 2d6 dégâts contondants== parce que le dragon les a écrasés sans même le faire exprès.
 
-Par moments, son corps devient presque transparent, on aperçoit à travers la chair et les écailles tout son squelette et, au centre, un point lumineux aveuglant, la Chronosphère. Si un PJ veut attaquer le dragon à ce moment-là, il obtient un bonus avantage en attaque, mais il doit réussir un jet de sauvegarde de Dextérité ou subir 1d6 dégâts contondants et chuter au sol à cause des mouvements imprévisibles du dragon.
+Par moments, son corps devient presque transparent, on aperçoit à travers la chair et les écailles tout son squelette et, au centre, un point lumineux aveuglant, la Chronosphère. Si un PJ veut attaquer le dragon à ce moment-là, il obtient un bonus avantage en attaque, mais il doit réussir un ==jet de sauvegarde de Dextérité DD 12 ou subir 1d6 dégâts contondants== et chuter au sol à cause des mouvements imprévisibles du dragon.
+
+# Round 4
