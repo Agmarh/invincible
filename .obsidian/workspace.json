@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Invincible/Bestiaire/Shaman Homme-Lézard.md",
+                "file": "Invincible/Scénario 3 Les racines du mal/Langage.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Invincible/Bestiaire/Shaman Homme-Lézard.md",
+                "file": "Invincible/Scénario 3 Les racines du mal/Langage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Invincible/Bestiaire/Shaman Homme-Lézard.md"
+                "file": "Invincible/Scénario 3 Les racines du mal/Langage.md"
               }
             }
           },
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Invincible/Bestiaire/Shaman Homme-Lézard.md",
+                "file": "Invincible/Scénario 3 Les racines du mal/Langage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,11 +192,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "efc7fbc9dabff410",
+  "active": "120ecef360b3981b",
   "lastOpenFiles": [
+    "Invincible/Bestiaire/Shaman Homme-Lézard.md",
+    "Invincible/Scénario 3 Les racines du mal/Langage.md",
     "Invincible/Scénario 3 Les racines du mal",
     "Invincible/Bestiaire/Gwendlynn.md",
-    "Invincible/Bestiaire/Shaman Homme-Lézard.md",
     "Invincible/Bestiaire/Champion Homme-Lézard.md",
     "Invincible/Bestiaire/Homme-Lézard.md",
     "Template/Monstre.md",
@@ -239,7 +240,6 @@
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Les Hautes Strates",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Le Moratorium",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Les Marches Sacrées/Sans titre",
-    "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Les Marches Sacrées",
     "Oblivion/PNJ/Sans titre.canvas"
   ]
 }
