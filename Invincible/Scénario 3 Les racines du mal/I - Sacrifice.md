@@ -10,8 +10,7 @@ Courte pause
 > La silhouette terrible grossit encore dans les prunelles de la jeune femme. La créature prend une longue, une interminable inspiration. Le beau regard ne cille pas. L'instant s'étire sur une éternité. Puis une voix d'une tonalité démesurément basse se fait entendre.
 > « Ma Reine des Harpes, une tricheuse ? Raconte- moi, mon enfant… »
 
+> Soudain, un voile se déchire et, devant vos yeux incrédules, apparaît un énorme dragon. Son corps serpentin est couvert d'écailles noires impénétrables, sa gueule terrifiante exhale des vapeurs d'acide verdâtre. Vous êtes apparus à plusieurs mètres de haut et pourtant son regard maléfique vous domine encore. Il semble vous avoir vu et hésite un instant devant votre brusque apparition. Au centre de la scène, juste au-dessus du dragon, la Chronosphère pulse doucement d'une lumière bleutée, mais l'énorme créature semble plutôt focaliser son attention sur vous.
 
-> Soudain, un voile se déchire et, devant vos yeux incrédules, apparaît un énorme dragon. Son corps serpentin est couvert d'écailles noires impénétrables, sa gueule terrifiante exhale des vapeurs d'acide verdâtre. Vous êtes apparus à plusieurs mètres de haut et pourtant son regard maléfique vous domine encore. Il semble vous avoir vu et hésite un instant devant votre brusque apparition. Au centre de la scène, juste au-dessus du dragon, la Chronosphère
-pulse doucement d'une lumière bleutée, mais
-l'énorme créature semble plutôt focaliser son attention
-sur vous.
+# Round 1
+
