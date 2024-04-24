@@ -1,6 +1,6 @@
 ```statblock
 image: [[monstre.png]]
-name: Ours polaire
+name: Sanglier géant
 size: G
 type: Bête
 subtype: 
@@ -9,7 +9,7 @@ ac: 12
 hp: 42
 hit_dice: 5d10+15
 speed: 12m, nage 9m
-stats: [20, 10, 16, 2, 13, 7]
+stats: [17, 10, 16, 2, 13, 7]
 skillsaves:
   - Perception: +3
 senses: Perception passive 13
