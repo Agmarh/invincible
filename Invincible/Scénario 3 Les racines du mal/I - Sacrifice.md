@@ -74,6 +74,13 @@ Les PJs encore debout dans un rayon de 19 mètres doit réussir un jet de sauveg
 
 Un personnage parlant le Sylvain pourra faire un jet d'Intelligence pour essayer de traduire ce mot par "sauveur" ou "sacrifice".
 
+
+> [!NOTE] 5 joueurs
+> Tandis que le dragon fuit, une femme en guenilles, crasseuse et échevelée émerge de derrière une pile de gravats. Elle lève un poing au ciel et défie le dragon ! 
+> « Part ! Va-t-en ! Il n'y a rien ici pour toi ! Tu ne l'auras pas ! Oh, non, tu ne l'auras pas… ». Sa voix se brise en sanglots et elle part en courant se cacher
+dans un trou.
+
+
 # Interroger Sélona
 À moitié nue car elle a été dépouillée de la plupart de ses vêtements pour être offerte en sacrifice, la première action de Sélona est d'utiliser un sort de soins pour empêcher Clovik de mourir. Ensuite, elle va secourir chaque PJ inconscient. Enfin, elle récupérera ce qu'il reste de ses habits lacérés (par les harpies) et éparpillés au sol. 
 
@@ -85,8 +92,10 @@ Sélona remercie les PJ et les traite comme les héros qui vont sauver la régio
 > [!NOTE] Sélona
 > « Merci, Ubers, vous m'avez sauvée et vous avez débouclé le grand Drorn, Swarathnak. Tombés des nues, envoyés des Divins. Je vous prie d'accepter le pain et la paille, mon père est le Khâl de Hauvre, il vous accueillera comme il se doit lorsqu'il saura que vous avez vaincu le Drorn ! Vous êtes ceux de la parole. Et toi, tu es Selmak, car cela signifie le sacrifice qui sauve et c'est ainsi que je t'appellerai. »
 
-Si quelqu'un rappelle que Selmak est le nom du fondateur de Paleseau, Clovik reste un peu interloqué avant de sourire en secouant la tête : 
-« Non, c'est juste un hasard ! ».
+Si quelqu'un rappelle que Selmak est le nom du fondateur de Paleseau, Clovik reste un peu interloqué avant de sourire en secouant la tête :
+
+> [!NOTE] Clovik
+> « Non, c'est juste un hasard ! »
 
 - Les personnages voudront sans doute savoir pourquoi elle était attachée là, Sélona leur expliquera alors le Talmeg.
 - S'ils demandent à quoi correspondent les ruines où ils se trouvent, elle leur indique qu'il s'agit de Paleau et que c'est ici que sa tribu vivait naguère, le dragon les en a chassés, il y a environ vingt ans.
