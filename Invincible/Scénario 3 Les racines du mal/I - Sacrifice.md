@@ -75,3 +75,10 @@ Les PJs encore debout dans un rayon de 19 mètres doit réussir un jet de sauveg
 Un personnage parlant le Sylvain pourra faire un jet d'Intelligence pour essayer de traduire ce mot par "sauveur" ou "sacrifice".
 
 # Interroger Sélona
+À moitié nue car elle a été dépouillée de la plupart de
+ses vêtements pour être offerte en sacrifice, la première
+action de Sélona est d'utiliser un sort de soins pour empêcher
+Clovik de mourir. Ensuite, elle va secourir chaque
+PJ inconscient. Enfin, elle récupérera ce qu'il reste de ses
+habits lacérés (par les harpies) et éparpillés au sol. Dans
+l'intervalle, les PJ pourront noter le pendentif en argent

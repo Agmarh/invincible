@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Invincible/Personnages/Scénario 3/Sans titre.md",
+                "file": "Invincible/Scénario 3 Les racines du mal/I - Sacrifice.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Invincible/Personnages/Scénario 3/Sans titre.md",
+                "file": "Invincible/Scénario 3 Les racines du mal/I - Sacrifice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Invincible/Personnages/Scénario 3/Sans titre.md"
+                "file": "Invincible/Scénario 3 Les racines du mal/I - Sacrifice.md"
               }
             }
           },
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Invincible/Personnages/Scénario 3/Sans titre.md",
+                "file": "Invincible/Scénario 3 Les racines du mal/I - Sacrifice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,9 +192,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "efc7fbc9dabff410",
+  "active": "120ecef360b3981b",
   "lastOpenFiles": [
+    "Invincible/Personnages/Scénario 3/Sélona.md",
     "Invincible/Scénario 3 Les racines du mal/I - Sacrifice.md",
+    "Invincible/Personnages/Scénario 3/Sans titre.md",
     "Invincible/Scénario 2 La cité pétrifiée/Evénements/Actionner la Chronosphère.md",
     "Invincible/Scénario 3 Les racines du mal/Langage.md",
     "Invincible/Bestiaire/Shaman Homme-Lézard.md",
@@ -217,10 +219,8 @@
     "Invincible/Personnages/Scénario 3/Praegar, Guerok de Hauvre.md",
     "Invincible/Personnages/Scénario 3/Loknir, Khâl de Hauvre.md",
     "Invincible/Personnages/Scénario 3/Kamila, Guerok de Ruissel.md",
-    "Invincible/Personnages/Scénario 3/Sans titre.md",
     "Invincible/Personnages/Scénario 3/Calidann, Khâl de Ruissel.md",
     "Template/Sort.md",
-    "Template/Srotilèges.md",
     "Invincible/Personnages/Scénario 3",
     "Invincible/PDF/hd_04_invincible_web_v1.pdf",
     "Invincible/PDF/hd_04_invincible_web_v1 1.pdf",
