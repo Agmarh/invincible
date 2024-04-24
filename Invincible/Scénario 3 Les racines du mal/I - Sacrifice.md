@@ -73,3 +73,5 @@ Les PJs encore debout dans un rayon de 19 mètres doit réussir un jet de sauveg
 > Clovik, jusque là invisible, réapparaît mortellement blessé par l'ichor qui ronge son dos. La chaîne qui retenait la demoiselle cède sous les effets de ce même acide et elle prend son sauveur à peine conscient dans ses bras pour l'empêcher de choir, en répétant plusieurs fois ce mot : « Selmak ».
 
 Un personnage parlant le Sylvain pourra faire un jet d'Intelligence pour essayer de traduire ce mot par "sauveur" ou "sacrifice".
+
+# Interroger Sélona
