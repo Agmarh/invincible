@@ -83,7 +83,9 @@ Si un PJ la poursuit et la retrouve ==(test de Dextérité (Athlétisme) et Sage
 
 Comme si, à force de les répéter, elle en avait usé les mots. Un ==test de Sagesse (Perspicacité) DD 15== est nécessaire pour saisir qu'il s'agit d'une sorte de prière à la mémoire de sa fille. Elle est irrémédiablement folle et rien ne peut la faire sortir de la torpeur dans laquelle l'ont plongée la vue du dragon et le brusque rappel des douloureux souvenirs. 
 
-Tout au plus, un PJ extraordinairement patient, doué en psychologie et chanceux (Charisme (Persuasion DD20)) pourrait obtenir ce demi-aveu : « On a fait ce qu'il fallait… Oui, il faut comprendre, on a fait ce qu'il fallait. »
+Tout au plus, un PJ extraordinairement patient, doué en psychologie et chanceux ==(Charisme (Persuasion DD20))== pourrait obtenir ce demi-aveu : 
+
+> « On a fait ce qu'il fallait… Oui, il faut comprendre, on a fait ce qu'il fallait. »
 
 Son chapelet est magique et si on essaye de lui prendre, elle se bat jusqu'à la mort, à coup de dents et d'ongles, pour le conserver. Interrogée à son sujet, Sélona peut indiquer qu'il s'agit de Marille, une femme devenu folle après le suicide de sa fille Mélune qui s'était jetée du haut de la falaise plutôt que de participer au tirage au sort. 
 
