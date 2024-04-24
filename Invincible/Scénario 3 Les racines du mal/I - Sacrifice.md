@@ -32,6 +32,8 @@ La chronosphère s'arrête progressivement de tourner et descend vers le niveau 
 > [!NOTE] Les personnages qui ont plus de 10 en initiative agissent avec les mêmes restrictions, Clovik lance un sort de [[Vol]]
 > Un brusque changement de pression survient, comme la sensation que vos oreilles se débouchent, tandis qu'une odeur acide agresse immédiatement votre odorat, d'abord, puis très vite vos poumons aussi. Et c'est la chute !
 
-Les personnages chutent de 3 mètres, ils subissent 3 (1d6 dégâts contondants et doivent réussir un test de Dextérité (Acrobaties) DD 10 pour ne pas tomber à terre. 
+Les personnages chutent de 3 mètres, ils subissent ==1d6 dégâts== contondants et doivent réussir un ==test de Dextérité (Acrobaties) DD 10== pour ne pas tomber à terre. 
 
 Ceux qui ont annoncé utiliser leur action précédente pour se préparer à chuter évitent automatiquement ces dégâts et arrivent sur leurs pieds. Ceux qui n'ont pas encore agi à ce round peuvent le faire, mais jusqu'à la fin du round, les personnages sont désorientés et subissent un désavantage à leurs actions.
+
+# Round 3
