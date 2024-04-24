@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Invincible/Scénario 2 La cité pétrifiée/Evénements/Actionner la Chronosphère.md",
+                "file": "Invincible/Scénario 3 Les racines du mal/I - Sacrifice.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Invincible/Scénario 2 La cité pétrifiée/Evénements/Actionner la Chronosphère.md",
+                "file": "Invincible/Scénario 3 Les racines du mal/I - Sacrifice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Invincible/Scénario 2 La cité pétrifiée/Evénements/Actionner la Chronosphère.md"
+                "file": "Invincible/Scénario 3 Les racines du mal/I - Sacrifice.md"
               }
             }
           },
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Invincible/Scénario 2 La cité pétrifiée/Evénements/Actionner la Chronosphère.md",
+                "file": "Invincible/Scénario 3 Les racines du mal/I - Sacrifice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,6 +194,7 @@
   },
   "active": "120ecef360b3981b",
   "lastOpenFiles": [
+    "Invincible/Scénario 2 La cité pétrifiée/Evénements/Actionner la Chronosphère.md",
     "Invincible/Scénario 3 Les racines du mal/I - Sacrifice.md",
     "Invincible/Scénario 3 Les racines du mal/Langage.md",
     "Invincible/Bestiaire/Shaman Homme-Lézard.md",
@@ -220,7 +221,6 @@
     "Invincible/Personnages/Scénario 3/Calidann, Khâl de Ruissel.md",
     "Template/Sort.md",
     "Template/Srotilèges.md",
-    "Template/Sort 1.md",
     "Invincible/Personnages/Scénario 3",
     "Invincible/PDF/hd_04_invincible_web_v1.pdf",
     "Invincible/PDF/hd_04_invincible_web_v1 1.pdf",
