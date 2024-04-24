@@ -16,4 +16,7 @@ Courte pause
 Les PJs ne peuvent rien faire actuellement, ils sont comme piégés dans une toile invisible. Ils peuvent cependant interagir sur eux-mêmes ou sur les autres PJ (lancer des sorts de protection ou boire une potion).
 
 Si quelqu'un observe :
+> Vous êtes sur la berge d'une rivière, à l'endroit où elle se jette dans une vaste étendue d'eau. Le lieu est occupé en amont par les ruines de ce qui semble avoir été un village sur pilotis. Derrière le dragon, à une cinquantaine de mètres, on peut remarquer un mur de pierres circulaire effondré sur un tumulus d'herbe jaunie. Au centre de l'anneau de pierres, un poteau est planté en terre, et une jeune femme y est attachée. Elle semble hurler quelque chose, mais aucun son ne parvient jusqu'à vous.
+D'ailleurs, tu remarques à présent que toute la
+scène est plongée dans un silence surnaturel.
 
