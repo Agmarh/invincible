@@ -17,12 +17,12 @@ languages: -
 cr: 2
 traits:
   - name: Odorat aiguisé
-    desc: <trait-description>
+    desc: "L'ours obtient un avantage lors des tests de Sagesse (Perception) basés sur l'odorat."
 actions:
   - name: Attaques multiples
-    desc: <trait-description>
-  - name: <trait-name>
-    desc: <trait-description>
-  - name: <trait-name>
+    desc: "L'ours effectue deux attaques : une avec sa morsure et une avec ses griffes."
+  - name: Griffes
+    desc: "Attaque d'arme au corps à corps : 7 (1d20+7) pour toucher, allonge 1,50 m, une cible. Touché : 12 (2d6+5) dégâts tranchants."
+  - name: Morsure
     desc: <trait-description>
 ```
