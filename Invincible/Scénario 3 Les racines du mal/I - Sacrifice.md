@@ -53,12 +53,12 @@ Si tous les PJ sont au tapis ou en fuite, passez à la scène finale. Sinon, le 
 
 # Round 6
 Le dragon attaque, mais avec un désavantage et -5 aux dégâts. Il serait de bon ton qu'au moins un PJ reste conscient pour assister à la scène finale et pouvoir en faire part aux autres.
-Un éclair de la Chronosphère peut fort à-propos frapper
-le dragon de l'intérieur pour lui faire rater son attaque et
-ainsi épargner le dernier héros restant. Toutefois, à la suite
-de cette rencontre, les joueurs devraient comprendre que
-le ver déploie une puissance qui dépasse de loin celle de
-leurs personnages, même en pleine forme…
-Enfin, notez ici le nom des PJ au tapis lorsque le dragon
-s'enfuit, ce renseignement sera utilisé contre eux lors de
-l'épreuve face au Conseil.
+
+Un éclair de la Chronosphère peut fort à-propos frapper le dragon de l'intérieur pour lui faire rater son attaque et ainsi épargner le dernier héros restant. Toutefois, à la suite de cette rencontre, les joueurs devraient comprendre que le ver déploie une puissance qui dépasse de loin celle de leurs personnages, même en pleine forme…
+
+==Enfin, notez ici le nom des PJ au tapis lorsque le dragon s'enfuit, ce renseignement sera utilisé contre eux lors de l'épreuve face au Conseil.==
+
+# Scène Finale
+
+> [!NOTE] Final
+> Contents
