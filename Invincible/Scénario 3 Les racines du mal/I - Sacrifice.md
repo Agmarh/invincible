@@ -66,3 +66,6 @@ Un éclair de la Chronosphère peut fort à-propos frapper le dragon de l'intér
 Les PJs encore debout dans un rayon de 19 mètres doit réussir un jet de sauvegarde de Force DD 10 pour ne pas être projeté au sol par le battement des ailes gigantesques.
 
 
+> [!NOTE] Title
+> Le dragon s'élève avec peine. Sa trajectoire décrit un arc-de-cercle au-dessus du tumulus où la jeune femme est encore attachée et, dans un dernier accès de cruauté, il lâche sa bile acide sur la belle.
+
