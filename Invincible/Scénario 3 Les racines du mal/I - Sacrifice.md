@@ -44,3 +44,21 @@ Les PJ qui se trouvent à six mètres ou moins de la créature doivent réussir 
 Par moments, son corps devient presque transparent, on aperçoit à travers la chair et les écailles tout son squelette et, au centre, un point lumineux aveuglant, la Chronosphère. Si un PJ veut attaquer le dragon à ce moment-là, il obtient un bonus avantage en attaque, mais il doit réussir un ==jet de sauvegarde de Dextérité DD 12 ou subir 1d6 dégâts contondants== et chuter au sol à cause des mouvements imprévisibles du dragon.
 
 # Round 4
+Le dragon, bien que terriblement souffrant, se ressaisit. Il identifie les PJ comme les responsables de ce qui lui arrive, et les attaque avec fureur. Il souffre toutefois d'un désavantage en attaque en raison de la douleur provoquée par la Chronosphère.
+
+Il utilise ses griffes, sa morsure et éventuellement son attaque de queue mais pas son souffle que vous réserverez pour plus tard. Commencez par jouer les effets de sa capacité d'Effroi.
+
+# Round 5
+Si tous les PJ sont au tapis ou en fuite, passez à la scène finale. Sinon, le dragon se tord de douleur et ne peut pas agir (voir le Round 3).
+
+# Round 6
+Le dragon attaque, mais avec un désavantage et -5 aux dégâts. Il serait de bon ton qu'au moins un PJ reste conscient pour assister à la scène finale et pouvoir en faire part aux autres.
+Un éclair de la Chronosphère peut fort à-propos frapper
+le dragon de l'intérieur pour lui faire rater son attaque et
+ainsi épargner le dernier héros restant. Toutefois, à la suite
+de cette rencontre, les joueurs devraient comprendre que
+le ver déploie une puissance qui dépasse de loin celle de
+leurs personnages, même en pleine forme…
+Enfin, notez ici le nom des PJ au tapis lorsque le dragon
+s'enfuit, ce renseignement sera utilisé contre eux lors de
+l'épreuve face au Conseil.
