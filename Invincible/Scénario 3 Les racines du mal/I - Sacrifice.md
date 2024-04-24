@@ -75,10 +75,13 @@ Les PJs encore debout dans un rayon de 19 mètres doit réussir un jet de sauveg
 Un personnage parlant le Sylvain pourra faire un jet d'Intelligence pour essayer de traduire ce mot par "sauveur" ou "sacrifice".
 
 # Interroger Sélona
-À moitié nue car elle a été dépouillée de la plupart de
-ses vêtements pour être offerte en sacrifice, la première
-action de Sélona est d'utiliser un sort de soins pour empêcher
-Clovik de mourir. Ensuite, elle va secourir chaque
-PJ inconscient. Enfin, elle récupérera ce qu'il reste de ses
-habits lacérés (par les harpies) et éparpillés au sol. Dans
-l'intervalle, les PJ pourront noter le pendentif en argent
+À moitié nue car elle a été dépouillée de la plupart de ses vêtements pour être offerte en sacrifice, la première action de Sélona est d'utiliser un sort de soins pour empêcher Clovik de mourir. Ensuite, elle va secourir chaque PJ inconscient. Enfin, elle récupérera ce qu'il reste de ses habits lacérés (par les harpies) et éparpillés au sol. 
+
+Dans l'intervalle, les PJ pourront noter le pendentif en argent en forme de feuille de chêne qui pend à son cou ainsi que de profondes blessures sur ses bras. Interrogée à ce sujet, elle y accordera peu d'attention, il s'agit des marques des griffes des « harpes » qui l'ont transportée. 
+
+Sélona remercie les PJ et les traite comme les héros qui vont sauver la région des griffes du Drorn (le dragon). Les personnages ont déjà connu cela, vous pouvez
+jouer sur la similitude de la scène avec celle du premier
+chapitre. Toutefois, détail amusant, cette fois, Clovik a
+changé de rôle. Il assume mal celui du héros, surtout face
+à Sélona, et il rougit lorsque la demoiselle le remercie,
+bredouillant que ce sont les PJ les héros et pas lui.
