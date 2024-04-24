@@ -11,7 +11,7 @@ hit_dice: 4d8+4
 speed: 9m
 stats: [11, 14, 12, 16, 10, 12]
 skillsaves:
-  - Arcanes: 4
+  - Arcanes: 5
   - Persuasion: 3
 senses: Perception passive 10
 languages: commun
