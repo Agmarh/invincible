@@ -21,3 +21,6 @@ Si quelqu'un observe :
 Pendant ce round, Clovik lance un sort d'invisibilité sur lui et le monstre lance une attaque sur un des PJ, décrire l'attaque comme si l'énorme patte du dragon allait découper le PJ en deux mais elle lui passe au travers. 
 
 La chronosphère s'arrête progressivement de tourner et descend vers le niveau du sol, les personnages suivent ce mouvement. Ils sont encore à 3 mètres de hauteur à la fin du round.
+
+# Round 2
+Les personnages avec plus de 18 d'initiative peuvent agir une seconde fois avec les mêmes restrictions, puis :
