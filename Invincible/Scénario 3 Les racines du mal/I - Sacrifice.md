@@ -4,19 +4,20 @@
 
 Courte pause
 
-> [!NOTE] Résumé
+> [!NOTE] Le passé
 > Une jeune femme d'une grande beauté est attachée par d'épaisses chaînes à un grand poteau. Derrière elle, un village en ruines. Ses bras levés sont lacérés et couverts de sang et ses cheveux sales recouvrent son visage. Elle est à demi-nue, elle fixe le sol. Ses vêtements en lambeaux pendent à sa taille, révélant sa poitrine. Entre ses seins, un pendentif en forme de tête de loup. Elle sanglote : « Pas moi, pas ma rune, pas à moi… »
 > Une ombre la recouvre et une bourrasque repousse sa chevelure noire, elle lève son beau visage. Des larmes ont zébré ses joues. Votre rêve plonge dans ses yeux sombres écarquillés par une vision de terreur. Dans le miroir de ses prunelles, se dresse l'immense silhouette noire d'un terrible dragon.
 > Soudain, le regard de la jeune femme reprend consistance. La peur a laissé place à la haine la plus pure. Dans un brusque accès de rage, elle hurle à la face du monstre : « Ô grand Drorn, dévore moi ! Pour moi, je n'implore rien, dévore jusqu'à la dernière once de chair mais exauce-moi ! Fais souffrir tous ces abjects lâches ! Tue-les tous ! La Reine des Tricheuses, le perfide Khâl Rognar et son infâme rejeton Urimak ! Tue-les tous, tous ces sales lâches. Et aussi toutes celles qui attendent leur tour en baissant la tête, tous ceux qui ne font rien pour les protéger ! Qu'ils crèvent tous, ces tricheurs. Ce n'était pas mon tour, ce n'était pas à moi ! » Elle se tait alors et fixe la mort bien en face.
 > La silhouette terrible grossit encore dans les prunelles de la jeune femme. La créature prend une longue, une interminable inspiration. Le beau regard ne cille pas. L'instant s'étire sur une éternité. Puis une voix d'une tonalité démesurément basse se fait entendre.
-> « Ma Reine des Harpes, une tricheuse ? Raconte- moi, mon enfant… »
+> « Ma Reine des Harpes, une tricheuse ? Raconte-moi, mon enfant… »
 
+> [!NOTE] Révélation
 > Soudain, un voile se déchire et, devant vos yeux incrédules, apparaît un énorme dragon. Son corps serpentin est couvert d'écailles noires impénétrables, sa gueule terrifiante exhale des vapeurs d'acide verdâtre. Vous êtes apparus à plusieurs mètres de haut et pourtant son regard maléfique vous domine encore. Il semble vous avoir vu et hésite un instant devant votre brusque apparition. Au centre de la scène, juste au-dessus du dragon, la Chronosphère pulse doucement d'une lumière bleutée, mais l'énorme créature semble plutôt focaliser son attention sur vous.
 
 # Round 1
 Les PJs ne peuvent rien faire actuellement, ils sont comme piégés dans une toile invisible. Ils peuvent cependant interagir sur eux-mêmes ou sur les autres PJ (lancer des sorts de protection ou boire une potion).
 
-Si quelqu'un observe :
+> [!NOTE] Si quelqu'un observe
 > Vous êtes sur la berge d'une rivière, à l'endroit où elle se jette dans une vaste étendue d'eau. Le lieu est occupé en amont par les ruines de ce qui semble avoir été un village sur pilotis. Derrière le dragon, à une cinquantaine de mètres, on peut remarquer un mur de pierres circulaire effondré sur un tumulus d'herbe jaunie. Au centre de l'anneau de pierres, un poteau est planté en terre, et une jeune femme y est attachée. Elle semble hurler quelque chose, mais aucun son ne parvient jusqu'à vous. D'ailleurs, tu remarques à présent que toute la scène est plongée dans un silence surnaturel.
 
 Pendant ce round, Clovik lance un sort d'invisibilité sur lui et le monstre lance une attaque sur un des PJ, décrire l'attaque comme si l'énorme patte du dragon allait découper le PJ en deux mais elle lui passe au travers. 
@@ -30,6 +31,10 @@ La chronosphère s'arrête progressivement de tourner et descend vers le niveau 
 
 Les personnages qui ont plus de 10 en initiative agissent avec les mêmes restrictions, Clovik lance un sort de [[Vol]] :
 
-> [!NOTE] Title
-> Contents
+> [!NOTE] Les personnages qui ont plus de 10 en initiative agissent avec les mêmes restrictions, Clovik lance un sort de [[Vol]]
+> Un brusque changement de pression survient,
+comme la sensation que vos oreilles se débouchent,
+tandis qu'une odeur acide agresse immédiatement
+votre odorat, d'abord, puis très vite vos poumons
+aussi. Et c'est la chute !
 
