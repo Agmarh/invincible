@@ -84,3 +84,11 @@ Sélona remercie les PJ et les traite comme les héros qui vont sauver la régio
 
 > [!NOTE] Sélona
 > « Merci, Ubers, vous m'avez sauvée et vous avez débouclé le grand Drorn, Swarathnak. Tombés des nues, envoyés des Divins. Je vous prie d'accepter le pain et la paille, mon père est le Khâl de Hauvre, il vous accueillera comme il se doit lorsqu'il saura que vous avez vaincu le Drorn ! Vous êtes ceux de la parole. Et toi, tu es Selmak, car cela signifie le sacrifice qui sauve et c'est ainsi que je t'appellerai. »
+
+Si quelqu'un rappelle que Selmak est le nom du fondateur de Paleseau, Clovik reste un peu interloqué avant de sourire en secouant la tête : 
+« Non, c'est juste un hasard ! ».
+
+- Les personnages voudront sans doute savoir pourquoi elle était attachée là, Sélona leur expliquera alors le Talmeg.
+- S'ils demandent à quoi correspondent les ruines où ils se trouvent, elle leur indique qu'il s'agit de Paleau et que c'est ici que sa tribu vivait naguère, le dragon les en a chassés, il y a environ vingt ans.
+- Si les personnages lui font part de la vision précédant leur arrivée, elle confirme qu'il ne s'agit pas d'elle. La seule personne portant le titre de Reine est la Reine des Harpes.
+- Enfin, elle leur propose de les emmener à son village, Hauvre.
