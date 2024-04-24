@@ -61,4 +61,8 @@ Un éclair de la Chronosphère peut fort à-propos frapper le dragon de l'intér
 # Scène Finale
 
 > [!NOTE] Final
-> Contents
+> Le dragon est une fois de plus agité de soubresauts et hurle de douleur, alors que de violents éclairs d'énergie frappent son corps de l'intérieur, illuminant son anatomie. De la fumée sort de sa bouche et de ses naseaux et sa peau se craquelle par endroits, laissant passer d'étranges rayons lumineux violacés. Dans un dernier effort, il bat puissamment des ailes et s'arrache du sol.
+
+Les PJs encore debout dans un rayon de 19 mètres doit réussir un jet de sauvegarde de Force DD 10 pour ne pas être projeté au sol par le battement des ailes gigantesques.
+
+
