@@ -81,28 +81,11 @@ Un personnage parlant le Sylvain pourra faire un jet d'Intelligence pour essayer
 
 Si un PJ la poursuit et la retrouve (test de Dextérité (Athlétisme) et Sagesse (Perception) DD 15), il ne peut pas tirer grand chose d'elle. La femme a le regard fou, couchée dans la position du fœtus au fond d'un trou étroit. Elle serre dans ses mains sales une sorte de chapelet et maugrée une litanie devenue incompréhensible. 
 
-Comme si, à force de les répéter, elle en avait usé les mots. Un test de Sagesse (Perspicacité)
-DD 15 est nécessaire pour saisir qu'il s'agit d'une
-sorte de prière à la mémoire de sa fille. Elle est irrémédiablement
-folle et rien ne peut la faire sortir de la torpeur
-dans laquelle l'ont plongée la vue du dragon et le
-brusque rappel des douloureux souvenirs. Tout au plus,
-un PJ extraordinairement patient, doué en psychologie
-et chanceux (Charisme (Persuasion DD20)) pourrait
-obtenir ce demi-aveu : « On a fait ce qu'il fallait… Oui, il
-faut comprendre, on a fait ce qu'il fallait. »
-Son chapelet est magique et si on essaye de lui prendre,
-elle se bat jusqu'à la mort, à coup de dents et d'ongles,
-pour le conserver. Interrogée à son sujet, Sélona peut
-indiquer qu'il s'agit de Marille, une femme devenu folle
-après le suicide de sa fille Mélune qui s'était jetée du haut
-de la falaise plutôt que de participer au tirage au sort.
-Mais la vérité, que Sélona ignore, est bien plus dramatique
-encore. Marille a tué sa fille de ses propres mains
-pour qu'elle échappe au tirage au sort… Elle a tressé le
-chapelet de prière qu'elle tient en main avec les cheveux
-et les dents de lait de son enfant adorée. Des reliques
-qu'elle avait conservé depuis sa tendre enfance. Sous
+Comme si, à force de les répéter, elle en avait usé les mots. Un test de Sagesse (Perspicacité) DD 15 est nécessaire pour saisir qu'il s'agit d'une sorte de prière à la mémoire de sa fille. Elle est irrémédiablement folle et rien ne peut la faire sortir de la torpeur dans laquelle l'ont plongée la vue du dragon et le brusque rappel des douloureux souvenirs. Tout au plus, un PJ extraordinairement patient, doué en psychologie et chanceux (Charisme (Persuasion DD20)) pourrait obtenir ce demi-aveu : « On a fait ce qu'il fallait… Oui, il faut comprendre, on a fait ce qu'il fallait. »
+
+Son chapelet est magique et si on essaye de lui prendre, elle se bat jusqu'à la mort, à coup de dents et d'ongles, pour le conserver. Interrogée à son sujet, Sélona peut indiquer qu'il s'agit de Marille, une femme devenu folle après le suicide de sa fille Mélune qui s'était jetée du haut de la falaise plutôt que de participer au tirage au sort. 
+
+Mais la vérité, que Sélona ignore, est bien plus dramatique encore. Marille a tué sa fille de ses propres mains pour qu'elle échappe au tirage au sort… Elle a tressé le chapelet de prière qu'elle tient en main avec les cheveux et les dents de lait de son enfant adorée. Des reliques qu'elle avait conservé depuis sa tendre enfance. Sous
 la charge émotionnelle et les centaines de milliers de
 prières à la mémoire de Mélune, l'objet est devenu magique.
 C'est la cinquième ancre du temps proposée dans
