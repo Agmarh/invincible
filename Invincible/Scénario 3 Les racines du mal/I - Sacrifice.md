@@ -26,3 +26,6 @@ La chronosphère s'arrête progressivement de tourner et descend vers le niveau 
 Les personnages avec plus de 18 d'initiative peuvent agir une seconde fois avec les mêmes restrictions, puis :
 
 > La Chronosphère émet une série d'éclairs qui fusent en direction de tous les protagonistes de la scène, y compris le dragon. Mais autant vous ressentez à peine un petit frisson lorsque l'éclair vous frappe de plein fouet, autant le dragon subit manifestement quelque chose de beaucoup plus violent et de très douloureux. Ses écailles fument et semblent avoir été transpercées. Avec une vitesse stupéfiante pour une créature de cette taille, il se jette immédiatement à pleines dents sur la Chronosphère. Mais comme lors de sa précédente attaque sa gueule passe à travers l'artefact intangible qui disparaît dans la silhouette du monstre.
+
+Les personnages qui ont plus de 10 en initiative agissent avec les mêmes restrictions, Clovik lance un sort de [[Vol]] :
+
