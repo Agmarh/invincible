@@ -13,11 +13,11 @@ stats: [11, 14, 12, 16, 10, 12]
 skillsaves:
   - Arcanes: 4
   - Persuasion: 3
-senses: Perception passive 09
+senses: Perception passive 10
 languages: commun
 cr: 1
 spells:
-  - "Clovik est un lanceur de sorts de niveau 4. Sa caractéristique d'incantation est l'Intelligence (DD du jet de sauvegarde contre les sorts 12, 4 (1d20+4) pour toucher avec les attaques de sort)."
+  - "Clovik est un lanceur de sorts de niveau 4. Sa caractéristique d'incantation est l'Intelligence (DD du jet de sauvegarde contre les sorts 13, 5 (1d20+5) pour toucher avec les attaques de sort)."
   - Tours de magie (à volonté): lumière, trait de feu, message
   - Niveau 1 (4 emplacements): armure de mage, projectile magique, repli expéditif
   - Niveau 2 (3 emplacements): lévitation, invisibilité
