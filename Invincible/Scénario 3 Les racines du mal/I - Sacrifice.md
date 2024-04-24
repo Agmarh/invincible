@@ -4,12 +4,7 @@
 
 Courte pause
 
-> Une jeune femme d'une grande beauté est attachée
-par d'épaisses chaînes à un grand poteau. Derrière
-elle, un village en ruines. Ses bras levés sont lacérés
-et couverts de sang et ses cheveux sales recouvrent
-son visage. Elle est à demi-nue, elle fixe le sol. Ses
-vêtements en lambeaux pendent à sa taille, révélant
+> Une jeune femme d'une grande beauté est attachée par d'épaisses chaînes à un grand poteau. Derrière elle, un village en ruines. Ses bras levés sont lacérés et couverts de sang et ses cheveux sales recouvrent son visage. Elle est à demi-nue, elle fixe le sol. Ses vêtements en lambeaux pendent à sa taille, révélant
 sa poitrine. Entre ses seins, un pendentif en forme
 de tête de loup. Elle sanglote : « Pas moi, pas ma
 rune, pas à moi… »
