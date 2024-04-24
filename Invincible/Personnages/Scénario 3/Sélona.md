@@ -32,3 +32,6 @@ treasure:
   - name: Amulette de Léora
     desc: "Objet merveilleux, Rare. Cette amulette en forme de feuille de chêne appartenait à sa mère, c'est un souvenir important pour Sélona. L'amulette permet de communiquer par télépathie avec les bêtes à une distance de 20 mètres."
 ```
+
+Sélona est une jeune femme de 18 ans au visage bronzé et aux cheveux noir corbeau, de taille moyenne, le visage et les formes rondes, d'apparence plutôt ordinaire. Elle est très peu loquace, mais son regard transperce les âmes avec une intensité dérangeante. Elle s'habille de vêtements couvrants malgré la chaleur et semble souvent avoir froid. Elle confectionne elle-même ses tenues dans des tons de vert aux motifs de feuilles et de fleurs. Son apparence contraste fortement avec celle de ses compatriotes, légèrement vêtus et de façon beaucoup plus rudimentaire. Elle parle un peu le Sylvain, langue que sa mère Léora lui a apprise.
+
