@@ -18,4 +18,6 @@ Les PJs ne peuvent rien faire actuellement, ils sont comme piégés dans une toi
 Si quelqu'un observe :
 > Vous êtes sur la berge d'une rivière, à l'endroit où elle se jette dans une vaste étendue d'eau. Le lieu est occupé en amont par les ruines de ce qui semble avoir été un village sur pilotis. Derrière le dragon, à une cinquantaine de mètres, on peut remarquer un mur de pierres circulaire effondré sur un tumulus d'herbe jaunie. Au centre de l'anneau de pierres, un poteau est planté en terre, et une jeune femme y est attachée. Elle semble hurler quelque chose, mais aucun son ne parvient jusqu'à vous. D'ailleurs, tu remarques à présent que toute la scène est plongée dans un silence surnaturel.
 
-Pendant ce round, Clovik lance un sort d'invisibilité sur lui et le monstre lance une attaque sur un des PJ, l'at
+Pendant ce round, Clovik lance un sort d'invisibilité sur lui et le monstre lance une attaque sur un des PJ, décrire l'attaque comme si l'énorme patte du dragon allait découper le PJ en deux mais elle lui passe au travers. 
+
+La chronosphère s'arrête progressivement de tourner et descend vers le niveau du sol, les personnages suivent ce mouvement. Ils sont encore à 3 mètres de hauteur à la fin du round.
