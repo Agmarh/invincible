@@ -79,9 +79,8 @@ Un personnage parlant le Sylvain pourra faire un jet d'Intelligence pour essayer
 
 Dans l'intervalle, les PJ pourront noter le pendentif en argent en forme de feuille de chêne qui pend à son cou ainsi que de profondes blessures sur ses bras. Interrogée à ce sujet, elle y accordera peu d'attention, il s'agit des marques des griffes des « harpes » qui l'ont transportée. 
 
-Sélona remercie les PJ et les traite comme les héros qui vont sauver la région des griffes du Drorn (le dragon). Les personnages ont déjà connu cela, vous pouvez
-jouer sur la similitude de la scène avec celle du premier
-chapitre. Toutefois, détail amusant, cette fois, Clovik a
-changé de rôle. Il assume mal celui du héros, surtout face
-à Sélona, et il rougit lorsque la demoiselle le remercie,
-bredouillant que ce sont les PJ les héros et pas lui.
+Sélona remercie les PJ et les traite comme les héros qui vont sauver la région des griffes du Drorn (le dragon). Les personnages ont déjà connu cela, vous pouvez jouer sur la similitude de la scène avec celle du premier chapitre. Toutefois, détail amusant, cette fois, Clovik a changé de rôle. Il assume mal celui du héros, surtout face à Sélona, et il rougit lorsque la demoiselle le remercie, bredouillant que ce sont les PJ les héros et pas lui.
+
+
+> [!NOTE] Sélona
+> « Merci, Ubers, vous m'avez sauvée et vous avez débouclé le grand Drorn, Swarathnak. Tombés des nues, envoyés des Divins. Je vous prie d'accepter le pain et la paille, mon père est le Khâl de Hauvre, il vous accueillera comme il se doit lorsqu'il saura que vous avez vaincu le Drorn ! Vous êtes ceux de la parole. Et toi, tu es Selmak, car cela signifie le sacrifice qui sauve et c'est ainsi que je t'appellerai. »
