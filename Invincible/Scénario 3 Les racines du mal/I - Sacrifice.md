@@ -6,17 +6,7 @@ Courte pause
 
 > Une jeune femme d'une grande beauté est attachée par d'épaisses chaînes à un grand poteau. Derrière elle, un village en ruines. Ses bras levés sont lacérés et couverts de sang et ses cheveux sales recouvrent son visage. Elle est à demi-nue, elle fixe le sol. Ses vêtements en lambeaux pendent à sa taille, révélant sa poitrine. Entre ses seins, un pendentif en forme de tête de loup. Elle sanglote : « Pas moi, pas ma rune, pas à moi… »
 > Une ombre la recouvre et une bourrasque repousse sa chevelure noire, elle lève son beau visage. Des larmes ont zébré ses joues. Votre rêve plonge dans ses yeux sombres écarquillés par une vision de terreur. Dans le miroir de ses prunelles, se dresse l'immense silhouette noire d'un terrible dragon.
-> Soudain, le regard de la jeune femme reprend consistance. La peur a laissé place à la haine la plus pure. Dans un brusque accès de rage, elle hurle à la face du monstre : « Ô grand Drorn, dévore moi ! Pour moi, je n'implore rien, dévore jusqu'à la dernière once de chair mais exauce-moi ! Fais souffrir tous ces abjects lâches ! Tue-les tous ! La Reine des Tricheuses, le perfide Khâl Rognar et son infâme rejeton Urimak ! Tue-les tous, tous ces sales lâches. Et aussi toutes celles qui attendent leur tour en baissant la tête, tous ceux qui ne font rien pour les protéger
-! Qu'ils crèvent tous, ces tricheurs. Ce n'était pas
-mon tour, ce n'était pas à moi ! » Elle se tait alors et
-fixe la mort bien en face.
-La silhouette terrible grossit encore dans les prunelles
-de la jeune femme. La créature prend une
-longue, une interminable inspiration. Le beau regard
-ne cille pas. L'instant s'étire sur une éternité.
-Puis une voix d'une tonalité démesurément basse se
-fait entendre.
-« Ma Reine des Harpes, une tricheuse ? Raconte-
-moi,
-mon enfant… »
+> Soudain, le regard de la jeune femme reprend consistance. La peur a laissé place à la haine la plus pure. Dans un brusque accès de rage, elle hurle à la face du monstre : « Ô grand Drorn, dévore moi ! Pour moi, je n'implore rien, dévore jusqu'à la dernière once de chair mais exauce-moi ! Fais souffrir tous ces abjects lâches ! Tue-les tous ! La Reine des Tricheuses, le perfide Khâl Rognar et son infâme rejeton Urimak ! Tue-les tous, tous ces sales lâches. Et aussi toutes celles qui attendent leur tour en baissant la tête, tous ceux qui ne font rien pour les protéger ! Qu'ils crèvent tous, ces tricheurs. Ce n'était pas mon tour, ce n'était pas à moi ! » Elle se tait alors et fixe la mort bien en face.
+> La silhouette terrible grossit encore dans les prunelles de la jeune femme. La créature prend une longue, une interminable inspiration. Le beau regard ne cille pas. L'instant s'étire sur une éternité. Puis une voix d'une tonalité démesurément basse se fait entendre.
+> « Ma Reine des Harpes, une tricheuse ? Raconte- moi, mon enfant… »
 
