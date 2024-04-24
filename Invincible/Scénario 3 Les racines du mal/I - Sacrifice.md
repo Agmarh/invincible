@@ -4,16 +4,9 @@
 
 Courte pause
 
-> Une jeune femme d'une grande beauté est attachée par d'épaisses chaînes à un grand poteau. Derrière elle, un village en ruines. Ses bras levés sont lacérés et couverts de sang et ses cheveux sales recouvrent son visage. Elle est à demi-nue, elle fixe le sol. Ses vêtements en lambeaux pendent à sa taille, révélant
-sa poitrine. Entre ses seins, un pendentif en forme
-de tête de loup. Elle sanglote : « Pas moi, pas ma
-rune, pas à moi… »
-Une ombre la recouvre et une bourrasque repousse
-sa chevelure noire, elle lève son beau visage. Des larmes ont zébré ses joues. Votre rêve plonge dans
-ses yeux sombres écarquillés par une vision de terreur.
-Dans le miroir de ses prunelles, se dresse l'immense
-silhouette noire d'un terrible dragon.
-Soudain, le regard de la jeune femme reprend
+> Une jeune femme d'une grande beauté est attachée par d'épaisses chaînes à un grand poteau. Derrière elle, un village en ruines. Ses bras levés sont lacérés et couverts de sang et ses cheveux sales recouvrent son visage. Elle est à demi-nue, elle fixe le sol. Ses vêtements en lambeaux pendent à sa taille, révélant sa poitrine. Entre ses seins, un pendentif en forme de tête de loup. Elle sanglote : « Pas moi, pas ma rune, pas à moi… »
+> Une ombre la recouvre et une bourrasque repousse sa chevelure noire, elle lève son beau visage. Des larmes ont zébré ses joues. Votre rêve plonge dans ses yeux sombres écarquillés par une vision de terreur. Dans le miroir de ses prunelles, se dresse l'immense silhouette noire d'un terrible dragon.
+> Soudain, le regard de la jeune femme reprend
 consistance. La peur a laissé place à la haine la plus
 pure. Dans un brusque accès de rage, elle hurle à la
 face du monstre : « Ô grand Drorn, dévore moi !
