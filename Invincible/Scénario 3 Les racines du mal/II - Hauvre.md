@@ -60,8 +60,4 @@ En fin de soirée, avant que tout le monde ne parte se coucher, Loknir prend une
 
 Les PJ sont traités comme des prisonniers et personne ne leur parle. On reproche du regard à Sélona d'être encore en vie. Les PJ passeront une nuit calme, sous bonne garde (en particulier celle de Praegar). Seul Loknir prendra la peine de venir leur parler pour leur expliquer la situation. 
 
-Il leur est reconnaissant d'avoir sauvé sa fille
-mais les prévient que les autres membres du Conseil
-seront moins enclins à la clémence. Il ne prévoit aucun
-plan pour tromper la Reine, il a simplement l'espoir de
-convaincre le Conseil d'agir contre le dragon blessé.
+Il leur est reconnaissant d'avoir sauvé sa fille mais les prévient que les autres membres du Conseil seront moins enclins à la clémence. Il ne prévoit aucun plan pour tromper la Reine, il a simplement l'espoir de convaincre le Conseil d'agir contre le dragon blessé.
