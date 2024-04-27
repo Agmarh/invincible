@@ -13,4 +13,4 @@ Les portes sont fermées et le villageois qui garde la tour semble désemparé. 
 > [!NOTE] Premier contact
 > "Un groupe de villageois armés de façon hétéroclite, arcs, lances et couteaux s'est regroupé derrière les portes, des femmes et des enfants observent en restant à bonne distance. Le groupe principal est mené par deux barbares à fière allure. L'un d'eux doit frôler la cinquantaine mais, c'est encore une force de la nature. L'autre est plus jeune et plus grand."
 
-Indiquer aux personnages que le personnage le o
+Indiquer aux personnages que le personnage le plus âgé des deux se tient dans une posture neutre, tandis que le plus jeune semble clairement en colère et serre ses armes de façon agressive.
