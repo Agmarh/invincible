@@ -46,3 +46,11 @@ Les PJ sont accueillis en héros et en invités. Si certains villageois restent 
 Autre effet positif, Roril le forgeron du village, un homme d'une quarantaine d'années, prendra contact avec eux et leur parlera de sa fille qui fut sacrifiée au dragon. Si les PJ l'écoutent avec respect, il leur parlera de la pointe de lance qu'il a forgée en secret. Il ne la leur donnera pas immédiatement, leur indiquant qu'il doit d'abord trouver une hampe digne de ce nom pour assembler l'arme.
 
 En fin de soirée, avant que tout le monde ne parte se coucher, Loknir prend une dernière fois la parole.
+
+> [!NOTE] Loknir
+> "J'ai bien reflété, il faut réunir le Grand Conseil et la seule façon de le faire est de se rendre sur l'île de l'Oratoire pour en faire la pétition à la Reine des Harpes. C'est la mesure, mais aussi le seul moyen rapide pour le faire. Toutefois, la Reine, bien que de notre race, est acquise au pouvoir du Drorn. Nous devrons la convaincre que ce pouvoir est fini pour qu'elle se range à nos côtés. Nous aurons à affronter ses harpes si ça tourne mal, mais elle n'est pas préparée à nous recevoir, il ne devrait pas y avoir beaucoup de ces créatures avec elle. Peut-être que certains d'entre vous devraient tout de même prévoir de quoi se boucher les oreilles, au cas où… »
+Il regarde tout le monde, en particulier Praegar,
+à
+la suite de cette déclaration. « Une fois qu'elle aura
+compris que le temps du Drorn est terminé, j'espère
+qu'elle saura se ranger du coté des vainqueurs."
