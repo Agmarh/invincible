@@ -1,26 +1,9 @@
 Depuis plus d'un siècle, le Talmeg est le nom de la cérémonie pendant laquelle, chaque année au solstice d'été, une jeune femme de l'une des trois tribus est tirée au sort et offerte en sacrifice au dragon.
 
-Bien que les PJ n'assistent pas au tirage au sort, n'importe
-qui pourra leur en conter le déroulement. Placé
-dans un moment de roleplay, l'histoire participera à
-l'ambiance, mais surtout elle donnera aux joueurs les
-clefs pour comprendre le fonctionnement et la perversité
-du système mis en place par le dragon.
-Toutes les jeunes femmes entre leur onzième et leur
-vingt-deuxième année (incluses) participent au Talmeg.
-Comme le tirage a lieu dans un village tous les trois ans,
-cela représente un total de quatre Talmeg dans la vie de
-chaque femme autour du lac Diamant.
-Chaque fillette, à son dixième anniversaire, doit graver
-sur un petit bout d'os une rune qui la représente et
-qu'elle doit porter en permanence au bout d'un lacet
-de cuir autour de son cou. Le jour du tirage, la Reine
-des Harpes mène ses harpies au village concerné par le
-tirage annuel. Chaque jeune fille est saisie par les bras
-par deux harpies et emmenée dans les airs vers l'île de
-l'Oratoire. Les traces sanglantes laissées par les serres
-sur les bras des jeunes femmes formeront des cicatrices qui leur rappelleront leur condition pour le restant de
-leurs jours.
+Toutes les jeunes femmes entre leur onzième et leur vingt-deuxième année (incluses) participent au Talmeg. Comme le tirage a lieu dans un village tous les trois ans, cela représente un total de quatre Talmeg dans la vie de chaque femme autour du lac Diamant.
+
+Chaque fillette, à son dixième anniversaire, doit graver sur un petit bout d'os une rune qui la représente et qu'elle doit porter en permanence au bout d'un lacet de cuir autour de son cou. Le jour du tirage, la Reine des Harpes mène ses harpies au village concerné par le tirage annuel. Chaque jeune fille est saisie par les bras par deux harpies et emmenée dans les airs vers l'île de l'Oratoire. Les traces sanglantes laissées par les serres sur les bras des jeunes femmes formeront des cicatrices qui leur rappelleront leur condition pour le restant de leurs jours.
+
 Sur l'île, le Grand Conseil est déjà réuni. Les jeunes
 femmes sont déposées devant les Anciens et surveillées
 par les champions des trois tribus. Chaque jeune fille
