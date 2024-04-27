@@ -53,3 +53,15 @@ En fin de soirée, avant que tout le monde ne parte se coucher, Loknir prend une
 > Il regarde tout le monde, en particulier Praegar, à la suite de cette déclaration.
 > "Une fois qu'elle aura compris que le temps du Drorn est terminé, j'espère qu'elle saura se ranger du coté des vainqueurs."
 
+# Echec
+
+> [!NOTE] Echec
+> "Sang de mon sang, mon cœur était mort de te voir sacrifiée, mais je suis aussi le Khâl de tout un village et je dois méditer à protéger tous les miens. J'implore les Divins que tu n'apportes pas sur nous la rage du grand Drorn. Je vais devoir vous mener devant le Grand Conseil…"
+
+Les PJ sont traités comme des prisonniers et personne ne leur parle. On reproche du regard à Sélona d'être encore en vie. Les PJ passeront une nuit calme, sous bonne garde (en particulier celle de Praegar). Seul Loknir prendra la peine de venir leur parler pour leur expliquer la situation. 
+
+Il leur est reconnaissant d'avoir sauvé sa fille
+mais les prévient que les autres membres du Conseil
+seront moins enclins à la clémence. Il ne prévoit aucun
+plan pour tromper la Reine, il a simplement l'espoir de
+convaincre le Conseil d'agir contre le dragon blessé.
