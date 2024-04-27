@@ -10,3 +10,6 @@ Les villageois de Hauvre sont sans doute ceux qui détestent le plus le dragon. 
 # Premier contact
 Les portes sont fermées et le villageois qui garde la tour semble désemparé. Il sonne l'alarme. Après deux minutes d'attente, la porte basculante s'ouvre.
 
+
+> [!NOTE] Title
+> Un groupe de villageois armés de façon hétéroclite, arcs, lances et couteaux s'est regroupé derrière les portes, des femmes et des enfants observent en restant à bonne distance. Le groupe principal est mené par deux barbares à fière allure. L'un d'eux doit frôler la cinquantaine mais, c'est encore une force de la nature. L'autre est plus jeune et plus grand.
