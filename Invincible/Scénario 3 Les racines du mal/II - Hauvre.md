@@ -14,3 +14,10 @@ Les portes sont fermées et le villageois qui garde la tour semble désemparé. 
 > "Un groupe de villageois armés de façon hétéroclite, arcs, lances et couteaux s'est regroupé derrière les portes, des femmes et des enfants observent en restant à bonne distance. Le groupe principal est mené par deux barbares à fière allure. L'un d'eux doit frôler la cinquantaine mais, c'est encore une force de la nature. L'autre est plus jeune et plus grand."
 
 Indiquer aux personnages que le personnage le plus âgé des deux se tient dans une posture neutre, tandis que le plus jeune semble clairement en colère et serre ses armes de façon agressive.
+
+> [!NOTE] Sélona
+> "Khâl, comme tu le saisis, le Drorn ne m'a pas dévorée. Ces tocards sont apparus par grand ensorcellement et par la force de l'orage et de la foudre, ils ont débouclé l'immonde. Il est gravement amputé, il a dû fuir ! Il n'est pas invulnérable,
+c'est la promesse d'un avenir pour notre
+peuple, l'esprit de l'Arbre me l'avait instruit, père,
+Selmak était nécessaire et Selmak est venu. Je te demande
+le pain et la paille pour moi et pour eux."
