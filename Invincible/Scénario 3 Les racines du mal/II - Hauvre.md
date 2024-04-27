@@ -38,6 +38,7 @@ Faire un jet de Persuasion au personnage le plus représentatif du groupe, bonus
 - Si les PJ se montrent sûrs de leur force difficulté 12
 - Si les PJ avouent ne pas être de taille à vaincre le dragon, l'échec est automatique.
 
+# Succès
 > [!NOTE] Succès
 > "Le sang de mon sang ne saurait mentir, peut-être la durée de redresser la tête est-elle arrivée. Qui serions-nous pour ne pas accueillir ceux qui ont risqué leur sang pour celle qui n'appartenait pas à leur tribu. Vous êtes les bienvenus Ubers, entrez, mangeons et buvons dans le Mörtte"
 
@@ -48,9 +49,7 @@ Autre effet positif, Roril le forgeron du village, un homme d'une quarantaine d'
 En fin de soirée, avant que tout le monde ne parte se coucher, Loknir prend une dernière fois la parole.
 
 > [!NOTE] Loknir
-> "J'ai bien reflété, il faut réunir le Grand Conseil et la seule façon de le faire est de se rendre sur l'île de l'Oratoire pour en faire la pétition à la Reine des Harpes. C'est la mesure, mais aussi le seul moyen rapide pour le faire. Toutefois, la Reine, bien que de notre race, est acquise au pouvoir du Drorn. Nous devrons la convaincre que ce pouvoir est fini pour qu'elle se range à nos côtés. Nous aurons à affronter ses harpes si ça tourne mal, mais elle n'est pas préparée à nous recevoir, il ne devrait pas y avoir beaucoup de ces créatures avec elle. Peut-être que certains d'entre vous devraient tout de même prévoir de quoi se boucher les oreilles, au cas où… »
-Il regarde tout le monde, en particulier Praegar,
-à
-la suite de cette déclaration. « Une fois qu'elle aura
-compris que le temps du Drorn est terminé, j'espère
-qu'elle saura se ranger du coté des vainqueurs."
+> "J'ai bien reflété, il faut réunir le Grand Conseil et la seule façon de le faire est de se rendre sur l'île de l'Oratoire pour en faire la pétition à la Reine des Harpes. C'est la mesure, mais aussi le seul moyen rapide pour le faire. Toutefois, la Reine, bien que de notre race, est acquise au pouvoir du Drorn. Nous devrons la convaincre que ce pouvoir est fini pour qu'elle se range à nos côtés. Nous aurons à affronter ses harpes si ça tourne mal, mais elle n'est pas préparée à nous recevoir, il ne devrait pas y avoir beaucoup de ces créatures avec elle. Peut-être que certains d'entre vous devraient tout de même prévoir de quoi se boucher les oreilles, au cas où…"
+> Il regarde tout le monde, en particulier Praegar, à la suite de cette déclaration.
+> "Une fois qu'elle aura compris que le temps du Drorn est terminé, j'espère qu'elle saura se ranger du coté des vainqueurs."
+
