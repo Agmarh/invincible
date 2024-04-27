@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Invincible/Bestiaire/Elan géant.md",
+                "file": "Invincible/Bestiaire/Sanglier géant.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Invincible/Bestiaire/Elan géant.md",
+                "file": "Invincible/Bestiaire/Sanglier géant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Invincible/Bestiaire/Elan géant.md"
+                "file": "Invincible/Bestiaire/Sanglier géant.md"
               }
             }
           },
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Invincible/Bestiaire/Elan géant.md",
+                "file": "Invincible/Bestiaire/Sanglier géant.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,8 +194,8 @@
   },
   "active": "120ecef360b3981b",
   "lastOpenFiles": [
-    "Invincible/Bestiaire/Sanglier géant.md",
     "Invincible/Bestiaire/Elan géant.md",
+    "Invincible/Bestiaire/Sanglier géant.md",
     "Invincible/Bestiaire/Ours polaire.md",
     "Template/Monstre.md",
     "Invincible/Bestiaire/Serpent constricteur géant.md",

@@ -8,7 +8,7 @@ alignment: non-aligné
 ac: 12
 hp: 42
 hit_dice: 5d10+15
-speed: 12m, nage 9m
+speed: 12m
 stats: [17, 10, 16, 2, 7, 5]
 senses: Perception passive 8
 languages: -

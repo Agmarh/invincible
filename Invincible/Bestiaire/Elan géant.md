@@ -20,7 +20,7 @@ traits:
     desc: "Si l'élan se déplace de 6 mètres au moins en ligne droite vers une cible contre laquelle il réussit ensuite une attaque de défense lors du même tour, celle-ci subit 7 (2d6) dégâts tranchants supplémentaires. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 13 pour ne pas être jetée [[A terre]]"
 actions:
   - name: Coup de bélier
-    desc: "Attaque d'arme au corps à corps : 5 (1d20+5) pour toucher, allonge 1,50 m, une cible. Touché : 10 (2d6+3) dégâts tranchants."
+    desc: "Attaque d'arme au corps à corps : 6 (1d20+6) pour toucher, allonge 3 m, une cible. Touché : 11 (2d6+4) dégâts contondants."
   - name: Sabots
-    desc: "Attaque d'arme au corps à corps : 5 (1d20+5) pour toucher, allonge 1,50 m, une cible. Touché : 10 (2d6+3) dégâts tranchants."
+    desc: "Attaque d'arme au corps à corps : 6 (1d20+6) pour toucher, allonge 1,50 m, une cible. Touché : 22 (4d8+4) dégâts contondants."
 ```
