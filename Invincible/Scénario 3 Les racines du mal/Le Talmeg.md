@@ -11,22 +11,15 @@ La Reine des Harpes elle-même choisit alors au hasard une rune. Elle est ensuit
 La Reine prononce alors la phrase rituelle : 
 « Le grand dragon choisit d'épargner cette jeune fille des hommes. »
 
-La jeune fille sort alors de l'esplanade du Talmeg. Elle est sauvée. Au pied de l'urne, les malheureuses attendent en priant pour que leur rune sorte et, tandis que leur nombre
-diminue, l'attente se fait de plus en plus insupportable.
-La dernière à rester est celle qui sera sacrifiée au dragon.
-Lorsqu'il ne reste plus qu'une seule rune dans l'Urne des
-Mortes, la Reine prononce alors la phrase rituelle
-:
-« L'Urne des Mortes a rendu son verdict ! » Elle montre
-la dernière rune à tous et les Anciens prononcent son
-nom. « Entendez son nom pour la dernière fois, car elle
-appartient désormais à Swarathnak. Par son sacrifice,
-elle sauve votre peuple. » Les harpies se saisissent d'elle,
-la Reine passe sa rune autour du cou, non sans l'avoir
-observée pour l'ajouter sur l'Urne des Mortes la nuit
-même. Puis les harpies s'envolent vers l'endroit du sacrifice.
-Chaque tribu dispose de son propre lieu d'offrande
-au grand ver.
+La jeune fille sort alors de l'esplanade du Talmeg. Elle est sauvée. Au pied de l'urne, les malheureuses attendent en priant pour que leur rune sorte et, tandis que leur nombre diminue, l'attente se fait de plus en plus insupportable. La dernière à rester est celle qui sera sacrifiée au dragon. 
+
+Lorsqu'il ne reste plus qu'une seule rune dans l'Urne des Mortes, la Reine prononce alors la phrase rituelle : « L'Urne des Mortes a rendu son verdict ! » 
+
+Elle montre la dernière rune à tous et les Anciens prononcent son nom. 
+« Entendez son nom pour la dernière fois, car elle appartient désormais à Swarathnak. Par son sacrifice, elle sauve votre peuple. » 
+
+Les harpies se saisissent d'elle, la Reine passe sa rune autour du cou, non sans l'avoir observée pour l'ajouter sur l'Urne des Mortes la nuit même. Puis les harpies s'envolent vers l'endroit du sacrifice. Chaque tribu dispose de son propre lieu d'offrande au grand ver.
+
 La principale partie du scénario s'articule autour du procès
 des PJ pour avoir perturbé le rituel. Tout l'enjeu est de
 faire éclater la vérité sur des générations de tricheries dans
