@@ -19,13 +19,3 @@ Elle montre la dernière rune à tous et les Anciens prononcent son nom.
 « Entendez son nom pour la dernière fois, car elle appartient désormais à Swarathnak. Par son sacrifice, elle sauve votre peuple. » 
 
 Les harpies se saisissent d'elle, la Reine passe sa rune autour du cou, non sans l'avoir observée pour l'ajouter sur l'Urne des Mortes la nuit même. Puis les harpies s'envolent vers l'endroit du sacrifice. Chaque tribu dispose de son propre lieu d'offrande au grand ver.
-
-La principale partie du scénario s'articule autour du procès
-des PJ pour avoir perturbé le rituel. Tout l'enjeu est de
-faire éclater la vérité sur des générations de tricheries dans
-la tenue du Talmeg (petits arrangements entre puissants,
-manoeuvres pour faire sacrifier la fille d'un rival, etc.) En
-révélant la vérité et les blessures terribles qu'elle cache,
-les PJ prennent un gros risque. Tout peut se finir dans un
-bain de sang, mais il existe également une chance de gagner
-les villages à leur cause contre le dragon.

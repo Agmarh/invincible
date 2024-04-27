@@ -27,3 +27,5 @@ Indiquer aux personnages que le personnage le plus âgé des deux se tient dans 
 
 > [!NOTE] Sélona
 > "Khâl, comme tu le saisis, le Drorn ne m'a pas dévorée. Ces tocards sont apparus par grand ensorcellement et par la force de l'orage et de la foudre, ils ont débouclé l'immonde. Il est gravement amputé, il a dû fuir ! Il n'est pas invulnérable, c'est la promesse d'un avenir pour notre peuple, l'esprit de l'Arbre me l'avait instruit, père, Selmak était nécessaire et Selmak est venu. Je te demande le pain et la paille pour moi et pour eux."
+
+C'est aux PJs de se prés
