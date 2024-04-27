@@ -13,7 +13,9 @@ Ce contexte constitue une opportunité pour les personnages, car même si la peu
 
 Loknir, le Khâl de Hauvre et le père de Sélona sera sans doute du côté des PJ, mais encore faut-il le convaincre. 
 
-Praegar, son Guerok
+Praegar, son Guerok, pourrait poser problème, il vénère le dragon et ses lois et risque de ne pas écouter. Il est fort, c'est pour ça que Loknir l'a choisi comme Guerok.
+
+Si les PJ jouent bien leurs cartes, ils pourraient r
 
 # Premier contact
 Les portes sont fermées et le villageois qui garde la tour semble désemparé. Il sonne l'alarme. Après deux minutes d'attente, la porte basculante s'ouvre.
