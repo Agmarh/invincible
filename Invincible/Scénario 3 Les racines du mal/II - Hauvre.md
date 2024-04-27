@@ -40,3 +40,9 @@ Faire un jet de Persuasion au personnage le plus représentatif du groupe, bonus
 
 > [!NOTE] Succès
 > "Le sang de mon sang ne saurait mentir, peut-être la durée de redresser la tête est-elle arrivée. Qui serions-nous pour ne pas accueillir ceux qui ont risqué leur sang pour celle qui n'appartenait pas à leur tribu. Vous êtes les bienvenus Ubers, entrez, mangeons et buvons dans le Mörtte"
+
+Les PJ sont accueillis en héros et en invités. Si certains villageois restent très distants ou même effrayés quant au possible retour du dragon, d'autres veulent y croire et entendre leur histoire. Une soirée festive a lieu dans le Mörtte. Les héros attirent les regards et oeillades concupiscents des jeunes du village.
+
+Autre effet positif, Roril le forgeron du village, un homme d'une quarantaine d'années, prendra contact avec eux et leur parlera de sa fille qui fut sacrifiée au dragon. Si les PJ l'écoutent avec respect, il leur parlera de la pointe de lance qu'il a forgée en secret. Il ne la leur donnera pas immédiatement, leur indiquant qu'il doit d'abord trouver une hampe digne de ce nom pour assembler l'arme.
+
+En fin de soirée, avant que tout le monde ne parte se coucher, Loknir prend une dernière fois la parole.
