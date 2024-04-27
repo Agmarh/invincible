@@ -11,6 +11,10 @@ Ici, le sol rocheux n'est pas adapté à la culture et la présence des harpies 
 
 Ce contexte constitue une opportunité pour les personnages, car même si la peur du dragon est forte, il est possible de convaincre ces villageois de lui résister.
 
+Loknir, le Khâl de Hauvre et le père de Sélona sera sans doute du côté des PJ, mais encore faut-il le convaincre. 
+
+Praegar, son Guerok
+
 # Premier contact
 Les portes sont fermées et le villageois qui garde la tour semble désemparé. Il sonne l'alarme. Après deux minutes d'attente, la porte basculante s'ouvre.
 
