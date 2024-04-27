@@ -1,0 +1,2 @@
+- Trajet d'environ une journée
+- Aucune rencontre à part un troupeau de bisons
