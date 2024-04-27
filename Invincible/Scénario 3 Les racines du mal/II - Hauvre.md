@@ -31,3 +31,14 @@ Indiquer aux personnages que le personnage le plus âgé des deux se tient dans 
 C'est aux PJs de se présenter et de vanter leur exploit. 
 - Praegar se montrera presque insultant et déclarera : "si le dragon n'est pas mort, c'est le village qui l'est !"
 - Loknir se montrera partagé entre le soulagement de revoir sa fille, l'espoir de se débarrasser du dragon et le poids de la responsabilité
+
+Faire un jet de Persuasion au personnage le plus représentatif du groupe, bonus jusqu'à +5 suivant leur interprétation.
+
+- Si les PJ se montrent sûrs de
+leur force et certains de
+leur victoire sur le dragon
+: difficulté 5
+»» Si les PJ se montrent
+sûrs de leur force difficulté 12
+»» Si les PJ avouent ne pas être de taille à vaincre le
+dragon, l'échec est automatique.
