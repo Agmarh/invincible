@@ -61,3 +61,8 @@ En fin de soirée, avant que tout le monde ne parte se coucher, Loknir prend une
 Les PJ sont traités comme des prisonniers et personne ne leur parle. On reproche du regard à Sélona d'être encore en vie. Les PJ passeront une nuit calme, sous bonne garde (en particulier celle de Praegar). Seul Loknir prendra la peine de venir leur parler pour leur expliquer la situation. 
 
 Il leur est reconnaissant d'avoir sauvé sa fille mais les prévient que les autres membres du Conseil seront moins enclins à la clémence. Il ne prévoit aucun plan pour tromper la Reine, il a simplement l'espoir de convaincre le Conseil d'agir contre le dragon blessé.
+
+# Départ pour l'île de l'Oratoire
+Dès le lendemain matin, deux longues barques munies d'une voile carrée sont mises à l'eau pour emmener les PJ, mais aussi le Conseil du Village (cinq anciens, Praegar, Loknir) vers l'île de l'Oratoire. Les villageois assistent au départ et, selon le statut des PJ, ce sont des signes d'encouragement et des regards emplis d'espoir ou, au contraire, une bien sombre et défiante assemblée qui les regarde partir.
+
+Pendant le voyage, Loknir informe les PJ de ce qui va se passer une fois arrivés sur l'île. L'une des barques transporte les PJ, Loknir et Praegar tandis que l'autre emmène les cinq anciens et un marin pour s'occuper de la voile.
