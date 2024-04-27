@@ -34,11 +34,9 @@ C'est aux PJs de se présenter et de vanter leur exploit.
 
 Faire un jet de Persuasion au personnage le plus représentatif du groupe, bonus jusqu'à +5 suivant leur interprétation.
 
-- Si les PJ se montrent sûrs de
-leur force et certains de
-leur victoire sur le dragon
-: difficulté 5
-»» Si les PJ se montrent
-sûrs de leur force difficulté 12
-»» Si les PJ avouent ne pas être de taille à vaincre le
-dragon, l'échec est automatique.
+- Si les PJ se montrent sûrs de leur force et certains de leur victoire sur le dragon : difficulté 5
+- Si les PJ se montrent sûrs de leur force difficulté 12
+- Si les PJ avouent ne pas être de taille à vaincre le dragon, l'échec est automatique.
+
+> [!NOTE] Succès
+> "Le sang de mon sang ne saurait mentir, peut-être la durée de redresser la tête est-elle arrivée. Qui serions-nous pour ne pas accueillir ceux qui ont risqué leur sang pour celle qui n'appartenait pas à leur tribu. Vous êtes les bienvenus Ubers, entrez, mangeons et buvons dans le Mörtte"
