@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Invincible/Scénario 3 Les racines du mal/II - Hauvre.md",
+                "file": "Invincible/Scénario 3 Les racines du mal/Lieux/Hauvre.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Invincible/Scénario 3 Les racines du mal/II - Hauvre.md",
+                "file": "Invincible/Scénario 3 Les racines du mal/Lieux/Hauvre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Invincible/Scénario 3 Les racines du mal/II - Hauvre.md"
+                "file": "Invincible/Scénario 3 Les racines du mal/Lieux/Hauvre.md"
               }
             }
           },
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Invincible/Scénario 3 Les racines du mal/II - Hauvre.md",
+                "file": "Invincible/Scénario 3 Les racines du mal/Lieux/Hauvre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,10 +194,13 @@
   },
   "active": "120ecef360b3981b",
   "lastOpenFiles": [
+    "Invincible/Scénario 3 Les racines du mal/II - Hauvre.md",
+    "Invincible/Scénario 3 Les racines du mal/Lieux/Hauvre.md",
+    "Invincible/Scénario 3 Les racines du mal/Lieux",
+    "Invincible/Scénario 3 Les racines du mal/Sans titre.md",
     "Invincible/Scénario 3 Les racines du mal/Le Talmeg.md",
     "Invincible/Scénario 3 Les racines du mal/Le grand conseil.md",
     "Invincible/Personnages/Scénario 3/Le.md",
-    "Invincible/Scénario 3 Les racines du mal/II - Hauvre.md",
     "Invincible/Personnages/Scénario 3/Praegar, Guerok de Hauvre.md",
     "Invincible/Personnages/Scénario 3/Loknir, Khâl de Hauvre.md",
     "Invincible/Personnages/Scénario 3/Sélona.md",
@@ -219,8 +222,6 @@
     "Invincible/Bestiaire/Homme-Lézard.md",
     "Invincible/Bestiaire/Blaireau.md",
     "Invincible/Bestiaire/Swarathnak, Dragon noir adulte.md",
-    "Invincible/Bestiaire/Gros Grouic.md",
-    "Invincible/Bestiaire/Centaure.md",
     "Invincible/Personnages/Scénario 3",
     "Invincible/PDF/hd_04_invincible_web_v1.pdf",
     "Invincible/PDF/hd_04_invincible_web_v1 1.pdf",
@@ -239,7 +240,6 @@
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/L'Oratoire du Jugement",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Les Hautes Strates",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Le Moratorium",
-    "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Les Marches Sacrées/Sans titre",
     "Oblivion/PNJ/Sans titre.canvas"
   ]
 }
