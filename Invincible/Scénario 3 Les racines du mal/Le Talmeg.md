@@ -4,18 +4,14 @@ Toutes les jeunes femmes entre leur onzième et leur vingt-deuxième année (inc
 
 Chaque fillette, à son dixième anniversaire, doit graver sur un petit bout d'os une rune qui la représente et qu'elle doit porter en permanence au bout d'un lacet de cuir autour de son cou. Le jour du tirage, la Reine des Harpes mène ses harpies au village concerné par le tirage annuel. Chaque jeune fille est saisie par les bras par deux harpies et emmenée dans les airs vers l'île de l'Oratoire. Les traces sanglantes laissées par les serres sur les bras des jeunes femmes formeront des cicatrices qui leur rappelleront leur condition pour le restant de leurs jours.
 
-Sur l'île, le Grand Conseil est déjà réuni. Les jeunes
-femmes sont déposées devant les Anciens et surveillées
-par les champions des trois tribus. Chaque jeune fille
-dépose sa rune dans l'Urne des Mortes, dont les parois
-sont gravées des runes de toutes celles qui ont été sacrifiées.
-La Reine des Harpes elle-même choisit alors au hasard une rune. Elle est ensuite montrée à l'assemblée
-et la jeune femme désignée s'avance pour la récupérer.
-La Reine prononce alors la phrase rituelle : « Le grand
-dragon choisit d'épargner cette jeune fille des hommes. »
-La jeune fille sort alors de l'esplanade du Talmeg. Elle est
-sauvée. Au pied de l'urne, les malheureuses attendent en
-priant pour que leur rune sorte et, tandis que leur nombre
+Sur l'île, le Grand Conseil est déjà réuni. Les jeunes femmes sont déposées devant les Anciens et surveillées par les champions des trois tribus. Chaque jeune fille dépose sa rune dans l'Urne des Mortes, dont les parois sont gravées des runes de toutes celles qui ont été sacrifiées.
+
+La Reine des Harpes elle-même choisit alors au hasard une rune. Elle est ensuite montrée à l'assemblée et la jeune femme désignée s'avance pour la récupérer. 
+
+La Reine prononce alors la phrase rituelle : 
+« Le grand dragon choisit d'épargner cette jeune fille des hommes. »
+
+La jeune fille sort alors de l'esplanade du Talmeg. Elle est sauvée. Au pied de l'urne, les malheureuses attendent en priant pour que leur rune sorte et, tandis que leur nombre
 diminue, l'attente se fait de plus en plus insupportable.
 La dernière à rester est celle qui sera sacrifiée au dragon.
 Lorsqu'il ne reste plus qu'une seule rune dans l'Urne des
