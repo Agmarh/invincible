@@ -41,32 +41,6 @@
       "player": true
     },
     {
-      "note": "PJ",
-      "path": "Template/PJ.md",
-      "name": "Damy",
-      "level": 5,
-      "hp": 38,
-      "ac": "18",
-      "modifier": 4,
-      "player": true
-    },
-    {
-      "name": "Nevilynn",
-      "level": 6,
-      "hp": 58,
-      "ac": "19",
-      "modifier": -1,
-      "player": true
-    },
-    {
-      "name": "Rasan",
-      "level": 6,
-      "hp": 37,
-      "ac": "14",
-      "modifier": 3,
-      "player": true
-    },
-    {
       "note": "Clovik Scénario 2",
       "path": "Invincible/Personnages/Clovik Scénario 2.md",
       "name": "Clovik",
@@ -88,12 +62,6 @@
     }
   ],
   "parties": [
-    {
-      "name": "Oblivion",
-      "players": [
-        "Damy"
-      ]
-    },
     {
       "name": "Invincible",
       "players": [
@@ -211,7 +179,7 @@
     "logFile": "",
     "rollHP": false
   },
-  "condense": false,
+  "condense": true,
   "clamp": true,
   "autoStatus": true,
   "beginnerTips": true,
