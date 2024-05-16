@@ -3,7 +3,7 @@
     {
       "name": "Piotr",
       "level": 6,
-      "hp": 51,
+      "hp": 59,
       "ac": "18",
       "modifier": -1,
       "player": true
@@ -19,7 +19,7 @@
     {
       "name": "Ea",
       "level": 6,
-      "hp": 42,
+      "hp": 49,
       "ac": "15",
       "modifier": 2,
       "player": true
@@ -35,7 +35,7 @@
     {
       "name": "Konrot",
       "level": 6,
-      "hp": 44,
+      "hp": 54,
       "ac": "14",
       "modifier": 2,
       "player": true
