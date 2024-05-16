@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pokémon/Recherches pokémons.md",
-                "mode": "source",
+                "file": "Invincible/Scénario 3 Les racines du mal/I - Sacrifice.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pokémon/Recherches pokémons.md",
+                "file": "Invincible/Scénario 3 Les racines du mal/I - Sacrifice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pokémon/Recherches pokémons.md"
+                "file": "Invincible/Scénario 3 Les racines du mal/I - Sacrifice.md"
               }
             }
           },
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pokémon/Recherches pokémons.md",
+                "file": "Invincible/Scénario 3 Les racines du mal/I - Sacrifice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,8 +191,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "efc7fbc9dabff410",
+  "active": "120ecef360b3981b",
   "lastOpenFiles": [
+    "Pokémon/Recherches pokémons.md",
     "Pokémon/Recettes.md",
     "Pokémon/Moveset Pokémons.md",
     "Pokémon/Ile de Jerseykara.md",
@@ -220,7 +221,6 @@
     "Invincible/Bestiaire/Shaman Homme-Lézard.md",
     "Invincible/Scénario 3 Les racines du mal",
     "Invincible/Bestiaire/Gwendlynn.md",
-    "Invincible/Bestiaire/Champion Homme-Lézard.md",
     "Invincible/Personnages/Scénario 3",
     "Invincible/PDF/hd_04_invincible_web_v1.pdf",
     "Invincible/PDF/hd_04_invincible_web_v1 1.pdf",
