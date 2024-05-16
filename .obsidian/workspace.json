@@ -175,8 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 402.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,7 +191,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "120ecef360b3981b",
+  "active": "efc7fbc9dabff410",
   "lastOpenFiles": [
     "Pokémon/Recettes.md",
     "Pokémon/Moveset Pokémons.md",
