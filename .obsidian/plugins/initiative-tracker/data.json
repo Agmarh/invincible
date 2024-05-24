@@ -290,6 +290,25 @@
         "player": true,
         "hidden": false,
         "friendly": false
+      },
+      {
+        "name": "Swarathnak, Dragon noir adulte",
+        "initiative": 6,
+        "static": false,
+        "modifier": 2,
+        "hp": 195,
+        "currentMaxHP": 195,
+        "cr": 14,
+        "ac": 19,
+        "currentAC": 19,
+        "id": "ID_ebda48286809",
+        "currentHP": 195,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "hidden": false,
+        "friendly": false,
+        "hit_dice": "17d12+85"
       }
     ],
     "state": false,
