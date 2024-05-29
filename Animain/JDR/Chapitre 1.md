@@ -138,5 +138,5 @@ Il semble tendre des papiers à un individu, visiblement nos avis de recherche. 
 
 Killi pense que des gens nous ont reconnu et savent où nous nous trouvons.
 
-Le bar du verre brisé est dans un triste état, une fois à l'intérieur, il y a 2 salles, une en rez de chaussé et une au sous so
+Le bar du verre brisé est dans un triste état, une fois à l'intérieur, il y a 2 salles, une en rez de chaussé et une au sous sol, elles sont éclairés par des bougies. L'ambiance est morbide, il y a quelques clients, soit endormi, soit bourrés, soit en train de se battre.
 
