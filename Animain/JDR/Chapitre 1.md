@@ -130,3 +130,5 @@ Direction la taverne où on trouve une yolmain afféré autour des tables. Elle 
 
 Elle semble nous agresser verbalement alors qu'elle a tout fait tomber. Après lui avoir donné quelques pièces elle semble se calmer et semble vouloir nous écouter. Felda finit par se montrer, c'est un félin.
 
+Felda sait ou trouve
+
