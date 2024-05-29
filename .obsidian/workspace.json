@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Invincible/Scénario 3 Les racines du mal/I - Sacrifice.md",
-                "mode": "preview",
+                "file": "Animain/JDR/Chapitre 1.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Invincible/Scénario 3 Les racines du mal/I - Sacrifice.md",
+                "file": "Animain/JDR/Chapitre 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Invincible/Scénario 3 Les racines du mal/I - Sacrifice.md"
+                "file": "Animain/JDR/Chapitre 1.md"
               }
             }
           },
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Invincible/Scénario 3 Les racines du mal/I - Sacrifice.md",
+                "file": "Animain/JDR/Chapitre 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 402.5
+    "width": 402.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,9 +194,9 @@
   },
   "active": "120ecef360b3981b",
   "lastOpenFiles": [
+    "Invincible/Scénario 3 Les racines du mal/I - Sacrifice.md",
     "Invincible/Scénario 3 Les racines du mal/II - Hauvre.md",
     "Invincible/Scénario 3 Les racines du mal/Lieux/Hauvre.md",
-    "Invincible/Scénario 3 Les racines du mal/I - Sacrifice.md",
     "Pokémon/Recherches pokémons.md",
     "Pokémon/Recettes.md",
     "Pokémon/Moveset Pokémons.md",
