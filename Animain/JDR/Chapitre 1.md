@@ -132,5 +132,5 @@ Elle semble nous agresser verbalement alors qu'elle a tout fait tomber. Après l
 
 Felda est la fille de l'aubergiste de grandchamp.
 
-Felda sait ou trouver le Capitaine d'os, on doit trouver la taverne du Verre brisé, un lieu peu fréquentable. On est a chier pour la perception. 
+Felda sait ou trouver le Capitaine d'os, on doit trouver la taverne du Verre brisé, un lieu peu fréquentable. On est a chier pour la perception. ON ne distingue rien dans la ruelle, Kabuto a été percuté par un Yolmain avec un masque.
 
