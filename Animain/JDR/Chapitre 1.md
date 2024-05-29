@@ -124,3 +124,6 @@ Le marchand est au camps des Sombrelames depuis 2 jours, ils ne comptent pas res
 Les chefs Sombrelames nous proposent de devenir des "passes murailles", nous ne rejoignons pas officiellement les Sombrelames mais nous avons des droits de passages dans leurs camps moyennant finance. De leurs côtés, ils s'engagent à ne pas tenir compte de la prime sur Kabuto (sauf les plus téméraires). 
 
 On a décidé de tout révéler à la cheffe concernant Graham. Visiblement, on a fait une énorme boulette, car Pavel n'a pas donné tout les détails concernant les plans de Graham.
+
+# 29/052024
+Direction la taverne où on trouve une yolmain afféré autour des tables.
