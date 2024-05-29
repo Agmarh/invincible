@@ -134,5 +134,5 @@ Felda est la fille de l'aubergiste de grandchamp.
 
 Felda sait ou trouver le Capitaine d'os, on doit trouver la taverne du Verre brisé, un lieu peu fréquentable. On est a chier pour la perception. ON ne distingue rien dans la ruelle, Kabuto a été percuté par un Yolmain avec un masque.
 
-Il semble tendre des papiers à un individu, visiblement nos avis de recherche. 
+Il semble tendre des papiers à un individu, visiblement nos avis de recherche. Dans ma bétise j'ai trouvé la taver
 
