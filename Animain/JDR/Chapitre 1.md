@@ -126,4 +126,5 @@ Les chefs Sombrelames nous proposent de devenir des "passes murailles", nous ne 
 On a décidé de tout révéler à la cheffe concernant Graham. Visiblement, on a fait une énorme boulette, car Pavel n'a pas donné tout les détails concernant les plans de Graham.
 
 # 29/052024
-Direction la taverne où on trouve une yolmain afféré autour des tables.
+Direction la taverne où on trouve une yolmain afféré autour des tables. Elle bouscule l'un de nous et renverse son plateau sur Killi, les clients sont morts de rire.
+
