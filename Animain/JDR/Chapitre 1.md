@@ -136,3 +136,5 @@ Felda sait ou trouver le Capitaine d'os, on doit trouver la taverne du Verre bri
 
 Il semble tendre des papiers à un individu, visiblement nos avis de recherche. Dans ma bêtise j'ai trouvé la taverne. Ils ont suivi celui qui a bousculé Kabuto vers un manoir lourdement armé. Il avait l'air de très bien connaitre les gardes à l'entrée du manoir.
 
+Killi pense que des gens nous ont reconnu et savent où nous nous trouvons.
+
