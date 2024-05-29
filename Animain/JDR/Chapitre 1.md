@@ -128,4 +128,5 @@ On a décidé de tout révéler à la cheffe concernant Graham. Visiblement, on 
 # 29/052024
 Direction la taverne où on trouve une yolmain afféré autour des tables. Elle bouscule l'un de nous et renverse son plateau sur Killi, les clients sont morts de rire.
 
-Elle semble nous agresser verbalement alors qu'elle a tout fait tomber. 
+Elle semble nous agresser verbalement alors qu'elle a tout fait tomber. Après lui avoir donné quelques pièces elle semble se calmer et semble vouloir nous écouter.
+
