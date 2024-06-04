@@ -13,3 +13,5 @@ La sorcière sait une chose qu'elle n'a pas révélé au Conseil. Dès qu'elle a
 
 ## Ce que sait le MJ
 La première harpie a été témoin de l'atroce douleur qui tenaillait le dragon alors qu'il se tortillait comme un malheureux ver dans son antre. Il n'a pas supporté qu'un témoin le voit dans cet état et elle a subi sa rage : il l'a liquéfiée de son souffle. La seconde a été frappée par un étrange éclair et aspirée dans un vortex temporel alors qu'elle franchissait à peine l'entrée de la caverne. Les effets de la Chronosphère hors de tout contrôle l'ont propulsée en pleine Grèce antique. 
+# Arrivée du l'île
+
