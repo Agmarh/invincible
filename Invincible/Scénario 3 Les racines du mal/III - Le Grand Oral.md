@@ -36,3 +36,6 @@ Avant d'emprunter le chemin, Loknir montre aux personnages un trou dans la paroi
 Il n'en dira pas plus et se contentera de poser un doigt sur ses lèvres si on lui pose une question. En effet, le Kraken affamé veille et on essaye généralement de passer silencieusement afin de ne pas le provoquer.
 
 Lorsque Loknir, qui ouvre la marche, arrive à proximité du trou, Praegar fait « malencontreusement » chuter une grosse pierre qui déclenche l'attaque du Kraken. Lisez ou paraphrasez ce paragraphe à vos joueurs :
+
+> [!NOTE] Résumé
+> Loknir ouvre la marche, suivi de sa fille et vous fait signe de les suivre. Praegar entame son ascension derrière vous et les cinq Anciens ferment la marche. Alors que Loknir passe à proximité du trou, une grosse pierre rebondit bruyamment sur la paroi, juste derrière vous, avant de tomber à l'eau dans un « plouf » sonore. Presque immédiatement un long et massif tentacule noir jaillit comme un serpent pour frapper dans un éclair en direction de Sélona. L'appendice semble un peu court pour l'atteindre, mais la jeune femme réagit étrangement : ses jambes se dérobent sous elle et elle tombe de la falaise !
