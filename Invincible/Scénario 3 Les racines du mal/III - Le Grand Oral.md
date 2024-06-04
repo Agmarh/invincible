@@ -35,7 +35,13 @@ Avant d'emprunter le chemin, Loknir montre aux personnages un trou dans la paroi
 
 Il n'en dira pas plus et se contentera de poser un doigt sur ses lèvres si on lui pose une question. En effet, le Kraken affamé veille et on essaye généralement de passer silencieusement afin de ne pas le provoquer.
 
-Lorsque Loknir, qui ouvre la marche, arrive à proximité du trou, Praegar fait « malencontreusement » chuter une grosse pierre qui déclenche l'attaque du Kraken. Lisez ou paraphrasez ce paragraphe à vos joueurs :
+Lorsque Loknir, qui ouvre la marche, arrive à proximité du trou, Praegar fait « malencontreusement » chuter une grosse pierre qui déclenche l'attaque du Kraken. 
 
 > [!NOTE] Résumé
 > Loknir ouvre la marche, suivi de sa fille et vous fait signe de les suivre. Praegar entame son ascension derrière vous et les cinq Anciens ferment la marche. Alors que Loknir passe à proximité du trou, une grosse pierre rebondit bruyamment sur la paroi, juste derrière vous, avant de tomber à l'eau dans un « plouf » sonore. Presque immédiatement un long et massif tentacule noir jaillit comme un serpent pour frapper dans un éclair en direction de Sélona. L'appendice semble un peu court pour l'atteindre, mais la jeune femme réagit étrangement : ses jambes se dérobent sous elle et elle tombe de la falaise !
+
+Si un PJ marche directement derrière Sélona, il peut tenter un test de Dextérité DD 15 pour la rattraper, puis un test de Force DD 10 pour réussir à la retenir (tout échec critique sur un de ces deux tests signifie qu'il chute avec elle).
+
+Si le PJ n'arrive pas à sauver Sélona, c'est Loknir qui le fait juste avant d'être saisi par le Kraken. Normalement, le Kraken n'a pas l'allonge nécessaire pour attraper quelqu'un à moins que celui-ci n'approche un peu trop du trou. Le tracé de l'escalier a été calculé dans ce but, mais le Kraken, au fil des ans et des privations, a imperceptiblement accru son allonge. 
+
+Dans la précipitation, Loknir, pour rejoindre sa fille, a commis une imprudence et passe à portée du tentacule du monstre. 
