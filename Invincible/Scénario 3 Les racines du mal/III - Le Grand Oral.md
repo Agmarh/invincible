@@ -49,33 +49,15 @@ Dans tout les cas :
 
 INITIATIVE !
 
-Au round suivant, le Kraken essaie d'emmener sa proie
-dans le trou qui est, heureusement, un peu trop petit
-pour laisser passer une créature de taille humaine. Cela
-empêche que Loknir soit immédiatement aspiré dans la
-caverne, mais le choc est très douloureux !
-Le Kraken a une Initiative de 12. À chaque tour, il
-inflige 2d6+7 dégâts contondants de constriction et
-1d6+3 dégâts contondants de choc sur les rochers. Pour
-le délivrer du tentacule, il faut réussir un test de Force
-DD 20 ou infliger 25 points de dégâts (CA 18) pour sectionner
-l'appendice.
-Loknir subit une moyenne de 21 points de dégâts par
-round, il peut donc tenir 3 rounds. S'il tombe à 0 pv, au
-round suivant, il est mort et son corps brisé permet au
-Kraken de le faire passer par le trou jusque dans sa caverne
-et de le dévorer…
-Mais gageons que les PJ ne vont pas perdre trop de
-temps pour attaquer le tentacule et le sectionner. Il n'est
-cependant pas facile d'atteindre la cible qui est hors de
-portée des armes de contact depuis l'escalier. Cela nécessite
-de grimper de 5 mètres (vitesse divisée par 2) et
-de combattre accroché à la falaise ce qui ne permet que
-de libérer une seule main, demande un test de Dextérité
-(Acrobaties) à chaque round (malus d'armure) pour ne
-pas chuter.
-Si les PJ n'ont pas fait le boulot, Loknir réussit à se délivrer
-seul dans un effort surhumain au troisième round.
+Au round suivant, le Kraken essaie d'emmener sa proie dans le trou qui est, heureusement, un peu trop petit pour laisser passer une créature de taille humaine. Cela empêche que Loknir soit immédiatement aspiré dans la caverne, mais le choc est très douloureux !
+
+Le Kraken a une Initiative de 12. À chaque tour, il inflige 2d6+7 dégâts contondants de constriction et 1d6+3 dégâts contondants de choc sur les rochers. Pour le délivrer du tentacule, il faut réussir un test de Force DD 20 ou infliger 25 points de dégâts (CA 18) pour sectionner l'appendice.
+
+Loknir subit une moyenne de 21 points de dégâts par round, il peut donc tenir 3 rounds. S'il tombe à 0 pv, au round suivant, il est mort et son corps brisé permet au Kraken de le faire passer par le trou jusque dans sa caverne et de le dévorer…
+
+Mais gageons que les PJ ne vont pas perdre trop de temps pour attaquer le tentacule et le sectionner. Il n'est cependant pas facile d'atteindre la cible qui est hors de portée des armes de contact depuis l'escalier. Cela nécessite de grimper de 5 mètres (vitesse divisée par 2) et de combattre accroché à la falaise ce qui ne permet que de libérer une seule main, demande un test de Dextérité (Acrobaties) à chaque round (malus d'armure) pour ne pas chuter.
+
+Si les PJ n'ont pas fait le boulot, Loknir réussit à se délivrer seul dans un effort surhumain au troisième round.
 Quoi qu'il en soit, le Khâl sort sérieusement blessé de
 cette épreuve, ce qui le rend vulnérable pour la suite…
 L'amulette de Sélona : pendant cet incident, Sélona se
@@ -93,3 +75,11 @@ sont amenés à être jetés en pâture au Kraken. Ou
 qui sait, si des joueurs imaginatifs échafaudent un plan
 original où le Kraken aurait un rôle à jouer, car l'amulette
 permet de communiquer avec lui.
+La faute de Praegar : a priori les PJ ne peuvent pas
+avoir vu Praegar faire tomber la pierre puisqu'il était
+derrière eux. L'Ancien qui le suivait directement a tout
+vu, toutefois il est un peu effrayé par les conséquences
+et n'ose rien dire. Les PJ ne devraient pas avoir le temps
+de le cuisiner vu la suite des événements, mais si c'était
+le cas, Praegar se contentera de hausser les épaules avec
+une moue de dédain.
