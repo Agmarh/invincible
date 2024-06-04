@@ -17,24 +17,13 @@ Des anneaux de métal sont scellés dans la porte. Les condamnés sont attachés
 # 4. Esplanade du Talmeg
 C'est ici qu'a lieu le terrible tirage au sort. Il s'agit aussi de l'endroit où se réunit le Grand Conseil. C'est donc là que les personnages auront à défendre leur cause. 
 
-L'esplanade est constituée de trois demi-cercles concentriques situés à des hauteurs différentes. La partie centrale reçoit un piédestal sur lequel est fixée une urne en bronze et le trône de la Reine des Harpes. L'Urne des Mortes mesure environ 50 centimètres de diamètre et porte 107 symboles gravés représentant chacune
-des jeunes filles sacrifiées au dragon. C'est là que se
-tient la Reine des Harpes pendant le tirage ou le Grand
-Conseil.
-Le cercle intermédiaire, « la fosse du Talmeg » est situé
-2 mètres en contrebas. Les jeunes femmes ou les prévenus,
-comme les PJ, doivent attendre dans cette zone.
-Autour, le dernier demi-cercle mesure 25 mètres de
-diamètre, 20 colonnes de pierre se dressent à sa périphérie.
-Au pied de chaque colonne est taillé un banc, c'est
-là que siègent les Anciens de chaque village. En face,
-de part et d'autre du trône de la Reine des Harpes deux
-rangées de quatre colonnes sont disposées. Ce sont les
-sièges des Khâls et de leurs Gueroks.
-Il y a au total 28 colonnes soit 7 de plus que de membres
-du Grand conseil. Elles correspondent aux sièges laissés
-vacants par la destruction du village de Bastère. Lorsque
-le Grand Conseil se réunit, une harpie s'accroupit au
-sommet de chacune des colonnes. Il y a 21 harpies au
-total.
+L'esplanade est constituée de trois demi-cercles concentriques situés à des hauteurs différentes. La partie centrale reçoit un piédestal sur lequel est fixée une urne en bronze et le trône de la Reine des Harpes. L'Urne des Mortes mesure environ 50 centimètres de diamètre et porte 107 symboles gravés représentant chacune des jeunes filles sacrifiées au dragon. C'est là que se tient la Reine des Harpes pendant le tirage ou le Grand Conseil.
+
+Le cercle intermédiaire, « la fosse du Talmeg » est situé 2 mètres en contrebas. Les jeunes femmes ou les prévenus, comme les PJ, doivent attendre dans cette zone. 
+
+Autour, le dernier demi-cercle mesure 25 mètres de diamètre, 20 colonnes de pierre se dressent à sa périphérie. Au pied de chaque colonne est taillé un banc, c'est là que siègent les Anciens de chaque village. En face, de part et d'autre du trône de la Reine des Harpes deux rangées de quatre colonnes sont disposées. Ce sont les sièges des Khâls et de leurs Gueroks.
+
+Il y a au total 28 colonnes soit 7 de plus que de membres du Grand conseil. Elles correspondent aux sièges laissés vacants par la destruction du village de Bastère. 
+
+Lorsque le Grand Conseil se réunit, une harpie s'accroupit au sommet de chacune des colonnes. Il y a 21 harpies au total.
 
