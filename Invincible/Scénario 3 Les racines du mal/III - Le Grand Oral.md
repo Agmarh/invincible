@@ -42,6 +42,7 @@ Lorsque Loknir, qui ouvre la marche, arrive à proximité du trou, Praegar fait 
 
 Si un PJ marche directement derrière Sélona, il peut tenter un test de Dextérité DD 15 pour la rattraper, puis un test de Force DD 10 pour réussir à la retenir (tout échec critique sur un de ces deux tests signifie qu'il chute avec elle).
 
-Si le PJ n'arrive pas à sauver Sélona, c'est Loknir qui le fait juste avant d'être saisi par le Kraken. Normalement, le Kraken n'a pas l'allonge nécessaire pour attraper quelqu'un à moins que celui-ci n'approche un peu trop du trou. Le tracé de l'escalier a été calculé dans ce but, mais le Kraken, au fil des ans et des privations, a imperceptiblement accru son allonge. 
+Dans tout les cas :
 
-Dans la précipitation, Loknir, pour rejoindre sa fille, a commis une imprudence et passe à portée du tentacule du monstre. 
+> [!NOTE] Résumé
+> Le bruit de la pierre a attiré l'attention de Loknir qui s'est retourné et a vu sa fille basculer. Il se précipite à son secours, mais dans le feu de l'action, il passe inconsidérément à portée du long membre qui fouette l'air à la recherche d'une proie. Déséquilibré en essayant d'attraper Sélona, il ne peut éviter le tentacule qui l'agrippe aussitôt, s'étire encore et s'enroule comme un long serpent autour de sa taille. Il est soulevé en l'air.
