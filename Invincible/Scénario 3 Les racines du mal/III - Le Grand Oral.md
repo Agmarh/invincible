@@ -58,7 +58,6 @@ Loknir subit une moyenne de 21 points de dégâts par round, il peut donc tenir 
 Mais gageons que les PJ ne vont pas perdre trop de temps pour attaquer le tentacule et le sectionner. Il n'est cependant pas facile d'atteindre la cible qui est hors de portée des armes de contact depuis l'escalier. Cela nécessite de grimper de 5 mètres (vitesse divisée par 2) et de combattre accroché à la falaise ce qui ne permet que de libérer une seule main, demande un test de Dextérité (Acrobaties) à chaque round (malus d'armure) pour ne pas chuter.
 
 Si les PJ n'ont pas fait le boulot, Loknir réussit à se délivrer seul dans un effort surhumain au troisième round. Quoi qu'il en soit, le Khâl sort sérieusement blessé de cette épreuve, ce qui le rend vulnérable pour la suite…
-
 ## L'amulette de Sélona
 Pendant cet incident, Sélona se tient la tête entre les mains, comme en proie à un violent mal de crâne. C'est cela qui l'a déséquilibrée et non pas l'attaque du tentacule. Si un PJ lui en fait la remarque, elle explique. 
 
@@ -67,7 +66,6 @@ Pendant cet incident, Sélona se tient la tête entre les mains, comme en proie 
 Elle explique que l'amulette qu'elle porte, un souvenir de sa mère, lui permet habituellement de communiquer avec les animaux. Mais le Kraken projette une telle force mentale que cela est insupportable, elle enlève donc l'amulette.
 
 Ce détail aura son importance seulement si les personnages sont amenés à être jetés en pâture au Kraken. Ou qui sait, si des joueurs imaginatifs échafaudent un plan original où le Kraken aurait un rôle à jouer, car l'amulette permet de communiquer avec lui.
-
 ## La faute de Praegar 
 Apriori les PJ ne peuvent pas avoir vu Praegar faire tomber la pierre puisqu'il était derrière eux. L'Ancien qui le suivait directement a tout vu, toutefois il est un peu effrayé par les conséquences et n'ose rien dire. 
 
