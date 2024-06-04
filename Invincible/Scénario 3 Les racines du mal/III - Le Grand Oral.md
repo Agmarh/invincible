@@ -29,4 +29,10 @@ La première harpie a été témoin de l'atroce douleur qui tenaillait le dragon
 > 
 > Vous prenez pied sur un escalier abrupt taillé dans ce qui semble tout de même bien être du rocher.
 
-Les harpies appellent Loknir « tueur » parce qu'il a ué nombre d'entre elles à la mort de son épouse.
+Les harpies appellent Loknir « tueur » parce qu'il a tué nombre d'entre elles à la mort de son épouse.
+# Les marches du Dragon
+Avant d'emprunter le chemin, Loknir montre aux personnages un trou dans la paroi à quelques mètres de l'escalier. C'est un orifice lisse et irrégulier taillé dans cette étrange roche, fondue, puis à nouveau durcie. À voix basse, il les prévient de monter en silence et de rester le plus éloigné possible de ce trou.
+
+Il n'en dira pas plus et se contentera de poser un doigt sur ses lèvres si on lui pose une question. En effet, le Kraken affamé veille et on essaye généralement de passer silencieusement afin de ne pas le provoquer.
+
+Lorsque Loknir, qui ouvre la marche, arrive à proximité du trou, Praegar fait « malencontreusement » chuter une grosse pierre qui déclenche l'attaque du Kraken. Lisez ou paraphrasez ce paragraphe à vos joueurs :
