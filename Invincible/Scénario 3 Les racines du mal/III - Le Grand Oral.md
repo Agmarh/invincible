@@ -6,17 +6,10 @@ S'ils ont été accueillis comme des héros, le plan de Loknir était de profite
 De fait, c'est la Reine qui montre sa force. Il y a seulement 5-6 harpies perchées sur les colonnes à l'arrivée du groupe afin de tromper Loknir, mais les autres sont cachées dans la fosse du Talmeg. Elles s'envoleront pour aller se percher sur les colonnes une fois que les PJ auront pris pied sur l'esplanade.
 
 ## Ce que sait le Grand Conseil 
-Pour le moment, les membres du Conseil savent uniquement que la fille de
-Loknir est vivante et que les étrangers responsables de ce
-fait ont été hébergés par le Khâl de Hauvre.
-Ce que sait la Reine : la sorcière sait une chose qu'elle
-n'a pas révélé au Conseil. Dès qu'elle a reçu le message
-de Praegar, elle a envoyé une harpie chez le dragon pour
-prendre ses ordres. Mais le messager n'est pas revenu.
-La Reine a envoyé une seconde harpie au petit matin.
-Elle n'a pas toujours pas de nouvelle et cela l'inquiète
-beaucoup. Le dragon est-il gravement blessé ? Est-il en
-vie ? Est-il dans une fureur telle que plus personne n'est
+Pour le moment, les membres du Conseil savent uniquement que la fille de Loknir est vivante et que les étrangers responsables de ce fait ont été hébergés par le Khâl de Hauvre. 
+
+## Ce que sait la Reine 
+La sorcière sait une chose qu'elle n'a pas révélé au Conseil. Dès qu'elle a reçu le message de Praegar, elle a envoyé une harpie chez le dragon pour prendre ses ordres. Mais le messager n'est pas revenu. La Reine a envoyé une seconde harpie au petit matin. Elle n'a pas toujours pas de nouvelle et cela l'inquiète beaucoup. Le dragon est-il gravement blessé ? Est-il en vie ? Est-il dans une fureur telle que plus personne n'est
 à l'abri ? Pourquoi les harpies ne reviennent-elles pas ?
 Ce que sait le MJ : la première harpie a été témoin de
 l'atroce douleur qui tenaillait le dragon alors qu'il se tortillait
