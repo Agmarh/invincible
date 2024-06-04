@@ -30,6 +30,8 @@ Lorsque le Grand Conseil se réunit, une harpie s'accroupit au sommet de chacune
 La Place de Vie est un espace vaguement plat et rocailleux. C'est là que les harpies déposent les jeunes femmes lorsqu'elles les amènent pour le Talmeg et c'est là que se rendent celles sauvées par le tirage au sort, dès qu'elles ont récupéré leur rune.
 
 Accessoirement, lorsque des humains sont invités plusieurs jours sur l'île (par exemple des maçons ou des ouvriers pour réparer ou construire un édifice), c'est là qu'ils sont autorisés à dresser leur campement.
-
 # 6. Mörtte de la Reine
+Cette imposante bâtisse de pierre est la demeure de la Reine. Au fil des années, les sept reines qui se sont succédé ont amélioré le confort à l'origine spartiate. À présent, des tapisseries et des soieries rendent l'ensemble agréable. Toutefois la demeure ne recèle pas d'objet de grande valeur : l'or est réservé uniquement au dragon. Et malheur à celles qui ne l'ont pas compris (le règne le plus court d'une Reine fut d'une année).
+
+La maison comprend une grande salle de vie, une salle de travail associée à une modeste bibliothèque, une salle d'eau, une chambre et une vaste réserve où sont stockées de très nombreuses jarres de grain, d'huile, fruits séchés, etc. Aucune porte n'est fermée à clef. Le concept de serrure est inconnu autour du lac.
 
