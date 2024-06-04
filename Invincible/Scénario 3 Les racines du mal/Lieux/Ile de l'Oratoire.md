@@ -26,4 +26,10 @@ Autour, le dernier demi-cercle mesure 25 mètres de diamètre, 20 colonnes de pi
 Il y a au total 28 colonnes soit 7 de plus que de membres du Grand conseil. Elles correspondent aux sièges laissés vacants par la destruction du village de Bastère. 
 
 Lorsque le Grand Conseil se réunit, une harpie s'accroupit au sommet de chacune des colonnes. Il y a 21 harpies au total.
+# 5. Place de vie
+La Place de Vie est un espace vaguement plat et rocailleux. C'est là que les harpies déposent les jeunes femmes lorsqu'elles les amènent pour le Talmeg et c'est là que se rendent celles sauvées par le tirage au sort, dès qu'elles ont récupéré leur rune.
+
+Accessoirement, lorsque des humains sont invités plusieurs jours sur l'île (par exemple des maçons ou des ouvriers pour réparer ou construire un édifice), c'est là qu'ils sont autorisés à dresser leur campement.
+
+# 6. Mörtte de la Reine
 
