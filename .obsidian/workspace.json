@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b0fdcb882a1103d1",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -192,7 +203,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "120ecef360b3981b",
+  "active": "b0fdcb882a1103d1",
   "lastOpenFiles": [
     "Invincible/Scénario 3 Les racines du mal/III - Le Grand Oral.md",
     "Invincible/Scénario 3 Les racines du mal/Le Talmeg.md",
