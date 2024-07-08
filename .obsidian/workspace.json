@@ -13,25 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pokémon/Recettes.md",
+                "file": "Pokémon/A FAIRE.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "b0fdcb882a1103d1",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.3"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pokémon/Recettes.md",
+                "file": "Pokémon/A FAIRE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pokémon/Recettes.md"
+                "file": "Pokémon/A FAIRE.md"
               }
             }
           },
@@ -160,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pokémon/Recettes.md",
+                "file": "Pokémon/A FAIRE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,8 +192,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b0fdcb882a1103d1",
+  "active": "120ecef360b3981b",
   "lastOpenFiles": [
+    "Pokémon/Recettes.md",
+    "Pokémon/A FAIRE.md",
     "Invincible/Scénario 3 Les racines du mal/III - Le Grand Oral.md",
     "Invincible/Scénario 3 Les racines du mal/Le Talmeg.md",
     "Invincible/Scénario 3 Les racines du mal/I - Sacrifice.md",
@@ -214,7 +205,6 @@
     "Invincible/Scénario 3 Les racines du mal/Le grand conseil.md",
     "Animain/JDR/Chapitre 1.md",
     "Pokémon/Recherches pokémons.md",
-    "Pokémon/Recettes.md",
     "Pokémon/Moveset Pokémons.md",
     "Pokémon/Ile de Jerseykara.md",
     "Invincible/Scénario 3 Les racines du mal/Lieux",
@@ -231,7 +221,6 @@
     "Invincible/Personnages/Clovik.md",
     "Invincible/Personnages/Clovik Scénario 1.md",
     "Invincible/Scénario 2 La cité pétrifiée/Evénements/Actionner la Chronosphère.md",
-    "Invincible/Scénario 3 Les racines du mal/Langage.md",
     "Invincible/Scénario 3 Les racines du mal",
     "Invincible/Personnages/Scénario 3",
     "Invincible/PDF/hd_04_invincible_web_v1.pdf",
