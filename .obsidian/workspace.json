@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4a063f309dff2232",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -192,7 +203,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "120ecef360b3981b",
+  "active": "4a063f309dff2232",
   "lastOpenFiles": [
     "Pokémon/Recettes.md",
     "Pokémon/A FAIRE.md",
