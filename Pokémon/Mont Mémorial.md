@@ -6,4 +6,6 @@ Sur plusieurs murs il y a des fresques, on peut y observer de nombreux pokémons
 D'autres peinture de dieux totalement inconnus sont également visible. Signe de connaissances oublié
 
 Un message est écrit plus loin : "La pierre de rosette ouvrira la voie d'une langue perdu et du savoir des atalantes, le peuple des anciens, avec ce savoir, les élus pourront rejoindre la terre promise et accomplir leur devoir" 
-puis un autre griffoner à la main " points ouvrent 5 portes" tu observes également une stele ou y semble y manquer 2 orbres... mais tu vois une inscrption en bas mais elle est en langue inconnu on dirait que des lettres sont formées grace à des points !! mystères"
+Puis un autre griffonné à la main : "5 points ouvrent 5 portes" 
+
+Il y a une stèle ou il semble manquer 2 orbes avec une inscirption en bas mais elle est en langue inconnu on dirait que des lettres sont formées grâce à des points.
