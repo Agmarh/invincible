@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pokémon/A FAIRE.md",
+                "file": "Pokémon/CARTE.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pokémon/A FAIRE.md",
+                "file": "Pokémon/CARTE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pokémon/A FAIRE.md"
+                "file": "Pokémon/CARTE.md"
               }
             }
           },
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pokémon/A FAIRE.md",
+                "file": "Pokémon/CARTE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,8 +194,8 @@
   },
   "active": "120ecef360b3981b",
   "lastOpenFiles": [
-    "Pokémon/CARTE.md",
     "Pokémon/A FAIRE.md",
+    "Pokémon/CARTE.md",
     "Invincible/Images/remix-416bd1a3-5007-4030-8443-1484d49cdde5.png",
     "Pokémon/Recettes.md",
     "Invincible/Scénario 3 Les racines du mal/III - Le Grand Oral.md",
