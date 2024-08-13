@@ -3,4 +3,7 @@ Le sommet du mont est parsemé de stèle sur le chemin avec comme inscription de
 
 Sur plusieurs murs il y a des fresques, on peut y observer de nombreux pokémons divinité comme un béhémoth, une baleine et un serpent volant qui ressemble trait pour trait au pokémon lors de la "fusion", puis Déoxys
 
-D'autres peinture de dieux totalement inconnu ! est ce possible ? votre histoire ou vos connaissances serait fausses ou alors... oublié ?? c est alors que tu vois un message ecrit plus loin : "la pierre de rosette ouvrira la voie d une langue perdu et du savoir des atalantes, le peuple des anciens, avec ce savoir, les élus pourront rejoindre la terre promise et accomplir leur devoir" pui griffoner à la main " points ouvrent 5 portes" tu observes également une stele ou y semble y manquer 2 orbres... mais tu vois une inscrption en bas mais elle est en langue inconnu on dirait que des lettres sont formées grace à des points !! mystères"
+D'autres peinture de dieux totalement inconnus sont également visible. Signe de connaissances oublié
+
+Un message est écrit plus loin : "La pierre de rosette ouvrira la voie d'une langue perdu et du savoir des atalantes, le peuple des anciens, avec ce savoir, les élus pourront rejoindre la terre promise et accomplir leur devoir" 
+puis un autre griffoner à la main " points ouvrent 5 portes" tu observes également une stele ou y semble y manquer 2 orbres... mais tu vois une inscrption en bas mais elle est en langue inconnu on dirait que des lettres sont formées grace à des points !! mystères"
