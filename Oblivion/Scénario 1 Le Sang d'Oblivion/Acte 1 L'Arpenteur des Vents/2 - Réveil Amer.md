@@ -16,9 +16,9 @@ Au matin, il faudra réussir un <font style="color:green">jet de sauvegarde de C
 
 # L'attaque des Mercenaires
 
-Après quelques jours à marcher, ils arrivent en vue d'un pont, décrit comme l'Arche de l'Adieu par les gens d'Epistéa. Un pont de 100m de long sur 7 de large, enjambant un canyon au fond duquel grondent les cascades tumultueuses d'un torrent de montagne, 20 mètres plus bas. De l'autre côté de l'arche, il n'y a plus de route, ni vestige de civilisation. Un simple chemin s'élève en lacets le long des falaises ocres. Cet endroit respire la paix et la sérénité. Il rappelle le rêve des PJ.
-
-La zone baigne dans une brume permanente produite par les cascades en dessous. Sur chaque rive, deux formidables statues de rois nains encadrent le chemin, brisées et mangées par la mousse. On distingue une antique tour frontalière : un bâtiment nain à deux étages qui servait de douane et de poste de garde. On passe en dessous à travers un porche, juste assez large pour un chariot.
+> Après quelques jours à marcher, ils arrivent en vue d'un pont, décrit comme l'Arche de l'Adieu par les gens d'Epistéa. Un pont de 100m de long sur 7 de large, enjambant un canyon au fond duquel grondent les cascades tumultueuses d'un torrent de montagne, 20 mètres plus bas. De l'autre côté de l'arche, il n'y a plus de route, ni vestige de civilisation. Un simple chemin s'élève en lacets le long des falaises ocres. Cet endroit respire la paix et la sérénité. Il rappelle le rêve des PJ.
+> 
+> La zone baigne dans une brume permanente produite par les cascades en dessous. Sur chaque rive, deux formidables statues de rois nains encadrent le chemin, brisées et mangées par la mousse. On distingue une antique tour frontalière : un bâtiment nain à deux étages qui servait de douane et de poste de garde. On passe en dessous à travers un porche, juste assez large pour un chariot.
 
 - Les Cadavreux en place font partie d'un clan dégénérés et consanguins. Ils sont tous affligés d'une malformation (bras atrophié, voix caquetante, troisième œil…). Ils habitent généralement à l'écart des autres nains.
 
