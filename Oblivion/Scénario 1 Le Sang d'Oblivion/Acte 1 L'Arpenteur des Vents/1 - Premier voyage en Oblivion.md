@@ -7,39 +7,26 @@ Au moment où ils vont s'endormir, demander comment ils dorment, équipés ou pa
 # L'antre des cauchemars
 
 > Vous vous endormez, le Rêve commence, vous pénétrez dans ce paysage devenu familier : le sentier sinueux, la poussière ocre aux effluves de souffre et cette sensation, unique, de plénitude et de sérénité. Pourtant, vous percevez un murmure inhabituel et les couleurs paraissent plus sombres qu'à l'accoutumée.
+> 
 > Vous reprenez votre lente et enivrante ascension le long de la paroi, guettant l'arrivée de l'aigle d'obsidienne. Bientôt, vous percevez le battement de ses ailes…
+> 
 > Bizarrement, le murmure de fond s'est mué en plainte, en gémissement étrange. La lumière s'obscurcit. L'aigle d'obsidienne apparaît enfin, se pose et vous fixe. Mais quelque chose ne va pas.
+> 
 > Ses ailes sont déchirées, comme les lambeaux d'un linceul. Son regard d'ambre a disparu, remplacé par deux billes couleur de sang. Votre cœur commence à battre la chamade, tandis que les gémissement perçus au cœur de votre rêve deviennent audibles. Ce ne sont pas des gémissements, ce sont des cris, des hurlements de douleur, synchronisés en une sorte de chant incantatoire et impie… Et il y a plus, il y a une ombre gigantesque, une présence vient d'entrer dans votre rêve !
+> 
 > Soudain le paysage explose !
+> 
 > Vous vous sentez aspiré dans un tourbillon… Les os de votre crâne se mettent à vibrer, comme si vous voyagiez dans un carrosse lancé au galop… Vos tympans se distendent, prêts à éclater… Vous voyagez, une voix bestiale imprime ces mots dans votre crâne : 
 > <font style="color:yellow">"Hâtez-vous, Rêveurs ! Votre chair m'est précieuse : venez souffrir au pays des chimères…"</font>
+> 
 >  Puis un choc… Vous vous réveillez en sursaut, couverts de sueur, le cœur battant à cent à l'heure.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 1 - Geôle d'arrivée : La caverne d'os
 
-Il fait un noir complet, de partout proviennent d'étranges gargouillements, des bruits de succion…
-
-Les ténèbres laissent deviner une sorte d'immense caverne livide entièrement taillée dans de l'os, suintant de fluides organiques, saturée d'effluves écœurants de sang frais et de viscères pourrissants. Des silhouettes s'agitent autour de vous…
-
-Soudain, une étrange mélodie retentit :
-
-"Un, deux, trois. Une nouvelle proie. Quatre, cinq, six. Toute prête au supplice. Sept, huit, neuf. Explose comme un œuf"
-
-A quelques mètres, un hurlement se fait entendre et des fragments de tissu cérébral viennent éclabousser un PJ. Un des PNJ vient de décéder. Une silhouette arachnéenne s'avance hors des ténèbres : six pattes d'os encadrant une énorme colonne vertébrale horizontale, qui se redresse à l'avant pour former un torse et des bras décharnés, surmontée d'une tête de goule monstrueuse. La créature tourne son crâne aveugle aux orbites vides, humant l'air dans votre direction en faisant claquer ses dents. Puis, elle clame dans un croassement atroce "Un, deux, trois. Qui veut jouer avec moi ?"
+> Il fait un noir complet, de partout proviennent d'étranges gargouillements, des bruits de succion…
+> Les ténèbres laissent deviner une sorte d'immense caverne livide entièrement taillée dans de l'os, suintant de fluides organiques, saturée d'effluves écœurants de sang frais et de viscères pourrissants. Des silhouettes s'agitent autour de vous…
+> Soudain, une étrange mélodie retentit :
+> "Un, deux, trois. Une nouvelle proie. Quatre, cinq, six. Toute prête au supplice. Sept, huit, neuf. Explose comme un œuf"
+> A quelques mètres, un hurlement se fait entendre et des fragments de tissu cérébral viennent éclabousser un PJ. Un des PNJ vient de décéder. Une silhouette arachnéenne s'avance hors des ténèbres : six pattes d'os encadrant une énorme colonne vertébrale horizontale, qui se redresse à l'avant pour former un torse et des bras décharnés, surmontée d'une tête de goule monstrueuse. La créature tourne son crâne aveugle aux orbites vides, humant l'air dans votre direction en faisant claquer ses dents. Puis, elle clame dans un croassement atroce "Un, deux, trois. Qui veut jouer avec moi ?"
 
 - Il y a 3 ghûraghasta dans la caverne
 - Les PJ, 4 PNJ mineurs, Malathor et Toma. Il faut que les PJs remarquent ces deux derniers.
