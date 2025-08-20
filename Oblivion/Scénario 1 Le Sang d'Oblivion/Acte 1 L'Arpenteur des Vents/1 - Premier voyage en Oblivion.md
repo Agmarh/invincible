@@ -23,9 +23,12 @@ Au moment où ils vont s'endormir, demander comment ils dorment, équipés ou pa
 ## 1 - Geôle d'arrivée : La caverne d'os
 
 > Il fait un noir complet, de partout proviennent d'étranges gargouillements, des bruits de succion…
+> 
 > Les ténèbres laissent deviner une sorte d'immense caverne livide entièrement taillée dans de l'os, suintant de fluides organiques, saturée d'effluves écœurants de sang frais et de viscères pourrissants. Des silhouettes s'agitent autour de vous…
+> 
 > Soudain, une étrange mélodie retentit :
-> "Un, deux, trois. Une nouvelle proie. Quatre, cinq, six. Toute prête au supplice. Sept, huit, neuf. Explose comme un œuf"
+> <font style="color:yellow">"Un, deux, trois. Une nouvelle proie. Quatre, cinq, six. Toute prête au supplice. Sept, huit, neuf. Explose comme un œuf"</font>
+> 
 > A quelques mètres, un hurlement se fait entendre et des fragments de tissu cérébral viennent éclabousser un PJ. Un des PNJ vient de décéder. Une silhouette arachnéenne s'avance hors des ténèbres : six pattes d'os encadrant une énorme colonne vertébrale horizontale, qui se redresse à l'avant pour former un torse et des bras décharnés, surmontée d'une tête de goule monstrueuse. La créature tourne son crâne aveugle aux orbites vides, humant l'air dans votre direction en faisant claquer ses dents. Puis, elle clame dans un croassement atroce "Un, deux, trois. Qui veut jouer avec moi ?"
 
 - Il y a 3 ghûraghasta dans la caverne
@@ -37,7 +40,7 @@ L'unique sortie est un puits au sommet de la caverne, 15 mètres plus haut, par 
 
 Les PJs ont 1 round d'avance pour réagir, les goules se concentrent sur les PNJ. Ils peuvent récupérer des armes sur les cadavres qui jonchent le sol.
 
-- Escalader les alvéoles nécessite un test d'Athlétisme DD 15. Les jets de dextérité ont un désavantages du fait du charnier qu'il faut escalader.
+- Escalader les alvéoles nécessite un <font style="color:green">test d'Athlétisme DD 15</font>. Les jets de dextérité ont un désavantages du fait du charnier qu'il faut escalader.
 - Lancer des sorts est dangereux.
 
 Toma disparaitra dans la confusion, paralysé et enlevé par un ghûraghasta.
