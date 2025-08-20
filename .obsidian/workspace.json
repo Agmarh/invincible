@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "86d0c75b2f255b02",
+        "id": "2d13b72d8a62a982",
         "type": "tabs",
         "children": [
           {
-            "id": "2e500edc50b02e94",
+            "id": "5d0b65180a87b701",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -66,8 +66,8 @@
             "state": {
               "type": "starred",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Le module complémentaire n'est plus actif."
+              "icon": "lucide-ghost",
+              "title": "starred"
             }
           },
           {
@@ -160,8 +160,8 @@
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
+              "icon": "lucide-ghost",
+              "title": "DICE_ROLLER_VIEW"
             }
           },
           {
@@ -170,8 +170,8 @@
             "state": {
               "type": "initiative-tracker-view",
               "state": {},
-              "icon": "initiative-tracker",
-              "title": "Initiative Tracker"
+              "icon": "lucide-ghost",
+              "title": "initiative-tracker-view"
             }
           },
           {
@@ -183,6 +183,26 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "1badcdeaccf33cd1",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          },
+          {
+            "id": "2c08b389b9746b90",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
           }
         ],
         "currentTab": 6
@@ -193,21 +213,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Ouvrir le sélecteur rapide": false,
       "graph:Ouvrir la vue graphique": false,
       "canvas:Créer une nouvelle toile": false,
       "daily-notes:Ouvrir la note quotidienne": false,
       "templates:Insérer le modèle": false,
       "command-palette:Ouvrir la palette de commandes": false,
+      "obsidian-git:Open Git source control": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "obsidian-5e-statblocks:Open Creature Pane": false,
-      "templater-obsidian:Templater": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
-      "obsidian-git:Open Git source control": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "2e500edc50b02e94",
+  "active": "5d0b65180a87b701",
   "lastOpenFiles": [
     "Oblivion/Groupe/Gestion Compagnie.md",
     "Oblivion/Images/Plan citerne.jpg",
