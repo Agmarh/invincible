@@ -65,15 +65,18 @@ Ils aideront les PJ en tirant à l'arbalète sur les goules et en prenant au las
 
 ## 4 - La caverne des torturés
 
-Cette caverne est encore plus gigantesque que la précédente. Elle abrite des instruments de torture inconnus et monstrueux. Une trentaine de cadavres desséchés y sont crucifiés à l'envers, les yeux arrachés. Un jet de Perception DD10 révèle de nombreuses races humanoïdes et des corps anciens. En examinant leurs cicatrices, un jet d'Arcanes DD 15 apprend qu'ils ont subi les sorts blessures légères, contagion et soin des blessures légères.
+Cette caverne est encore plus gigantesque que la précédente. Elle abrite des instruments de torture inconnus et monstrueux. Une trentaine de cadavres desséchés y sont crucifiés à l'envers, les yeux arrachés. Un <font style="color:green">jet de Perception DD10</font> révèle de nombreuses races humanoïdes et des corps anciens. En examinant leurs cicatrices, un <font style="color:green">jet d'Arcanes DD 15</font> apprend qu'ils ont subi les sorts blessures légères, contagion et soin des blessures légères.
 
 ## 5 - La terrasse abandonnée
 
 Les PJ et Malathor sont les seuls survivants. Les mékhanôms guident les PJ à travers des grilles de fer qu'ils ont préalablement découpées et ils arrivent alors sur une terrasse solitaire ouverte sur Oblivion, plusieurs centaines de mètres au-dessus du sol !
 
-"Vous découvrez un paysage complètement inconnu. Sous un ciel nocturne piqueté d'étoiles dont vous ne reconnaissez aucune constellation, vous voyez les contours d'une fantastique cité, plus majestueuse que les plus grandes cités que avez pu visiter, avec des tours colossales et une architecture démente faites de pierre, d'obsidienne, de métal, certains toit sont parfois fait de diamant brut, ou d'or. Vous entendez l'echo de la mer, une mer étrange. Vous vous demandez où vous êtes tombé."
+> Vous découvrez un paysage complètement inconnu. Sous un ciel nocturne piqueté d'étoiles dont vous ne reconnaissez aucune constellation, vous voyez les contours d'une fantastique cité, plus majestueuse que les plus grandes cités que avez pu visiter, avec des tours colossales et une architecture démente faites de pierre, d'obsidienne, de métal, certains toit sont parfois fait de diamant brut, ou d'or. Vous entendez l'echo de la mer, une mer étrange. Vous vous demandez où vous êtes tombé.
 
-Si les PJ demandent à un gnomes : "Vous êtes en Oblivion enfin".
+Si les PJ demandent à un gnomes : 
+
+
+> "Vous êtes en Oblivion enfin"
 
 "Ne bougez pas. Nous allons vous sauver. Juste un instant !". Le gnome sort alors un petit miroir et semble s'adresser à l'image qui s'y forme. Vous entendez alors une voix aux accents métalliques tonner : "Hâte-toi de les faire dormir, mékhanôm. Je vais les renvoyer…"
 
