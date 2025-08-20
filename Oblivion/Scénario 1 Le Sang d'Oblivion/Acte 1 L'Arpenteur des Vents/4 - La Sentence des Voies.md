@@ -97,7 +97,7 @@ La gondolfière se brisera en bas du ravin.
 
 Fan'Goriah soignera les blessés. Malheureusement tout ce qui se trouvait à bord de la gondolfière a été soit pulvérisé par l'explosion soit détruit lors de la chute de celle-ci dans le ravin.
 
-Un <font style="color:green">test d'Investigation ou de Perception DD 18</font> permet de trouver une petit coffre intact dans lequel les PJ trouvent 80 gemmes de 100 po, 1500 po, 900 pp, des lunettes nocturnes et une perle de puissance.
+Un <font style="color:green">test d'Investigation ou de Perception DD 18</font> permet de trouver une petit coffre intact dans lequel les PJ trouvent 80 gemmes de 100 po, 1500 po, 900 pp, des lunettes nocturnes (chapeau de déguisement) et une perle de puissance (un ceinturon de force d'ogre).
 
 La mort de l'Arpenteur est perçue comme un drame à Ikhâr et les nains dressent un gigantesque buché funéraires en son honneur. Fan'Goriah refuse de laisser tomber la compagnie et s'appliquera à poursuivre le commerce de Löne Kernos. Elle proposera aux PJ de devenir ses associés (elle est seule et dispose de talents de comptable, pourquoi rester employée ?). Si les PJ acceptent, ils signeront les accords, sous la plume du scribe assermenté par l'Empire.
 
