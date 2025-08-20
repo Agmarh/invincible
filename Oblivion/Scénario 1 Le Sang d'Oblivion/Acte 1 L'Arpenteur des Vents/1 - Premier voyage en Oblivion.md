@@ -83,6 +83,6 @@ Les PJ et Malathor sont les seuls survivants. Les mékhanôms guident les PJ à 
 > Malathor dit alors : 
 > <font style="color:yellow">"Attendez ! D'autres vont arriver, je suis sûr que d'autres sont s'en sortir. J'entends quelqu'un courir… Par les tripes d'Azel-Liark, attendez !"</font>
 > 
-> <font style="color:yellow">"Nous n'avons plus le temps !"<font> répond le mékhanôm. Il s'approche du groupe et projette une poussière dorée dans votre direction. "Dormez… et sauvez-vous !".
+> <font style="color:yellow">"Nous n'avons plus le temps !"</font> répond le mékhanôm. Il s'approche du groupe et projette une poussière dorée dans votre direction. <font style="color:yellow">"Dormez… et sauvez-vous !".</font>
 > 
 > Au moment où vous sombrez dans le sommeil, vous voyez Toma qui se précipite hors de la caverne, poursuivi par une de ces goules.
