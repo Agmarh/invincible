@@ -18,9 +18,9 @@ Soudain le paysage explose !
 
 Vous vous sentez aspiré dans un tourbillon… Les os de votre crâne se mettent à vibrer, comme si vous voyagiez dans un carrosse lancé au galop… Vos tympans se distendent, prêts à éclater… Vous voyagez, une voix bestiale imprime ces mots dans votre crâne : 
 
-> Hâtez-vous, Rêveurs ! Votre chair m'est précieuse : venez souffrir au pays des chimères…
+> "Hâtez-vous, Rêveurs ! Votre chair m'est précieuse : venez souffrir au pays des chimères…"
 
-"" Puis un choc… Vous vous réveillez en sursaut, couverts de sueur, le cœur battant à cent à l'heure.
+Puis un choc… Vous vous réveillez en sursaut, couverts de sueur, le cœur battant à cent à l'heure.
 
 ## 1 - Geôle d'arrivée : La caverne d'os
 
