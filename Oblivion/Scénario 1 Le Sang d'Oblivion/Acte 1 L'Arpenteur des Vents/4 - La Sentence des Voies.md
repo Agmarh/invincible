@@ -12,9 +12,9 @@ Elle distribue de petits fragments fongiques et s'assure qu'ils les avalent :
 
 ><font style="color:yellow">"Ce champignon vient d'ailleurs. Il a jadis été importé par Löne Kernos. Ses propriétés multiples sont à la base de la richesse et de l'économie d'Ikhâr. Les chamans et les capitaines aéromarchands sont les seuls à connaître les secrets de sa culture. Enfermé dans de vastes proches de toile, sa fermentation dégage un gaz qui permet de gonfler les ballons des gondolfières. Il constitue ainsi la matière première des aéromarchands qui doivent renouveler leurs stocks chaque année."</font>
 
-<font style="color:yellow">"Le Khayolt pur n'a rien à voir avec le Khayolt distillé. Sa consommation régulière, à l'état brut, permet de percevoir le Chant des Vents, indispensable pour piloter les gondolfières. Cependant, les effets secondaires sont plus violents… voire mortels !"</font>
+> <font style="color:yellow">"Le Khayolt pur n'a rien à voir avec le Khayolt distillé. Sa consommation régulière, à l'état brut, permet de percevoir le Chant des Vents, indispensable pour piloter les gondolfières. Cependant, les effets secondaires sont plus violents… voire mortels !"</font>
 
-Chaque PJ subit un effet du Khayolt, il perd aussitôt 3d6 PV (jet de Sauvegarde de Constitution DD 15 pour réduire de moitié)
+Chaque PJ subit un [[Effets du Khayolt]], il perd aussitôt 3d6 PV (<font style="color:green">jet de Sauvegarde de Constitution DD 15</font> pour réduire de moitié)
 
 Fan'Goriah se montrera impressionnée par la vitalité des participants et le choix de l'Arpenteur. Elle leur expliquera que leur constitution est plus impressionnante que la moyenne. Les gens dit normaux en général finissent dans un état peu enviable, à vie.
 
@@ -30,8 +30,7 @@ Fan'Goriah annonce qu'ils doivent chevaucher un hippogriffe dressé et exécuter
 - Voler au-dessous d'une arche de pierre : DD 15
 - Se percher sur un pic : DD 15
 - Si échec la monture se cabre : DD 5 pour rester en selle
-
-- Sinon il tombe et subit 4d6 PV (jet de sauvegarde de Dextérité DD 12 pour subir la moitié)
+	- Sinon il tombe et subit 4d6 PV (jet de sauvegarde de Dextérité DD 12 pour subir la moitié)
 
 - Si les PJ refusent l'épreuve ils sont ramenés à Ikhâr
 
