@@ -66,3 +66,42 @@ Il faudra d'abord s'en montre digne et passer la Sentence des Voies, qui commenc
 S'ils ne veulent pas passer les épreuves, les capitaines seront ravis, Baron Blême les invitera à signer une "lettre de renoncement" et à quitter immédiatement Ikhâr. Ce document officiel précise que les PJ renonce aux 150 000 PO représentant les parts de l'Arpenteur.
 
 Le conseil ne peut répondre aux questions des PJ sur leur rêve.
+
+# Le Cercle de l'Acrobal
+Au départ simple baraquements entourant Point Zéro et accueillant les membres d'équipages, c'est un point de ralliement pour les artistes, équilibristes, aventuriers et vendeurs à la sauvette.
+
+## Ambiance du lieu
+
+Il y a de multitude de de tentes formant un labyrinthe grouillant d'activité. Un jet de Persuasion ou d'Investigation DD 13 permettra de dénicher quelques gnomes et demi-orques, pilleurs de tombes naines, prêts à revendre des parchemins magique :
+
+- 1d3 sorts de niveau 1 et 1 sort de niveau 2, 120 po le parchemin de niveau 1et 500 po pour le niveau 2
+- 1d4 potions et 1d3 objets magiques peu courants, 1000 po pour les objets peu courants. Persuasion ou Investigation DD 17 pour les trouver.
+
+## Péripéties
+
+La Mhäaria monte au ciel : concours d'adresse organisé en permanence par les acrobates de coque. Il faut traverser au plus vite un labyrinthe de cordage suspendu entre ciel et terre sans tomber dans une fosse qui retient deux tigres Taï-Taï. L'inscription est de 100 po mais quiconque traverse en 30 secondes ou moins remporte dix fois sa mise soit 1000 po. On ne peut gagner qu'une seule fois mais se réinscrire autant de fois qu'on veut. L'usage de la magie est interdit.
+
+- Un teste d'Athlétisme DD 12 puis un test d'Acrobatie DD 15 et un test d'Acrobatie DD 20.
+- Chaque étape dure un round
+
+- Si le PJ échoue mais que sa marge d'échec est inférieure à 5, il perd le round et doit réessayer le round suivant.
+- Si elle est supérieure à 5, il tombe dans la fosse et doit se battre contre les tigres.
+
+Les Cadavreux : Alors qu'une troupe de saltimbanques exhibe un vieil hibours enchainé, un nain jaillit et libère le monstre. Qui attaque immédiatement toute personne proche dont les PJ. L'assassin en profite pour tenter de tuer les PJ. S'ils parviennent à vaincre la créature, l'Acrobal organise en leur honneur une fête somptueuse et on leur offre la tête de la bête (d'une valeur de 3000 PO).
+
+# Le Cercle du Comptoir
+Les échoppes sont disséminées parmi les maisons basses en terre cuite des Ikhârians. On peut trouver de tout (marché aux vins, tanneries de peau de Taï-Taï, maison des forgerons, enclos à bestiaux etc…)
+
+## Ambiance du lieu
+
+Les nains autochtones revendre les hectolitres de vin fabriqués pendant l'année.
+
+Le vin de Khayolt, bon marché (5 pc le verre) à un goût soufré. La liqueur de Khayolt, très chère (1 po le verre), a la faveur des amateurs. Chacune des substances peut déclencher les effets secondaires.
+
+Les PJ peuvent acheter toute sorte d'équipements, des animaux (dont 2 hippogriffes sauvages à 1000 po chacun et 1 hippogriffe dressé à 4000 po) ou essayer le scarfing, un phénomène de mode qui consiste à se faire scarifier n'importe quelle partie du corps selon des motifs copiés chez les chamans (douloureux, moyennement esthétique, parfaitement inutile ; les jeunes adorent).
+
+## Péripéties
+
+Les Cadavreux : Ettin'Grinn et 3 autres nains tentent d'assassiner les PJs.
+
+# Le Cercle du Répit
