@@ -75,9 +75,13 @@ Les PJ et Malathor sont les seuls survivants. Les mékhanôms guident les PJ à 
 > 
 > Si les PJ demandent à un gnomes : <font style="color:yellow">"Vous êtes en Oblivion enfin"</font>
 > 
-> "Ne bougez pas. Nous allons vous sauver. Juste un instant !". Le gnome sort alors un petit miroir et semble s'adresser à l'image qui s'y forme. Vous entendez alors une voix aux accents métalliques tonner : "Hâte-toi de les faire dormir, mékhanôm. Je vais les renvoyer…"
+> <font style="color:yellow">"Ne bougez pas. Nous allons vous sauver. Juste un instant !"</font> 
 > 
-> Malathor dit alors : "Attendez ! Crie-t-il en serrant les dents. D'autres vont arriver, je suis sûr que d'autres sont s'en sortir. J'entends quelqu'un courir… Par les tripes d'Azel-Liark, attendez !"
+> Le gnome sort alors un petit miroir et semble s'adresser à l'image qui s'y forme. Vous entendez alors une voix aux accents métalliques tonner : 
+> <font style="color:yellow">"Hâte-toi de les faire dormir, mékhanôm. Je vais les renvoyer…"</font>
+> 
+> Malathor dit alors : 
+> <font style="color:yellow">"Attendez ! D'autres vont arriver, je suis sûr que d'autres sont s'en sortir. J'entends quelqu'un courir… Par les tripes d'Azel-Liark, attendez !"</font>
 > 
 > "Nous n'avons plus le temps !" répond le mékhanôm. Il s'approche du groupe et projette une poussière dorée dans votre direction. "Dormez… et sauvez-vous !".
 > 
