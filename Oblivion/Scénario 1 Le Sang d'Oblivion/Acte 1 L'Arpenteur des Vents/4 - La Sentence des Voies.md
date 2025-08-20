@@ -64,11 +64,11 @@ Au centre de la pièce se trouve un vieux chevalier elfe au regard d'ambre, appu
 > 
 > <font style="color:yellow">Vous l'avez presque tous ici déjà affronté, vous avez fait face à ses sbires. Vous avez fait face à un mal qui vit au cœur d'Oblivion, une déesse depuis longtemps oubliée que nous appelons l'Ecorcheuse. Rêveurs, ce mal veut nous exterminer, rayer notre peuple de la carte. Nos frères souffrent et meurent dans cette guerre qu'ELLE a déclenchée. Mais la fin est proche : Oblivion, le pays des chimères, VOTRE pays, est sur le point d'être libérée !</font>
 > 
-> Nous avons découvert l'existence d'une clé, la clé des Songes, qui permet d'ouvrir les portes d'Oblivion. L'Ecorcheuse, comme les autres Incarnins, les divinités qui règnent sur la cité en sont prisonniers mais aimerait pouvoir en sortir. Aujourd'hui, la quête de cette clé, la clé des Songes, Chiaroscuro, est primordiale.
+> <font style="color:yellow">Nous avons découvert l'existence d'une clé, la clé des Songes, qui permet d'ouvrir les portes d'Oblivion. L'Ecorcheuse, comme les autres Incarnins, les divinités qui règnent sur la cité en sont prisonniers mais aimerait pouvoir en sortir. Aujourd'hui, la quête de cette clé, la clé des Songes, Chiaroscuro, est primordiale.</font>
 > 
-> Je ne vous ai pas fait venir seulement pour hériter de ma modeste compagnie. Elle n'est qu'un moyen d'accomplir une grande quête, que je mène depuis des siècles. Cette compagnie me permet d'avoir la liberté de voyager sur tous les continents et de récupéré des fragments de Chiaroscuro.
+> <font style="color:yellow">Je ne vous ai pas fait venir seulement pour hériter de ma modeste compagnie. Elle n'est qu'un moyen d'accomplir une grande quête, que je mène depuis des siècles. Cette compagnie me permet d'avoir la liberté de voyager sur tous les continents et de récupéré des fragments de Chiaroscuro.</font>
 > 
-> Vous devez m'aider, revenir avec moi dans Oblivion, j'ai enfin découvert le moyen de localiser la clé des Songes. Nous devrons d'abord retrouver la Matrice et elle nous conduira droit jusqu'à elle…"
+> <font style="color:yellow">Vous devez m'aider, revenir avec moi dans Oblivion, j'ai enfin découvert le moyen de localiser la clé des Songes. Nous devrons d'abord retrouver la Matrice et elle nous conduira droit jusqu'à elle…"</font>
 
 A cet instant, un choc sourd ébranle la nef et on perçoit les clameurs d'un abordage. Löne Kernos se relève et indique au PJ qu'ils reprendront la conversation plus tard, quelque chose n'est pas normal. En remontant ils verront la gondolfière du Duc Morgus Montanera qui a percuté celle de l'Arpenteur. Lui, Baron Blême et 10 cadavreux ont pris d'assaut la gondolfière. Les 7 aéromarins à bord font ce qu'ils peuvent pour repousser l'assaut.
 
