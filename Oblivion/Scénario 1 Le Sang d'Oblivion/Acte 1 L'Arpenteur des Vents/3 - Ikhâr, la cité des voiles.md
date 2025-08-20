@@ -6,7 +6,6 @@
 > 
 > Vous êtes arrivés à Ikhâr, la Cité des Voiles. C'est du moins comme ça qu'on vous la décrit.
 
-  
 Les PJ peuvent rejoindre le village et commencer à discuter avec ses habitants pour apprendre quelques informations :
 
 - Ikhâr n'est qu'un modeste village la plupart de l'année, composé de quelques dizaines de bâtisses de terre séchée.
@@ -20,11 +19,8 @@ Les PJ peuvent rejoindre le village et commencer à discuter avec ses habitants 
 - Ce qui fait la réputation d'Ikhâr, c'est la réunion annuelle des aéromarchands. A chaque solstice d'hiver, les gondolfières reviennent. C'est l'occasion d'installer pendant 1 mois un impressionnant marché qui forme une petite ville temporaire de tentes et autre baraquements ambulants. De nombreux humanoïdes descendent des montagnes pour vendre leurs produits. La population triple, atteignant presque un millier de personnes. C'est ce qu'ils appellent la Grande Transaction
 
 - Les PJs apprennent que la Grande Transaction s'organise autour de 4 quartiers provisoires :
+	- Le Point Zéro est le centre névralgique de la Grande Transaction, comprend l'aire d'envol des gondolfières, siège d'une incessante activité, ainsi que la capitainerie.
+	- Le cercle de l'Acrobal entoure les aires d'envol. On y trouve les quartiers d'équipages. C'est aussi une zone où on trouve les charmeurs de serpents et les vendeurs à la sauvette.
+	- Le cercle du Comptoir est le lieu dédié au commerce. Ses échoppes saisonnières sont parcourues jour et nuit par une foule incessante.
+	- Le cercle du Répit est le plus extérieure. Quelques auberges ambulantes s'y partagent la clientèle, parmi les dernières bâtisses d'Ikhâr situées à la lisière du cercle.
 
-- Le Point Zéro est le centre névralgique de la Grande Transaction, comprend l'aire d'envol des gondolfières, siège d'une incessante activité, ainsi que la capitainerie.
-
-- Le cercle de l'Acrobal entoure les aires d'envol. On y trouve les quartiers d'équipages. C'est aussi une zone où on trouve les charmeurs de serpents et les vendeurs à la sauvette.
-
-- Le cercle du Comptoir est le lieu dédié au commerce. Ses échoppes saisonnières sont parcourues jour et nuit par une foule incessante.
-
-- Le cercle du Répit est le plus extérieure. Quelques auberges ambulantes s'y partagent la clientèle, parmi les dernières bâtisses d'Ikhâr situées à la lisière du cercle.
