@@ -12,8 +12,8 @@ Au moment où ils vont s'endormir, demander comment ils dorment, équipés ou pa
 > Ses ailes sont déchirées, comme les lambeaux d'un linceul. Son regard d'ambre a disparu, remplacé par deux billes couleur de sang. Votre cœur commence à battre la chamade, tandis que les gémissement perçus au cœur de votre rêve deviennent audibles. Ce ne sont pas des gémissements, ce sont des cris, des hurlements de douleur, synchronisés en une sorte de chant incantatoire et impie… Et il y a plus, il y a une ombre gigantesque, une présence vient d'entrer dans votre rêve !
 > Soudain le paysage explose !
 > Vous vous sentez aspiré dans un tourbillon… Les os de votre crâne se mettent à vibrer, comme si vous voyagiez dans un carrosse lancé au galop… Vos tympans se distendent, prêts à éclater… Vous voyagez, une voix bestiale imprime ces mots dans votre crâne : 
-> "Hâtez-vous, Rêveurs ! Votre chair m'est précieuse : venez souffrir au pays des chimères…"
-> Puis un choc… Vous vous réveillez en sursaut, couverts de sueur, le cœur battant à cent à l'heure.
+> <font style="color:yellow">"Hâtez-vous, Rêveurs ! Votre chair m'est précieuse : venez souffrir au pays des chimères…"</font>
+>  Puis un choc… Vous vous réveillez en sursaut, couverts de sueur, le cœur battant à cent à l'heure.
 
 
 
