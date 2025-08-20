@@ -73,21 +73,19 @@ Au centre de la pièce se trouve un vieux chevalier elfe au regard d'ambre, appu
 A cet instant, un choc sourd ébranle la nef et on perçoit les clameurs d'un abordage. Löne Kernos se relève et indique au PJ qu'ils reprendront la conversation plus tard, quelque chose n'est pas normal. En remontant ils verront la gondolfière du Duc Morgus Montanera qui a percuté celle de l'Arpenteur. Lui, Baron Blême et 10 cadavreux ont pris d'assaut la gondolfière. Les 7 aéromarins à bord font ce qu'ils peuvent pour repousser l'assaut.
 
 Le combat s'engage, à un moment, Toma sera pris d'une emprise folle, son corps va être pris de convulsion et il va se jeter sur Valkin pour l'étrangler. Si quelqu'un intervient, il dira avec une voix étrange : 
-
 > <font style="color:yellow">"Tu ne peux rien face à l'Ecorcheuse, vous n'êtes rien"</font>
 
 A ce moment ses chairs vont exploser, et de son cadavre s'extirpera une créature cauchemardesque qui se jettera sur l'Arpenteur, le saisira à un main :
-
 > <font style="color:yellow">"Parle-moi de cette Matrice !"</font>
 
 Le Ravageur va saisir une gemme noire et l'enfoncer dans le crâne de Löne Kernos : "Tu vas tout me dire".
 
 L'Arpenteur se tourne vers un PJ en lui jetant son épée et en lui disant : 
-<font style="color:yellow">"Parle-moi de cette Matrice !"</font>"Prenez ma Dame d'Ombre et sauvez-vous !"</f
+> <font style="color:yellow">"Prenez ma Dame d'Ombre et sauvez-vous !"</font>
 
 Le Ravageur va alors tordre le coup de l'Arpenteur, vous entendez le craquement de ses os. Vous voyez la gemme qui commence à pulser de plus en plus fort, le Ravageur lui éclate d'un rire épouvantable.
 
-Il faudra 4 rounds à la gemme pour exploser, 20d10 Dgt dans un rayon de 6m, 2d10 dgt dans un rayon de 15m, jet de sauvegarde de Constitution DD 15 pour ne subir la moitié.
+Il faudra 4 rounds à la gemme pour exploser, <font style="color:red">20d10 dgt</font> dans un rayon de 6m, <font style="color:red">2d10 dgt</font> dans un rayon de 15m, <font style="color:green">jet de sauvegarde de Constitution DD 15</font> pour ne subir la moitié.
 
 La coque de l'aéro-nef est éventrée et le vaisseau se met à "couler" dans la nuit. Il va falloir fuir.
 
