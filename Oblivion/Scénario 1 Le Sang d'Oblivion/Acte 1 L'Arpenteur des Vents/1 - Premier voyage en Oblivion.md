@@ -72,16 +72,13 @@ Cette caverne est encore plus gigantesque que la précédente. Elle abrite des i
 Les PJ et Malathor sont les seuls survivants. Les mékhanôms guident les PJ à travers des grilles de fer qu'ils ont préalablement découpées et ils arrivent alors sur une terrasse solitaire ouverte sur Oblivion, plusieurs centaines de mètres au-dessus du sol !
 
 > Vous découvrez un paysage complètement inconnu. Sous un ciel nocturne piqueté d'étoiles dont vous ne reconnaissez aucune constellation, vous voyez les contours d'une fantastique cité, plus majestueuse que les plus grandes cités que avez pu visiter, avec des tours colossales et une architecture démente faites de pierre, d'obsidienne, de métal, certains toit sont parfois fait de diamant brut, ou d'or. Vous entendez l'echo de la mer, une mer étrange. Vous vous demandez où vous êtes tombé.
-
-Si les PJ demandent à un gnomes : 
-
-
-> "Vous êtes en Oblivion enfin"
-
-"Ne bougez pas. Nous allons vous sauver. Juste un instant !". Le gnome sort alors un petit miroir et semble s'adresser à l'image qui s'y forme. Vous entendez alors une voix aux accents métalliques tonner : "Hâte-toi de les faire dormir, mékhanôm. Je vais les renvoyer…"
-
-Malathor dit alors : "Attendez ! Crie-t-il en serrant les dents. D'autres vont arriver, je suis sûr que d'autres sont s'en sortir. J'entends quelqu'un courir… Par les tripes d'Azel-Liark, attendez !"
-
-"Nous n'avons plus le temps !" répond le mékhanôm. Il s'approche du groupe et projette une poussière dorée dans votre direction. "Dormez… et sauvez-vous !".
-
-Au moment où vous sombrez dans le sommeil, vous voyez Toma qui se précipite hors de la caverne, poursuivi par une de ces goules.
+> 
+> Si les PJ demandent à un gnomes : <font style="color:yellow">"Vous êtes en Oblivion enfin"</font>
+> 
+> "Ne bougez pas. Nous allons vous sauver. Juste un instant !". Le gnome sort alors un petit miroir et semble s'adresser à l'image qui s'y forme. Vous entendez alors une voix aux accents métalliques tonner : "Hâte-toi de les faire dormir, mékhanôm. Je vais les renvoyer…"
+> 
+> Malathor dit alors : "Attendez ! Crie-t-il en serrant les dents. D'autres vont arriver, je suis sûr que d'autres sont s'en sortir. J'entends quelqu'un courir… Par les tripes d'Azel-Liark, attendez !"
+> 
+> "Nous n'avons plus le temps !" répond le mékhanôm. Il s'approche du groupe et projette une poussière dorée dans votre direction. "Dormez… et sauvez-vous !".
+> 
+> Au moment où vous sombrez dans le sommeil, vous voyez Toma qui se précipite hors de la caverne, poursuivi par une de ces goules.
