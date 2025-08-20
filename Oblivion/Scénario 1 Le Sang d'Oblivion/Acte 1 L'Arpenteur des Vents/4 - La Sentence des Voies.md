@@ -31,7 +31,6 @@ Fan'Goriah annonce qu'ils doivent chevaucher un hippogriffe dressé et exécuter
 - Se percher sur un pic : DD 15
 - Si échec la monture se cabre : DD 5 pour rester en selle
 	- Sinon il tombe et subit 4d6 PV (jet de sauvegarde de Dextérité DD 12 pour subir la moitié)
-
 - Si les PJ refusent l'épreuve ils sont ramenés à Ikhâr
 
 ## La Voie des Ombres
@@ -48,7 +47,8 @@ En continuant plus loin, les PJ trouveront 2 champignons sur les parois de la gr
 
 Fan'Goriah leur dira que l'autre groupe semble avoir eu plus de difficulté qu'eux, leurs vêtements sont ensanglanté, ils ont affrontés plusieurs Mante obscure.
 
-Lorsque les 3 épreuves sont passées, Fan'Goriah se retire dans le chariot pour communiquer avec Löne Kernos via des sorts. Les PJ ont quelques heures pour récupérer et se soigner. Lorsque Fan'Goriah ressort enfin, le soleil est en train de se coucher. Elle déclare : "L'Arpenteur des Vents arrive…"
+Lorsque les 3 épreuves sont passées, Fan'Goriah se retire dans le chariot pour communiquer avec Löne Kernos via des sorts. Les PJ ont quelques heures pour récupérer et se soigner. Lorsque Fan'Goriah ressort enfin, le soleil est en train de se coucher. Elle déclare : 
+> <font style="color:yellow">"L'Arpenteur des Vents arrive…"</font>
 
 ## La mort de l'Arpenteur des Vents
 
@@ -60,15 +60,15 @@ L'équipage va guider les PJ vers des escaliers qui descende vers une immense pi
 
 Au centre de la pièce se trouve un vieux chevalier elfe au regard d'ambre, appuyé sur une épée taillée dans un fragment de nuit :
 
-"Soyez les bienvenus, Rêveurs, chers frères et sœurs, c'est ici que s'achève votre quête, je vais enfin pouvoir répondre à toutes vos questions. Vous ne le savez pas, mais, comme moi, vous faites partie d'une lignée d'êtres exceptionnels, vous êtes tous des enfants d'Oblivion. Oblivion est une cité qui a été fermée, il y a surement des millénaire, son accès fut interdit. Oblivion a laissé derrière elle ses enfants, qui n'ont pu rentrer à temps. Et tous, d'une manière ou d'une autre, car vous avez entendu mon appel, vous êtes des Oubliés. Mais aujourd'hui, nous sommes pourchassés, les enfants d'Oblivion sont pourchassé. Combien d'entre vous ont peur de s'endormir le soir ? Combien ont perdu un parent, un enfant mystérieusement disparu pendant son sommeil ?
-
-Vous l'avez presque tous ici déjà affronté, vous avez fait face à ses sbires. Vous avez fait face à un mal qui vit au cœur d'Oblivion, une déesse depuis longtemps oubliée que nous appelons l'Ecorcheuse. Rêveurs, ce mal veut nous exterminer, rayer notre peuple de la carte. Nos frères souffrent et meurent dans cette guerre qu'ELLE a déclenchée. Mais la fin est proche : Oblivion, le pays des chimères, VOTRE pays, est sur le point d'être libérée !
-
-Nous avons découvert l'existence d'une clé, la clé des Songes, qui permet d'ouvrir les portes d'Oblivion. L'Ecorcheuse, comme les autres Incarnins, les divinités qui règnent sur la cité en sont prisonniers mais aimerait pouvoir en sortir. Aujourd'hui, la quête de cette clé, la clé des Songes, Chiaroscuro, est primordiale.
-
-Je ne vous ai pas fait venir seulement pour hériter de ma modeste compagnie. Elle n'est qu'un moyen d'accomplir une grande quête, que je mène depuis des siècles. Cette compagnie me permet d'avoir la liberté de voyager sur tous les continents et de récupéré des fragments de Chiaroscuro.
-
-Vous devez m'aider, revenir avec moi dans Oblivion, j'ai enfin découvert le moyen de localiser la clé des Songes. Nous devrons d'abord retrouver la Matrice et elle nous conduira droit jusqu'à elle…"
+> <font style="color:yellow">"Soyez les bienvenus, Rêveurs, chers frères et sœurs, c'est ici que s'achève votre quête, je vais enfin pouvoir répondre à toutes vos questions. Vous ne le savez pas, mais, comme moi, vous faites partie d'une lignée d'êtres exceptionnels, vous êtes tous des enfants d'Oblivion. Oblivion est une cité qui a été fermée, il y a surement des millénaire, son accès fut interdit. Oblivion a laissé derrière elle ses enfants, qui n'ont pu rentrer à temps. Et tous, d'une manière ou d'une autre, car vous avez entendu mon appel, vous êtes des Oubliés. Mais aujourd'hui, nous sommes pourchassés, les enfants d'Oblivion sont pourchassé. Combien d'entre vous ont peur de s'endormir le soir ? Combien ont perdu un parent, un enfant mystérieusement disparu pendant son sommeil ?</font>
+> 
+> <font style="color:yellow">Vous l'avez presque tous ici déjà affronté, vous avez fait face à ses sbires. Vous avez fait face à un mal qui vit au cœur d'Oblivion, une déesse depuis longtemps oubliée que nous appelons l'Ecorcheuse. Rêveurs, ce mal veut nous exterminer, rayer notre peuple de la carte. Nos frères souffrent et meurent dans cette guerre qu'ELLE a déclenchée. Mais la fin est proche : Oblivion, le pays des chimères, VOTRE pays, est sur le point d'être libérée !</font>
+> 
+> Nous avons découvert l'existence d'une clé, la clé des Songes, qui permet d'ouvrir les portes d'Oblivion. L'Ecorcheuse, comme les autres Incarnins, les divinités qui règnent sur la cité en sont prisonniers mais aimerait pouvoir en sortir. Aujourd'hui, la quête de cette clé, la clé des Songes, Chiaroscuro, est primordiale.
+> 
+> Je ne vous ai pas fait venir seulement pour hériter de ma modeste compagnie. Elle n'est qu'un moyen d'accomplir une grande quête, que je mène depuis des siècles. Cette compagnie me permet d'avoir la liberté de voyager sur tous les continents et de récupéré des fragments de Chiaroscuro.
+> 
+> Vous devez m'aider, revenir avec moi dans Oblivion, j'ai enfin découvert le moyen de localiser la clé des Songes. Nous devrons d'abord retrouver la Matrice et elle nous conduira droit jusqu'à elle…"
 
 A cet instant, un choc sourd ébranle la nef et on perçoit les clameurs d'un abordage. Löne Kernos se relève et indique au PJ qu'ils reprendront la conversation plus tard, quelque chose n'est pas normal. En remontant ils verront la gondolfière du Duc Morgus Montanera qui a percuté celle de l'Arpenteur. Lui, Baron Blême et 10 cadavreux ont pris d'assaut la gondolfière. Les 7 aéromarins à bord font ce qu'ils peuvent pour repousser l'assaut.
 
