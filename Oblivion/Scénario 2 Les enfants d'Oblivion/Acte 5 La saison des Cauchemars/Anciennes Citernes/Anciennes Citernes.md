@@ -1,6 +1,3 @@
----
-banner: "![[Oblivion 2 bannière.png]]"
----
 ![[Plan citerne.jpg]]
 Zones :
 - [[1 Les tunnels immergés]]

@@ -1,6 +1,3 @@
----
-banner: "![[Oblivion 2 bannière.png]]"
----
 Contrats, échanges, ventes, telles sont les uniques préoccupations des résidents de ce quartier. Ici, le commerce est roi, stimulé par les vertus thermales uniques du volcan, la proximité immédiate des riches clients des Hautes Strates et la multitude de pèlerins venus rendre hommage à leur culte dans le secteur voisin.
 
 À l’abri derrière les murs du Moratorium, établissements de bains et hammams côtoient les échoppes de « souvenirs » spirituels, véritables bazars d’une religiosité plus ou moins authentique. Il s’y rencontre à peu près tout ce que l’on peut imaginer en matière de pacotille de mauvais goût, mais il n’est pas rare d’y faire une véritable trouvaille...

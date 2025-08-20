@@ -1,6 +1,7 @@
 ---
-banner: "![[Oblivion 2 bannière.png]]"
-tags: [timeline, acte5]
+tags:
+  - timeline
+  - acte5
 ---
 # Les lieux
 Sous une gouaille et un zèle sans bornes, ce personnage rubicond cache des origines familiales peu avouables (du sang troll coule dans ses veines) qui lui ont toujours valu l’inimitié de ses pairs. Néanmoins, les chevaliers du Jugement (qui ont officieusement appuyé sa candidature) ont trouvé en la personne de Garibald un homme de paille facilement « sacrifiable », En effet, si l’autorité officielle d’Anthéone est représentée par le bailli, c’est l’Ordre qui, à son insu, le manipule pour garder le contrôle de la ville...

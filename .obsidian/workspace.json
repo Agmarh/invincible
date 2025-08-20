@@ -4,20 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2a30e527afbd8627",
+        "id": "86d0c75b2f255b02",
         "type": "tabs",
         "children": [
           {
-            "id": "120ecef360b3981b",
+            "id": "2e500edc50b02e94",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pokémon/Mont Mémorial.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nouvel onglet"
             }
           }
         ]
@@ -39,8 +36,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorateur de fichiers"
             }
           },
           {
@@ -55,7 +55,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Rechercher"
             }
           },
           {
@@ -63,7 +65,9 @@
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Le module complémentaire n'est plus actif."
             }
           },
           {
@@ -71,7 +75,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Signet"
             }
           }
         ]
@@ -87,7 +93,6 @@
       {
         "id": "e70e28c56220440f",
         "type": "tabs",
-        "dimension": 50.857142857142854,
         "children": [
           {
             "id": "c56cf9106d335454",
@@ -95,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pokémon/Mont Mémorial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +107,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Rétroliens"
             }
           },
           {
@@ -113,16 +119,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "12c473161a52aa97",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {}
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Mots-clés"
             }
           },
           {
@@ -131,16 +133,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pokémon/Mont Mémorial.md"
-              }
-            }
-          },
-          {
-            "id": "01a6d03023992708",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {}
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Plan"
             }
           },
           {
@@ -149,34 +147,49 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pokémon/Mont Mémorial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Liens sortants"
+            }
+          },
+          {
+            "id": "8f03eb45c9eb241d",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          },
+          {
+            "id": "906cfa4287017cc7",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          },
+          {
+            "id": "87ea7c8c51cee5cf",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 2
-      },
-      {
-        "id": "3d8f38c70e883ce6",
-        "type": "tabs",
-        "dimension": 49.142857142857146,
-        "children": [
-          {
-            "id": "22415a0d12e480ce",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-creature-view",
-              "state": {}
-            }
-          }
-        ]
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 402.5,
-    "collapsed": true
+    "width": 402.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,57 +202,59 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "obsidian-5e-statblocks:Open Creature Pane": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "120ecef360b3981b",
+  "active": "2e500edc50b02e94",
   "lastOpenFiles": [
-    "Pokémon/A FAIRE.md",
-    "Pokémon/Mont Mémorial.md",
-    "Pokémon/Moveset Pokémons.md",
-    "Pokémon/Ile de Jerseykara.md",
-    "Pokémon/CARTE.md",
+    "Oblivion/Groupe/Gestion Compagnie.md",
+    "Oblivion/Images/Plan citerne.jpg",
+    "Oblivion/Images/Oblivion 2 bannière.png",
+    "Oblivion/Images/Le poignard polymorphe.jpg",
+    "Oblivion/Images/La Faucheuse.jpg",
+    "Oblivion/Images/Guerrière Soong.jpg",
+    "Oblivion/Images/Gorm.jpg",
+    "Oblivion/Images/chevalier-dragon.jpg",
+    "Oblivion/Images/Anthéone.png",
+    "Oblivion/Objets Magiques/Lunettes nocturnes.md",
+    "Oblivion/Objets Magiques/Le poignard polymorphe.md",
+    "Oblivion/Objets Magiques/La Faucheuse.md",
+    "Oblivion/Objets Magiques/Gantelets de puissance d'ogre.md",
+    "Oblivion/Objets Magiques/Cape de protection.md",
+    "Oblivion/Objets Magiques/Cape de la chauve-souris.md",
+    "Oblivion/Objets Magiques/Bouclier animé.md",
+    "Oblivion/Objets Magiques/Boucle d'oreille de Mysdora.md",
+    "Oblivion/Objets Magiques/Bottes elfiques.md",
+    "Oblivion/Objets Magiques/Bâton de combat.md",
+    "Oblivion/PDF/Oblivion 2 Les enfants d'Oblivion.pdf",
+    "Oblivion/PDF/Oblivion 1 Le sang d'Oblivion.pdf",
+    "Oblivion/PDF/Le Cauchemar.pdf",
+    "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Timeline.md",
+    "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Introduction.md",
+    "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Anthéone.md",
+    "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Affronter Bâal.md",
+    "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/4 - La fin des Cauchemars.md",
+    "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/3 - Terreur sur la Cité Sainte.md",
+    "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/2 - Sur la route de la Cité Sainte.md",
+    "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/1 - Enquête morbide et mortelles tracasseries.md",
+    "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Les Marches Sacrées/MS3 Les Saintes Concubines.md",
+    "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Les Marches Sacrées/MS2 Temples et autres lieux de culte.md",
+    "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Les Marches Sacrées/MS1 La résidence de Malathor.md",
+    "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Les Marches Sacrées/Les Marches Sacrées.md",
+    "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Les Hautes Strates/Les Hautes Strates.md",
+    "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Les Hautes Strates/HS2 La demeure du Barde Faustit Farendhell.md",
+    "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Les Hautes Strates/HS1 Le Bailli Garibald Bartok.md",
     "Invincible/Images/remix-416bd1a3-5007-4030-8443-1484d49cdde5.png",
-    "Pokémon/Recettes.md",
-    "Invincible/Scénario 3 Les racines du mal/III - Le Grand Oral.md",
-    "Invincible/Scénario 3 Les racines du mal/Le Talmeg.md",
-    "Invincible/Scénario 3 Les racines du mal/I - Sacrifice.md",
-    "Invincible/Scénario 3 Les racines du mal/Lieux/Hauvre.md",
-    "Invincible/Scénario 3 Les racines du mal/Lieux/Ile de l'Oratoire.md",
-    "Invincible/Scénario 3 Les racines du mal/II - Hauvre.md",
-    "Invincible/Scénario 3 Les racines du mal/Le grand conseil.md",
-    "Animain/JDR/Chapitre 1.md",
-    "Pokémon/Recherches pokémons.md",
     "Invincible/Scénario 3 Les racines du mal/Lieux",
-    "Invincible/Personnages/Scénario 3/Le.md",
-    "Invincible/Personnages/Scénario 3/Praegar, Guerok de Hauvre.md",
-    "Invincible/Personnages/Scénario 3/Loknir, Khâl de Hauvre.md",
-    "Invincible/Personnages/Scénario 3/Sélona.md",
-    "Invincible/Bestiaire/Sanglier géant.md",
-    "Invincible/Bestiaire/Elan géant.md",
-    "Invincible/Bestiaire/Ours polaire.md",
-    "Template/Monstre.md",
-    "Invincible/Bestiaire/Serpent constricteur géant.md",
-    "Invincible/Personnages/Ea Créatures monstrueuses.md",
-    "Invincible/Personnages/Clovik.md",
     "Invincible/Scénario 3 Les racines du mal",
     "Invincible/Personnages/Scénario 3",
     "Invincible/PDF/hd_04_invincible_web_v1.pdf",
     "Invincible/PDF/hd_04_invincible_web_v1 1.pdf",
     "Invincible/PDF",
-    "Oblivion/Images/Anthéone.png",
-    "Oblivion/Images/Oblivion 2 bannière.png",
-    "Oblivion/Images/Plan citerne.jpg",
     "Oblivion/Images/Oblivion 2.png",
-    "Oblivion/Images/Le poignard polymorphe.jpg",
-    "Oblivion/Images/La Faucheuse.jpg",
-    "Oblivion/Images/Katanga.png",
-    "Oblivion/Images/Guerrière Soong.jpg",
-    "Oblivion/Images/Gorm.jpg",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Anciennes Citernes",
-    "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/L'Oratoire du Jugement",
-    "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Les Hautes Strates",
-    "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Le Moratorium",
     "Oblivion/PNJ/Sans titre.canvas"
   ]
 }

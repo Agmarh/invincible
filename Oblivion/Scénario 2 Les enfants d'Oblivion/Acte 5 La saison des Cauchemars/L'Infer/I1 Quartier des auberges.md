@@ -1,6 +1,7 @@
 ---
-banner: "![[Oblivion 2 bannière.png]]"
-tags: [timeline, acte5]
+tags:
+  - timeline
+  - acte5
 ---
 # Les lieux
 Ce quartier aux ruelles étroites compose une étrange juxtaposition d’établissements hôteliers aux prestations très inégales. À moins d’être invité par un commerçant de [[la Terrasse des Mille Négoces]] ou hébergé par sa congrégation dans [[les Marches Sacrées]], les voyageurs se retrouvent forcément ici pour le gîte et le couvert.

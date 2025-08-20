@@ -1,6 +1,3 @@
----
-banner: "![[Oblivion 2 bannière.png]]"
----
 Les PJ peuvent être invité à participer à une chasse aux Mange-Glace. Nevilynn se verra offrir une armure en cuir de Mange-Glace (Cuirasse 15 CA Pas de désavantage).
 
 Les PJ arrivent au village Skïam et sont acceuilli par le doyen, pour les remercier d’avoir ouvert un comptoir, ils sont invités à participer à une chasse au Mange-glace avec les plus valeureux chasseurs de la tribu (2 Barbares et 2 Guerriers).

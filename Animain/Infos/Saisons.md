@@ -1,1 +1,0 @@
-4 saisons : Fleur (printemps), chaleur (été), mort (automne), grand froid (hiver)

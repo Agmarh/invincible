@@ -1,6 +1,7 @@
 ---
-banner: "![[Oblivion 2 bannière.png]]"
-tags: [timeline, acte5]
+tags:
+  - timeline
+  - acte5
 ---
 L’ancienne citerne creusée par le nain Hâz Farâzon n’a rien perdu de sa magnificence d’antan. Elle comprend un vaste bassin (profondeur 6m), d’où jaillissent douze colonnes de basalte, toutes ornées de sa signature runique.
 

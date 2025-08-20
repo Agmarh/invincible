@@ -29,6 +29,3 @@ Coût d'entretien 52 po par jour.
     -   Carcéa
     -   Progodemos
     -   Kayée
-    -   Skiam
-
-0 jours.

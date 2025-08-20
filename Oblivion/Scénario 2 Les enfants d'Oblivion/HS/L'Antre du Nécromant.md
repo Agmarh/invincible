@@ -1,6 +1,3 @@
----
-banner: "![[Oblivion 2 bannière.png]]"
----
 En parlant à Rodrik, celui-ci s'assurera que les PJ ne fassent pas parti du Culte de Justicaar, qui font très attention à ce que la magie reste... encadrée.
 
 Il précisera aux PJ que la grotte est en fait l'ancien laboratoire de son maître, un médecin qui

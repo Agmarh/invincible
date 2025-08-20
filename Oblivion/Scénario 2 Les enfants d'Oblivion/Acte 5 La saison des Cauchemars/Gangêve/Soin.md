@@ -1,6 +1,3 @@
----
-banner: "![[Oblivion 2 bannière.png]]"
----
 * En cas d’hallucinations (stade 2 et plus), une tierce personne doit réussir immédiatement un jet de compétence de Médecine (DD identique au jet de sauvegarde/constitution quotidien de la victime). La phase de « confusion » est alors supprimée, et la durée de l’état « secoué » réduite de moitié.
 
 - Un sort de neutralisation du poison ralentit l’évolution de la gangrêve pendant 24 h (pas de nouveau jet de sauvegarde/constitution au bout de 24 h), à condition de réussir un jet de lanceur de sort (1d20 + caractéristique magique + bonus de maîtrise, contre DD identique au jet de sauvegarde/constitution quotidien de la victime).

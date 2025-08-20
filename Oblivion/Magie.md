@@ -1,6 +1,3 @@
----
-banner: "![[Oblivion 2 bannière.png]]"
----
 # Oblivion
 
 La magie est imprégnée du chaos qu'il règne dans la cité :

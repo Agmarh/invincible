@@ -1,1 +1,0 @@
-Nous vivons dans le continent d'Arten, qui a pour capitale la ville d'Arten.

@@ -1,6 +1,7 @@
 ---
-banner: "![[Oblivion 2 bannière.png]]"
-tags: [timeline, acte5]
+tags:
+  - timeline
+  - acte5
 ---
 Dans cette salle étaient jadis suspendues des amphores contenant des eaux de vie en maturation. D’innombrables chaînes pendent du plafond (10 m de haut), jusqu’à terre, cliquetant doucement. 
 

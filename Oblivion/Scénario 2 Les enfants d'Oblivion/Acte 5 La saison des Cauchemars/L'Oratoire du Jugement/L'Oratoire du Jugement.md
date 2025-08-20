@@ -1,6 +1,3 @@
----
-banner: "![[Oblivion 2 bannière.png]]"
----
 # Les lieux
 Close par les parois déchiquetées et mangées de verdure de l’ancien cratère, la citadelle de l’Ordre de Justicaar est ceinte par une formidable muraille de granit sombre. Son accès est limité par une étrange porte sphérique de six mètres de diamètre, représentant le symbole de l’Ordre : un cercle entourant une croix gigantesque. 
 

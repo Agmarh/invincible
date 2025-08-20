@@ -1,1 +1,0 @@
-50 composants pour améliorer un équipement

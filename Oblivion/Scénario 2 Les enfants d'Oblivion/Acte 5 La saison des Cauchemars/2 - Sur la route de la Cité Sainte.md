@@ -1,6 +1,3 @@
----
-banner: "![[Oblivion 2 bannière.png]]"
----
 # L’attaque de la caravane elfique
 Un matin, à deux jours de la ville, les PJ aperçoivent au loin une colonne de fumée. En s’approchant, ils observent une demi-douzaine de chariots disposés en cercle, dont deux sont la proie des flammes, assaillis par une horde de créatures hurlantes.
 

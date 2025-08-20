@@ -1,6 +1,3 @@
----
-banner: "![[Oblivion 2 bannière.png]]"
----
 En temps ordinaire, quatre gardes d’[[Azmän Sagdïn]] guettent ici dans la pénombre. Mais il ne se passe pas grand-chose et ils préfèrent se tenir à l’écart du passage des ravageurs, en faisant confiance à « l’alarme naturelle » des champignons criards. Aussi passent-ils le plus clair de leur temps à tromper leur peur en jouant aux cartes, en salle 6. 
 
 Ils ne sont à leur poste qu’aux moments où Azmän est le plus susceptible de passer, c’est-à-dire après son travail officiel (de 20h à 4h du matin). Ils permutent tous les trois jours avec les gardes de la maison d’Azmän (J3, J6).

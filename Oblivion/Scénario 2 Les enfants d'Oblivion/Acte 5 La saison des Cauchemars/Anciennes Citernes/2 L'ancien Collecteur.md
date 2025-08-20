@@ -1,6 +1,3 @@
----
-banner: "![[Oblivion 2 bannière.png]]"
----
 Sculptée par d’anciens ingénieurs nains, cette salle impressionnante étire son plafond jusqu’à 12 m. L’eau occupant sa partie inférieure brille d’une lueur glauque. Cette lueur provient d’une rune, gravée sur la base immergée de la colonne de soutènement : signature du grand architecte Hâz Farâzon (idem sort [[Lumière]], permanent). 
 
 Des centaines de petits conduits s’abouchent sur les parois du collecteur, certains déversent des ruisselets, d’autres sont asséchés. Trois de ces conduits sont de véritables tunnels (idem 1), et vomissent de petites cascades. 
