@@ -24,3 +24,45 @@ Les PJ peuvent rejoindre le village et commencer à discuter avec ses habitants 
 	- Le cercle du Comptoir est le lieu dédié au commerce. Ses échoppes saisonnières sont parcourues jour et nuit par une foule incessante.
 	- Le cercle du Répit est le plus extérieure. Quelques auberges ambulantes s'y partagent la clientèle, parmi les dernières bâtisses d'Ikhâr situées à la lisière du cercle.
 
+# Le Point Zéro
+Situé au centre d'Ikhâr; c'est une vaste cuvette de 400m de diamètre et de 2m de profondeur.
+## L'ambiance
+
+Siège d'un ballet aérien : tournoiement d'hippogriffes tirant sur leurs entraves en poussant des cris, nacelles de chargement montant de descendant le long de cordage amarrés aux vaisseaux du ciel ou encore des gondolfières qui manœuvre.
+
+A terre, on peut apercevoir des marins triant les cargaisons, des négociants tentant d'obtenir une entrevue avec un capitaine aéromarchand, des flux de marchandises entre les vaisseaux et la zone commerciale…
+
+## Rumeurs et informations
+
+Un roleplay efficace auprès d'aéromarins alcoolisés, dockers nains, contremaîtres corruptibles etc… et quelques jets d'Investigation ou de Persuasion permettent d'obtenir les infos suivantes :
+
+- 5-7. La Compagnie des vaisseaux du vent, qui n'est qu'une confrérie marchande, a été créée il y a à peine une dizaine d'année par Löne Kernos. Elle compte 4 capitaines, une trentaine de "compagnons du vent" (aéromarins, scribes, gardes) et de nombreux saisonniers (mercenaires, dockers, serviteurs). La flotte compte 6 gondolfières. Elle dessert une dizaine de comptoirs fixes, dont Ikhâr, et beaucoup de destinations occasionnelles.
+
+- 8-9. La compagnie a du mal à se développer face aux guildes terrestres et maritimes et elle subit beaucoup de "tracasseries" (interdiction de survol, taxes d'atterrissage, sabotages etc…). Elle est souvent obligée de travailler aux frontières de la légalité.
+
+- 10-13. La compagnie survie grâce aux avantages unique qu'elle offre (rapidité, lien avec des lieux inaccessible), aux subventions de quelques souverains et surtout grâce à ses capitaines. Beaucoup se sont succédé au sein de la compagnie et beaucoup ont une réputation d'impitoyables négociants. Les 2 plus anciens (outre Löne Kernos) sont le duc Morgus Montanera et Baron Blême.
+
+- 14-17. Devenir capitaine est très difficile. Il faut être sélectionné par l'Arpenteur des Vents, le candidat doit faire partie de l'équipage d'un vaisseau pendant 1 an et occuper toutes les fonctions. Il doit ensuite se soumettre à la Sentence des Voies : trois épreuves qu'il devra surmonter. On raconte que cette année, l'Arpenteur des Vents compte autoriser des étrangers à passer directement ces épreuves.
+
+- 18-20. Nombreux sont les capitaines qui sont morts, le poste implique de consommer régulièrement du Khayolt pur. Indispensable pour connaître le Chant des Vents pour guider sa gondolfière. Le Khayolt affecte aussi les cellules chromatiques des yeux : c'est pourquoi les capitaines se reconnaissent à la couleur de leur yeux fait d'ambre pur.
+
+- 21+. Löne Kernos est une sorte de Chevalier marchand. Il n'apparaît pas en public et vit sur sa Gondolfière-palais, en constant déplacement. Personne ne sait où elle se trouve, elle est protégé par de puissants sorts de non-détection. Elle rejoindra Ikhâr dans 2 jours. L'Arpenteur est un vieil elfe, bienveillant et fortuné mais un peu mystérieux et paranoïaque. La seule personne qui partage sa vie est sa redoutable épée noire, qu'il appel sa "Dame d'Ombre". Une arme terrifiante capable de tuer d'un seul coup.
+
+# La Capitainerie
+Aménagée dans l'épave d'un galion, c'est aujourd'hui une immense demeure garantissant le repos et l'intimité des capitaines.
+
+Les 6 gardes de la compagnie sont postés à l'entrée et laisserons les PJ entrer s'ils demandent à voir le vieux chevalier aux yeux d'ambres qui les a convoqués. Sinon ils seront violemment repoussés car le Duc a stimulé les gardes. Il faudra plusieurs morts en cas de combat avant qu'un capitaine n'intervienne et fasse entrer les PJ en s'excusant.
+
+A l'intérieur les PJ découvrent 3 capitaines chargés par Löne Kernos d'accueillir les PJ :
+
+- Le "Duc" Morgus Montanera : redoutable séducteur, titre factice, habillé de beaux vêtements, une rapière à sa ceinture.
+- Baron Blême : un demi-orque albinos, belliqueux, use de sa force pour obtenir les trocs les plus avantageux avec les tribus sauvages.
+- Fan'Goriah : prêtresse humaine de 45ans, d'une grande classe, elle vénère Aeva, la déesse de la guérison et de la médecine et sait se montrer impitoyable avec élégance. Femme de confiance de l'Arpenteur, elle tient les comptes de la compagnie.
+
+Les capitaines annonceront aux PJ que leur leader, l'Arpenteur des Vents, les a choisis pour hériter de ses parts -largement majoritaires - au sein de la guilde. Les PJ vont devenir les nouveaux patrons de la Compagnie des Vaisseaux du Vent.
+
+Il faudra d'abord s'en montre digne et passer la Sentence des Voies, qui commencent dans deux jours. Les Capitaines invitent les PJ à patienter tous frais payés dans l'auberge de l'Hallucinose situé dans le cercle du Répit.
+
+S'ils ne veulent pas passer les épreuves, les capitaines seront ravis, Baron Blême les invitera à signer une "lettre de renoncement" et à quitter immédiatement Ikhâr. Ce document officiel précise que les PJ renonce aux 150 000 PO représentant les parts de l'Arpenteur.
+
+Le conseil ne peut répondre aux questions des PJ sur leur rêve.
