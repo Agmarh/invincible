@@ -11,10 +11,24 @@
             "id": "5d0b65180a87b701",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Oblivion/Bestiaire/Âme-en-peine.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "title": "Âme-en-peine"
             }
           }
         ]
@@ -229,6 +243,9 @@
   },
   "active": "5d0b65180a87b701",
   "lastOpenFiles": [
+    "Annexe/Tours de magie.md",
+    "Annexe/Sorts de niveau 2.md",
+    "Annexe/Sorts de niveau 1.md",
     "Oblivion/Groupe/Gestion Compagnie.md",
     "Oblivion/Images/Plan citerne.jpg",
     "Oblivion/Images/Oblivion 2 bannière.png",
@@ -263,9 +280,6 @@
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Les Marches Sacrées/MS2 Temples et autres lieux de culte.md",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Les Marches Sacrées/MS1 La résidence de Malathor.md",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Les Marches Sacrées/Les Marches Sacrées.md",
-    "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Les Hautes Strates/Les Hautes Strates.md",
-    "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Les Hautes Strates/HS2 La demeure du Barde Faustit Farendhell.md",
-    "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Les Hautes Strates/HS1 Le Bailli Garibald Bartok.md",
     "Invincible/Images/remix-416bd1a3-5007-4030-8443-1484d49cdde5.png",
     "Invincible/Scénario 3 Les racines du mal/Lieux",
     "Invincible/Scénario 3 Les racines du mal",
