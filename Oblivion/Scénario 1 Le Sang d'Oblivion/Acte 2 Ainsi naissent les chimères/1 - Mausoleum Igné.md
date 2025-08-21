@@ -43,17 +43,17 @@ Les PJ peuvent expliquer la mort de Löne Kernos et peuvent poser des questions 
 > <font style="color:yellow">"Oblivion est un pays empli de chimères... Certaines gens du Vrai Monde, comme vous, pensent qu'il s'agit d'une sorte d'univers des rêves. D'autres, plus souvent, nous identifient au pays des cauchemars. Nous n'avons pas de certitude, mais je peux vous assurer que nous sommes tout à fait réels ! Et si vous mourez ici, vous ne rentrerez jamais dans votre monde.</font> 
 > <font style="color:yellow">Pour nous, Oblivion est avant tout une prison. Aucun Oblivien, ni aucune personne du Vrai Monde, ne peut plus entrer ni sortir d'ici depuis des siècles. Vous êtes un cas particulier, qui nous a demandé une formidable énergie. Et vous êtes notre unique espoir de libération..."</font>
 
-## Concernant la guerre :
+## Les incarnins :
 
 > <font style="color:yellow">"Les Incarnins ? Nous sommes les plus anciennes et les plus puissantes créatures de cet univers, voilà tout. Il n'existe, ni dans nos mémoires, ni dans aucun ouvrage de notre connaissance, aucune référence aux origines réelles d'Oblivion ou à notre création."</font>
 
 ## Concernant le Ravageur :
 
-"Nous supposons que c'est l'agent dont l'Ecorcheuse se sert pour accomplir ses sales besognes dans le Vrai Monde, une monstruosité issue de nombreuses expériences contre nature qu'elle développe dans sa citadelle d'Alba-Secundum."
+> <font style="color:yellow">"Nous supposons que c'est l'agent dont l'Ecorcheuse se sert pour accomplir ses sales besognes dans le Vrai Monde, une monstruosité issue de nombreuses expériences contre nature qu'elle développe dans sa citadelle d'Alba-Secundum."</font>
 
 ## Le rôle des PJ :
 
-"Löne Kernos était le plus noble et le plus loyal représentant des Oubliés. Il travaillait sous notre tutelle. Il tentant de retrouver d'autres Oubliés. Et surtout, il recherchait Chiaroscuro depuis des années. L'Arpenteur devait revenir avec un groupe de gens courageux sélectionnés pour l'assister. Il n'est plus parmi nous, mais vous voilà, prêts à reprendre sa quête ! Nous savons qu'il avait trouvé un indice important. Il s'apprêtait à nous le révéler..."
+> <font style="color:yellow">"Löne Kernos était le plus noble et le plus loyal représentant des Oubliés. Il travaillait sous notre tutelle. Il tentait de retrouver d'autres Oubliés. Et surtout, il recherchait Chiaroscuro depuis des années. L'Arpenteur devait revenir avec un groupe de gens courageux sélectionnés pour l'assister. Il n'est plus parmi nous, mais vous voilà, prêts à reprendre sa quête ! Nous savons qu'il avait trouvé un indice important. Il s'apprêtait à nous le révéler..."</font>
 
 PJ Réticents ?
 - Sérénité est un être irrésistible. Ceux qui s'attachent à elle accepteront la quête et entraîneront les autres.
