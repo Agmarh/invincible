@@ -2,18 +2,17 @@
 > 
 > Vous entendez soudain le piétinement lourd sur le sol, vous sentez une odeur âcre de sueur animal. Une ombre vous recouvre, vous voyez un tigre noir à dent de sabre, dont la silhouette dépasse largement celle d'un éléphant. Sa robe couleur nuit est parsemée d'éclats de gemmes, ses griffes sont faites de diamant pur. Un ronronnement gronde.
 > 
-> <font style="color:yellow">"Du calme, Spark. Tu vois bien que ce sont des amis"</font> annonce une voix enfantine. Assise en tailleur sur le dos de la bête, vous voyez une petite fille d'une dizaine d'années, le menton appuyé sur ses mains, une épée de bois posée sur les genoux. Elle se redresse et saute jusqu'à vos pieds et commence à exécuter quelques moulinets avec son épée : "Yaaaa, Yaaa !". Puis elle s'arrête devant un PJ "gentil" (Loyal Bon de préférence).
+> <font style="color:yellow">"Du calme, Spark. Tu vois bien que ce sont des amis"</font> annonce une voix enfantine. Assise en tailleur sur le dos de la bête, vous voyez une petite fille d'une dizaine d'années, le menton appuyé sur ses mains, une épée de bois posée sur les genoux. Elle se redresse et saute jusqu'à vos pieds et commence à exécuter quelques moulinets avec son épée : <font style="color:yellow">"Yaaaa, Yaaa !"</font>. Puis elle s'arrête devant un PJ "gentil" (Loyal Bon de préférence).
 > 
-> Un aura de puissance incroyable émane de la petite fille : "Bonjour, je suis Sérénité ! Vous êtes venus du Vrai Monde pour me délivrer ? Vous devez être de vaillants chevaliers. Yaaaa, Yaaaa"
+> Un aura de puissance incroyable émane de la petite fille : <font style="color:yellow">"Bonjour, je suis Sérénité ! Vous êtes venus du Vrai Monde pour me délivrer ? Vous devez être de vaillants chevaliers. Yaaaa, Yaaaa"</font>
 > 
 > Elle continue ses moulinets en entamant une danse gracieuse autour de vous.
 
-- Jet de sauvegarde de Charisme DD 20
+- <font style="color:green">Jet de sauvegarde de Charisme DD 20</font>
+	- Ceux qui échouent s'attachent aussitôt à Sérénité comme si elle était la personne la plus importante de l'univers à leurs yeux. Pour eux, elle est l'incarnation des rêves de pureté et d'innocence. Ils savent désormais qu'ils seront prêt à tout pour la protéger, car elle représente l'étincelle de bonté présente au cœur de chaque créature vivante.
+	- Les autres perçoivent clairement la puissance respectable de l'entité qui leur fait face, et sentent son incroyable bonté.
 
-- Ceux qui échouent s'attachent aussitôt à Sérénité comme si elle était la personne la plus importante de l'univers à leurs yeux. Pour eux, elle est l'incarnation des rêves de pureté et d'innocence. Ils savent désormais qu'ils seront prêt à tout pour la protéger, car elle représente l'étincelle de bonté présente au cœur de chaque créature vivante.
-- Les autres perçoivent clairement la puissance respectable de l'entité qui leur fait face, et sentent son incroyable bonté.
-
-"Alors, allez-vous répondre, au lieu de me regarder avec ces yeux ronds ?", puis son visage se durcit soudainement "Mais ce n'est pas le moment de jouer, puisque vous êtes venus nous sauver, moi Sérénité, et puis tout Oblivion. Alors, suivez-moi ! Grand-Père Réghûlus va se fâcher si je ne vous amène pas tout de suite. Ce n'est pas mon grand-père en vrai, hein, n'empêche que s'il se fâche…" Elle s'éloigne.
+> <font style="color:yellow">"Alors, allez-vous répondre, au lieu de me regarder avec ces yeux ronds ?", puis son visage se durcit soudainement "Mais ce n'est pas le moment de jouer, puisque vous êtes venus nous sauver, moi Sérénité, et puis tout Oblivion. Alors, suivez-moi ! Grand-Père Réghûlus va se fâcher si je ne vous amène pas tout de suite. Ce n'est pas mon grand-père en vrai, hein, n'empêche que s'il se fâche…"</font> Elle s'éloigne.
 
 Elle guide les PJ jusqu'aux limites du jardin, où deux gnomes mécaniques attendent devant ce qui semble être une falaise donnant sur la mer.
 
