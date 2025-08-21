@@ -56,81 +56,9 @@
               "icon": "lucide-file",
               "title": "Serpent Lacustre"
             }
-          },
-          {
-            "id": "b078c68f21713feb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Squelettes.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Squelettes"
-            }
-          },
-          {
-            "id": "4c9400390f136c94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Oblivion/Bestiaire/Squelette aquatique.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Squelette aquatique"
-            }
-          },
-          {
-            "id": "2266cbbf233487d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Annexe/Règles/Épuisé.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Épuisé"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -340,11 +268,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4c9400390f136c94",
+  "active": "7609db25325330ec",
   "lastOpenFiles": [
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Squelettes.md",
-    "Annexe/Règles/Épuisé.md",
     "Oblivion/Bestiaire/Squelette aquatique.md",
+    "Annexe/Règles/Épuisé.md",
     "Oblivion/Bestiaire/Golem de chair.md",
     "Oblivion/Bestiaire/Hydre zombie.md",
     "Oblivion/Bestiaire/Grand Nômage.md",
