@@ -40,12 +40,12 @@ Les PJ peuvent expliquer la mort de Löne Kernos et peuvent poser des questions 
 # Explications
 ## Oblivion :
 
-> <font style="color:yellow">"Oblivion est un pays empli de chimères... Certaines gens du Vrai Monde, comme vous, pensent qu'il s'agit d'une sorte d'univers des rêves. D'autres, plus souvent, nous identifient au pays des cauchemars. Nous n'avons pas de certitude, mais je peux vous assurer que nous sommes tout à fait réels ! Et si vous mourez ici, vous ne rentrerez jamais dans votre monde.
-> Pour nous, Oblivion est avant tout une prison. Aucun Oblivien, ni aucune personne du Vrai Monde, ne peut plus entrer ni sortir d'ici depuis des siècles. Vous êtes un cas particulier, qui nous a demandé une formidable énergie. Et vous êtes notre unique espoir de libération..."</font>
+> <font style="color:yellow">"Oblivion est un pays empli de chimères... Certaines gens du Vrai Monde, comme vous, pensent qu'il s'agit d'une sorte d'univers des rêves. D'autres, plus souvent, nous identifient au pays des cauchemars. Nous n'avons pas de certitude, mais je peux vous assurer que nous sommes tout à fait réels ! Et si vous mourez ici, vous ne rentrerez jamais dans votre monde.</font> 
+> <font style="color:yellow">Pour nous, Oblivion est avant tout une prison. Aucun Oblivien, ni aucune personne du Vrai Monde, ne peut plus entrer ni sortir d'ici depuis des siècles. Vous êtes un cas particulier, qui nous a demandé une formidable énergie. Et vous êtes notre unique espoir de libération..."</font>
 
 ## Concernant la guerre :
 
-"Les Incarnins ? Nous sommes les plus anciennes et les plus puissantes créatures de cet univers, voilà tout. Il n'existe, ni dans nos mémoires, ni dans aucun ouvrage de notre connaissance, aucune référence aux origines réelles d'Oblivion ou à notre création."
+> <font style="color:yellow">"Les Incarnins ? Nous sommes les plus anciennes et les plus puissantes créatures de cet univers, voilà tout. Il n'existe, ni dans nos mémoires, ni dans aucun ouvrage de notre connaissance, aucune référence aux origines réelles d'Oblivion ou à notre création."</font>
 
 ## Concernant le Ravageur :
 
