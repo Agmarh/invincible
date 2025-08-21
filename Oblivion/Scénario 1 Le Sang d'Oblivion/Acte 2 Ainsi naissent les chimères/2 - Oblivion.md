@@ -79,24 +79,24 @@ Les PJ peuvent prendre place monter dans de petits drakkars pour se rendre dans 
 
 Les PJ peuvent descendre à une vitesse de 2,5 mètres par round. Les péripéties doivent être tirées tous les 5 mètres en lançant 1d8. Les PJ obtiennent une méduse à chaque fois qu'ils tombent sur l'état Rien.
 
-|   |   |   |   |   |   |
-|---|---|---|---|---|---|
-|1D8|Palier 1|Palier 2|Palier 3|Palier 4|Palier 5|
-||0 à -5 mètres|-5 à -10 mètres|-10 à -20 mètres|-20 à -30 mètres|-30 à -40 mètres|
-|1|Mangeuse d'araignées|Remontée|Remontée|Remontée|Serpent Lacustre|
-|2|Lotus-Pieuvre|Lézard électrique|Orphéose|Orphéose|Orphéose|
-|3|Rien|Lotus-Pieuvre|Lotus-Pieuvre|Squelettes|Serpent Lacustre|
-|4|Rien|Rien|Rien|Squelettes|Squelettes|
-|5|Rien|Rien|Rien|Rien|Squelettes|
-|6|Rien|Rien|Orphéose|Orphéose|Orphéose|
-|7|Lotus-Pieuvre|Lézard électrique|Orphéose|Orphéose|Remontée|
-|8|Mangeuse d'araignées|Lotus-Pieuvre|Avarie|Serpent Lacustre|Serpent Lacustre|
+|     |                      |                   |                  |                  |                  |
+| --- | -------------------- | ----------------- | ---------------- | ---------------- | ---------------- |
+| 1D8 | Palier 1             | Palier 2          | Palier 3         | Palier 4         | Palier 5         |
+|     | 0 à -5 mètres        | -5 à -10 mètres   | -10 à -20 mètres | -20 à -30 mètres | -30 à -40 mètres |
+| 1   | Mangeuse d'araignées | Remontée          | Remontée         | Remontée         | Serpent Lacustre |
+| 2   | Lotus-Pieuvre        | Lézard électrique | Orphéose         | Orphéose         | Orphéose         |
+| 3   | Rien                 | Lotus-Pieuvre     | Lotus-Pieuvre    | Squelettes       | Serpent Lacustre |
+| 4   | Rien                 | Rien              | Rien             | Squelettes       | Squelettes       |
+| 5   | Rien                 | Rien              | Rien             | Rien             | Squelettes       |
+| 6   | Rien                 | Rien              | Orphéose         | Orphéose         | Orphéose         |
+| 7   | Lotus-Pieuvre        | Lézard électrique | Orphéose         | Orphéose         | Remontée         |
+| 8   | Mangeuse d'araignées | Lotus-Pieuvre     | Avarie           | Serpent Lacustre | Serpent Lacustre |
 
 - Mangeuse d'araignées : Une mangeuse d'araignées plonge en piqué pour tenter de se saisir d'une proie. Chaque monstre combattra pendant quelques rounds puis, s'il est encore vivant, prendra la fuite.
 
 - Lotus-Pieuvre : cette plante magnifique qui étale sa fleur délicate en surface possède des racines démesurées qui tentent de saisir tout ce qui passe à leur portée.
 
-Remontée : l'armure d'immersion est soudain le siège d'un étrange phénomène. Elle se met à produire de l'air et à se gonfler. Les porteurs, s'ils ne réagissent pas immédiatement, sont subitement entraînés à la surface, subissant l'effet de la décompression (1d6 dégâts tous les 5 mètres, jet de sauvegarde de Constitution DD 20 pour ne subir que la moitié).
+- Remontée : l'armure d'immersion est soudain le siège d'un étrange phénomène. Elle se met à produire de l'air et à se gonfler. Les porteurs, s'ils ne réagissent pas immédiatement, sont subitement entraînés à la surface, subissant l'effet de la décompression (1d6 dégâts tous les 5 mètres, jet de sauvegarde de Constitution DD 20 pour ne subir que la moitié).
 
 - Lézard électrique : ces petites créatures possèdent la curieuse faculté de produire des chocs électriques pour se protéger de toute agression. Les PJ devront faire face aux assauts de 1d2 d'entre eux.
 
