@@ -1,0 +1,1 @@
+Le heaume des profondeurs d'un des PJ se lézarde soudain avant d'éclater en mille morceaux occasionnant 1d6 points de dégâts à son porteur.

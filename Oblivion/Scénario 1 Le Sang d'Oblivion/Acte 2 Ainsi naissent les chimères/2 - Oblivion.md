@@ -79,28 +79,18 @@ Les PJ peuvent prendre place monter dans de petits drakkars pour se rendre dans 
 
 Les PJ peuvent descendre à une vitesse de 2,5 mètres par round. Les péripéties doivent être tirées tous les 5 mètres en lançant 1d8. Les PJ obtiennent une méduse à chaque fois qu'ils tombent sur l'état Rien.
 
-| 1D8 | Palier 1             | Palier 2          | Palier 3         | Palier 4         | Palier 5         |
-| --- | -------------------- | ----------------- | ---------------- | ---------------- | ---------------- |
-|     | 0 à -5 mètres        | -5 à -10 mètres   | -10 à -20 mètres | -20 à -30 mètres | -30 à -40 mètres |
-| 1   | Mangeuse d'araignées | Remontée          | Remontée         | Remontée         | Serpent Lacustre |
-| 2   | Lotus-Pieuvre        | Lézard électrique | Orphéose         | Orphéose         | Orphéose         |
-| 3   | Rien                 | Lotus-Pieuvre     | Lotus-Pieuvre    | Squelettes       | Serpent Lacustre |
-| 4   | Rien                 | Rien              | Rien             | Squelettes       | Squelettes       |
-| 5   | Rien                 | Rien              | Rien             | Rien             | Squelettes       |
-| 6   | Rien                 | Rien              | Orphéose         | Orphéose         | Orphéose         |
-| 7   | Lotus-Pieuvre        | Lézard électrique | Orphéose         | Orphéose         | Remontée         |
-| 8   | Mangeuse d'araignées | Lotus-Pieuvre     | Avarie           | Serpent Lacustre | Serpent Lacustre |
-- Lézard électrique : ces petites créatures possèdent la curieuse faculté de produire des chocs électriques pour se protéger de toute agression. Les PJ devront faire face aux assauts de 1d2 d'entre eux.
-
-- Orphéose : baigner dans les essences primordiales d'une déesse n'est pas sans conséquence sur le psychisme des PJ. La victime, enivrée pendant 1d6 rounds par cette expérience, décide de s'enfoncer vers les profondeurs en ôtant préalablement tout son équipement ! Jet de sauvegarde de Charisme DD 14 à chaque round pour se raisonner.
-
-- Squelettes : dérivant entre deux courants, les cadavres des rares plongeurs qui ont précédé les PJ prennent vie, 1d8 squelettes saluent l'exploit des PJ avant de les attaquer.
-
-- Avarie : le heaume des profondeurs d'un des PJ se lézarde soudain avant d'éclater en mille morceaux occasionnant 1d6 points de dégâts à son porteur.
-
-- Serpent Lacustre : redoutables prédateurs écumant les eaux profondes, ces puissants animaux à la gueule bardée de crocs acérés sont de véritables machines à tuer. 2 d'entre eux fonce sur les PJ.
-
-## La Sixième Essence
+| 1D8 | Palier 1                 | Palier 2          | Palier 3         | Palier 4         | Palier 5         |
+| --- | ------------------------ | ----------------- | ---------------- | ---------------- | ---------------- |
+|     | 0 à -5 mètres            | -5 à -10 mètres   | -10 à -20 mètres | -20 à -30 mètres | -30 à -40 mètres |
+| 1   | [[Mangeuse d'araignées]] | Remontée          | Remontée         | Remontée         | Serpent Lacustre |
+| 2   | [[Lotus-Pieuvre]]        | Lézard électrique | Orphéose         | Orphéose         | Orphéose         |
+| 3   | Rien                     | Lotus-Pieuvre     | Lotus-Pieuvre    | Squelettes       | Serpent Lacustre |
+| 4   | Rien                     | Rien              | Rien             | Squelettes       | Squelettes       |
+| 5   | Rien                     | Rien              | Rien             | Rien             | Squelettes       |
+| 6   | Rien                     | Rien              | Orphéose         | Orphéose         | Orphéose         |
+| 7   | Lotus-Pieuvre            | Lézard électrique | Orphéose         | Orphéose         | Remontée         |
+| 8   | Mangeuse d'araignées     | Lotus-Pieuvre     | Avarie           | Serpent Lacustre | Serpent Lacustre |
+### La Sixième Essence
 
 Lorsque les PJ atteignent la sixième essence, les PJ entrent dans une transe cataleptique, tétanisant chaque parcelle de leur organisme en une stase mystique. Incapable du moindre mouvement, chacun perçoit la puissance de la pensée de Khétale s'infiltrer dans leur cerveau. Ils perdent toute notion du temps et de l'espace. Les PJ qui atteignent cette zone gagnent définitivement 1 point dans leur caractéristique majeure.
 

@@ -154,12 +154,12 @@
             }
           },
           {
-            "id": "1a5c5dbce25af22c",
+            "id": "1929cb873f943aa7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Squelettes.md",
+                "file": "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Avarie.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -174,11 +174,34 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Squelettes"
+              "title": "Avarie"
+            }
+          },
+          {
+            "id": "7609db25325330ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Serpent Lacustre.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Serpent Lacustre"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -388,9 +411,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1a5c5dbce25af22c",
+  "active": "5d0b65180a87b701",
   "lastOpenFiles": [
+    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Serpent Lacustre.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/2 - Oblivion.md",
+    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Avarie.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Squelettes.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Orphéose.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Lézard électrique.md",
@@ -415,8 +440,6 @@
     "Invincible/Scénario 3 Les racines du mal/I - Sacrifice.md",
     "Invincible/Scénario 2 La cité pétrifiée/ACTUELLEMENT J+8.md",
     "Invincible/Scénario 2 La cité pétrifiée/Personnage Loup-Garou.md",
-    "Invincible/Scénario 2 La cité pétrifiée/Infos diverses.md",
-    "Invincible/Scénario 2 La cité pétrifiée/Chronologie.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 4 Alba-Secundum",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 3 La mer des linceuls",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères",
