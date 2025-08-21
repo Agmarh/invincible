@@ -11,24 +11,17 @@
             "id": "5d0b65180a87b701",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/2 - Oblivion.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Sans titre.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               },
-              "icon": "lucide-file",
-              "title": "2 - Oblivion"
+              "icon": "lucide-layout-dashboard",
+              "title": "Sans titre"
             }
           }
         ]
@@ -243,8 +236,9 @@
   },
   "active": "5d0b65180a87b701",
   "lastOpenFiles": [
-    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/1 - Mausoleum Igné.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/2 - Oblivion.md",
+    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Sans titre.canvas",
+    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/1 - Mausoleum Igné.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/1 - Premier voyage en Oblivion.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Les Incarnins.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Grisou le Méphite.md",
@@ -268,7 +262,6 @@
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/L'Infer/I5 Les entrailles d'Anthéone.md",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/L'Infer/I4 Forge Au Souffle Draconique.md",
     "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/L'Infer/I3 Orphelinat Les Pupilles de Justicaar.md",
-    "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/L'Infer/I2 Katanga, le Maître des encres.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 4 Alba-Secundum",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 3 La mer des linceuls",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères",

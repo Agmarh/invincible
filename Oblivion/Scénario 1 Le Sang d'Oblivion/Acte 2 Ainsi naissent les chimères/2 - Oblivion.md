@@ -79,9 +79,8 @@ Les PJ peuvent prendre place monter dans de petits drakkars pour se rendre dans 
 
 Les PJ peuvent descendre à une vitesse de 2,5 mètres par round. Les péripéties doivent être tirées tous les 5 mètres en lançant 1d8. Les PJ obtiennent une méduse à chaque fois qu'ils tombent sur l'état Rien.
 
-|     |                      |                   |                  |                  |                  |
-| --- | -------------------- | ----------------- | ---------------- | ---------------- | ---------------- |
 | 1D8 | Palier 1             | Palier 2          | Palier 3         | Palier 4         | Palier 5         |
+| --- | -------------------- | ----------------- | ---------------- | ---------------- | ---------------- |
 |     | 0 à -5 mètres        | -5 à -10 mètres   | -10 à -20 mètres | -20 à -30 mètres | -30 à -40 mètres |
 | 1   | Mangeuse d'araignées | Remontée          | Remontée         | Remontée         | Serpent Lacustre |
 | 2   | Lotus-Pieuvre        | Lézard électrique | Orphéose         | Orphéose         | Orphéose         |
