@@ -44,12 +44,12 @@ S'il acceptent, voici les épreuves :
 	- Celui qui tombe sur le lézard est déclaré perdant
 	- 3 manches au cours desquelles on augmente le nombre de lézards électriques dans le tonnelet (1 puis, 2 puis 3, dommages cumulatifs).
 
-- Le Courroux du Lotus : l'occupation préférée de Clyve, il s'agit d'ingurgiter le plus grand nombre de verres de bière et lotus sans s'écrouler. Au premier verre, les adversaires réalisent un <font style="color:green">jet de sauvegarde de Constitution DD 15</font>. Le DD augmente de 1 à chaque nouveau verre. En cas d'échec, lancez 1d6 (chaque effet dure 1d10 rounds) :
+- Le Courroux du Lotus : l'occupation préférée de Clyve, il s'agit d'ingurgiter le plus grand nombre de verres de bière et lotus sans s'écrouler. Au premier verre, les adversaires réalisent un <font style="color:green">jet de sauvegarde de Constitution DD 15</font>. Le DD augmente de 1 à chaque nouveau verre. En cas d'échec, lancez <font style="color:red">1d6</font> (chaque effet dure <font style="color:red">1d10</font> rounds) :
 	- 1 - 2 : le personnage est empoisonné
 	- 3 : le personnage est étourdi
 	- 4 : le personnage subit un niveau de fatigue
 	- 5 : le personnage tombe inconscient
-	- 6 : le personnage tombe inconscient et est empoisonné. Il perd 1d10 PV.
+	- 6 : le personnage tombe inconscient et est empoisonné. Il perd <font style="color:red">1d10 PV</font>.
 	- Le perdant est celui qui quitte la table le premier, soit parce qu'il abandonne, soit parce qu'il tombe dans un profond coma.
 
 Ces épreuves permettent aux PJ de louer le matériel nécessaire et de connaître les indications indispensables pour la pêche à la méduse.
@@ -60,7 +60,7 @@ Les méduses vivent dans une zone très restreinte du lac, s'ils suivent les con
 
 La zone des méduses est baignée d'une eau aux étranges propriétés, c'est une sorte de vortex miniature, surnommée l'Œil de la Déesse. L'œil est constitué de 6 couches successives d'un fluide dont la consistance rappelle le miel, et correspond aux 6 essences de la déesse Khétale.
 
-Clyve met à disposition des PJ du matériel de plongée. Un heaume des profondeurs (casque de verre souflé, permettant de respirer sous l'eau tant qu'il reste intact), une armure d'immersion (version légère d'une armure de plaques, ne fonctionne que dans l'eau), et une nacelle des abîmes (une cloche de plongée, 50 PV, contient assez d'air pour 4 personnes pendant 10 minutes en cas de problème).
+Clyve met à disposition des PJ du matériel de plongée. Un heaume des profondeurs (casque de verre soufflé, permettant de respirer sous l'eau tant qu'il reste intact), une armure d'immersion (version légère d'une armure de plaques, ne fonctionne que dans l'eau), et une nacelle des abîmes (une cloche de plongée, 50 PV, contient assez d'air pour 4 personnes pendant 10 minutes en cas de problème).
 
 Si les PJ demandent à propos des pouvoirs divinatoires, Clyve leur parlera de la légende de la sixième essence. L'immersion dans ce courant permettrait de bénéficier de vision prophétiques. A ce jour, personne n'a pu confirmer cette légende. Ceux qui s'y sont aventuré ont perdu la vie dans la mâchoire du Léviathan, gardien de la conscience de la Déesse.
 
