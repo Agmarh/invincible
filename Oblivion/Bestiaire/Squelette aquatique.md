@@ -6,12 +6,10 @@ type: Mort-vivant
 subtype: 
 alignment: Neutre Mauvais
 ac: 12
-hp: 172
-hit_dice: 15d12+75
-speed: 9 m, nage 9 m
-stats: [20, 12, 20, 2, 10, 7]
-skillsaves:
-  - Perception: +3
+hp: 45
+hit_dice: 6d10+18
+speed: 12 m
+stats: [19, 11, 15, 6, 8, 5]
 damage_immunities: de poison
 condition_immunities: [[Charmé]], [[Empoisonné]], [[Paralysé]]
 senses: vision dans le noir 18 m, Perception passive 13
