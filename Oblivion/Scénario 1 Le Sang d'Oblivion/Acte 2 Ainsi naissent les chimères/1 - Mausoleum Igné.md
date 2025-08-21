@@ -59,15 +59,15 @@ PJ Réticents ?
 - Sérénité est un être irrésistible. Ceux qui s'attachent à elle accepteront la quête et entraîneront les autres.
 - Réghûlus n'a rien contre un contrat, signé en bonne et due forme. Il propose un paiement en gemmes d'Oblivion (10 000 à 50 000 PO à négocier pour le groupe), 1d3 objets onirides légendaires (objets magiques rares).
 - Si toujours rien, Réghûlus rappellera qu'il est le seul à pouvoir les renvoyer chez eux.
-- Nocturno saura se montrer convaincante avec son Amant. Surtout avec la promesse de nouvelles Extases.
-- 
+- Nocturno saura se montrer convaincante avec son Amant. Surtout avec la promesse de nouvelles Extases. 
+
 # Ghûraghastas !
 
 Après avoir discuté, les deux Incarnins souhaitent donner l'occasion aux PJs de contempler un fragment de Chiaroscuro. Au cours des deux derniers siècles, deux des quatre fragments de la Clef ont déjà été retrouvés. Le premier est entre les mains de l'Ecorcheuse. Le second a été ramené par l'Arpenteur des Vents et il est détenu par Réghûlus. C'est grâce à la puissance de ce fragment que la Transmigration est rendue possible.
 
-Tout en parlant, Réghûlus actionne un levier d'acier placé sur les accoudoirs de son trône. "Attention, jeunes champions, l'expérience est remuante." Deux monstrueuses dalles d'adamantine ciselée de runes d'or s'ouvrent alors dans le sol, au milieu de la salle, dans un grondement de fin du monde. Tandis que la poussière se dissipe, une plate-forme remonte lentement des entrailles du palais.
+Tout en parlant, Réghûlus actionne un levier d'acier placé sur les accoudoirs de son trône. <font style="color:yellow">"Attention, jeunes champions, l'expérience est remuante."</font> Deux monstrueuses dalles d'adamantine ciselée de runes d'or s'ouvrent alors dans le sol, au milieu de la salle, dans un grondement de fin du monde. Tandis que la poussière se dissipe, une plate-forme remonte lentement des entrailles du palais.
 
-Au centre de la plateforme, sur un autel, se trouve un éclat de lumière, qui devient rapidement aveuglant. Les méphites autour de vous s'ébattent en tous sens. "Le fragment, c'est le fragment ! Regardez ! Chiaroscuro !". Les PJ tombent à genoux, submergés par une vague de puissance sans précédent. Un étrange triangle de cuivre ressemblant à une écaille, grossièrement équilatérale et pas plus grande que la paume d'une main, puise d'énergie au centre de l'autel. Sa lumière ne gêne aucunement les yeux.
+Au centre de la plateforme, sur un autel, se trouve un éclat de lumière, qui devient rapidement aveuglant. Les méphites autour de vous s'ébattent en tous sens. <font style="color:yellow">"Le fragment, c'est le fragment ! Regardez ! Chiaroscuro !"</font>. Les PJ tombent à genoux, submergés par une vague de puissance sans précédent. Un étrange triangle de cuivre ressemblant à une écaille, grossièrement équilatérale et pas plus grande que la paume d'une main, puise d'énergie au centre de l'autel. Sa lumière ne gêne aucunement les yeux.
 
 Sérénité, ravie, se met à battre des mains. "Alors, dit fièrement Réghûlus, ne vous avais-je pas promis une expérience remuante ?". A cet instant, un méphite de vapeur plonge des hauteurs en hurlant "Ghûraghastas ! Ghûraghastas !" et les vitraux explosent dans un tonnerre de verre brisé !
 
