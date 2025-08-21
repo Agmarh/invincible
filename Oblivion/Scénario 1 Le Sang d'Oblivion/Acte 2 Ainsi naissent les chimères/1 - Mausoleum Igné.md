@@ -69,13 +69,13 @@ Tout en parlant, Réghûlus actionne un levier d'acier placé sur les accoudoirs
 
 Au centre de la plateforme, sur un autel, se trouve un éclat de lumière, qui devient rapidement aveuglant. Les méphites autour de vous s'ébattent en tous sens. <font style="color:yellow">"Le fragment, c'est le fragment ! Regardez ! Chiaroscuro !"</font>. Les PJ tombent à genoux, submergés par une vague de puissance sans précédent. Un étrange triangle de cuivre ressemblant à une écaille, grossièrement équilatérale et pas plus grande que la paume d'une main, puise d'énergie au centre de l'autel. Sa lumière ne gêne aucunement les yeux.
 
-Sérénité, ravie, se met à battre des mains. "Alors, dit fièrement Réghûlus, ne vous avais-je pas promis une expérience remuante ?". A cet instant, un méphite de vapeur plonge des hauteurs en hurlant "Ghûraghastas ! Ghûraghastas !" et les vitraux explosent dans un tonnerre de verre brisé !
+Sérénité, ravie, se met à battre des mains. <font style="color:yellow">"Alors, dit fièrement Réghûlus, ne vous avais-je pas promis une expérience remuante ?"</font>. A cet instant, un méphite de vapeur plonge des hauteurs en hurlant <font style="color:yellow">"Ghûraghastas ! Ghûraghastas !"</font> et les vitraux explosent dans un tonnerre de verre brisé !
 
 Quatre formes noires atteignent le sol en une seconde, suspendues à de longs fils de soie. Puis cinq, six ! Puis encore d'autres jaillissant par la brèche !
 
 Les Ghûraghastas se focaliseront sur les méphites et les mékhanoms. Tirer l'Initiative !
 
-Les PJ ont un round avant d'être au contact. "Partez vite, je m'occupe de ça !" ordonne en même temps Réghûlus. L'Incarnin abat son point sur un levier, et la plateforme avec l'autel et le fragment replonge immédiatement sous terre. D'immenses portes de bronze tombent devant chaque couloir d'accès, scellant toutes les issues, sauf le couloir principal conduisant au jardin de Sérénité.
+Les PJ ont un round avant d'être au contact. <font style="color:yellow">"Partez vite, je m'occupe de ça !"</font> ordonne en même temps Réghûlus. L'Incarnin abat son point sur un levier, et la plateforme avec l'autel et le fragment replonge immédiatement sous terre. D'immenses portes de bronze tombent devant chaque couloir d'accès, scellant toutes les issues, sauf le couloir principal conduisant au jardin de Sérénité.
 
 Ne pas oublier les règles de la magie en Oblivion !
 
@@ -85,7 +85,7 @@ Ne pas oublier les règles de la magie en Oblivion !
 
 ## Deuxième round
 
-Les Ghûraghastas sont au contact. La seule issue possible semble être un balcon au premier étage, accessible en escaladant une roue en cuivre avec un test d'Athlétisme DD 10, puis en se laissant glisser jusqu'à la balustrade le long d'une poulie avec un test d'Acrobatie DD 12. On peut aussi grimper le long d'une tapisserie avec un test d'Athlétisme DD 15.
+Les Ghûraghastas sont au contact. La seule issue possible semble être un balcon au premier étage, accessible en escaladant une roue en cuivre avec un <font style="color:green">test d'Athlétisme DD 10</font>, puis en se laissant glisser jusqu'à la balustrade le long d'une poulie avec un test d'Acrobatie DD 12. On peut aussi grimper le long d'une tapisserie avec un test d'Athlétisme DD 15.
 
 Foncer au travers des Ghûraghastas est très risqué. Les méphites se sont allègrement massacrer, malgré les consignes de Réghûlus. Sérénité a mystérieusement disparu.
 
