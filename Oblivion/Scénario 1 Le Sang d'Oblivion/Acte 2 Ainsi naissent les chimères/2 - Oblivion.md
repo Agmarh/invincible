@@ -8,16 +8,12 @@ En sortant de Mausoleum Igné, les PJ entrent dans une large rue composée de b�
 
 Malgré la situation, Grisou se veut optimiste et sort un miroir d'audience pour contacter Réghûlus. Son visage apparaît, on peut encore entendre le bruit des combats derrière lui.
 
-> "Comment as-tu oser dérober un miroir ? Ceux-ci ne sont pas un jouet ! Mais, au vu des circonstances, c'est une bonne chose. Nous repoussons les Ghûraghastas, une telle attaque de l'Ecorcheuse est étonnante, ça ne présage rien de bon. Vous devez au plus vite démarrer votre enquête, cherchez la matrice, elle se trouve peut-être dans la cité."
-
-"Je pourrais les emmener à l'auberge du Draco-Ivre ?"
-
-"C'est une excellente idée Grisou, si vous cherchez des indices, c'est le bon endroit. Mais n'oublie pas de préciser que personne à ce jour n'est revenu vivant des profondeurs du lac ! Mais ton choix n'est pas mauvais, va pour le Draco-Ivre !"
-
-"Bien allons-y ! Direction le lac de Morte-Pensée !"
+> <font style="color:yellow">"Comment as-tu oser dérober un miroir ? Ceux-ci ne sont pas un jouet ! Mais, au vu des circonstances, c'est une bonne chose. Nous repoussons les Ghûraghastas, une telle attaque de l'Ecorcheuse est étonnante, ça ne présage rien de bon. Vous devez au plus vite démarrer votre enquête, cherchez la matrice, elle se trouve peut-être dans la cité."</font>
+> <font style="color:yellow">"Je pourrais les emmener à l'auberge du Draco-Ivre ?"</font>
+> <font style="color:yellow">"C'est une excellente idée Grisou, si vous cherchez des indices, c'est le bon endroit. Mais n'oublie pas de préciser que personne à ce jour n'est revenu vivant des profondeurs du lac ! Mais ton choix n'est pas mauvais, va pour le Draco-Ivre !"</font>
+> <font style="color:yellow">"Bien allons-y ! Direction le lac de Morte-Pensée !"</font>
 
 Grisou expliquera a qui pose la question :
-
 - Ils pourront récupérer des méduses, essentielles à la sécurisation de la pratique de la magie en Oblivion.
 - Le Lac de Morte-Pensée possède, dit-on, des pouvoirs divinatoires.
 - Le Draco-Ivre est une auberge entretenue par Clyve l'aboyeur, un chic type.
