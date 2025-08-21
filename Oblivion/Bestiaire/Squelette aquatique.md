@@ -10,8 +10,9 @@ hp: 45
 hit_dice: 6d10+18
 speed: 12 m
 stats: [19, 11, 15, 6, 8, 5]
+damage_vulnerabilities: contondants
 damage_immunities: de poison
-condition_immunities: [[Charmé]], [[Empoisonné]], [[Paralysé]]
+condition_immunities: [[Empoisonné]], [[Epuisé]]
 senses: vision dans le noir 18 m, Perception passive 13
 languages: -
 cr: 8
