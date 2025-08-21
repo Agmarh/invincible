@@ -34,28 +34,27 @@ Clyve offre aussitôt à boire aux PJ alors qu'à l'extérieur toute la communau
 
 Les PJ peuvent discuter à loisir de l'utilité des méduses. Si les PJ parlent d'acheter une méduse, Clyve explique qu'avant toute chose, ils doivent <font style="color:yellow">"satisfaire à certaines fantaisies qu'un hôte est en droit d'exiger de voyageurs errants"</font>.
 
-Les PJ peuvent alors payer un fort droit de séjour (10 000 po) ou accepter "quelques innocentes épreuves destinées à tester leur valeur et amuser le petit peuple".
+Les PJ peuvent alors payer un fort droit de séjour (10 000 po) ou accepter <font style="color:yellow">"quelques innocentes épreuves destinées à tester leur valeur et amuser le petit peuple"</font>.
 
 Si les PJ refusent, ils devront quitter le village sur le champ et se débrouiller seuls pour trouver des méduses.
 
 S'il acceptent, voici les épreuves :
-- Le Coup du lézard : petit jeu dans lequel on dispose devant les deux participants six tonnelets soigneusement clos, dont un renferme un lézard électrique. A tour de rôle, ils devront plonger la main dans l'un des tonnelets, au risque de recevoir une décharge électrique (2d8 PV).
+- Le Coup du lézard : petit jeu dans lequel on dispose devant les deux participants six tonnelets soigneusement clos, dont un renferme un lézard électrique. A tour de rôle, ils devront plonger la main dans l'un des tonnelets, au risque de recevoir une décharge électrique (<font style="color:red">2d8 PV</font>).
 	- Découper 6 morceaux de papiers et choisir à tour de rôle.
 	- Celui qui tombe sur le lézard est déclaré perdant
 	- 3 manches au cours desquelles on augmente le nombre de lézards électriques dans le tonnelet (1 puis, 2 puis 3, dommages cumulatifs).
 
-- Le Courroux du Lotus : l'occupation préférée de Clyve, il s'agit d'ingurgiter le plus grand nombre de verres de bière et lotus sans s'écrouler. Au premier verre, les adversaires réalisent un jet de sauvegarde de Constitution DD 15. Le DD augmente de 1 à chaque nouveau verre. En cas d'échec, lancez 1d6 (chaque effet dure 1d10 rounds) :
-
-- 1 - 2 : le personnage est empoisonné
-- 3 : le personnage est étourdi
-- 4 : le personnage subit un niveau de fatigue
-- 5 : le personnage tombe inconscient
-- 6 : le personnage tombe inconscient et est empoisonné. Il perd 1d10 PV.
-- Le perdant est celui qui quitte la table le premier, soit parce qu'il abandonne, soit parce qu'il tombe dans un profond coma.
+- Le Courroux du Lotus : l'occupation préférée de Clyve, il s'agit d'ingurgiter le plus grand nombre de verres de bière et lotus sans s'écrouler. Au premier verre, les adversaires réalisent un <font style="color:green">jet de sauvegarde de Constitution DD 15</font>. Le DD augmente de 1 à chaque nouveau verre. En cas d'échec, lancez 1d6 (chaque effet dure 1d10 rounds) :
+	- 1 - 2 : le personnage est empoisonné
+	- 3 : le personnage est étourdi
+	- 4 : le personnage subit un niveau de fatigue
+	- 5 : le personnage tombe inconscient
+	- 6 : le personnage tombe inconscient et est empoisonné. Il perd 1d10 PV.
+	- Le perdant est celui qui quitte la table le premier, soit parce qu'il abandonne, soit parce qu'il tombe dans un profond coma.
 
 Ces épreuves permettent aux PJ de louer le matériel nécessaire et de connaître les indications indispensables pour la pêche à la méduse.
 
-## Ivresse en Eaux troubles
+# Ivresse en Eaux troubles
 
 Les méduses vivent dans une zone très restreinte du lac, s'ils suivent les conseils de Clyve, ils la trouve sans problème.
 
