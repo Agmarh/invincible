@@ -12,13 +12,13 @@
 	- Ceux qui échouent s'attachent aussitôt à Sérénité comme si elle était la personne la plus importante de l'univers à leurs yeux. Pour eux, elle est l'incarnation des rêves de pureté et d'innocence. Ils savent désormais qu'ils seront prêt à tout pour la protéger, car elle représente l'étincelle de bonté présente au cœur de chaque créature vivante.
 	- Les autres perçoivent clairement la puissance respectable de l'entité qui leur fait face, et sentent son incroyable bonté.
 
-> <font style="color:yellow">"Alors, allez-vous répondre, au lieu de me regarder avec ces yeux ronds ?", puis son visage se durcit soudainement "Mais ce n'est pas le moment de jouer, puisque vous êtes venus nous sauver, moi Sérénité, et puis tout Oblivion. Alors, suivez-moi ! Grand-Père Réghûlus va se fâcher si je ne vous amène pas tout de suite. Ce n'est pas mon grand-père en vrai, hein, n'empêche que s'il se fâche…"</font> Elle s'éloigne.
+> <font style="color:yellow">"Alors, allez-vous répondre, au lieu de me regarder avec ces yeux ronds ?"</font>, puis son visage se durcit soudainement <font style="color:yellow">"Mais ce n'est pas le moment de jouer, puisque vous êtes venus nous sauver, moi Sérénité, et puis tout Oblivion. Alors, suivez-moi ! Grand-Père Réghûlus va se fâcher si je ne vous amène pas tout de suite. Ce n'est pas mon grand-père en vrai, hein, n'empêche que s'il se fâche…"</font> Elle s'éloigne.
 
 Elle guide les PJ jusqu'aux limites du jardin, où deux gnomes mécaniques attendent devant ce qui semble être une falaise donnant sur la mer.
 
-"Salut Spitz, salut Spatz !" dit Sérénité. De près, ces créatures mécaniques sont d'une incroyable finesse, articulés par d'innombrables rouages et pistons, parcourus de flux électriques semblables à des veines bleutées. Les PJ remarquent les gnomes qui les ont déjà sauvés à leur première incursion dans Oblivion.
+<font style="color:yellow">"Salut Spitz, salut Spatz !"</font> dit Sérénité. De près, ces créatures mécaniques sont d'une incroyable finesse, articulés par d'innombrables rouages et pistons, parcourus de flux électriques semblables à des veines bleutées. Les PJ remarquent les gnomes qui les ont déjà sauvés à leur première incursion dans Oblivion.
 
-"N'ayez pas peur, dit Sérénité, ce sont des mékhanôms et ils sont à mon service. Ouvrez la porte secrète, mes amis !"
+> <font style="color:yellow">"N'ayez pas peur, dit Sérénité, ce sont des mékhanôms et ils sont à mon service. Ouvrez la porte secrète, mes amis !"</font>
 
 Les deux mékhanôms  s'articulent pour ouvrir une porte dans la paroi peinte en forme de ciel : les limites du jardin ne sont qu'une vaste peinture en trompe-l'œil ! Vu d'ici, le soleil n'est qu'une grosse boule de lumière magique, les nuages sont de petits élémentaires de l'air, et l'eau du ruisseau tourne en circuit fermé.
 
