@@ -58,12 +58,12 @@
             }
           },
           {
-            "id": "89eed6ccaa0fc87d",
+            "id": "b078c68f21713feb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oblivion/Bestiaire/Lézard éléctrique.md",
+                "file": "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Squelettes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -78,11 +78,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Lézard éléctrique"
+              "title": "Squelettes"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -292,12 +291,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7609db25325330ec",
+  "active": "5d0b65180a87b701",
   "lastOpenFiles": [
+    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Serpent Lacustre.md",
+    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Squelettes.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/2 - Oblivion.md",
+    "Oblivion/Bestiaire/Lézard éléctrique.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Avarie.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Orphéose.md",
-    "Oblivion/Bestiaire/Lézard éléctrique.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Lézard électrique.md",
     "Oblivion/Bestiaire/Mastiff.md",
     "Oblivion/Bestiaire/Mangeuse d'araignées.md",
@@ -307,8 +308,6 @@
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Remontée.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Lotus-Pieuvre.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Mangeuse d'araignée.md",
-    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Serpent Lacustre.md",
-    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Squelettes.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Sans titre.canvas",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/1 - Mausoleum Igné.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/1 - Premier voyage en Oblivion.md",
