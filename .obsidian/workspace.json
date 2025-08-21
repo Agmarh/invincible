@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "7609db25325330ec",
+            "id": "09c8d9fb5bf5134b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Serpent Lacustre.md",
+                "file": "Oblivion/Bestiaire/Serpent constricteur.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -54,7 +54,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Serpent Lacustre"
+              "title": "Serpent constricteur"
             }
           }
         ],
@@ -268,8 +268,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7609db25325330ec",
+  "active": "09c8d9fb5bf5134b",
   "lastOpenFiles": [
+    "D&D/Armure complète en métal Nain.png",
+    "Oblivion/Bestiaire/Serpent constricteur.md",
+    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Serpent Lacustre.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Squelettes.md",
     "Oblivion/Bestiaire/Squelette aquatique.md",
     "Annexe/Règles/Épuisé.md",
@@ -279,7 +282,6 @@
     "Oblivion/Bestiaire/Gobelin.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/2 - Oblivion.md",
     "Oblivion/Bestiaire/Mangeuse d'araignées.md",
-    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Serpent Lacustre.md",
     "Oblivion/Bestiaire/Lézard éléctrique.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Avarie.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Orphéose.md",
@@ -295,8 +297,6 @@
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/1 - Mausoleum Igné.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/1 - Premier voyage en Oblivion.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Les Incarnins.md",
-    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Grisou le Méphite.md",
-    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/5 - La Galerie des Suppliciés.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 4 Alba-Secundum",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 3 La mer des linceuls",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères",
