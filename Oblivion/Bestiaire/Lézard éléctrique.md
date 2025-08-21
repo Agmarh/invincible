@@ -11,7 +11,8 @@ speed: 12 m, nage 6 m, escalade 6 m
 stats: [10, 16, 10, 3, 16, 6]
 skillsaves:
   - Athlétisme: 2
-    Disc 
+  - Discrétion: 2
+  - Perception: 2
 senses: Perception passive 14
 languages: 
 cr: 8
