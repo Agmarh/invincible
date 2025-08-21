@@ -38,7 +38,6 @@ Les PJ peuvent expliquer la mort de Löne Kernos et peuvent poser des questions 
 - Qui est l'Ecorcheuse ?
 
 # Explications
-
 ## Oblivion :
 
 "Oblivion est un pays empli de chimères... Certaines gens du Vrai Monde, comme vous, pensent qu'il s'agit d'une sorte d'univers des rêves. D'autres, plus souvent, nous identifient au pays des cauchemars. Nous n'avons pas de certitude, mais je peux vous assurer que nous sommes tout à fait réels ! Et si vous mourez ici, vous ne rentrerez jamais dans votre monde.
@@ -58,13 +57,12 @@ Pour nous, Oblivion est avant tout une prison. Aucun Oblivien, ni aucune personn
 "Löne Kernos était le plus noble et le plus loyal représentant des Oubliés. Il travaillait sous notre tutelle. Il tentant de retrouver d'autres Oubliés. Et surtout, il recherchait Chiaroscuro depuis des années. L'Arpenteur devait revenir avec un groupe de gens courageux sélectionnés pour l'assister. Il n'est plus parmi nous, mais vous voilà, prêts à reprendre sa quête ! Nous savons qu'il avait trouvé un indice important. Il s'apprêtait à nous le révéler..."
 
 PJ Réticents ?
-
 - Sérénité est un être irrésistible. Ceux qui s'attachent à elle accepteront la quête et entraîneront les autres.
 - Réghûlus n'a rien contre un contrat, signé en bonne et due forme. Il propose un paiement en gemmes d'Oblivion (10 000 à 50 000 PO à négocier pour le groupe), 1d3 objets onirides légendaires (objets magiques rares).
 - Si toujours rien, Réghûlus rappellera qu'il est le seul à pouvoir les renvoyer chez eux.
 - Nocturno saura se montrer convaincante avec son Amant. Surtout avec la promesse de nouvelles Extases.
-
-## Ghûraghastas !
+- 
+# Ghûraghastas !
 
 Après avoir discuté, les deux Incarnins souhaitent donner l'occasion aux PJs de contempler un fragment de Chiaroscuro. Au cours des deux derniers siècles, deux des quatre fragments de la Clef ont déjà été retrouvés. Le premier est entre les mains de l'Ecorcheuse. Le second a été ramené par l'Arpenteur des Vents et il est détenu par Réghûlus. C'est grâce à la puissance de ce fragment que la Transmigration est rendue possible.
 
@@ -82,24 +80,24 @@ Les PJ ont un round avant d'être au contact. "Partez vite, je m'occupe de ça !
 
 Ne pas oublier les règles de la magie en Oblivion !
 
-### Premier round
+## Premier round
 
 6 Ghûraghastas sont proches des PJ, dont 3 à l'entrée du couloir.
 
-### Deuxième round
+## Deuxième round
 
 Les Ghûraghastas sont au contact. La seule issue possible semble être un balcon au premier étage, accessible en escaladant une roue en cuivre avec un test d'Athlétisme DD 10, puis en se laissant glisser jusqu'à la balustrade le long d'une poulie avec un test d'Acrobatie DD 12. On peut aussi grimper le long d'une tapisserie avec un test d'Athlétisme DD 15.
 
 Foncer au travers des Ghûraghastas est très risqué. Les méphites se sont allègrement massacrer, malgré les consignes de Réghûlus. Sérénité a mystérieusement disparu.
 
-### Troisième round
+## Troisième round
 
 Si les PJ n'ont pas vu le balcon, Grisou, le méphite qui a donné l'alarme surgit à leurs côtés en hurlant : "Venez, on peut s'enfuir par-là !". Les autres, qui auraient échappé aux Ghûraghastas doivent courir jusqu'au jardin. La porte se referme derrière les PJ et Spark veille.
 
-### Quatrième et cinquième round
+## Quatrième et cinquième round
 
 Les PJ devraient se trouver en haut du balcon. Sinon ils sont déjà mort. Grisou les attends et a ouvert une porte dérobée. Une vingtaine de Ghûraghastas opèrent un véritable massacre derrière eux. A ce moment, un sourire carnassier embrase le visage de Réghûlus. "Aah, l'Ecorcheuse veut jouer à ça avec moi !". Son trône se soulève dans les airs, en pianotant sur ses accoudoirs, l'Incarnin fait jaillir une multitude de lames de la base de son socle, qui se mettent à tournoyer. Réghûlus vole alors vers les Ghûraghastas, aussi implacable que la Mort sur son trône. Et la porte se referme.
 
-### Et si certains PJ meurent ?
+## Et si certains PJ meurent ?
 
 Les PJ seront ressuscités par les pouvoirs de Réghûlus. Le PJ disparait, emporté en urgence par des mékhanoms, et reviendra plus tard réanimé avec par exemple un tendon artificiel en cuivre ou un muscle du bras remplacé par un piston. Le PJ perd aussi 1 point de Constitution définitif.
