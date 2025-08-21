@@ -85,17 +85,19 @@ Ne pas oublier les règles de la magie en Oblivion !
 
 ## Deuxième round
 
-Les Ghûraghastas sont au contact. La seule issue possible semble être un balcon au premier étage, accessible en escaladant une roue en cuivre avec un <font style="color:green">test d'Athlétisme DD 10</font>, puis en se laissant glisser jusqu'à la balustrade le long d'une poulie avec un test d'Acrobatie DD 12. On peut aussi grimper le long d'une tapisserie avec un test d'Athlétisme DD 15.
+Les Ghûraghastas sont au contact. La seule issue possible semble être un balcon au premier étage, accessible en escaladant une roue en cuivre avec un <font style="color:green">test d'Athlétisme DD 10</font>, puis en se laissant glisser jusqu'à la balustrade le long d'une poulie avec un <font style="color:green">test d'Acrobatie DD 12</font>. On peut aussi grimper le long d'une tapisserie avec un <font style="color:green">test d'Athlétisme DD 15</font>.
 
 Foncer au travers des Ghûraghastas est très risqué. Les méphites se sont allègrement massacrer, malgré les consignes de Réghûlus. Sérénité a mystérieusement disparu.
 
 ## Troisième round
 
-Si les PJ n'ont pas vu le balcon, Grisou, le méphite qui a donné l'alarme surgit à leurs côtés en hurlant : "Venez, on peut s'enfuir par-là !". Les autres, qui auraient échappé aux Ghûraghastas doivent courir jusqu'au jardin. La porte se referme derrière les PJ et Spark veille.
+Si les PJ n'ont pas vu le balcon, Grisou, le méphite qui a donné l'alarme surgit à leurs côtés en hurlant : <font style="color:yellow">"Venez, on peut s'enfuir par-là !"</font>. Les autres, qui auraient échappé aux Ghûraghastas doivent courir jusqu'au jardin. La porte se referme derrière les PJ et Spark veille.
 
 ## Quatrième et cinquième round
 
-Les PJ devraient se trouver en haut du balcon. Sinon ils sont déjà mort. Grisou les attends et a ouvert une porte dérobée. Une vingtaine de Ghûraghastas opèrent un véritable massacre derrière eux. A ce moment, un sourire carnassier embrase le visage de Réghûlus. "Aah, l'Ecorcheuse veut jouer à ça avec moi !". Son trône se soulève dans les airs, en pianotant sur ses accoudoirs, l'Incarnin fait jaillir une multitude de lames de la base de son socle, qui se mettent à tournoyer. Réghûlus vole alors vers les Ghûraghastas, aussi implacable que la Mort sur son trône. Et la porte se referme.
+Les PJ devraient se trouver en haut du balcon. Sinon ils sont déjà mort. Grisou les attends et a ouvert une porte dérobée. Une vingtaine de Ghûraghastas opèrent un véritable massacre derrière eux. 
+
+A ce moment, un sourire carnassier embrase le visage de Réghûlus. "Aah, l'Ecorcheuse veut jouer à ça avec moi !". Son trône se soulève dans les airs, en pianotant sur ses accoudoirs, l'Incarnin fait jaillir une multitude de lames de la base de son socle, qui se mettent à tournoyer. Réghûlus vole alors vers les Ghûraghastas, aussi implacable que la Mort sur son trône. Et la porte se referme.
 
 ## Et si certains PJ meurent ?
 
