@@ -34,30 +34,6 @@
             }
           },
           {
-            "id": "9b9c9883d8fcd3bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Oblivion/Bestiaire/Lézard éléctrique.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Lézard éléctrique"
-            }
-          },
-          {
             "id": "7c1b0e17d0ea4fbc",
             "type": "leaf",
             "state": {
@@ -128,9 +104,32 @@
               "icon": "lucide-file",
               "title": "Serpent Lacustre"
             }
+          },
+          {
+            "id": "89eed6ccaa0fc87d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Oblivion/Bestiaire/Lézard éléctrique.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Lézard éléctrique"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -340,16 +339,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9b9c9883d8fcd3bf",
+  "active": "5d0b65180a87b701",
   "lastOpenFiles": [
+    "Oblivion/Bestiaire/Lézard éléctrique.md",
+    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Lézard électrique.md",
+    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/2 - Oblivion.md",
     "Oblivion/Bestiaire/Mastiff.md",
     "Oblivion/Bestiaire/Mangeuse d'araignées.md",
     "Oblivion/Bestiaire/Malathor.md",
     "Oblivion/Bestiaire/Lézard géant.md",
-    "Oblivion/Bestiaire/Lézard éléctrique.md",
     "Oblivion/Bestiaire/Le Sans-Visage.md",
-    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Lézard électrique.md",
-    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/2 - Oblivion.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Remontée.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Lotus-Pieuvre.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Mangeuse d'araignée.md",

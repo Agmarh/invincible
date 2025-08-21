@@ -23,7 +23,7 @@ actions:
   - name: Décharge étourdissante
     desc: "Le lézard électrique prend pour cible une créature située à 1,5 m ou moins. Il concentre son énergie afin de lui envoyer une décharge électrique. La cible doit effectuer un jet de sauvegarde de Dextérité DD 13 ou subir 9 (2d8) points de dégâts. Une réussite au jet de sauvegarde divise les dégâts par deux."
   - name: Décharge réflexe
-    desc: "Attaque d'arme au corps à corps : +10 pour toucher, allonge 3 m, une cible. Touché : 33 (4d12+7) dégâts perforants. La cible est [[empoigné]] (évasion DD 17) si elle est de taille M ou plus petite. Elle est [[entravé]] tant qu'elle est et le tyrannosaure ne peut pas mordre une autre créature."
-  - name: Queue
-    desc: "Attaque d'arme au corps à corps : +10 pour toucher, allonge 3 m, une cible. Touché : 20 (3d8+7) dégâts contondants."
+    desc: "Quand une créature attaque le lézard électrique au corps-à-corps, ou qu’elle le touche de la main ou de la patte, ce dernier peut utiliser sa réaction afin de lui infliger une décharge étourdissante."
+  - name: Décharge mortelle
+    desc: "Quand deux lézards électriques ou plus se trouvent à moins de 6 m l’un de l’autre, ils peuvent concentrer leur énergie afin de créer une zone mortelle. Dans un rayon de 6 m de l’un des lézards, toutes les créatures doivent réussir un jet de sauvegarde de Dextérité DD 13 ou subir 5 (2d4) points de dégâts par lézard participant à l’action, jusqu’à un maximum de 30 (12d4) points de dégâts. Un jet de sauvegarde de Dextérité DD 13 réussi divise les dégâts par deux."
 ```
