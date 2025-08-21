@@ -1,3 +1,3 @@
 L'armure d'immersion est soudain le siège d'un étrange phénomène. Elle se met à produire de l'air et à se gonfler. Les porteurs, s'ils ne réagissent pas immédiatement, sont subitement entraînés à la surface, subissant l'effet de la décompression :
-- 1d6 dégâts tous les 5 mètres
-- Jet de sauvegarde de Constitution DD 20 pour ne subir que la moitié
+- <font style="color:red">1d6</font> dégâts tous les 5 mètres
+- <font style="color:green">Jet de sauvegarde de Constitution DD 20</font> pour ne subir que la moitié
