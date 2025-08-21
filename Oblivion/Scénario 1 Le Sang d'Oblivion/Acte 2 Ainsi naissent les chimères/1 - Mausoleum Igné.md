@@ -40,9 +40,8 @@ Les PJ peuvent expliquer la mort de Löne Kernos et peuvent poser des questions 
 # Explications
 ## Oblivion :
 
-"Oblivion est un pays empli de chimères... Certaines gens du Vrai Monde, comme vous, pensent qu'il s'agit d'une sorte d'univers des rêves. D'autres, plus souvent, nous identifient au pays des cauchemars. Nous n'avons pas de certitude, mais je peux vous assurer que nous sommes tout à fait réels ! Et si vous mourez ici, vous ne rentrerez jamais dans votre monde.
-
-Pour nous, Oblivion est avant tout une prison. Aucun Oblivien, ni aucune personne du Vrai Monde, ne peut plus entrer ni sortir d'ici depuis des siècles. Vous êtes un cas particulier, qui nous a demandé une formidable énergie. Et vous êtes notre unique espoir de libération..."
+> <font style="color:yellow">"Oblivion est un pays empli de chimères... Certaines gens du Vrai Monde, comme vous, pensent qu'il s'agit d'une sorte d'univers des rêves. D'autres, plus souvent, nous identifient au pays des cauchemars. Nous n'avons pas de certitude, mais je peux vous assurer que nous sommes tout à fait réels ! Et si vous mourez ici, vous ne rentrerez jamais dans votre monde.
+> Pour nous, Oblivion est avant tout une prison. Aucun Oblivien, ni aucune personne du Vrai Monde, ne peut plus entrer ni sortir d'ici depuis des siècles. Vous êtes un cas particulier, qui nous a demandé une formidable énergie. Et vous êtes notre unique espoir de libération..."</font>
 
 ## Concernant la guerre :
 
