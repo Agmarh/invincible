@@ -11,11 +11,14 @@ speed: 12 m, nage 6 m, escalade 6 m
 stats: [10, 16, 10, 3, 16, 6]
 skillsaves:
   - Athlétisme: 2
-  - Discrétion: 2
-  - Perception: 2
-senses: Perception passive 14
+  - Discrétion: 5
+  - Perception: 5
+senses: Perception passive 13
 languages: 
-cr: 8
+cr: 2
+traits:
+  - name: Caméléon
+    desc: "Le lézard électrique peut se confondre facilement avec son environnement. Il possède l’avantage sur tous ses tests de Discrétion."
 actions:
   - name: Attaques multiples
     desc: "Le tyrannosaure effectue deux attaques : une avec sa morsure et une avec sa queue. Il ne peut pas effectuer ces deux attaques contre la même cible."
