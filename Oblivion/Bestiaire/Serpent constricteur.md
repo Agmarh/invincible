@@ -14,7 +14,7 @@ senses: vision aveugle 3 m, Perception passive 10
 cr: 2
 actions:
   - name: Comprimer
-    desc: "Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une créature. Touché : 6 (1d8+2) dégâts contondants et la cible est [[Empoigné]] (évasion DD 16). Jusqu'au terme de cette empoignade, la créature est [[Entravé]] et le serpent ne peut pas comprimer une autre cible."
+    desc: "Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une créature. Touché : 6 (1d8+2) dégâts contondants et la cible est [[Empoigné]] (évasion DD 14). Jusqu'au terme de cette empoignade, la créature est [[Entravé]] et le serpent ne peut pas comprimer une autre cible."
   - name: Morsure
-    desc: "Attaque d'arme au corps à corps : +6 pour toucher, allonge 3 m, une créature. Touché : 11 (2d6+4) dégâts perforants."
+    desc: "Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une créature. Touché : 5 (1d6+2) dégâts perforants."
 ```

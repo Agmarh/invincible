@@ -32,33 +32,8 @@
               "icon": "lucide-file",
               "title": "2 - Oblivion"
             }
-          },
-          {
-            "id": "09c8d9fb5bf5134b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Oblivion/Bestiaire/Serpent constricteur.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Serpent constricteur"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -268,11 +243,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "09c8d9fb5bf5134b",
+  "active": "5d0b65180a87b701",
   "lastOpenFiles": [
-    "D&D/Armure complète en métal Nain.png",
-    "Oblivion/Bestiaire/Serpent constricteur.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Serpent Lacustre.md",
+    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/2 - Oblivion.md",
+    "Oblivion/Bestiaire/Serpent constricteur.md",
+    "D&D/Armure complète en métal Nain.png",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Squelettes.md",
     "Oblivion/Bestiaire/Squelette aquatique.md",
     "Annexe/Règles/Épuisé.md",
@@ -280,7 +256,6 @@
     "Oblivion/Bestiaire/Hydre zombie.md",
     "Oblivion/Bestiaire/Grand Nômage.md",
     "Oblivion/Bestiaire/Gobelin.md",
-    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/2 - Oblivion.md",
     "Oblivion/Bestiaire/Mangeuse d'araignées.md",
     "Oblivion/Bestiaire/Lézard éléctrique.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Avarie.md",
@@ -316,7 +291,6 @@
     "Invincible/Images/remix-416bd1a3-5007-4030-8443-1484d49cdde5.png",
     "Invincible/Scénario 3 Les racines du mal/Lieux",
     "Invincible/Scénario 3 Les racines du mal",
-    "Oblivion/Images/Oblivion 2.png",
     "Oblivion/PNJ/Sans titre.canvas"
   ]
 }
