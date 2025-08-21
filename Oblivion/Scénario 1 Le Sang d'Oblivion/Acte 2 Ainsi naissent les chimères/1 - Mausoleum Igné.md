@@ -97,7 +97,7 @@ Si les PJ n'ont pas vu le balcon, Grisou, le méphite qui a donné l'alarme surg
 
 Les PJ devraient se trouver en haut du balcon. Sinon ils sont déjà mort. Grisou les attends et a ouvert une porte dérobée. Une vingtaine de Ghûraghastas opèrent un véritable massacre derrière eux. 
 
-A ce moment, un sourire carnassier embrase le visage de Réghûlus. "Aah, l'Ecorcheuse veut jouer à ça avec moi !". Son trône se soulève dans les airs, en pianotant sur ses accoudoirs, l'Incarnin fait jaillir une multitude de lames de la base de son socle, qui se mettent à tournoyer. Réghûlus vole alors vers les Ghûraghastas, aussi implacable que la Mort sur son trône. Et la porte se referme.
+A ce moment, un sourire carnassier embrase le visage de Réghûlus. <font style="color:yellow">"Aah, l'Ecorcheuse veut jouer à ça avec moi !"</font>. Son trône se soulève dans les airs, en pianotant sur ses accoudoirs, l'Incarnin fait jaillir une multitude de lames de la base de son socle, qui se mettent à tournoyer. Réghûlus vole alors vers les Ghûraghastas, aussi implacable que la Mort sur son trône. Et la porte se referme.
 
 ## Et si certains PJ meurent ?
 
