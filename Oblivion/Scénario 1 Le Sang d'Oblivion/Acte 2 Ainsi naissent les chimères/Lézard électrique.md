@@ -1,0 +1,1 @@
+Ces petites créatures possèdent la curieuse faculté de produire des chocs électriques pour se protéger de toute agression. Les PJ devront faire face aux assauts de 1d2 d'entre eux.

@@ -90,8 +90,6 @@ Les PJ peuvent descendre à une vitesse de 2,5 mètres par round. Les péripéti
 | 6   | Rien                 | Rien              | Orphéose         | Orphéose         | Orphéose         |
 | 7   | Lotus-Pieuvre        | Lézard électrique | Orphéose         | Orphéose         | Remontée         |
 | 8   | Mangeuse d'araignées | Lotus-Pieuvre     | Avarie           | Serpent Lacustre | Serpent Lacustre |
-- Remontée : l'armure d'immersion est soudain le siège d'un étrange phénomène. Elle se met à produire de l'air et à se gonfler. Les porteurs, s'ils ne réagissent pas immédiatement, sont subitement entraînés à la surface, subissant l'effet de la décompression (1d6 dégâts tous les 5 mètres, jet de sauvegarde de Constitution DD 20 pour ne subir que la moitié).
-
 - Lézard électrique : ces petites créatures possèdent la curieuse faculté de produire des chocs électriques pour se protéger de toute agression. Les PJ devront faire face aux assauts de 1d2 d'entre eux.
 
 - Orphéose : baigner dans les essences primordiales d'une déesse n'est pas sans conséquence sur le psychisme des PJ. La victime, enivrée pendant 1d6 rounds par cette expérience, décide de s'enfoncer vers les profondeurs en ôtant préalablement tout son équipement ! Jet de sauvegarde de Charisme DD 14 à chaque round pour se raisonner.

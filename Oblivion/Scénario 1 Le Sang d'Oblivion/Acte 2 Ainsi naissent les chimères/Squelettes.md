@@ -1,0 +1,1 @@
+Dérivant entre deux courants, les cadavres des rares plongeurs qui ont précédé les PJ prennent vie, 1d8 squelettes saluent l'exploit des PJ avant de les attaquer.
