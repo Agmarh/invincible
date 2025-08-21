@@ -82,6 +82,30 @@
             }
           },
           {
+            "id": "4c9400390f136c94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Oblivion/Bestiaire/Squelette aquatique.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Squelette aquatique"
+            }
+          },
+          {
             "id": "2266cbbf233487d1",
             "type": "leaf",
             "state": {
@@ -316,12 +340,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2266cbbf233487d1",
+  "active": "4c9400390f136c94",
   "lastOpenFiles": [
-    "Oblivion/Bestiaire/Squelette aquatique.md",
-    "Annexe/Règles/Épuisé.md",
-    "Oblivion/Bestiaire/Golem de chair.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Squelettes.md",
+    "Annexe/Règles/Épuisé.md",
+    "Oblivion/Bestiaire/Squelette aquatique.md",
+    "Oblivion/Bestiaire/Golem de chair.md",
     "Oblivion/Bestiaire/Hydre zombie.md",
     "Oblivion/Bestiaire/Grand Nômage.md",
     "Oblivion/Bestiaire/Gobelin.md",
