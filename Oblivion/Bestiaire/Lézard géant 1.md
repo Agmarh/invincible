@@ -5,12 +5,13 @@ type: Créature monstrueuse
 subtype: 
 alignment: Non-alignée
 ac: 16 (armure naturelle)
-hp: 136
-hit_dice: 13d12+52
-speed: 15 m
-stats: [25, 10, 19, 2, 12, 9]
+hp: 35
+hit_dice: 10d6
+speed: 12 m, nage 6 m, escalade 6 m
+stats: [10, 16, 10, 3, 16, 6]
 skillsaves:
-  - Perception: 4
+  - Athlétisme: 2
+    Disc 
 senses: Perception passive 14
 languages: 
 cr: 8
