@@ -1,4 +1,4 @@
-## Le Lac de Morte-Pensée
+# Le Lac de Morte-Pensée
 
 Relancer une attaque de Ghûraghastas dans la citadelle de cuivre pour inciter les PJ à parcourir Oblivion.
 
@@ -18,15 +18,13 @@ Grisou expliquera a qui pose la question :
 - Le Lac de Morte-Pensée possède, dit-on, des pouvoirs divinatoires.
 - Le Draco-Ivre est une auberge entretenue par Clyve l'aboyeur, un chic type.
 - Le lac de Morte-Pensée est dominé par le Mont des Dix Commencements, l'origine même d'Oblivion. On raconte qu'un mystérieux Dieu-Céphale aurait créé le Mont des Dix Commencement et que le reste d'Oblivion aurait suivi ensuite.
-
-- Personne ne croit à cette fable, ce Dieu-Céphale n'a jamais été à l'origine d'aucun culte, ni influence. On lui attribue seulement le Lac de Morte-Pensée. Il l'aurait façonné pour offrir une sépulture à son unique maîtresse, la déesse Khétale, assassinée par un démon colossal.
-- Il aurait extrait les 6 essences de sa bien-aimée pour les mélanger aux sources claires du lac.
-
+	- Personne ne croit à cette fable, ce Dieu-Céphale n'a jamais été à l'origine d'aucun culte, ni influence. On lui attribue seulement le Lac de Morte-Pensée. Il l'aurait façonné pour offrir une sépulture à son unique maîtresse, la déesse Khétale, assassinée par un démon colossal.
+	- Il aurait extrait les 6 essences de sa bien-aimée pour les mélanger aux sources claires du lac.
 - Le Lac est la seule zone épargnée par la guerre entre les Incarnins, une aura magique englobe le mont et le lac, et c'est le seul endroit où on peut se procurer des méduses circéales. Leur pêche est périlleuse, c'est devenu la spécialité des gens installé ici.
 
 En arrivant au lac, les PJ aperçoivent un petit village qui flotte au milieu du lac., les maisons sont entièrement faites de bois, reliées par plusieurs passerelles. Pour y accéder, il faut emprunter une barque et ramer sur 500 ou 600 mètres.
 
-## Le Draco-Ivre
+# Le Draco-Ivre
 
 Le village ne porte aucun nom, et ses habitants, une vingtaine d'Ogres à peau bleue, l'appellent "le village". Ces Ogres ne ressemblent en rien à leurs homologues de Pangée, leurs caractéristiques physiques sont similaires, mais ceux-ci sont civilisés, raffinés.
 
@@ -34,19 +32,17 @@ L'auberge se situe au centre du village, en approchant on peut sentir des effluv
 
 Clyve offre aussitôt à boire aux PJ alors qu'à l'extérieur toute la communauté d'Ogre s'est massée devant les fenêtres de l'auberge.
 
-Les PJ peuvent discuter à loisir de l'utilité des méduses. Si les PJ parlent d'acheter une méduse, Clyve explique qu'avant toute chose, ils doivent "satisfaire à certaines fantaisies qu'un hôte est en droit d'exiger de voyageurs errants".
+Les PJ peuvent discuter à loisir de l'utilité des méduses. Si les PJ parlent d'acheter une méduse, Clyve explique qu'avant toute chose, ils doivent <font style="color:yellow">"satisfaire à certaines fantaisies qu'un hôte est en droit d'exiger de voyageurs errants"</font>.
 
 Les PJ peuvent alors payer un fort droit de séjour (10 000 po) ou accepter "quelques innocentes épreuves destinées à tester leur valeur et amuser le petit peuple".
 
 Si les PJ refusent, ils devront quitter le village sur le champ et se débrouiller seuls pour trouver des méduses.
 
 S'il acceptent, voici les épreuves :
-
 - Le Coup du lézard : petit jeu dans lequel on dispose devant les deux participants six tonnelets soigneusement clos, dont un renferme un lézard électrique. A tour de rôle, ils devront plonger la main dans l'un des tonnelets, au risque de recevoir une décharge électrique (2d8 PV).
-
-- Découper 6 morceaux de papiers et choisir à tour de rôle.
-- Celui qui tombe sur le lézard est déclaré perdant
-- 3 manches au cours desquelles on augmente le nombre de lézards électriques dans le tonnelet (1 puis, 2 puis 3, dommages cumulatifs).
+	- Découper 6 morceaux de papiers et choisir à tour de rôle.
+	- Celui qui tombe sur le lézard est déclaré perdant
+	- 3 manches au cours desquelles on augmente le nombre de lézards électriques dans le tonnelet (1 puis, 2 puis 3, dommages cumulatifs).
 
 - Le Courroux du Lotus : l'occupation préférée de Clyve, il s'agit d'ingurgiter le plus grand nombre de verres de bière et lotus sans s'écrouler. Au premier verre, les adversaires réalisent un jet de sauvegarde de Constitution DD 15. Le DD augmente de 1 à chaque nouveau verre. En cas d'échec, lancez 1d6 (chaque effet dure 1d10 rounds) :
 
