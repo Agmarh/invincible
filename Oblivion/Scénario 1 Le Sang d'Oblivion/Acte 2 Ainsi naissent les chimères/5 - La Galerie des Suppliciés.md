@@ -7,7 +7,7 @@ La trappe mène à une échelle qui permet de descendre à l'intérieur de la to
 Dès qu'ils entrent dans la pièce, un liquide rouge foncé commence à s'écouler des murs, ils semblent ronger les parois de métal et s'approche des PJ. Au bout de 2 rounds <font style="color:green">Jet de sauvegarde de Constitution DD 17</font> sinon <font style="color:red">2d6 points de dégâts</font>, mais <font style="color:#27BEF5">1 chance sur 6 de trouver un objet Oniride</font> parmi :
 
 1. [[Bâton de combat]]
-2. Collier de crâne
+2. [[Collier de crâne]]
 3. [[Bracelets de défense]]
 
 ### Etage intermédiaire
@@ -16,11 +16,11 @@ Au fond de la pièce les PJ peuvent trouver un escalier fait d'obsidienne. En ar
 
 Les personnages peuvent apercevoir une guillotine au bout de laquelle jonchent d'innombrables têtes, s'ils approchent <font style="color:green">jet de sauvegarde DD 15</font> ou subir <font style="color:red">2d8 dégâts</font> de la guillotine. <font style="color:green">Jet de Perception DD 15</font> pour identifier le piège + <font style="color:green">Dextérité (outils de voleur) DD 18</font> pour le désamorcer. S'ils fouillent parmi les têtes ils trouvent une boucle d'oreille oniride gravée du symbole de Mysdora (déesse de la magie)
 
-- Boucle d'oreille de Mysdora
+- [[Boucle d'oreille de Mysdora]]
 
 Dans une alcôve plus loin, se trouve un gant rouillé bardé de pointes d'onirôm et placé dans un globe de verre, dès qu'on touche au globe, les murs s'écrasent l'un contre l'autre. Découvrir le piège demande un <font style="color:green">jet de Perception DD 18</font>, désamorcer <font style="color:green">Dextérité (outils de voleur) DD 22</font>. Si le piège se déclenche, <font style="color:green">jet de sauvegarde de Dextérité DD 20</font> ou <font style="color:red">8d6 points de dégâts</font> (sinon moitié).
 
-- Gantelet de puissance d'ogre
+- [[Gantelets de puissance d'ogre]]
 
 ### Rez de chaussée
 
@@ -33,6 +33,7 @@ La configuration de la pièce est telle que les mouvements du monstre seront tr�
 Dans la pièce, les PJ trouveront 1 objet :
 
 - un étrange appareil miniature parsemé de gemme d'onirôm, cela ressemble à un petit sous-marin
+- [[Submer]]
 
 Une fois le calme revenu et que les PJ se reposeront, Grisou sortira son miroir d'audience pour entrer en contact avec Réghûlus. Il sera stupéfait par le récit des PJ et félicitera les PJ : 
 > <font style="color:yellow">"Chiaroscuro est toute proche à présent, je le sens… Et ceci grâce à vous : soyez assurés que vos noms rejoindront les légendes d'Oblivion…"</font>

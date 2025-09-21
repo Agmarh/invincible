@@ -1,6 +1,6 @@
 Type : Objet merveilleux
-Rareté : Légendaire
+Rareté : Rare
 Harmonisation : Non
 
 # Effets
-Vous pouvez utiliser une action pour dépenser une des 3 charges que contient l'anneau et lancer un sort de [[Souhait]] par son biais. L'anneau devient ordinaire et non-magique dès que vous utilisez sa dernière charge.
+Le porteur peut utiliser son action afin d’arracher un crâne du collier. Ce dernier lance alors immédiatement le sort de [[Boule de feu]] au niveau 3. Le crâne est consumé dans le processus.
