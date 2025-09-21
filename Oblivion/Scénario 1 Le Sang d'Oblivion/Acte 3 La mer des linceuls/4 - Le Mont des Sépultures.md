@@ -49,7 +49,7 @@ Les runes s'activent dès qu'on entre dans la deuxième moitié de la pièce et 
 
 La base du trône dissimule une cache secrète, <font style="color:green">Investigation DD 21</font> pour la trouver. L'ouverture est protégée, il faut réussir un <font style="color:green">jet de sauvegarde de Constitution DD 20</font> ou tomber immédiatement à 0 PV. A l'intérieur se trouve :
 
-- Un anneau de triple souhait
+- [[Anneau de triple souhait]]
 - [[Bâton de givre]]
 - Skorcheur
 
