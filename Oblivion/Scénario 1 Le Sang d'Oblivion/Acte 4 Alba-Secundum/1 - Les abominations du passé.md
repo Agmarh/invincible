@@ -14,7 +14,7 @@ Nouveau <font style="color:green">jet de sauvegarde de Charisme DD 15</font>, ce
 
 <font style="color:orange">Ils s'apercevront à un moment qu'ils tiennent dans les mains chacun 2 potions, une potion de résistance aux dégâts de feu (liquide légèrement rouge avec parfois comme des flammes qui s'agitent à l'intérieur) et une potion de soins excellents (8d4+4).</font>
 
-S'ils ont le cœur à examiner les cadavres, jet de Perception DD 10 permet de savoir qu'ils n'y a que des corps d'adultes, aucun enfant, et qu'ils n'ont aucun équipement sur eux.
+S'ils ont le cœur à examiner les cadavres, <font style="color:green">jet de Perception DD 10</font> permet de savoir qu'ils n'y a que des corps d'adultes, aucun enfant, et qu'ils n'ont aucun équipement sur eux.
 
 S'ils décroches pour examine les cadavres, ils contempleront les carcasses déchirées, au crâne perforé et déduiront le processeur de création d'un ravageur.
 
@@ -26,10 +26,10 @@ La seconde caverne est creusée dans la même pierre blanche que le reste de la 
 
 Ils semblent en bonne santé, si ce n'est qu'ils sont chacun enfermés dans une cuve organique : un œuf grisâtre, mou et transparent, hérissé d'étranges cordons pulsants et remplis d'un liquide visqueux.
 
-Test d'Arcane DD 12 pour comprendre qu'il serait dangereux, voir fatal, d'extraire un enfant ou d'endommager sa cuve. Avec un score de 14, on peut affirmer sans se tromper qu'ils sont en état d'animation suspendue, et qu'ils n'ont subi aucun mal, ni aucune altération. Leurs gémissements ne sont que des symptômes normaux pour un enfant endormis en train de rêver.
+<font style="color:green">Jet d'Arcane DD 12</font> pour comprendre qu'il serait dangereux, voir fatal, d'extraire un enfant ou d'endommager sa cuve. Avec un score de 14, on peut affirmer sans se tromper qu'ils sont en état d'animation suspendue, et qu'ils n'ont subi aucun mal, ni aucune altération. Leurs gémissements ne sont que des symptômes normaux pour un enfant endormis en train de rêver.
 
 S'ils libèrent un enfant, celui-ci s'agite en dormant et le liquide se teinte de sinistres volutes noires. S'ils persistent, l'enfant sort de sa cuve, s'éveille, et décède en quelques instants, le visage crispé d'horreur.
 
 Un second couloir conduit vers une lumière plus dense, avec un souffle d'air chaud. La pièce semble cette fois beaucoup plus vaste, on perçoit au loin le grondement d'un fleuve.
 
-Un appel résonne soudain dans l'esprit des PJ : "Les Flammes ! Les flammes me consument ! Venez jusqu'à moi, vite…" C'est Sérénité qui vient d'appeler les PJ à l'aide.
+> Un appel résonne soudain dans l'esprit des PJ : <font style="color:yellow">"Les Flammes ! Les flammes me consument ! Venez jusqu'à moi, vite…"</font> C'est Sérénité qui vient d'appeler les PJ à l'aide.
