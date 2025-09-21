@@ -15,14 +15,14 @@ En attendant, le Ravageur poursuit son discours. Le regard vibrant d’orgueil e
 
 Répondant au Ravageur, une immense vague de haine engloutit soudain les sens des PJ, telle une noire déferlante psychique émise depuis la voûte de la caverne. Levant les yeux, ils contemplent ce qu’ils croyaient être les ténèbres au sommet de la grotte. Mais ce ne sont pas les ténèbres.
 
-"Vois, Sombre Déesse ! Ces idiots commencent seulement à comprendre."
+> <font style="color:yellow">"Vois, Sombre Déesse ! Ces idiots commencent seulement à comprendre."</font>
 
 C'est un corps. Une masse noire, aux puissantes arches osseuses, se dépliant lentement…
 
-"Jadis, tu pouvais créer un unique ravageur à la fois. Mais maintenant, tu disposes du POUVOIR DE DEUX FRAGMENTS !"
+> <font style="color:yellow">"Jadis, tu pouvais créer un unique ravageur à la fois. Mais maintenant, tu disposes du POUVOIR DE DEUX FRAGMENTS !"</font>
 
 … d’où émergent trois immondes faux d’ébène : des appendices antérieurs, osseux et tranchants comme des rasoirs, qui se déploient, se tendent vers le bas de la caverne…
 
-"Que dirais-tu, Sombre Déesse, d’utiliser les CERVEAUX de tous ces ENFANTS ? Ah, quelle belle ARMÉE DE RAVAGEURS cela ferait !"
+> <font style="color:yellow">"Que dirais-tu, Sombre Déesse, d’utiliser les CERVEAUX de tous ces ENFANTS ? Ah, quelle belle ARMÉE DE RAVAGEURS cela ferait !"</font>
 
 ... vers les PJ pour les tailler en pièces !
