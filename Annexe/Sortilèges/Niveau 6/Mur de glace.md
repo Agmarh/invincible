@@ -1,26 +1,25 @@
 ---
-type: Enchantement
+type: Evocation
 niveau: 6
 incantation: 1 action
-distance: 18 mètres
-composantes: V, M (une langue de serpent et soti un rayon de miel, soit une goutte d'huile d'olive)
-temps: 24 heures
-classe: Barde, Ensorceleur/Sorcelame, Magicien, Sorcier
+distance: 36 mètres
+composantes: V, S, M (un éclat de quartz)
+temps: concentration, jusqu'à 10 minutes
+classe: Magicien
 ---
 # Enchantement de niveau 6
 
-**Temps d'incantation :** 1 action
-**Portée :** 18 mètres
-**Composantes :** V, M (une langue de serpent et soti un rayon de miel, soit une goutte d'huile d'olive)
-**Durée :** 24 heures
-**Classe :** Barde, Ensorceleur/Sorcelame, Magicien, Sorcier
+**emps d'incantation** : 1 action
+**Portée** : 36 mètres
 
-Vous visez un maximum de douze créatures de votre choix, situées à portée et dans votre champ de vision et à même de vous entendre et de vous comprendre. Vous les influencez par magie de façon à ce qu'elles suivent la conduite que vous leur proposez (en seulement une phrase ou deux). Les créatures qui ne peuvent être [[Charmé]] sont immunisées contre ce sort. Vous devez formuler votre suggestion de manière à ce que la conduite à tenir semble tout à fait raisonnable. Si vous demandez à une créature de se poignarder, de se laisser tomber sur une lance, de s'immoler ou d'accomplir n'importe quelle action à l'évidence néfaste, l'effet du sort s'annule automatiquement.
+**Composantes** : V, S, M (un éclat de quartz)
 
-Chaque cible doit réussir un jet de sauvegarde de Sagesse, sans quoi elle fait de son mieux pour suivre la conduite que vous lui avez suggérée et cela peut occuper toute la durée du sort. Si l'action suggérée peut se finir plus rapidement, le sort se termine quand la cible a accompli ce que vous lui aviez demandé.
+**Durée** : concentration, jusqu'à 10 minutes
 
-Vous pouvez spécifier des conditions qui déclenchent une conduite spéciale pendant la durée du sort. Par exemple, vous pouvez suggérer à un groupe de soldats de donner tout leur argent au premier mendiant qu'ils rencontrent. Si les conditions ne sont pas remplies avant la fin du sort, la cible n'accomplit pas l'action.
+**Classe** : Magicien
 
-Si vous (ou l'un de vos compagnons) blessez une créature affectée par ce sort, le sort se termine pour elle.
+Vous créez un mur de glace sur une surface solide à portée. Vous pouvez lui donner une forme de dôme hémisphérique ou de sphère d'un rayon maximal de 3 mètres ou en faire une surface plane composée de dix panneaux de 3 mètres d'arête. Chaque panneau doit être contigu à un autre. Quelle que soit sa forme, le mur fait 30 centimètres d'épaisseur et persiste pendant toute la durée du sort. Si le mur passe par l'emplacement d'une créature lorsqu'il apparaît, il l'expulse d'un côté ou de l'autre et elle doit effectuer un [jet de sauvegarde](https://5e-drs.fr/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité. Si elle échoue, elle subit 10d6 dégâts de froid, la moitié seulement si elle réussit.
 
-**À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau 7 ou supérieur, la durée du sort est de 10 jours. Si vous utilisez un emplacement de niveau 8, elle est de 30 jours et si vous utilisez un emplacement de niveau 9, elle est de 1 an et 1 jour.
+Le mur est un objet que l'on peut endommager, et on peut donc y ouvrir des brèches. Il a une CA de 12 et 30 points de vie par section de 3 mètres de côté. Il est vulnérable aux dégâts de feu. Si une section de 3 mètres de côté tombe à 0 point de vie, elle est détruite et laisse juste une zone d'air glacé à l'emplacement où se trouvait le pan de mur. Quand une créature se déplace dans cette zone frigorifique pour la première fois de son tour, elle doit effectuer un [jet de sauvegarde](https://5e-drs.fr/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution. Si elle échoue, elle subit 5d6 dégâts de froid, la moitié seulement si elle réussit.
+
+**À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau 7 ou supérieur, les dégâts que le mur inflige en apparaissant augmentent de 2d6 et les dégâts provoqués par un passage dans la zone d'air glacé augmentent de 1d6 par niveau au-delà du niveau 6.
