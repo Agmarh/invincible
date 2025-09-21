@@ -1,0 +1,13 @@
+## Le Sentier des Airs
+
+Clyve accueille les PJ avec respect et admiration. Il leur offre un médusier par personne : un oniride ciselé d'argent, en forme d'aquarium de 20cm de diamètre. Ils sont conçus pour abriter les méduses circéales entre deux utilisations (de l'eau pure suffit à leur survie).
+
+Si les PJ racontent le passage de la vision, Clyve blêmira, il reconnaît la description de la Galerie des Suppliciés, une tour maudite aux confins de la ville où les cauchemars les plus sordides d'un dieu dérangé sont, un jour, devenus réalité…
+
+La Galerie des Suppliciés est un beffroi gigantesque aux deux tiers détruit et scellé de plaques d'argent, situé à une trentaine de km au nord du Mont des Dix Commencements, une sorte de musée de la Souffrance et de l'Horreur dont le nom suffit à inspirer la terreur. Pour s'y rendre, Clyve suggère d'emprunter une portion du Sentier des Airs, moyen qui lui semble le plus rapide et le plus sûr d'atteindre les faubourgs éloignés. Ce curieux réseau de cordes métalliques tendues entre les plus hautes tours de la cité où glissent de mystérieuses nacelles ouvragées, prend son origine sur les flancs du Mont des Dix Commencements.
+
+L'Aboyeur conduira les PJ au fil de tunnels taillé dans la roche pour rejoindre, quelques centaines de mètres plus haut, le point de départ des chariots suspendus. Les nacelles descendent le long des câbles, il n'existe aucun système de commande ou de freinage. En revanche, Clyve sera incapable de donner une explication sur comment les nacelles reviennent. La nacelle s'élancera sur une simple poussée de Clyve.
+
+Les nacelles passent par 2 relais, qui servent à tenir les nacelles en places, comme un téléphérique. En arrivant vers la première, les PJ aperçoive, sur la tour, une sorte d'être titanesque, une sorte de démon, immense. Assis tranquillement sur la nacelle, il a une respiration lente et semble cracher du feu par moment. Ses yeux, rouge, regardent la nacelle avancée jusqu'à lui. Que font les PJ ?
+
+La deuxième tour approche, les PJ aperçoivent une grande statue représentant une femme dont le crâne est perforé de pointes acérées et tenant au bout de son bras une torche brûlant d'une flamme rouge. Ils remarquent que la nacelle va passer au cœur du brasier, infligeant 2d6 dégâts de feu, jet de sauvegarde de Constitution DD 14 pour diviser par 2.
