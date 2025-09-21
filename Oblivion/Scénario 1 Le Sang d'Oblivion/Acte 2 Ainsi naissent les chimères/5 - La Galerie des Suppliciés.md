@@ -8,7 +8,7 @@ Dès qu'ils entrent dans la pièce, un liquide rouge foncé commence à s'écoul
 
 1. [[Bâton de combat]]
 2. Collier de crâne
-3. Bracelets de défense
+3. [[Bracelets de défense]]
 
 ### Etage intermédiaire
 
