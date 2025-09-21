@@ -96,6 +96,6 @@ Lorsque les PJ atteignent la sixième essence, les PJ entrent dans une transe ca
 
 Puis vient la vision : une tour tronquée scellée de métal, des parois de chairs blêmes suintant de liquides organiques, un moule métallique et triangulaire à la taille du fragment aperçu chez Réghûlus, des salles de torture aux dimensions titanesques…
 
-Enfin, brutalement, cette étrange et déconcertante communion cesse, laissant place à un curieux sentiment d'attente bienveillante : la déesse accepte de répondre à toute interrogation de la part des PJ. Mais ils ne doivent pas oublier qu'ils sont sur le territoire du Léviathan : un Ver pourpre qui risque de s'éveiller pour les dévorer (1 chance sur 2 à chaque round). L'issue d'un tel affrontement résulterait en la mort du groupe.
+Enfin, brutalement, cette étrange et déconcertante communion cesse, laissant place à un curieux sentiment d'attente bienveillante : la déesse accepte de répondre à toute interrogation de la part des PJ. Mais ils ne doivent pas oublier qu'ils sont sur le territoire du Léviathan : un Ver pourpre qui risque de s'éveiller pour les dévorer (<font style="color:red">1 chance sur 2 à chaque round</font>). L'issue d'un tel affrontement résulterait en la mort du groupe.
 
 Les PJ qui atteignent la Sixième Essence obtiennent l'admiration de Clyve et de son clan, qui ne manqueront pas de répandre la nouvelle à travers Oblivion.
