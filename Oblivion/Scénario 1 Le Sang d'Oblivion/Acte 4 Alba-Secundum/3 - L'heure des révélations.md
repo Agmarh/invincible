@@ -1,9 +1,8 @@
 ## Première révélation
 Les traits déformés par la possession, Rhâvi Shândar lance aux PJ...
 
-> "Aaah, ENFIN ! Pauvres mortels, vous daignez finalement sortir de votre trou pour vous présenter devant NOUS ! Vous venez libérer cette petite Tisseuse de Sérénité ? Mais que croyiez-vous ? Son enlèvement n’a servi qu’à vous motiver, qu’à diriger vos pas ! Comme tout le reste d’ailleurs.
-
-N’est-ce pas Grisou ? Grisou, as-tu dit à tes amis pour qui tu travaillais ? Ne te cache pas, misérable méphite, viens voir tes maîtres, qu’ils t’administrent une juste récompense…"
+> <font style="color:yellow">"Aaah, ENFIN ! Pauvres mortels, vous daignez finalement sortir de votre trou pour vous présenter devant NOUS ! Vous venez libérer cette petite Tisseuse de Sérénité ? Mais que croyiez-vous ? Son enlèvement n’a servi qu’à vous motiver, qu’à diriger vos pas ! Comme tout le reste d’ailleurs.</font>
+> <font style="color:yellow">N’est-ce pas Grisou ? Grisou, as-tu dit à tes amis pour qui tu travaillais ? Ne te cache pas, misérable méphite, viens voir tes maîtres, qu’ils t’administrent une juste récompense…"</font>
 
 Les PJ sont sous l’effet d’un charme puissant qu’ils ne peuvent contrer. Ils sont charmés, incapables de s’en prendre à Rhâvi (un effet produit par le Ravageur).
 
@@ -12,7 +11,7 @@ Grisou, quant à lui, se terre en tremblant. L'un des PJ sent Grisou trembler de
 ## Deuxième révélation
 En attendant, le Ravageur poursuit son discours. Le regard vibrant d’orgueil et de folie meurtrière :
 
-"Regarde-les ma Sombre Déesse, ne sont-ils pas pitoyables dans leur petite coquille de chair? Eux qui n’ont qu’une seule vie, si faibles, si fragiles…"
+> <font style="color:yellow">"Regarde-les ma Sombre Déesse, ne sont-ils pas pitoyables dans leur petite coquille de chair? Eux qui n’ont qu’une seule vie, si faibles, si fragiles…"</font>
 
 Répondant au Ravageur, une immense vague de haine engloutit soudain les sens des PJ, telle une noire déferlante psychique émise depuis la voûte de la caverne. Levant les yeux, ils contemplent ce qu’ils croyaient être les ténèbres au sommet de la grotte. Mais ce ne sont pas les ténèbres.
 
