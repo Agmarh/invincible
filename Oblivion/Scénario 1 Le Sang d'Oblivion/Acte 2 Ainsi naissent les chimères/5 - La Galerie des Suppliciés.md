@@ -33,7 +33,6 @@ La configuration de la pièce est telle que les mouvements du monstre seront tr�
 Dans la pièce, les PJ trouveront 1 objet :
 
 - un étrange appareil miniature parsemé de gemme d'onirôm, cela ressemble à un petit sous-marin
-- [[Submer]]
 
 Une fois le calme revenu et que les PJ se reposeront, Grisou sortira son miroir d'audience pour entrer en contact avec Réghûlus. Il sera stupéfait par le récit des PJ et félicitera les PJ : 
 > <font style="color:yellow">"Chiaroscuro est toute proche à présent, je le sens… Et ceci grâce à vous : soyez assurés que vos noms rejoindront les légendes d'Oblivion…"</font>
