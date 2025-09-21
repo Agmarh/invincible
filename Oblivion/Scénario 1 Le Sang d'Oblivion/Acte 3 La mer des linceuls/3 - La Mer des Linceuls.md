@@ -10,7 +10,7 @@ Si les PJ se rappelle du submersible et qu'ils le déploient, celui-ci pourra pe
 
 1. Les PJ traversent une caverne bleutée, lorsqu'ils croisent un orque qui semble intrigué par le "poisson aux yeux lumineux", il donne un coup de dents pour goûter le submersible. Si les PJ éteignent les feux de l'appareil, l'orque s'éloignera, s'ils attaquent, l'orque se défendra pendant 4 ou 5 rounds avant d'abandonner.
 
-2. L'appareil doit franchir un passage délicat et plonger à une grande profondeur. Il encaisse <font style="color:red">1d4 dégâts par round</font>. Au bout de quatre rounds, le passage se rétrécit, pour le dégager il faut utiliser les pinces ou des sorts pour casser la glace (30 PV) tout en encaissant 1d4 points de dégâts par round.
+2. L'appareil doit franchir un passage délicat et plonger à une grande profondeur. Il encaisse <font style="color:red">1d4 dégâts par round</font>. Au bout de quatre rounds, le passage se rétrécit, pour le dégager il faut utiliser les pinces ou des sorts pour casser la glace (30 PV) tout en encaissant les dégâts.
 
 3. Le submersible approche de la cité, d'étranges bâtiments se profilent derrières les parois des tunnels que les PJ traversent. On aperçoit d'antiques cadavres prisonniers de la glace, certains déchiquetés, d'autres bien conservés.
 
@@ -24,7 +24,8 @@ Soudain, les PJ voient approcher une centaine de créatures humanoïdes ressembl
 
 - Elles vont souvent chercher des os plus haut, dans un lieu appelé le Mont des Sépultures. Il y a un temple noir, là-bas, dont elles ne s'approchent jamais, saisies de crainte sans bien comprendre pourquoi.
 
-- Elles ont pour habitude de psalmodier une sinistre comptine pour enfant, héritage d'un lointain passé. "Au début d'là comptine, le roi commit un crime, Ecoute bien, apprends tout, car le roi devint fou ! Son souvenir est poussière, mais sa poigne est de fer, Sa parole est d'argent, si tu es transparent, Et son silence est d'or, mais son trône cache la mort. A la fin d'là comptine, seule compte l'adamantine."
+- Elles ont pour habitude de psalmodier une sinistre comptine pour enfant, héritage d'un lointain passé. 
+> <font style="color:yellow">"Au début d'là comptine, le roi commit un crime, Ecoute bien, apprends tout, car le roi devint fou ! Son souvenir est poussière, mais sa poigne est de fer, Sa parole est d'argent, si tu es transparent, Et son silence est d'or, mais son trône cache la mort. A la fin d'là comptine, seule compte l'adamantine."</font>
 
 Si les PJ se montrent agressifs ils n'obtiendront rien et seront vite catalogués comme nourriture. Une chasse à l'homme se lance alors.
 
