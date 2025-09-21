@@ -6,15 +6,15 @@ Ils sentent des gouttes tomber régulièrement autour d'eux, il y règne une ode
 
 Soudain, les ténèbres perdent de leur densité (les sorts viennent tous d'être dissipés), la grotte se révèle doucement. En fait, ses murs luisent d'une faible lueur maladive qui émane de mousses à peine phosphorescentes. 
 
-Le sol, sous vos pieds, n'est pas constitué de pierres, c'est un tas d'os, une véritable colline d'ossements brisés en morceaux (jet de sauvegarde de Charisme DD 13, en cas d'échec ils se mettent à trembler, désavantage sur leurs actions pendant quelques rounds).
+Le sol, sous vos pieds, n'est pas constitué de pierres, c'est un tas d'os, une véritable colline d'ossements brisés en morceaux (<font style="color:green">jet de sauvegarde de Charisme DD 13</font>, en cas d'échec ils se mettent à trembler, <font style="color:red">désavantage</font> sur leurs actions pendant quelques rounds).
 
 Quant aux gouttes, elle proviennent de cocons visqueux, pendus sous la voûte, dix mètres au-dessus de vous. Des cocons dans lesquels on peut deviner des silhouettes humanoïdes par centaines. Ou plutôt leurs restes mutilés. Beaucoup sont desséchés, suspendus là depuis des années. D'autres sont plus récents, très récents même… Puisque c'est leur sang qui s'égoutte sur le pavé d'ossements.
 
-Nouveau jet de sauvegarde de Charisme DD 15, ceux qui échoue se mettent à trembler, même malus que précédemment sauf pour ceux qui avaient déjà échoué qui subis une malédiction, malus de -6 en force.
+Nouveau <font style="color:green">jet de sauvegarde de Charisme DD 15</font>, ceux qui échoue se mettent à trembler, même malus que précédemment sauf pour ceux qui avaient déjà échoué qui subis une malédiction, <font style="color:red">malus de -6 en force</font>.
 
-Ils s'apercevront à un moment qu'ils tiennent dans les mains chacun 2 potions, une potion de résistance aux dégâts de feu (liquide légèrement rouge avec parfois comme des flammes qui s'agitent à l'intérieur) et une potion de soins excellents (8d4+4).
+<font style="color:orange">Ils s'apercevront à un moment qu'ils tiennent dans les mains chacun 2 potions, une potion de résistance aux dégâts de feu (liquide légèrement rouge avec parfois comme des flammes qui s'agitent à l'intérieur) et une potion de soins excellents (8d4+4).</font>
 
-S'ils ont le cœur à examiner les cadavres, test de Perception DD 10 permet de savoir qu'ils n'y a que des corps d'adultes, aucun enfant, et qu'ils n'ont aucun équipement sur eux.
+S'ils ont le cœur à examiner les cadavres, jet de Perception DD 10 permet de savoir qu'ils n'y a que des corps d'adultes, aucun enfant, et qu'ils n'ont aucun équipement sur eux.
 
 S'ils décroches pour examine les cadavres, ils contempleront les carcasses déchirées, au crâne perforé et déduiront le processeur de création d'un ravageur.
 
