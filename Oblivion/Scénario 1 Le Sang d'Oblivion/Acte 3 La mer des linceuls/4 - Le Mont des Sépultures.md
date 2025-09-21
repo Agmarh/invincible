@@ -5,10 +5,8 @@ Le temple comprend seulement une dizaine de colonnes, au toucher, la pierre para
 Au milieu du sol, une dalle gigantesque porte un monstrueux anneau de bronze. Il faut une force combinée de 30 pour le saisir et soulever la dalle. Elle s'ouvre sur un escalier en colimaçon, descendant au cœur du Mont des Sépultures.
 
 # La Tragédie du Roi
-
 ## Son souvenir est Poussière
-
-Cette salle contient des ornements et du mobilier en bois précieux. Tout est conçu pour un humanoïde de taille gigantesque. Le mobilier tombe en poussière dès que l'on touche. Une double porte ornée d'un second anneau de bronze permet d'accéder à la pièce suivante. Un test de Perception DD 12 fait remarquer que la poussière devant la double porte paraît différente. Un jet d'Arcane DD 15 apprend qu'il s'agit de reste humanoïdes. En fait, un symbole magique représentant la mort est finement gravé dans l'anneau de bronze. Quiconque l'empoigne déclenche son pouvoir et subit 6d10 dégâts.
+Cette salle contient des ornements et du mobilier en bois précieux. Tout est conçu pour un humanoïde de taille gigantesque. Le mobilier tombe en poussière dès que l'on touche. Une double porte ornée d'un second anneau de bronze permet d'accéder à la pièce suivante. Un <font style="color:green">jet de Perception DD 12</font> fait remarquer que la poussière devant la double porte paraît différente. Un <font style="color:green">jet d'Arcane DD 15</font> apprend qu'il s'agit de reste humanoïdes. En fait, un symbole magique représentant la mort est finement gravé dans l'anneau de bronze. Quiconque l'empoigne déclenche son pouvoir et subit <font style="color:red">6d10 dégâts</font>.
 
 ## Sa poigne est de Fer
 
@@ -16,7 +14,7 @@ Cette pièce titanesque est la plus extraordinaire des forges ! D'étincelants s
 
 Dès que les PJ touchent à quelque chose, un gigantesque gant d'acier apparaît et le combat s'engage.
 
-Les seuls éléments intéressants sont les matériaux précieux, ils peuvent obtenir pour 1d10 x1000 po de richesses par personne. Un test d'Investigation DD 20 permet de trouver, derrière une porte secrète, un bouclier caché à taille humaine.
+Les seuls éléments intéressants sont les matériaux précieux, ils peuvent obtenir pour 1d10 x1000 po de richesses par personne. Un <font style="color:red">jet d'Investigation DD 20</font> permet de trouver, derrière une porte secrète, un bouclier caché à taille humaine.
 
 Au fond de la forge, une énorme porte en fer ornée d'un anneau de bronze donne sur la salle suivante.
 
