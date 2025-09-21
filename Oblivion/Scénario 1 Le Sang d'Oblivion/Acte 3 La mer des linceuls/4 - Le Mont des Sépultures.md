@@ -51,7 +51,7 @@ La base du trône dissimule une cache secrète, <font style="color:green">Invest
 
 - [[Anneau de triple souhait]]
 - [[Bâton de givre]]
-- Skorcheur
+- [[Skorcheur]]
 
 Lorsque les PJ ouvrent le boitier, ils découvrent un simple triangle de papier, d'un blanc quasi-lumineux. Il est exactement de la même dimension que l'autre fragment chez Réghûlus. Malgré son aspect fragile, il est indestructible et sa puissance est sans égale : les PJ tomberont à genoux face à lui. Mieux vaut conserver sa boite.
 

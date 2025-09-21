@@ -6,7 +6,7 @@ La trappe mène à une échelle qui permet de descendre à l'intérieur de la to
 
 Dès qu'ils entrent dans la pièce, un liquide rouge foncé commence à s'écouler des murs, ils semblent ronger les parois de métal et s'approche des PJ. Au bout de 2 rounds <font style="color:green">Jet de sauvegarde de Constitution DD 17</font> sinon <font style="color:red">2d6 points de dégâts</font>, mais <font style="color:#27BEF5">1 chance sur 6 de trouver un objet Oniride</font> parmi :
 
-1. Bâton de combat
+1. [[Bâton de combat]]
 2. Collier de crâne
 3. Bracelets de défense
 
