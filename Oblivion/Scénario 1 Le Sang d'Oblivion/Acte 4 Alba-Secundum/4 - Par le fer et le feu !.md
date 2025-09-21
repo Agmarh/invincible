@@ -6,21 +6,25 @@ Simultanément, les trois appendices antérieurs de L’Écorcheuse se tendent, 
 
 <font style="color:red">L’Écorcheuse peut lancer deux attaques par round (+8/+8)</font>. Si le coup porte, le PJ ne subit pas de dommages mais son âme est « écorchée » par l’Incarnin du Mal : il perd aussitôt 3 points, soit en Intelligence, soit Sagesse soit en Charisme (lancer 1d6) !
 
-Arrivé à 0, le personnage meurt. Les appendices ont une CA 16 et 35 PV chacun. Quant aux araignées-goules, vous pouvez en faire surgir de deux à douze en fonction de la force de votre groupe.
+Arrivé à 0, le personnage meurt. <font style="color:red">Les appendices ont une CA 16 et 35 PV chacun</font>. Quant aux araignées-goules, vous pouvez en faire surgir de deux à douze en fonction de la force de votre groupe.
 
 ## Que peuvent faire les PJ ?
+## Combattre le Ravageur, les appendices de l’Écorcheuse, les ghûraghastas : 
+Pour cela, les PJ n’ont pas le choix. S’ils fuient, les ghûraghastas ne les poursuivront pas plus loin que les frontières d’Alba-Secundum. En revanche, le Ravageur les traquera jusqu’à ce qu’il les tue ou qu’il soit lui-même tué.
 
-Combattre le Ravageur, les appendices de l’Écorcheuse, les ghûraghastas : pour cela, les PJ n’ont pas le choix. S’ils fuient, les ghûraghastas ne les poursuivront pas plus loin que les frontières d’Alba-Secundum. En revanche, le Ravageur les traquera jusqu’à ce qu’il les tue ou qu’il soit lui-même tué.
+## Combattre l’Écorcheuse directement ? : 
+Elle est peu vulnérable aux pouvoirs des PJ. De son côté, elle utilise ses appendices antérieurs et envoie des vagues d’émotions empathiques (haine, « divine » colère, etc.) mais n’en fera pas plus au cours des prochaines heures. La Transmigration de groupe l’a trop épuisée.
 
-Combattre l’Écorcheuse directement ? : elle est peu vulnérable aux pouvoirs des PJ. De son côté, elle utilise ses appendices antérieurs et envoie des vagues d’émotions empathiques (haine, « divine » colère, etc.) mais n’en fera pas plus au cours des prochaines heures. La Transmigration de groupe l’a trop épuisée.
+## Gagner du temps : 
+L’orgueil de l’Écorcheuse est peut-être l’unique défaut de sa cuirasse. Il suffit par exemple qu’un PJ défie le Ravageur en combat singulier sur un pont de toile (qu’il utilise le bluff ou l’intimidation, suivant la façon de s’y prendre, le DD sera de 15 dans tous les cas). Ceci détourne l’attention de l’Écorcheuse et peut donner le temps aux autres de libérer Sérénité, de déployer le submersible du crabe, etc.
 
-Gagner du temps : l’orgueil de l’Écorcheuse est peut-être l’unique défaut de sa cuirasse. Il suffit par exemple qu’un PJ défie le Ravageur en combat singulier sur un pont de toile (qu’il utilise le bluff ou l’intimidation, suivant la façon de s’y prendre, le DD sera de 15 dans tous les cas). Ceci détourne l’attention de l’Écorcheuse et peut donner le temps aux autres de libérer Sérénité, de déployer le submersible du crabe, etc.
-
-Libérer Sérénité : pour cela, il faut briser l’œuf Gangue-Flamme qui l’entoure. Il est considéré comme ayant une CA de 15 et 30 PV, mais seul le froid peut l’affecter. Sitôt libérée, Sérénité s’interpose courageusement entre les PJ et l’Écorcheuse, brandissant son épée de bois... Et pendant quelques instants, le temps paraît se figer.
+## Libérer Sérénité : 
+Pour cela, il faut briser l’œuf Gangue-Flamme qui l’entoure. Il est considéré comme ayant une CA de 15 et 30 PV, mais seul le froid peut l’affecter. Sitôt libérée, Sérénité s’interpose courageusement entre les PJ et l’Écorcheuse, brandissant son épée de bois... Et pendant quelques instants, le temps paraît se figer.
 
 Dans un déluge de puissance, les deux Incarnins s’affrontent ! Au début, la petite fille pare vaillamment les coups avec son épée de bois et parvient même à repousser les ténèbres ! Les PJ disposent alors de deux rounds sans subir d’attaque de l’Écorcheuse. Mais cette dernière redouble de hargne et, au troisième round, Sérénité s’écroule, épuisée, dans les bras des PJ.
 
-S’enfuir : il est possible de vaincre le Ravageur, mais d’autres ghûraghastas suivront et l’Écorcheuse est presque invincible. Fuir devient donc l’objectif principal après avoir libéré Sérénité. On peut le faire d’au moins deux façons :
+## S’enfuir : 
+Il est possible de vaincre le Ravageur, mais d’autres ghûraghastas suivront et l’Écorcheuse est presque invincible. Fuir devient donc l’objectif principal après avoir libéré Sérénité. On peut le faire d’au moins deux façons :
 
 1. En empruntant l’un des couloirs menant vers la surface, on s’expose alors aux attaques de nombreuses ghûraghastas.
 2. Le plus « simple » est encore de déployer le submersible du crabe, d’embarquer avec Sérénité et de sauter dans la rivière ! Le déploiement demande deux rounds. Le plongeon dans la rivière inflige un choc à l’appareil (4d10 points de dommages) et aux PJ. Ils doivent effectuer un jet de sauvegarde de Dextérité DD 18. En cas d’échec, ils subissent 5d6 points de dégâts. Réussir le jet de sauvegarde permet de diviser les dégâts par 2. Il suffit ensuite de remonter la rivière à contre-courant, pour rejoindre le labyrinthe de canaux d’Oblivion et des territoires plus sûrs.
