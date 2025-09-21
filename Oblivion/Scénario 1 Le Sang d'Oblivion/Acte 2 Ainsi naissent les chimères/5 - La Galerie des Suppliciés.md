@@ -18,7 +18,7 @@ Les personnages peuvent apercevoir une guillotine au bout de laquelle jonchent d
 
 - Boucle d'oreille de Mysdora
 
-Dans une alcôve plus loin, se trouve un gant rouillé bardé de pointes d'onirôm et placé dans un globe de verre, dès qu'on touche au globe, les murs s'écrasent l'un contre l'autre. Découvrir le piège demande un <font style="color:green">jet de Perception DD 18<font style="color:green">, désamorcer Dextérité (outils de voleur) DD 22. Si le piège se déclenche, jet de sauvegarde de Dextérité DD 20 ou 8d6 points de dégâts (sinon moitié).
+Dans une alcôve plus loin, se trouve un gant rouillé bardé de pointes d'onirôm et placé dans un globe de verre, dès qu'on touche au globe, les murs s'écrasent l'un contre l'autre. Découvrir le piège demande un <font style="color:green">jet de Perception DD 18</font>, désamorcer <font style="color:green">Dextérité (outils de voleur) DD 22</font>. Si le piège se déclenche, <font style="color:green">jet de sauvegarde de Dextérité DD 20</font> ou <font style="color:red">8d6 points de dégâts</font> (sinon moitié).
 
 - Gantelet de puissance d'ogre
 
@@ -28,7 +28,7 @@ Les PJ arrivent dans une salle soutenue par des arches au style gothiques, c'est
 
 Au milieu de son torse barbelé, les PJ peuvent apercevoir une lueur chromée, la Matrice.
 
-La configuration de la pièce est telle que les mouvements du monstre seront très restreint et il sera désavantagé. Il est possible d'arracher la Matrice en réussissant un jet de Force DD 20. Une fois la Matrice libérée, elle s'envolera et ira se s'incruster dans la poitrine de Grisou, qui ne comprendra pas du tout ce qu'il se passe, il y a désormais comme un tatouage sur le torse du méphite.
+La configuration de la pièce est telle que les mouvements du monstre seront très restreint et il sera désavantagé. Il est possible d'arracher la Matrice en réussissant un <font style="color:green">jet de Force DD 20</font>. Une fois la Matrice libérée, elle s'envolera et ira se s'incruster dans la poitrine de Grisou, qui ne comprendra pas du tout ce qu'il se passe, il y a désormais comme un tatouage sur le torse du méphite.
 
 Dans la pièce, les PJ trouveront 1 objet :
 
