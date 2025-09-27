@@ -27,9 +27,9 @@ actions:
     desc: "Attaque d’arme au corps-à-corps : +4 pour toucher, allonge 1,50 m, une créature. Touché : 6 (1d8+2) dégâts contondants."
 treasure:
   - name: Armure de cuir
-  - name: [[Manteau d'ombre]]
-  - name: Arbalète légère
-  - name: Epée courte empoisonnée
+  - name: Arbalète lourde
+  - name: Hache d'arme
+  - name: (1d6) [1-2] feu grégeois, [3-4]
   - name: Carreaux empoisonnés
   - name: 45 po
 ```
