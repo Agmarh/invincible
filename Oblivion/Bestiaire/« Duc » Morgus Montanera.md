@@ -15,13 +15,16 @@ skillsaves:
   - Perception: 9
   - Persuasion: 7
   - Supercherie: 7
-  - Indimidation: 
-senses: vision dans le noir 18m, Perception passive 17
-languages: commun, runique
-cr: 4
+  - Indimidation: 10
+saves:
+  - Dextérité: 8
+  - Intelligence: 4
+senses: Perception passive 19
+languages: commun, runique, elfique
+cr: 5
 traits:
   - name: Attaque sournoise
-    desc: Quand Ettin a l’avantage sur une attaque ou qu’un allié se trouve au contact de sa cible, il peut déclencher une attaque sournoise sur l’une de ses attaques. Cette attaque occasionne 14 (4d6) dégâts supplémentaires. Cette capacité fonctionne lorsqu’il utilise son arbalète.
+    desc: Quand Morgus a l’avantage sur une attaque, ou qu’un allié se trouve au contact de sa cible, il peut déclencher une attaque sournoise sur l’une de ses attaques. Cette attaque occasionne 10 (3d6) dégâts supplémentaires.
   - name: Manteau d'ombre
     desc: Ettin possède un manteau maudit capable de lui permettre de se fondre dans les ombres. Quand il le porte, il bénéficie d’un avantage à ses tests de Dextérité (Discrétion). De plus, il peut utiliser sa réaction afin de disparaître de l’endroit où il se trouve afin de réapparaître dans un rayon de 120 m. Cette dernière capacité ne peut être réutilisée qu’après avoir effectué un repos long.
 actions:
