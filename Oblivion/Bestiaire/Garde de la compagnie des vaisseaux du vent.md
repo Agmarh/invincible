@@ -2,18 +2,17 @@
 name: Garde de la compagnie des vaisseaux du vent
 size: M
 type: Humanoïde
-subtype: nain
-alignment: Chaotique Mauvais
-ac: 11 (armure de cuir)
-hp: 32
-hit_dice: 5d8+10
-speed: 7.5 m
-stats: [15, 11, 14, 10, 10, 11]
+subtype: Humain
+alignment: Neutre
+ac: 15 (bouclier, cuir clouté)
+hp: 15
+hit_dice: 3d8+3
+speed: 9 m
+stats: [13, 12, 12, 10, 11, 10]
 skillsaves:
-  - Discrétion: 2
-  - Intimidation: 2
-senses: vision dans le noir 18m, Perception passive 10
-languages: commun, runique
+  - Perception: 2
+senses: Perception passive 12
+languages: commun
 cr: 1/2
 traits:
   - name: Tactique de groupe
