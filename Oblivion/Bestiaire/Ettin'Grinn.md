@@ -24,22 +24,22 @@ traits:
     desc: Ettin possède un manteau maudit capable de lui permettre de se fondre dans les ombres. Quand il le porte, il bénéficie d’un avantage à ses tests de Dextérité (Discrétion). De plus, il peut utiliser sa réaction afin de disparaître de l’endroit où il se trouve afin de réapparaître dans un rayon de 120 m. Cette dernière capacité ne peut être réutilisée qu’après avoir effectué un repos long.
 actions:
   - name: Attaques multiples
-    desc: "Le dragon effectue trois attaques : une avec sa morsure et deux avec ses griffes."
+    desc: "Ettin peut effectuer deux attaques de mêlée avec une action attaquer."
   - name: Épée courte empoisonnée
-    desc: "Attaque d’arme au corps à corps : +7 pour toucher, allonge 1,50 m, une cible. Touché : 11 (2d6+4) dégâts tranchants."
+    desc: "Attaque d’arme au corps-à-corps : +7 pour toucher, allonge 1,50 m, une cible. Touché : 7 (1d6+4) dégâts tranchants + 2 (1d4) dégâts de poison."
   - name: Arbalète légère
     desc: "Attaque d’arme au corps à corps : +7 pour toucher, allonge 3 m, une cible. Touché : 15 (2d10+4) dégâts perforants."
 treasure:
   - name: Cuirasse
     desc:
-  - name: Cuirasse
+  - name: Manteau d'ombre
     desc:
-  - name: Cuirasse
+  - name: Arbalète légère
     desc:
-  - name: Cuirasse
+  - name: Epée courte empoisonnée
     desc:
-  - name: Cuirasse
+  - name: Carreaux empoisonnés
     desc:
-  - name: Cuirasse
+  - name: 45 po
     desc:
 ```
