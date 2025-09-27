@@ -35,5 +35,5 @@ actions:
   - name: Épée courte électrique
     desc: "Attaque d’arme au corps-à-corps : +8 pour toucher, allonge 1,50 m, une cible. Touché : 8 (1d6+5) dégâts tranchants et 3 (1d6) dégâts d’électricité."
 treasure:
-  - name: Manteau d'arachnide
+  - name: [[Manteau d'arachnide]]
 ```
