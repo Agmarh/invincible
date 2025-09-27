@@ -28,18 +28,12 @@ actions:
   - name: Épée courte empoisonnée
     desc: "Attaque d’arme au corps-à-corps : +7 pour toucher, allonge 1,50 m, une cible. Touché : 7 (1d6+4) dégâts tranchants + 2 (1d4) dégâts de poison."
   - name: Arbalète légère
-    desc: "Attaque d’arme au corps à corps : +7 pour toucher, allonge 3 m, une cible. Touché : 15 (2d10+4) dégâts perforants."
+    desc: "Attaque d’arme à distance : +7 pour toucher, portée 24/96. Touché : 8 (1d8+4) dégâts perforants et 4 (1d8) dégâts de poison. De plus, si l’arbalète provoque des dégâts, la cible doit réussir un test de Constitution DD 13 ou être empoisonnée. Elle peut retenter un jet de sauvegarde de Constitution à chaque tour afin de se débarrasser de l’état empoisonné. Une fois entre chaque repos long, Ettin peut changer de poison sur l’un de ses carreaux et infliger l’état paralysé durant 1d4+1 rounds."
 treasure:
   - name: Cuirasse
-    desc:
   - name: Manteau d'ombre
-    desc:
   - name: Arbalète légère
-    desc:
   - name: Epée courte empoisonnée
-    desc:
   - name: Carreaux empoisonnés
-    desc:
   - name: 45 po
-    desc:
 ```
