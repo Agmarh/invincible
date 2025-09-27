@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oblivion/L'Empire.md",
+                "file": "Oblivion/Bestiaire/Malathor.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "L'Empire"
+              "title": "Malathor"
             }
           }
         ]
@@ -243,6 +243,9 @@
   },
   "active": "50bf43f857432a94",
   "lastOpenFiles": [
+    "Oblivion/Bestiaire/Ghûraghasta.md",
+    "Oblivion/Bestiaire/Ravageur.md",
+    "Oblivion/L'Empire.md",
     "Oblivion/Objets Magiques/Nocturno.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/1 - Mausoleum Igné.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/2 - Oblivion.md",
@@ -266,9 +269,6 @@
     "Annexe/Sortilèges/Niveau 6/Suggestion de groupe.md",
     "Annexe/Sortilèges/Niveau 6/Vision suprême.md",
     "Annexe/Sortilèges/Niveau 6/Trouver un chemin.md",
-    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 4 Alba-Secundum/1 - Les abominations du passé.md",
-    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 4 Alba-Secundum/2 - Le nid de l'écorcheuse.md",
-    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 4 Alba-Secundum/3 - L'heure des révélations.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Le Lac de Morte-Pensée",
     "D&D/Armure complète en métal Nain.png",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Sans titre.canvas",
