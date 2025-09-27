@@ -29,6 +29,6 @@ treasure:
   - name: Armure de cuir
   - name: Arbalète lourde
   - name: Hache d'arme
-  - name: (1d6) [1-2] feu grégeois, [3-4] chausse-trappes ou [5-6] petit fumigène
+  - name: "Lancer 1d6) [1-2] feu grégeois, [3-4] chausse-trappes ou [5-6] petit fumigène"
   - name: (1d10) po
 ```
