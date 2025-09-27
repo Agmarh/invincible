@@ -21,7 +21,7 @@ Chaque famille au sein de l'empire doit envoyer, dès sa naissance, son second e
 Les plus forts et les plus doués deviennent des arch-philax au service direct du Kaïsar
     
 # Instance Dirigeante
--   Le dirigeant de l'Empire s'appelle Kaïsar. Il décide et approuve les lois.
+-   Le dirigeant de l'Empire s'appelle le Kaïsar. Il décide et approuve les lois.
 -   Le Sénat conseil le Kaïsar, instance dirigeante de Khoros. Composé de patricien siégeant comme sénateurs, ils décident de l'orientation politique de la province mais conseils aussi le Kaïsar sur celle de l'Empire.
 -   Les conseils provinciaux dirigent chaque provinces de l'empire, constitués d'un ensemble de patriciens locaux. Ils ont presque tout pouvoir sauf sur les légions qui répondent au Sénat directement. Le général d'une légion provinciale siège toujours au conseil.
 -   Les conseils citadins, composés de patriciens et de simples citoyens gèrent les affaires des cités de l'Empire.

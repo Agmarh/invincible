@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "deab1064fd522ce5",
+        "id": "a45487373ead07ec",
         "type": "tabs",
         "children": [
           {
-            "id": "24ded9ce262e97b0",
+            "id": "50bf43f857432a94",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Oblivion/L'Empire.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "title": "L'Empire"
             }
           }
         ]
@@ -227,7 +241,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "efc7fbc9dabff410",
+  "active": "50bf43f857432a94",
   "lastOpenFiles": [
     "Oblivion/Objets Magiques/Nocturno.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/1 - Mausoleum Igné.md",
