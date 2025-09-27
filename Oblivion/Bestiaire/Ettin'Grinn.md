@@ -10,14 +10,13 @@ hit_dice: 9d8+27
 speed: 7.5 m
 stats: [15, 18, 16, 12, 13, 11]
 skillsaves:
-  - Discrétion: 3
-  - Perception: 6
-  - Persuasion: 5
-senses: vision dans le noir 18m, Perception passive 15
-damage_immunities: feu
-senses: vision aveugle 9m, vision dans le noir 36m, Perception passive 16
-languages: commun, draconique
-cr: 6
+  - Discrétion: 10
+  - Intimidation: 6
+  - Perception: 7
+  - Outils de voleur: 7
+senses: vision dans le noir 18m, Perception passive 17
+languages: commun, runique
+cr: 4
 actions:
   - name: Attaques multiples
     desc: "Le dragon effectue trois attaques : une avec sa morsure et deux avec ses griffes."

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oblivion/Bestiaire/Ettin'Grinn.md",
+                "file": "Oblivion/Bestiaire/Elfe de Farendhell.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ettin'Grinn"
+              "title": "Elfe de Farendhell"
             }
           }
         ]
@@ -243,8 +243,8 @@
   },
   "active": "50bf43f857432a94",
   "lastOpenFiles": [
-    "Oblivion/Bestiaire/Elfe de Farendhell.md",
     "Oblivion/Bestiaire/Ettin'Grinn.md",
+    "Oblivion/Bestiaire/Elfe de Farendhell.md",
     "Oblivion/Bestiaire/Dragon d'acier adulte.md",
     "Oblivion/Bestiaire/Dunkhan.md",
     "Oblivion/Bestiaire/Ecclésiastique.md",
