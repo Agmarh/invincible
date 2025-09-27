@@ -16,7 +16,10 @@ skillsaves:
   - Persuasion: 7
   - Supercherie: 7
   - Indimidation: 10
-senses: vision dans le noir 18m, Perception passive 17
+skillsaves:
+  - Dextérité: 8
+  - Intelligence: 4
+senses: Perception passive 19
 languages: commun, runique
 cr: 4
 traits:
