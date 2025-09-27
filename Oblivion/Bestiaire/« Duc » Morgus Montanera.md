@@ -1,25 +1,20 @@
 ```statblock
-name: "Dur" Morgus Montanera
+name: « Duc » Morgus Montanera
 size: M
 type: Humanoïde
 subtype: humain
 alignment: Loyal Mauvais
-ac: 17 (armure de cuir clouté)
-hp: 71
-hit_dice: 11d8+22
-speed: 9 m
-stats: [13, 20, 15, 12, 16, 18]
+ac: 16 (cuirasse)
+hp: 67
+hit_dice: 9d8+27
+speed: 7.5 m
+stats: [15, 18, 16, 12, 13, 11]
 skillsaves:
-  - Discrétion: 8
-  - Perspicacité: 6
-  - Perception: 9
-  - Persuasion: 7
-  - Supercherie: 7
-  - Indimidation: 10
-skillsaves:
-  - Dextérité: 8
-  - Intelligence: 4
-senses: Perception passive 19
+  - Discrétion: 10
+  - Intimidation: 6
+  - Perception: 7
+  - Outils de voleur: 7
+senses: vision dans le noir 18m, Perception passive 17
 languages: commun, runique
 cr: 4
 traits:
