@@ -4,20 +4,16 @@ size: M
 type: Humanoïde
 subtype: nain
 alignment: Chaotique Mauvais
-ac: 17
-hp: 110
-hit_dice: 13d10+39
-speed: 12 m, fouissement 6 m, vol 24 m
-stats: [19, 10, 17, 12, 11, 15]
-saves:
-  - Dex: 3
-  - Con: 6
-  - Sag: 3
-  - Cha: 5
+ac: 16 (cuirasse)
+hp: 67
+hit_dice: 9d8+27
+speed: 7.5 m
+stats: [15, 18, 16, 12, 13, 11]
 skillsaves:
   - Discrétion: 3
   - Perception: 6
   - Persuasion: 5
+senses: vision dans le noir 18m, Perception passive 15
 damage_immunities: feu
 senses: vision aveugle 9m, vision dans le noir 36m, Perception passive 16
 languages: commun, draconique
