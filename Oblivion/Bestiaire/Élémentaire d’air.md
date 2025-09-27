@@ -10,9 +10,9 @@ hit_dice: 5d8+10
 speed: 0 m, vol 27 m (vol stationnaire)
 stats: [14, 18, 14, 6, 10, 6]
 damage_resistances: de foudre, de tonnerre
-condition_immunities: à terre, empoigné, empoisonné, entravé, épuisé, inconscient, paralysé, pétrifié
-senses: vision dans le noir 18m, Perception passive 17
-languages: commun, runique
+condition_immunities: [[A terre]], [[Empoigné]], [[Empoisonné]], [[Entravé]], [[Épuisé]], inconscient, [[Paralysé]] et [[Pétrifié]]
+senses: vision dans le noir 18m, Perception passive 10
+languages: aérien
 cr: 4
 traits:
   - name: Attaque sournoise
