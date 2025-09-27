@@ -1,5 +1,5 @@
 ```statblock
-name: Nain du clan des cadavreux
+name: Garde de la compagnie des vaisseaux du vent
 size: M
 type: Humanoïde
 subtype: nain
