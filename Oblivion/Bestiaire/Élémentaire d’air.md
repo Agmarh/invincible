@@ -8,12 +8,9 @@ ac: 14
 hp: 32
 hit_dice: 5d8+10
 speed: 0 m, vol 27 m (vol stationnaire)
-stats: [15, 18, 16, 12, 13, 11]
-skillsaves:
-  - Discrétion: 10
-  - Intimidation: 6
-  - Perception: 7
-  - Outils de voleur: 7
+stats: [14, 18, 14, 6, 10, 6]
+damage_resistances: de foudre, de tonnerre
+condition_immunities: à terre, empoigné, empoisonné, entravé, épuisé, inconscient, paralysé, pétrifié
 senses: vision dans le noir 18m, Perception passive 17
 languages: commun, runique
 cr: 4
