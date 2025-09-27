@@ -3,4 +3,4 @@ Rareté : Très rare
 Harmonisation : Oui
 
 # Effets
-Vous pouvez utiliser une action pour dépenser une des 3 charges que contient l'anneau et lancer un sort de [[Souhait]] par son biais. L'anneau devient ordinaire et non-magique dès que vous utilisez sa dernière charge.
+Ce manteau maudit est capable de permettre à son porteur de se fondre dans les ombres. Quand il le porte, il bénéficie d’un avantage à ses tests de Dextérité (Discrétion). De plus, il peut utiliser sa réaction afin de disparaître de l’endroit où il se trouve afin de réapparaître dans un rayon de 120 m. Cette dernière capacité ne peut être réutilisée qu’après avoir effectué un repos long.
