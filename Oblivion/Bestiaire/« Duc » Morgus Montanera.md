@@ -31,14 +31,9 @@ actions:
   - name: Attaques multiples
     desc: "Morgus peut effectuer deux attaques avec une action attaquer. Se battant à deux armes, il porte la plupart du temps deux attaques avec son épée courte, suivie d’une attaque avec sa rapière."
   - name: Rapière
-    desc: "Attaque d’arme au corps-à-corps : +7 pour toucher, allonge 1,50 m, une cible. Touché : 7 (1d6+4) dégâts tranchants + 2 (1d4) dégâts de poison."
-  - name: Arbalète légère
-    desc: "Attaque d’arme à distance : +7 pour toucher, portée 24/96. Touché : 8 (1d8+4) dégâts perforants et 4 (1d8) dégâts de poison. De plus, si l’arbalète provoque des dégâts, la cible doit réussir un test de Constitution DD 13 ou être empoisonnée. Elle peut retenter un jet de sauvegarde de Constitution à chaque tour afin de se débarrasser de l’état empoisonné. Une fois entre chaque repos long, Ettin peut changer de poison sur l’un de ses carreaux et infliger l’état paralysé durant 1d4+1 rounds."
+    desc: "Attaque d’arme au corps-à-corps : +8 pour toucher, allonge 1,50 m, une cible. Touché : 9 (1d8+5) dégâts perforants."
+  - name: Épée courte électrique
+    desc: "Attaque d’arme au corps-à-corps : +8 pour toucher, allonge 1,50 m, une cible. Touché : 8 (1d6+5) dégâts tranchants et 3 (1d6) dégâts d’électricité."
 treasure:
-  - name: Cuirasse
-  - name: [[Manteau d'ombre]]
-  - name: Arbalète légère
-  - name: Epée courte empoisonnée
-  - name: Carreaux empoisonnés
-  - name: 45 po
+  - name: Manteau d'arachnide
 ```
