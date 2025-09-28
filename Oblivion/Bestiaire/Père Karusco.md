@@ -37,5 +37,5 @@ treasure:
   - name: Gemme de destruction (oniride légendaire)
   - name: Bouteille de vin
   - name: dés et cartes à jouer
-  - name: Kama
+  - name: Kama +1
 ```

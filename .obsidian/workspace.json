@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oblivion/Bestiaire/Père Karusco.md",
+                "file": "Oblivion/Bestiaire/Le Ravageur (Acte 1).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Père Karusco"
+              "title": "Le Ravageur (Acte 1)"
             }
           }
         ]
@@ -243,8 +243,8 @@
   },
   "active": "50bf43f857432a94",
   "lastOpenFiles": [
-    "Oblivion/Bestiaire/Ravageur.md",
     "Oblivion/Bestiaire/Père Karusco.md",
+    "Oblivion/Bestiaire/Le Ravageur (Acte 1).md",
     "Oblivion/Bestiaire/Rhâvi Shândar.md",
     "Oblivion/Bestiaire/Fan'Goriah.md",
     "Oblivion/Bestiaire/Valkin, Fils de Malathor.md",

@@ -1,11 +1,11 @@
 ```statblock
 image: [[monstre.png]]
-name: Ravageur
+name: Le Ravageur (Acte 1)
 size: G
 type: Fiélon
 subtype: 
 alignment: Loyal Mauvais
-ac: 13
+ac: 19 (armure naturelle)
 hp: 142
 hit_dice: 15d10+60
 speed: 12 m, vol 12 m
