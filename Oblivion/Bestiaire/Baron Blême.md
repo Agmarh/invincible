@@ -11,22 +11,22 @@ speed: 12 m
 stats: [20, 12, 18, 10, 14, 9]
 skillsaves:
   - Athlétisme: 8
-  - Perspicacité: 6
-  - Perception: 9
-  - Persuasion: 7
-  - Supercherie: 7
-  - Indimidation: 10
-saves:
-  - Dextérité: 8
-  - Intelligence: 4
-senses: Perception passive 19
-languages: commun, runique, elfique
-cr: 5
+  - Intimidation: 8
+senses: vision dans le noir 18 m, Perception passive 12
+languages: commun, orc
+cr: 4
 traits:
-  - name: Attaque sournoise
-    desc: Quand Morgus a l’avantage sur une attaque, ou qu’un allié se trouve au contact de sa cible, il peut déclencher une attaque sournoise sur l’une de ses attaques. Cette attaque occasionne 10 (3d6) dégâts supplémentaires.
-  - name: Manteau d'arachnide (repos court)
-    desc: Morgus peut utiliser son action bonus afin d’activer son manteau d’arachnide. Il est alors sous le coup du sort pattes d’araignée pendant 5 rounds. De plus, tant qu’il le porte, il a, et ce de manière permanente, l’avantage à tous ses jets de sauvegarde de Dextérité.
+  - name: Défense sans armure
+    desc: Quand il ne porte pas d’armure, sa défense est égale à 10 + modificateur de Dextérité + modificateur de Constitution.
+  - name: Rage
+    desc: Baron Blême peut devenir enragé. Il bénéficiealors d’un avantage sur les tests et les jets de
+sauvegarde de Force. Il gagne un bonus aux dégâts
+de ses coups de +2. Il est aussi résistant aux dégâts
+tranchants, perforants et contondants. Sa rage dure
+1 minute et prend fin prématurément s’il n’a pas pu
+frapper d’ennemis ou encaisser de dégâts durant
+un round. Il doit effectuer un repos court avant de
+réutiliser cette capacité.
 actions:
   - name: Attaques multiples
     desc: "Morgus peut effectuer deux attaques avec une action attaquer. Se battant à deux armes, il porte la plupart du temps deux attaques avec son épée courte, suivie d’une attaque avec sa rapière."
