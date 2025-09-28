@@ -8,23 +8,23 @@ ac: 13 (chemise de mailles)
 hp: 27
 hit_dice: 5d8+5
 speed: 7.5 m
-stats: [10, 10, 15, 12, 16, 18]
+stats: [10, 10, 12, 13, 16, 13]
 skillsaves:
-  - Discrétion: 8
-  - Perspicacité: 6
-  - Perception: 9
-  - Persuasion: 7
-  - Supercherie: 7
-  - Indimidation: 10
-saves:
-  - Dextérité: 8
-  - Intelligence: 4
-senses: Perception passive 19
-languages: commun, runique, elfique
-cr: 5
+  - Médecine: 7
+  - Persuasion: 3
+  - Religion: 4
+senses: Perception passive 13
+languages: commun, runique
+cr: 2
 traits:
-  - name: Attaque sournoise
-    desc: Quand Morgus a l’avantage sur une attaque, ou qu’un allié se trouve au contact de sa cible, il peut déclencher une attaque sournoise sur l’une de ses attaques. Cette attaque occasionne 10 (3d6) dégâts supplémentaires.
+  - name: Distinction divine
+    desc: Par une action bonus, Rhâvi peut dépenser un emplacement de sort pour que ses attaques d’arme au corps-à-corps infligent par
+magie 10 (3d6) dégâts radiants supplémentaires
+à une cible qu’il parvient à toucher. Cet avantage
+dure jusqu’à la fin du tour. Si le clerc dépense
+un emplacement de sort de niveau 2 ou plus, les
+dégâts supplémentaires augmentent de 1d6 par
+niveau au-dessus du premier.
   - name: Manteau d'arachnide (repos court)
     desc: Morgus peut utiliser son action bonus afin d’activer son manteau d’arachnide. Il est alors sous le coup du sort pattes d’araignée pendant 5 rounds. De plus, tant qu’il le porte, il a, et ce de manière permanente, l’avantage à tous ses jets de sauvegarde de Dextérité.
 actions:
