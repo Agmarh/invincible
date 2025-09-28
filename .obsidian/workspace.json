@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oblivion/Bestiaire/Le Ravageur (Acte 1).md",
+                "file": "Oblivion/Bestiaire/Mante obscure.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Le Ravageur (Acte 1)"
+              "title": "Mante obscure"
             }
           }
         ]
@@ -243,8 +243,12 @@
   },
   "active": "50bf43f857432a94",
   "lastOpenFiles": [
-    "Oblivion/Bestiaire/Père Karusco.md",
     "Oblivion/Bestiaire/Le Ravageur (Acte 1).md",
+    "Oblivion/Bestiaire/Mante obscure.md",
+    "Oblivion/Bestiaire/Le Sans-Visage.md",
+    "Oblivion/Bestiaire/Ogre d'Oblivion.md",
+    "Oblivion/Bestiaire/Oskar Holderhek.md",
+    "Oblivion/Bestiaire/Père Karusco.md",
     "Oblivion/Bestiaire/Rhâvi Shândar.md",
     "Oblivion/Bestiaire/Fan'Goriah.md",
     "Oblivion/Bestiaire/Valkin, Fils de Malathor.md",
@@ -265,10 +269,6 @@
     "Oblivion/Objets Magiques/Manteau d'ombre.md",
     "Oblivion/Bestiaire/Azmän Sagdïn.md",
     "Oblivion/Bestiaire/Âme-en-peine.md",
-    "Oblivion/Bestiaire/Fantôme de chevalier.md",
-    "Oblivion/Bestiaire/Faustit Farendhell.md",
-    "Oblivion/Bestiaire/Garde.md",
-    "Oblivion/Bestiaire/Gardien d'Azmän.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Le Lac de Morte-Pensée",
     "D&D/Armure complète en métal Nain.png",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Sans titre.canvas",
