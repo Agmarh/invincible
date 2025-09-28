@@ -25,8 +25,8 @@ traits:
   - name: Parade de projectiles
     desc: "Karusco utilise sa réaction pour parer ou attraper un projectile quand vous êtes touché par une attaque venant d›une arme à distance. Quand il utilise cette aptitude, les dégâts qu’il subit sont réduits de 1d10+8. Si les dégâts qu’il subit sont totalement annulés, il peut attraper le projectile s’il a une main de libre et que le projectile est assez petit pour qu’il puisse le tenir dans une main. S’il réussit, il peut immédiatement effectuer une attaque à distance gratuite avec l’arme ou la munition qu’il vient d’attraper. Cette attaque est considérée comme maîtrisée, et le projectile est considéré comme une arme de moine pour cette attaque, avec une portée normale de 6 m et une portée longue de 18 m."
   - name: Pouvoirs du ravageur
-    desc: "Karusco peut utiliser les sorts suivant à leur niveau minimal : [[soin, blessure, détection du mal et du bien, détection de la magie, détection des pensées, voir l’invisible, compréhension des langues. Il peut lancer chacun de ces sorts une fois entre chaque repos court ou long.
-Insondable. Karusco est en permanence sous l’effet
+    desc: "Karusco peut utiliser les sorts suivant à leur niveau minimal : [[Soin des blessures]], [[Blessure]], [[Détection du mal et du bien]], [[Détection de la magie]], [[Détection des pensées]], [[Voir l'invisible]], [[Compréhension des langues]]. Il peut lancer chacun de ces sorts une fois entre chaque repos court ou long.
+   - Insondable. Karusco est en permanence sous l’effet
 du sort esprit impénétrable. Cet effet ne peut être
 détecté avec le sort détection de la magie."
 actions:
