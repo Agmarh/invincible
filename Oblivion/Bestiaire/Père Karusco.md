@@ -11,15 +11,19 @@ hit_dice: 11d8+11
 speed: 7.5 m
 stats: [15, 18, 12, 14, 16, 12]
 skillsaves:
-  - 
-senses: vision dans le noir 36 m, Perception passive 12
-languages: commun, infernal
-cr: 9
+  - Acrobatie: 7
+  - Athlétisme: 8
+  - Discrétion: 7
+senses: Perception passive 13
+languages: commun
+cr: 4
 traits:
-  - name: Résistance à la magie
-    desc: "Le ravageur obtient un avantage lors des jets de sauvegarde contre les sorts et autres effets magiques."
-  - name: Pouvoirs du ravageur
-    desc: "Le ravageur peut utiliser les sorts suivant à leur niveau minimal : soins des blessures, blessure, détection du mal et du bien, détection de la magie, détection des pensées, voir l’invisible, compréhension des langues. Il peut lancer chacun de ces sorts une fois entre chaque repos court ou long."
+  - name: Défense sans armure
+    desc: "Lorsqu’il ne porte pas d’armure, Karusco peut ajouter son modificateur de Sagesse à sa CA, en plus de son modificateur de Dextérité."
+  - name: Arts martiaux
+    desc: "Les poings de Karusco ainsi que son kama ou toute autre arme de moine infligent 1d6 points de dégâts. De plus, quand il utilise l’action attaquer,
+Karusco peur utiliser son action bonus pour
+infliger un coup à mains nues."
   - name: Insondable
     desc: "Le ravageur est en permanence sous l’effet du sort esprit impénétrable. Cet effet ne peut être détecté avec le sort détection de la magie."
 actions:
