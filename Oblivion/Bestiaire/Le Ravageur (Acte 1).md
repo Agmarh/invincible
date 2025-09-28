@@ -26,8 +26,10 @@ cr: 9
 traits:
   - name: Résistance à la magie
     desc: "Le ravageur obtient un avantage lors des jets de sauvegarde contre les sorts et autres effets magiques."
+  - name: Vue du diable
+    desc: "Les ténèbres magiques ne bloquent pas la vision dans le noir du ravageur."
   - name: Pouvoirs du ravageur
-    desc: "Le ravageur peut utiliser les sorts suivant à leur niveau minimal : soins des blessures, blessure, détection du mal et du bien, détection de la magie, détection des pensées, voir l’invisible, compréhension des langues. Il peut lancer chacun de ces sorts une fois entre chaque repos court ou long."
+    desc: "Le ravageur peut utiliser les sorts suivant à leur niveau minimal : [[Soin des blessures]], [[Blessure]], [[Détection du mal et du bien]], [[Détection de la magie]], [[Détection des pensées]], [[Voir l'invisible]], compréhension des langues. Il peut lancer chacun de ces sorts une fois entre chaque repos court ou long."
   - name: Insondable
     desc: "Le ravageur est en permanence sous l’effet du sort esprit impénétrable. Cet effet ne peut être détecté avec le sort détection de la magie."
 actions:
