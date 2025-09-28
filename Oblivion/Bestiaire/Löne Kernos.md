@@ -21,9 +21,9 @@ languages: commun, runique, elfique
 cr: 6
 spells:
   - "Löne est un lanceur de sorts de niveau 7. Sa caractéristique d’incantation est le Charisme (DD du jet de sauvegarde contre les sorts DD 15, +7 pour toucher avec les attaques de sort)."
-  - à volonté: [[Lumières dansantes]], [[Main du mage]], [[Moquerie cruelle]], [[Pattes d'araignée]], [[Projectile magique]]
-  - 1er niveau (4 emplacements): [[Bénédiction]], [[Bouclier de la foi]], [[Compréhension des langues]], [[Injonction]]
-  - 2e niveau (3 emplacements): [[Apaisement des émotions]], [[Détection des pensées]], [[Immobiliser un humanoïde]]
+  - à volonté: [[Lumières dansantes]], [[Main du mage]], [[Moquerie cruelle]]
+  - 1er niveau (4 emplacements): [[Détection de la magie]], [[Identification]], [[Léger comme une plume]], [[Serviteur invisible]]
+  - 2e niveau (3 emplacements): [[Détection des pensées]], [[Envoûtement]], [[Localiser un objet]]
   - 3e niveau (2 emplacements): [[Clairvoyance]], [[Dissipation de la magie]], [[Envoi de message]]
 traits:
   - name: Collier de contrôle
