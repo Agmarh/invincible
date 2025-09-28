@@ -13,6 +13,6 @@ senses: Perception passive 10
 languages: commun
 cr: 0
 actions:
-  - name: Main nues
-    desc: "Attaque d’arme au corps-à-corps : +4 pour toucher, allonge 1,50 m, une cible. Touché : 6 (1d8+2) dégâts tranchants."
+  - name: Mains nues
+    desc: "Attaque d’arme au corps-à-corps : +2 pour toucher, allonge 1,50 m, une cible. Touché : 1 dégât contondant"
 ```
