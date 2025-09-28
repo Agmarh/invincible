@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oblivion/Bestiaire/Nain intégriste.md",
+                "file": "Oblivion/Bestiaire/Baron Blême.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Nain intégriste"
+              "title": "Baron Blême"
             }
           }
         ]
@@ -241,10 +241,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "50bf43f857432a94",
+  "active": "efc7fbc9dabff410",
   "lastOpenFiles": [
-    "Oblivion/Bestiaire/Tigre Taï-Taï.md",
+    "Oblivion/Bestiaire/Naga.md",
     "Oblivion/Bestiaire/Nain intégriste.md",
+    "Oblivion/Bestiaire/Tigre Taï-Taï.md",
     "Oblivion/Bestiaire/Hibours, vieux.md",
     "Oblivion/Bestiaire/Gobelours.md",
     "Oblivion/Bestiaire/Fan'Goriah.md",
@@ -268,7 +269,6 @@
     "Oblivion/Bestiaire/Elfe de Farendhell.md",
     "Oblivion/Bestiaire/Dragon d'acier adulte.md",
     "Oblivion/Bestiaire/Dunkhan.md",
-    "Oblivion/Bestiaire/Ecclésiastique.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Le Lac de Morte-Pensée",
     "D&D/Armure complète en métal Nain.png",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Sans titre.canvas",
