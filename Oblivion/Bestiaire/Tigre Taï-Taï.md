@@ -16,13 +16,13 @@ senses: vision dans le noir 18 m, Perception passive 13
 languages: -
 cr: 1
 traits:
+  - name: Bond agressif
+    desc: "Si le tigre se déplace en ligne droite sur une distance minimale de 6 m vers unecréature contre laquelle il réussit ensuite une attaque de griffe lors du même tour, celle-ci doit réussir un jet de sauvegarde de Force DD 13 pour ne pas être jetée à terre. Si la cible est à terre, le tigre peut effectuer une attaque de morsure contre elle par une action bonus."
   - name: Odorat et vue aiguisés
-    desc: "Le hibours obtient un avantage lors des tests de Sagesse (Perception) fondés sur l’odorat ou la vue."
+    desc: "Le tigre obtient un avantage lors des tests de Sagesse (Perception) basés sur l’odorat."
 actions:
-  - name: Attaques multiples
-    desc: "Le hibours effectue deux attaques : une avec son bec et une avec ses griffes."
-  - name: Bec
-    desc: "Attaque d’arme au corps-à-corps : +8 pour toucher, allonge 1,50 m, une créature. Touché : 13 (2d6+5) dégâts perforants."
-  - name: Griffes
-    desc: "Attaque d’arme au corps-à-corps : +8 pour toucher, allonge 1,50 m, une cible. Touché : 14 (2d8+5) dégâts tranchants."
+  - name: Griffe
+    desc: "Attaque d’arme au corps-à-corps : +5 pour toucher, allonge 1,50 m, une cible. Touché : 7 (1d8+3) dégâts tranchants."
+  - name: Morsure
+    desc: "Attaque d’arme au corps-à-corps : +5 pour toucher, allonge 1,50 m, une cible. Touché : 8 (1d10+3) dégâts perforants."
 ```
