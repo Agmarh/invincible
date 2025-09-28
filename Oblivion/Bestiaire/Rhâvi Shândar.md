@@ -24,8 +24,5 @@ spells:
   - 3e niveau (2 emplacements): [[Dissipation de la magie]], [[Esprits gardiens]]
 actions:
   - name: Masse d'armes
-    desc: "Attaque d’arme au corps-à-corps : +2 pour toucher, allonge 1,50 m, une cible. Touché : 3
-(1d6) dégâts contondants."
-treasure:
-  - name: [[Manteau d'arachnide]]
+    desc: "Attaque d’arme au corps-à-corps : +2 pour toucher, allonge 1,50 m, une cible. Touché : 3 (1d6) dégâts contondants." 
 ```
