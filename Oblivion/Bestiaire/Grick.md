@@ -7,16 +7,15 @@ subtype:
 alignment: Neutre
 ac: 14 (armure naturelle)
 hp: 27
-hit_dice: 5d6+5
-speed: 3 m, vol 9 m
-stats: [16, 12, 13, 2, 10, 5]
-saves:
-  - Discrétion: +5
-senses: vision aveugle 18 m, Perception passive 10
+hit_dice: 6d8
+speed: 9 m, escalade 9 m
+stats: [14, 14, 11, 3, 14, 5]
+damage_resistances: contondants, perforants et tranchants infligés par des attaques non-magiques
+senses: vision dans le noir 18 m, Perception passive 12
 languages: -
-cr: 1/2
+cr: 2
 traits:
-  - name: Echolocalisation
+  - name: Camouflage dans la rocaille
     desc: "La mante obscure ne peut pas utiliser sa vision aveugle si elle est [[Assourdi]]."
   - name: Faux-semblant
     desc: "Aussi longtemps que la mante obscure reste immobile, il est impossible de la distinguer d'une formation rocheuse, telle qu'une stalactite ou une stalagmite."
