@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oblivion/Bestiaire/Tigre Taï-Taï.md",
+                "file": "Oblivion/Bestiaire/Nain intégriste.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Tigre Taï-Taï"
+              "title": "Nain intégriste"
             }
           }
         ]
@@ -243,8 +243,9 @@
   },
   "active": "50bf43f857432a94",
   "lastOpenFiles": [
-    "Oblivion/Bestiaire/Hibours, vieux.md",
     "Oblivion/Bestiaire/Tigre Taï-Taï.md",
+    "Oblivion/Bestiaire/Nain intégriste.md",
+    "Oblivion/Bestiaire/Hibours, vieux.md",
     "Oblivion/Bestiaire/Gobelours.md",
     "Oblivion/Bestiaire/Fan'Goriah.md",
     "Oblivion/Bestiaire/Hékété.md",
@@ -268,7 +269,6 @@
     "Oblivion/Bestiaire/Dragon d'acier adulte.md",
     "Oblivion/Bestiaire/Dunkhan.md",
     "Oblivion/Bestiaire/Ecclésiastique.md",
-    "Oblivion/Bestiaire/Eféemère.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Le Lac de Morte-Pensée",
     "D&D/Armure complète en métal Nain.png",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Sans titre.canvas",
