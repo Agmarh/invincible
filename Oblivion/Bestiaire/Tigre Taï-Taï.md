@@ -4,16 +4,17 @@ size: G
 type: Bête
 subtype: 
 alignment: Non alignée
-ac: 13 (armure naturelle)
-hp: 80
-hit_dice: 7d10+21
+ac: 12 
+hp: 37
+hit_dice: 5d10+10
 speed: 12 m
-stats: [20, 12, 18, 3, 12, 7]
+stats: [17, 15, 14, 3, 12, 8]
 skillsaves:
-  - Perception: 4
-senses: vision dans le noir 18 m, Perception passive 14
+  - Discrétion: 6
+  - Perception: 3
+senses: vision dans le noir 18 m, Perception passive 13
 languages: -
-cr: 4
+cr: 1
 traits:
   - name: Odorat et vue aiguisés
     desc: "Le hibours obtient un avantage lors des tests de Sagesse (Perception) fondés sur l’odorat ou la vue."
