@@ -13,13 +13,11 @@ skillsaves:
   - Arcanes: 5
   - Histoire: 8
   - Religion: 8
+  - Perspicacité: 7
+  - Intimidation: 4
   - Persuasion: 7
-  - Supercherie: 7
-  - Indimidation: 10
-saves:
-  - Dextérité: 8
-  - Intelligence: 4
-senses: Perception passive 19
+  - Véhicule (gondolfière): 10
+senses: Perception passive 14
 languages: commun, runique, elfique
 cr: 5
 traits:
