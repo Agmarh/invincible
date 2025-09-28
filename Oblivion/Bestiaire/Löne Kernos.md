@@ -1,3 +1,8 @@
+Notes : Löne Kernos est un vieil elfe fatigué. Il ne combat
+plus, n’utilise plus les pouvoirs de Nocturno et utilise
+rarement ses sorts. Dès qu’il en utilise un de niveau
+2 ou plus, il subit immédiatement un niveau de fatigue.
+
 ```statblock
 name: Löne Kernos
 size: M
@@ -31,7 +36,6 @@ actions:
     desc: "Attaque d’arme au corps-à-corps : +5 pour toucher, allonge 1,50 m, une cible. Touché : 9 (2d6+2) dégâts tranchants."
 treasure:
   - name: Clibanion d'apparat
-  - name: Masse lourde +1
-  - name: Cuirasse
-  - name: Potions de soins supérieurs x5
+  - name: [[Nocturno]] dont il maîtrise la première et deuxième extase
+  - name: Médaillon de protection de Réghûlus
 ```
