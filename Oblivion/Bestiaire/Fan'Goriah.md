@@ -37,5 +37,8 @@ actions:
   - name: Masse d'arme
     desc: "Attaque d’arme au corps-à-corps : +7 pour toucher, allonge 1,50 m, une cible. Touché : 8 (1d8+4) dégâts contondants ou 9 (1d10+4) contondants si l’arme est tenue à deux mains."
 treasure:
-  - name: Parchemin de rappel à la vie x
+  - name: Parchemin de rappel à la vie x3
+  - name: Masse lourde +1
+  - name: Cuirasse
+  - name: Potions de soins supérieurs x5
 ```
