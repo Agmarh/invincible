@@ -1,16 +1,16 @@
 ```statblock
 name: Hibours, vieux
-size: M
-type: HumGnoïde
-subtype: Gobelin
-alignment: Chaotique Mauvais
-ac: 15 (armure de peau, bouclier)
-hp: 27
-hit_dice: 5d8+5
-speed: 9 m
-stats: [15, 14, 13, 8, 11, 9]
+size: G
+type: Créature monstrueuse
+subtype: 
+alignment: Non alignée
+ac: 13 (armure naturelle)
+hp: 80
+hit_dice: 7d10+21
+speed: 12 m
+stats: [20, 12, 18, 3, 12, 7]
 skillsaves:
-  - Discrétion: +6
+  - Perception: 4
   - Survie: +2
 senses: vision dans le noir 18 m, Perception passive 9
 languages: commun, gobelin
