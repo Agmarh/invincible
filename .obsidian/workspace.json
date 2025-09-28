@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oblivion/Bestiaire/Löne Kernos.md",
+                "file": "Oblivion/Où j'en suis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Löne Kernos"
+              "title": "Où j'en suis"
             }
           }
         ]
@@ -243,11 +243,12 @@
   },
   "active": "50bf43f857432a94",
   "lastOpenFiles": [
+    "Oblivion/Bestiaire/Löne Kernos.md",
+    "Oblivion/Où j'en suis.md",
     "Annexe/Sortilèges/Niveau 4/Appel des oubliés.md",
     "Annexe/Sortilèges/Niveau 4/Compulsion.md",
     "Annexe/Sortilèges/Niveau 4/Bannissement.md",
     "Annexe/Sorts de niveau 1.md",
-    "Oblivion/Bestiaire/Löne Kernos.md",
     "Oblivion/Bestiaire/Vouivre.md",
     "Oblivion/Bestiaire/Grick.md",
     "Oblivion/Bestiaire/Mante obscure.md",
