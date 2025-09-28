@@ -21,10 +21,24 @@ senses: Perception passive 14
 languages: commun, runique, elfique
 cr: 5
 traits:
-  - name: Attaque sournoise
-    desc: Quand Morgus a l’avantage sur une attaque, ou qu’un allié se trouve au contact de sa cible, il peut déclencher une attaque sournoise sur l’une de ses attaques. Cette attaque occasionne 10 (3d6) dégâts supplémentaires.
-  - name: Manteau d'arachnide (repos court)
-    desc: Morgus peut utiliser son action bonus afin d’activer son manteau d’arachnide. Il est alors sous le coup du sort pattes d’araignée pendant 5 rounds. De plus, tant qu’il le porte, il a, et ce de manière permanente, l’avantage à tous ses jets de sauvegarde de Dextérité.
+  - name: Collier de contrôle
+    desc: Une fois entre deux repos courts, Fan’Goriah peut utiliser son collier de contrôle afin de prendre le contrôle d’un hippogriffe situé dans un rayon de 36 m. Ce dernier est alors sous le coup de l’effet combiné des sorts compulsion et apaisement des émotions sans aucune sauvegarde possible. L’utilisation du collier de contrôle peut durer jusqu’à 1 minute, sans concentration requise.
+  - name: Renvoi des mort-vivants
+    desc: Fan’goriah peut effectuer un renvoi entre deux repos courts ou longs. Dans un rayon de 9 m, chaque mort-vivant qui peut la voir ou l’entendre doit faire un jet de sauvegarde de Sagesse DD 15. Si une créature échoue à son jet de sauvegarde, elle est repoussée pendant 1 minute ou jusqu’à ce qu’elle subisse des dégâts.
+  - name: Incantation
+    desc: Fan’Goriah est un lanceur de sorts de niveau 5. Sa caractéristique d’incantation est la
+Sagesse (DD du jet de sauvegarde contre les sorts
+15, +7 pour toucher avec les attaques de sort).
+Voici ses sorts de clerc préparés :
+Tours de magie (à volonté) : assistance, flamme
+sacrée, lumière
+1er niveau (4 emplacements) : bénédiction, bouclier
+de la foi, compréhension des langues, injonction
+2e niveau (3 emplacements) : apaisement des
+émotions, détection des pensées, immobiliser un
+humanoïde
+3e niveau (2 emplacements) : clairvoyance, dissipation
+de la magie, envoi de message
 actions:
   - name: Attaques multiples
     desc: "Morgus peut effectuer deux attaques avec une action attaquer. Se battant à deux armes, il porte la plupart du temps deux attaques avec son épée courte, suivie d’une attaque avec sa rapière."
