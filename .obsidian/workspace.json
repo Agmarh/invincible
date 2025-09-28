@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oblivion/Bestiaire/Grick.md",
+                "file": "Oblivion/Bestiaire/Vouivre.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Grick"
+              "title": "Vouivre"
             }
           }
         ]
@@ -243,8 +243,9 @@
   },
   "active": "50bf43f857432a94",
   "lastOpenFiles": [
-    "Oblivion/Bestiaire/Mante obscure.md",
     "Oblivion/Bestiaire/Grick.md",
+    "Oblivion/Bestiaire/Vouivre.md",
+    "Oblivion/Bestiaire/Mante obscure.md",
     "Oblivion/Bestiaire/Le Ravageur (Acte 1).md",
     "Oblivion/Bestiaire/Le Sans-Visage.md",
     "Oblivion/Bestiaire/Ogre d'Oblivion.md",
@@ -268,7 +269,6 @@
     "Oblivion/Bestiaire/Nain du clan des cadavreux.md",
     "Oblivion/Bestiaire/Garde de la compagnie des vaisseaux du vent.md",
     "Oblivion/Objets Magiques/Manteau d'ombre.md",
-    "Oblivion/Bestiaire/Azmän Sagdïn.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Le Lac de Morte-Pensée",
     "D&D/Armure complète en métal Nain.png",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Sans titre.canvas",

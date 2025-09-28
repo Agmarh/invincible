@@ -1,14 +1,14 @@
 ```statblock
 image: [[monstre.png]]
-name: Grick
-size: M
-type: Créature monstrueuse
+name: Vouivre
+size: G
+type: Dragon
 subtype: 
-alignment: Neutre
-ac: 14 (armure naturelle)
-hp: 27
-hit_dice: 6d8
-speed: 9 m, escalade 9 m
+alignment: Non alignée
+ac: 13 (armure naturelle)
+hp: 110
+hit_dice: 13d10+39
+speed: 6 m, vol 9 m
 stats: [14, 14, 11, 3, 14, 5]
 damage_resistances: contondants, perforants et tranchants infligés par des attaques non-magiques
 senses: vision dans le noir 18 m, Perception passive 12
