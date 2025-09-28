@@ -16,12 +16,12 @@ skillsaves:
   - Véhicule (gondolfière): 7
   - Le reste des compétences obtiennent un bonus de: 1, en plus du modificateur approprié
 senses: Perception passive 13
-
+condition_immunities: [[Charme-personne]] et [[Sommeil]]
 languages: commun, runique, elfique
-cr: 5
+cr: 6
 spells:
-  - "Fan’Goriah est un lanceur de sorts de niveau 5. Sa caractéristique d’incantation est la Sagesse (DD du jet de sauvegarde contre les sorts 15, +7 pour toucher avec les attaques de sort). Voici ses sorts de clerc préparés :"
-  - à volonté: [[Assistance]], [[Flamme sacrée]], [[Lumière]], [[Pattes d'araignée]], [[Projectile magique]]
+  - "Löne est un lanceur de sorts de niveau 7. Sa caractéristique d’incantation est le Charisme (DD du jet de sauvegarde contre les sorts DD 15, +7 pour toucher avec les attaques de sort)."
+  - à volonté: [[Lumières dansantes]], [[Main du mage]], [[Moquerie cruelle]], [[Pattes d'araignée]], [[Projectile magique]]
   - 1er niveau (4 emplacements): [[Bénédiction]], [[Bouclier de la foi]], [[Compréhension des langues]], [[Injonction]]
   - 2e niveau (3 emplacements): [[Apaisement des émotions]], [[Détection des pensées]], [[Immobiliser un humanoïde]]
   - 3e niveau (2 emplacements): [[Clairvoyance]], [[Dissipation de la magie]], [[Envoi de message]]
