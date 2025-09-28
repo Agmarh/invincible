@@ -5,22 +5,14 @@ size: P
 type: Créature monstrueuse
 subtype: 
 alignment: Non alignée
-ac: 19 (armure naturelle)
-hp: 142
-hit_dice: 15d10+60
-speed: 12 m, vol 12 m
-stats: [18, 16, 18, 13, 14, 16]
+ac: 11
+hp: 22
+hit_dice: 5d6+5
+speed: 3 m, vol 9 m
+stats: [16, 12, 13, 2, 10, 5]
 saves:
-  - Intelligence: +5
-  - Sagesse: +6
-  - Charisme: +7
-skillsaves:
-  - Perspicacité: +6
-  - Supercherie: +7
-damage_resistances: contondants, perforants et tranchants inflgiés par des attaques non-magiques qui ne sont pas en argent et de froid
-damage_immunities: de feu et de poison
-condition_immunities: [[Empoisonné]]
-senses: vision dans le noir 36 m, Perception passive 12
+  - Discrétion: +5
+senses: vision aveugle 36 m, Perception passive 12
 languages: commun, infernal, gnome, télépathie 36 m
 cr: 9
 traits:
