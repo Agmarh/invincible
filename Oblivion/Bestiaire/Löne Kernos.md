@@ -12,12 +12,11 @@ stats: [10, 12, 10, 16, 14, 19]
 skillsaves:
   - Investigation: 6
   - Arcane: 9
-  - Persuasion: 8
-  - Perspicacité: 7
-  - Intimidation: 4
-  - Persuasion: 7
-  - Véhicule (gondolfière): 10
-senses: Perception passive 14
+  - Persuasion: 10
+  - Véhicule (gondolfière): 7
+  - Le reste des compétences obtiennent un bonus de: 1, en plus du modificateur approprié
+senses: Perception passive 13
+
 languages: commun, runique, elfique
 cr: 5
 spells:
