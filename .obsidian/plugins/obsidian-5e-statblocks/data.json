@@ -8535,6 +8535,86 @@
         "source": "Homebrew",
         "layout": "H&D"
       }
+    ],
+    [
+      "Löne Kernos",
+      {
+        "name": "Löne Kernos",
+        "size": "M",
+        "type": "Humanoïde",
+        "subtype": "elfe",
+        "alignment": "Neutre Bon",
+        "ac": "17 (clibanion)",
+        "hp": 49,
+        "hit_dice": "11d8",
+        "speed": "9 m",
+        "stats": [
+          10,
+          12,
+          10,
+          16,
+          14,
+          19
+        ],
+        "skillsaves": [
+          {
+            "Investigation": 6
+          },
+          {
+            "Arcane": 9
+          },
+          {
+            "Persuasion": 10
+          },
+          {
+            "Véhicule (gondolfière)": 7
+          },
+          {
+            "Le reste des compétences obtiennent un bonus de": "1, en plus du modificateur approprié"
+          }
+        ],
+        "senses": "Perception passive 13",
+        "condition_immunities": "<STATBLOCK-WIKI-LINK>Charme-personne<STATBLOCK-WIKI-LINK> et <STATBLOCK-WIKI-LINK>Sommeil<STATBLOCK-WIKI-LINK>",
+        "languages": "commun, runique, elfique",
+        "cr": 6,
+        "spells": [
+          "Löne est un lanceur de sorts de niveau 7. Sa caractéristique d’incantation est le Charisme (DD du jet de sauvegarde contre les sorts DD 15, +7 pour toucher avec les attaques de sort).",
+          {
+            "à volonté": "<STATBLOCK-WIKI-LINK>Lumières dansantes<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Main du mage<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Moquerie cruelle<STATBLOCK-WIKI-LINK>"
+          },
+          {
+            "1er niveau (4 emplacements)": "<STATBLOCK-WIKI-LINK>Détection de la magie<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Identification<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Léger comme une plume<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Serviteur invisible<STATBLOCK-WIKI-LINK>"
+          },
+          {
+            "2e niveau (3 emplacements)": "<STATBLOCK-WIKI-LINK>Détection des pensées<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Envoûtement<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Localiser un objet<STATBLOCK-WIKI-LINK>"
+          },
+          {
+            "3e niveau (3 emplacements)": "<STATBLOCK-WIKI-LINK>Clairvoyance<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Langues<STATBLOCK-WIKI-LINK>"
+          },
+          {
+            "4e niveau (1 emplacements)": "<STATBLOCK-WIKI-LINK>Appel des oubliés<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Compulsion<STATBLOCK-WIKI-LINK>"
+          }
+        ],
+        "actions": [
+          {
+            "name": "Nocturno",
+            "desc": "Attaque d’arme au corps-à-corps : +5 pour toucher, allonge 1,50 m, une cible. Touché : 9 (2d6+2) dégâts tranchants."
+          }
+        ],
+        "treasure": [
+          {
+            "name": "Clibanion d'apparat"
+          },
+          {
+            "name": "<STATBLOCK-WIKI-LINK>Nocturno<STATBLOCK-WIKI-LINK> dont il maîtrise la première et deuxième extase"
+          },
+          {
+            "name": "Médaillon de protection de Réghûlus"
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "H&D"
+      }
     ]
   ],
   "defaultLayouts": {},

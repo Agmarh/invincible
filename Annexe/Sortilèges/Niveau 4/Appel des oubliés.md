@@ -21,4 +21,4 @@ L’appel est toujours extrêmement insistant, mais ce n’est pas un sort néfa
 
 Le sort a pour effet secondaire de rendre les cibles très réceptives à la magie des rêves. Les Oubliés qui en sont la cible ont automatiquement un désavantage à tous leurs jets de sauvegarde contre la magie impliquant les rêves durant les 4d4 semaines. 
 
-Le sort de guidage et les rêves itératifs s’interrompent lorsque l’Oublié atteint le point de rendez-vous ou parvient au terme des 4d4 semaines. Il peut être annulé par [[Lever une malédiction]] jeté par un personnage supérieur d’au moins deux niveaux à l’Arpenteur, ainsi que par un souhait (COF, sorts du grimoire du Compagnon).
+Le sort de guidage et les rêves itératifs s’interrompent lorsque l’Oublié atteint le point de rendez-vous ou parvient au terme des 4d4 semaines. Il peut être annulé par [[Lever une malédiction]] jeté par un personnage supérieur d’au moins deux niveaux à l’Arpenteur, ainsi que par un [[Souhait]].

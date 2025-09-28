@@ -30,7 +30,7 @@ spells:
   - 1er niveau (4 emplacements): [[Détection de la magie]], [[Identification]], [[Léger comme une plume]], [[Serviteur invisible]]
   - 2e niveau (3 emplacements): [[Détection des pensées]], [[Envoûtement]], [[Localiser un objet]]
   - 3e niveau (3 emplacements): [[Clairvoyance]], [[Langues]]
-  - 4e niveau (1 emplacements): [[Appel]], [[Compul]]
+  - 4e niveau (1 emplacements): [[Appel des oubliés]], [[Compulsion]]
 actions:
   - name: Nocturno
     desc: "Attaque d’arme au corps-à-corps : +5 pour toucher, allonge 1,50 m, une cible. Touché : 9 (2d6+2) dégâts tranchants."

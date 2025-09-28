@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Annexe/Sortilèges/Niveau 4/Appel des oubliés.md",
+                "file": "Oblivion/Bestiaire/Löne Kernos.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Appel des oubliés"
+              "title": "Löne Kernos"
             }
           }
         ]
@@ -243,8 +243,8 @@
   },
   "active": "50bf43f857432a94",
   "lastOpenFiles": [
-    "Annexe/Sortilèges/Niveau 4/Compulsion.md",
     "Annexe/Sortilèges/Niveau 4/Appel des oubliés.md",
+    "Annexe/Sortilèges/Niveau 4/Compulsion.md",
     "Annexe/Sortilèges/Niveau 4/Bannissement.md",
     "Annexe/Sorts de niveau 1.md",
     "Oblivion/Bestiaire/Löne Kernos.md",
