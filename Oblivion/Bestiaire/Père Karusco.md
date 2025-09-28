@@ -4,21 +4,14 @@ name: Père Karusco
 size: M
 type: Humanoïde
 subtype: Humain
-alignment: Loyal Mauvais
-ac: 13
-hp: 142
-hit_dice: 15d10+60
-speed: 12 m, vol 12 m
-stats: [18, 16, 18, 13, 14, 16]
-saves:
-  - Int: +5
-  - Sag: +6
-  - Cha: +7
+alignment: Chaotique Neutre
+ac: 17
+hp: 60
+hit_dice: 11d8+11
+speed: 7.5 m
+stats: [15, 18, 12, 14, 16, 12]
 skillsaves:
-  - Perspicacité: +6
-  - Supercherie: +7
-damage_resistances: contondants, perforants et tranchants inflgiés par des attaques non-magiques qui ne sont pas en argent et de froid
-damage_immunities: de feu et de poison
+  - 
 senses: vision dans le noir 36 m, Perception passive 12
 languages: commun, infernal
 cr: 9
