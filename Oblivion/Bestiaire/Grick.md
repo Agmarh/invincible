@@ -1,12 +1,12 @@
 ```statblock
 image: [[monstre.png]]
-name: Mante obscure
-size: P
+name: Grick
+size: M
 type: Créature monstrueuse
 subtype: 
-alignment: Non alignée
-ac: 11
-hp: 22
+alignment: Neutre
+ac: 14 (armure naturelle)
+hp: 27
 hit_dice: 5d6+5
 speed: 3 m, vol 9 m
 stats: [16, 12, 13, 2, 10, 5]
