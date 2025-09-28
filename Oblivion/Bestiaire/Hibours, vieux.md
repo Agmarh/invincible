@@ -21,6 +21,7 @@ actions:
   - name: Attaques multiples
     desc: "Le hibours effectue deux attaques : une avec son bec et une avec ses griffes."
   - name: Bec
-    desc: "Attaque d’arme au corps-à-corps : +8 pour toucher, allonge 1,50 m, une créature. Touché : 13
-(2d6+5) dégâts perforants."
+    desc: "Attaque d’arme au corps-à-corps : +8 pour toucher, allonge 1,50 m, une créature. Touché : 13 (2d6+5) dégâts perforants."
+  - name: Griffes
+    desc: "Attaque d’arme au corps-à-corps : +8 pour toucher, allonge 1,50 m, une cible. Touché : 14 (2d8+5) dégâts tranchants."
 ```
