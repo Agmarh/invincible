@@ -1,17 +1,18 @@
 ```statblock
-name: Tigre Taï-Taï
+name: Spark, Tigre Sanguinaire
 size: G
 type: Bête
 subtype: 
-alignment: Non alignée
-ac: 12 
-hp: 37
-hit_dice: 5d10+10
-speed: 12 m
-stats: [17, 15, 14, 3, 12, 8]
+alignment: Neutre
+ac: 14 
+hp: 152
+hit_dice: 16d10+34
+speed: 15 m
+stats: [24, 18, 19, 7, 16, 9]
 skillsaves:
-  - Discrétion: 6
-  - Perception: 3
+  - Discrétion: 7
+  - Intimidation: 5
+  - Perception: 5
 senses: vision dans le noir 18 m, Perception passive 13
 languages: -
 cr: 1
