@@ -1,3 +1,4 @@
+![[Oblivion.png]]
 # Le Lac de Morte-Pensée
 
 Relancer une attaque de Ghûraghastas dans la citadelle de cuivre pour inciter les PJ à parcourir Oblivion.

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/1 - Mausoleum Igné.md",
+                "file": "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 4 Alba-Secundum/2 - Le nid de l'écorcheuse.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1 - Mausoleum Igné"
+              "title": "2 - Le nid de l'écorcheuse"
             }
           }
         ]
@@ -243,13 +243,24 @@
   },
   "active": "09cff267556e1f2f",
   "lastOpenFiles": [
+    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 4 Alba-Secundum/1 - Les abominations du passé.md",
+    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 3 La mer des linceuls/La capture se Sérénité.md",
+    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 3 La mer des linceuls/4 - Le Mont des Sépultures.md",
+    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 3 La mer des linceuls/3 - La Mer des Linceuls.md",
+    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 3 La mer des linceuls/2 - Les terres boréales.md",
+    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 3 La mer des linceuls/1 - Retour à Ikhâr.md",
+    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Grisou le Méphite.md",
+    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/5 - La Galerie des Suppliciés.md",
+    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/4 - La Bâtisse Assassine.md",
+    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/3 - Le Sentier des Airs.md",
+    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/2 - Oblivion.md",
+    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/1 - Mausoleum Igné.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/Justicaar.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/Infos sur Oblivion.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/4 - La Sentence des Voies.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/3 - Ikhâr, la cité des voiles.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/2 - Réveil Amer.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/1 - Premier voyage en Oblivion.md",
-    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/1 - Mausoleum Igné.md",
     "Oblivion/L'Empire.md",
     "Oblivion/Images/Carte de l'ancienne Pangée.jpg",
     "P.md",
@@ -261,13 +272,6 @@
     "Oblivion/Bestiaire/Mékhanôm.md",
     "Oblivion/Bestiaire/Hibours, vieux.md",
     "Oblivion/Bestiaire/Grisou, le méphite de vapeur.md",
-    "Oblivion/Bestiaire/Fan'Goriah.md",
-    "Oblivion/Bestiaire/Clyve l'Aboyeur.md",
-    "Oblivion/Bestiaire/Baron Blême.md",
-    "Oblivion/Bestiaire/« Duc » Morgus Montanera.md",
-    "Template/Monstre.md",
-    "Oblivion/Objets Magiques/Nocturno.md",
-    "Template/Objet.md",
     "Oblivion/Images/Caverne d'os.png",
     "Oblivion/Images/Baron Blême.png",
     "Oblivion/Images/Anthéone.png",
@@ -275,10 +279,6 @@
     "Oblivion/Images/Clyve.png",
     "Oblivion/Images/Fan'Goriah.png",
     "Oblivion/Images/Ghuraghasta.png",
-    "Oblivion/Où j'en suis.md",
-    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 4 Alba-Secundum/Création d'un ravageur.md",
-    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 4 Alba-Secundum/4 - Par le fer et le feu !.md",
-    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 4 Alba-Secundum/3 - L'heure des révélations.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Le Lac de Morte-Pensée",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Sans titre.canvas",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 4 Alba-Secundum",

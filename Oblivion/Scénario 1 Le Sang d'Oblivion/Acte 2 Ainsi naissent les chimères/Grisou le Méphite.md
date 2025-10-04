@@ -1,3 +1,4 @@
+![[Grisou.png]]
 # Description
 Son nom complet des Grisala-man-ber-Pyrolistani-fer-Brasalero mais, au vu de sa petite taille ridicule pour un méphite, tout le monde l'appelle Grisou, ce qui ne manque pas de le vexer. C'est un personnage rusé, cabotin, gouailleur, trouillard, fourbe et flambeur.
 

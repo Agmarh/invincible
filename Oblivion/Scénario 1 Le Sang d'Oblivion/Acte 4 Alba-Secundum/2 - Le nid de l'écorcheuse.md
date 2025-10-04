@@ -1,5 +1,6 @@
 Avant tout, rappelez aux PJ où se situe Alba-Secundum dans Oblivion, cela a son importance. Prenez aussi le temps de redessiner un grand plan de la caverne à partir de celui qui vous est fourni.
 
+![[Alba Secundum.png]]
 # 1. La grotte
 La troisième et dernière caverne a des proportions titanesques. Ses parois de roche blême sont mangées par une mousse phosphorescente rouge sombre, telle une braise rougeoyante et palpitante de vie. Des centaines de petites araignées (inoffensives) grouillent dans la moindre fissure.
 
