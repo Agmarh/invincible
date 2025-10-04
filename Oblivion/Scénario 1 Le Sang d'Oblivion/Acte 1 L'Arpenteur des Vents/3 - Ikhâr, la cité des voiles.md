@@ -24,7 +24,7 @@ Les PJ peuvent rejoindre le village et commencer à discuter avec ses habitants 
 	- Le cercle du Comptoir est le lieu dédié au commerce. Ses échoppes saisonnières sont parcourues jour et nuit par une foule incessante.
 	- Le cercle du Répit est le plus extérieure. Quelques auberges ambulantes s'y partagent la clientèle, parmi les dernières bâtisses d'Ikhâr situées à la lisière du cercle.
 
-![[Ikhâr map.png]]
+![[Ikhâr map.png|1000]]
 # Le Point Zéro
 Situé au centre d'Ikhâr; c'est une vaste cuvette de 400m de diamètre et de 2m de profondeur.
 ## L'ambiance
