@@ -8,10 +8,13 @@ alignment: Chaotique Mauvais
 ac: 15
 hp: 69
 hit_dice: 6d12+30
-speed: 9
-stats: [16, 14, 11, 4, 14, 9]
+speed: 9 m, vol 18 m
+stats: [19, 13, 20, 2, 12, 9]
+saves:
+  - Constitution: 7
 skillsaves:
-  - Discrétion: 6
+  - Discrétion: 5
+  - Perception: 3
 senses: vision dans le noir 18 m, Perception passive 16
 languages: -
 cr: 1
