@@ -1,5 +1,5 @@
 ```statblock
-image: [[Ghûraghasta.png]]
+image: [[Ghuraghasta.png]]
 name: Ghûraghasta
 size: G
 type: Mort-Vivant

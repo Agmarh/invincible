@@ -1,5 +1,5 @@
 ```statblock
-image: [[monstre.png]]
+image: [[Mékhanom.png]]
 name: Mékhanôm
 size: P
 type: Créature artificielle

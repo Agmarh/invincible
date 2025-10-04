@@ -1,5 +1,5 @@
 ```statblock
-image: [[Hib.png]]
+image: [[Hibours.png]]
 name: Hibours, vieux
 size: G
 type: Créature monstrueuse
