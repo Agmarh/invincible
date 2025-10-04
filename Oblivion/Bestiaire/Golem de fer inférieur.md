@@ -9,12 +9,11 @@ hp: 178
 hit_dice: 17d10+85
 speed: 0 m
 stats: [22, 9, 20, 3, 11, 1]
-damage_resistances: d'acide, de feu, de foudre, de tonnerre ; contondants, perforants et tranchants d'attaques non magiques et d'armes n'étant pas en argent
-damage_immunities: de froid, nécrotiques et de poison
-condition_immunities: [[Charmé]], [[Épuisé]], [[Terrorisé]], [[Empoigné]], [[Paralysé]], [[Pétrifié]], [[Empoisonné]], [[A terre]], [[Entravé]]
-senses: vision dans le noir 18m, Perception passive 15
-languages: langues anciennes et inconnues
-cr: 5
+damage_immunities: de poison, psychiques ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en adamantium
+condition_immunities: [[Charmé]], [[Empoisonné]], [[Épuisé]], [[Paralysé]], [[Pétrifié]], [[Terrorisé]]
+senses: vision dans le noir 36 m, Perception passive 10
+languages: comprend les langues de son créateur mais ne peut pas parler
+cr: 1
 traits:
   - name: Incorporel
     desc: "L’esprit dément peut passer à travers les éléments solides et les créatures. Il est alors considéré en terrain difficile, et s’il termine son tour dans un espace occupé, il subit immédiatement 7 (2d6) points de dégâts."
