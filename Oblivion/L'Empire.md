@@ -1,4 +1,4 @@
-![[P]]
+[[Carte de l'ancienne Pangée.jpg]]
 # Structure Sociale
  -   Citoyen : titre héréditaire
 	-   Peuvent posséder des terres et des esclaves
