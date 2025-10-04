@@ -10,12 +10,12 @@ hit_dice: 7d8+7
 speed: 0 m, vol 12 m
 stats: [4, 18, 12, 16, 15, 18]
 saves:
-  - 
+  - Sagesse: 5
+  - Charisme: 7
 skillsaves:
-  - Discrétion: 6
-  - Nature: 4
   - Perception: 5
-  - Survie: 5
+  - Discrétion: 7
+damage_resistances: d'acide, de feu, de foudre, de tonnerre ; contondants, perforants et tranchants d'attaq
 senses: vision dans le noir 18m, Perception passive 15
 languages: commun, elfe
 cr: 1/2
