@@ -8,17 +8,14 @@ ac: 14
 hp: 68
 hit_dice: 8d10+24
 speed: 1,5 m
-stats: [18, 10, 16, 3, 16, 6]
-skillsaves:
-  - Athlétisme: 2
-  - Discrétion: 5
-  - Perception: 5
-senses: Perception passive 13
-languages: 
-cr: 2
+stats: [18, 10, 16, 1, 10, 1]
+damage_resistances: de feu et de froid
+senses: Vision aveugle 9 m, Perception passive 10
+languages: -
+cr: 3
 traits:
-  - name: Caméléon
-    desc: "Le lézard électrique peut se confondre facilement avec son environnement. Il possède l’avantage sur tous ses tests de Discrétion."
+  - name: Apparence trompeuse
+    desc: "Tant que le lotus pieuvre reste immobile, il ne peut pas être distingué d’une plante ordinaire."
 actions:
   - name: Décharge étourdissante
     desc: "Le lézard électrique prend pour cible une créature située à 1,5 m ou moins. Il concentre son énergie afin de lui envoyer une décharge électrique. La cible doit effectuer un jet de sauvegarde de Dextérité DD 13 ou subir 9 (2d8) points de dégâts. Une réussite au jet de sauvegarde divise les dégâts par deux."
