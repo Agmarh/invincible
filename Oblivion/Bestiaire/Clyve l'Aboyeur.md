@@ -5,22 +5,18 @@ size: G
 type: Géant
 subtype: Ogre
 alignment: Chaotique Bon
-ac: 20 (harnois et bouclier)
-hp: 105
-hit_dice: 13d8+39
-speed: 9 m
-stats: [19, 15, 16, 10, 10, 15]
-saves:
-  - For: 7
-  - Con: 6
-  - Sag: 3
+ac: 16 (chemise de mailles)
+hp: 59
+hit_dice: 7d10+21
+speed: 12 m
+stats: [19, 16, 16, 15, 12, 18]
 skillsaves:
-  - Athlétisme: 7
-  - Intimidation: 5
-  - Perception: 3
+  - Médecine: 7
+  - Persuasion: 3
+  - Religion: 4
 senses: Perception passive 13
-languages: commun
-cr: 7
+languages: commun, géant, elfique, halfelin, runique
+cr: 4
 traits:
   - name: Attaques sanglantes
     desc: Un chevalier-dragon ajoute deux dés de dégâts à chacune de ses attaques.
