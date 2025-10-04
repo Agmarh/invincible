@@ -22,8 +22,10 @@ traits:
   - name: Résistance à la magie
     desc: "Le golem obtient un avantage lors des jets de sauvegarde contre les sorts et autres effets magiques."
 actions:
-  - name: Touché corrupteur
-    desc: "Attaque d’arme au corps-à-corps : +6 pour toucher, allonge 1,50 m, une cible. Touché : 17 (4d6+4) dégâts nécrotiques."
-  - name: Voix de la folie
-    desc: "En utilisant son action bonus, l’esprit dément peut choisir jusqu’à quatre créatures qu’il peut voir dans un rayon de 24 m. Les cibles doivent réussir un jet de sauvegarde de Charisme DD 15. En cas d’échec, elles sont alors possédées par les voix de l’esprit qui résonnent en elles et doivent immédiatement utiliser leur réaction pour effectuer une attaque sur la créature la plus proche à portée, la plus proche, qu’elle soit accessible au corps-à-corps ou à distance. Les créatures artificielles et les morts-vivants sont immunisés à cette capacité."
+  - name: Attaques multiples
+    desc: "Le golem effectue deux attaques de coup."
+  - name: Coup
+    desc: "Attaque d’arme au corps à corps : +10 pour toucher, allonge 1,50 m, une cible. Touché : 19 (3d8+6) dégâts contondants."
+  - name: Lenteur (Recharge 5-6)
+    desc: "Le golem cible une ou plusieurs créatures situées dans son champ de vision à 3 mètres ou moins de lui. Les cibles doivent chacune effectuer un jet de sauvegarde de Sagesse DD 17 contre cette magie. En cas de jet de sauvegarde raté, une cible ne peut plus effectuer de réaction, sa vitesse est réduite de moitié et elle ne peut pas effectuer plus d’une attaque lors de son tour. De plus, la cible peut effectuer soit une action, soit une action bonus lors de son tour, mais pas les deux. Ces effets durent 1 minute. Une cible peut retenter le jet de sauvegarde à la fin de chacun de ses tours et mettre fin à l’effet dont elle est victime en cas de réussite."
 ```
