@@ -24,8 +24,8 @@ Les PJ peuvent rejoindre le village et commencer à discuter avec ses habitants 
 	- Le cercle du Comptoir est le lieu dédié au commerce. Ses échoppes saisonnières sont parcourues jour et nuit par une foule incessante.
 	- Le cercle du Répit est le plus extérieure. Quelques auberges ambulantes s'y partagent la clientèle, parmi les dernières bâtisses d'Ikhâr situées à la lisière du cercle.
 
-![[Ikhâr map.png|1000]]
-# Le Point Zéro
+![[Ikhâr map.png]]
+# 2 - Le Point Zéro
 Situé au centre d'Ikhâr; c'est une vaste cuvette de 400m de diamètre et de 2m de profondeur.
 ## L'ambiance
 
@@ -49,7 +49,7 @@ Un roleplay efficace auprès d'aéromarins alcoolisés, dockers nains, contrema�
 
 - 21+. Löne Kernos est une sorte de Chevalier marchand. Il n'apparaît pas en public et vit sur sa Gondolfière-palais, en constant déplacement. Personne ne sait où elle se trouve, elle est protégé par de puissants sorts de non-détection. Elle rejoindra Ikhâr dans 2 jours. L'Arpenteur est un vieil elfe, bienveillant et fortuné mais un peu mystérieux et paranoïaque. La seule personne qui partage sa vie est sa redoutable épée noire, qu'il appel sa "Dame d'Ombre". Une arme terrifiante capable de tuer d'un seul coup.
 
-# La Capitainerie
+# 1 - La Capitainerie
 Aménagée dans l'épave d'un galion, c'est aujourd'hui une immense demeure garantissant le repos et l'intimité des capitaines.
 
 Les 6 gardes de la compagnie sont postés à l'entrée et laisserons les PJ entrer s'ils demandent à voir le vieux chevalier aux yeux d'ambres qui les a convoqués. Sinon ils seront violemment repoussés car le Duc a stimulé les gardes. Il faudra plusieurs morts en cas de combat avant qu'un capitaine n'intervienne et fasse entrer les PJ en s'excusant.
@@ -68,7 +68,7 @@ S'ils ne veulent pas passer les épreuves, les capitaines seront ravis, Baron Bl
 
 Le conseil ne peut répondre aux questions des PJ sur leur rêve.
 
-# Le Cercle de l'Acrobal
+# 3 - Le Cercle de l'Acrobal
 Au départ simple baraquements entourant Point Zéro et accueillant les membres d'équipages, c'est un point de ralliement pour les artistes, équilibristes, aventuriers et vendeurs à la sauvette.
 
 ## Ambiance du lieu
@@ -90,7 +90,7 @@ La Mhäaria monte au ciel : concours d'adresse organisé en permanence par les a
 
 Les Cadavreux : Alors qu'une troupe de saltimbanques exhibe un vieil hibours enchainé, un nain jaillit et libère le monstre. Qui attaque immédiatement toute personne proche dont les PJ. L'assassin en profite pour tenter de tuer les PJ. S'ils parviennent à vaincre la créature, l'Acrobal organise en leur honneur une fête somptueuse et on leur offre la tête de la bête (d'une valeur de 3000 PO).
 
-# Le Cercle du Comptoir
+# 4 - Le Cercle du Comptoir
 Les échoppes sont disséminées parmi les maisons basses en terre cuite des Ikhârians. On peut trouver de tout (marché aux vins, tanneries de peau de Taï-Taï, maison des forgerons, enclos à bestiaux etc…)
 
 ## Ambiance du lieu
