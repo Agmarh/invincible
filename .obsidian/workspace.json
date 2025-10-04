@@ -11,12 +11,24 @@
             "id": "50bf43f857432a94",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Oblivion/Images/Caverne d'os.png"
+                "file": "Oblivion/Objets Magiques/Nocturno.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-image",
-              "title": "Caverne d'os"
+              "icon": "lucide-file",
+              "title": "Nocturno"
             }
           }
         ]
@@ -231,17 +243,18 @@
   },
   "active": "50bf43f857432a94",
   "lastOpenFiles": [
+    "Template/Objet.md",
+    "Oblivion/Objets Magiques/Nocturno.md",
+    "Oblivion/Images/Caverne d'os.png",
     "Oblivion/Images/Baron Blême.png",
     "Oblivion/Images/Anthéone.png",
     "Oblivion/Images/Alba Secundum.png",
     "Oblivion/Images/Cathédrale de Cuivre.png",
-    "Oblivion/Images/Caverne d'os.png",
     "Oblivion/Images/Clyve.png",
     "Oblivion/Images/Fan'Goriah.png",
     "Oblivion/Images/Ghuraghasta.png",
     "Oblivion/Images/Gorm.jpg",
     "Oblivion/Images/Hibours.png",
-    "Oblivion/Images/Valkin.png",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/2 - Réveil Amer.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/1 - Premier voyage en Oblivion.md",
     "Oblivion/Où j'en suis.md",
@@ -266,7 +279,6 @@
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/Infos sur les Vaisseaux du Vent.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/Effets du Khayolt.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/4 - La Sentence des Voies.md",
-    "Oblivion/Objets Magiques/Perle de puissance.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Le Lac de Morte-Pensée",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Sans titre.canvas",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 4 Alba-Secundum",
