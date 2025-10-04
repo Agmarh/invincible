@@ -8,11 +8,12 @@ alignment: Chaotique Mauvais
 ac: 15 (armure naturelle)
 hp: 52
 hit_dice: 7d8+21
-speed: 9 m
-stats: [18, 11, 14, 11, 11, 15]
-senses: Pereption passive 10
-languages: commun
-cr: 3
+speed: 9 m, vol 18 m
+stats: [15, 11, 16, 6, 11, 7]
+damage_resistances: contondants, perforants et tranchants infligés par des attaques non-magique
+senses: Vision dans le noir 18 m, Pereption passive 10
+languages: terreux
+cr: 2
 traits:
   - name: Brave
     desc: "Le chevalier obtient un avantage lors des jets de sauvegarde effectués pour ne pas être terrorisé."
