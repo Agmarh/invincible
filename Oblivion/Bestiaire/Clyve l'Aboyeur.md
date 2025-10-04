@@ -20,20 +20,16 @@ cr: 4
 spells:
   - "Clyve est un lanceur de sorts de niveau 4. Sa caractéristique d’incantation est le Charisme (DD du jet de sauvegarde contre les sorts 14, +6 pour toucher avec les attaques de sort). Il connaît les sorts d’ensorceleur suivants :"
   - Tours de magie: [[Illusion mineure]], [[Lumière]], [[Message]], [[Main du mage]], [[Rayon de givre]]
-  - 1er niveau (4 emplacements): [[Couleurs dansantes]], [[Image silencieuse]], [[Graisse]]
-  - 2e niveau (3 emplacements): [[Dessiccation]], [[Flou]], [[Image miroir]]
-  - 3e niveau (3 emplacements): [[Motif hypnotique]], [[Vol]]
-  - 4e niveau (3 emplacements): [[Sanctuaire privé]], [[Tentacules noirs]]
-  - 5e niveau (3 emplacements): [[Dominer un humanoïde]], [[Scrutation]]
-  - 6e niveau (1 emplacement): [[Suggestion de groupe]], [[Vision suprême]]
+  - 1er niveau (4 emplacements): [[Couleurs dansantes]], [[Image silencieuse]], [[Sommeil]]
+  - 2e niveau (3 emplacements): [[Offrande inéluctable]], [[Invisibilité]]
 traits:
   - name: Epée de Clyve
     desc: "L’épée de Clyve est un oniride forgé sur mesure pour lui il y a bien longtemps. Il lui permet de rajouter son modificateur de Charisme à tous les jets de dégâts effectués avec l’épée, ainsi qu’à son initiative et à sa vitesse de déplacement."
 actions:
   - name: Attaques multiples
-    desc: "Un chevalier-dragon peut effectuer trois attaques avec une action d’attaque."
-  - name: Epée longue
-    desc: "Attaque d’arme au corps-à-corps : +7 pour toucher, allonge 1,50 m, une cible. Touché : 17 (3d8+4) dégâts tranchants."
+    desc: "Clyve peut effectuer deux attaques avec une action attaquer."
+  - name: Epée à deux mains
+    desc: "Attaque d’arme au corps-à-corps : +6 pour toucher, allonge 1,5 m, une cible. Touché : 15 (2d6+4+4) dégâts tranchants."
   - name: Arc court
     desc: "Attaque d’arme à distance : +5 pour toucher, portée 24/96, une cible. Touché : 12 (3d6+2) dégâts tranchants."
 reactions:
