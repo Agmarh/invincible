@@ -12,15 +12,17 @@ stats: [24, 18, 19, 7, 16, 9]
 skillsaves:
   - Discrétion: 7
   - Intimidation: 5
-  - Perception: 5
-senses: vision dans le noir 18 m, Perception passive 13
+  - Perception: 6
+senses: Perception passive 16
 languages: -
-cr: 1
+cr: 7
 traits:
   - name: Bond agressif
-    desc: "Si le tigre se déplace en ligne droite sur une distance minimale de 6 m vers unecréature contre laquelle il réussit ensuite une attaque de griffe lors du même tour, celle-ci doit réussir un jet de sauvegarde de Force DD 13 pour ne pas être jetée à terre. Si la cible est à terre, le tigre peut effectuer une attaque de morsure contre elle par une action bonus."
-  - name: Odorat et vue aiguisés
-    desc: "Le tigre obtient un avantage lors des tests de Sagesse (Perception) basés sur l’odorat."
+    desc: "Si Spark se déplace en ligne droite sur une distance minimale de 6 m vers une créature contre laquelle il réussit ensuite deux attaques de griffes lors du même tour, celle-ci doit réussir un jet de sauvegarde de Force DD 18 pour ne pas être jetée à terre. Si la cible est à terre, Spark peut effectuer une attaque de morsure contre elle par une action bonus."
+  - name: Odorat aiguisés
+    desc: "Spark obtient un avantage lors des tests de Sagesse (Perception) fondés sur l’odorat."
+  - name: Impressionanant
+    desc: "Spark obtient l’avantage sur les tests de Charisme (Intimidation)."
 actions:
   - name: Griffe
     desc: "Attaque d’arme au corps-à-corps : +5 pour toucher, allonge 1,50 m, une cible. Touché : 7 (1d8+3) dégâts tranchants."
