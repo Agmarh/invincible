@@ -13,10 +13,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Oblivion/Images/Gorm.jpg"
+                "file": "Oblivion/Images/Caverne d'os.png"
               },
               "icon": "lucide-image",
-              "title": "Gorm"
+              "title": "Caverne d'os"
             }
           }
         ]
@@ -231,8 +231,17 @@
   },
   "active": "50bf43f857432a94",
   "lastOpenFiles": [
-    "Oblivion/Images/chevalier-dragon.jpg",
+    "Oblivion/Images/Baron Blême.png",
     "Oblivion/Images/Anthéone.png",
+    "Oblivion/Images/Alba Secundum.png",
+    "Oblivion/Images/Cathédrale de Cuivre.png",
+    "Oblivion/Images/Caverne d'os.png",
+    "Oblivion/Images/Clyve.png",
+    "Oblivion/Images/Fan'Goriah.png",
+    "Oblivion/Images/Ghuraghasta.png",
+    "Oblivion/Images/Gorm.jpg",
+    "Oblivion/Images/Hibours.png",
+    "Oblivion/Images/Valkin.png",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/2 - Réveil Amer.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/1 - Premier voyage en Oblivion.md",
     "Oblivion/Où j'en suis.md",
@@ -259,23 +268,15 @@
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/4 - La Sentence des Voies.md",
     "Oblivion/Objets Magiques/Perle de puissance.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Le Lac de Morte-Pensée",
-    "D&D/Armure complète en métal Nain.png",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Sans titre.canvas",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 4 Alba-Secundum",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 3 La mer des linceuls",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents",
     "Oblivion/Scénario 1 Le Sang d'Oblivion",
-    "Oblivion/Images/Plan citerne.jpg",
-    "Oblivion/Images/Oblivion 2 bannière.png",
-    "Oblivion/Images/Le poignard polymorphe.jpg",
-    "Oblivion/Images/La Faucheuse.jpg",
-    "Oblivion/Images/Guerrière Soong.jpg",
-    "Oblivion/Images/Gorm.jpg",
     "Oblivion/PDF/Oblivion 2 Les enfants d'Oblivion.pdf",
     "Oblivion/PDF/Oblivion 1 Le sang d'Oblivion.pdf",
     "Oblivion/PDF/Le Cauchemar.pdf",
-    "Invincible/Images/remix-416bd1a3-5007-4030-8443-1484d49cdde5.png",
     "Invincible/Scénario 3 Les racines du mal/Lieux",
     "Oblivion/PNJ/Sans titre.canvas"
   ]
