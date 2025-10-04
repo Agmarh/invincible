@@ -29,6 +29,8 @@ Le couloir central s'élargit et les PJ entrent dans une immense cathédrale, o�
 
 Autour de lui se pressent de nombreux mékhanôms, les bras chargés de plans de bataille ou de nouvelles inventions de plus en plus meurtrières, mais aussi ces étranges petit élémentaires qui semblent être porteurs de messages.
 
+![[Cathédrale de Cuivre.png]]
+
 Réghûlus projette une aura de puissance telle qu'elle en est presque palpable. A l'arrivée des PJ :
 
 > <font style="color:yellow">"Sérène, ma petite Sérène, tu me les amènes enfin ! Leur Transmigration m'a épuisé, alors que les attaques de l'Ecorcheuse redoublent en ce moment même contre nous. Crois-tu vraiment que ces Oubliés puissent nous aider ? Et où est mon fidèle Arpenteur des Vents ? Je l'ai repéré et appelé grâce à sa Dame d'Ombre. Ne devrait-il pas être là ? Qui va reprendre la quête de Chiaroscuro ?"</font>
