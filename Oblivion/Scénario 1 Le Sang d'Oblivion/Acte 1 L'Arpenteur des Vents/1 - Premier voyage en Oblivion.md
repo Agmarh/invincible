@@ -22,7 +22,7 @@ Au moment où ils vont s'endormir, demander comment ils dorment, équipés ou pa
 >  Puis un choc… Vous vous réveillez en sursaut, couverts de sueur, le cœur battant à cent à l'heure.
 
 ## Carte
-![[Alba Secundum.png]]
+![[Caverne d'os.png]]
 ## 1 - Geôle d'arrivée : La caverne d'os
 
 > Il fait un noir complet, de partout proviennent d'étranges gargouillements, des bruits de succion…
