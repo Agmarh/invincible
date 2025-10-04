@@ -82,6 +82,7 @@ Les PJ ont un round avant d'être au contact. <font style="color:yellow">"Partez
 
 Ne pas oublier les règles de la magie en Oblivion !
 
+![[Mausoleum Ignée.png]]
 ## Premier round
 
 6 Ghûraghastas sont proches des PJ, dont 3 à l'entrée du couloir.
