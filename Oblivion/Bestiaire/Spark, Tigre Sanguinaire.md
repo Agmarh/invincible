@@ -24,8 +24,10 @@ traits:
   - name: Impressionanant
     desc: "Spark obtient l’avantage sur les tests de Charisme (Intimidation)."
 actions:
+  - name: Attaques multiples
+    desc: "Spark effectue deux attaques de griffes ou une attaque de morsure."
   - name: Griffe
-    desc: "Attaque d’arme au corps-à-corps : +5 pour toucher, allonge 1,50 m, une cible. Touché : 7 (1d8+3) dégâts tranchants."
+    desc: "Attaque d’arme au corps-à-corps : +10 pour toucher, allonge 1,50 m, une cible. Touché : 21 (4d6+7) dégâts tranchants."
   - name: Morsure
-    desc: "Attaque d’arme au corps-à-corps : +5 pour toucher, allonge 1,50 m, une cible. Touché : 8 (1d10+3) dégâts perforants."
+    desc: "Attaque d’arme au corps-à-corps : +10 pour toucher, allonge 1,50 m, une cible. Touché : 13 (1d10+7) dégâts perforants."
 ```
