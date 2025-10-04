@@ -16,9 +16,17 @@ senses: vision dans le noir 18 m, Perception passive 10
 languages: aquatique, ignée
 cr: 1/4
 traits:
-  - name: Réaction mortelle
-    desc: "Lorsqu’une créature rate son attaque contre une mangeuse d’araignée, cette dernière peut utiliser sa réaction afin d’effectuer une attaque d’opportunité avec son dard. En cas de réussite, elle ne peut cependant pas infliger ses dégâts de poison."
+  - name: Explosion finale
+    desc: "Quand le méphite meurt, il explose en un nuage de vapeur. Les créatures situées à 1,50 mètre ou moins de lui doivent chacune réussir un jet de sauvegarde de Dextérité DD 10 pour ne pas subir 4 (1d8) dégâts de feu."
+  - name: Incantation innée (1/jour)
+    desc: "Le méphite peut lancer flou de manière innée sans aucune composante matérielle. La caractéristique de son pouvoir d’incantation innée est le Charisme."
 actions:
-  - name: Dard
-    desc: "Attaque d’arme au corps-à-corps : +6 pour toucher, allonge 4,5 m, une cible. Touché : 11 (2d6+4) dégâts perforants et 9 (2d8) dégâts de poison."
+  - name: Griffes
+    desc: "Attaque d’arme au corps à corps : +2 pour toucher, allonge 1,50 m, une créature. Touché : 2 (1d4) dégâts tranchants plus 2 (1d4) dégâts de feu."
+  - name: Griffes
+    desc: "Le méphite souffle de la vapeur brûlante sur un cône de 4,50 mètres. Les créatures dans cette zone doivent chacune
+réussir un jet de sauvegarde de Dextérité DD 10 ;
+elles subissent 4 (1d8) dégâts de feu en cas de jet de
+sauvegarde raté et la moitié de ces dégâts seulement
+en cas de réussite."
 ```
