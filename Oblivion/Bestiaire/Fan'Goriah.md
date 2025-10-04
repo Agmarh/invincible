@@ -1,4 +1,5 @@
 ```statblock
+image: [[Fan'Goriah.png]]
 name: Fan'Goriah
 size: M
 type: Humanoïde

@@ -1,4 +1,5 @@
 ```statblock
+image: [[Baron Blême.png]]
 name: Baron Blême
 size: M
 type: Humanoïde

@@ -1,5 +1,5 @@
 ```statblock
-image: [[monstre.jpg]]
+image: [[Clyve.png]]
 name: Clyve l'Aboyeur
 size: G
 type: Géant

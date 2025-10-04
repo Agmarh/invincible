@@ -1,4 +1,5 @@
 ```statblock
+image: [[Hib.png]]
 name: Hibours, vieux
 size: G
 type: Créature monstrueuse

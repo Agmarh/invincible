@@ -1,5 +1,5 @@
 ```statblock
-image: [[monstre.png]]
+image: [[Grisou.png]]
 name: Grisou, le méphite de vapeur
 size: P
 type: Elémentaire

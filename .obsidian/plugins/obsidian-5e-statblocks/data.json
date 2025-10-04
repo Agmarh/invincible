@@ -7901,6 +7901,7 @@
     [
       "Baron Blême",
       {
+        "image": "<STATBLOCK-WIKI-LINK>Baron Blême.png<STATBLOCK-WIKI-LINK>",
         "name": "Baron Blême",
         "size": "M",
         "type": "Humanoïde",
@@ -7964,6 +7965,7 @@
     [
       "Fan'Goriah",
       {
+        "image": "<STATBLOCK-WIKI-LINK>Fan'Goriah.png<STATBLOCK-WIKI-LINK>",
         "name": "Fan'Goriah",
         "size": "M",
         "type": "Humanoïde",
@@ -8842,7 +8844,7 @@
     [
       "Grisou, le méphite de vapeur",
       {
-        "image": "<STATBLOCK-WIKI-LINK>monstre.png<STATBLOCK-WIKI-LINK>",
+        "image": "<STATBLOCK-WIKI-LINK>Grisou.png<STATBLOCK-WIKI-LINK>",
         "name": "Grisou, le méphite de vapeur",
         "size": "P",
         "type": "Elémentaire",
@@ -8896,7 +8898,7 @@
     [
       "Clyve l'Aboyeur",
       {
-        "image": "<STATBLOCK-WIKI-LINK>monstre.jpg<STATBLOCK-WIKI-LINK>",
+        "image": "<STATBLOCK-WIKI-LINK>Clyve.png<STATBLOCK-WIKI-LINK>",
         "name": "Clyve l'Aboyeur",
         "size": "G",
         "type": "Géant",
