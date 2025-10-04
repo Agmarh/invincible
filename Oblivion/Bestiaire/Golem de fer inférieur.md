@@ -13,10 +13,14 @@ damage_immunities: de poison, psychiques ; contondants, perforants et tranchants
 condition_immunities: [[Charmé]], [[Empoisonné]], [[Épuisé]], [[Paralysé]], [[Pétrifié]], [[Terrorisé]]
 senses: vision dans le noir 36 m, Perception passive 10
 languages: comprend les langues de son créateur mais ne peut pas parler
-cr: 1
+cr: 10
 traits:
-  - name: Incorporel
-    desc: "L’esprit dément peut passer à travers les éléments solides et les créatures. Il est alors considéré en terrain difficile, et s’il termine son tour dans un espace occupé, il subit immédiatement 7 (2d6) points de dégâts."
+  - name: Armes magiques
+    desc: "Les attaques d’arme du golem sont magiques."
+  - name: Forme immuable
+    desc: "Le golem est immunisé contre les sorts et effets susceptibles d’altérer sa forme."
+  - name: Résistance à la magie
+    desc: "Le golem obtient un avantage lors des jets de sauvegarde contre les sorts et autres effets magiques."
 actions:
   - name: Touché corrupteur
     desc: "Attaque d’arme au corps-à-corps : +6 pour toucher, allonge 1,50 m, une cible. Touché : 17 (4d6+4) dégâts nécrotiques."
