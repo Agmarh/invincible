@@ -23,10 +23,6 @@ traits:
 actions:
   - name: Griffes
     desc: "Attaque d’arme au corps à corps : +2 pour toucher, allonge 1,50 m, une créature. Touché : 2 (1d4) dégâts tranchants plus 2 (1d4) dégâts de feu."
-  - name: Griffes
-    desc: "Le méphite souffle de la vapeur brûlante sur un cône de 4,50 mètres. Les créatures dans cette zone doivent chacune
-réussir un jet de sauvegarde de Dextérité DD 10 ;
-elles subissent 4 (1d8) dégâts de feu en cas de jet de
-sauvegarde raté et la moitié de ces dégâts seulement
-en cas de réussite."
+  - name: Souffle de vapeur (Recharge 6)
+    desc: "Le méphite souffle de la vapeur brûlante sur un cône de 4,50 mètres. Les créatures dans cette zone doivent chacune réussir un jet de sauvegarde de Dextérité DD 10 ; elles subissent 4 (1d8) dégâts de feu en cas de jet de sauvegarde raté et la moitié de ces dégâts seulement en cas de réussite."
 ```
