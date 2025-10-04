@@ -1,4 +1,5 @@
 ```statblock
+image: [[Duc  Morgus Montanera.png]]
 name: « Duc » Morgus Montanera
 size: M
 type: Humanoïde
