@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oblivion/Bestiaire/Serpent Lacustre.md",
+                "file": "Oblivion/Bestiaire/Gargouille.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Serpent Lacustre"
+              "title": "Gargouille"
             }
           }
         ]
@@ -243,8 +243,10 @@
   },
   "active": "50bf43f857432a94",
   "lastOpenFiles": [
-    "Oblivion/Bestiaire/Serpent constricteur.md",
+    "Oblivion/Bestiaire/Gardien d'Azmän.md",
+    "Oblivion/Bestiaire/Gargouille.md",
     "Oblivion/Bestiaire/Serpent Lacustre.md",
+    "Oblivion/Bestiaire/Serpent constricteur.md",
     "Oblivion/Bestiaire/Lotus pieuvre.md",
     "Oblivion/Bestiaire/Lézard éléctrique.md",
     "Oblivion/Bestiaire/Clyve l'Aboyeur.md",
@@ -255,7 +257,6 @@
     "Oblivion/Bestiaire/Nômage Supérieur.md",
     "Oblivion/Bestiaire/Nécrophage.md",
     "Oblivion/Bestiaire/Hékété.md",
-    "Oblivion/Bestiaire/Gardien d'Azmän.md",
     "Oblivion/Bestiaire/Fantôme de chevalier.md",
     "Oblivion/Bestiaire/Chevalier-dragon.md",
     "Oblivion/Bestiaire/Dragon d'acier adulte.md",
@@ -268,7 +269,6 @@
     "Oblivion/Bestiaire/Orc.md",
     "Oblivion/Bestiaire/Skum.md",
     "Oblivion/Bestiaire/Spectre.md",
-    "Oblivion/Bestiaire/Spark, Tigre Sanguinaire.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Le Lac de Morte-Pensée",
     "D&D/Armure complète en métal Nain.png",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Sans titre.canvas",
