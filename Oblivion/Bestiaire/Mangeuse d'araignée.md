@@ -15,12 +15,14 @@ saves:
 skillsaves:
   - Discrétion: 5
   - Perception: 3
-senses: vision dans le noir 18 m, Perception passive 16
+damage_resistances: de poison
+condition_immunities: [[Charmé]], [[Entravé]], [[Empoigné]]
+senses: vision dans le noir 18 m, Perception passive 13
 languages: -
-cr: 1
+cr: 3
 traits:
-  - name: Pattes d'araignées
-    desc: "Le griffe-crâne peut escalader les surfaces difficiles, y compris se déplacer aux plafonds la tête en bas sans qu’un test de caractéristique soit nécessaire."
+  - name: Réaction mortelle
+    desc: "Lorsqu’une créature rate son attaque contre une mangeuse d’araignée, cette dernière peut utiliser sa réaction afin d’effectuer une attaque d’opportunité avec son dard. En cas de réussite, elle ne peut cependant pas infliger ses dégâts de poison."
 actions:
   - name: Attrape-visage
     desc: "Attaque d’arme au corps-à-corps : +5 pour toucher, allonge 4,5 m, une cible. Touché : 7 (1d8+3) dégâts perforants et la cible est empoignée (jet de sauvegarde de Dextérité DD14 en H&D, ou de Dextérité DD12 en CO). Au début de chacun de ses tours, le griffe-crâne peut utiliser son action afin d’infliger 7 (1d8+3) dégâts perforants à une cible qu’il a préalablement empoigné."
