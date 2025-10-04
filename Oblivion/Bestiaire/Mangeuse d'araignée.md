@@ -24,6 +24,6 @@ traits:
   - name: Réaction mortelle
     desc: "Lorsqu’une créature rate son attaque contre une mangeuse d’araignée, cette dernière peut utiliser sa réaction afin d’effectuer une attaque d’opportunité avec son dard. En cas de réussite, elle ne peut cependant pas infliger ses dégâts de poison."
 actions:
-  - name: Attrape-visage
-    desc: "Attaque d’arme au corps-à-corps : +5 pour toucher, allonge 4,5 m, une cible. Touché : 7 (1d8+3) dégâts perforants et la cible est empoignée (jet de sauvegarde de Dextérité DD14 en H&D, ou de Dextérité DD12 en CO). Au début de chacun de ses tours, le griffe-crâne peut utiliser son action afin d’infliger 7 (1d8+3) dégâts perforants à une cible qu’il a préalablement empoigné."
+  - name: Dard
+    desc: "Attaque d’arme au corps-à-corps : +6 pour toucher, allonge 4,5 m, une cible. Touché : 11 (2d6+4) dégâts perforants et 9 (2d8) dégâts de poison."
 ```
