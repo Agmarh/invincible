@@ -31,10 +31,10 @@ actions:
   - name: Epée à deux mains
     desc: "Attaque d’arme au corps-à-corps : +6 pour toucher, allonge 1,5 m, une cible. Touché : 15 (2d6+4+4) dégâts tranchants."
 treasure:
-  - name: 
-  - name: 
-  - name: 
-  - name: 
-  - name: 
-  - name: 
+  - name: [[Epée de Clyve]]
+  - name: Cuillère de Murlynd
+  - name: Chemise de mailles
+  - name: Méduse circéale Euryale
+  - name: Médusiers x8
+  - name: Nombreux livres venant de divers univers
 ```

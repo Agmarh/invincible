@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oblivion/Objets Magiques/Epée de Clyve.md",
+                "file": "Oblivion/Bestiaire/Clyve l'Aboyeur.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Epée de Clyve"
+              "title": "Clyve l'Aboyeur"
             }
           }
         ]
@@ -243,8 +243,8 @@
   },
   "active": "50bf43f857432a94",
   "lastOpenFiles": [
-    "Oblivion/Objets Magiques/Skorcheur.md",
     "Oblivion/Objets Magiques/Epée de Clyve.md",
+    "Oblivion/Objets Magiques/Skorcheur.md",
     "Oblivion/Objets Magiques/Nocturno.md",
     "Oblivion/Objets Magiques/La Faucheuse.md",
     "Oblivion/Bestiaire/Clyve l'Aboyeur.md",

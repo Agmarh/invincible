@@ -8891,6 +8891,93 @@
         "source": "Homebrew",
         "layout": "H&D"
       }
+    ],
+    [
+      "Clyve l'Aboyeur",
+      {
+        "image": "<STATBLOCK-WIKI-LINK>monstre.jpg<STATBLOCK-WIKI-LINK>",
+        "name": "Clyve l'Aboyeur",
+        "size": "G",
+        "type": "Géant",
+        "subtype": "Ogre",
+        "alignment": "Chaotique Bon",
+        "ac": "16 (chemise de mailles)",
+        "hp": 59,
+        "hit_dice": "7d10+21",
+        "speed": "12 m",
+        "stats": [
+          19,
+          16,
+          16,
+          15,
+          12,
+          18
+        ],
+        "skillsaves": [
+          {
+            "Médecine": 7
+          },
+          {
+            "Persuasion": 3
+          },
+          {
+            "Religion": 4
+          }
+        ],
+        "senses": "Perception passive 13",
+        "languages": "commun, géant, elfique, halfelin, runique",
+        "cr": 4,
+        "spells": [
+          "Clyve est un lanceur de sorts de niveau 4. Sa caractéristique d’incantation est le Charisme (DD du jet de sauvegarde contre les sorts 14, +6 pour toucher avec les attaques de sort). Il connaît les sorts d’ensorceleur suivants :",
+          {
+            "Tours de magie": "<STATBLOCK-WIKI-LINK>Illusion mineure<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Lumière<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Message<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Main du mage<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Rayon de givre<STATBLOCK-WIKI-LINK>"
+          },
+          {
+            "1er niveau (4 emplacements)": "<STATBLOCK-WIKI-LINK>Couleurs dansantes<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Image silencieuse<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Sommeil<STATBLOCK-WIKI-LINK>"
+          },
+          {
+            "2e niveau (3 emplacements)": "<STATBLOCK-WIKI-LINK>Offrande inéluctable<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Invisibilité<STATBLOCK-WIKI-LINK>"
+          }
+        ],
+        "traits": [
+          {
+            "name": "Epée de Clyve",
+            "desc": "L’épée de Clyve est un oniride forgé sur mesure pour lui il y a bien longtemps. Il lui permet de rajouter son modificateur de Charisme à tous les jets de dégâts effectués avec l’épée, ainsi qu’à son initiative et à sa vitesse de déplacement."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Attaques multiples",
+            "desc": "Clyve peut effectuer deux attaques avec une action attaquer."
+          },
+          {
+            "name": "Epée à deux mains",
+            "desc": "Attaque d’arme au corps-à-corps : +6 pour toucher, allonge 1,5 m, une cible. Touché : 15 (2d6+4+4) dégâts tranchants."
+          }
+        ],
+        "treasure": [
+          {
+            "name": "<STATBLOCK-WIKI-LINK>Epée de Clyve<STATBLOCK-WIKI-LINK>"
+          },
+          {
+            "name": "Cuillère de Murlynd"
+          },
+          {
+            "name": "Chemise de mailles"
+          },
+          {
+            "name": "Méduse circéale Euryale"
+          },
+          {
+            "name": "Médusiers x8"
+          },
+          {
+            "name": "Nombreux livres venant de divers univers"
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "H&D"
+      }
     ]
   ],
   "defaultLayouts": {},
