@@ -1,3 +1,4 @@
+![[P]]
 # Structure Sociale
  -   Citoyen : titre héréditaire
 	-   Peuvent posséder des terres et des esclaves
