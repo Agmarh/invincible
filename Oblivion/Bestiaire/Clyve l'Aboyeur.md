@@ -18,8 +18,8 @@ senses: Perception passive 13
 languages: commun, géant, elfique, halfelin, runique
 cr: 4
 traits:
-  - name: Attaques sanglantes
-    desc: Un chevalier-dragon ajoute deux dés de dégâts à chacune de ses attaques.
+  - name: Epée de Clyve
+    desc: "L’épée de Clyve est un oniride forgé sur mesure pour lui il y a bien longtemps. Il lui permet de rajouter son modificateur de Charisme à tous les jets de dégâts effectués avec l’épée, ainsi qu’à son initiative et à sa vitesse de déplacement."
 actions:
   - name: Attaques multiples
     desc: "Un chevalier-dragon peut effectuer trois attaques avec une action d’attaque."
