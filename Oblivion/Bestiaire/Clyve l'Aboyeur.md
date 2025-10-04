@@ -17,6 +17,15 @@ skillsaves:
 senses: Perception passive 13
 languages: commun, géant, elfique, halfelin, runique
 cr: 4
+spells:
+  - "Clyve est un lanceur de sorts de niveau 4. Sa caractéristique d’incantation est le Charisme (DD du jet de sauvegarde contre les sorts 14, +6 pour toucher avec les attaques de sort). Il connaît les sorts d’ensorceleur suivants :"
+  - Tours de magie: [[Illusion mineure]], [[Lumière]], [[Message]], [[Main du mage]], [[Rayon de givre]]
+  - 1er niveau (4 emplacements): [[Couleurs dansantes]], [[Image silencieuse]], [[Graisse]]
+  - 2e niveau (3 emplacements): [[Dessiccation]], [[Flou]], [[Image miroir]]
+  - 3e niveau (3 emplacements): [[Motif hypnotique]], [[Vol]]
+  - 4e niveau (3 emplacements): [[Sanctuaire privé]], [[Tentacules noirs]]
+  - 5e niveau (3 emplacements): [[Dominer un humanoïde]], [[Scrutation]]
+  - 6e niveau (1 emplacement): [[Suggestion de groupe]], [[Vision suprême]]
 traits:
   - name: Epée de Clyve
     desc: "L’épée de Clyve est un oniride forgé sur mesure pour lui il y a bien longtemps. Il lui permet de rajouter son modificateur de Charisme à tous les jets de dégâts effectués avec l’épée, ainsi qu’à son initiative et à sa vitesse de déplacement."
