@@ -99,7 +99,6 @@ Fan'Goriah soignera les blessés. Malheureusement tout ce qui se trouvait à bor
 
 Un <font style="color:green">test d'Investigation ou de Perception DD 18</font> permet de trouver une petit coffre intact dans lequel les PJ trouvent 80 gemmes de 100 po, 1500 po et 900 pp. 
 Il est également possible de trouver 2 objets parmi les suivants :
-- [[Lunettes nocturnes]]
 - [[Chapeau de déguisement]]
 - [[Perle de puissance]]
 - [[Ceinturon de force d'ogre]]
