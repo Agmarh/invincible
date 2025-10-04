@@ -8,8 +8,7 @@ Dès qu'ils entrent dans la pièce, un liquide rouge foncé commence à s'écoul
 1. [[Bâton de combat]]
 2. [[Collier de crâne]]
 3. [[Pièce de monnaie]]
-4. [[Boucle d'oreille de Mysdora]]
-5. [[Griffe d'oniride]]
+4. [[Griffe d'oniride]]
 
 ### Etage intermédiaire
 
