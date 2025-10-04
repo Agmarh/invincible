@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oblivion/Bestiaire/Golem de fer inférieur.md",
+                "file": "Oblivion/Où j'en suis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Golem de fer inférieur"
+              "title": "Où j'en suis"
             }
           }
         ]
@@ -243,8 +243,8 @@
   },
   "active": "50bf43f857432a94",
   "lastOpenFiles": [
-    "Oblivion/Bestiaire/Esprit dément.md",
     "Oblivion/Bestiaire/Golem de fer inférieur.md",
+    "Oblivion/Bestiaire/Esprit dément.md",
     "Oblivion/Bestiaire/Elfe de Farendhell.md",
     "Oblivion/Bestiaire/Gargouille.md",
     "Oblivion/Bestiaire/Gardien d'Azmän.md",
