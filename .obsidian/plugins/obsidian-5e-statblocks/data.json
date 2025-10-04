@@ -5870,16 +5870,16 @@
     [
       "Gargouille",
       {
-        "image": "monstre.png",
+        "image": "<STATBLOCK-WIKI-LINK>monstre.png<STATBLOCK-WIKI-LINK>",
         "name": "Gargouille",
         "size": "M",
         "type": "Elémentaire",
         "subtype": null,
         "alignment": "Chaotique Mauvais",
-        "ac": 15,
+        "ac": "15 (armure naturelle)",
         "hp": 52,
         "hit_dice": "7d8+21",
-        "speed": "9m, vol 18m",
+        "speed": "9 m, vol 18 m",
         "stats": [
           15,
           11,
@@ -5889,15 +5889,15 @@
           7
         ],
         "damage_resistances": "contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en adamantium",
-        "damage_immunities": "poison",
-        "condition_immunities": "<STATBLOCK-LINK>Empoisonné</STATBLOCK-LINK>, Epuisé, <STATBLOCK-LINK>Pétrifié</STATBLOCK-LINK>",
-        "senses": "vision dans le noir 18m, Perception passive 10",
+        "damage_immunities": "de poison",
+        "condition_immunities": "<STATBLOCK-WIKI-LINK>Empoisonné<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Épuisé<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Pétrifié<STATBLOCK-WIKI-LINK>",
+        "senses": "Vision dans le noir 18 m, Pereption passive 10",
         "languages": "terreux",
         "cr": 2,
         "traits": [
           {
             "name": "Faux-semblant",
-            "desc": "Aussi longtemps que la gargouille reste immobile, il est impossible de la distinguer d'une statue inanimée."
+            "desc": "Aussi longtemps que la gargouille reste immobile, il est impossible de la distinguer d’une statue inanimée."
           }
         ],
         "actions": [
@@ -5907,11 +5907,11 @@
           },
           {
             "name": "Griffes",
-            "desc": "Attaque d'arme au corps à corps : 4 (1d20+4) pour toucher, allonge 1,50 m, une cible. Touché : 5 (1d6+2) dégâts tranchants."
+            "desc": "Attaque d’arme au corps à corps : +4 pour toucher, allonge 1,50 m, une cible. Touché : 5 (1d6+2) dégâts tranchants."
           },
           {
             "name": "Morsure",
-            "desc": "Attaque d'arme au corps à corps : 4 (1d20+4) pour toucher, allonge 1,50 m, une cible.  Touché : 5 (1d6+2) dégâts perforants."
+            "desc": "Attaque d’arme au corps à corps : +4 pour toucher, allonge 1,50 m, une cible. Touché : 5 (1d6+2) dégâts perforants."
           }
         ],
         "source": "Homebrew",
