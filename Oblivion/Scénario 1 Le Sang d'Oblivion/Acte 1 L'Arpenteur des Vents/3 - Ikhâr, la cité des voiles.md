@@ -25,6 +25,25 @@ Les PJ peuvent rejoindre le village et commencer à discuter avec ses habitants 
 	- Le cercle du Répit est le plus extérieure. Quelques auberges ambulantes s'y partagent la clientèle, parmi les dernières bâtisses d'Ikhâr situées à la lisière du cercle.
 
 ![[Ikhâr map.png]]
+# 1 - La Capitainerie
+Aménagée dans l'épave d'un galion, c'est aujourd'hui une immense demeure garantissant le repos et l'intimité des capitaines.
+
+Les 6 gardes de la compagnie sont postés à l'entrée et laisserons les PJ entrer s'ils demandent à voir le vieux chevalier aux yeux d'ambres qui les a convoqués. Sinon ils seront violemment repoussés car le Duc a stimulé les gardes. Il faudra plusieurs morts en cas de combat avant qu'un capitaine n'intervienne et fasse entrer les PJ en s'excusant.
+
+A l'intérieur les PJ découvrent 3 capitaines chargés par Löne Kernos d'accueillir les PJ :
+
+- Le "Duc" Morgus Montanera : redoutable séducteur, titre factice, habillé de beaux vêtements, une rapière à sa ceinture.
+- Baron Blême : un demi-orque albinos, belliqueux, use de sa force pour obtenir les trocs les plus avantageux avec les tribus sauvages.
+- Fan'Goriah : prêtresse humaine de 45ans, d'une grande classe, elle vénère Aeva, la déesse de la guérison et de la médecine et sait se montrer impitoyable avec élégance. Femme de confiance de l'Arpenteur, elle tient les comptes de la compagnie.
+
+Les capitaines annonceront aux PJ que leur leader, l'Arpenteur des Vents, les a choisis pour hériter de ses parts -largement majoritaires - au sein de la guilde. Les PJ vont devenir les nouveaux patrons de la Compagnie des Vaisseaux du Vent.
+
+Il faudra d'abord s'en montre digne et passer la Sentence des Voies, qui commencent dans deux jours. Les Capitaines invitent les PJ à patienter tous frais payés dans l'auberge de l'Hallucinose situé dans le cercle du Répit.
+
+S'ils ne veulent pas passer les épreuves, les capitaines seront ravis, Baron Blême les invitera à signer une "lettre de renoncement" et à quitter immédiatement Ikhâr. Ce document officiel précise que les PJ renonce aux 150 000 PO représentant les parts de l'Arpenteur.
+
+Le conseil ne peut répondre aux questions des PJ sur leur rêve.
+
 # 2 - Le Point Zéro
 Situé au centre d'Ikhâr; c'est une vaste cuvette de 400m de diamètre et de 2m de profondeur.
 ## L'ambiance
@@ -48,25 +67,6 @@ Un roleplay efficace auprès d'aéromarins alcoolisés, dockers nains, contrema�
 - 18-20. Nombreux sont les capitaines qui sont morts, le poste implique de consommer régulièrement du Khayolt pur. Indispensable pour connaître le Chant des Vents pour guider sa gondolfière. Le Khayolt affecte aussi les cellules chromatiques des yeux : c'est pourquoi les capitaines se reconnaissent à la couleur de leur yeux fait d'ambre pur.
 
 - 21+. Löne Kernos est une sorte de Chevalier marchand. Il n'apparaît pas en public et vit sur sa Gondolfière-palais, en constant déplacement. Personne ne sait où elle se trouve, elle est protégé par de puissants sorts de non-détection. Elle rejoindra Ikhâr dans 2 jours. L'Arpenteur est un vieil elfe, bienveillant et fortuné mais un peu mystérieux et paranoïaque. La seule personne qui partage sa vie est sa redoutable épée noire, qu'il appel sa "Dame d'Ombre". Une arme terrifiante capable de tuer d'un seul coup.
-
-# 1 - La Capitainerie
-Aménagée dans l'épave d'un galion, c'est aujourd'hui une immense demeure garantissant le repos et l'intimité des capitaines.
-
-Les 6 gardes de la compagnie sont postés à l'entrée et laisserons les PJ entrer s'ils demandent à voir le vieux chevalier aux yeux d'ambres qui les a convoqués. Sinon ils seront violemment repoussés car le Duc a stimulé les gardes. Il faudra plusieurs morts en cas de combat avant qu'un capitaine n'intervienne et fasse entrer les PJ en s'excusant.
-
-A l'intérieur les PJ découvrent 3 capitaines chargés par Löne Kernos d'accueillir les PJ :
-
-- Le "Duc" Morgus Montanera : redoutable séducteur, titre factice, habillé de beaux vêtements, une rapière à sa ceinture.
-- Baron Blême : un demi-orque albinos, belliqueux, use de sa force pour obtenir les trocs les plus avantageux avec les tribus sauvages.
-- Fan'Goriah : prêtresse humaine de 45ans, d'une grande classe, elle vénère Aeva, la déesse de la guérison et de la médecine et sait se montrer impitoyable avec élégance. Femme de confiance de l'Arpenteur, elle tient les comptes de la compagnie.
-
-Les capitaines annonceront aux PJ que leur leader, l'Arpenteur des Vents, les a choisis pour hériter de ses parts -largement majoritaires - au sein de la guilde. Les PJ vont devenir les nouveaux patrons de la Compagnie des Vaisseaux du Vent.
-
-Il faudra d'abord s'en montre digne et passer la Sentence des Voies, qui commencent dans deux jours. Les Capitaines invitent les PJ à patienter tous frais payés dans l'auberge de l'Hallucinose situé dans le cercle du Répit.
-
-S'ils ne veulent pas passer les épreuves, les capitaines seront ravis, Baron Blême les invitera à signer une "lettre de renoncement" et à quitter immédiatement Ikhâr. Ce document officiel précise que les PJ renonce aux 150 000 PO représentant les parts de l'Arpenteur.
-
-Le conseil ne peut répondre aux questions des PJ sur leur rêve.
 
 # 3 - Le Cercle de l'Acrobal
 Au départ simple baraquements entourant Point Zéro et accueillant les membres d'équipages, c'est un point de ralliement pour les artistes, équilibristes, aventuriers et vendeurs à la sauvette.
@@ -105,7 +105,7 @@ Les PJ peuvent acheter toute sorte d'équipements, des animaux (dont 2 hippogrif
 
 Les Cadavreux : Ettin'Grinn et 3 autres nains tentent d'assassiner les PJs.
 
-# Le Cercle du Répit
+# 7 - Le Cercle du Répit
 Endroit le plus calme d'Ikhâr, désert pendant la journée, on trouve beaucoup de natifs en soirée, revenant des mines de soufre ou des exploitations souterraines.
 
 Les Ikhârians aiment convier les étrangers à partager une chope de Khayolt sur les terrasses formées par leurs toits, parmi les odeurs de grillades et les parfums du soir.
@@ -126,7 +126,7 @@ Malathor ne se sépare plus de son fils depuis la mort de sa femme, brûlée par
 
 Malathor ne compte pas passer la Sentence des Voies, mais les PJ peuvent demander son aide.
 
-## L'Auberge de l'Hallucinose
+# 6 - L'Auberge de l'Hallucinose
 
 Vu de l'extérieur, l'établissement se compose de la juxtaposition d'une vingtaine de chariots à deux étages. Certaines commencent à être bâties en dur, on sent que l'établissement s'installe peu à peu. L'intérieur parait vaste et intime. La lumière est soigneusement tamisée, des étoffes recouvrent les parois de bois et des musiciens créent une ambiance hypnotique. Nourriture et boisson circulent à profusion.
 
