@@ -1,5 +1,5 @@
 ```statblock
-image: [[monstre.png]]
+image: [[Ravageur.png]]
 name: Le Ravageur (Acte 1)
 size: G
 type: Fiélon

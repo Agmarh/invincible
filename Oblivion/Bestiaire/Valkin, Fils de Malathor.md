@@ -1,4 +1,5 @@
 ```statblock
+image: [[Valkin.png]]
 name: Valkin, Fils de Malathor
 size: M
 type: Humanoïde

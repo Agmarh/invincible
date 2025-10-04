@@ -7964,6 +7964,7 @@
     [
       "Valkin, Fils de Malathor",
       {
+        "image": "<STATBLOCK-WIKI-LINK>Valkin.png<STATBLOCK-WIKI-LINK>",
         "name": "Valkin, Fils de Malathor",
         "size": "M",
         "type": "Humanoïde",
@@ -8056,7 +8057,7 @@
     [
       "Le Ravageur (Acte 1)",
       {
-        "image": "<STATBLOCK-WIKI-LINK>monstre.png<STATBLOCK-WIKI-LINK>",
+        "image": "<STATBLOCK-WIKI-LINK>Ravageur.png<STATBLOCK-WIKI-LINK>",
         "name": "Le Ravageur (Acte 1)",
         "size": "G",
         "type": "Fiélon",
