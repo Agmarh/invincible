@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a45487373ead07ec",
+        "id": "36bd11f186061970",
         "type": "tabs",
         "children": [
           {
-            "id": "50bf43f857432a94",
+            "id": "09cff267556e1f2f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -241,10 +241,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "50bf43f857432a94",
+  "active": "09cff267556e1f2f",
   "lastOpenFiles": [
-    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/2 - Réveil Amer.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/1 - Premier voyage en Oblivion.md",
+    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/3 - Ikhâr, la cité des voiles.md",
+    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/2 - Réveil Amer.md",
     "Oblivion/Images/Alba Secundum.png",
     "Oblivion/Bestiaire/Le Ravageur (Acte 1).md",
     "Oblivion/Bestiaire/Valkin, Fils de Malathor.md",

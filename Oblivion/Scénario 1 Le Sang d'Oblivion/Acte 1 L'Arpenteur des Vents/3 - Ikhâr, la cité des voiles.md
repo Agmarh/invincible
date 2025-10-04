@@ -105,27 +105,6 @@ Les PJ peuvent acheter toute sorte d'équipements, des animaux (dont 2 hippogrif
 
 Les Cadavreux : Ettin'Grinn et 3 autres nains tentent d'assassiner les PJs.
 
-# 7 - Le Cercle du Répit
-Endroit le plus calme d'Ikhâr, désert pendant la journée, on trouve beaucoup de natifs en soirée, revenant des mines de soufre ou des exploitations souterraines.
-
-Les Ikhârians aiment convier les étrangers à partager une chope de Khayolt sur les terrasses formées par leurs toits, parmi les odeurs de grillades et les parfums du soir.
-
-Les PJs pourront se reposer dans une auberge ambulante (5 pa la nuit) ou dormir chez l'habitant (3 po la nuit). Le summum local est l'auberge de l'Hallucinose (15 po la nuit).
-
-## Le Campement de Malathor
-
-Au-dessus d'une tente claquent les fanions des Chevaliers du Jugement, l'ordre religieux du dieu Justicaar. En approchant, les PJ entendent un juron retentir :
-
-"Par les tripes d'Azel-Liark !", et la tente s'ouvre pour laisser passer Malathor, le paladin.
-
-Au cours de retrouvailles chaleureuses, il raconte comment il est arrivé à Ikhâr par une autre route que les PJs. Il faut le même rêve qu'eux depuis des semaines, et après en avoir parlé à ses supérieurs religieux, il a été envoyé pour enquêter en compagnie d'un écuyer et d'un scribe de l'Empire.
-
-L'écuyer n'est autre que son propre fils, Valkin, un jeune garçon de 6 ans qui veut devenir un Chevalier du Jugement, comme son père. Valkin a aussi fait le rêve de l'appel de l'Arpenteur. Valkin s'intéresse beaucoup aux PJ et à leurs "métiers".
-
-Malathor ne se sépare plus de son fils depuis la mort de sa femme, brûlée par le souffle acide d'un dragon. Il est traumatisé à l'idée de disparaître au cours d'un nouveau cauchemar et d'abandonner son fils derrière lui. Il serait déjà parti très loin si les capitaines aéromarchands n'avaient pas insisté pour que son scribe ratifie la passation de pouvoirs de Löne Kernos.
-
-Malathor ne compte pas passer la Sentence des Voies, mais les PJ peuvent demander son aide.
-
 # 6 - L'Auberge de l'Hallucinose
 
 Vu de l'extérieur, l'établissement se compose de la juxtaposition d'une vingtaine de chariots à deux étages. Certaines commencent à être bâties en dur, on sent que l'établissement s'installe peu à peu. L'intérieur parait vaste et intime. La lumière est soigneusement tamisée, des étoffes recouvrent les parois de bois et des musiciens créent une ambiance hypnotique. Nourriture et boisson circulent à profusion.
@@ -142,3 +121,25 @@ Les PJ pourront rencontrer 3 autres oubliés :
 ## Péripéties
 
 Les jumeaux disparaissent : ils ne sont pas revenus de leur visite des vignes des nains. Si les PJ les cherchent, ils retrouvent leurs corps fracassés au fond d'une crevasse. Cela ressemble à un accident, mais c'est l'œuvre d'Ettin'Grinn.
+
+# 7 - Le Cercle du Répit
+Endroit le plus calme d'Ikhâr, désert pendant la journée, on trouve beaucoup de natifs en soirée, revenant des mines de soufre ou des exploitations souterraines.
+
+Les Ikhârians aiment convier les étrangers à partager une chope de Khayolt sur les terrasses formées par leurs toits, parmi les odeurs de grillades et les parfums du soir.
+
+Les PJs pourront se reposer dans une auberge ambulante (5 pa la nuit) ou dormir chez l'habitant (3 po la nuit). Le summum local est l'auberge de l'Hallucinose (15 po la nuit).
+
+# 8 - Le Campement de Malathor
+
+Au-dessus d'une tente claquent les fanions des Chevaliers du Jugement, l'ordre religieux du dieu Justicaar. En approchant, les PJ entendent un juron retentir :
+
+"Par les tripes d'Azel-Liark !", et la tente s'ouvre pour laisser passer Malathor, le paladin.
+
+Au cours de retrouvailles chaleureuses, il raconte comment il est arrivé à Ikhâr par une autre route que les PJs. Il faut le même rêve qu'eux depuis des semaines, et après en avoir parlé à ses supérieurs religieux, il a été envoyé pour enquêter en compagnie d'un écuyer et d'un scribe de l'Empire.
+
+L'écuyer n'est autre que son propre fils, Valkin, un jeune garçon de 6 ans qui veut devenir un Chevalier du Jugement, comme son père. Valkin a aussi fait le rêve de l'appel de l'Arpenteur. Valkin s'intéresse beaucoup aux PJ et à leurs "métiers".
+
+Malathor ne se sépare plus de son fils depuis la mort de sa femme, brûlée par le souffle acide d'un dragon. Il est traumatisé à l'idée de disparaître au cours d'un nouveau cauchemar et d'abandonner son fils derrière lui. Il serait déjà parti très loin si les capitaines aéromarchands n'avaient pas insisté pour que son scribe ratifie la passation de pouvoirs de Löne Kernos.
+
+Malathor ne compte pas passer la Sentence des Voies, mais les PJ peuvent demander son aide.
+
