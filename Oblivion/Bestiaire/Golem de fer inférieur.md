@@ -1,20 +1,14 @@
 ```statblock
 name: Golem de fer inférieur
 size: G
-type: Créature ar
+type: Créature artificielle
 subtype: 
-alignment: Neutre Mauvais
-ac: 14
-hp: 38
-hit_dice: 7d8+7
-speed: 0 m, vol 12 m
-stats: [4, 18, 12, 16, 15, 18]
-saves:
-  - Sagesse: 5
-  - Charisme: 7
-skillsaves:
-  - Perception: 5
-  - Discrétion: 7
+alignment: Non-alignée
+ac: 17 (armure naturelle)
+hp: 178
+hit_dice: 17d10+85
+speed: 0 m
+stats: [22, 9, 20, 3, 11, 1]
 damage_resistances: d'acide, de feu, de foudre, de tonnerre ; contondants, perforants et tranchants d'attaques non magiques et d'armes n'étant pas en argent
 damage_immunities: de froid, nécrotiques et de poison
 condition_immunities: [[Charmé]], [[Épuisé]], [[Terrorisé]], [[Empoigné]], [[Paralysé]], [[Pétrifié]], [[Empoisonné]], [[A terre]], [[Entravé]]
