@@ -30,9 +30,11 @@ actions:
     desc: "Clyve peut effectuer deux attaques avec une action attaquer."
   - name: Epée à deux mains
     desc: "Attaque d’arme au corps-à-corps : +6 pour toucher, allonge 1,5 m, une cible. Touché : 15 (2d6+4+4) dégâts tranchants."
-  - name: Arc court
-    desc: "Attaque d’arme à distance : +5 pour toucher, portée 24/96, une cible. Touché : 12 (3d6+2) dégâts tranchants."
-reactions:
-  - name: Parade de bouclier
-    desc: "Quand une attaque touche un chevalier-dragon, il peut utiliser sa réaction afin d’ajouter 2 à sa CA."
+treasure:
+  - name: 
+  - name: 
+  - name: 
+  - name: 
+  - name: 
+  - name: 
 ```
