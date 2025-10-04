@@ -20,6 +20,9 @@ Au moment où ils vont s'endormir, demander comment ils dorment, équipés ou pa
 > <font style="color:yellow">"Hâtez-vous, Rêveurs ! Votre chair m'est précieuse : venez souffrir au pays des chimères…"</font>
 > 
 >  Puis un choc… Vous vous réveillez en sursaut, couverts de sueur, le cœur battant à cent à l'heure.
+
+## Map
+
 ## 1 - Geôle d'arrivée : La caverne d'os
 
 > Il fait un noir complet, de partout proviennent d'étranges gargouillements, des bruits de succion…
