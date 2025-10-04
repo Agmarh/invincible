@@ -10,15 +10,17 @@ hp: 52
 hit_dice: 7d8+21
 speed: 9 m, vol 18 m
 stats: [15, 11, 16, 6, 11, 7]
-damage_resistances: contondants, perforants et tranchants infligés par des attaques non-magique
+damage_resistances: contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en adamantium
+damage_immunities: de poison
+condition_immunities: [[Empoisonné]], [[Épuisé]], [[Pétrifié]]
 senses: Vision dans le noir 18 m, Pereption passive 10
 languages: terreux
 cr: 2
 traits:
-  - name: Brave
-    desc: "Le chevalier obtient un avantage lors des jets de sauvegarde effectués pour ne pas être terrorisé."
+  - name: Faux-semblant
+    desc: "Aussi longtemps que la gargouille reste immobile, il est impossible de la distinguer d’une statue inanimée."
 actions:
-  - name: Arc long
+  - name: Attaques multiples
     desc: "Attaque d'arme à distance : +2 pour toucher, portée 45/180 m, une cible. Touché : 4 (1d8) dégâts perforants."
   - name: Attaques multiples
     desc: "Le chevalier effectue deux attaques au corps à corps."
