@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oblivion/Bestiaire/Grisou, le méphite de vapeur.md",
+                "file": "Oblivion/Bestiaire/Ogre.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Grisou, le méphite de vapeur"
+              "title": "Ogre"
             }
           }
         ]
@@ -243,8 +243,9 @@
   },
   "active": "50bf43f857432a94",
   "lastOpenFiles": [
-    "Oblivion/Bestiaire/Méphite de vapeur.md",
     "Oblivion/Bestiaire/Grisou, le méphite de vapeur.md",
+    "Oblivion/Bestiaire/Ogre.md",
+    "Oblivion/Bestiaire/Méphite de vapeur.md",
     "Oblivion/Bestiaire/Mangeuse d'araignée.md",
     "Oblivion/Bestiaire/Griffe-Crâne.md",
     "Oblivion/Bestiaire/Orc.md",
@@ -268,7 +269,6 @@
     "Oblivion/Bestiaire/Oskar Holderhek.md",
     "Oblivion/Bestiaire/Père Karusco.md",
     "Oblivion/Bestiaire/Rhâvi Shândar.md",
-    "Oblivion/Bestiaire/Fan'Goriah.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Le Lac de Morte-Pensée",
     "D&D/Armure complète en métal Nain.png",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Sans titre.canvas",
