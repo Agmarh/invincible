@@ -15,7 +15,9 @@ saves:
 skillsaves:
   - Perception: 5
   - Discrétion: 7
-damage_resistances: d'acide, de feu, de foudre, de tonnerre ; contondants, perforants et tranchants d'attaq
+damage_resistances: d'acide, de feu, de foudre, de tonnerre ; contondants, perforants et tranchants d'attaques non magiques et d'armes n'étant pas en argent
+damage_immunities: de froid, nécrotiques et de poison
+condition_immunities: [[Charmé]], [[Épuisé]], [[Terrorisé]], [[Empoigné]], [[Paralysé]], [[Pétrifié]], [[Empoisonné]], [[A terre]]
 senses: vision dans le noir 18m, Perception passive 15
 languages: commun, elfe
 cr: 1/2
