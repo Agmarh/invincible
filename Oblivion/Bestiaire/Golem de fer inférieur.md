@@ -1,7 +1,7 @@
 ```statblock
-name: Esprit dément
-size: M
-type: Mort-vivant
+name: Golem de fer inférieur
+size: G
+type: Créature ar
 subtype: 
 alignment: Neutre Mauvais
 ac: 14
