@@ -1,6 +1,6 @@
-Monstres à ajouter au bestiaire -> Acte 3
+Monstres à ajouter au bestiaire -> Scénario 1 Acte 3
 
-Objets magiques à revoir
+Objets magiques Scénario 2
 
 Personnage lié aux PJ à préparer à la place du [[Père Karusco]]
 
