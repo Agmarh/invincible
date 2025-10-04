@@ -82,14 +82,14 @@ Les PJ peuvent descendre à une vitesse de 2,5 mètres par round. Les péripéti
 | 1D8   | Palier 1                | Palier 2              | Palier 3             | Palier 4             | Palier 5             |
 | ----- | ----------------------- | --------------------- | -------------------- | -------------------- | -------------------- |
 |       | **0 à -5 mètres**       | **-5 à -10 mètres**   | **-10 à -20 mètres** | **-20 à -30 mètres** | **-30 à -40 mètres** |
-| **1** | [[Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Le Lac de Morte-Pensée/Mangeuse d'araignée]] | [[Remontée]]          | [[Remontée]]         | [[Remontée]]         | [[Serpent Lacustre]] |
+| **1** | [[Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Le Lac de Morte-Pensée/Mangeuse d'araignée]] | [[Remontée]]          | [[Remontée]]         | [[Remontée]]         | [[Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Le Lac de Morte-Pensée/Serpent Lacustre]] |
 | **2** | [[Lotus-Pieuvre]]       | [[Lézard électrique]] | [[Orphéose]]         | [[Orphéose]]         | [[Orphéose]]         |
-| **3** | Rien                    | [[Lotus-Pieuvre]]     | [[Lotus-Pieuvre]]    | [[Squelettes]]       | [[Serpent Lacustre]] |
+| **3** | Rien                    | [[Lotus-Pieuvre]]     | [[Lotus-Pieuvre]]    | [[Squelettes]]       | [[Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Le Lac de Morte-Pensée/Serpent Lacustre]] |
 | **4** | Rien                    | Rien                  | Rien                 | [[Squelettes]]       | [[Squelettes]]       |
 | **5** | Rien                    | Rien                  | Rien                 | Rien                 | [[Squelettes]]       |
 | **6** | Rien                    | Rien                  | [[Orphéose]]         | [[Orphéose]]         | [[Orphéose]]         |
 | **7** | [[Lotus-Pieuvre]]       | [[Lézard électrique]] | [[Orphéose]]         | [[Orphéose]]         | [[Remontée]]         |
-| **8** | [[Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Le Lac de Morte-Pensée/Mangeuse d'araignée]] | [[Lotus-Pieuvre]]     | [[Avarie]]           | [[Serpent Lacustre]] | [[Serpent Lacustre]] |
+| **8** | [[Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Le Lac de Morte-Pensée/Mangeuse d'araignée]] | [[Lotus-Pieuvre]]     | [[Avarie]]           | [[Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Le Lac de Morte-Pensée/Serpent Lacustre]] | [[Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Le Lac de Morte-Pensée/Serpent Lacustre]] |
 ### La Sixième Essence
 
 Lorsque les PJ atteignent la sixième essence, les PJ entrent dans une transe cataleptique, tétanisant chaque parcelle de leur organisme en une stase mystique. Incapable du moindre mouvement, chacun perçoit la puissance de la pensée de Khétale s'infiltrer dans leur cerveau. Ils perdent toute notion du temps et de l'espace. Les PJ qui atteignent cette zone gagnent définitivement 1 point dans leur caractéristique majeure.
