@@ -11,6 +11,7 @@ La Chaussée des Rois Nains est réputée maudite, mais il n'en est rien, les PJ
 Les PJs peuvent alors se rencontrer autour d'un feu de camp, sur la route, en train de chasser etc…
 
 Les PJs auront du mal à dormir, ils se réveillent en sursaut… Ne pas hésiter à lancer quelques dés et faire des mimiques.
+- Iseult a le niveau de vie suffisant pour dormir dans ne
 
 Au matin, il faudra réussir un <font style="color:green">jet de sauvegarde de Constitution DD12</font> pour ne pas subir un niveau de fatigue car ils n'ont pas dormi de la nuit.
 
