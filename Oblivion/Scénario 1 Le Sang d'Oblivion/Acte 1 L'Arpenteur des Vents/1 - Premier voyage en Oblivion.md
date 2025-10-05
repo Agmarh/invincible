@@ -2,7 +2,9 @@ Les PJs se trouvent à Epistéa, non loin des montagnes Rouges et à la frontiè
 
 Les PJs se trouvent tous à Epistéa. Voilà ce qu'ils savent sur leur rêve :
 - À propos de la falaise ocre : une telle structure géologique n’existe que dans un seul territoire du monde connu : la région des Montagnes Rouges, une chaîne majestueuse de monts et de hauts plateaux qui s’étend à l’extrême ouest de l’Empire, en dehors de toute région civilisée. Ces terres sauvages et arides ont jadis été colonisées par les nains avant d’être abandonnées. Une route traverse encore ces montagnes hostiles : la Chaussée des Rois Nains. Elle est désaffectée depuis des lustres et réputée hantée.
-- Si questionÀ propos de la nature du rêve : un jet d’investigation DD 15 par un jeteur de sort révèle qu’il tient à la fois des sorts rêve et coercition mystique. Des divinations apprendront que le jeteur de sorts n’a pas de mauvaise intention vis-à-vis des PJ et qu’il compte juste les faire venir jusqu’à lui. 
+- Si question à propos de la nature du rêve : un jet d’investigation DD 15 par un jeteur de sort révèle qu’il tient à la fois des sorts rêve et coercition mystique. Des divinations apprendront que le jeteur de sorts n’a pas de mauvaise intention vis-à-vis des PJ et qu’il compte juste les faire venir jusqu’à lui. 
+
+Les PJs sont tous à l'Auberge d'Epistéa et sont chacun dans une chambre ou un dortoir en fonction de leur niveau de vie.
 # L'antre des cauchemars
 
 > Vous vous endormez, le Rêve commence, vous pénétrez dans ce paysage devenu familier : le sentier sinueux, la poussière ocre aux effluves de souffre et cette sensation, unique, de plénitude et de sérénité. Pourtant, vous percevez un murmure inhabituel et les couleurs paraissent plus sombres qu'à l'accoutumée.
