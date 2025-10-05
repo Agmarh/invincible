@@ -135,7 +135,7 @@ Au-dessus d'une tente claquent les fanions des Chevaliers du Jugement, l'ordre r
 
 "Par les tripes d'Azel-Liark !", et la tente s'ouvre pour laisser passer Malathor, le paladin.
 
-Au cours de retrouvailles chaleureuses, il raconte comment il est arrivé à Ikhâr par une autre route que les PJs. Il faut le même rêve qu'eux depuis des semaines, et après en avoir parlé à ses supérieurs religieux, il a été envoyé pour enquêter en compagnie d'un écuyer et d'un scribe de l'Empire.
+Au cours de retrouvailles chaleureuses, il raconte comment il est arrivé à Ikhâr par une autre route que les PJs. Il fait le même rêve qu'eux depuis des semaines, et après en avoir parlé à ses supérieurs religieux, il a été envoyé pour enquêter en compagnie d'un écuyer et d'un scribe de l'Empire.
 
 L'écuyer n'est autre que son propre fils, Valkin, un jeune garçon de 6 ans qui veut devenir un Chevalier du Jugement, comme son père. Valkin a aussi fait le rêve de l'appel de l'Arpenteur. Valkin s'intéresse beaucoup aux PJ et à leurs "métiers".
 
