@@ -1,1 +1,2 @@
-Etablie non loin des montagnes rouges et à la frontière entre le Saint Protectorat 
+Etablie non loin des montagnes rouges et à la frontière entre le Saint Protectorat et Hautemarche. Cette cité bâtie sur un petit plateau est réparties en trois terrasses. Sur le plateau lui-même se trouve un immense bâtiment : la Sainte Bibliothèque. Cette dernière, très fournies, etnend réussir à supplanter celle de Wissenheim, mais ce n'est pour le moment pas le cas.
+Cela crée cependant d
