@@ -1,6 +1,19 @@
 Les PJs se trouvent à Epistéa, non loin des montagnes Rouges et à la frontière entre le Saint Protectorat et Hautemarche. Cette cité est bâtie sur un petit plateau et réparties en trois terrasses. Sur le plateau lui-même se trouve un immense bâtiment : la Sainte Bibliothèque qui est réputée pour abriter les archives du Saint Protectorat, qui appartient au clergé de Justicaar. On peut trouver normalement des informations sur à peu près tout.
 
-Ls PJs 
+Les PJs se trouvent tous à Epistéa. Demander des jets d'investigation pour savoir leur niveau de connaissance sur leur rêve :
+- À propos de la falaise ocre : une telle structure géologique n’existe que dans un seul territoire du monde connu : la région des Montagnes Rouges, une chaîne majestueuse de monts et de hauts plateaux qui s’étend à l’extrême ouest de l’Empire, en dehors de toute région civilisée. Ces terres sauvages et arides ont jadis été colonisées par les nains avant d’être abandonnées. Une route traverse encore ces montagnes hostiles : la Chaussée des Rois Nains.Elle est désaffectée depuis des lustres et réputée
+hantée.
+» À propos du chevalier ou de l’épée noire : rien ne
+peut être deviné, car chacun d’eux est protégé par
+de puissants sortilèges de non-détection (laissés à
+l’appréciation du MJ).
+» À propos de la nature du rêve : un jet d’Intelligence
+(Arcanes) DD 15 (5E) ou d’Intelligence DD
+13 (COF) révèle qu’il tient à la fois des sorts rêve et
+coercition mystique. Des divinations apprendront
+que le jeteur de sorts n’a pas de mauvaise intention
+vis-à-vis des PJ et qu’il compte juste les faire venir
+jusqu’à lui. Le sort l’appel des Oubliés est décrit p. 87.
 
 # L'antre des cauchemars
 
