@@ -109,9 +109,9 @@ Les Cadavreux : Ettin'Grinn et 3 autres nains tentent d'assassiner les PJs.
 
 Vu de l'extérieur, l'établissement se compose de la juxtaposition d'une vingtaine de chariots à deux étages. Certaines commencent à être bâties en dur, on sent que l'établissement s'installe peu à peu. L'intérieur parait vaste et intime. La lumière est soigneusement tamisée, des étoffes recouvrent les parois de bois et des musiciens créent une ambiance hypnotique. Nourriture et boisson circulent à profusion.
 
-En entrant, les PJ remarqueront rapidement Tôma qui leur racontera comment il s'est échappé in extremis :
+En entrant, les PJ pourront remarquer Feryenne qui leur racontera comment elle s'est échappé in extremis :
 
-"J'ai couru aussi vite que j'ai pu, j'ai juste eu le temps de rattraper ces étranges gnomes mécaniques qui m'ont aidé à m'échapper. Et je suis arrivé à Ikhâr il y a peu de temps."
+"J'ai couru aussi vite que j'ai pu, j'ai juste eu le temps de rattraper ces étranges gnomes mécaniques qui m'ont aidé à m'échapper. Et je suis arrivé à Ikhâr il y a peu de temps, en suivant cet étrange rêve."
 
 Les PJ pourront rencontrer 3 autres oubliés :
 
