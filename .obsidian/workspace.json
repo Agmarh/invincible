@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 4 Alba-Secundum/2 - Le nid de l'écorcheuse.md",
+                "file": "Oblivion/Magie.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2 - Le nid de l'écorcheuse"
+              "title": "Magie"
             }
           }
         ]
@@ -243,6 +243,7 @@
   },
   "active": "09cff267556e1f2f",
   "lastOpenFiles": [
+    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 4 Alba-Secundum/2 - Le nid de l'écorcheuse.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 4 Alba-Secundum/1 - Les abominations du passé.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 3 La mer des linceuls/La capture se Sérénité.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 3 La mer des linceuls/4 - Le Mont des Sépultures.md",
@@ -271,7 +272,6 @@
     "Oblivion/Bestiaire/Ghûraghasta.md",
     "Oblivion/Bestiaire/Mékhanôm.md",
     "Oblivion/Bestiaire/Hibours, vieux.md",
-    "Oblivion/Bestiaire/Grisou, le méphite de vapeur.md",
     "Oblivion/Images/Caverne d'os.png",
     "Oblivion/Images/Baron Blême.png",
     "Oblivion/Images/Anthéone.png",
