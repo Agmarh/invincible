@@ -35,7 +35,7 @@ Au moment où ils vont s'endormir, demander comment ils dorment, équipés ou pa
 > A quelques mètres, un hurlement se fait entendre et des fragments de tissu cérébral viennent éclabousser un PJ. Un des PNJ vient de décéder. Une silhouette arachnéenne s'avance hors des ténèbres : six pattes d'os encadrant une énorme colonne vertébrale horizontale, qui se redresse à l'avant pour former un torse et des bras décharnés, surmontée d'une tête de goule monstrueuse. La créature tourne son crâne aveugle aux orbites vides, humant l'air dans votre direction en faisant claquer ses dents. Puis, elle clame dans un croassement atroce "Un, deux, trois. Qui veut jouer avec moi ?"
 
 - Il y a 3 ghûraghasta dans la caverne
-- Les PJ, 4 PNJ mineurs, Malathor et le père Karusco (un prêtre). Il faut que les PJs remarquent ces deux derniers.
+- Les PJ, 4 PNJ mineurs, Malathor et Feryenne, l'ami d'enfance de Rivalt. Il faut que les PJs remarquent ces deux derniers.
 
 Les murs de la caverne d'os sont tapissés d'une vingtaine de grosses alvéoles, tendues de membranes translucides : des nids de ghûraghasta, 3 d'entre elles y sont installées.
 

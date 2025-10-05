@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oblivion/Magie.md",
+                "file": "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/1 - Premier voyage en Oblivion.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Magie"
+              "title": "1 - Premier voyage en Oblivion"
             }
           }
         ]
@@ -243,6 +243,7 @@
   },
   "active": "09cff267556e1f2f",
   "lastOpenFiles": [
+    "Oblivion/Magie.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 4 Alba-Secundum/2 - Le nid de l'écorcheuse.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 4 Alba-Secundum/1 - Les abominations du passé.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 3 La mer des linceuls/La capture se Sérénité.md",
@@ -271,7 +272,6 @@
     "Oblivion/Bestiaire/Valkin, Fils de Malathor.md",
     "Oblivion/Bestiaire/Ghûraghasta.md",
     "Oblivion/Bestiaire/Mékhanôm.md",
-    "Oblivion/Bestiaire/Hibours, vieux.md",
     "Oblivion/Images/Caverne d'os.png",
     "Oblivion/Images/Baron Blême.png",
     "Oblivion/Images/Anthéone.png",
