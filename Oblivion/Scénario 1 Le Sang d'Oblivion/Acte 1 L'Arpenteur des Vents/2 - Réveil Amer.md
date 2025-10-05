@@ -1,6 +1,9 @@
 En se réveillant, les PJs découvrent que les blessures subies sont toujours présentes, que les sorts utilisés doivent être récupérés.
 
 Leur corps était absent pendant tout ce temps, un PJ qui avait loué une chambre se retrouve nez à nez avec la femme de ménage, un PJ qui dormais à la belle étoile réapparaît au milieu d'une trouve de nomades installé pour la nuit.
+- Iseult a le niveau de vie suffisant pour dormir dans une chambre de l'auberge
+- Rivalt et N'Djinn dormiront dans le dortoir
+- Reste le perso de Julie ?
 
 Le Rêve habituel va les conduire au cœur des Montagnes Rouges, sur la Chaussée des Rois Nains.
 
@@ -8,12 +11,8 @@ Un voyage de plusieurs jours et plusieurs nuits s'annonce.
 
 La Chaussée des Rois Nains est réputée maudite, mais il n'en est rien, les PJs croiseront quelques ruines naines, des forêts d'arbres morts, et quelques animaux sauvages.
 
-Les PJs peuvent alors se rencontrer autour d'un feu de camp, sur la route, en train de chasser etc…
 
 Les PJs auront du mal à dormir, ils se réveillent en sursaut… Ne pas hésiter à lancer quelques dés et faire des mimiques.
-- Iseult a le niveau de vie suffisant pour dormir dans une chambre de l'auberge
-- Rivalt et N'Djinn dormiront dans le dortoir
-- Reste le perso de Julie ?
 
 Au matin, il faudra réussir un <font style="color:green">jet de sauvegarde de Constitution DD12</font> pour ne pas subir un niveau de fatigue car ils n'ont pas dormi de la nuit.
 
