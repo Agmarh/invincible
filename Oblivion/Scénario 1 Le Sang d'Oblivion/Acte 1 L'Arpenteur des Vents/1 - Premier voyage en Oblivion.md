@@ -46,7 +46,7 @@ Les PJs ont 1 round d'avance pour réagir, les goules se concentrent sur les PNJ
 - Escalader les alvéoles nécessite un <font style="color:green">test d'Athlétisme DD 15</font>. Les jets de dextérité ont un désavantages du fait du charnier qu'il faut escalader.
 - Lancer des sorts est dangereux.
 
-Le père Karusco disparaitra dans la confusion, paralysé et enlevé par un ghûraghasta.
+Feryenne disparaitra dans la confusion, paralysé et enlevé par un ghûraghasta.
 
 Malathor saisit son épée de flamme et, vêtu d'un simple pagne, entame un combat aux côté des PJ.
 
@@ -87,3 +87,5 @@ Les PJ et Malathor sont les seuls survivants. Les mékhanôms guident les PJ à 
 > <font style="color:yellow">"Attendez ! D'autres vont arriver, je suis sûr que d'autres sont s'en sortir. J'entends quelqu'un courir… Par les tripes d'Azel-Liark, attendez !"</font>
 > 
 > <font style="color:yellow">"Nous n'avons plus le temps !"</font> répond le mékhanôm. Il s'approche du groupe et projette une poussière dorée dans votre direction. <font style="color:yellow">"Dormez… et sauvez-vous !".</font>
+> 
+> Les PJs entendront des bruits de pas et quelqu'un criez : <font style="color:yellow">"Attendez moi !"</font>. Il s'agit de Feryenne
