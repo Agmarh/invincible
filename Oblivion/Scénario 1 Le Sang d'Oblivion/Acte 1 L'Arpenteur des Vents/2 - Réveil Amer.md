@@ -1,9 +1,6 @@
 En se réveillant, les PJs découvrent que les blessures subies sont toujours présentes, que les sorts utilisés doivent être récupérés.
 
 Leur corps était absent pendant tout ce temps, un PJ qui avait loué une chambre se retrouve nez à nez avec la femme de ménage, un PJ qui dormais à la belle étoile réapparaît au milieu d'une trouve de nomades installé pour la nuit.
-- Iseult a le niveau de vie suffisant pour dormir dans une chambre de l'auberge
-- Rivalt et N'Djinn dormiront dans le dortoir
-- Reste le perso de Julie ?
 
 Le Rêve habituel va les conduire au cœur des Montagnes Rouges, sur la Chaussée des Rois Nains.
 

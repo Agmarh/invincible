@@ -5,6 +5,9 @@ Les PJs se trouvent tous à Epistéa. Voilà ce qu'ils savent sur leur rêve :
 - Si question à propos de la nature du rêve : un jet d’investigation DD 15 par un jeteur de sort révèle qu’il tient à la fois des sorts rêve et coercition mystique. Des divinations apprendront que le jeteur de sorts n’a pas de mauvaise intention vis-à-vis des PJ et qu’il compte juste les faire venir jusqu’à lui. 
 
 Les PJs sont tous à l'Auberge d'Epistéa et sont chacun dans une chambre ou un dortoir en fonction de leur niveau de vie.
+- Iseult a le niveau de vie suffisant pour dormir dans une chambre de l'auberge
+- Rivalt et N'Djinn dormiront dans le dortoir
+- Reste le perso de Julie ?
 # L'antre des cauchemars
 
 > Vous vous endormez, le Rêve commence, vous pénétrez dans ce paysage devenu familier : le sentier sinueux, la poussière ocre aux effluves de souffre et cette sensation, unique, de plénitude et de sérénité. Pourtant, vous percevez un murmure inhabituel et les couleurs paraissent plus sombres qu'à l'accoutumée.
