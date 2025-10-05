@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oblivion/L'Empire.md",
+                "file": "Oblivion/Lieux importants/Epistéa.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "L'Empire"
+              "title": "Epistéa"
             }
           }
         ]
@@ -243,6 +243,9 @@
   },
   "active": "09cff267556e1f2f",
   "lastOpenFiles": [
+    "Oblivion/L'Empire.md",
+    "Oblivion/Lieux importants/Epistéa.md",
+    "Oblivion/Lieux importants",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/1 - Premier voyage en Oblivion.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/2 - Réveil Amer.md",
     "Oblivion/Magie.md",
@@ -263,7 +266,6 @@
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/Infos sur Oblivion.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/4 - La Sentence des Voies.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/3 - Ikhâr, la cité des voiles.md",
-    "Oblivion/L'Empire.md",
     "Oblivion/Images/Carte de l'ancienne Pangée.jpg",
     "P.md",
     "Oblivion/Images/Carte de l'ancienne Pangée Vierge.png",
@@ -271,7 +273,6 @@
     "Oblivion/Bestiaire/Le Ravageur (Acte 1).md",
     "Oblivion/Bestiaire/Valkin, Fils de Malathor.md",
     "Oblivion/Bestiaire/Ghûraghasta.md",
-    "Oblivion/Bestiaire/Mékhanôm.md",
     "Oblivion/Images/Caverne d'os.png",
     "Oblivion/Images/Baron Blême.png",
     "Oblivion/Images/Anthéone.png",
@@ -289,7 +290,6 @@
     "Oblivion/PDF/Oblivion 2 Les enfants d'Oblivion.pdf",
     "Oblivion/PDF/Oblivion 1 Le sang d'Oblivion.pdf",
     "Oblivion/PDF/Le Cauchemar.pdf",
-    "Invincible/Scénario 3 Les racines du mal/Lieux",
     "Oblivion/PNJ/Sans titre.canvas"
   ]
 }
