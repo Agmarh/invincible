@@ -1,4 +1,4 @@
-> Vous empruntez enfin la route cahoteuse et étroite qui chemine le long de la paroi d'ocre et de soufre. Vous sentez la fatigue liée à la raréfaction de l'oxygène et l'effort de l'ascension, vous sentez aussi le froid sec et cinglant de l'altitude. Vous arrivez, enfin, face à l'immensité place d'un haut plateau ceinturé de falaises déchiquetées.
+> Vous empruntez enfin la route cahoteuse et étroite qui chemine le long de la paroi d'ocre et de soufre. Vous sentez la fatigue liée à la raréfaction de l'oxygène et l'effort de l'ascension, vous sentez aussi le froid sec et cinglant de l'altitude. Vous arrivez, enfin, face à l'immensité plane d'un haut plateau ceinturé de falaises déchiquetées.
 > 
 > Le souffle cours, vous vous arrêtez un instant pour admirer le paysage : une gigantesque étendue de steppes arides s'enracinant dans une terre saturée de poussière, qu'un vent léger et glacé soulève en volutes aussitôt dispersées.
 > 
