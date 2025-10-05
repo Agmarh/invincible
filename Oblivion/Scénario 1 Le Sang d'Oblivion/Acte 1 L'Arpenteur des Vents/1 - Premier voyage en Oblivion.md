@@ -1,8 +1,6 @@
 Les PJs se trouvent à Epistéa, non loin des montagnes Rouges et à la frontière entre le Saint Protectorat et Hautemarche. Cette cité est bâtie sur un petit plateau et réparties en trois terrasses. Sur le plateau lui-même se trouve un immense bâtiment : la Sainte Bibliothèque qui est réputée pour abriter les archives du Saint Protectorat, qui appartient au clergé de Justicaar. On peut trouver normalement des informations sur à peu près tout.
 
-Vous êtes en fin d'après-midi, la route a été longue et vous venez d'arriver à Epistéa. Que faites-vous ?
-
-Au moment où ils vont s'endormir, demander comment ils dorment, équipés ou pas ?
+Ls PJs 
 
 # L'antre des cauchemars
 
