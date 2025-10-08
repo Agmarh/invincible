@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a68f96a6c6973e3e",
+        "id": "016eb02876207d1b",
         "type": "tabs",
         "children": [
           {
-            "id": "ff5259363d780eac",
+            "id": "66521f3800917db3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Oblivion/Magie.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Magie"
+              "title": "New tab"
             }
           }
         ]
@@ -187,8 +173,8 @@
             "state": {
               "type": "initiative-tracker-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "initiative-tracker-view"
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
             }
           },
           {
@@ -197,8 +183,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -207,8 +193,8 @@
             "state": {
               "type": "initiative-tracker-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "initiative-tracker-view"
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
             }
           },
           {
@@ -220,9 +206,29 @@
               "icon": "lucide-ghost",
               "title": "DICE_ROLLER_VIEW"
             }
+          },
+          {
+            "id": "5a62745186fe25b0",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          },
+          {
+            "id": "a0c3cb06cab5ad86",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       },
       {
         "id": "0f121bb01e1cf65f",
@@ -234,8 +240,8 @@
             "state": {
               "type": "initiative-tracker-creature-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "initiative-tracker-creature-view"
+              "icon": "initiative-tracker-creature-view",
+              "title": "Combatant"
             }
           }
         ]
@@ -253,10 +259,14 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "ff5259363d780eac",
+  "active": "87ea7c8c51cee5cf",
   "lastOpenFiles": [
     "Oblivion/Où j'en suis.md",
     "Oblivion/L'Empire.md",
