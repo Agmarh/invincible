@@ -67,6 +67,30 @@
       "ac": "16",
       "modifier": -1,
       "player": true
+    },
+    {
+      "name": "Iseult",
+      "level": 2,
+      "hp": 17,
+      "ac": "18",
+      "modifier": 0,
+      "player": true
+    },
+    {
+      "name": "N'djin",
+      "level": 2,
+      "hp": 18,
+      "ac": "16",
+      "modifier": 3,
+      "player": true
+    },
+    {
+      "name": "Kogarm",
+      "level": 2,
+      "hp": 20,
+      "ac": "15",
+      "modifier": 3,
+      "player": true
     }
   ],
   "parties": [
