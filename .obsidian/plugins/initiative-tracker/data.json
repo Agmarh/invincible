@@ -62,8 +62,8 @@
     },
     {
       "name": "Rivalt",
-      "level": 1,
-      "hp": 12,
+      "level": 2,
+      "hp": 20,
       "ac": "16",
       "modifier": -1,
       "player": true
@@ -109,7 +109,10 @@
     {
       "name": "Oblivion",
       "players": [
-        "Rivalt"
+        "Rivalt",
+        "Iseult",
+        "N'djin",
+        "Kogarm"
       ]
     }
   ],

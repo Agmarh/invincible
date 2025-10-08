@@ -114,6 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/4 - La Sentence des Voies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +124,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Rétroliens"
+              "title": "Rétrolien pour 4 - La Sentence des Voies"
             }
           },
           {
@@ -147,12 +148,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/4 - La Sentence des Voies.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan"
+              "title": "Plan de 4 - La Sentence des Voies"
             }
           },
           {
@@ -161,11 +163,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/4 - La Sentence des Voies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants"
+              "title": "Liens sortants de 4 - La Sentence des Voies"
             }
           },
           {
@@ -219,11 +222,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 402.5
+    "width": 382.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -241,7 +244,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "09cff267556e1f2f",
+  "active": "be134d0fda6ae94e",
   "lastOpenFiles": [
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/3 - Ikhâr, la cité des voiles.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/1 - Premier voyage en Oblivion.md",
