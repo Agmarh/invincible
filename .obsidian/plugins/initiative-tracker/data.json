@@ -309,7 +309,7 @@
         "tempHP": 0,
         "status": [],
         "enabled": true,
-        "active": true,
+        "active": false,
         "hidden": false,
         "friendly": false,
         "hit_dice": "7d10+21"
@@ -349,7 +349,7 @@
         "tempHP": 0,
         "status": [],
         "enabled": true,
-        "active": false,
+        "active": true,
         "hidden": false,
         "friendly": false,
         "hit_dice": "20d8+40"
@@ -357,7 +357,7 @@
     ],
     "state": true,
     "name": null,
-    "round": 4,
+    "round": 5,
     "logFile": "",
     "rollHP": false
   },
