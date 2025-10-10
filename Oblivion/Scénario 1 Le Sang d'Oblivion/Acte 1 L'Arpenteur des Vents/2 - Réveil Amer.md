@@ -8,7 +8,6 @@ Un voyage de plusieurs jours et plusieurs nuits s'annonce.
 
 La Chaussée des Rois Nains est réputée maudite, mais il n'en est rien, les PJs croiseront quelques ruines naines, des forêts d'arbres morts, et quelques animaux sauvages.
 
-
 Les PJs auront du mal à dormir, ils se réveillent en sursaut… Ne pas hésiter à lancer quelques dés et faire des mimiques.
 
 Au matin, il faudra réussir un <font style="color:green">jet de sauvegarde de Constitution DD12</font> pour ne pas subir un niveau de fatigue car ils n'ont pas dormi de la nuit.
