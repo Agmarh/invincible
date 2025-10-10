@@ -307,9 +307,11 @@
         "ac": "11 (armure de cuir)",
         "currentAC": "11 (armure de cuir)",
         "id": "ID_eb4af8b85b29",
-        "currentHP": 23,
+        "currentHP": 0,
         "tempHP": 0,
-        "status": [],
+        "status": [
+          "Unconscious"
+        ],
         "enabled": true,
         "active": false,
         "hidden": false,
