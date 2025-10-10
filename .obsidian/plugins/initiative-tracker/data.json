@@ -250,7 +250,7 @@
         "enabled": true,
         "level": 2,
         "player": true,
-        "active": false,
+        "active": true,
         "hidden": false,
         "friendly": false
       },
@@ -273,26 +273,6 @@
         "active": false,
         "hidden": false,
         "friendly": false
-      },
-      {
-        "name": "Nain du clan des cadavreux",
-        "initiative": 2,
-        "static": false,
-        "modifier": 0,
-        "hp": 32,
-        "currentMaxHP": 32,
-        "cr": "1/2",
-        "ac": "11 (armure de cuir)",
-        "currentAC": "11 (armure de cuir)",
-        "id": "ID_c99bd998ba2a",
-        "currentHP": 11,
-        "tempHP": 0,
-        "status": [],
-        "enabled": true,
-        "active": true,
-        "hidden": false,
-        "friendly": false,
-        "hit_dice": "5d8+10"
       },
       {
         "name": "Nain du clan des cadavreux",
