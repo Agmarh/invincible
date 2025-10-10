@@ -11,10 +11,24 @@
             "id": "66521f3800917db3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/1 - Premier voyage en Oblivion.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "1 - Premier voyage en Oblivion"
             }
           }
         ]
@@ -286,7 +300,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "87ea7c8c51cee5cf",
+  "active": "66521f3800917db3",
   "lastOpenFiles": [
     "Oblivion/Où j'en suis.md",
     "Oblivion/L'Empire.md",
