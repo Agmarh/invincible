@@ -216,7 +216,7 @@
     "creatures": [
       {
         "name": "Rivalt",
-        "initiative": 16,
+        "initiative": 2,
         "static": false,
         "modifier": -1,
         "hp": 20,
