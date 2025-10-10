@@ -6,7 +6,7 @@ Les PJs se trouvent tous à Epistéa. Voilà ce qu'ils savent sur leur rêve :
 
 Les PJs sont tous à l'Auberge d'Epistéa et sont chacun dans une chambre ou un dortoir en fonction de leur niveau de vie.
 - Iseult a le niveau de vie suffisant pour dormir dans une chambre de l'auberge
-- Rivalt et N'Djinn dormiront dans le dortoir
+- Rivalt et N'Djin dormiront dans le dortoir
 - Reste le perso de Julie ?
 # L'antre des cauchemars
 
