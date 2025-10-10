@@ -236,7 +236,7 @@
       },
       {
         "name": "Iseult",
-        "initiative": 19,
+        "initiative": 15,
         "static": false,
         "modifier": 0,
         "hp": 17,
@@ -256,7 +256,7 @@
       },
       {
         "name": "N'djin",
-        "initiative": 13,
+        "initiative": 22,
         "static": false,
         "modifier": 3,
         "hp": 18,
@@ -276,7 +276,7 @@
       },
       {
         "name": "Kogarm",
-        "initiative": 22,
+        "initiative": 20,
         "static": false,
         "modifier": 3,
         "hp": 20,
@@ -296,7 +296,7 @@
       },
       {
         "name": "Ghûraghasta",
-        "initiative": 7,
+        "initiative": 11,
         "static": false,
         "modifier": 0,
         "hp": 59,
@@ -316,7 +316,7 @@
       },
       {
         "name": "Ghûraghasta",
-        "initiative": 7,
+        "initiative": 11,
         "static": false,
         "modifier": 0,
         "hp": 59,
@@ -335,7 +335,7 @@
       },
       {
         "name": "Ghûraghasta",
-        "initiative": 7,
+        "initiative": 11,
         "static": false,
         "modifier": 0,
         "hp": 59,
@@ -354,7 +354,7 @@
       },
       {
         "name": "Malathor",
-        "initiative": 16,
+        "initiative": 21,
         "static": false,
         "modifier": 0,
         "hp": 130,
