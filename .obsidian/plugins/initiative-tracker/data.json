@@ -250,7 +250,7 @@
         "enabled": true,
         "level": 2,
         "player": true,
-        "active": true,
+        "active": false,
         "hidden": false,
         "friendly": false
       },
@@ -270,7 +270,7 @@
         "enabled": true,
         "level": 2,
         "player": true,
-        "active": false,
+        "active": true,
         "hidden": false,
         "friendly": false
       },
@@ -285,9 +285,11 @@
         "ac": "11 (armure de cuir)",
         "currentAC": "11 (armure de cuir)",
         "id": "ID_b8d969ba2b0a",
-        "currentHP": 5,
+        "currentHP": 0,
         "tempHP": 0,
-        "status": [],
+        "status": [
+          "Unconscious"
+        ],
         "enabled": true,
         "active": false,
         "hidden": false,
@@ -305,7 +307,7 @@
         "ac": "11 (armure de cuir)",
         "currentAC": "11 (armure de cuir)",
         "id": "ID_eb4af8b85b29",
-        "currentHP": 32,
+        "currentHP": 26,
         "tempHP": 0,
         "status": [],
         "enabled": true,
