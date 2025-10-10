@@ -216,7 +216,7 @@
     "creatures": [
       {
         "name": "Rivalt",
-        "initiative": 9,
+        "initiative": 15,
         "static": false,
         "modifier": -1,
         "hp": 20,
@@ -236,7 +236,7 @@
       },
       {
         "name": "Iseult",
-        "initiative": 20,
+        "initiative": 19,
         "static": false,
         "modifier": 0,
         "hp": 17,
@@ -256,7 +256,7 @@
       },
       {
         "name": "N'djin",
-        "initiative": 18,
+        "initiative": 22,
         "static": false,
         "modifier": 3,
         "hp": 18,
@@ -276,7 +276,7 @@
       },
       {
         "name": "Kogarm",
-        "initiative": 18,
+        "initiative": 12,
         "static": false,
         "modifier": 3,
         "hp": 20,
@@ -296,7 +296,7 @@
       },
       {
         "name": "Nain du clan des cadavreux",
-        "initiative": 10,
+        "initiative": 2,
         "static": false,
         "modifier": 0,
         "hp": 32,
@@ -316,7 +316,7 @@
       },
       {
         "name": "Nain du clan des cadavreux",
-        "initiative": 10,
+        "initiative": 2,
         "static": false,
         "modifier": 0,
         "hp": 32,
@@ -336,7 +336,7 @@
       },
       {
         "name": "Nain du clan des cadavreux",
-        "initiative": 10,
+        "initiative": 2,
         "static": false,
         "modifier": 0,
         "hp": 32,
@@ -356,7 +356,7 @@
       },
       {
         "name": "Nain du clan des cadavreux",
-        "initiative": 10,
+        "initiative": 2,
         "static": false,
         "modifier": 0,
         "hp": 32,
@@ -376,7 +376,7 @@
       },
       {
         "name": "Nain du clan des cadavreux",
-        "initiative": 10,
+        "initiative": 2,
         "static": false,
         "modifier": 0,
         "hp": 32,
@@ -396,7 +396,7 @@
       },
       {
         "name": "Nain du clan des cadavreux",
-        "initiative": 10,
+        "initiative": 2,
         "static": false,
         "modifier": 0,
         "hp": 32,
@@ -416,7 +416,7 @@
       },
       {
         "name": "Nain du clan des cadavreux",
-        "initiative": 10,
+        "initiative": 2,
         "static": false,
         "modifier": 0,
         "hp": 32,
