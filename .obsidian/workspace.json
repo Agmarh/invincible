@@ -11,12 +11,24 @@
             "id": "66521f3800917db3",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Oblivion/Images/Ikhâr map.png"
+                "file": "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/3 - Ikhâr, la cité des voiles.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-image",
-              "title": "Ikhâr map"
+              "icon": "lucide-file",
+              "title": "3 - Ikhâr, la cité des voiles"
             }
           }
         ]
@@ -290,8 +302,11 @@
   },
   "active": "66521f3800917db3",
   "lastOpenFiles": [
-    "Oblivion/Images/Ikhâr.png",
     "Oblivion/Images/Ikhâr map.png",
+    "Oblivion/Images/Ikhâr.png",
+    "Oblivion/Images/Epistéa.png",
+    "Oblivion/Images/Anthéone.png",
+    "Oblivion/Images/Alba Secundum.png",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/3 - Ikhâr, la cité des voiles.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/2 - Réveil Amer.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/1 - Premier voyage en Oblivion.md",
@@ -299,7 +314,6 @@
     "Oblivion/Où j'en suis.md",
     "Oblivion/L'Empire.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/4 - La Sentence des Voies.md",
-    "Oblivion/Images/Epistéa.png",
     "Oblivion/Lieux importants/Epistéa.md",
     "Oblivion/Lieux importants",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 4 Alba-Secundum/2 - Le nid de l'écorcheuse.md",
@@ -320,11 +334,9 @@
     "Oblivion/Images/Carte de l'ancienne Pangée.jpg",
     "P.md",
     "Oblivion/Images/Carte de l'ancienne Pangée Vierge.png",
-    "Oblivion/Images/Alba Secundum.png",
     "Oblivion/Bestiaire/Le Ravageur (Acte 1).md",
     "Oblivion/Images/Caverne d'os.png",
     "Oblivion/Images/Baron Blême.png",
-    "Oblivion/Images/Anthéone.png",
     "Oblivion/Images/Cathédrale de Cuivre.png",
     "Oblivion/Images/Clyve.png",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Le Lac de Morte-Pensée",
