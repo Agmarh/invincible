@@ -250,7 +250,7 @@
         "enabled": true,
         "level": 2,
         "player": true,
-        "active": false,
+        "active": true,
         "hidden": false,
         "friendly": false
       },
@@ -367,7 +367,7 @@
         "tempHP": 0,
         "status": [],
         "enabled": true,
-        "active": true,
+        "active": false,
         "hidden": false,
         "friendly": false,
         "hit_dice": "20d8+40"
