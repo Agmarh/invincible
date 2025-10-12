@@ -11,10 +11,12 @@
             "id": "137b2e2e4cc26257",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
             }
           }
         ]
@@ -268,7 +270,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "87ea7c8c51cee5cf",
+  "active": "137b2e2e4cc26257",
   "lastOpenFiles": [
     "Oblivion/Où ils sont.md",
     "Oblivion/Où j'en suis.md",
