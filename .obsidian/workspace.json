@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a85b3278ded4d47f",
+        "id": "016eb02876207d1b",
         "type": "tabs",
         "children": [
           {
-            "id": "e5e8bca8a533a3ba",
+            "id": "66521f3800917db3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -107,7 +107,6 @@
       {
         "id": "e70e28c56220440f",
         "type": "tabs",
-        "dimension": 56.05769230769231,
         "children": [
           {
             "id": "c56cf9106d335454",
@@ -208,8 +207,8 @@
             "state": {
               "type": "initiative-tracker-view",
               "state": {},
-              "icon": "initiative-tracker",
-              "title": "Initiative Tracker"
+              "icon": "lucide-ghost",
+              "title": "initiative-tracker-view"
             }
           },
           {
@@ -218,8 +217,8 @@
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
+              "icon": "lucide-ghost",
+              "title": "DICE_ROLLER_VIEW"
             }
           },
           {
@@ -228,8 +227,8 @@
             "state": {
               "type": "initiative-tracker-view",
               "state": {},
-              "icon": "initiative-tracker",
-              "title": "Initiative Tracker"
+              "icon": "lucide-ghost",
+              "title": "initiative-tracker-view"
             }
           },
           {
@@ -238,12 +237,12 @@
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
+              "icon": "lucide-ghost",
+              "title": "DICE_ROLLER_VIEW"
             }
           },
           {
-            "id": "91ef87e2b00f9192",
+            "id": "3e00fc05d6902249",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-view",
@@ -253,7 +252,7 @@
             }
           },
           {
-            "id": "92abade9b43a461e",
+            "id": "0955d290f012deaf",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
@@ -263,12 +262,11 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 6
       },
       {
         "id": "0f121bb01e1cf65f",
         "type": "tabs",
-        "dimension": 43.94230769230769,
         "children": [
           {
             "id": "9e0a9507d9fe2fab",
@@ -284,7 +282,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 461.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -302,19 +300,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e5e8bca8a533a3ba",
+  "active": "87ea7c8c51cee5cf",
   "lastOpenFiles": [
+    "Oblivion/Objets Magiques/Nocturno 1.md",
     "Oblivion/Où ils sont.md",
-    "Oblivion/Où j'en suis.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/3 - Ikhâr, la cité des voiles.md",
-    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/Effets du Khayolt.md",
+    "Oblivion/Images/Ikhâr map.png",
+    "Oblivion/Images/Ikhâr.png",
+    "Oblivion/Images/Epistéa.png",
+    "Oblivion/Images/Anthéone.png",
+    "Oblivion/Images/Alba Secundum.png",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/2 - Réveil Amer.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/1 - Premier voyage en Oblivion.md",
-    "Oblivion/Objets Magiques/Nocturno 1.md",
-    "Oblivion/L'Empire.md",
     "Oblivion/Magie.md",
+    "Oblivion/Où j'en suis.md",
+    "Oblivion/L'Empire.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/4 - La Sentence des Voies.md",
-    "Oblivion/Images/Epistéa.png",
     "Oblivion/Lieux importants/Epistéa.md",
     "Oblivion/Lieux importants",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 4 Alba-Secundum/2 - Le nid de l'écorcheuse.md",
@@ -333,14 +334,11 @@
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/Justicaar.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/Infos sur Oblivion.md",
     "Oblivion/Images/Carte de l'ancienne Pangée.jpg",
+    "P.md",
     "Oblivion/Images/Carte de l'ancienne Pangée Vierge.png",
-    "Oblivion/Images/Alba Secundum.png",
     "Oblivion/Images/Caverne d'os.png",
     "Oblivion/Images/Baron Blême.png",
-    "Oblivion/Images/Anthéone.png",
     "Oblivion/Images/Cathédrale de Cuivre.png",
-    "Oblivion/Images/Clyve.png",
-    "Oblivion/Images/Fan'Goriah.png",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Le Lac de Morte-Pensée",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Sans titre.canvas",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 4 Alba-Secundum",
