@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oblivion/Sessions/Session 1 -.md",
+                "file": "Oblivion/Sessions/Session 1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Session 1 -"
+              "title": "Session 1"
             }
           }
         ]
@@ -164,12 +164,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oblivion/Sessions/Session 1 -.md",
+                "file": "Oblivion/Sessions/Session 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de Session 1 -"
+              "title": "Liens sortants de Session 1"
             }
           },
           {
@@ -305,7 +305,7 @@
   "active": "66521f3800917db3",
   "lastOpenFiles": [
     "Oblivion/Où j'en suis.md",
-    "Oblivion/Sessions/Session 1 -.md",
+    "Oblivion/Sessions/Session 1.md",
     "Oblivion/Où ils sont.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Pangée.md",
     "Oblivion/Sessions",
