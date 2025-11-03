@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oblivion/Sessions/Session 1.md",
+                "file": "Oblivion/Pangée.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Session 1"
+              "title": "Pangée"
             }
           }
         ]
@@ -164,12 +164,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oblivion/Sessions/Session 1.md",
+                "file": "Oblivion/Pangée.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de Session 1"
+              "title": "Liens sortants de Pangée"
             }
           },
           {
@@ -302,21 +302,23 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "66521f3800917db3",
+  "active": "efc7fbc9dabff410",
   "lastOpenFiles": [
-    "Oblivion/Où j'en suis.md",
-    "Oblivion/Sessions/Session 1.md",
-    "Oblivion/Où ils sont.md",
-    "Oblivion/Scénario 1 Le Sang d'Oblivion/Pangée.md",
-    "Oblivion/Sessions",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/3 - Ikhâr, la cité des voiles.md",
+    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/2 - Réveil Amer.md",
+    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/1 - Premier voyage en Oblivion.md",
+    "Oblivion/Sessions/Session 2.md",
+    "Oblivion/Sessions/Session 1.md",
+    "Oblivion/Où j'en suis.md",
+    "Oblivion/Où ils sont.md",
+    "Oblivion/Pangée.md",
+    "Oblivion/Sessions",
     "Oblivion/Party Configuration.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Pangée 1.md",
     "Oblivion/Images/Carte de l'ancienne Pangée.jpg",
     "Oblivion/L'Empire.md",
     "Oblivion/Les cantiques de Justicaar.md",
     "Oblivion/Magie.md",
-    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/1 - Premier voyage en Oblivion.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/Infos sur les Vaisseaux du Vent.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/4 - La Sentence des Voies.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 4 Alba-Secundum/1 - Les abominations du passé.md",
@@ -326,7 +328,6 @@
     "Oblivion/Images/Epistéa.png",
     "Oblivion/Images/Anthéone.png",
     "Oblivion/Images/Alba Secundum.png",
-    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/2 - Réveil Amer.md",
     "Oblivion/Lieux importants/Epistéa.md",
     "Oblivion/Lieux importants",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 4 Alba-Secundum/2 - Le nid de l'écorcheuse.md",
@@ -337,7 +338,6 @@
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 3 La mer des linceuls/1 - Retour à Ikhâr.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Grisou le Méphite.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/5 - La Galerie des Suppliciés.md",
-    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/4 - La Bâtisse Assassine.md",
     "Oblivion/Images/Carte de l'ancienne Pangée Vierge.png",
     "Oblivion/Images/Caverne d'os.png",
     "Oblivion/Images/Baron Blême.png",
