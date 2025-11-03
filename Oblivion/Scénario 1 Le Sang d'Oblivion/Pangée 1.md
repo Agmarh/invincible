@@ -1,7 +1,9 @@
 ---
-mapCalc1: NaN
+mapCalc1: 2.181818181818182
 map_height_y: 2280
 map_width_x: 1629
+scale_pixels_range: 120
+scale_pixels: 55
 ---
 ---
 map_height_y: 2280  

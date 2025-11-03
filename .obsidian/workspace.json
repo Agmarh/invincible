@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oblivion/Scénario 1 Le Sang d'Oblivion/Pangée 1.md",
+                "file": "Oblivion/Scénario 1 Le Sang d'Oblivion/Pangée.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Pangée 1"
+              "title": "Pangée"
             }
           }
         ]
@@ -163,12 +163,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oblivion/Scénario 1 Le Sang d'Oblivion/Pangée 1.md",
+                "file": "Oblivion/Scénario 1 Le Sang d'Oblivion/Pangée.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de Pangée 1"
+              "title": "Liens sortants de Pangée"
             }
           },
           {
@@ -300,10 +300,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1badcdeaccf33cd1",
+  "active": "66521f3800917db3",
   "lastOpenFiles": [
-    "Oblivion/Scénario 1 Le Sang d'Oblivion/Pangée.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Pangée 1.md",
+    "Oblivion/Scénario 1 Le Sang d'Oblivion/Pangée.md",
     "Oblivion/Images/Carte de l'ancienne Pangée.jpg",
     "Oblivion/L'Empire.md",
     "Oblivion/Les cantiques de Justicaar.md",
