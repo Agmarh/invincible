@@ -2,11 +2,11 @@
 mapCalc1: NaN
 ---
 ---
-map_height_y: 2048  
-map_width_x: 1642  
-scale_pixels: 268  
-scale_pixels_range: 25  
-mapCalc1: 0  
+map_height_y: 2280  
+map_width_x: 1629  
+scale_pixels: 268
+scale_pixels_range: 25
+mapCalc1: 0
 ---
 
 > [!NOTE]- Quick Calculator  
