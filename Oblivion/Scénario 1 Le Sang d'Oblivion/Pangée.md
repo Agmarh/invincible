@@ -3,10 +3,6 @@ id: pangee-scenario-1
 image: [[Carte de l'ancienne Pangée.jpg]]
 bounds:
 	- [0, 0]
-	- [819.2, 614.4]
+	- [4974, 3554]
 unit: km
-lat: 96
-long: 128
-minZoom: 1
-maxZoom: 10
 ```
