@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/Infos sur les Vaisseaux du Vent.md",
+                "file": "Oblivion/Où ils sont.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Infos sur les Vaisseaux du Vent"
+              "title": "Où ils sont"
             }
           }
         ]
@@ -302,19 +302,20 @@
   },
   "active": "66521f3800917db3",
   "lastOpenFiles": [
+    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/1 - Premier voyage en Oblivion.md",
+    "Oblivion/Où ils sont.md",
+    "Oblivion/Où j'en suis.md",
+    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/Infos sur les Vaisseaux du Vent.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/3 - Ikhâr, la cité des voiles.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/4 - La Sentence des Voies.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 4 Alba-Secundum/1 - Les abominations du passé.md",
-    "Oblivion/Où j'en suis.md",
     "Oblivion/Objets Magiques/Nocturno 1.md",
-    "Oblivion/Où ils sont.md",
     "Oblivion/Images/Ikhâr map.png",
     "Oblivion/Images/Ikhâr.png",
     "Oblivion/Images/Epistéa.png",
     "Oblivion/Images/Anthéone.png",
     "Oblivion/Images/Alba Secundum.png",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/2 - Réveil Amer.md",
-    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/1 - Premier voyage en Oblivion.md",
     "Oblivion/Magie.md",
     "Oblivion/L'Empire.md",
     "Oblivion/Lieux importants/Epistéa.md",
@@ -334,7 +335,6 @@
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/Justicaar.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/Infos sur Oblivion.md",
     "Oblivion/Images/Carte de l'ancienne Pangée.jpg",
-    "P.md",
     "Oblivion/Images/Carte de l'ancienne Pangée Vierge.png",
     "Oblivion/Images/Caverne d'os.png",
     "Oblivion/Images/Baron Blême.png",
