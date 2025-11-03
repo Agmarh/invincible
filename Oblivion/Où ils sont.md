@@ -6,7 +6,7 @@ Feryenne, une amie de Rivalt est réapparue. Ils ne savent pas encore que c'est 
 Malathor les a aidé à s'échapper avec les gnomes mécaniques.
 
 # Arrivée à Ikhâr
-Ils ont rapidement été en contact avec les capitaines aéromarchands et les autres candidats au poste de dirigeant de la compagnie. Feryenne est avec eux et loge à l'Hallucinose tout comme .
+Ils ont rapidement été en contact avec les capitaines aéromarchands et les autres candidats au poste de dirigeant de la compagnie. Feryenne est avec eux et loge à l'Hallucinose tout comme Rhâvi Shândar.
 
 Kogarm a goûté à la liqueur de Khayolt et en a subi les effets.
 
@@ -14,5 +14,5 @@ Les jumeaux ont disparus rapidement après leur arrivée à Ikhâr, le lendemain
 
 Ils ont fait la connaissance de Valkin, l'écuyer de Malathor.
 
-- Les jumeaux viennent de disparaître
-- Ils vont voir Malathor pour savoir s'il les a vu.
+# Actuellement
+Ils vont voir Malathor pour savoir s'il a aperçu les jumeaux.
