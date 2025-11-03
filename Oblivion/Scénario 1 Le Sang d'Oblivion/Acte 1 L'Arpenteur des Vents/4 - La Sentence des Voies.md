@@ -109,4 +109,4 @@ Malathor ne signera pas de contrat, il repartira faire son rapport à ses supér
 
 Il va falloir mettre de l'ordre dans la compagnie.
 
-Vérifier ensuite la Première Extase de Nocturno.
+Vérifier ensuite la Première Extase de [[Nocturno]].

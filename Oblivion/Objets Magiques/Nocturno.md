@@ -1,4 +1,4 @@
-![[Nocturno.png]]
+![[Nocturno.png|472x481]]
 Type : Epée longue (1d8 / 1d10)
 Rareté : Artéfact intrlligent
 Harmonisation : Oui
