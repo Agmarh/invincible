@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oblivion/Scénario 1 Le Sang d'Oblivion/Pangée.md",
+                "file": "Oblivion/Sessions/Session 1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Pangée"
+              "title": "Session 1"
             }
           }
         ]
@@ -164,12 +164,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oblivion/Scénario 1 Le Sang d'Oblivion/Pangée.md",
+                "file": "Oblivion/Sessions/Session 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de Pangée"
+              "title": "Liens sortants de Session 1"
             }
           },
           {
@@ -304,9 +304,11 @@
   },
   "active": "66521f3800917db3",
   "lastOpenFiles": [
+    "Oblivion/Scénario 1 Le Sang d'Oblivion/Pangée.md",
+    "Oblivion/Sessions/Session 1.md",
+    "Oblivion/Sessions",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/3 - Ikhâr, la cité des voiles.md",
     "Oblivion/Party Configuration.md",
-    "Oblivion/Scénario 1 Le Sang d'Oblivion/Pangée.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Pangée 1.md",
     "Oblivion/Images/Carte de l'ancienne Pangée.jpg",
     "Oblivion/L'Empire.md",
@@ -336,7 +338,6 @@
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Grisou le Méphite.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/5 - La Galerie des Suppliciés.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/4 - La Bâtisse Assassine.md",
-    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/3 - Le Sentier des Airs.md",
     "Oblivion/Images/Carte de l'ancienne Pangée Vierge.png",
     "Oblivion/Images/Caverne d'os.png",
     "Oblivion/Images/Baron Blême.png",
@@ -350,7 +351,6 @@
     "Oblivion/Scénario 1 Le Sang d'Oblivion",
     "Oblivion/PDF/Oblivion 2 Les enfants d'Oblivion.pdf",
     "Oblivion/PDF/Oblivion 1 Le sang d'Oblivion.pdf",
-    "Oblivion/PDF/Le Cauchemar.pdf",
     "Oblivion/PNJ/Sans titre.canvas"
   ]
 }
