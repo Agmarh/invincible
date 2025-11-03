@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/3 - Ikhâr, la cité des voiles.md",
+                "file": "Oblivion/Party Configuration.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "3 - Ikhâr, la cité des voiles"
+              "title": "Party Configuration"
             }
           }
         ]
@@ -164,12 +164,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/3 - Ikhâr, la cité des voiles.md",
+                "file": "Oblivion/Party Configuration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de 3 - Ikhâr, la cité des voiles"
+              "title": "Liens sortants de Party Configuration"
             }
           },
           {
@@ -304,6 +304,8 @@
   },
   "active": "66521f3800917db3",
   "lastOpenFiles": [
+    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/3 - Ikhâr, la cité des voiles.md",
+    "Oblivion/Party Configuration.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Pangée.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Pangée 1.md",
     "Oblivion/Images/Carte de l'ancienne Pangée.jpg",
@@ -312,7 +314,6 @@
     "Oblivion/Où j'en suis.md",
     "Oblivion/Où ils sont.md",
     "Oblivion/Magie.md",
-    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/3 - Ikhâr, la cité des voiles.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/1 - Premier voyage en Oblivion.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/Infos sur les Vaisseaux du Vent.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/4 - La Sentence des Voies.md",
@@ -336,7 +337,6 @@
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/5 - La Galerie des Suppliciés.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/4 - La Bâtisse Assassine.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/3 - Le Sentier des Airs.md",
-    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/2 - Oblivion.md",
     "Oblivion/Images/Carte de l'ancienne Pangée Vierge.png",
     "Oblivion/Images/Caverne d'os.png",
     "Oblivion/Images/Baron Blême.png",
