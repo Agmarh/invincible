@@ -376,55 +376,6 @@
       "files": [
         "Oblivion/Scénario 2 Les enfants d'Oblivion/Acte 5 La saison des Cauchemars/Anthéone.md"
       ]
-    },
-    {
-      "id": "pangee-scenario-1",
-      "lastAccessed": 1762195136077,
-      "markers": [
-        {
-          "id": "ID_f8984848480b",
-          "type": "default",
-          "loc": [
-            -1.3427734375,
-            1.4013671875
-          ],
-          "layer": "%5B%5BCarte%20de%20l'ancienne%20Pang%C3%A9e.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.31469298245614036,
-            0.4220380601596071
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_1a4a791819aa",
-          "type": "default",
-          "loc": [
-            -1.412109375,
-            1.4287109375
-          ],
-          "layer": "%5B%5BCarte%20de%20l'ancienne%20Pang%C3%A9e.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.32083333333333336,
-            0.4438305709023941
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        }
-      ],
-      "overlays": [],
-      "shapes": [],
-      "files": [
-        "Oblivion/Scénario 1 Le Sang d'Oblivion/Pangée.md"
-      ]
     }
   ],
   "defaultMarker": {
@@ -554,7 +505,7 @@
   "mapViewEnabled": true,
   "mapViewParameters": {
     "darkMode": "false",
-    "defaultZoom": 5,
+    "defaultZoom": "8",
     "distanceMultiplier": 1,
     "drawColor": "#3388ff",
     "geojson": [],

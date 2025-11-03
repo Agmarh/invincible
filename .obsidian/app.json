@@ -1,5 +1,6 @@
 {
   "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "Invincible/Images"
+  "attachmentFolderPath": "Invincible/Images",
+  "readableLineLength": false
 }
