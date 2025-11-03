@@ -11,12 +11,24 @@
             "id": "66521f3800917db3",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Oblivion/Images/Carte de l'ancienne Pangée.jpg"
+                "file": "Oblivion/Scénario 1 Le Sang d'Oblivion/Pangée.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-image",
-              "title": "Carte de l'ancienne Pangée"
+              "icon": "lucide-file",
+              "title": "Pangée"
             }
           }
         ]
@@ -288,8 +300,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "efc7fbc9dabff410",
+  "active": "66521f3800917db3",
   "lastOpenFiles": [
+    "Oblivion/Images/Carte de l'ancienne Pangée.jpg",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Pangée.md",
     "Oblivion/L'Empire.md",
     "Oblivion/Les cantiques de Justicaar.md",
@@ -321,8 +334,6 @@
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/4 - La Bâtisse Assassine.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/3 - Le Sentier des Airs.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/2 - Oblivion.md",
-    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/1 - Mausoleum Igné.md",
-    "Oblivion/Images/Carte de l'ancienne Pangée.jpg",
     "Oblivion/Images/Carte de l'ancienne Pangée Vierge.png",
     "Oblivion/Images/Caverne d'os.png",
     "Oblivion/Images/Baron Blême.png",
