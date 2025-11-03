@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oblivion/Scénario 1 Le Sang d'Oblivion/Pangée.md",
+                "file": "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/3 - Ikhâr, la cité des voiles.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Pangée"
+              "title": "3 - Ikhâr, la cité des voiles"
             }
           }
         ]
@@ -164,12 +164,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oblivion/Scénario 1 Le Sang d'Oblivion/Pangée.md",
+                "file": "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/3 - Ikhâr, la cité des voiles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de Pangée"
+              "title": "Liens sortants de 3 - Ikhâr, la cité des voiles"
             }
           },
           {
@@ -302,10 +302,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1badcdeaccf33cd1",
+  "active": "66521f3800917db3",
   "lastOpenFiles": [
-    "Oblivion/Scénario 1 Le Sang d'Oblivion/Pangée 1.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Pangée.md",
+    "Oblivion/Scénario 1 Le Sang d'Oblivion/Pangée 1.md",
     "Oblivion/Images/Carte de l'ancienne Pangée.jpg",
     "Oblivion/L'Empire.md",
     "Oblivion/Les cantiques de Justicaar.md",
