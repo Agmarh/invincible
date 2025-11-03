@@ -9,6 +9,4 @@ lat: 96
 long: 128
 minZoom: 1
 maxZoom: 10
-defaultZoom: 1.5
-zoomDelta: 0.5
 ```
