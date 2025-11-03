@@ -24,13 +24,13 @@ Sitôt recouvré leurs esprits, les participants perçoivent désormais le Chant
 
 Fan'Goriah annonce qu'ils doivent chevaucher un hippogriffe dressé et exécuter quelques manœuvres.
 
-- <font style="color:green">Test de Dressage ou Dextérité au choix du joueur
-- Guider sa monture avec les genoux : DD 5
-- Simuler une attaque : DD 10
-- Voler au-dessous d'une arche de pierre : DD 15
-- Se percher sur un pic : DD 15
-- Si échec la monture se cabre : DD 5 pour rester en selle
-	- Sinon il tombe et subit 4d6 PV (jet de sauvegarde de Dextérité DD 12 pour subir la moitié)
+- <font style="color:green">Test de Dressage ou Dextérité</font> au choix du joueur
+- Guider sa monture avec les genoux : <font style="color:green">DD 5</font>
+- Simuler une attaque : <font style="color:green">DD 10</font>
+- Voler au-dessous d'une arche de pierre : <font style="color:green">DD 15</font>
+- Se percher sur un pic : <font style="color:green">DD 15</font>
+- Si échec la monture se cabre : <font style="color:green">DD 5</font> pour rester en selle
+	- Sinon il tombe et subit <font style="color:red">4d6 PV</font> (<font style="color:green">jet de sauvegarde de Dextérité DD 12</font> pour subir la moitié)
 - Si les PJ refusent l'épreuve ils sont ramenés à Ikhâr
 
 ## La Voie des Ombres
