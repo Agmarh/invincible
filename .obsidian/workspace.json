@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oblivion/Pangée.md",
+                "file": "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/4 - La Sentence des Voies.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Pangée"
+              "title": "4 - La Sentence des Voies"
             }
           }
         ]
@@ -164,12 +164,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oblivion/Pangée.md",
+                "file": "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/4 - La Sentence des Voies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de Pangée"
+              "title": "Liens sortants de 4 - La Sentence des Voies"
             }
           },
           {
@@ -302,8 +302,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "efc7fbc9dabff410",
+  "active": "66521f3800917db3",
   "lastOpenFiles": [
+    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/Effets du Khayolt.md",
+    "Oblivion/Images/Oblivion.png",
+    "Oblivion/Images/Oblivion 2 bannière.png",
+    "Oblivion/Pangée.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/3 - Ikhâr, la cité des voiles.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/2 - Réveil Amer.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/1 - Premier voyage en Oblivion.md",
@@ -311,7 +315,6 @@
     "Oblivion/Sessions/Session 1.md",
     "Oblivion/Où j'en suis.md",
     "Oblivion/Où ils sont.md",
-    "Oblivion/Pangée.md",
     "Oblivion/Sessions",
     "Oblivion/Party Configuration.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Pangée 1.md",
@@ -337,11 +340,8 @@
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 3 La mer des linceuls/2 - Les terres boréales.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 3 La mer des linceuls/1 - Retour à Ikhâr.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Grisou le Méphite.md",
-    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/5 - La Galerie des Suppliciés.md",
     "Oblivion/Images/Carte de l'ancienne Pangée Vierge.png",
     "Oblivion/Images/Caverne d'os.png",
-    "Oblivion/Images/Baron Blême.png",
-    "Oblivion/Images/Cathédrale de Cuivre.png",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Le Lac de Morte-Pensée",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Sans titre.canvas",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 4 Alba-Secundum",

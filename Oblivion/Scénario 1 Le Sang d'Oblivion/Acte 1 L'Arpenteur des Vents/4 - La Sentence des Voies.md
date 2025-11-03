@@ -24,7 +24,7 @@ Sitôt recouvré leurs esprits, les participants perçoivent désormais le Chant
 
 Fan'Goriah annonce qu'ils doivent chevaucher un hippogriffe dressé et exécuter quelques manœuvres.
 
-- Test de Dressage ou Dextérité au choix du joueur
+- <font style="color:green">Test de Dressage ou Dextérité au choix du joueur
 - Guider sa monture avec les genoux : DD 5
 - Simuler une attaque : DD 10
 - Voler au-dessous d'une arche de pierre : DD 15
