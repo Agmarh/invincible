@@ -2,9 +2,9 @@
 Type : Epée longue (1d8 / 1d10)
 Rareté : Artéfact intrlligent
 Harmonisation : Oui
-
 # Effets
 ## Première Extase
+[[Nocturno 1]]
 - Épée longue +1 
 - *Avantage* aux jets de sauvegarde contre les sorts d'illusion
 - **Tranche-Cauchemar - Repos long.** Le joueur Le joueur effectue normalement son jet d’attaque. Si le coup porte, il peut décider d’utiliser le pouvoir de Tranche-Cauchemar. La cible est alors victime d’une illusion mortelle : elle voit le porteur de l’épée se transformer en son pire cauchemar et lui infliger un coup fatal ! Les dégâts habituels de l’épée sont alors remplacés par l’effet suivant : la victime doit réussir un jet de Constitution dont le DD est de 8 + le modificateur de Charisme de l’utilisateur. En cas d’échec, elle tombe immédiatement à 0 PV. En cas de réussite au jet de sauvegarde, elle encaisse tout de même 3d6 points de dégâts. Cette puissante illusion est considérée comme un sort de niveau 7. Seule la victime voit son cauchemar devenir réalité ; les spectateurs observent seulement une brume noirâtre entourer momentanément le porteur. Le Tranche-Cauchemar n’affecte pas les créatures immunisées aux illusions ou ne possédant pas « d’esprit » (mort-vivant, golem, etc.).

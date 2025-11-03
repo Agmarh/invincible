@@ -54,9 +54,32 @@
               "icon": "lucide-file",
               "title": "Nocturno"
             }
+          },
+          {
+            "id": "469415e58addb96b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Oblivion/Objets Magiques/Nocturno 1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Nocturno 1"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -189,12 +212,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oblivion/Objets Magiques/Nocturno.md",
+                "file": "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/4 - La Sentence des Voies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de Nocturno"
+              "title": "Liens sortants de 4 - La Sentence des Voies"
             }
           },
           {
@@ -288,7 +311,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       },
       {
         "id": "0f121bb01e1cf65f",
@@ -327,8 +350,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1e1a62e17262b026",
+  "active": "87ea7c8c51cee5cf",
   "lastOpenFiles": [
+    "Oblivion/Objets Magiques/Nocturno.md",
+    "Oblivion/Objets Magiques/Nocturno 1.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/4 - La Sentence des Voies.md",
     "Oblivion/Objets Magiques/Chapeau de déguisement.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/Effets du Khayolt.md",
@@ -351,7 +376,6 @@
     "Oblivion/Magie.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/Infos sur les Vaisseaux du Vent.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 4 Alba-Secundum/1 - Les abominations du passé.md",
-    "Oblivion/Objets Magiques/Nocturno 1.md",
     "Oblivion/Images/Ikhâr map.png",
     "Oblivion/Images/Ikhâr.png",
     "Oblivion/Images/Epistéa.png",
@@ -364,7 +388,6 @@
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 3 La mer des linceuls/4 - Le Mont des Sépultures.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 3 La mer des linceuls/3 - La Mer des Linceuls.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 3 La mer des linceuls/2 - Les terres boréales.md",
-    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 3 La mer des linceuls/1 - Retour à Ikhâr.md",
     "Oblivion/Images/Carte de l'ancienne Pangée Vierge.png",
     "Oblivion/Images/Caverne d'os.png",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Le Lac de Morte-Pensée",
