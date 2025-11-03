@@ -207,8 +207,8 @@
             "state": {
               "type": "initiative-tracker-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "initiative-tracker-view"
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
             }
           },
           {
@@ -262,7 +262,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       },
       {
         "id": "0f121bb01e1cf65f",
@@ -282,7 +282,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 331.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -300,7 +300,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "66521f3800917db3",
+  "active": "1badcdeaccf33cd1",
   "lastOpenFiles": [
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/1 - Premier voyage en Oblivion.md",
     "Oblivion/Où ils sont.md",
