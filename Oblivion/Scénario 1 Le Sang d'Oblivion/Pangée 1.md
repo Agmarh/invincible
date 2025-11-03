@@ -1,5 +1,7 @@
 ---
 mapCalc1: NaN
+map_height_y: 2280
+map_width_x: 1629
 ---
 ---
 map_height_y: 2280  
