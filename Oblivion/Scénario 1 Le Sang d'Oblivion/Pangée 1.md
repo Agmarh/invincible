@@ -1,5 +1,6 @@
-```leaflet
-````
+---
+mapCalc1: NaN
+---
 ---
 map_height_y: 2048  
 map_width_x: 1642  
@@ -35,6 +36,4 @@ unit: mi ### The value displayed when measuring so you know what type of unit is
 scale: 0.09328358208955223 ### Real units/px (resolution) of your map  
 recenter: false  
 darkmode: false ### marker
-```
-````
 ```
