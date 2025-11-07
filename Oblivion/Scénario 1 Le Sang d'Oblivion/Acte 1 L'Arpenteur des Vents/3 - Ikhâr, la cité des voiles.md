@@ -109,7 +109,7 @@ Les PJ peuvent acheter toute sorte d'équipements, des animaux (dont 2 hippogrif
 
 Les Cadavreux : Ettin'Grinn et 3 autres nains tentent d'assassiner les PJs.
 - [[Ettin'Grinn]], [[Nain du clan des cadavreux]] : Lancer la discrétion des 4 nains (bonus de +10 pour Ettin et +2 pour les cadavreux puis voir la perception passive des PJ)
-- Battle map : Volume 2 page 6
+- Battle map : Volume 1 page 24
 
 # 6 - L'Auberge de l'Hallucinose
 
