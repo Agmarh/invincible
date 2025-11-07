@@ -41,7 +41,7 @@ Fan'Goriah prévient les PJ, les champignonnières abritent des portes vers des 
 
 Les champignonnières forment un labyrinthe de cavernes, illuminées faiblement par des fongus phosphorescents. Les axes principaux sont balisés, indiquant clairement la sortie.
 
-En avançant la première fois dans la grotte, l'un des PJ sera attiré vers un lac d'une eau extrêmement calme, sans reflet, on peut voir le plafond d'une grotte, mais pas celle dans laquelle les PJ se trouvent. Le PJ est inexorablement attiré vers l'eau, et à ce moment la cible sera enveloppé d'une aura noire (attaque étouffer de la mante obscure), au moment où les ténèbres se dissipe ils verront une créature à mi-chemin entre une chauve-souris et une seiche qui est accrochée à la victime et ils entendent un bruit de succion. Le PJ ne peut plus respirer.
+En avançant la première fois dans la grotte, l'un des PJ sera attiré vers un lac d'une eau extrêmement calme, sans reflet, on peut voir le plafond d'une grotte, mais pas celle dans laquelle les PJ se trouvent. Le PJ est inexorablement attiré vers l'eau, et à ce moment la cible sera enveloppé d'une aura noire (attaque étouffer de la [[Mante obscure]]), au moment où les ténèbres se dissipe ils verront une créature à mi-chemin entre une chauve-souris et une seiche qui est accrochée à la victime et ils entendent un bruit de succion. Le PJ ne peut plus respirer.
 
 En continuant plus loin, les PJ trouveront 2 champignons sur les parois de la grotte, qu'ils pourront récupérer avant de rebrousser chemin.
 
