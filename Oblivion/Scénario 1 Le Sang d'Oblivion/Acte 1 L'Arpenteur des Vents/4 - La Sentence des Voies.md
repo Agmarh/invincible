@@ -57,7 +57,7 @@ Fan'Goriah va guider les PJ sur un chemin illuminé de torches qui se dirige ver
 
 Lorsque les PJ arrivent au bord, une gigantesque gondolfière remonte lentement, illuminée par les faisceaux de son éclairage interne et soulevée par trois énormes ballons. La gondolfière se stabilise à quelques mètres au-dessus du sol, et une échelle de corde est jetée par-dessus bord. Fan'Goriah ne suivra pas les PJ.
 
-L'équipage va guider les PJ vers des escaliers qui descende vers une immense pièce, très richement décoré qui regorge d'œuvres d'art. Test de Perception DD 14 pour remarquer que tout à rapport avec le mythe de la cité des Rêves que les PJ ont vu.
+L'équipage va guider les PJ vers des escaliers qui descende vers une immense pièce, très richement décoré qui regorge d'œuvres d'art. <font style="color:green">Jet de Perception DD 14</font> pour remarquer que tout à rapport avec le mythe de la cité des Rêves que les PJ ont vu.
 
 Au centre de la pièce se trouve un vieux chevalier elfe au regard d'ambre, appuyé sur une épée taillée dans un fragment de nuit :
 
