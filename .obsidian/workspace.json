@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oblivion/Pangée.md",
+                "file": "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/3 - Ikhâr, la cité des voiles.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Pangée"
+              "title": "3 - Ikhâr, la cité des voiles"
             }
           }
         ]
@@ -110,76 +110,18 @@
         "dimension": 56.05769230769231,
         "children": [
           {
-            "id": "c56cf9106d335454",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Oblivion/Magie.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              },
-              "icon": "links-coming-in",
-              "title": "Rétrolien pour Magie"
-            }
-          },
-          {
-            "id": "4e47f10d50fd6d5c",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Mots-clés"
-            }
-          },
-          {
             "id": "be134d0fda6ae94e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oblivion/Magie.md",
+                "file": "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/3 - Ikhâr, la cité des voiles.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Magie"
-            }
-          },
-          {
-            "id": "9d2d9031cca91609",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Oblivion/Magie.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Liens sortants de Magie"
-            }
-          },
-          {
-            "id": "8f03eb45c9eb241d",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "DICE_ROLLER_VIEW"
+              "title": "Plan de 3 - Ikhâr, la cité des voiles"
             }
           },
           {
@@ -188,8 +130,8 @@
             "state": {
               "type": "initiative-tracker-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "initiative-tracker-view"
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
             }
           },
           {
@@ -213,16 +155,6 @@
             }
           },
           {
-            "id": "2c08b389b9746b90",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
-            }
-          },
-          {
             "id": "5a62745186fe25b0",
             "type": "leaf",
             "state": {
@@ -230,16 +162,6 @@
               "state": {},
               "icon": "initiative-tracker",
               "title": "Initiative Tracker"
-            }
-          },
-          {
-            "id": "a0c3cb06cab5ad86",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
             }
           },
           {
@@ -251,19 +173,9 @@
               "icon": "initiative-tracker",
               "title": "Initiative Tracker"
             }
-          },
-          {
-            "id": "92abade9b43a461e",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       },
       {
         "id": "0f121bb01e1cf65f",
@@ -302,14 +214,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e5e8bca8a533a3ba",
+  "active": "906cfa4287017cc7",
   "lastOpenFiles": [
+    "Oblivion/Pangée.md",
     "Oblivion/Où j'en suis.md",
     "Oblivion/Sessions/Session 2.md",
     "Oblivion/Sessions/Session 1.md",
     "Oblivion/Sessions/J+1.md",
     "Oblivion/Sessions",
-    "Oblivion/Pangée.md",
     "Oblivion/Objets Magiques/Potion de soins.md",
     "Oblivion/Objets Magiques/Potion de résistance.md",
     "Oblivion/Objets Magiques/Potion de force de géant des collines.md",
