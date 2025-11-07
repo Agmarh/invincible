@@ -36,11 +36,11 @@ A l'intérieur les PJ découvrent 3 capitaines chargés par Löne Kernos d'accue
 - Baron Blême : un demi-orque albinos, belliqueux, use de sa force pour obtenir les trocs les plus avantageux avec les tribus sauvages.
 - Fan'Goriah : prêtresse humaine de 45ans, d'une grande classe, elle vénère Aeva, la déesse de la guérison et de la médecine et sait se montrer impitoyable avec élégance. Femme de confiance de l'Arpenteur, elle tient les comptes de la compagnie.
 
-Les capitaines annonceront aux PJ que leur leader, l'Arpenteur des Vents, les a choisis pour hériter de ses parts -largement majoritaires - au sein de la guilde. Les PJ vont devenir les nouveaux patrons de la Compagnie des Vaisseaux du Vent.
+Les capitaines annonceront aux PJ que leur leader, l'Arpenteur des Vents, les a choisis pour hériter de ses parts - largement majoritaires - au sein de la guilde. Les PJ vont devenir les nouveaux patrons de la Compagnie des Vaisseaux du Vent.
 
-Il faudra d'abord s'en montre digne et passer la Sentence des Voies, qui commencent dans deux jours. Les Capitaines invitent les PJ à patienter tous frais payés dans l'auberge de l'Hallucinose situé dans le cercle du Répit.
+Il faudra d'abord s'en montrer digne et passer la Sentence des Voies, qui commencent dans deux jours. Les Capitaines invitent les PJ à patienter tous frais payés dans l'auberge de l'Hallucinose situé dans le cercle du Répit.
 
-S'ils ne veulent pas passer les épreuves, les capitaines seront ravis, Baron Blême les invitera à signer une "lettre de renoncement" et à quitter immédiatement Ikhâr. Ce document officiel précise que les PJ renonce aux 150 000 PO représentant les parts de l'Arpenteur.
+S'ils ne veulent pas passer les épreuves, les capitaines seront ravis, Baron Blême les invitera à signer une "lettre de renoncement" et à quitter immédiatement Ikhâr. Ce document officiel précise que les PJ renonce aux 150 000 PO représentants les parts de l'Arpenteur.
 
 Le conseil ne peut répondre aux questions des PJ sur leur rêve.
 
