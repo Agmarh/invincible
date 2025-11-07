@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oblivion/Bestiaire/Aéromarin.md",
+                "file": "Oblivion/Bestiaire/Capitain aéromarin.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Aéromarin"
+              "title": "Capitain aéromarin"
             }
           },
           {
@@ -139,13 +139,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oblivion/Bestiaire/Aéromarin.md",
+                "file": "Oblivion/Bestiaire/Capitain aéromarin.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Aéromarin"
+              "title": "Plan de Capitain aéromarin"
             }
           },
           {
@@ -210,6 +210,7 @@
   },
   "active": "e5e8bca8a533a3ba",
   "lastOpenFiles": [
+    "Oblivion/Bestiaire/Aéromarin.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/4 - La Sentence des Voies.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/Effets du Khayolt.md",
     "Oblivion/Sessions/J+2.md",
@@ -229,7 +230,6 @@
     "Oblivion/Objets Magiques/Potion d'escalade.md",
     "Oblivion/Objets Magiques/Carafe intarissable.md",
     "Oblivion/Bestiaire/Capitain aéromarin.md",
-    "Oblivion/Bestiaire/Aéromarin.md",
     "Oblivion/Où ils sont.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/2 - Réveil Amer.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/1 - Premier voyage en Oblivion.md",
