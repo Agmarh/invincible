@@ -138,7 +138,7 @@ Les PJs pourront se reposer dans une auberge ambulante (5 pa la nuit) ou dormir 
 
 Au-dessus d'une tente claquent les fanions des Chevaliers du Jugement, l'ordre religieux du dieu Justicaar. En approchant, les PJ entendent un juron retentir :
 
-"Par les tripes d'Azel-Liark !", et la tente s'ouvre pour laisser passer Malathor, le paladin.
+<font style="color:yellow">""Par les tripes d'Azel-Liark !"</font>, et la tente s'ouvre pour laisser passer Malathor, le paladin.
 
 Au cours de retrouvailles chaleureuses, il raconte comment il est arrivé à Ikhâr par une autre route que les PJs. Il fait le même rêve qu'eux depuis des semaines, et après en avoir parlé à ses supérieurs religieux, il a été envoyé pour enquêter en compagnie d'un écuyer et d'un scribe de l'Empire.
 
