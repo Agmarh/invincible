@@ -216,7 +216,7 @@
     "creatures": [
       {
         "name": "Rivalt",
-        "initiative": 8,
+        "initiative": 2,
         "static": false,
         "modifier": -1,
         "hp": 20,
@@ -236,7 +236,7 @@
       },
       {
         "name": "Iseult",
-        "initiative": 12,
+        "initiative": 10,
         "static": false,
         "modifier": 0,
         "hp": 17,
@@ -276,7 +276,7 @@
       },
       {
         "name": "Kogarm",
-        "initiative": 5,
+        "initiative": 1,
         "static": false,
         "modifier": 3,
         "hp": 20,
@@ -316,7 +316,7 @@
       },
       {
         "name": "Nain du clan des cadavreux",
-        "initiative": 18,
+        "initiative": 4,
         "static": false,
         "modifier": 0,
         "hp": 32,
