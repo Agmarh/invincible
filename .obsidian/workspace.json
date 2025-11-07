@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/3 - Ikhâr, la cité des voiles.md",
+                "file": "Oblivion/Sessions/Session 2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "3 - Ikhâr, la cité des voiles"
+              "title": "Session 2"
             }
           },
           {
@@ -139,13 +139,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/3 - Ikhâr, la cité des voiles.md",
+                "file": "Oblivion/Sessions/Session 2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de 3 - Ikhâr, la cité des voiles"
+              "title": "Plan de Session 2"
             }
           },
           {
@@ -210,15 +210,15 @@
   },
   "active": "e5e8bca8a533a3ba",
   "lastOpenFiles": [
-    "Annexe/Sortilèges/Niveau 2/Invisibilité.md",
+    "Oblivion/Sessions/Session 1.md",
+    "Oblivion/Sessions/Session 2.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/3 - Ikhâr, la cité des voiles.md",
+    "Annexe/Sortilèges/Niveau 2/Invisibilité.md",
     "Oblivion/Objets Magiques/Figurine merveilleuse de corbeau d'argent.md",
     "Oblivion/Objets Magiques/Bottes de marche et de saut.md",
     "Oblivion/Objets Magiques/Sac sans fond.md",
-    "Oblivion/Sessions/Session 1.md",
     "Oblivion/Pangée.md",
     "Oblivion/Où j'en suis.md",
-    "Oblivion/Sessions/Session 2.md",
     "Oblivion/Sessions/J+1.md",
     "Oblivion/Sessions",
     "Oblivion/Objets Magiques/Potion de soins.md",
