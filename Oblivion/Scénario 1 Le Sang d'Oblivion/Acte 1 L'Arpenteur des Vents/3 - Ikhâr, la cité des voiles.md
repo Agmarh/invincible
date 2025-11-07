@@ -116,11 +116,11 @@ Vu de l'extérieur, l'établissement se compose de la juxtaposition d'une vingta
 
 En entrant, les PJ pourront remarquer Feryenne qui leur racontera comment elle s'est échappé in extremis :
 
-"J'ai couru aussi vite que j'ai pu, j'ai juste eu le temps de rattraper ces étranges gnomes mécaniques qui m'ont aidé à m'échapper. Et je suis arrivé à Ikhâr il y a peu de temps, en suivant cet étrange rêve."
+> <font style="color:yellow">"J'ai couru aussi vite que j'ai pu, j'ai juste eu le temps de rattraper ces étranges gnomes mécaniques qui m'ont aidé à m'échapper. Et je suis arrivé à Ikhâr il y a peu de temps, en suivant cet étrange rêve."</font>
 
-Les PJ pourront rencontrer 3 autres oubliés :
+Les PJ pourront rencontrent 3 autres oubliés :
 
-- Rhâvi Shândar, un gnome hilare, constamment enclin à des plaisanteries d'un goût douteux. Il montre aux PJ comment il se transperce la joue avec une griffe de tigre Taï-Taï sans verser une goutte de sang.
+- [[Rhâvi Shândar]], un gnome hilare, constamment enclin à des plaisanteries d'un goût douteux. Il montre aux PJ comment il se transperce la joue avec une griffe de tigre Taï-Taï sans verser une goutte de sang.
 - Les jumeaux Gothber et Bertold, deux jeune paysans. Il n'ont pas de père et leur mère a disparu une nuit avec toute sa famille. Ils ont suivi leur rêve et comptent bien saisir la fortune qui s'offre à eux.
 
 ## Péripéties
