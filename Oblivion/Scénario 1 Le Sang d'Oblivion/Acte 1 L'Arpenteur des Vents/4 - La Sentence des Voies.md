@@ -10,7 +10,7 @@ Au bout de quelques heures de voyage, le chariot s'arrête : les PJ sont au cent
 
 Elle distribue de petits fragments fongiques et s'assure qu'ils les avalent :
 
-><font style="color:yellow">"Ce champignon vient d'ailleurs. Il a jadis été importé par Löne Kernos. Ses propriétés multiples sont à la base de la richesse et de l'économie d'Ikhâr. Les chamans et les capitaines aéromarchands sont les seuls à connaître les secrets de sa culture. Enfermé dans de vastes proches de toile, sa fermentation dégage un gaz qui permet de gonfler les ballons des gondolfières. Il constitue ainsi la matière première des aéromarchands qui doivent renouveler leurs stocks chaque année."</font>
+><font style="color:yellow">"Ce champignon vient d'ailleurs. Il a jadis été importé par Löne Kernos. Ses propriétés multiples sont à la base de la richesse et de l'économie d'Ikhâr. Les chamans et les capitaines aéromarchands sont les seuls à connaître les secrets de sa culture. Enfermé dans de vastes poches de toile, sa fermentation dégage un gaz qui permet de gonfler les ballons des gondolfières. Il constitue ainsi la matière première des aéromarchands qui doivent renouveler leurs stocks chaque année."</font>
 
 > <font style="color:yellow">"Le Khayolt pur n'a rien à voir avec le Khayolt distillé. Sa consommation régulière, à l'état brut, permet de percevoir le Chant des Vents, indispensable pour piloter les gondolfières. Cependant, les effets secondaires sont plus violents… voire mortels !"</font>
 
