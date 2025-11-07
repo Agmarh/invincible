@@ -270,7 +270,7 @@
         "enabled": true,
         "level": 2,
         "player": true,
-        "active": false,
+        "active": true,
         "hidden": false,
         "friendly": false
       },
@@ -303,7 +303,7 @@
         "currentMaxHP": 102,
         "cr": 4,
         "ac": 15,
-        "currentAC": 15,
+        "currentAC": "6",
         "id": "ID_cb6b59dae80b",
         "currentHP": 98,
         "tempHP": 0,
@@ -529,7 +529,7 @@
         "tempHP": 0,
         "status": [],
         "enabled": true,
-        "active": true,
+        "active": false,
         "hidden": false,
         "friendly": false,
         "hit_dice": "10d8+20"
@@ -597,7 +597,7 @@
     ],
     "state": true,
     "name": null,
-    "round": 2,
+    "round": 3,
     "logFile": "",
     "rollHP": false
   },
