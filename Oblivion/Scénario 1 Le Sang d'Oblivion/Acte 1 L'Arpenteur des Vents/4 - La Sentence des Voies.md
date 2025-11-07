@@ -81,7 +81,7 @@ Le combat s'engage, à un moment, Feryenne sera prise d'une emprise folle, son c
 A ce moment ses chairs vont exploser, et de son cadavre s'extirpera une créature cauchemardesque qui se jettera sur l'Arpenteur, le saisira à un main :
 > <font style="color:yellow">"Parle-moi de cette Matrice !"</font>
 
-Le Ravageur va saisir une gemme noire et l'enfoncer dans le crâne de Löne Kernos : "Tu vas tout me dire".
+Le Ravageur va saisir une gemme noire et l'enfoncer dans le crâne de Löne Kernos : <font style="color:yellow">"Tu vas tout me dire"</font>.
 
 L'Arpenteur se tourne vers un PJ en lui jetant son épée et en lui disant : 
 > <font style="color:yellow">"Prenez ma Dame d'Ombre et sauvez-vous !"</font>
