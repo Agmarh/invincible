@@ -337,6 +337,26 @@
         "hidden": false,
         "friendly": false,
         "hit_dice": "5d8+10"
+      },
+      {
+        "name": "Fan'Goriah",
+        "initiative": 2,
+        "static": false,
+        "modifier": 0,
+        "hp": 77,
+        "currentMaxHP": 77,
+        "cr": 5,
+        "ac": "16 (cuirasse)",
+        "currentAC": "16 (cuirasse)",
+        "id": "ID_cb89a83b78db",
+        "currentHP": 77,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false,
+        "hit_dice": "14d8+14"
       }
     ],
     "state": true,
