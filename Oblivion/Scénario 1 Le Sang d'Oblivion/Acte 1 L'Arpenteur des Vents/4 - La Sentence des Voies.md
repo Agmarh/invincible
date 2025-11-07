@@ -75,6 +75,8 @@ A ces mots, <font style="color:green">jet d'Histoire DD 15</font> pour se rappel
 
 A cet instant, un choc sourd ébranle la nef et on perçoit les clameurs d'un abordage. Löne Kernos se relève et indique au PJ qu'ils reprendront la conversation plus tard, quelque chose n'est pas normal. En remontant ils verront la gondolfière du Duc Morgus Montanera qui a percuté celle de l'Arpenteur. Lui, Baron Blême et 10 cadavreux ont pris d'assaut la gondolfière. Les 7 aéromarins à bord font ce qu'ils peuvent pour repousser l'assaut.
 
+- Battle map : Volume 1 page 28
+
 Le combat s'engage, à un moment, Feryenne sera prise d'une emprise folle, son corps va être pris de convulsion et elle va se jeter sur Valkin pour l'étrangler. Si quelqu'un intervient, elle dira avec une voix étrange : 
 > <font style="color:yellow">"Tu ne peux rien face à l'Ecorcheuse, vous n'êtes rien"</font>
 
