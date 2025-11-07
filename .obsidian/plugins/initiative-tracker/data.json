@@ -296,7 +296,7 @@
       },
       {
         "name": "Mante obscure",
-        "initiative": 12,
+        "initiative": 8,
         "static": false,
         "modifier": 0,
         "hp": 22,
@@ -316,7 +316,7 @@
       },
       {
         "name": "Mante obscure",
-        "initiative": 12,
+        "initiative": 13,
         "static": false,
         "modifier": 0,
         "hp": 22,
@@ -340,7 +340,7 @@
     "logFile": "",
     "rollHP": false
   },
-  "condense": true,
+  "condense": false,
   "clamp": true,
   "autoStatus": true,
   "beginnerTips": true,
