@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oblivion/Objets Magiques/Nocturno.md",
+                "file": "Oblivion/Sessions/Session 2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Nocturno"
+              "title": "Session 2"
             }
           },
           {
@@ -164,13 +164,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oblivion/Objets Magiques/Nocturno.md",
+                "file": "Oblivion/Sessions/Session 2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Nocturno"
+              "title": "Plan de Session 2"
             }
           },
           {
@@ -235,6 +235,7 @@
   },
   "active": "744ddc462df46b9a",
   "lastOpenFiles": [
+    "Oblivion/Objets Magiques/Nocturno.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/4 - La Sentence des Voies.md",
     "Oblivion/Bestiaire/Capitain aéromarin.md",
     "Oblivion/Bestiaire/Aéromarin.md",
@@ -262,7 +263,6 @@
     "Oblivion/L'Empire.md",
     "Oblivion/Magie.md",
     "Oblivion/Images/Epistéa.png",
-    "Oblivion/Lieux importants/Epistéa.md",
     "Oblivion/Lieux importants",
     "Oblivion/Images/Carte de l'ancienne Pangée.jpg",
     "Oblivion/Images/Carte de l'ancienne Pangée Vierge.png",
