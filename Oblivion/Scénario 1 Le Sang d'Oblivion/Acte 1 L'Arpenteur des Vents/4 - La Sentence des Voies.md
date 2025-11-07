@@ -62,6 +62,8 @@ L'équipage va guider les PJ vers des escaliers qui descende vers une immense pi
 Au centre de la pièce se trouve un vieux chevalier elfe au regard d'ambre, appuyé sur une épée taillée dans un fragment de nuit :
 
 > <font style="color:yellow">"Soyez les bienvenus, Rêveurs, chers frères et sœurs, c'est ici que s'achève votre quête, je vais enfin pouvoir répondre à toutes vos questions. Vous ne le savez pas, mais, comme moi, vous faites partie d'une lignée d'êtres exceptionnels, vous êtes tous des enfants d'Oblivion. Oblivion est une cité qui a été fermée, il y a surement des millénaire, son accès fut interdit. Oblivion a laissé derrière elle ses enfants, qui n'ont pu rentrer à temps. Et tous, d'une manière ou d'une autre, car vous avez entendu mon appel, vous êtes des Oubliés. Mais aujourd'hui, nous sommes pourchassés, les enfants d'Oblivion sont pourchassé. Combien d'entre vous ont peur de s'endormir le soir ? Combien ont perdu un parent, un enfant mystérieusement disparu pendant son sommeil ?</font>
+
+A ces mots, 
 > 
 > <font style="color:yellow">Vous l'avez presque tous ici déjà affronté, vous avez fait face à ses sbires. Vous avez fait face à un mal qui vit au cœur d'Oblivion, une déesse depuis longtemps oubliée que nous appelons l'Ecorcheuse. Rêveurs, ce mal veut nous exterminer, rayer notre peuple de la carte. Nos frères souffrent et meurent dans cette guerre qu'ELLE a déclenchée. Mais la fin est proche : Oblivion, le pays des chimères, VOTRE pays, est sur le point d'être libérée !</font>
 > 
