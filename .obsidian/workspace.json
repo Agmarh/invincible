@@ -30,30 +30,6 @@
               "icon": "lucide-file",
               "title": "3 - Ikhâr, la cité des voiles"
             }
-          },
-          {
-            "id": "01ba43bcba755202",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Oblivion/Objets Magiques/Potion de résistance.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Potion de résistance"
-            }
           }
         ]
       }
@@ -328,8 +304,10 @@
   },
   "active": "66521f3800917db3",
   "lastOpenFiles": [
-    "Oblivion/Objets Magiques/Potion de résistance.md",
+    "Oblivion/Bestiaire/Nain du clan des cadavreux.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/3 - Ikhâr, la cité des voiles.md",
+    "Oblivion/Bestiaire/Ettin'Grinn.md",
+    "Oblivion/Objets Magiques/Potion de résistance.md",
     "Oblivion/Objets Magiques/Potion d'escalade.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/4 - La Sentence des Voies.md",
     "Oblivion/Objets Magiques/Potion de force de géant des collines.md",
@@ -355,9 +333,7 @@
     "Oblivion/Où ils sont.md",
     "Oblivion/Sessions",
     "Oblivion/Party Configuration.md",
-    "Oblivion/Scénario 1 Le Sang d'Oblivion/Pangée 1.md",
     "Oblivion/Images/Carte de l'ancienne Pangée.jpg",
-    "Oblivion/L'Empire.md",
     "Oblivion/Images/Ikhâr map.png",
     "Oblivion/Images/Ikhâr.png",
     "Oblivion/Images/Epistéa.png",

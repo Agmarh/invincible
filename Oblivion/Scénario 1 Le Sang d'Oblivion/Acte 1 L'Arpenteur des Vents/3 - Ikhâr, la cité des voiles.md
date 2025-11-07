@@ -108,7 +108,7 @@ Les PJ peuvent acheter toute sorte d'équipements, des animaux (dont 2 hippogrif
 ## Péripéties
 
 Les Cadavreux : Ettin'Grinn et 3 autres nains tentent d'assassiner les PJs.
-- [[Ettin'Grinn]], [[Nain]]
+- [[Ettin'Grinn]], [[Nain du clan des cadavreux]] : Lancer la discrétion des 4 nains (bonus de +10 pour Ettin et +2 pour les cadavreux puis voir la perception passive des PJ)
 
 # 6 - L'Auberge de l'Hallucinose
 
