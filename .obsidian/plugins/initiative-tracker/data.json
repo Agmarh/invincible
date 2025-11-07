@@ -236,7 +236,7 @@
       },
       {
         "name": "Iseult",
-        "initiative": 10,
+        "initiative": 1,
         "static": false,
         "modifier": 0,
         "hp": 17,
@@ -256,7 +256,7 @@
       },
       {
         "name": "N'djin",
-        "initiative": 15,
+        "initiative": 5,
         "static": false,
         "modifier": 3,
         "hp": 18,
@@ -276,7 +276,7 @@
       },
       {
         "name": "Kogarm",
-        "initiative": 15,
+        "initiative": 6,
         "static": false,
         "modifier": 3,
         "hp": 20,
@@ -293,6 +293,26 @@
         "active": false,
         "hidden": false,
         "friendly": false
+      },
+      {
+        "name": "Mante obscure",
+        "initiative": 16,
+        "static": false,
+        "modifier": 0,
+        "hp": 22,
+        "currentMaxHP": 22,
+        "cr": "1/2",
+        "ac": 11,
+        "currentAC": 11,
+        "id": "ID_bb3a793b7969",
+        "currentHP": 22,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false,
+        "hit_dice": "5d6+5"
       }
     ],
     "state": false,
