@@ -48,7 +48,7 @@ Le conseil ne peut répondre aux questions des PJ sur leur rêve.
 Situé au centre d'Ikhâr; c'est une vaste cuvette de 400m de diamètre et de 2m de profondeur.
 ## L'ambiance
 
-Siège d'un ballet aérien : tournoiement d'hippogriffes tirant sur leurs entraves en poussant des cris, nacelles de chargement montant de descendant le long de cordage amarrés aux vaisseaux du ciel ou encore des gondolfières qui manœuvre.
+Siège d'un ballet aérien : tournoiement d'hippogriffes tirant sur leurs entraves en poussant des cris, nacelles de chargement montant et descendant le long de cordages amarrés aux vaisseaux du ciel ou encore des gondolfières qui manœuvre.
 
 A terre, on peut apercevoir des marins triant les cargaisons, des négociants tentant d'obtenir une entrevue avec un capitaine aéromarchand, des flux de marchandises entre les vaisseaux et la zone commerciale…
 
