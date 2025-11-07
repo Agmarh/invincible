@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "3 - Ikhâr, la cité des voiles"
             }
+          },
+          {
+            "id": "e3f36a519d80085b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Oblivion/Objets Magiques/Sac sans fond.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Sac sans fond"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -115,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/3 - Ikhâr, la cité des voiles.md",
+                "file": "Oblivion/Objets Magiques/Sac sans fond.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de 3 - Ikhâr, la cité des voiles"
+              "title": "Plan de Sac sans fond"
             }
           },
           {
@@ -184,10 +209,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e5e8bca8a533a3ba",
+  "active": "e3f36a519d80085b",
   "lastOpenFiles": [
-    "Oblivion/Sessions/Session 1.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/3 - Ikhâr, la cité des voiles.md",
+    "Oblivion/Sessions/Session 1.md",
     "Oblivion/Pangée.md",
     "Oblivion/Où j'en suis.md",
     "Oblivion/Sessions/Session 2.md",
