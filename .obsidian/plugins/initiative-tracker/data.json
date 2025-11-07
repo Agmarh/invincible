@@ -305,9 +305,11 @@
         "ac": "13 (armure naturelle)",
         "currentAC": "13 (armure naturelle)",
         "id": "ID_494a582baa49",
-        "currentHP": 5,
+        "currentHP": 0,
         "tempHP": 0,
-        "status": [],
+        "status": [
+          "Unconscious"
+        ],
         "enabled": true,
         "active": false,
         "hidden": false,
