@@ -93,7 +93,7 @@ La Mhäaria monte au ciel : concours d'adresse organisé en permanence par les a
 - Si elle est supérieure à 5, il tombe dans la fosse et doit se battre contre les tigres.
 
 Les Cadavreux : Alors qu'une troupe de saltimbanques exhibe un vieil [[Hibours, vieux]] enchainé, un nain jaillit et libère le monstre. Qui attaque immédiatement toute personne proche dont les PJ. L'assassin [[Nain du clan des cadavreux]] en profite pour tenter de tuer les PJ. S'ils parviennent à vaincre la créature, l'Acrobal organise en leur honneur une fête somptueuse et on leur offre la tête de la bête (d'une valeur de 3000 PO).
-
+- Battle map : Volume 2 page 8
 # 4 - Le Cercle du Comptoir
 Les échoppes sont disséminées parmi les maisons basses en terre cuite des Ikhârians. On peut trouver de tout (marché aux vins, tanneries de peau de Taï-Taï, maison des forgerons, enclos à bestiaux etc…)
 
@@ -109,6 +109,7 @@ Les PJ peuvent acheter toute sorte d'équipements, des animaux (dont 2 hippogrif
 
 Les Cadavreux : Ettin'Grinn et 3 autres nains tentent d'assassiner les PJs.
 - [[Ettin'Grinn]], [[Nain du clan des cadavreux]] : Lancer la discrétion des 4 nains (bonus de +10 pour Ettin et +2 pour les cadavreux puis voir la perception passive des PJ)
+- Battle map : Volume 2 page 6
 
 # 6 - L'Auberge de l'Hallucinose
 
