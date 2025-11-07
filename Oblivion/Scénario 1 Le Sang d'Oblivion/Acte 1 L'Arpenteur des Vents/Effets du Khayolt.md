@@ -1,4 +1,7 @@
 Chaque verre de vin à 1% de chance cumulatif de déclencher un effet, chaque verre de liqueur 10%.
+
+Vin de Khayolt : bon marché (5 pc le verre)
+Liqueur de Khayolt : très chère (1 po le verre)
 # Lancez 1d6 :
 1. Effet Kôôl : Plongé dans un état de béatitude complet (sonné pendant 1d10 minutes).
 

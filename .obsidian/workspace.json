@@ -144,8 +144,7 @@
               "title": "Initiative Tracker"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "0f121bb01e1cf65f",
@@ -184,10 +183,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5a62745186fe25b0",
+  "active": "be134d0fda6ae94e",
   "lastOpenFiles": [
-    "Oblivion/Bestiaire/Nain du clan des cadavreux.md",
+    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/Effets du Khayolt.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/3 - Ikhâr, la cité des voiles.md",
+    "Oblivion/Bestiaire/Nain du clan des cadavreux.md",
     "Oblivion/Bestiaire/Ettin'Grinn.md",
     "Oblivion/Objets Magiques/Potion de résistance.md",
     "Oblivion/Objets Magiques/Potion d'escalade.md",
@@ -203,7 +203,6 @@
     "Oblivion/Objets Magiques/Nocturno.md",
     "Oblivion/Objets Magiques/Nocturno 1.md",
     "Oblivion/Objets Magiques/Chapeau de déguisement.md",
-    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/Effets du Khayolt.md",
     "Oblivion/Images/Oblivion.png",
     "Oblivion/Images/Oblivion 2 bannière.png",
     "Oblivion/Pangée.md",
