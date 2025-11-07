@@ -76,8 +76,11 @@ Au départ simple baraquements entourant Point Zéro et accueillant les membres 
 Il y a de multitude de tentes formant un labyrinthe grouillant d'activité. Un <font style="color:green">jet de Persuasion ou d'Investigation DD 13</font> permettra de dénicher quelques gnomes et demi-orques, pilleurs de tombes naines, prêts à revendre des parchemins magique :
 
 - <font style="color:red">1d3</font> sorts de niveau 1 et 1 sort de niveau 2, 120 po le parchemin de niveau 1 et 500 po pour le niveau 2
-	- Sorts de niveau 1 : [[Bénédiction]], [[Détecti]]
+	- Sorts de niveau 1 : [[Bénédiction]], [[Détection du poison et des maladies]], [[Bouclier de la foi]]
+	- Sort de niveau 2 : [[Invisibilité]]
 - <font style="color:red">1d4</font> potions et <font style="color:red">1d3</font> objets magiques peu courants, 1000 po pour les objets peu courants. <font style="color:green">Persuasion ou Investigation DD 17</font> pour les trouver.
+	- Potions : 
+	- Objets magiques : 
 
 ## Péripéties
 
