@@ -216,7 +216,7 @@
     "creatures": [
       {
         "name": "Rivalt",
-        "initiative": 10,
+        "initiative": 6,
         "static": false,
         "modifier": -1,
         "hp": 20,
@@ -236,7 +236,7 @@
       },
       {
         "name": "Iseult",
-        "initiative": 13,
+        "initiative": 10,
         "static": false,
         "modifier": 0,
         "hp": 17,
@@ -256,7 +256,7 @@
       },
       {
         "name": "N'djin",
-        "initiative": 17,
+        "initiative": 15,
         "static": false,
         "modifier": 3,
         "hp": 18,
@@ -276,7 +276,7 @@
       },
       {
         "name": "Kogarm",
-        "initiative": 10,
+        "initiative": 15,
         "static": false,
         "modifier": 3,
         "hp": 20,
@@ -293,26 +293,6 @@
         "active": false,
         "hidden": false,
         "friendly": false
-      },
-      {
-        "name": "Malathor",
-        "initiative": 15,
-        "static": false,
-        "modifier": 0,
-        "hp": 130,
-        "currentMaxHP": 130,
-        "cr": 8,
-        "ac": 17,
-        "currentAC": 17,
-        "id": "ID_c9db9b680a0a",
-        "currentHP": 130,
-        "tempHP": 0,
-        "status": [],
-        "enabled": true,
-        "active": false,
-        "hidden": false,
-        "friendly": false,
-        "hit_dice": "20d8+40"
       }
     ],
     "state": false,

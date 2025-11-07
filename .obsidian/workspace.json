@@ -168,7 +168,8 @@
               "title": "Initiative Tracker"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "0f121bb01e1cf65f",
@@ -207,7 +208,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e5e8bca8a533a3ba",
+  "active": "91ef87e2b00f9192",
   "lastOpenFiles": [
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/Effets du Khayolt.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/4 - La Sentence des Voies.md",
