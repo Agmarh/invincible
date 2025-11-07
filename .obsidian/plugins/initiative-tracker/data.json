@@ -230,7 +230,7 @@
         "enabled": true,
         "level": 2,
         "player": true,
-        "active": false,
+        "active": true,
         "hidden": false,
         "friendly": false
       },
@@ -290,7 +290,7 @@
         "enabled": true,
         "level": 2,
         "player": true,
-        "active": true,
+        "active": false,
         "hidden": false,
         "friendly": false
       },
@@ -425,7 +425,7 @@
         "ac": "11 (armure de cuir)",
         "currentAC": "11 (armure de cuir)",
         "id": "ID_68dbcb693ba8",
-        "currentHP": 15,
+        "currentHP": 11,
         "tempHP": 0,
         "status": [],
         "enabled": true,
@@ -493,26 +493,6 @@
         "hidden": false,
         "friendly": false,
         "hit_dice": "5d8+10"
-      },
-      {
-        "name": "Aéromarin",
-        "initiative": 4,
-        "static": false,
-        "modifier": 0,
-        "hp": 11,
-        "currentMaxHP": 11,
-        "cr": "1/8",
-        "ac": 16,
-        "currentAC": 16,
-        "id": "ID_5acaebbbab78",
-        "currentHP": 11,
-        "tempHP": 0,
-        "status": [],
-        "enabled": true,
-        "active": false,
-        "hidden": false,
-        "friendly": false,
-        "hit_dice": "2d8+2"
       },
       {
         "name": "Capitain aéromarin",
