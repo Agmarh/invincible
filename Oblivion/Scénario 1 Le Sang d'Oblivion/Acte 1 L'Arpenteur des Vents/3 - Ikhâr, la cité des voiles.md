@@ -84,9 +84,9 @@ Il y a de multitude de tentes formant un labyrinthe grouillant d'activité. Un <
 
 ## Péripéties
 
-La Mhäaria monte au ciel : concours d'adresse organisé en permanence par les acrobates de coque. Il faut traverser au plus vite un labyrinthe de cordage suspendu entre ciel et terre sans tomber dans une fosse qui retient deux tigres Taï-Taï. L'inscription est de 100 po mais quiconque traverse en 30 secondes ou moins remporte dix fois sa mise soit 1000 po. On ne peut gagner qu'une seule fois mais se réinscrire autant de fois qu'on veut. L'usage de la magie est interdit.
+La Mhäaria monte au ciel : concours d'adresse organisé en permanence par les acrobates de coque. Il faut traverser au plus vite un labyrinthe de cordage suspendu entre ciel et terre sans tomber dans une fosse qui retient deux [[Tigre Taï-Taï]]. L'inscription est de 100 po mais quiconque traverse en 30 secondes ou moins remporte dix fois sa mise soit 1000 po. On ne peut gagner qu'une seule fois mais se réinscrire autant de fois qu'on veut. L'usage de la magie est interdit.
 
-- Un teste d'Athlétisme DD 12 puis un test d'Acrobatie DD 15 et un test d'Acrobatie DD 20.
+- Un <font style="color:green">jet d'Athlétisme DD 12</font> puis un <font style="color:green">jet d'Acrobatie DD 15</font> et un <font style="color:green">jet d'Acrobatie DD 20</font>.
 - Chaque étape dure un round
 
 - Si le PJ échoue mais que sa marge d'échec est inférieure à 5, il perd le round et doit réessayer le round suivant.
