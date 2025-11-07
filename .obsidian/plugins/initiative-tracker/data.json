@@ -270,7 +270,7 @@
         "enabled": true,
         "level": 2,
         "player": true,
-        "active": false,
+        "active": true,
         "hidden": false,
         "friendly": false
       },
@@ -529,7 +529,7 @@
         "tempHP": 0,
         "status": [],
         "enabled": true,
-        "active": true,
+        "active": false,
         "hidden": false,
         "friendly": false,
         "hit_dice": "1d8"
@@ -557,7 +557,7 @@
     ],
     "state": true,
     "name": null,
-    "round": 3,
+    "round": 4,
     "logFile": "",
     "rollHP": false
   },
