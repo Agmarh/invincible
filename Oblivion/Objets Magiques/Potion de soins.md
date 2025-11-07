@@ -1,6 +1,6 @@
 Type : Potion
-Rareté : Légendaire
+Rareté : Courant
 Harmonisation : Non
 
 # Effets
-Vous pouvez utiliser une action pour dépenser une des 3 charges que contient l'anneau et lancer un sort de [[Souhait]] par son biais. L'anneau devient ordinaire et non-magique dès que vous utilisez sa dernière charge.
+Vous récupérez 2d4+2 points de vie quand vous buvez cette potion. Son liquide rouge scintille quand on l'agite.
