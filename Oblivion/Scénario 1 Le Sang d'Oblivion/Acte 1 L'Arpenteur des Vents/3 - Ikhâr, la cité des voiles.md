@@ -87,12 +87,12 @@ Il y a de multitude de tentes formant un labyrinthe grouillant d'activité. Un <
 La Mhäaria monte au ciel : concours d'adresse organisé en permanence par les acrobates de coque. Il faut traverser au plus vite un labyrinthe de cordage suspendu entre ciel et terre sans tomber dans une fosse qui retient deux [[Tigre Taï-Taï]]. L'inscription est de 100 po mais quiconque traverse en 30 secondes ou moins remporte dix fois sa mise soit 1000 po. On ne peut gagner qu'une seule fois mais se réinscrire autant de fois qu'on veut. L'usage de la magie est interdit.
 
 - Un <font style="color:green">jet d'Athlétisme DD 12</font> puis un <font style="color:green">jet d'Acrobatie DD 15</font> et un <font style="color:green">jet d'Acrobatie DD 20</font>.
-- Chaque étape dure un round
+- Chaque étape dure un round (pas plus de 5 rounds)
 
 - Si le PJ échoue mais que sa marge d'échec est inférieure à 5, il perd le round et doit réessayer le round suivant.
 - Si elle est supérieure à 5, il tombe dans la fosse et doit se battre contre les tigres.
 
-Les Cadavreux : Alors qu'une troupe de saltimbanques exhibe un vieil hibours enchainé, un nain jaillit et libère le monstre. Qui attaque immédiatement toute personne proche dont les PJ. L'assassin en profite pour tenter de tuer les PJ. S'ils parviennent à vaincre la créature, l'Acrobal organise en leur honneur une fête somptueuse et on leur offre la tête de la bête (d'une valeur de 3000 PO).
+Les Cadavreux : Alors qu'une troupe de saltimbanques exhibe un vieil [[Hibou]] enchainé, un nain jaillit et libère le monstre. Qui attaque immédiatement toute personne proche dont les PJ. L'assassin en profite pour tenter de tuer les PJ. S'ils parviennent à vaincre la créature, l'Acrobal organise en leur honneur une fête somptueuse et on leur offre la tête de la bête (d'une valeur de 3000 PO).
 
 # 4 - Le Cercle du Comptoir
 Les échoppes sont disséminées parmi les maisons basses en terre cuite des Ikhârians. On peut trouver de tout (marché aux vins, tanneries de peau de Taï-Taï, maison des forgerons, enclos à bestiaux etc…)
