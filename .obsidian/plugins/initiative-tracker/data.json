@@ -216,7 +216,7 @@
     "creatures": [
       {
         "name": "Rivalt",
-        "initiative": 16,
+        "initiative": 8,
         "static": false,
         "modifier": -1,
         "hp": 20,
@@ -236,7 +236,7 @@
       },
       {
         "name": "Iseult",
-        "initiative": 17,
+        "initiative": 16,
         "static": false,
         "modifier": 0,
         "hp": 17,
@@ -256,7 +256,7 @@
       },
       {
         "name": "N'djin",
-        "initiative": 18,
+        "initiative": 22,
         "static": false,
         "modifier": 3,
         "hp": 18,
@@ -270,13 +270,13 @@
         "enabled": true,
         "level": 2,
         "player": true,
-        "active": true,
+        "active": false,
         "hidden": false,
         "friendly": false
       },
       {
         "name": "Kogarm",
-        "initiative": 7,
+        "initiative": 19,
         "static": false,
         "modifier": 3,
         "hp": 20,
@@ -293,55 +293,11 @@
         "active": false,
         "hidden": false,
         "friendly": false
-      },
-      {
-        "name": "Mante obscure",
-        "initiative": 8,
-        "static": false,
-        "modifier": 0,
-        "hp": 22,
-        "currentMaxHP": 22,
-        "cr": "1/2",
-        "ac": 11,
-        "currentAC": 11,
-        "id": "ID_bb1a0a1a2988",
-        "currentHP": 0,
-        "tempHP": 0,
-        "status": [
-          "Unconscious"
-        ],
-        "enabled": true,
-        "active": false,
-        "hidden": false,
-        "friendly": false,
-        "hit_dice": "5d6+5"
-      },
-      {
-        "name": "Mante obscure",
-        "initiative": 13,
-        "static": false,
-        "modifier": 0,
-        "hp": 22,
-        "currentMaxHP": 22,
-        "cr": "1/2",
-        "ac": 11,
-        "currentAC": 11,
-        "id": "ID_681a3a5a8868",
-        "currentHP": 0,
-        "tempHP": 0,
-        "status": [
-          "Unconscious"
-        ],
-        "enabled": true,
-        "active": false,
-        "hidden": false,
-        "friendly": false,
-        "hit_dice": "5d6+5"
       }
     ],
-    "state": true,
+    "state": false,
     "name": null,
-    "round": 2,
+    "round": 1,
     "logFile": "",
     "rollHP": false
   },
