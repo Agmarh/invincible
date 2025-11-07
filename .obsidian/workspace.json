@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/4 - La Sentence des Voies.md",
+                "file": "Oblivion/Bestiaire/Aéromarin.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "4 - La Sentence des Voies"
+              "title": "Aéromarin"
             }
           },
           {
@@ -139,13 +139,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/4 - La Sentence des Voies.md",
+                "file": "Oblivion/Bestiaire/Aéromarin.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de 4 - La Sentence des Voies"
+              "title": "Plan de Aéromarin"
             }
           },
           {
@@ -210,8 +210,9 @@
   },
   "active": "66521f3800917db3",
   "lastOpenFiles": [
-    "Oblivion/Bestiaire/« Duc » Morgus Montanera 1.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/4 - La Sentence des Voies.md",
+    "Oblivion/Bestiaire/Aéromarin.md",
+    "Oblivion/Bestiaire/« Duc » Morgus Montanera 1.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/3 - Ikhâr, la cité des voiles.md",
     "Oblivion/Objets Magiques/Nocturno.md",
     "Oblivion/Sessions/Session 2.md",
@@ -237,7 +238,6 @@
     "Oblivion/Pangée.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/2 - Réveil Amer.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/1 - Premier voyage en Oblivion.md",
-    "Oblivion/Où j'en suis.md",
     "Oblivion/Sessions",
     "Oblivion/Images/Carte de l'ancienne Pangée.jpg",
     "Oblivion/Images/Ikhâr map.png",
