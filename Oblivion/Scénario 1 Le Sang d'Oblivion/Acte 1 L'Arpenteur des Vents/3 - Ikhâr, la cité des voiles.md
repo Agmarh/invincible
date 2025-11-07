@@ -64,7 +64,7 @@ Un roleplay efficace auprès d'aéromarins alcoolisés, dockers nains, contrema�
 
 - 14-17. Devenir capitaine est très difficile. Il faut être sélectionné par l'Arpenteur des Vents, le candidat doit faire partie de l'équipage d'un vaisseau pendant 1 an et occuper toutes les fonctions. Il doit ensuite se soumettre à la Sentence des Voies : trois épreuves qu'il devra surmonter. On raconte que cette année, l'Arpenteur des Vents compte autoriser des étrangers à passer directement ces épreuves.
 
-- 18-20. Nombreux sont les capitaines qui sont morts, le poste implique de consommer régulièrement du Khayolt pur. Indispensable pour connaître le Chant des Vents pour guider sa gondolfière. Le Khayolt affecte aussi les cellules chromatiques des yeux : c'est pourquoi les capitaines se reconnaissent à la couleur de leur yeux fait d'ambre pur.
+- 18-20. Nombreux sont les capitaines qui sont morts, le poste implique de consommer régulièrement du Khayolt pur. Indispensable pour connaître le Chant des Vents pour guider sa gondolfière. Le Khayolt affecte aussi les cellules chromatiques des yeux : c'est pourquoi les capitaines se reconnaissent à la couleur de leurs yeux fait d'ambre pur.
 
 - 21+. Löne Kernos est une sorte de Chevalier marchand. Il n'apparaît pas en public et vit sur sa Gondolfière-palais, en constant déplacement. Personne ne sait où elle se trouve, elle est protégé par de puissants sorts de non-détection. Elle rejoindra Ikhâr dans 2 jours. L'Arpenteur est un vieil elfe, bienveillant et fortuné mais un peu mystérieux et paranoïaque. La seule personne qui partage sa vie est sa redoutable épée noire, qu'il appel sa "Dame d'Ombre". Une arme terrifiante capable de tuer d'un seul coup.
 
