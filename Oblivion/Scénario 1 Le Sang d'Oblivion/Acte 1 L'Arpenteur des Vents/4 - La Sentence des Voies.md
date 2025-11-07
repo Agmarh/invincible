@@ -1,6 +1,6 @@
 Deux jours après l'arrivée des PJ, une délégation de chamans ikhârians menée par Fan'Goriah fait le tour de la ville et récupère tout le monde.
 
-Les PJ, Malathor, son fils Valkin, Toma et Rhâvi Shandar sont conduits dans un étrange chariot, entièrement blindé, complètement hermétique, sans fenêtre. Une fois à l'intérieur, c'est assez confortable, sobre mais confortable. Ils sont conduits vers les champignonnières dont l'emplacement doit rester secret.
+Les PJ, Malathor, son fils Valkin, Feryenne et Rhâvi Shandar sont conduits dans un étrange chariot, entièrement blindé, complètement hermétique, sans fenêtre. Une fois à l'intérieur, c'est assez confortable, sobre mais confortable. Ils sont conduits vers les champignonnières dont l'emplacement doit rester secret.
 
 Au bout de quelques heures de voyage, le chariot s'arrête : les PJ sont au centre d'une vallée. Devant eux, des braseros ont été allumés et des chamans psalmodies une étrange mélopée, ils sont en haut d'un sentier de montagne, ils peuvent apercevoir Ikhâr en contrebas. Sur leur gauche, 3 hippogriffes tirent sur leur bride. Sur leur droite, un tunnel aux arches de pierres runiques s'ouvre dans la montagne.
 

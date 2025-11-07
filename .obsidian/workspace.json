@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oblivion/Sessions/Session 2.md",
+                "file": "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/4 - La Sentence des Voies.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Session 2"
+              "title": "4 - La Sentence des Voies"
             }
           }
         ]
@@ -115,13 +115,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oblivion/Sessions/Session 2.md",
+                "file": "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/4 - La Sentence des Voies.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Session 2"
+              "title": "Plan de 4 - La Sentence des Voies"
             }
           },
           {
@@ -185,8 +185,9 @@
   },
   "active": "66521f3800917db3",
   "lastOpenFiles": [
-    "Oblivion/Sessions/Session 1.md",
     "Oblivion/Sessions/Session 2.md",
+    "Oblivion/Sessions/Session 1.md",
+    "Oblivion/Sessions/J+1.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/4 - La Sentence des Voies.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/3 - Ikhâr, la cité des voiles.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/Effets du Khayolt.md",
@@ -213,7 +214,6 @@
     "Oblivion/Où j'en suis.md",
     "Oblivion/Où ils sont.md",
     "Oblivion/Sessions",
-    "Oblivion/Party Configuration.md",
     "Oblivion/Images/Carte de l'ancienne Pangée.jpg",
     "Oblivion/Images/Ikhâr map.png",
     "Oblivion/Images/Ikhâr.png",
