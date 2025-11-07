@@ -216,7 +216,7 @@
     "creatures": [
       {
         "name": "Rivalt",
-        "initiative": 6,
+        "initiative": 19,
         "static": false,
         "modifier": -1,
         "hp": 20,
@@ -230,7 +230,7 @@
         "enabled": true,
         "level": 2,
         "player": true,
-        "active": true,
+        "active": false,
         "hidden": false,
         "friendly": false
       },
@@ -256,7 +256,7 @@
       },
       {
         "name": "N'djin",
-        "initiative": 5,
+        "initiative": 19,
         "static": false,
         "modifier": 3,
         "hp": 18,
@@ -276,7 +276,7 @@
       },
       {
         "name": "Kogarm",
-        "initiative": 7,
+        "initiative": 13,
         "static": false,
         "modifier": 3,
         "hp": 20,
@@ -293,31 +293,11 @@
         "active": false,
         "hidden": false,
         "friendly": false
-      },
-      {
-        "name": "Mante obscure",
-        "initiative": 16,
-        "static": false,
-        "modifier": 0,
-        "hp": 22,
-        "currentMaxHP": 22,
-        "cr": "1/2",
-        "ac": 11,
-        "currentAC": 11,
-        "id": "ID_bb3a793b7969",
-        "currentHP": 2,
-        "tempHP": 0,
-        "status": [],
-        "enabled": true,
-        "active": false,
-        "hidden": false,
-        "friendly": false,
-        "hit_dice": "5d6+5"
       }
     ],
-    "state": true,
+    "state": false,
     "name": null,
-    "round": 2,
+    "round": 1,
     "logFile": "",
     "rollHP": false
   },
