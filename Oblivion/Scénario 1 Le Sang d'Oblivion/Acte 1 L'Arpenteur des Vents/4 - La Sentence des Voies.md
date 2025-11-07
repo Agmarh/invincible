@@ -37,7 +37,7 @@ Fan'Goriah annonce qu'ils doivent chevaucher un hippogriffe dressé et exécuter
 
 Les participants doivent maintenant s'aventurer dans le tunnel conduisant au labyrinthe des champignonnières. Leur objectif est de ramener une souche de Khayolt.
 
-Fan'Goriah prévient les PJ, les champignonnières abritent des portes vers des mondes miroirs, des mondes dans lequel nous pouvons trouver des créatures ne venant pas de notre monde, comme les hippogriffes par exemple. Chacun peut y aller seul ou en groupe. Toma et Rhâvi Shandar y vont séparément. Les PJ peuvent demander l'aide de Malathor. Dès que quelqu'un a trouvé une souche, il doit la ramener à Fan'Goriah, puis repartir si le compte n'est pas atteint.
+Fan'Goriah prévient les PJ, les champignonnières abritent des portes vers des mondes miroirs, des mondes dans lequel nous pouvons trouver des créatures ne venant pas de notre monde, comme les hippogriffes par exemple. Chacun peut y aller seul ou en groupe. Feryenne et Rhâvi Shandar y vont séparément. Les PJ peuvent demander l'aide de Malathor. Dès que quelqu'un a trouvé une souche, il doit la ramener à Fan'Goriah, puis repartir si le compte n'est pas atteint.
 
 Les champignonnières forment un labyrinthe de cavernes, illuminées faiblement par des fongus phosphorescents. Les axes principaux sont balisés, indiquant clairement la sortie.
 
