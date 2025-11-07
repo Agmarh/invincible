@@ -216,7 +216,7 @@
     "creatures": [
       {
         "name": "Rivalt",
-        "initiative": 19,
+        "initiative": 16,
         "static": false,
         "modifier": -1,
         "hp": 20,
@@ -236,7 +236,7 @@
       },
       {
         "name": "Iseult",
-        "initiative": 1,
+        "initiative": 17,
         "static": false,
         "modifier": 0,
         "hp": 17,
@@ -256,7 +256,7 @@
       },
       {
         "name": "N'djin",
-        "initiative": 19,
+        "initiative": 18,
         "static": false,
         "modifier": 3,
         "hp": 18,
@@ -270,13 +270,13 @@
         "enabled": true,
         "level": 2,
         "player": true,
-        "active": false,
+        "active": true,
         "hidden": false,
         "friendly": false
       },
       {
         "name": "Kogarm",
-        "initiative": 13,
+        "initiative": 7,
         "static": false,
         "modifier": 3,
         "hp": 20,
@@ -334,7 +334,7 @@
         "hit_dice": "5d6+5"
       }
     ],
-    "state": false,
+    "state": true,
     "name": null,
     "round": 1,
     "logFile": "",
