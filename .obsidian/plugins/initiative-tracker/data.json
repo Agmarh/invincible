@@ -445,7 +445,7 @@
         "ac": "11 (armure de cuir)",
         "currentAC": "11 (armure de cuir)",
         "id": "ID_2b8bebcacb69",
-        "currentHP": 25,
+        "currentHP": 12,
         "tempHP": 0,
         "status": [],
         "enabled": true,
@@ -629,7 +629,7 @@
         "tempHP": 0,
         "status": [],
         "enabled": true,
-        "active": true,
+        "active": false,
         "hidden": false,
         "friendly": false,
         "hit_dice": "10d8+20"
@@ -649,7 +649,7 @@
         "tempHP": 0,
         "status": [],
         "enabled": true,
-        "active": false,
+        "active": true,
         "hidden": false,
         "friendly": false,
         "hit_dice": "2d8+2"
@@ -717,7 +717,7 @@
     ],
     "state": true,
     "name": null,
-    "round": 1,
+    "round": 2,
     "logFile": "",
     "rollHP": false
   },
