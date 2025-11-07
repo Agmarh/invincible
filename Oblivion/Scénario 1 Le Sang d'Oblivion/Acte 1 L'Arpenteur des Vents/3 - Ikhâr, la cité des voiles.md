@@ -92,7 +92,7 @@ La Mhäaria monte au ciel : concours d'adresse organisé en permanence par les a
 - Si le PJ échoue mais que sa marge d'échec est inférieure à 5, il perd le round et doit réessayer le round suivant.
 - Si elle est supérieure à 5, il tombe dans la fosse et doit se battre contre les tigres.
 
-Les Cadavreux : Alors qu'une troupe de saltimbanques exhibe un vieil [[Hibou]] enchainé, un nain jaillit et libère le monstre. Qui attaque immédiatement toute personne proche dont les PJ. L'assassin en profite pour tenter de tuer les PJ. S'ils parviennent à vaincre la créature, l'Acrobal organise en leur honneur une fête somptueuse et on leur offre la tête de la bête (d'une valeur de 3000 PO).
+Les Cadavreux : Alors qu'une troupe de saltimbanques exhibe un vieil [[Hibours, vieux]] enchainé, un nain jaillit et libère le monstre. Qui attaque immédiatement toute personne proche dont les PJ. L'assassin [[Nain du clan des cadavreux]] en profite pour tenter de tuer les PJ. S'ils parviennent à vaincre la créature, l'Acrobal organise en leur honneur une fête somptueuse et on leur offre la tête de la bête (d'une valeur de 3000 PO).
 
 # 4 - Le Cercle du Comptoir
 Les échoppes sont disséminées parmi les maisons basses en terre cuite des Ikhârians. On peut trouver de tout (marché aux vins, tanneries de peau de Taï-Taï, maison des forgerons, enclos à bestiaux etc…)
