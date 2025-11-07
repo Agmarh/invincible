@@ -63,8 +63,8 @@ Au centre de la pièce se trouve un vieux chevalier elfe au regard d'ambre, appu
 
 > <font style="color:yellow">"Soyez les bienvenus, Rêveurs, chers frères et sœurs, c'est ici que s'achève votre quête, je vais enfin pouvoir répondre à toutes vos questions. Vous ne le savez pas, mais, comme moi, vous faites partie d'une lignée d'êtres exceptionnels, vous êtes tous des enfants d'Oblivion. Oblivion est une cité qui a été fermée, il y a surement des millénaire, son accès fut interdit. Oblivion a laissé derrière elle ses enfants, qui n'ont pu rentrer à temps. Et tous, d'une manière ou d'une autre, car vous avez entendu mon appel, vous êtes des Oubliés. Mais aujourd'hui, nous sommes pourchassés, les enfants d'Oblivion sont pourchassé. Combien d'entre vous ont peur de s'endormir le soir ? Combien ont perdu un parent, un enfant mystérieusement disparu pendant son sommeil ?</font>
 
-A ces mots, jet de
-> 
+A ces mots, <font style="color:green">jet d'Histoire DD 15</font> pour se rappeler de son enfance, d'histoire de famille parlant de membres disparus.
+
 > <font style="color:yellow">Vous l'avez presque tous ici déjà affronté, vous avez fait face à ses sbires. Vous avez fait face à un mal qui vit au cœur d'Oblivion, une déesse depuis longtemps oubliée que nous appelons l'Ecorcheuse. Rêveurs, ce mal veut nous exterminer, rayer notre peuple de la carte. Nos frères souffrent et meurent dans cette guerre qu'ELLE a déclenchée. Mais la fin est proche : Oblivion, le pays des chimères, VOTRE pays, est sur le point d'être libérée !</font>
 > 
 > <font style="color:yellow">Nous avons découvert l'existence d'une clé, la clé des Songes, qui permet d'ouvrir les portes d'Oblivion. L'Ecorcheuse, comme les autres Incarnins, les divinités qui règnent sur la cité en sont prisonniers mais aimerait pouvoir en sortir. Aujourd'hui, la quête de cette clé, la clé des Songes, Chiaroscuro, est primordiale.</font>
