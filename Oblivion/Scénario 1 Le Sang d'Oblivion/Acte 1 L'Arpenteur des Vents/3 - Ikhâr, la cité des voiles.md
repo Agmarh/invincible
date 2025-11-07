@@ -79,7 +79,7 @@ Il y a de multitude de tentes formant un labyrinthe grouillant d'activité. Un <
 	- Sorts de niveau 1 : [[Bénédiction]], [[Détection du poison et des maladies]], [[Bouclier de la foi]]
 	- Sort de niveau 2 : [[Invisibilité]]
 - <font style="color:red">1d4</font> potions et <font style="color:red">1d3</font> objets magiques peu courants, 1000 po pour les objets peu courants. <font style="color:green">Persuasion ou Investigation DD 17</font> pour les trouver.
-	- Potions : [[Potion de so]]
+	- Potions : [[Potion de soins]], [[Potion]]
 	- Objets magiques : 
 
 ## Péripéties
