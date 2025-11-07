@@ -276,7 +276,7 @@
       },
       {
         "name": "Kogarm",
-        "initiative": 6,
+        "initiative": 7,
         "static": false,
         "modifier": 3,
         "hp": 20,
@@ -290,7 +290,7 @@
         "enabled": true,
         "level": 2,
         "player": true,
-        "active": false,
+        "active": true,
         "hidden": false,
         "friendly": false
       },
@@ -315,7 +315,7 @@
         "hit_dice": "5d6+5"
       }
     ],
-    "state": false,
+    "state": true,
     "name": null,
     "round": 1,
     "logFile": "",
