@@ -270,7 +270,7 @@
         "enabled": true,
         "level": 2,
         "player": true,
-        "active": false,
+        "active": true,
         "hidden": false,
         "friendly": false
       },
@@ -290,7 +290,7 @@
         "enabled": true,
         "level": 2,
         "player": true,
-        "active": true,
+        "active": false,
         "hidden": false,
         "friendly": false
       },
@@ -305,7 +305,7 @@
         "ac": "13 (armure naturelle)",
         "currentAC": "13 (armure naturelle)",
         "id": "ID_494a582baa49",
-        "currentHP": 66,
+        "currentHP": 61,
         "tempHP": 0,
         "status": [],
         "enabled": true,
@@ -339,7 +339,7 @@
     ],
     "state": true,
     "name": null,
-    "round": 3,
+    "round": 4,
     "logFile": "",
     "rollHP": false
   },
