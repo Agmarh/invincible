@@ -270,7 +270,7 @@
         "enabled": true,
         "level": 2,
         "player": true,
-        "active": false,
+        "active": true,
         "hidden": false,
         "friendly": false
       },
@@ -290,7 +290,7 @@
         "enabled": true,
         "level": 2,
         "player": true,
-        "active": true,
+        "active": false,
         "hidden": false,
         "friendly": false
       },
@@ -327,9 +327,11 @@
         "ac": 11,
         "currentAC": 11,
         "id": "ID_681a3a5a8868",
-        "currentHP": 9,
+        "currentHP": 0,
         "tempHP": 0,
-        "status": [],
+        "status": [
+          "Unconscious"
+        ],
         "enabled": true,
         "active": false,
         "hidden": false,
@@ -339,7 +341,7 @@
     ],
     "state": true,
     "name": null,
-    "round": 1,
+    "round": 2,
     "logFile": "",
     "rollHP": false
   },
