@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oblivion/Sessions/Session 1.md",
+                "file": "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/3 - Ikhâr, la cité des voiles.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Session 1"
+              "title": "3 - Ikhâr, la cité des voiles"
             }
           }
         ]
@@ -115,13 +115,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oblivion/Sessions/Session 1.md",
+                "file": "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/3 - Ikhâr, la cité des voiles.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Session 1"
+              "title": "Plan de 3 - Ikhâr, la cité des voiles"
             }
           },
           {
@@ -186,11 +186,11 @@
   },
   "active": "e5e8bca8a533a3ba",
   "lastOpenFiles": [
+    "Oblivion/Sessions/Session 1.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/3 - Ikhâr, la cité des voiles.md",
     "Oblivion/Pangée.md",
     "Oblivion/Où j'en suis.md",
     "Oblivion/Sessions/Session 2.md",
-    "Oblivion/Sessions/Session 1.md",
     "Oblivion/Sessions/J+1.md",
     "Oblivion/Sessions",
     "Oblivion/Objets Magiques/Potion de soins.md",
