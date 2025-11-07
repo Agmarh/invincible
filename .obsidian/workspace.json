@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "016eb02876207d1b",
+        "id": "a85b3278ded4d47f",
         "type": "tabs",
         "children": [
           {
-            "id": "66521f3800917db3",
+            "id": "e5e8bca8a533a3ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/4 - La Sentence des Voies.md",
+                "file": "Oblivion/Où j'en suis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,31 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "4 - La Sentence des Voies"
-            }
-          },
-          {
-            "id": "86f69556af68f497",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Oblivion/Objets Magiques/Nocturno.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Nocturno"
+              "title": "Où j'en suis"
             }
           }
         ]
@@ -131,21 +107,89 @@
       {
         "id": "e70e28c56220440f",
         "type": "tabs",
-        "dimension": 45.61781609195402,
+        "dimension": 56.05769230769231,
         "children": [
+          {
+            "id": "c56cf9106d335454",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Oblivion/Magie.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Rétrolien pour Magie"
+            }
+          },
+          {
+            "id": "4e47f10d50fd6d5c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Mots-clés"
+            }
+          },
           {
             "id": "be134d0fda6ae94e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/4 - La Sentence des Voies.md",
+                "file": "Oblivion/Magie.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de 4 - La Sentence des Voies"
+              "title": "Plan de Magie"
+            }
+          },
+          {
+            "id": "9d2d9031cca91609",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Oblivion/Magie.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Liens sortants de Magie"
+            }
+          },
+          {
+            "id": "8f03eb45c9eb241d",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "DICE_ROLLER_VIEW"
+            }
+          },
+          {
+            "id": "906cfa4287017cc7",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "initiative-tracker-view"
             }
           },
           {
@@ -159,6 +203,26 @@
             }
           },
           {
+            "id": "1badcdeaccf33cd1",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          },
+          {
+            "id": "2c08b389b9746b90",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          },
+          {
             "id": "5a62745186fe25b0",
             "type": "leaf",
             "state": {
@@ -167,14 +231,44 @@
               "icon": "initiative-tracker",
               "title": "Initiative Tracker"
             }
+          },
+          {
+            "id": "a0c3cb06cab5ad86",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          },
+          {
+            "id": "91ef87e2b00f9192",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          },
+          {
+            "id": "92abade9b43a461e",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       },
       {
         "id": "0f121bb01e1cf65f",
         "type": "tabs",
-        "dimension": 54.38218390804598,
+        "dimension": 43.94230769230769,
         "children": [
           {
             "id": "9e0a9507d9fe2fab",
@@ -190,7 +284,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 486.5
+    "width": 461.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,46 +302,46 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "87ea7c8c51cee5cf",
+  "active": "1badcdeaccf33cd1",
   "lastOpenFiles": [
-    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/3 - Ikhâr, la cité des voiles.md",
-    "Oblivion/Bestiaire/Capitain aéromarin.md",
-    "Oblivion/Bestiaire/Baron Blême.md",
-    "Oblivion/Bestiaire/Aéromarin.md",
-    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/4 - La Sentence des Voies.md",
-    "Oblivion/Bestiaire/« Duc » Morgus Montanera 1.md",
-    "Oblivion/Objets Magiques/Nocturno.md",
     "Oblivion/Sessions/Session 2.md",
     "Oblivion/Sessions/Session 1.md",
     "Oblivion/Sessions/J+1.md",
-    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/Effets du Khayolt.md",
-    "Oblivion/Bestiaire/Nain du clan des cadavreux.md",
-    "Oblivion/Bestiaire/Ettin'Grinn.md",
-    "Oblivion/Objets Magiques/Potion de résistance.md",
-    "Oblivion/Objets Magiques/Potion d'escalade.md",
-    "Oblivion/Objets Magiques/Potion de force de géant des collines.md",
+    "Oblivion/Sessions",
+    "Oblivion/Pangée.md",
     "Oblivion/Objets Magiques/Potion de soins.md",
-    "Oblivion/Objets Magiques/Sac sans fond.md",
-    "Oblivion/Objets Magiques/Figurine merveilleuse de corbeau d'argent 1.md",
-    "Oblivion/Objets Magiques/Perle de puissance.md",
+    "Oblivion/Objets Magiques/Potion de résistance.md",
+    "Oblivion/Objets Magiques/Potion de force de géant des collines.md",
+    "Oblivion/Objets Magiques/Potion d'escalade.md",
     "Oblivion/Objets Magiques/Figurine merveilleuse de corbeau d'argent.md",
     "Oblivion/Objets Magiques/Carafe intarissable.md",
     "Oblivion/Objets Magiques/Bottes de marche et de saut.md",
+    "Oblivion/Bestiaire/Capitain aéromarin.md",
+    "Oblivion/Bestiaire/Aéromarin.md",
+    "Oblivion/Où ils sont.md",
+    "Oblivion/Où j'en suis.md",
+    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/3 - Ikhâr, la cité des voiles.md",
+    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/Effets du Khayolt.md",
+    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/2 - Réveil Amer.md",
+    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/1 - Premier voyage en Oblivion.md",
     "Oblivion/Objets Magiques/Nocturno 1.md",
-    "Oblivion/Objets Magiques/Chapeau de déguisement.md",
-    "Oblivion/Images/Oblivion.png",
-    "Oblivion/Images/Oblivion 2 bannière.png",
-    "Oblivion/Pangée.md",
-    "Oblivion/Sessions",
-    "Oblivion/Images/Carte de l'ancienne Pangée.jpg",
-    "Oblivion/Images/Ikhâr map.png",
-    "Oblivion/Images/Ikhâr.png",
+    "Oblivion/L'Empire.md",
+    "Oblivion/Magie.md",
+    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/4 - La Sentence des Voies.md",
     "Oblivion/Images/Epistéa.png",
-    "Oblivion/Images/Anthéone.png",
-    "Oblivion/Images/Alba Secundum.png",
+    "Oblivion/Lieux importants/Epistéa.md",
     "Oblivion/Lieux importants",
+    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 4 Alba-Secundum/2 - Le nid de l'écorcheuse.md",
+    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 4 Alba-Secundum/1 - Les abominations du passé.md",
+    "Oblivion/Images/Carte de l'ancienne Pangée.jpg",
     "Oblivion/Images/Carte de l'ancienne Pangée Vierge.png",
+    "Oblivion/Images/Alba Secundum.png",
     "Oblivion/Images/Caverne d'os.png",
+    "Oblivion/Images/Baron Blême.png",
+    "Oblivion/Images/Anthéone.png",
+    "Oblivion/Images/Cathédrale de Cuivre.png",
+    "Oblivion/Images/Clyve.png",
+    "Oblivion/Images/Fan'Goriah.png",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Le Lac de Morte-Pensée",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Sans titre.canvas",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 4 Alba-Secundum",
