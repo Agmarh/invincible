@@ -125,16 +125,6 @@
             }
           },
           {
-            "id": "906cfa4287017cc7",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "initiative-tracker",
-              "title": "Initiative Tracker"
-            }
-          },
-          {
             "id": "87ea7c8c51cee5cf",
             "type": "leaf",
             "state": {
@@ -142,26 +132,6 @@
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
-            }
-          },
-          {
-            "id": "1badcdeaccf33cd1",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "initiative-tracker",
-              "title": "Initiative Tracker"
-            }
-          },
-          {
-            "id": "5a62745186fe25b0",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "initiative-tracker",
-              "title": "Initiative Tracker"
             }
           },
           {
@@ -175,7 +145,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "0f121bb01e1cf65f",
@@ -214,7 +184,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "906cfa4287017cc7",
+  "active": "91ef87e2b00f9192",
   "lastOpenFiles": [
     "Oblivion/Pangée.md",
     "Oblivion/Où j'en suis.md",
