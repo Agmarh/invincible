@@ -305,7 +305,7 @@
         "ac": 15,
         "currentAC": 15,
         "id": "ID_cb6b59dae80b",
-        "currentHP": 102,
+        "currentHP": 98,
         "tempHP": 0,
         "status": [],
         "enabled": true,
@@ -329,7 +329,7 @@
         "tempHP": 0,
         "status": [],
         "enabled": true,
-        "active": false,
+        "active": true,
         "hidden": false,
         "friendly": false,
         "hit_dice": "11d8+22"
@@ -389,7 +389,7 @@
         "tempHP": 0,
         "status": [],
         "enabled": true,
-        "active": true,
+        "active": false,
         "hidden": false,
         "friendly": false,
         "hit_dice": "5d8+10"
