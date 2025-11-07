@@ -40,7 +40,7 @@ La silhouette féminine se transforme en brume, s’enroule autour du corps de s
 
 Si le porteur échoue, les éclairs noirs le relâchent, il s’éveille brutalement et tombe à terre. Il doit aussitôt faire un <font style="color:green">jet de sauvegarde de Sagesse DD 10</font> pour éviter de perdre définitivement un point dans sa caractéristique majeure (la Force pour un guerrier, l’lntelligence pour un mage, etc.). Si le porteur triomphe, il est traversé par une vague de puissance et de plaisir intense. Il recouvre ses esprits et peut désormais accéder aux pouvoirs de la Première Extase.
 
-Première épreuve : Il verra Ge
+Première épreuve : Il verra Feryenne se jeter sur Valkin, devra pourfendre Feryenne pour sauver l'enfant.
 
 ## Franchir les Extases suivantes
 À partir de la Première Extase, le porteur est appelé l’amant de la Dame d’Ombre. Les quatre Extases suivantes se franchissent de la même façon. Un personnage qui a connu une Extase ne peut pas tenter d’accéder à la prochaine avant d’avoir progressé de deux niveaux (ex : un guerrier de niveau 4 conquiert la Première Extase ; il tentera la Deuxième en devenant un guerrier de niveau 6). S’il échoue à l’épreuve, il ne peut pas la repasser avant le niveau suivant (ex : si le guerrier de niveau 6 échoue, il devra attendre d’être un guerrier de niveau 7 avant de retenter sa chance). 

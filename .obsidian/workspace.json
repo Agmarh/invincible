@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/4 - La Sentence des Voies.md",
+                "file": "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/3 - Ikhâr, la cité des voiles.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "4 - La Sentence des Voies"
+              "title": "3 - Ikhâr, la cité des voiles"
             }
           },
           {
@@ -55,8 +55,7 @@
               "title": "Nocturno"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -140,13 +139,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oblivion/Objets Magiques/Nocturno.md",
+                "file": "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/3 - Ikhâr, la cité des voiles.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Nocturno"
+              "title": "Plan de 3 - Ikhâr, la cité des voiles"
             }
           },
           {
@@ -169,7 +168,8 @@
               "title": "Initiative Tracker"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "0f121bb01e1cf65f",
@@ -208,9 +208,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "86f69556af68f497",
+  "active": "5a62745186fe25b0",
   "lastOpenFiles": [
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/4 - La Sentence des Voies.md",
+    "Oblivion/Objets Magiques/Nocturno.md",
     "Oblivion/Sessions/Session 2.md",
     "Oblivion/Sessions/Session 1.md",
     "Oblivion/Sessions/J+1.md",
@@ -228,7 +229,6 @@
     "Oblivion/Objets Magiques/Figurine merveilleuse de corbeau d'argent.md",
     "Oblivion/Objets Magiques/Carafe intarissable.md",
     "Oblivion/Objets Magiques/Bottes de marche et de saut.md",
-    "Oblivion/Objets Magiques/Nocturno.md",
     "Oblivion/Objets Magiques/Nocturno 1.md",
     "Oblivion/Objets Magiques/Chapeau de déguisement.md",
     "Oblivion/Images/Oblivion.png",
