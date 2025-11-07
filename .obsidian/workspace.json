@@ -32,30 +32,6 @@
             }
           },
           {
-            "id": "ea838606cdce81e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Oblivion/Objets Magiques/Figurine merveilleuse de corbeau d'argent.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Figurine merveilleuse de corbeau d'argent"
-            }
-          },
-          {
             "id": "e3f36a519d80085b",
             "type": "leaf",
             "state": {
@@ -79,8 +55,7 @@
               "title": "Sac sans fond"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -164,13 +139,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oblivion/Objets Magiques/Figurine merveilleuse de corbeau d'argent.md",
+                "file": "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/3 - Ikhâr, la cité des voiles.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Figurine merveilleuse de corbeau d'argent"
+              "title": "Plan de 3 - Ikhâr, la cité des voiles"
             }
           },
           {
@@ -233,8 +208,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ea838606cdce81e7",
+  "active": "e5e8bca8a533a3ba",
   "lastOpenFiles": [
+    "Oblivion/Objets Magiques/Figurine merveilleuse de corbeau d'argent.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/3 - Ikhâr, la cité des voiles.md",
     "Oblivion/Objets Magiques/Bottes de marche et de saut.md",
     "Oblivion/Objets Magiques/Sac sans fond.md",
@@ -248,7 +224,6 @@
     "Oblivion/Objets Magiques/Potion de résistance.md",
     "Oblivion/Objets Magiques/Potion de force de géant des collines.md",
     "Oblivion/Objets Magiques/Potion d'escalade.md",
-    "Oblivion/Objets Magiques/Figurine merveilleuse de corbeau d'argent.md",
     "Oblivion/Objets Magiques/Carafe intarissable.md",
     "Oblivion/Bestiaire/Capitain aéromarin.md",
     "Oblivion/Bestiaire/Aéromarin.md",
