@@ -8,3 +8,10 @@ Ils ont tués le Hibours, vendu sa tête 2500po et acheté 4 potions de soins, u
 
 ## Entrainement 
 Iseult s'est entraîné avec Malathor.
+
+## Sentence des voies
+Baron blême est vivant et a pu s'échapper. Le Duc est mort, éliminé par Malathor.
+
+Rivalt récupère Nocturno et a réussi la première Extase.
+
+N'Djinn récupère le ceinturon de force d'ogre
