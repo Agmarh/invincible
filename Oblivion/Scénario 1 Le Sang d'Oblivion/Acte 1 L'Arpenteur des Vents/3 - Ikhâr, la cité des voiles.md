@@ -75,8 +75,8 @@ Au départ simple baraquements entourant Point Zéro et accueillant les membres 
 
 Il y a de multitude de tentes formant un labyrinthe grouillant d'activité. Un <font style="color:green">jet de Persuasion ou d'Investigation DD 13</font> permettra de dénicher quelques gnomes et demi-orques, pilleurs de tombes naines, prêts à revendre des parchemins magique :
 
-- 1d3 sorts de niveau 1 et 1 sort de niveau 2, 120 po le parchemin de niveau 1et 500 po pour le niveau 2
-- 1d4 potions et 1d3 objets magiques peu courants, 1000 po pour les objets peu courants. Persuasion ou Investigation DD 17 pour les trouver.
+- <font style="color:red">1d3</font> sorts de niveau 1 et 1 sort de niveau 2, 120 po le parchemin de niveau 1 et 500 po pour le niveau 2
+- <font style="color:red">1d4</font> potions et <font style="color:red">1d3</font> objets magiques peu courants, 1000 po pour les objets peu courants. <font style="color:green">Persuasion ou Investigation DD 17</font> pour les trouver.
 
 ## Péripéties
 
