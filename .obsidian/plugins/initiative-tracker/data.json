@@ -315,28 +315,6 @@
         "hit_dice": "12d8+48"
       },
       {
-        "name": "« Duc » Morgus Montanera",
-        "initiative": 12,
-        "static": false,
-        "modifier": 0,
-        "hp": 71,
-        "currentMaxHP": 71,
-        "cr": 5,
-        "ac": "17 (armure de cuir clouté)",
-        "currentAC": "17 (armure de cuir clouté)",
-        "id": "ID_ab69aac8ea3b",
-        "currentHP": 0,
-        "tempHP": 0,
-        "status": [
-          "Unconscious"
-        ],
-        "enabled": true,
-        "active": false,
-        "hidden": false,
-        "friendly": false,
-        "hit_dice": "11d8+22"
-      },
-      {
         "name": "Nain du clan des cadavreux",
         "initiative": 11,
         "static": false,
@@ -371,7 +349,7 @@
         "tempHP": 0,
         "status": [],
         "enabled": true,
-        "active": false,
+        "active": true,
         "hidden": false,
         "friendly": false,
         "hit_dice": "5d8+10"
@@ -571,7 +549,7 @@
         "tempHP": 0,
         "status": [],
         "enabled": true,
-        "active": true,
+        "active": false,
         "hidden": false,
         "friendly": false,
         "hit_dice": "20d8+40"
