@@ -335,26 +335,6 @@
         "hit_dice": "5d8+10"
       },
       {
-        "name": "Capitain aéromarin",
-        "initiative": 2,
-        "static": false,
-        "modifier": 0,
-        "hp": 65,
-        "currentMaxHP": 65,
-        "cr": 2,
-        "ac": 15,
-        "currentAC": 15,
-        "id": "ID_0b9aeba93a68",
-        "currentHP": 7,
-        "tempHP": 0,
-        "status": [],
-        "enabled": true,
-        "active": false,
-        "hidden": false,
-        "friendly": false,
-        "hit_dice": "10d8+20"
-      },
-      {
         "name": "Malathor",
         "initiative": 4,
         "static": false,
