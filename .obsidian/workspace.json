@@ -55,8 +55,7 @@
               "title": "Sac sans fond"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -140,13 +139,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oblivion/Objets Magiques/Sac sans fond.md",
+                "file": "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/3 - Ikhâr, la cité des voiles.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Sac sans fond"
+              "title": "Plan de 3 - Ikhâr, la cité des voiles"
             }
           },
           {
@@ -209,8 +208,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e3f36a519d80085b",
+  "active": "e5e8bca8a533a3ba",
   "lastOpenFiles": [
+    "Oblivion/Objets Magiques/Sac sans fond.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/3 - Ikhâr, la cité des voiles.md",
     "Oblivion/Sessions/Session 1.md",
     "Oblivion/Pangée.md",
@@ -239,7 +239,6 @@
     "Oblivion/Lieux importants/Epistéa.md",
     "Oblivion/Lieux importants",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 4 Alba-Secundum/2 - Le nid de l'écorcheuse.md",
-    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 4 Alba-Secundum/1 - Les abominations du passé.md",
     "Oblivion/Images/Carte de l'ancienne Pangée.jpg",
     "Oblivion/Images/Carte de l'ancienne Pangée Vierge.png",
     "Oblivion/Images/Alba Secundum.png",
