@@ -250,7 +250,7 @@
         "enabled": true,
         "level": 2,
         "player": true,
-        "active": false,
+        "active": true,
         "hidden": false,
         "friendly": false
       },
@@ -325,7 +325,7 @@
         "ac": "11 (armure de cuir)",
         "currentAC": "11 (armure de cuir)",
         "id": "ID_7bc8b8f8595b",
-        "currentHP": 32,
+        "currentHP": 21,
         "tempHP": 0,
         "status": [],
         "enabled": true,
@@ -335,7 +335,7 @@
         "hit_dice": "5d8+10"
       }
     ],
-    "state": false,
+    "state": true,
     "name": null,
     "round": 1,
     "logFile": "",
