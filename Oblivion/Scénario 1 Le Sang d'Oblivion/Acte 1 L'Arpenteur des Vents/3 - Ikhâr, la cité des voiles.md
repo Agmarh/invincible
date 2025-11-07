@@ -10,7 +10,7 @@ Les PJ peuvent rejoindre le village et commencer à discuter avec ses habitants 
 
 - Ikhâr n'est qu'un modeste village la plupart de l'année, composé de quelques dizaines de bâtisses de terre séchée.
 
-- Les natifs forment une peuplade de nains taciturnes et discrets implantés sur ces terres depuis quelques centaines d'années. Ils sont regroupés en familles, sans véritable chef de clan. Les hommes cultivent des vignes souterraines et creusenet des mines de soufre. Mais surtout, ils exploitent depuis cinquante ans des cultures souterraines de Khayolt, un champignon unique aux vertus multiples. Les femmes sont chargées de récolter la rosée piégée dans de gigantesques filets tendus sur la surface du plateau : les Voiles, c'est un apport d'eau considérable.
+- Les natifs forment une peuplade de nains taciturnes et discrets implantés sur ces terres depuis quelques centaines d'années. Ils sont regroupés en familles, sans véritable chef de clan. Les hommes cultivent des vignes souterraines et creusent des mines de soufre. Mais surtout, ils exploitent depuis cinquante ans des cultures souterraines de Khayolt, un champignon unique aux vertus multiples. Les femmes sont chargées de récolter la rosée piégée dans de gigantesques filets tendus sur la surface du plateau : les Voiles, c'est un apport d'eau considérable.
 
 - L'aspect physique des Ikhârians s'accorde avec leur caractère rude de montagnard, ils ont la peau tannée, déformés par de multiples scarifications rituelles, encadrés par de longues barbes nouées. Les femmes sont d'une grande beauté mais restent constamment voilées d'étoffes qui masquent leurs traits.
 
