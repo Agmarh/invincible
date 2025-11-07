@@ -99,15 +99,16 @@ Les échoppes sont disséminées parmi les maisons basses en terre cuite des Ikh
 
 ## Ambiance du lieu
 
-Les nains autochtones revendre les hectolitres de vin fabriqués pendant l'année.
+Les nains autochtones revendent les hectolitres de vin fabriqués pendant l'année.
 
-Le vin de Khayolt, bon marché (5 pc le verre) à un goût soufré. La liqueur de Khayolt, très chère (1 po le verre), a la faveur des amateurs. Chacune des substances peut déclencher les effets secondaires.
+Le vin de Khayolt, bon marché (5 pc le verre) à un goût soufré. La liqueur de Khayolt, très chère (1 po le verre), a la faveur des amateurs. Chacune des substances peut déclencher les effets secondaires : [[Effets du Khayolt]].
 
 Les PJ peuvent acheter toute sorte d'équipements, des animaux (dont 2 hippogriffes sauvages à 1000 po chacun et 1 hippogriffe dressé à 4000 po) ou essayer le scarfing, un phénomène de mode qui consiste à se faire scarifier n'importe quelle partie du corps selon des motifs copiés chez les chamans (douloureux, moyennement esthétique, parfaitement inutile ; les jeunes adorent).
 
 ## Péripéties
 
 Les Cadavreux : Ettin'Grinn et 3 autres nains tentent d'assassiner les PJs.
+- [[Ettin'Grinn]], [[Nain]]
 
 # 6 - L'Auberge de l'Hallucinose
 
