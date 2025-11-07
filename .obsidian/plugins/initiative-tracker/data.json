@@ -293,6 +293,26 @@
         "active": false,
         "hidden": false,
         "friendly": false
+      },
+      {
+        "name": "Malathor",
+        "initiative": 15,
+        "static": false,
+        "modifier": 0,
+        "hp": 130,
+        "currentMaxHP": 130,
+        "cr": 8,
+        "ac": 17,
+        "currentAC": 17,
+        "id": "ID_c9db9b680a0a",
+        "currentHP": 130,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false,
+        "hit_dice": "20d8+40"
       }
     ],
     "state": false,
