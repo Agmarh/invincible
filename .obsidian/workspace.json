@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oblivion/Sessions/Session 2.md",
+                "file": "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/4 - La Sentence des Voies.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Session 2"
+              "title": "4 - La Sentence des Voies"
             }
           }
         ]
@@ -115,13 +115,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oblivion/Sessions/Session 2.md",
+                "file": "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/4 - La Sentence des Voies.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Session 2"
+              "title": "Plan de 4 - La Sentence des Voies"
             }
           },
           {
@@ -144,8 +144,7 @@
               "title": "Initiative Tracker"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "0f121bb01e1cf65f",
@@ -186,16 +185,17 @@
   },
   "active": "e5e8bca8a533a3ba",
   "lastOpenFiles": [
-    "Oblivion/Sessions/Session 1.md",
-    "Oblivion/Sessions/Session 2.md",
+    "Oblivion/Sessions/J+2.md",
+    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/4 - La Sentence des Voies.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/3 - Ikhâr, la cité des voiles.md",
+    "Oblivion/Sessions/Session 2.md",
+    "Oblivion/Sessions/Session 1.md",
     "Annexe/Sortilèges/Niveau 2/Invisibilité.md",
     "Oblivion/Objets Magiques/Figurine merveilleuse de corbeau d'argent.md",
     "Oblivion/Objets Magiques/Bottes de marche et de saut.md",
     "Oblivion/Objets Magiques/Sac sans fond.md",
     "Oblivion/Pangée.md",
     "Oblivion/Où j'en suis.md",
-    "Oblivion/Sessions/J+1.md",
     "Oblivion/Sessions",
     "Oblivion/Objets Magiques/Potion de soins.md",
     "Oblivion/Objets Magiques/Potion de résistance.md",
@@ -211,7 +211,6 @@
     "Oblivion/Objets Magiques/Nocturno 1.md",
     "Oblivion/L'Empire.md",
     "Oblivion/Magie.md",
-    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/4 - La Sentence des Voies.md",
     "Oblivion/Images/Epistéa.png",
     "Oblivion/Lieux importants/Epistéa.md",
     "Oblivion/Lieux importants",
