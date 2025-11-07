@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oblivion/Objets Magiques/Potion de soins 1.md",
+                "file": "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/3 - Ikhâr, la cité des voiles.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Potion de soins 1"
+              "title": "3 - Ikhâr, la cité des voiles"
             }
           }
         ]
@@ -304,8 +304,10 @@
   },
   "active": "66521f3800917db3",
   "lastOpenFiles": [
+    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/4 - La Sentence des Voies.md",
+    "Oblivion/Objets Magiques/Potion de force de géant des collines.md",
+    "Oblivion/Objets Magiques/Potion de résistance.md",
     "Oblivion/Objets Magiques/Potion de soins.md",
-    "Oblivion/Objets Magiques/Potion de soins 1.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/3 - Ikhâr, la cité des voiles.md",
     "Oblivion/Objets Magiques/Sac sans fond.md",
     "Oblivion/Objets Magiques/Figurine merveilleuse de corbeau d'argent 1.md",
@@ -313,7 +315,6 @@
     "Oblivion/Objets Magiques/Figurine merveilleuse de corbeau d'argent.md",
     "Oblivion/Objets Magiques/Carafe intarissable.md",
     "Oblivion/Objets Magiques/Bottes de marche et de saut.md",
-    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/4 - La Sentence des Voies.md",
     "Oblivion/Objets Magiques/Nocturno.md",
     "Oblivion/Objets Magiques/Nocturno 1.md",
     "Oblivion/Objets Magiques/Chapeau de déguisement.md",
@@ -333,7 +334,6 @@
     "Oblivion/Images/Carte de l'ancienne Pangée.jpg",
     "Oblivion/L'Empire.md",
     "Oblivion/Les cantiques de Justicaar.md",
-    "Oblivion/Magie.md",
     "Oblivion/Images/Ikhâr map.png",
     "Oblivion/Images/Ikhâr.png",
     "Oblivion/Images/Epistéa.png",
