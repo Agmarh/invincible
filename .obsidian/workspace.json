@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oblivion/Où j'en suis.md",
+                "file": "Oblivion/Pangée.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Où j'en suis"
+              "title": "Pangée"
             }
           }
         ]
@@ -302,8 +302,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1badcdeaccf33cd1",
+  "active": "e5e8bca8a533a3ba",
   "lastOpenFiles": [
+    "Oblivion/Où j'en suis.md",
     "Oblivion/Sessions/Session 2.md",
     "Oblivion/Sessions/Session 1.md",
     "Oblivion/Sessions/J+1.md",
@@ -319,7 +320,6 @@
     "Oblivion/Bestiaire/Capitain aéromarin.md",
     "Oblivion/Bestiaire/Aéromarin.md",
     "Oblivion/Où ils sont.md",
-    "Oblivion/Où j'en suis.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/3 - Ikhâr, la cité des voiles.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/Effets du Khayolt.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/2 - Réveil Amer.md",
