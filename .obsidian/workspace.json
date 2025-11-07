@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/4 - La Sentence des Voies.md",
+                "file": "Oblivion/Bestiaire/Aéromarin.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "4 - La Sentence des Voies"
+              "title": "Aéromarin"
             }
           },
           {
@@ -139,13 +139,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/4 - La Sentence des Voies.md",
+                "file": "Oblivion/Bestiaire/Aéromarin.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de 4 - La Sentence des Voies"
+              "title": "Plan de Aéromarin"
             }
           },
           {
@@ -208,10 +208,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "91ef87e2b00f9192",
+  "active": "e5e8bca8a533a3ba",
   "lastOpenFiles": [
-    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/Effets du Khayolt.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/4 - La Sentence des Voies.md",
+    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/Effets du Khayolt.md",
     "Oblivion/Sessions/J+2.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/3 - Ikhâr, la cité des voiles.md",
     "Oblivion/Sessions/Session 2.md",
