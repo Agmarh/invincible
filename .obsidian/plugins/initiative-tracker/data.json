@@ -256,7 +256,7 @@
       },
       {
         "name": "N'djin",
-        "initiative": 11,
+        "initiative": 20,
         "static": false,
         "modifier": 3,
         "hp": 18,
@@ -296,7 +296,7 @@
       },
       {
         "name": "Hibours, vieux",
-        "initiative": 3,
+        "initiative": 5,
         "static": false,
         "modifier": 0,
         "hp": 80,
