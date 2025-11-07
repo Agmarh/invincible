@@ -216,7 +216,7 @@
     "creatures": [
       {
         "name": "Rivalt",
-        "initiative": 2,
+        "initiative": 10,
         "static": false,
         "modifier": -1,
         "hp": 20,
@@ -236,7 +236,7 @@
       },
       {
         "name": "Iseult",
-        "initiative": 10,
+        "initiative": 13,
         "static": false,
         "modifier": 0,
         "hp": 17,
@@ -250,13 +250,13 @@
         "enabled": true,
         "level": 2,
         "player": true,
-        "active": true,
+        "active": false,
         "hidden": false,
         "friendly": false
       },
       {
         "name": "N'djin",
-        "initiative": 20,
+        "initiative": 17,
         "static": false,
         "modifier": 3,
         "hp": 18,
@@ -276,7 +276,7 @@
       },
       {
         "name": "Kogarm",
-        "initiative": 1,
+        "initiative": 10,
         "static": false,
         "modifier": 3,
         "hp": 20,
@@ -293,75 +293,11 @@
         "active": false,
         "hidden": false,
         "friendly": false
-      },
-      {
-        "name": "Hibours, vieux",
-        "initiative": 5,
-        "static": false,
-        "modifier": 0,
-        "hp": 80,
-        "currentMaxHP": 80,
-        "cr": 4,
-        "ac": "13 (armure naturelle)",
-        "currentAC": "13 (armure naturelle)",
-        "id": "ID_494a582baa49",
-        "currentHP": 0,
-        "tempHP": 0,
-        "status": [
-          "Unconscious"
-        ],
-        "enabled": true,
-        "active": false,
-        "hidden": false,
-        "friendly": false,
-        "hit_dice": "7d10+21"
-      },
-      {
-        "name": "Nain du clan des cadavreux",
-        "initiative": 4,
-        "static": false,
-        "modifier": 0,
-        "hp": 32,
-        "currentMaxHP": 32,
-        "cr": "1/2",
-        "ac": "11 (armure de cuir)",
-        "currentAC": "11 (armure de cuir)",
-        "id": "ID_7bc8b8f8595b",
-        "currentHP": 0,
-        "tempHP": 0,
-        "status": [
-          "Unconscious"
-        ],
-        "enabled": true,
-        "active": false,
-        "hidden": false,
-        "friendly": false,
-        "hit_dice": "5d8+10"
-      },
-      {
-        "name": "Fan'Goriah",
-        "initiative": 2,
-        "static": false,
-        "modifier": 0,
-        "hp": 77,
-        "currentMaxHP": 77,
-        "cr": 5,
-        "ac": "16 (cuirasse)",
-        "currentAC": "16 (cuirasse)",
-        "id": "ID_cb89a83b78db",
-        "currentHP": 77,
-        "tempHP": 0,
-        "status": [],
-        "enabled": true,
-        "active": false,
-        "hidden": false,
-        "friendly": false,
-        "hit_dice": "14d8+14"
       }
     ],
-    "state": true,
+    "state": false,
     "name": null,
-    "round": 6,
+    "round": 1,
     "logFile": "",
     "rollHP": false
   },
