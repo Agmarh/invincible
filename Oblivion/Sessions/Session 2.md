@@ -16,4 +16,4 @@ Rivalt récupère Nocturno et a réussi la première Extase.
 
 N'Djinn récupère [[Ceinturon de force d'ogre]]
 
-Les PJs sont désormais les propriétaires de la compagnie avec Fan
+Les PJs sont désormais les propriétaires de la compagnie avec [[Fan'Goriah]]. [[Malathor]] est reparti avec [[Rhâvi Shândar]] jusqu'à Anthéone, le siège du culte de Justicaar.
