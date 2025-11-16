@@ -11,10 +11,24 @@
             "id": "6ebfada98aec4bcc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Oblivion/Sessions/Session 2.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "title": "Session 2"
             }
           }
         ]
@@ -135,6 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Oblivion/Sessions/Session 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +159,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétroliens"
+              "title": "Rétrolien pour Session 2"
             }
           },
           {
@@ -153,11 +168,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Oblivion/Sessions/Session 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants"
+              "title": "Liens sortants de Session 2"
             }
           },
           {
@@ -227,13 +243,13 @@
   },
   "active": "6ebfada98aec4bcc",
   "lastOpenFiles": [
-    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/4 - La Sentence des Voies.md",
+    "Oblivion/Sessions/J+2.md",
     "Oblivion/Sessions/Session 2.md",
+    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/4 - La Sentence des Voies.md",
     "Oblivion/Objets Magiques/Nocturno.md",
     "Oblivion/Bestiaire/Capitain aéromarin.md",
     "Oblivion/Bestiaire/Aéromarin.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/Effets du Khayolt.md",
-    "Oblivion/Sessions/J+2.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/3 - Ikhâr, la cité des voiles.md",
     "Oblivion/Sessions/Session 1.md",
     "Annexe/Sortilèges/Niveau 2/Invisibilité.md",

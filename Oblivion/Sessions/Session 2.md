@@ -14,4 +14,6 @@ Baron blême est vivant et a pu s'échapper. Le Duc est mort, éliminé par Mala
 
 Rivalt récupère Nocturno et a réussi la première Extase.
 
-N'Djinn récupère le ceinturon de force d'ogre.
+N'Djinn récupère [[Ceinturon de force d'ogre]]
+
+Les PJs sont encore sur le site du crash
