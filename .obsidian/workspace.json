@@ -11,12 +11,24 @@
             "id": "6ebfada98aec4bcc",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Oblivion/Images/Carte de l'ancienne Pangée.jpg"
+                "file": "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/3 - Ikhâr, la cité des voiles.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-image",
-              "title": "Carte de l'ancienne Pangée"
+              "icon": "lucide-file",
+              "title": "3 - Ikhâr, la cité des voiles"
             }
           }
         ]
@@ -137,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oblivion/Images/Carte de l'ancienne Pangée.jpg",
+                "file": "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/3 - Ikhâr, la cité des voiles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +159,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Carte de l'ancienne Pangée"
+              "title": "Rétrolien pour 3 - Ikhâr, la cité des voiles"
             }
           },
           {
@@ -156,12 +168,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oblivion/Images/Carte de l'ancienne Pangée.jpg",
+                "file": "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/3 - Ikhâr, la cité des voiles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de Carte de l'ancienne Pangée"
+              "title": "Liens sortants de 3 - Ikhâr, la cité des voiles"
             }
           },
           {
@@ -231,13 +243,14 @@
   },
   "active": "6ebfada98aec4bcc",
   "lastOpenFiles": [
+    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/4 - La Sentence des Voies.md",
+    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/Infos sur les Vaisseaux du Vent.md",
+    "Oblivion/Images/Carte de l'ancienne Pangée.jpg",
     "Oblivion/Images/Carte de l'ancienne Pangée Vierge.png",
     "Oblivion/L'Empire.md",
-    "Oblivion/Images/Carte de l'ancienne Pangée.jpg",
     "Oblivion/Les cantiques de Justicaar.md",
     "Oblivion/Sessions/Session 2.md",
     "Oblivion/Sessions/J+2.md",
-    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/4 - La Sentence des Voies.md",
     "Oblivion/Objets Magiques/Nocturno.md",
     "Oblivion/Bestiaire/Capitain aéromarin.md",
     "Oblivion/Bestiaire/Aéromarin.md",
