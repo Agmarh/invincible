@@ -16,4 +16,4 @@ Rivalt récupère Nocturno et a réussi la première Extase.
 
 N'Djinn récupère [[Ceinturon de force d'ogre]]
 
-Les PJs sont encore sur le site du crash
+Les PJs sont désormais les propriétaires de la compagnie avec Fan
