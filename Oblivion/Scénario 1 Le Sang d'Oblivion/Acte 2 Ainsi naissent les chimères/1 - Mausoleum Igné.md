@@ -29,7 +29,7 @@ Le couloir central s'élargit et les PJ entrent dans une immense cathédrale, o�
 
 Autour de lui se pressent de nombreux mékhanôms, les bras chargés de plans de bataille ou de nouvelles inventions de plus en plus meurtrières, mais aussi ces étranges petit élémentaires qui semblent être porteurs de messages.
 
-![[Cathédrale de Cuivre.png]]
+![[Cathedrale de Cuivre.png]]
 
 Réghûlus projette une aura de puissance telle qu'elle en est presque palpable. A l'arrivée des PJ :
 
@@ -82,7 +82,7 @@ Les PJ ont un round avant d'être au contact. <font style="color:yellow">"Partez
 
 Ne pas oublier les règles de la magie en Oblivion !
 
-![[Mausoleum Ignée.png]]
+![[Mausoleum Ignee.png]]
 ## Premier round
 
 6 Ghûraghastas sont proches des PJ, dont 3 à l'entrée du couloir.

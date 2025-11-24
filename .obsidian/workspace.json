@@ -13,10 +13,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Oblivion/Images/Anthéone.png"
+                "file": "Oblivion/Images/Meduse.png"
               },
               "icon": "lucide-image",
-              "title": "Anthéone"
+              "title": "Meduse"
             }
           }
         ]
@@ -231,12 +231,17 @@
   },
   "active": "efc7fbc9dabff410",
   "lastOpenFiles": [
-    "Oblivion/Images/Baron Bleme.png",
-    "Oblivion/Images/Carte de l'ancienne Pangee.jpg",
-    "Oblivion/Images/Carte de l'ancienne Pangee Vierge.png",
-    "Oblivion/Images/Epistéa.png",
-    "Oblivion/Images/Anthéone.png",
-    "Oblivion/Images/Alba Secundum.png",
+    "Oblivion/Images/Mausoleum Ignee.png",
+    "Oblivion/Images/Le poignard polymorphe.jpg",
+    "Oblivion/Images/La Faucheuse.jpg",
+    "Oblivion/Images/L'attaque de la Gondolfiere de l'arpenteur.png",
+    "Oblivion/Images/Ikhar map.png",
+    "Oblivion/Images/Ikhar.png",
+    "Oblivion/Images/Guerriere Soong.jpg",
+    "Oblivion/Images/Fan'Goriah.png",
+    "Oblivion/Images/Epistea.png",
+    "Oblivion/Images/chevalier-dragon.jpg",
+    "Oblivion/Images/Cathedrale de Cuivre.png",
     "Oblivion/Pangée.md",
     "Oblivion/Sessions/Session 2.md",
     "Oblivion/Sessions/J+3.md",
@@ -264,10 +269,6 @@
     "Oblivion/Où ils sont.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/2 - Réveil Amer.md",
     "Oblivion/Lieux importants",
-    "Oblivion/Images/Caverne d'os.png",
-    "Oblivion/Images/Cathédrale de Cuivre.png",
-    "Oblivion/Images/Clyve.png",
-    "Oblivion/Images/Fan'Goriah.png",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Le Lac de Morte-Pensée",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Sans titre.canvas",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 4 Alba-Secundum",
