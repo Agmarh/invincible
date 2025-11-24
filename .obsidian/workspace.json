@@ -13,10 +13,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Oblivion/Images/Epistéa.png"
+                "file": "Oblivion/Images/Anthéone.png"
               },
               "icon": "lucide-image",
-              "title": "Epistéa"
+              "title": "Anthéone"
             }
           }
         ]
@@ -229,13 +229,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "87ea7c8c51cee5cf",
+  "active": "efc7fbc9dabff410",
   "lastOpenFiles": [
-    "Oblivion/Images/Baron Blême.png",
+    "Oblivion/Images/Baron Bleme.png",
+    "Oblivion/Images/Carte de l'ancienne Pangee.jpg",
+    "Oblivion/Images/Carte de l'ancienne Pangee Vierge.png",
+    "Oblivion/Images/Epistéa.png",
     "Oblivion/Images/Anthéone.png",
     "Oblivion/Images/Alba Secundum.png",
-    "Oblivion/Images/Carte de l'ancienne Pangée.jpg",
-    "Oblivion/Images/Carte de l'ancienne Pangée Vierge.png",
     "Oblivion/Pangée.md",
     "Oblivion/Sessions/Session 2.md",
     "Oblivion/Sessions/J+3.md",
@@ -262,7 +263,6 @@
     "Oblivion/Objets Magiques/Carafe intarissable.md",
     "Oblivion/Où ils sont.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/2 - Réveil Amer.md",
-    "Oblivion/Images/Epistéa.png",
     "Oblivion/Lieux importants",
     "Oblivion/Images/Caverne d'os.png",
     "Oblivion/Images/Cathédrale de Cuivre.png",
