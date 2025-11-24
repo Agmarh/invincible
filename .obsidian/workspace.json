@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "d8d708a1bc25e551",
+        "id": "e50a2c492d7578f3",
         "type": "tabs",
         "children": [
           {
-            "id": "6ebfada98aec4bcc",
+            "id": "65814bb8a6ef3b9a",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "Oblivion/Images/Carte de l'ancienne Pangée Vierge.png"
+                "file": "Oblivion/Images/Epistéa.png"
               },
               "icon": "lucide-image",
-              "title": "Carte de l'ancienne Pangée Vierge"
+              "title": "Epistéa"
             }
           }
         ]
@@ -229,16 +229,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6ebfada98aec4bcc",
+  "active": "65814bb8a6ef3b9a",
   "lastOpenFiles": [
+    "Oblivion/Images/Baron Blême.png",
+    "Oblivion/Images/Anthéone.png",
+    "Oblivion/Images/Alba Secundum.png",
+    "Oblivion/Images/Carte de l'ancienne Pangée.jpg",
+    "Oblivion/Images/Carte de l'ancienne Pangée Vierge.png",
     "Oblivion/Pangée.md",
     "Oblivion/Sessions/Session 2.md",
     "Oblivion/Sessions/J+3.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/4 - La Sentence des Voies.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/3 - Ikhâr, la cité des voiles.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/Infos sur les Vaisseaux du Vent.md",
-    "Oblivion/Images/Carte de l'ancienne Pangée.jpg",
-    "Oblivion/Images/Carte de l'ancienne Pangée Vierge.png",
     "Oblivion/L'Empire.md",
     "Oblivion/Les cantiques de Justicaar.md",
     "Oblivion/Objets Magiques/Nocturno.md",
@@ -259,13 +262,9 @@
     "Oblivion/Objets Magiques/Carafe intarissable.md",
     "Oblivion/Où ils sont.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/2 - Réveil Amer.md",
-    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/1 - Premier voyage en Oblivion.md",
     "Oblivion/Images/Epistéa.png",
     "Oblivion/Lieux importants",
-    "Oblivion/Images/Alba Secundum.png",
     "Oblivion/Images/Caverne d'os.png",
-    "Oblivion/Images/Baron Blême.png",
-    "Oblivion/Images/Anthéone.png",
     "Oblivion/Images/Cathédrale de Cuivre.png",
     "Oblivion/Images/Clyve.png",
     "Oblivion/Images/Fan'Goriah.png",
