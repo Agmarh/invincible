@@ -8,7 +8,7 @@
 > 
 > Elle continue ses moulinets en entamant une danse gracieuse autour de vous.
 
-![[Sérénité.png]]
+![[Serenite.png]]
 - <font style="color:green">Jet de sauvegarde de Charisme DD 20</font>
 	- Ceux qui échouent s'attachent aussitôt à Sérénité comme si elle était la personne la plus importante de l'univers à leurs yeux. Pour eux, elle est l'incarnation des rêves de pureté et d'innocence. Ils savent désormais qu'ils seront prêt à tout pour la protéger, car elle représente l'étincelle de bonté présente au cœur de chaque créature vivante.
 	- Les autres perçoivent clairement la puissance respectable de l'entité qui leur fait face, et sentent son incroyable bonté.

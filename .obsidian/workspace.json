@@ -11,12 +11,24 @@
             "id": "65814bb8a6ef3b9a",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Oblivion/Images/Meduse.png"
+                "file": "Oblivion/Pangée.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-image",
-              "title": "Meduse"
+              "icon": "lucide-file",
+              "title": "Pangée"
             }
           }
         ]
@@ -229,19 +241,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "efc7fbc9dabff410",
+  "active": "65814bb8a6ef3b9a",
   "lastOpenFiles": [
+    "Oblivion/Images/Serenite.png",
+    "Oblivion/Images/Valkin.png",
+    "Oblivion/Images/Tombeau du roi fou.png",
+    "Oblivion/Images/Oblivion 2 banniere.png",
+    "Oblivion/Images/Plan citerne.jpg",
+    "Oblivion/Images/Mekhanom.png",
+    "Oblivion/Images/Meduse.png",
     "Oblivion/Images/Mausoleum Ignee.png",
     "Oblivion/Images/Le poignard polymorphe.jpg",
     "Oblivion/Images/La Faucheuse.jpg",
     "Oblivion/Images/L'attaque de la Gondolfiere de l'arpenteur.png",
-    "Oblivion/Images/Ikhar map.png",
-    "Oblivion/Images/Ikhar.png",
-    "Oblivion/Images/Guerriere Soong.jpg",
-    "Oblivion/Images/Fan'Goriah.png",
-    "Oblivion/Images/Epistea.png",
-    "Oblivion/Images/chevalier-dragon.jpg",
-    "Oblivion/Images/Cathedrale de Cuivre.png",
     "Oblivion/Pangée.md",
     "Oblivion/Sessions/Session 2.md",
     "Oblivion/Sessions/J+3.md",

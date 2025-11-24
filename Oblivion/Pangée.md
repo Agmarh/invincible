@@ -1,6 +1,6 @@
 ```leaflet
 id: pangee-scenario-1
-image: [[Carte de l'ancienne Pangée.jpg]]
+image: [[Carte de l'ancienne Pangee.jpg]]
 bounds: [[0,0], [1629, 2280]] ### Size of the map in px Height_y, Width_x. Ignore 0,0  
 height: 850px ### Size of the leaflet embed in px on your screen  
 width: 95% ### Size of the leaflet embed in your note  
