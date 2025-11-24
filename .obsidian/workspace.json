@@ -11,24 +11,12 @@
             "id": "6ebfada98aec4bcc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Oblivion/Sessions/Session 2.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "Oblivion/Images/Carte de l'ancienne Pangée Vierge.png"
               },
-              "icon": "lucide-file",
-              "title": "Session 2"
+              "icon": "lucide-image",
+              "title": "Carte de l'ancienne Pangée Vierge"
             }
           }
         ]
@@ -243,6 +231,8 @@
   },
   "active": "6ebfada98aec4bcc",
   "lastOpenFiles": [
+    "Oblivion/Pangée.md",
+    "Oblivion/Sessions/Session 2.md",
     "Oblivion/Sessions/J+3.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/4 - La Sentence des Voies.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/3 - Ikhâr, la cité des voiles.md",
@@ -251,7 +241,6 @@
     "Oblivion/Images/Carte de l'ancienne Pangée Vierge.png",
     "Oblivion/L'Empire.md",
     "Oblivion/Les cantiques de Justicaar.md",
-    "Oblivion/Sessions/Session 2.md",
     "Oblivion/Objets Magiques/Nocturno.md",
     "Oblivion/Bestiaire/Capitain aéromarin.md",
     "Oblivion/Bestiaire/Aéromarin.md",
@@ -261,7 +250,6 @@
     "Oblivion/Objets Magiques/Figurine merveilleuse de corbeau d'argent.md",
     "Oblivion/Objets Magiques/Bottes de marche et de saut.md",
     "Oblivion/Objets Magiques/Sac sans fond.md",
-    "Oblivion/Pangée.md",
     "Oblivion/Où j'en suis.md",
     "Oblivion/Sessions",
     "Oblivion/Objets Magiques/Potion de soins.md",
