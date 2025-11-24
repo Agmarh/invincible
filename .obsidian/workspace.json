@@ -11,12 +11,24 @@
             "id": "65814bb8a6ef3b9a",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Oblivion/Images/Carte de l'ancienne Pangee.jpg"
+                "file": "Oblivion/Pangée.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-image",
-              "title": "Carte de l'ancienne Pangee"
+              "icon": "lucide-file",
+              "title": "Pangée"
             }
           }
         ]
@@ -232,6 +244,7 @@
   },
   "active": "65814bb8a6ef3b9a",
   "lastOpenFiles": [
+    "Oblivion/Images/Carte de l'ancienne Pangee.jpg",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/Infos sur les Vaisseaux du Vent.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/1 - Mausoleum Igné.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/4 - La Sentence des Voies.md",
@@ -268,7 +281,6 @@
     "Oblivion/Objets Magiques/Potion d'escalade.md",
     "Oblivion/Objets Magiques/Carafe intarissable.md",
     "Oblivion/Où ils sont.md",
-    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/2 - Réveil Amer.md",
     "Oblivion/Lieux importants",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Le Lac de Morte-Pensée",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Sans titre.canvas",
