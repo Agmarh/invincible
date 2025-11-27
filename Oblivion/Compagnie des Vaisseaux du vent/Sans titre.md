@@ -34,48 +34,32 @@ Moyenne raisonnable :
 ### Revenus des 3 comptoirs mineurs
 3 × 225 po = **675 po**
 ### ➡ **Revenus totaux = 4 575 po / décade**
-Arrondissons à : **≈ 4 600 po / décade**  
+Arrondissons à : **≈ 4 575 po / décade**  
 
 # 🧾 **Coûts de la Compagnie**
-
 ### 1) Flotte
-
 4 gondolfières :
-
-- Équipages (100 po) → 400 po
-    
+- Équipages (100 po) → 400 po 
 - Maintenance (40 po) → 160 po  
     ➡ **560 po**
-    
 
 ### 2) Administration & pots-de-vin
-
 ➡ **150 po**
 
 ### 3) Entretien des 10 comptoirs
-
 150 po / comptoir → 1 500 po
 
 ### 4) Divers (taxes, droits, imprévus)
-
 ➡ **200 po**
 
 ### ➡ **Coût total = 2 410 po / décade**
-
 Arrondissons à **2 400 po**.
 
----
-
 # 💸 **Bilan financier**
-
 ### Revenus : **≈ 4 600 po**
-
 ### Dépenses : **≈ 2 400 po**
-
 ### ➡ **Bénéfice net = ~2 200 po / décade**
-
 C’est exactement ce que tu cherchais :
-
 - **Rentable mais pas explosif**
     
 - **Les PJ peuvent améliorer/booster les revenus**
