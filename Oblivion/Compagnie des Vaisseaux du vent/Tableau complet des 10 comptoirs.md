@@ -7,46 +7,30 @@
 
 **Menaces Baron Blême :**
 - Sabotage discret des stocks de Khayolt
-    
 - Corruption d’employés  
-    **Opportunités PJ :**
-    
+
+**Opportunités PJ :**
 - Assurer sécurité → +300 po
-    
 - Accès à de nouveaux fournisseurs → +10% revenus
-    
-
----
-
 ### **2. Carcéa — Port majeur de Khoros**
-
 **Revenu :** 700 po  
 **Risques :**
-
-- Taxes soudainement augmentées
-    
+- Taxes soudainement augmentées   
 - Crime organisé (rançons)  
-    **Menaces Blême :**
-    
+
+**Menaces Baron Blême :**
 - Manipule la douane pour bloquer des cargaisons  
-    **Opportunités PJ :**
-    
+
+**Opportunités PJ :**    
 - Diplomatie → réduire taxes → +200 po
-    
 - Briser un réseau criminel → +450 po
-    
-
----
-
 ### **3. Madi’Maluk — Le Grand Bazar**
-
 **Revenu :** 650 po  
 **Risques :**
-
-- Concurrence féroce de marchands rivaux
-    
+- Concurrence féroce de marchands rivaux 
 - Marchandises contrefaites  
-    **Menaces Blême :**
+
+**Menaces Blême :**
     
 - Diffuse rumeurs qu’un PJ est impliqué dans une fraude  
     **Opportunités PJ :**
