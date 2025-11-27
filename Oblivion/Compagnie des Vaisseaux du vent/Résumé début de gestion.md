@@ -63,20 +63,3 @@ Des pots-de-vin sont indispensables pour survivre face aux guildes rivales.
 ### Revenus : **4 575 po**
 ### Dépenses : **4 320 po**
 ### ➡ **Bénéfice net = 255 po / décade**
-
-
-# 📒 **Résumé clair à donner aux joueurs**
-
-### ➤ **Capital de Compagnie : 9 250 po**
-
-### ➤ **Comptoirs : 10**
-
-### ➤ **Flotte : 4 gondolfières**
-
-### ➤ **Revenus par décade : 4 600 po**
-
-### ➤ **Dépenses par décade : 2 400 po**
-
-### ➤ **Bénéfice : +2 200 po / décade**
-
-### ➤ **Bénéfices distribués (si tu veux) : selon parts**
