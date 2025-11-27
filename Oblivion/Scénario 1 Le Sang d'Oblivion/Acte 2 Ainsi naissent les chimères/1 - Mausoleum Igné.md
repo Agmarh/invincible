@@ -2,7 +2,7 @@
 > 
 > Vous entendez soudain le piétinement lourd sur le sol, vous sentez une odeur âcre de sueur animal. Une ombre vous recouvre, vous voyez un tigre noir à dent de sabre, dont la silhouette dépasse largement celle d'un éléphant. Sa robe couleur nuit est parsemée d'éclats de gemmes, ses griffes sont faites de diamant pur. Un ronronnement gronde.
 > 
-> <font style="color:yellow">"Du calme, Spark. Tu vois bien que ce sont des amis"</font> annonce une voix enfantine. Assise en tailleur sur le dos de la bête, vous voyez une petite fille d'une dizaine d'années, le menton appuyé sur ses mains, une épée de bois posée sur les genoux. Elle se redresse et saute jusqu'à vos pieds et commence à exécuter quelques moulinets avec son épée : <font style="color:yellow">"Yaaaa, Yaaa !"</font>. Puis elle s'arrête devant un PJ "gentil" (Loyal Bon de préférence).
+> <font style="color:yellow">"Du calme, Spark. Tu vois bien que ce sont des amis"</font> annonce une voix enfantine. Assise en tailleur sur le dos de la bête, vous voyez une petite fille d'une dizaine d'années, le menton appuyé sur ses mains, une épée de bois posée sur les genoux. Elle se redresse et saute jusqu'à vos pieds et commence à exécuter quelques moulinets avec son épée : <font style="color:yellow">"Yaaaa, Yaaa !"</font>. Puis elle s'arrête devant Iseult (un PJ "gentil", Loyal Bon de préférence).
 > 
 > Un aura de puissance incroyable émane de la petite fille : <font style="color:yellow">"Bonjour, je suis Sérénité ! Vous êtes venus du Vrai Monde pour me délivrer ? Vous devez être de vaillants chevaliers. Yaaaa, Yaaaa"</font>
 > 
