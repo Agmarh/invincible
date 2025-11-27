@@ -112,18 +112,14 @@
 **Opportunités PJ :**
 - Nettoyer un culte / trafic → +150 po
 ### **10. Kar’Durhim — Comptoir nain / minerais & magiciens**
-
 **Revenu :** 200 po  
 **Risques :**
-
 - Rigidité administrative des nains
-    
 - Incidents magiques  
-    **Menaces Blême :**
     
+**Menaces Baron Blême :**
 - Paie un mage pour saboter un ballon / cargaison  
-    **Opportunités PJ :**
-    
+
+**Opportunités PJ :**
 - Accord minier → +200 po
-    
 - Rapport avec Akadama → réduction taxes
