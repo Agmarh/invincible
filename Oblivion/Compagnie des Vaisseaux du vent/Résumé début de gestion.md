@@ -64,14 +64,6 @@ Des pots-de-vin sont indispensables pour survivre face aux guildes rivales.
 ### Dépenses : **4 320 po**
 ### ➡ **Bénéfice net = 255 po / décade**
 
-# ⚠️ **Important : difficultés et risques**
-Pour éviter un enrichissement trop facile :
-### ✔ Perte d’un comptoir → –300 à –700 po / décade
-### ✔ Sabotage (Baron Blême) → –100 à –400 po ponctuels
-### ✔ Opportunité héroïque → +200 à +1 000 po
-### ✔ Mauvaise météo / cargaison perdue → –100 à –800 po
-### ✔ Bonus si les PJ interviennent → +10 à +30 % de revenus du comptoir concerné
-
 
 # 📒 **Résumé clair à donner aux joueurs**
 
