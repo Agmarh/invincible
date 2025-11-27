@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/4 - La Sentence des Voies.md",
+                "file": "Oblivion/Compagnie des Vaisseaux du vent/Sans titre.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "4 - La Sentence des Voies"
+              "title": "Sans titre"
             }
           }
         ]
@@ -243,10 +243,13 @@
   },
   "active": "64bce7bdd7063b31",
   "lastOpenFiles": [
-    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/1 - Mausoleum Igné.md",
-    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/Effets du Khayolt.md",
+    "Oblivion/Où j'en suis.md",
+    "Oblivion/Compagnie des Vaisseaux du vent/Sans titre.md",
+    "Oblivion/Compagnie des Vaisseaux du vent",
     "2025-11-27.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/4 - La Sentence des Voies.md",
+    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/1 - Mausoleum Igné.md",
+    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/Effets du Khayolt.md",
     "Oblivion/Pangée.md",
     "Oblivion/Images/Carte de l'ancienne Pangee.jpg",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/Infos sur les Vaisseaux du Vent.md",
@@ -272,14 +275,12 @@
     "Oblivion/Objets Magiques/Figurine merveilleuse de corbeau d'argent.md",
     "Oblivion/Objets Magiques/Bottes de marche et de saut.md",
     "Oblivion/Objets Magiques/Sac sans fond.md",
-    "Oblivion/Où j'en suis.md",
     "Oblivion/Sessions",
     "Oblivion/Objets Magiques/Potion de soins.md",
     "Oblivion/Objets Magiques/Potion de résistance.md",
     "Oblivion/Objets Magiques/Potion de force de géant des collines.md",
     "Oblivion/Objets Magiques/Potion d'escalade.md",
     "Oblivion/Objets Magiques/Carafe intarissable.md",
-    "Oblivion/Où ils sont.md",
     "Oblivion/Lieux importants",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Le Lac de Morte-Pensée",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Sans titre.canvas",
@@ -289,7 +290,6 @@
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents",
     "Oblivion/Scénario 1 Le Sang d'Oblivion",
     "Oblivion/PDF/Oblivion 2 Les enfants d'Oblivion.pdf",
-    "Oblivion/PDF/Oblivion 1 Le sang d'Oblivion.pdf",
     "Oblivion/PNJ/Sans titre.canvas"
   ]
 }
