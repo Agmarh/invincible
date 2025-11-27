@@ -45,8 +45,9 @@ Arrondissons à : **≈ 4 575 po / décade**
 - Consommation de raffinage du Khayolt 
 	- 80po / gondolfière (consommation du capitaine, recharge, pertes)
 	- 320po
-- 
-- Maintenance (40 po) → 160 po  
+- Nourriture, soins, rations longues (hippogriffes)
+	- 200po
+- Maintenance (100 po) → 400po  
 - Total **560 po**
 ### 2) Administration & pots-de-vin
 **150 po**
