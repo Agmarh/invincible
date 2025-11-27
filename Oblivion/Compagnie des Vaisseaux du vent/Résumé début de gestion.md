@@ -54,7 +54,8 @@ Arrondissons à : **≈ 4 575 po / décade**
 ### 3) Entretien des 10 comptoirs
 180 po / comptoir → 1 800 po
 ### 4) Fonds de corruption obligatoire
-**200 po**
+Des pots-de-vin sont indispensables pour survivre face aux guildes rivales.
+→ **300 po**
 ### ➡ **Coût total = 2 410 po / décade**
 
 
