@@ -56,54 +56,35 @@
 **Risques :**
 - Incendies de forêt
 - Grèves d’artisans  
-    **Menaces Blême :**
+
+**Menaces Baron Blême :**
 - Sabotage des scieries → –200 po  
-    **Opportunités PJ :**
+
+**Opportunités PJ :**
 - Aider à contenir un incendie / médiation → +200 po
-    
-
----
-
 ### **6. Halemrah — Cité du Soleil**
-
 **Revenu :** 400 po  
 **Risques :**
-
 - Instabilité politique noble
-    
 - Vols d’art précieux  
-    **Menaces Blême :**
-    
+
+**Menaces Baron Blême :**
 - Vol d’une cargaison incriminant les PJ  
-    **Opportunités PJ :**
-    
+
+ **Opportunités PJ :**
 - Protection d’un transport → +250 po
-    
 - Accès à un noble influent → réduction taxes
-    
-
----
-
 ### **7. Pelemagra — Port récent et diplomatique**
-
 **Revenu :** 400 po  
 **Risques :**
-
 - Jeunes institutions → instabilité
-    
 - Diplomates imprévisibles  
-    **Menaces Blême :**
-    
+
+ **Menaces Baron Blême :**
 - Manipule un dignitaire pour bannir la compagnie  
-    **Opportunités PJ :**
-    
+
+**Opportunités PJ :**
 - Mission diplomatique → +300 po
-    
-
----
-
----
-
 # 🔹 **Comptoirs mineurs (3)**
 
 ### **8. Mokaroi — Cité drakhe fermée**
