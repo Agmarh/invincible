@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "e50a2c492d7578f3",
+        "id": "bf87ebc49c2b1539",
         "type": "tabs",
         "children": [
           {
-            "id": "65814bb8a6ef3b9a",
+            "id": "64bce7bdd7063b31",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vue graphique"
+              "type": "markdown",
+              "state": {
+                "file": "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/4 - La Sentence des Voies.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "4 - La Sentence des Voies"
             }
           }
         ]
@@ -80,8 +94,7 @@
               "title": "Signet"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -228,13 +241,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "65814bb8a6ef3b9a",
+  "active": "64bce7bdd7063b31",
   "lastOpenFiles": [
+    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/1 - Mausoleum Igné.md",
+    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/Effets du Khayolt.md",
+    "2025-11-27.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/4 - La Sentence des Voies.md",
     "Oblivion/Pangée.md",
     "Oblivion/Images/Carte de l'ancienne Pangee.jpg",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/Infos sur les Vaisseaux du Vent.md",
-    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/1 - Mausoleum Igné.md",
     "Oblivion/Images/Serenite.png",
     "Oblivion/Images/Valkin.png",
     "Oblivion/Images/Tombeau du roi fou.png",
@@ -252,7 +267,6 @@
     "Oblivion/Objets Magiques/Nocturno.md",
     "Oblivion/Bestiaire/Capitain aéromarin.md",
     "Oblivion/Bestiaire/Aéromarin.md",
-    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/Effets du Khayolt.md",
     "Oblivion/Sessions/Session 1.md",
     "Annexe/Sortilèges/Niveau 2/Invisibilité.md",
     "Oblivion/Objets Magiques/Figurine merveilleuse de corbeau d'argent.md",
