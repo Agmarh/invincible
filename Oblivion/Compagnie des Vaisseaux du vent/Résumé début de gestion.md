@@ -41,8 +41,11 @@ Arrondissons à : **≈ 4 575 po / décade**
 4 gondolfières :
 - Équipages 
 	- 12 marins + 3 officiers = 15po / personne
-	- 900po par gondolfière
-- C
+	- 900po
+- Consommation de raffinage du Khayolt 
+	- 80po / gondolfière (consommation du capitaine, recharge, pertes)
+	- 320po
+- 
 - Maintenance (40 po) → 160 po  
 - Total **560 po**
 ### 2) Administration & pots-de-vin
