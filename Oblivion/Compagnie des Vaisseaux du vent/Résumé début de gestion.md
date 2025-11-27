@@ -4,7 +4,7 @@
 	- **4 gondolfières restantes**    
 	    - Gondolfière de Fan’Goriah        
 	    - Gondolfière des PJ        
-    - 2 gondolfières affectées aux routes/comptoirs
+	    - 2 gondolfières affectées aux routes/comptoirs
 
 # 💰 **Trésor initial disponible**
 Butin total = **18 500 po**
@@ -26,7 +26,7 @@ Moyenne raisonnable :
 - Comptoir moyen : **450 po**    
 - Comptoir mineur : **225 po**
 
-# 📦 **Revenus totaux réalistes (10 comptoirs)**
+# 📦 **Revenus totaux (10 comptoirs)**
 ### Revenus des 3 comptoirs majeurs
 3 × 700 po = **2 100 po**
 ### Revenus des 4 comptoirs moyens
@@ -41,7 +41,7 @@ Arrondissons à : **≈ 4 575 po / décade**
 4 gondolfières :
 - Équipages (100 po) → 400 po 
 - Maintenance (40 po) → 160 po  
-    ➡ **560 po**
+- **560 po**
 
 ### 2) Administration & pots-de-vin
 ➡ **150 po**
