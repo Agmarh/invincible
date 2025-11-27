@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oblivion/Compagnie des Vaisseaux du vent/Malus.md",
+                "file": "Oblivion/Compagnie des Vaisseaux du vent/Tableau complet des 10 comptoirs.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Malus"
+              "title": "Tableau complet des 10 comptoirs"
             }
           }
         ]
@@ -244,8 +244,9 @@
   },
   "active": "64bce7bdd7063b31",
   "lastOpenFiles": [
-    "Oblivion/Compagnie des Vaisseaux du vent/Bonus.md",
     "Oblivion/Compagnie des Vaisseaux du vent/Malus.md",
+    "Oblivion/Compagnie des Vaisseaux du vent/Tableau complet des 10 comptoirs.md",
+    "Oblivion/Compagnie des Vaisseaux du vent/Bonus.md",
     "Oblivion/Compagnie des Vaisseaux du vent/Résumé début de gestion.md",
     "Oblivion/Où j'en suis.md",
     "Oblivion/Compagnie des Vaisseaux du vent",
@@ -281,7 +282,6 @@
     "Oblivion/Sessions",
     "Oblivion/Objets Magiques/Potion de soins.md",
     "Oblivion/Objets Magiques/Potion de résistance.md",
-    "Oblivion/Objets Magiques/Potion de force de géant des collines.md",
     "Oblivion/Lieux importants",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Le Lac de Morte-Pensée",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Sans titre.canvas",
