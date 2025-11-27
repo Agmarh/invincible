@@ -56,13 +56,13 @@ Arrondissons à : **≈ 4 575 po / décade**
 ### 4) Fonds de corruption obligatoire
 Des pots-de-vin sont indispensables pour survivre face aux guildes rivales.
 → **300 po**
-### ➡ **Coût total = 2 410 po / décade**
+### ➡ **Coût total = 4 320 po / décade**
 
 
 # 💸 **Bilan financier**
 ### Revenus : **4 575 po**
-### Dépenses : **≈ 2 400 po**
-### ➡ **Bénéfice net = ~2 200 po / décade**
+### Dépenses : **4 320 po**
+### ➡ **Bénéfice net = 255 po / décade**
 
 # ⚠️ **Important : difficultés et risques**
 Pour éviter un enrichissement trop facile :
