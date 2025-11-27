@@ -39,7 +39,8 @@ Arrondissons à : **≈ 4 575 po / décade**
 # 🧾 **Coûts de la Compagnie**
 ### 1) Flotte
 4 gondolfières :
-- Équipages (100 po) → 400 po 
+- Équipages 
+	- 12 marins + 3 officiers
 - Maintenance (40 po) → 160 po  
 - Total **560 po**
 ### 2) Administration & pots-de-vin
@@ -52,7 +53,7 @@ Arrondissons à : **≈ 4 575 po / décade**
 
 
 # 💸 **Bilan financier**
-### Revenus : **≈ 4 600 po**
+### Revenus : **4 575 po**
 ### Dépenses : **≈ 2 400 po**
 ### ➡ **Bénéfice net = ~2 200 po / décade**
 
