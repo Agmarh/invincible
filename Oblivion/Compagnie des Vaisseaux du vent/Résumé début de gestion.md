@@ -41,19 +41,15 @@ Arrondissons à : **≈ 4 575 po / décade**
 4 gondolfières :
 - Équipages (100 po) → 400 po 
 - Maintenance (40 po) → 160 po  
-- **560 po**
-
+- Total **560 po**
 ### 2) Administration & pots-de-vin
-➡ **150 po**
-
+**150 po**
 ### 3) Entretien des 10 comptoirs
 150 po / comptoir → 1 500 po
-
 ### 4) Divers (taxes, droits, imprévus)
-➡ **200 po**
-
+**200 po**
 ### ➡ **Coût total = 2 410 po / décade**
-Arrondissons à **2 400 po**.
+
 
 # 💸 **Bilan financier**
 ### Revenus : **≈ 4 600 po**
