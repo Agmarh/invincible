@@ -85,46 +85,32 @@
 
 **Opportunités PJ :**
 - Mission diplomatique → +300 po
+
 # 🔹 **Comptoirs mineurs (3)**
 
 ### **8. Mokaroi — Cité drakhe fermée**
-
 **Revenu :** 250 po  
 **Risques :**
-
-- Xénophobie locale
-    
+- Xénophobie locale    
 - Accès restreint  
-    **Menaces Blême :**
-    
+
+**Menaces Baron Blême :**    
 - Fausse accusation d’espionnage des PJ  
-    **Opportunités PJ :**
-    
+
+**Opportunités PJ :**    
 - Gagner la confiance d’un clan → +150 po
-    
-
----
-
 ### **9. Daemens — Ville délabrée sur la Brisure**
-
 **Revenu :** 225 po  
 **Risques :**
-
 - Drogues hallucinogènes
-    
 - Criminalité locale
-    
 - Plantes toxiques  
-    **Menaces Blême :**
-    
+
+**Menaces Baron Blême :**
 - Achète toute la bière hallucinogène → crée pénurie → –150 po  
-    **Opportunités PJ :**
-    
+
+**Opportunités PJ :**
 - Nettoyer un culte / trafic → +150 po
-    
-
----
-
 ### **10. Kar’Durhim — Comptoir nain / minerais & magiciens**
 
 **Revenu :** 200 po  
