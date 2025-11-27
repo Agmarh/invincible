@@ -1,9 +1,9 @@
 # 🎈 **Flotte**
 - 7 gondolfières initiales
-- –3 détruites  
-    ➡ **4 gondolfières restantes**    
-    - Gondolfière de Fan’Goriah        
-    - Gondolfière des PJ        
+- 3 détruites  
+	- **4 gondolfières restantes**    
+	    - Gondolfière de Fan’Goriah        
+	    - Gondolfière des PJ        
     - 2 gondolfières affectées aux routes/comptoirs
 
 # 💰 **Trésor initial disponible**
@@ -59,35 +59,15 @@ Arrondissons à **2 400 po**.
 ### Revenus : **≈ 4 600 po**
 ### Dépenses : **≈ 2 400 po**
 ### ➡ **Bénéfice net = ~2 200 po / décade**
-C’est exactement ce que tu cherchais :
-- **Rentable mais pas explosif**
-    
-- **Les PJ peuvent améliorer/booster les revenus**
-    
-- La compagnie est déjà respectable, mais fragile aux sabotages ou mauvaises décades
-    
-- Le Baron Blême peut facilement réduire ce bénéfice (et créer des histoires)
-    
-
----
 
 # ⚠️ **Important : difficultés et risques**
-
 Pour éviter un enrichissement trop facile :
-
 ### ✔ Perte d’un comptoir → –300 à –700 po / décade
-
 ### ✔ Sabotage (Baron Blême) → –100 à –400 po ponctuels
-
 ### ✔ Opportunité héroïque → +200 à +1 000 po
-
 ### ✔ Mauvaise météo / cargaison perdue → –100 à –800 po
-
 ### ✔ Bonus si les PJ interviennent → +10 à +30 % de revenus du comptoir concerné
 
-Ce système te garantit du **jeu**, pas juste des comptes.
-
----
 
 # 📒 **Résumé clair à donner aux joueurs**
 
