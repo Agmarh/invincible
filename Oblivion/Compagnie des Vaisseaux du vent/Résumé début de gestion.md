@@ -47,7 +47,7 @@ Arrondissons à : **≈ 4 575 po / décade**
 	- 320po
 - Nourriture, soins, rations longues (hippogriffes)
 	- 200po
-- Maintenance (100 po) → 400po  
+- Maintenance (100 po) → 400 po  
 - Total **2 380 po**
 ### 2) Taxes impériales, survol, droit d’accostage, amendes
 **400 po**
