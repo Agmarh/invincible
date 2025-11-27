@@ -30,55 +30,35 @@
 - Concurrence féroce de marchands rivaux 
 - Marchandises contrefaites  
 
-**Menaces Blême :**
-    
+**Menaces Baron Blême :**
 - Diffuse rumeurs qu’un PJ est impliqué dans une fraude  
-    **Opportunités PJ :**
-    
+
+**Opportunités PJ :**
 - Mission commerciale → +300 po
-    
 - Découverte d’un fournisseur rare → +10% revenus
-    
-
----
-
----
 
 # 🔶 **Comptoirs moyens (4)**
 
 ### **4. Port-Pierreux — Kar’Azdhur**
-
 **Revenu :** 550 po  
 **Risques :**
-
 - Pirates côtiers
-    
 - Tempêtes marines  
-    **Menaces Blême :**
-    
+
+**Menaces Baron Blême :**
 - Engager des pirates pour attaquer un convoi  
-    **Opportunités PJ :**
-    
+
+**Opportunités PJ :**
 - Sécuriser une route → +250 po
-    
 - Ranger un capitaine pirate → relation durable (bonus régulier)
-    
-
----
-
 ### **5. Kayée — Scierie impériale réputée**
-
 **Revenu :** 450 po  
 **Risques :**
-
 - Incendies de forêt
-    
 - Grèves d’artisans  
     **Menaces Blême :**
-    
 - Sabotage des scieries → –200 po  
     **Opportunités PJ :**
-    
 - Aider à contenir un incendie / médiation → +200 po
     
 
