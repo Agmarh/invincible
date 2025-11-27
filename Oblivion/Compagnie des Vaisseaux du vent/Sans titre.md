@@ -25,25 +25,16 @@ Moyenne raisonnable :
 - Comptoir majeur : **700 po**    
 - Comptoir moyen : **450 po**    
 - Comptoir mineur : **225 po**
+
 # 📦 **Revenus totaux réalistes (10 comptoirs)**
 ### Revenus des 3 comptoirs majeurs
-
 3 × 700 po = **2 100 po**
-
 ### Revenus des 4 comptoirs moyens
-
 4 × 450 po = **1 800 po**
-
 ### Revenus des 3 comptoirs mineurs
-
 3 × 225 po = **675 po**
-
 ### ➡ **Revenus totaux = 4 575 po / décade**
-
 Arrondissons à : **≈ 4 600 po / décade**  
-(Avant actions, risques, bonus, malus.)
-
----
 
 # 🧾 **Coûts de la Compagnie**
 
