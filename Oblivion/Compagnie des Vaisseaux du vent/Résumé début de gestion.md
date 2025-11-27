@@ -48,12 +48,12 @@ Arrondissons à : **≈ 4 575 po / décade**
 - Nourriture, soins, rations longues (hippogriffes)
 	- 200po
 - Maintenance (100 po) → 400po  
-- Total **560 po**
-### 2) Administration & pots-de-vin
-**150 po**
+- Total **2 380 po**
+### 2) Taxes impériales, survol, droit d’accostage, amendes
+**400 po**
 ### 3) Entretien des 10 comptoirs
-150 po / comptoir → 1 500 po
-### 4) Divers (taxes, droits, imprévus)
+180 po / comptoir → 1 800 po
+### 4) Fonds de corruption obligatoire
 **200 po**
 ### ➡ **Coût total = 2 410 po / décade**
 
