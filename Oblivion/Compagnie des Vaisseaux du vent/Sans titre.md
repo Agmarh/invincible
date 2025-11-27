@@ -1,4 +1,4 @@
-## 🎈 **Flotte**
+# 🎈 **Flotte**
 - 7 gondolfières initiales
 - –3 détruites  
     ➡ **4 gondolfières restantes**    
@@ -7,47 +7,25 @@
     - 2 gondolfières affectées aux routes/comptoirs
 
 # 💰 **Trésor initial disponible**
-
 Butin total = **18 500 po**
-
-Je garde la répartition équilibrée proposée :
-
-- **50% PJ** : 9 250 po
-    
+Répartition équilibrée proposée :
+- **50% PJ** : 9 250 po    
 - **50% Compagnie** : **9 250 po** (capital injecté)
-    
-
-(Discutable si tu préfères tout ou rien, bien sûr.)
-
----
 
 # 🗺️ **Types de comptoirs parmi les 10**
-
 Pour équilibrer le système, voilà une distribution cohérente :
-
 - **3 comptoirs majeurs**  
     → 500 à 900 po / décade
-    
 - **4 comptoirs moyens**  
     → 300 à 600 po / décade
-    
 - **3 comptoirs mineurs**  
     → 150 à 300 po / décade
-    
 
 Moyenne raisonnable :
-
-- Comptoir majeur : **700 po**
-    
-- Comptoir moyen : **450 po**
-    
+- Comptoir majeur : **700 po**    
+- Comptoir moyen : **450 po**    
 - Comptoir mineur : **225 po**
-    
-
----
-
 # 📦 **Revenus totaux réalistes (10 comptoirs)**
-
 ### Revenus des 3 comptoirs majeurs
 
 3 × 700 po = **2 100 po**
