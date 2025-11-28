@@ -9,8 +9,8 @@
 # 💰 **Trésor initial disponible**
 Butin total = **18 500 po**
 Répartition équilibrée proposée :
-- **50% PJ** : 9 250 po    
-- **50% Compagnie** : **9 250 po** (capital injecté)
+- **PJ** : 3 500 po    
+- **Compagnie** : **15 000 po** (capital injecté)
 
 # 🗺️ **Types de comptoirs parmi les 10**
 Pour équilibrer le système, voilà une distribution cohérente :
