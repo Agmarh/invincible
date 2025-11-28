@@ -216,7 +216,7 @@
     "creatures": [
       {
         "name": "Rivalt",
-        "initiative": 15,
+        "initiative": 2,
         "static": false,
         "modifier": -1,
         "hp": 20,
@@ -236,7 +236,7 @@
       },
       {
         "name": "Iseult",
-        "initiative": 18,
+        "initiative": 17,
         "static": false,
         "modifier": 0,
         "hp": 17,
@@ -276,7 +276,7 @@
       },
       {
         "name": "Kogarm",
-        "initiative": 5,
+        "initiative": 15,
         "static": false,
         "modifier": 3,
         "hp": 20,
