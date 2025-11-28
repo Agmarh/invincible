@@ -375,26 +375,6 @@
         "hit_dice": "7d10+21"
       },
       {
-        "name": "Ghûraghasta",
-        "initiative": 14,
-        "static": false,
-        "modifier": 0,
-        "hp": 59,
-        "currentMaxHP": 59,
-        "cr": 4,
-        "ac": 15,
-        "currentAC": 15,
-        "id": "ID_49595a297a59",
-        "currentHP": 8,
-        "tempHP": 0,
-        "status": [],
-        "enabled": true,
-        "active": false,
-        "hidden": false,
-        "friendly": false,
-        "hit_dice": "7d10+21"
-      },
-      {
         "name": "Mékhanôm",
         "initiative": 4,
         "static": false,
