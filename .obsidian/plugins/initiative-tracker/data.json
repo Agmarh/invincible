@@ -290,7 +290,7 @@
         "enabled": true,
         "level": 2,
         "player": true,
-        "active": false,
+        "active": true,
         "hidden": false,
         "friendly": false
       },
@@ -415,7 +415,7 @@
         "hit_dice": "7d10+21"
       }
     ],
-    "state": false,
+    "state": true,
     "name": null,
     "round": 1,
     "logFile": "",
