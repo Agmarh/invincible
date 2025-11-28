@@ -30,8 +30,57 @@
               "icon": "lucide-file",
               "title": "Nocturno 1"
             }
+          },
+          {
+            "id": "f17c4a6bf9657bf9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Annexe/Sortilèges/Niveau 1/Serviteur invisible.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Serviteur invisible"
+            }
+          },
+          {
+            "id": "62d6168780fa70e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Annexe/Sortilèges/Niveau 1/Image silencieuse.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Image silencieuse"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -241,10 +290,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "64bce7bdd7063b31",
+  "active": "f17c4a6bf9657bf9",
   "lastOpenFiles": [
-    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/4 - La Sentence des Voies.md",
     "Oblivion/Objets Magiques/Nocturno 1.md",
+    "Annexe/Sortilèges/Niveau 1/Image silencieuse.md",
+    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/4 - La Sentence des Voies.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/2 - Oblivion.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/3 - Le Sentier des Airs.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/1 - Mausoleum Igné.md",
@@ -279,7 +329,6 @@
     "Oblivion/Bestiaire/Aéromarin.md",
     "Oblivion/Sessions/Session 1.md",
     "Annexe/Sortilèges/Niveau 2/Invisibilité.md",
-    "Oblivion/Objets Magiques/Figurine merveilleuse de corbeau d'argent.md",
     "Oblivion/Sessions",
     "Oblivion/Lieux importants",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Le Lac de Morte-Pensée",
