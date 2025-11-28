@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/4 - La Sentence des Voies.md",
+                "file": "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/1 - Mausoleum Igné.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "4 - La Sentence des Voies"
+              "title": "1 - Mausoleum Igné"
             }
           }
         ]
@@ -241,10 +241,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "91ef87e2b00f9192",
+  "active": "64bce7bdd7063b31",
   "lastOpenFiles": [
-    "Oblivion/Compagnie des Vaisseaux du vent/Résumé début de gestion.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/4 - La Sentence des Voies.md",
+    "Oblivion/Compagnie des Vaisseaux du vent/Résumé début de gestion.md",
     "Oblivion/Compagnie des Vaisseaux du vent/Tableau complet des 10 comptoirs.md",
     "Oblivion/Compagnie des Vaisseaux du vent/Tableau d’événements aléatoires liés à Baron Blême.md",
     "Oblivion/Sessions/Session 2.md",
