@@ -202,7 +202,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "0f121bb01e1cf65f",
@@ -223,7 +223,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 461.5
+    "width": 461.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -244,23 +245,17 @@
   "active": "64bce7bdd7063b31",
   "lastOpenFiles": [
     "Oblivion/Sessions/Session 3.md",
-    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/2 - Oblivion.md",
-    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/1 - Mausoleum Igné.md",
-    "Oblivion/Objets Magiques/Nocturno 1.md",
-    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/4 - La Sentence des Voies.md",
-    "Oblivion/Compagnie des Vaisseaux du vent/Résumé début de gestion.md",
-    "Oblivion/Compagnie des Vaisseaux du vent/Tableau complet des 10 comptoirs.md",
-    "Oblivion/Compagnie des Vaisseaux du vent/Tableau d’événements aléatoires liés à Baron Blême.md",
-    "Oblivion/Sessions/Session 2.md",
-    "Oblivion/Sessions/J+3.md",
-    "Annexe/Sortilèges/Niveau 1/Image silencieuse.md",
-    "Annexe/Sortilèges/Niveau 1/Serviteur invisible.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/3 - Le Sentier des Airs.md",
+    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/1 - Mausoleum Igné.md",
+    "Oblivion/Compagnie des Vaisseaux du vent/Tableau complet des 10 comptoirs.md",
+    "Oblivion/Compagnie des Vaisseaux du vent/Résumé début de gestion.md",
     "Oblivion/Compagnie des Vaisseaux du vent/Bonus.md",
     "Oblivion/Compagnie des Vaisseaux du vent/Malus.md",
+    "Oblivion/Compagnie des Vaisseaux du vent/Tableau d’événements aléatoires liés à Baron Blême.md",
     "Oblivion/Où j'en suis.md",
     "Oblivion/Compagnie des Vaisseaux du vent",
     "2025-11-27.md",
+    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/4 - La Sentence des Voies.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/Effets du Khayolt.md",
     "Oblivion/Pangée.md",
     "Oblivion/Images/Carte de l'ancienne Pangee.jpg",
@@ -274,12 +269,18 @@
     "Oblivion/Images/Meduse.png",
     "Oblivion/Images/Mausoleum Ignee.png",
     "Oblivion/Images/Le poignard polymorphe.jpg",
+    "Oblivion/Sessions/Session 2.md",
+    "Oblivion/Sessions/J+3.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/3 - Ikhâr, la cité des voiles.md",
     "Oblivion/L'Empire.md",
     "Oblivion/Les cantiques de Justicaar.md",
     "Oblivion/Objets Magiques/Nocturno.md",
     "Oblivion/Bestiaire/Capitain aéromarin.md",
     "Oblivion/Bestiaire/Aéromarin.md",
+    "Oblivion/Sessions/Session 1.md",
+    "Annexe/Sortilèges/Niveau 2/Invisibilité.md",
+    "Oblivion/Objets Magiques/Figurine merveilleuse de corbeau d'argent.md",
+    "Oblivion/Objets Magiques/Bottes de marche et de saut.md",
     "Oblivion/Sessions",
     "Oblivion/Lieux importants",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Le Lac de Morte-Pensée",
