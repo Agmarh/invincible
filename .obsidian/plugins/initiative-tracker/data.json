@@ -293,6 +293,26 @@
         "active": false,
         "hidden": false,
         "friendly": false
+      },
+      {
+        "name": "Serpent Lacustre",
+        "initiative": 7,
+        "static": false,
+        "modifier": 0,
+        "hp": 13,
+        "currentMaxHP": 13,
+        "cr": 2,
+        "ac": 12,
+        "currentAC": 12,
+        "id": "ID_78c93a7b4b1a",
+        "currentHP": 13,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false,
+        "hit_dice": "2d10+2"
       }
     ],
     "state": true,
