@@ -93,7 +93,7 @@ Les PJ peuvent descendre à une vitesse de 2,5 mètres par round. Les péripéti
 | **8** | [[Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Le Lac de Morte-Pensée/Mangeuse d'araignée]] | [[Lotus-Pieuvre]]     | [[Avarie]]           | [[Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Le Lac de Morte-Pensée/Serpent Lacustre]] | [[Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Le Lac de Morte-Pensée/Serpent Lacustre]] |
 ### La Sixième Essence
 
-Lorsque les PJ atteignent la sixième essence, les PJ entrent dans une transe cataleptique, tétanisant chaque parcelle de leur organisme en une stase mystique. Incapable du moindre mouvement, chacun perçoit la puissance de la pensée de Khétale s'infiltrer dans leur cerveau. Ils perdent toute notion du temps et de l'espace. Les PJ qui atteignent cette zone gagnent définitivement 1 point dans leur caractéristique majeure.
+Lorsque les PJ atteignent la sixième essence, ils entrent dans une transe cataleptique, tétanisant chaque parcelle de leur organisme en une stase mystique. Incapable du moindre mouvement, chacun perçoit la puissance de la pensée de Khétale s'infiltrer dans leur cerveau. Ils perdent toute notion du temps et de l'espace. Les PJ qui atteignent cette zone gagnent définitivement 1 point dans leur caractéristique majeure.
 
 Puis vient la vision : une tour tronquée scellée de métal, des parois de chairs blêmes suintant de liquides organiques, un moule métallique et triangulaire à la taille du fragment aperçu chez Réghûlus, des salles de torture aux dimensions titanesques…
 
