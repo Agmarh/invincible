@@ -45,7 +45,7 @@ S'il acceptent, voici les épreuves :
 	- Celui qui tombe sur le lézard est déclaré perdant
 	- 3 manches au cours desquelles on augmente le nombre de lézards électriques dans le tonnelet (1 puis, 2 puis 3, dommages cumulatifs).
 
-- Le Courroux du Lotus : l'occupation préférée de Clyve, il s'agit d'ingurgiter le plus grand nombre de verres de bière et lotus sans s'écrouler. Au premier verre, les adversaires réalisent un <font style="color:green">jet de sauvegarde de Constitution DD 15</font>. Le DD augmente de 1 à chaque nouveau verre. En cas d'échec, lancez <font style="color:red">1d6</font> (chaque effet dure <font style="color:red">1d10</font> rounds) :
+- Le Courroux du Lotus : l'occupation préférée de Clyve, il s'agit d'ingurgiter le plus grand nombre de verres de bière de lotus sans s'écrouler. Au premier verre, les adversaires réalisent un <font style="color:green">jet de sauvegarde de Constitution DD 15</font>. Le DD augmente de 1 à chaque nouveau verre. En cas d'échec, lancez <font style="color:red">1d6</font> (chaque effet dure <font style="color:red">1d10</font> rounds) :
 	- 1 - 2 : le personnage est empoisonné
 	- 3 : le personnage est étourdi
 	- 4 : le personnage subit un niveau de fatigue
@@ -65,7 +65,7 @@ Clyve met à disposition des PJ du matériel de plongée. Un heaume des profonde
 
 Si les PJ demandent à propos des pouvoirs divinatoires, Clyve leur parlera de la légende de la sixième essence. L'immersion dans ce courant permettrait de bénéficier de vision prophétiques. A ce jour, personne n'a pu confirmer cette légende. Ceux qui s'y sont aventuré ont perdu la vie dans la mâchoire du Léviathan, gardien de la conscience de la Déesse.
 
-Les PJ peuvent prendre place monter dans de petits drakkars pour se rendre dans la zone.
+Les PJ peuvent prendre place dans de petits drakkars pour se rendre dans la zone.
 
 ## L'œil de Kéthale
 
@@ -93,7 +93,7 @@ Les PJ peuvent descendre à une vitesse de 2,5 mètres par round. Les péripéti
 | **8** | [[Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Le Lac de Morte-Pensée/Mangeuse d'araignée]] | [[Lotus-Pieuvre]]     | [[Avarie]]           | [[Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Le Lac de Morte-Pensée/Serpent Lacustre]] | [[Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Le Lac de Morte-Pensée/Serpent Lacustre]] |
 ### La Sixième Essence
 
-Lorsque les PJ atteignent la sixième essence, les PJ entrent dans une transe cataleptique, tétanisant chaque parcelle de leur organisme en une stase mystique. Incapable du moindre mouvement, chacun perçoit la puissance de la pensée de Khétale s'infiltrer dans leur cerveau. Ils perdent toute notion du temps et de l'espace. Les PJ qui atteignent cette zone gagnent définitivement 1 point dans leur caractéristique majeure.
+Lorsque les PJ atteignent la sixième essence, ils entrent dans une transe cataleptique, tétanisant chaque parcelle de leur organisme en une stase mystique. Incapable du moindre mouvement, chacun perçoit la puissance de la pensée de Khétale s'infiltrer dans leur cerveau. Ils perdent toute notion du temps et de l'espace. Les PJ qui atteignent cette zone gagnent définitivement 1 point dans leur caractéristique majeure.
 
 Puis vient la vision : une tour tronquée scellée de métal, des parois de chairs blêmes suintant de liquides organiques, un moule métallique et triangulaire à la taille du fragment aperçu chez Réghûlus, des salles de torture aux dimensions titanesques…
 

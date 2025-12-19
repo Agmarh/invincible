@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "eb634e950b0ff762",
+        "id": "ab2a2a88b25754a6",
         "type": "tabs",
         "children": [
           {
-            "id": "6c76ed6bf8d749c6",
+            "id": "999fb0501e5acc69",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -188,7 +192,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "0f121bb01e1cf65f",
@@ -227,8 +231,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6c76ed6bf8d749c6",
+  "active": "999fb0501e5acc69",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Oblivion/Bestiaire/Ghûraghasta.md",
     "Oblivion/Bestiaire/Hibours, vieux.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/2 - Oblivion.md",
@@ -265,7 +270,6 @@
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/3 - Ikhâr, la cité des voiles.md",
     "Oblivion/L'Empire.md",
     "Oblivion/Les cantiques de Justicaar.md",
-    "Oblivion/Objets Magiques/Nocturno.md",
     "Oblivion/Sessions",
     "Oblivion/Lieux importants",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Le Lac de Morte-Pensée",

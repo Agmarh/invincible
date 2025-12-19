@@ -18,9 +18,9 @@ Les personnages peuvent apercevoir une guillotine au bout de laquelle jonchent d
 
 - [[Boucle d'oreille de Mysdora]]
 
-Dans une alcôve plus loin, se trouve un gant rouillé bardé de pointes d'onirôm et placé dans un globe de verre, dès qu'on touche au globe, les murs s'écrasent l'un contre l'autre. Découvrir le piège demande un <font style="color:green">jet de Perception DD 18</font>, désamorcer <font style="color:green">Dextérité (outils de voleur) DD 22</font>. Si le piège se déclenche, <font style="color:green">jet de sauvegarde de Dextérité DD 20</font> ou <font style="color:red">8d6 points de dégâts</font> (sinon moitié).
+Dans une alcôve plus loin, se trouve une perle d'onirôm et placé dans un globe de verre, dès qu'on touche au globe, les murs s'écrasent l'un contre l'autre. Découvrir le piège demande un <font style="color:green">jet de Perception DD 18</font>, désamorcer <font style="color:green">Dextérité (outils de voleur) DD 22</font>. Si le piège se déclenche, <font style="color:green">jet de sauvegarde de Dextérité DD 20</font> ou <font style="color:red">8d6 points de dégâts</font> (sinon moitié).
 
-- [[Gantelets de puissance d'ogre]]
+- [[Perle de puissance]]
 
 ### Rez de chaussée
 
