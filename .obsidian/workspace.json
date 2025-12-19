@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "9e690d83f9006394",
+        "id": "cf8410a50ef5bd5f",
         "type": "tabs",
         "children": [
           {
-            "id": "e1a8b7c43c4a11ad",
+            "id": "b67b9c1db64db7d6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Oblivion/Sessions/Session 3.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "title": "Session 3"
             }
           }
         ]
@@ -227,7 +241,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "87ea7c8c51cee5cf",
+  "active": "b67b9c1db64db7d6",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Oblivion/Bestiaire/Ghûraghasta.md",
