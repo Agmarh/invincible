@@ -65,7 +65,7 @@ Clyve met à disposition des PJ du matériel de plongée. Un heaume des profonde
 
 Si les PJ demandent à propos des pouvoirs divinatoires, Clyve leur parlera de la légende de la sixième essence. L'immersion dans ce courant permettrait de bénéficier de vision prophétiques. A ce jour, personne n'a pu confirmer cette légende. Ceux qui s'y sont aventuré ont perdu la vie dans la mâchoire du Léviathan, gardien de la conscience de la Déesse.
 
-Les PJ peuvent prendre place monter dans de petits drakkars pour se rendre dans la zone.
+Les PJ peuvent prendre place dans de petits drakkars pour se rendre dans la zone.
 
 ## L'œil de Kéthale
 
