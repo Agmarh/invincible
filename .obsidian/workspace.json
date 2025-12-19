@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oblivion/Sessions/Session 3.md",
+                "file": "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/2 - Oblivion.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Session 3"
+              "title": "2 - Oblivion"
             }
           }
         ]
@@ -202,7 +202,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "0f121bb01e1cf65f",
@@ -241,13 +241,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b67b9c1db64db7d6",
+  "active": "91ef87e2b00f9192",
   "lastOpenFiles": [
+    "Oblivion/Sessions/Session 3.md",
     "conflict-files-obsidian-git.md",
     "Oblivion/Bestiaire/Ghûraghasta.md",
     "Oblivion/Bestiaire/Hibours, vieux.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/2 - Oblivion.md",
-    "Oblivion/Sessions/Session 3.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/1 - Mausoleum Igné.md",
     "Oblivion/Objets Magiques/Nocturno 1.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/4 - La Sentence des Voies.md",
