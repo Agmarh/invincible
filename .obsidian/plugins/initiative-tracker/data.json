@@ -293,26 +293,6 @@
         "active": false,
         "hidden": false,
         "friendly": false
-      },
-      {
-        "name": "Clyve l'Aboyeur",
-        "initiative": 17,
-        "static": false,
-        "modifier": 0,
-        "hp": 59,
-        "currentMaxHP": 59,
-        "cr": 4,
-        "ac": "16 (chemise de mailles)",
-        "currentAC": "16 (chemise de mailles)",
-        "id": "ID_5848ba49f969",
-        "currentHP": 59,
-        "tempHP": 0,
-        "status": [],
-        "enabled": true,
-        "active": false,
-        "hidden": false,
-        "friendly": false,
-        "hit_dice": "7d10+21"
       }
     ],
     "state": false,
