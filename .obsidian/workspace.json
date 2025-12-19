@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/3 - Le Sentier des Airs.md",
+                "file": "Oblivion/Sessions/Session 4.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "3 - Le Sentier des Airs"
+              "title": "Session 4"
             }
           }
         ]
@@ -243,11 +243,13 @@
   },
   "active": "b67b9c1db64db7d6",
   "lastOpenFiles": [
-    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/2 - Oblivion.md",
+    "Oblivion/Sessions/Session 3.md",
+    "Oblivion/Sessions/J+5.md",
+    "Oblivion/Sessions/Session 4.md",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/3 - Le Sentier des Airs.md",
+    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/2 - Oblivion.md",
     "Oblivion/Sessions/Session 2.md",
     "Oblivion/Sessions/Session 1.md",
-    "Oblivion/Sessions/Session 3.md",
     "conflict-files-obsidian-git.md",
     "Oblivion/Bestiaire/Ghûraghasta.md",
     "Oblivion/Bestiaire/Hibours, vieux.md",
@@ -257,7 +259,6 @@
     "Oblivion/Compagnie des Vaisseaux du vent/Résumé début de gestion.md",
     "Oblivion/Compagnie des Vaisseaux du vent/Tableau complet des 10 comptoirs.md",
     "Oblivion/Compagnie des Vaisseaux du vent/Tableau d’événements aléatoires liés à Baron Blême.md",
-    "Oblivion/Sessions/J+3.md",
     "Annexe/Sortilèges/Niveau 1/Image silencieuse.md",
     "Annexe/Sortilèges/Niveau 1/Serviteur invisible.md",
     "Oblivion/Compagnie des Vaisseaux du vent/Bonus.md",
@@ -279,7 +280,6 @@
     "Oblivion/Images/Mausoleum Ignee.png",
     "Oblivion/Images/Le poignard polymorphe.jpg",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 1 L'Arpenteur des Vents/3 - Ikhâr, la cité des voiles.md",
-    "Oblivion/L'Empire.md",
     "Oblivion/Sessions",
     "Oblivion/Lieux importants",
     "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/Le Lac de Morte-Pensée",
