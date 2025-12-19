@@ -236,7 +236,7 @@
       },
       {
         "name": "Iseult",
-        "initiative": 16,
+        "initiative": 9,
         "static": false,
         "modifier": 0,
         "hp": 17,
@@ -256,7 +256,7 @@
       },
       {
         "name": "N'djin",
-        "initiative": 20,
+        "initiative": 16,
         "static": false,
         "modifier": 3,
         "hp": 18,
@@ -276,7 +276,7 @@
       },
       {
         "name": "Kogarm",
-        "initiative": 18,
+        "initiative": 13,
         "static": false,
         "modifier": 3,
         "hp": 20,
@@ -296,7 +296,7 @@
       },
       {
         "name": "Squelette aquatique",
-        "initiative": 11,
+        "initiative": 4,
         "static": false,
         "modifier": 0,
         "hp": 45,
@@ -316,7 +316,7 @@
       },
       {
         "name": "Squelette aquatique",
-        "initiative": 4,
+        "initiative": 12,
         "static": false,
         "modifier": 0,
         "hp": 45,
