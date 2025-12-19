@@ -216,7 +216,7 @@
     "creatures": [
       {
         "name": "Rivalt",
-        "initiative": 8,
+        "initiative": 3,
         "static": false,
         "modifier": -1,
         "hp": 20,
@@ -270,7 +270,7 @@
         "enabled": true,
         "level": 2,
         "player": true,
-        "active": false,
+        "active": true,
         "hidden": false,
         "friendly": false
       },
@@ -290,7 +290,7 @@
         "enabled": true,
         "level": 2,
         "player": true,
-        "active": true,
+        "active": false,
         "hidden": false,
         "friendly": false
       },
@@ -337,7 +337,7 @@
     ],
     "state": true,
     "name": null,
-    "round": 2,
+    "round": 1,
     "logFile": "",
     "rollHP": false
   },
