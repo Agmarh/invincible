@@ -230,7 +230,7 @@
         "enabled": true,
         "level": 2,
         "player": true,
-        "active": false,
+        "active": true,
         "hidden": false,
         "friendly": false
       },
@@ -270,7 +270,7 @@
         "enabled": true,
         "level": 2,
         "player": true,
-        "active": true,
+        "active": false,
         "hidden": false,
         "friendly": false
       },
@@ -293,31 +293,11 @@
         "active": false,
         "hidden": false,
         "friendly": false
-      },
-      {
-        "name": "Squelette aquatique",
-        "initiative": 4,
-        "static": false,
-        "modifier": 0,
-        "hp": 45,
-        "currentMaxHP": 45,
-        "cr": 1,
-        "ac": 12,
-        "currentAC": 12,
-        "id": "ID_aba92b481bea",
-        "currentHP": 17,
-        "tempHP": 0,
-        "status": [],
-        "enabled": true,
-        "active": false,
-        "hidden": false,
-        "friendly": false,
-        "hit_dice": "6d10+18"
       }
     ],
     "state": true,
     "name": null,
-    "round": 3,
+    "round": 1,
     "logFile": "",
     "rollHP": false
   },
