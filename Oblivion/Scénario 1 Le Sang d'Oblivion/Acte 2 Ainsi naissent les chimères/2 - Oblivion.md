@@ -45,7 +45,7 @@ S'il acceptent, voici les épreuves :
 	- Celui qui tombe sur le lézard est déclaré perdant
 	- 3 manches au cours desquelles on augmente le nombre de lézards électriques dans le tonnelet (1 puis, 2 puis 3, dommages cumulatifs).
 
-- Le Courroux du Lotus : l'occupation préférée de Clyve, il s'agit d'ingurgiter le plus grand nombre de verres de bière et lotus sans s'écrouler. Au premier verre, les adversaires réalisent un <font style="color:green">jet de sauvegarde de Constitution DD 15</font>. Le DD augmente de 1 à chaque nouveau verre. En cas d'échec, lancez <font style="color:red">1d6</font> (chaque effet dure <font style="color:red">1d10</font> rounds) :
+- Le Courroux du Lotus : l'occupation préférée de Clyve, il s'agit d'ingurgiter le plus grand nombre de verres de bière de lotus sans s'écrouler. Au premier verre, les adversaires réalisent un <font style="color:green">jet de sauvegarde de Constitution DD 15</font>. Le DD augmente de 1 à chaque nouveau verre. En cas d'échec, lancez <font style="color:red">1d6</font> (chaque effet dure <font style="color:red">1d10</font> rounds) :
 	- 1 - 2 : le personnage est empoisonné
 	- 3 : le personnage est étourdi
 	- 4 : le personnage subit un niveau de fatigue
