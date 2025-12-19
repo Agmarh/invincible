@@ -236,7 +236,7 @@
       },
       {
         "name": "Iseult",
-        "initiative": 3,
+        "initiative": 16,
         "static": false,
         "modifier": 0,
         "hp": 17,
@@ -270,13 +270,13 @@
         "enabled": true,
         "level": 2,
         "player": true,
-        "active": true,
+        "active": false,
         "hidden": false,
         "friendly": false
       },
       {
         "name": "Kogarm",
-        "initiative": 1,
+        "initiative": 18,
         "static": false,
         "modifier": 3,
         "hp": 20,
@@ -296,7 +296,7 @@
       },
       {
         "name": "Serpent Lacustre",
-        "initiative": 7,
+        "initiative": 22,
         "static": false,
         "modifier": 0,
         "hp": 13,
@@ -309,7 +309,7 @@
         "tempHP": 0,
         "status": [],
         "enabled": true,
-        "active": false,
+        "active": true,
         "hidden": false,
         "friendly": false,
         "hit_dice": "2d10+2"
