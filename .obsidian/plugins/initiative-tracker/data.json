@@ -230,7 +230,7 @@
         "enabled": true,
         "level": 2,
         "player": true,
-        "active": false,
+        "active": true,
         "hidden": false,
         "friendly": false
       },
@@ -290,7 +290,7 @@
         "enabled": true,
         "level": 2,
         "player": true,
-        "active": true,
+        "active": false,
         "hidden": false,
         "friendly": false
       },
@@ -305,7 +305,7 @@
         "ac": 12,
         "currentAC": 12,
         "id": "ID_78c93a7b4b1a",
-        "currentHP": 8,
+        "currentHP": 3,
         "tempHP": 0,
         "status": [],
         "enabled": true,
