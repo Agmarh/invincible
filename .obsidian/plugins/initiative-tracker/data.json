@@ -293,6 +293,26 @@
         "active": false,
         "hidden": false,
         "friendly": false
+      },
+      {
+        "name": "Lotus pieuvre",
+        "initiative": 11,
+        "static": false,
+        "modifier": 0,
+        "hp": 68,
+        "currentMaxHP": 68,
+        "cr": 3,
+        "ac": 14,
+        "currentAC": 14,
+        "id": "ID_e809ca7beab8",
+        "currentHP": 68,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false,
+        "hit_dice": "8d10+24"
       }
     ],
     "state": true,
