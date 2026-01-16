@@ -4,7 +4,7 @@
 
 La trappe mène à une échelle qui permet de descendre à l'intérieur de la tour, en entrant, les PJ observent, entreposés dans des réceptacle fait de ce qui ressemble à du cristal, des fragments de chairs, des mains, des bras, des organes. C'est comme s'ils observaient la vitrine d'un boucher dément. En plus des restes de corps, ils peuvent entendre comme des gémissements de douleur qui emplissent la salle, comme s'ils résonnaient depuis les murs eux-mêmes, comme si les âmes des torturés vivaient encore. <font style="color:green">Jet de sauvegarde de Sagesse DD 17</font> pour ne pas être terrorisés jusqu'à la salle suivante.
 
-Dès qu'ils entrent dans la pièce, un liquide rouge foncé commence à s'écouler des murs, ils semblent ronger les parois de métal et s'approche des PJ. Au bout de 2 rounds <font style="color:green">Jet de sauvegarde de Constitution DD 17</font> sinon <font style="color:red">2d6 points de dégâts</font>, mais <font style="color:#27BEF5">1 chance sur 10 chaque minute de trouver un objet Oniride</font> parmi :
+Dès qu'ils entrent dans la pièce, un liquide rouge foncé commence à s'écouler des murs, il semble ronger les parois de métal et s'approche des PJ. Au bout de 2 rounds <font style="color:green">Jet de sauvegarde de Constitution DD 17</font> sinon <font style="color:red">2d6 points de dégâts</font>, mais <font style="color:#27BEF5">1 chance sur 10 chaque round de trouver un objet Oniride</font> parmi :
 1. [[Bâton de combat]]
 2. [[Collier de crâne]]
 3. [[Pièce de monnaie]]
