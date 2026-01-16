@@ -360,6 +360,21 @@
         "source": "Homebrew",
         "layout": "Basic 5e Layout"
       }
+    ],
+    [
+      "Cœur de la bâtisse assassine",
+      {
+        "image": "<STATBLOCK-WIKI-LINK>monstre.png<STATBLOCK-WIKI-LINK>",
+        "name": "Cœur de la bâtisse assassine",
+        "size": "G",
+        "type": "Abomination",
+        "subtype": null,
+        "alignment": "Neutre",
+        "ac": 15,
+        "hp": 30,
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
     ]
   ],
   "defaultLayouts": {},

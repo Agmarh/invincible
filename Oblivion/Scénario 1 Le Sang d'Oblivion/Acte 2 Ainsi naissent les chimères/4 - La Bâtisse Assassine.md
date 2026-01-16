@@ -8,7 +8,7 @@ Tandis que les PJ s'en rendent compte, un liquide semblable à de l'acide semble
 - 3 rounds avant de recouvrir la pièce du haut
 - 3 rounds pour recouvrir la pièce du bas ?
 
-Arrivé en bas, Perception DD 13 pour apercevoir une cavité d'où semble pulser un cœur. Il faut détruire la paroi pour l'atteindre, un liquide éclatera au visage des PJ, rendant difficile la progression. 
+Arrivé en bas, <font style="color:green">Perception DD 13</font> pour apercevoir une cavité d'où semble pulser un cœur. Il faut détruire la paroi pour l'atteindre, un liquide éclatera au visage des PJ, rendant difficile la progression. 
 - Détruire la gangue qui retiens le cœur : CA 15, 30 PV
 
 A la mort du cœur, les parois fonderont, afin de laisser place à des murs de métal, en dessous de l'endroit où se trouvait le cœur, il y a une lourde trappe métallique. La créature semblait être posée au sommet de la tour, derrière eux, les PJ peuvent voir Oblivion.
