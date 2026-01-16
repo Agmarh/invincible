@@ -17,11 +17,13 @@ Pour fouiller la pièce : <font style="color:green">jet de Perception ou Investi
 
 Au fond de la pièce les PJ peuvent trouver un escalier fait d'obsidienne. En arrivant les PJ découvrent un étage destiné à la torture, avec des machines faites pour dépecer progressivement des créatures vivantes, des salles de supplice, des mécanismes tous plus étranges et sordides.
 
-Les personnages peuvent apercevoir une guillotine au bout de laquelle jonchent d'innombrables têtes, s'ils approchent <font style="color:green">jet de sauvegarde DD 15</font> ou subir <font style="color:red">2d8 dégâts</font> de la guillotine. <font style="color:green">Jet de Perception DD 15</font> pour identifier le piège + <font style="color:green">Dextérité (outils de voleur) DD 18</font> pour le désamorcer. S'ils fouillent parmi les têtes ils trouvent une boucle d'oreille oniride gravée du symbole de Mysdora (déesse de la magie)
+<font style="color:green">Jet de Perception ou Investigation DD 15</font> pour être attiré par la guillotine ou le globe de verre.
+
+Les personnages peuvent apercevoir une guillotine au bout de laquelle jonchent d'innombrables têtes, s'ils approchent <font style="color:green">jet de sauvegarde DD 15</font> ou subir <font style="color:red">2d8 dégâts</font> de la guillotine. <font style="color:green">Jet de Perception DD 15</font> pour identifier le piège + <font style="color:green">Dextérité (outils de voleur) DD 18</font> pour le désamorcer, ou autre bonne idée des PJ. S'ils fouillent parmi les têtes ils trouvent une boucle d'oreille oniride gravée du symbole de Mysdora (déesse de la magie).
 
 - [[Boucle d'oreille de Mysdora]]
 
-Dans une alcôve plus loin, se trouve une perle d'onirôm et placé dans un globe de verre, dès qu'on touche au globe, les murs s'écrasent l'un contre l'autre. Découvrir le piège demande un <font style="color:green">jet de Perception DD 18</font>, désamorcer <font style="color:green">Dextérité (outils de voleur) DD 22</font>. Si le piège se déclenche, <font style="color:green">jet de sauvegarde de Dextérité DD 20</font> ou <font style="color:red">8d6 points de dégâts</font> (sinon moitié).
+Dans une alcôve plus loin, se trouve une perle d'onirôm placée dans un globe de verre, dès qu'on touche au globe, les murs s'écrasent l'un contre l'autre. Découvrir le piège demande un <font style="color:green">jet de Perception DD 18</font>, désamorcer <font style="color:green">Dextérité (outils de voleur) DD 22</font>. Si le piège se déclenche, <font style="color:green">jet de sauvegarde de Dextérité DD 20</font> ou <font style="color:red">8d6 points de dégâts</font> (sinon moitié).
 
 - [[Perle de puissance]]
 
