@@ -148,7 +148,7 @@
     "creatures": [
       {
         "name": "N'Djinn",
-        "initiative": 16,
+        "initiative": 24,
         "static": false,
         "modifier": 4,
         "hp": 25,
@@ -168,7 +168,7 @@
       },
       {
         "name": "Iseult",
-        "initiative": 17,
+        "initiative": 18,
         "static": false,
         "modifier": 0,
         "hp": 24,
@@ -190,7 +190,7 @@
       },
       {
         "name": "Kogarm",
-        "initiative": 17,
+        "initiative": 20,
         "static": false,
         "modifier": 3,
         "hp": 27,
@@ -210,7 +210,7 @@
       },
       {
         "name": "Rivalt",
-        "initiative": 0,
+        "initiative": 16,
         "static": false,
         "modifier": -1,
         "hp": 28,
