@@ -5,6 +5,6 @@ size: G
 type: Abomination
 subtype: 
 alignment: Neutre
-ac: 15
-hp: 30
+ac: 0
+hp: 500
 ```
