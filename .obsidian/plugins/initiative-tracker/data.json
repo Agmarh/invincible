@@ -19,6 +19,22 @@
       "ac": "16",
       "modifier": -1,
       "player": true
+    },
+    {
+      "name": "N'Djinn",
+      "level": 3,
+      "hp": 25,
+      "ac": "16",
+      "modifier": 4,
+      "player": true
+    },
+    {
+      "name": "Kogarm",
+      "level": 3,
+      "hp": 27,
+      "ac": "15",
+      "modifier": 3,
+      "player": true
     }
   ],
   "parties": [
@@ -26,7 +42,9 @@
       "name": "Oblivion",
       "players": [
         "Iseult",
-        "Rivalt"
+        "Rivalt",
+        "N'Djinn",
+        "Kogarm"
       ]
     }
   ],
@@ -129,8 +147,28 @@
   "state": {
     "creatures": [
       {
+        "name": "N'Djinn",
+        "initiative": 16,
+        "static": false,
+        "modifier": 4,
+        "hp": 25,
+        "currentMaxHP": 25,
+        "ac": "16",
+        "currentAC": "16",
+        "id": "ID_4a58bafa7a4b",
+        "currentHP": 25,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "level": 3,
+        "player": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false
+      },
+      {
         "name": "Iseult",
-        "initiative": 6,
+        "initiative": 17,
         "static": false,
         "modifier": 0,
         "hp": 24,
@@ -151,8 +189,28 @@
         "friendly": false
       },
       {
+        "name": "Kogarm",
+        "initiative": 17,
+        "static": false,
+        "modifier": 3,
+        "hp": 27,
+        "currentMaxHP": 27,
+        "ac": "15",
+        "currentAC": "15",
+        "id": "ID_dafb891b99cb",
+        "currentHP": 27,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "level": 3,
+        "player": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false
+      },
+      {
         "name": "Rivalt",
-        "initiative": 14,
+        "initiative": 0,
         "static": false,
         "modifier": -1,
         "hp": 28,
