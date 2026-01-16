@@ -9,6 +9,7 @@ Dès qu'ils entrent dans la pièce, un liquide rouge foncé commence à s'écoul
 2. [[Collier de crâne]]
 3. [[Pièce de monnaie]]
 4. [[Griffe d'oniride]]
+5. [[Carquois d'os]]
 
 ### Etage intermédiaire
 
