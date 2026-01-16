@@ -1,6 +1,35 @@
 {
-  "players": [],
-  "parties": [],
+  "players": [
+    {
+      "note": "Iseult",
+      "path": "Oblivion/Groupe/Iseult.md",
+      "name": "Iseult",
+      "level": 3,
+      "hp": 24,
+      "ac": "18",
+      "modifier": 0,
+      "player": true
+    },
+    {
+      "note": "Rivalt",
+      "path": "Oblivion/Groupe/Rivalt.md",
+      "name": "Rivalt",
+      "level": 3,
+      "hp": 28,
+      "ac": "16",
+      "modifier": -1,
+      "player": true
+    }
+  ],
+  "parties": [
+    {
+      "name": "Oblivion",
+      "players": [
+        "Iseult",
+        "Rivalt"
+      ]
+    }
+  ],
   "defaultParty": null,
   "statuses": [
     {
@@ -98,14 +127,57 @@
   "playerMarker": "default",
   "monsterMarker": "default",
   "state": {
-    "creatures": [],
+    "creatures": [
+      {
+        "name": "Iseult",
+        "initiative": 0,
+        "static": false,
+        "modifier": 0,
+        "hp": 24,
+        "currentMaxHP": 24,
+        "ac": "18",
+        "currentAC": "18",
+        "note": "Iseult",
+        "path": "Oblivion/Groupe/Iseult.md",
+        "id": "ID_a8b8eb4b5afb",
+        "currentHP": 24,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "level": 3,
+        "player": true,
+        "hidden": false,
+        "friendly": false
+      },
+      {
+        "name": "Rivalt",
+        "initiative": 0,
+        "static": false,
+        "modifier": -1,
+        "hp": 28,
+        "currentMaxHP": 28,
+        "ac": "16",
+        "currentAC": "16",
+        "note": "Rivalt",
+        "path": "Oblivion/Groupe/Rivalt.md",
+        "id": "ID_8a6a18d8a90a",
+        "currentHP": 28,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "level": 3,
+        "player": true,
+        "hidden": false,
+        "friendly": false
+      }
+    ],
     "state": false,
     "name": null,
     "round": 1,
     "logFile": "",
     "rollHP": false
   },
-  "condense": false,
+  "condense": true,
   "clamp": true,
   "autoStatus": true,
   "beginnerTips": true,

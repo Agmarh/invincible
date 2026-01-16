@@ -4,7 +4,7 @@ size: M
 type: Humanoïde
 subtype: Homme serpent
 alignment: Chaotique Bon
-ac: 18 (Cotte de mailles + bouclier)
+ac: 18
 hp: 24
 speed: 9 m
 stats: [13, 8, 14, 10, 17, 13]
