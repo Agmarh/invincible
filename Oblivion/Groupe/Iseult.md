@@ -7,15 +7,15 @@ alignment: Chaotique Bon
 ac: 18
 hp: 24
 speed: 9 m
-stats: [13, 8, 14, 10, 17, 13]
+stats: [13, 8, 14, 10, 18, 13]
 saves:
-  - Sagesse: +5
+  - Sagesse: +6
   - Charisme: +3
 senses: Perception passive 13
 languages: commun, runique, elfique
 cr: 5
 spells:
-  - "Caractéristique d’incantation : la Sagesse (DDJS 13, +5 pour toucher avec les attaques de sort). Voici ses sorts de clerc préparés :"
+  - "Caractéristique d’incantation : la Sagesse (DDJS 14, +6 pour toucher avec les attaques de sort). Voici ses sorts de clerc préparés :"
   - à volonté: [[Épargner les mourants]], [[Flamme sacrée]], [[Réparation]]
   - 1er niveau (4 emplacements): [[Bénédiction]], [[Soin des blessures]]
   - 2e niveau (2 emplacements): [[Arme spirituelle]], [[Restauration inférieure]]

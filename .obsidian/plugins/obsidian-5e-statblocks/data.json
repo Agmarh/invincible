@@ -16,12 +16,12 @@
           8,
           14,
           10,
-          17,
+          18,
           13
         ],
         "saves": [
           {
-            "Sagesse": 5
+            "Sagesse": 6
           },
           {
             "Charisme": 3
@@ -31,7 +31,7 @@
         "languages": "commun, runique, elfique",
         "cr": 5,
         "spells": [
-          "Caractéristique d’incantation : la Sagesse (DDJS 13, +5 pour toucher avec les attaques de sort). Voici ses sorts de clerc préparés :",
+          "Caractéristique d’incantation : la Sagesse (DDJS 14, +6 pour toucher avec les attaques de sort). Voici ses sorts de clerc préparés :",
           {
             "à volonté": "<STATBLOCK-WIKI-LINK>Épargner les mourants<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Flamme sacrée<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Réparation<STATBLOCK-WIKI-LINK>"
           },
