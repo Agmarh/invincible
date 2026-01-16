@@ -31,9 +31,9 @@ Dans une alcôve plus loin, se trouve une perle d'onirôm placée dans un globe 
 
 Les PJ arrivent dans une salle soutenue par des arches au style gothiques, c'est un véritable bric-à-brac d'objets brisés. En entrant dans la pièce, un vacarme retenti, faisant trembler l'ensemble de la tour pendant que s'extrait une créature immense. Un golem composé de lames acérées et dont chacune d'entre elle suinte encore du sang de centaines de victimes.
 
-Au milieu de son torse barbelé, les PJ peuvent apercevoir une lueur chromée, la Matrice.
+Au milieu de son torse barbelé, les PJ peuvent apercevoir une lueur chromée, la Matrice. A chaque mouvement du Golem, des étincelles jaillissent de la matrice, comme si elle l'alimentait en énergie.
 
-La configuration de la pièce est telle que les mouvements du monstre seront très restreint et il sera désavantagé. Il est possible d'arracher la Matrice en réussissant un <font style="color:green">jet de Force DD 20</font>. Une fois la Matrice libérée, elle s'envolera et ira se s'incruster dans la poitrine de Grisou, qui ne comprendra pas du tout ce qu'il se passe, il y a désormais comme un tatouage sur le torse du méphite.
+La configuration de la pièce est telle que les mouvements du monstre seront très restreint et il sera désavantagé. Il est possible d'arracher la Matrice en réussissant un <font style="color:green">jet de Force DD 20 ou 15 si le socle a été affaibli</font>. Une fois la Matrice libérée, elle s'envolera et ira se s'incruster dans la poitrine de Grisou, qui ne comprendra pas du tout ce qu'il se passe, il y a désormais comme un tatouage sur le torse du méphite.
 
 Dans la pièce, les PJ trouveront 1 objet :
 
