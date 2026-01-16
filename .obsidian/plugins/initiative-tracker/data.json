@@ -130,7 +130,7 @@
     "creatures": [
       {
         "name": "Iseult",
-        "initiative": 0,
+        "initiative": 6,
         "static": false,
         "modifier": 0,
         "hp": 24,
@@ -146,12 +146,13 @@
         "enabled": true,
         "level": 3,
         "player": true,
+        "active": false,
         "hidden": false,
         "friendly": false
       },
       {
         "name": "Rivalt",
-        "initiative": 0,
+        "initiative": 14,
         "static": false,
         "modifier": -1,
         "hp": 28,
@@ -167,6 +168,7 @@
         "enabled": true,
         "level": 3,
         "player": true,
+        "active": false,
         "hidden": false,
         "friendly": false
       }
