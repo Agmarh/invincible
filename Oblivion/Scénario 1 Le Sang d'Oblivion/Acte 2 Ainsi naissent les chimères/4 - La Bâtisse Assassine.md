@@ -10,7 +10,11 @@ Le moyen le plus simple de détruire la Bâtisse Assassine est de localiser les 
 
 La bâtisse assassine n’est pas une créature comme les autres et ne peut pas être vaincue en frappant au hasard. Elle est insensible aux attaques sournoises, immunisée aux dégâts de poison et possède 500 PV. Tout personnage visant ses murs touche cependant automatiquement (jetez tout de même le dé pour savoir s’il fait un critique). Tirez son initiative avec un score de +0. Considérez que
 - Au premier round les personnages sont surpris. 
-- Chaque round, la bâtisse peut générer des pseudopodes lui permettant d’attaquer les PJ. Elle attaque avec un score de +6 toutes les créatures présentes en son sein et occasionne 11 (2d6 + 4) points de dégâts de poison en cas de succès. Tous les trois rounds, une vague d’acide envahit le lieu, infligeant à tous ceux qui sont présents 2d8 points de dégâts. Les PJ doivent effectuer un jet de sauvegarde de Dextérité DD 15 afin d’éviter la vague d’acide. En cas de réussite, les dégâts sont divisés par deux. En cas d’échec critique, leur armure perd 1 point de CA ou une de leurs armes voit son dé de dégât réduit d’un cran (2d6 devient 1d10, 1d10 devient 1d8, etc.), ou bien encore ils perdent une autre pièce d’équipement, rongée par l’acide.
+- Chaque round, la bâtisse peut générer des pseudopodes lui permettant d’attaquer les PJ. 
+	- Elle attaque avec un score de +6 toutes les créatures présentes en son sein et occasionne 11 (2d6 + 4) points de dégâts de poison en cas de succès. 
+- Tous les trois rounds, une vague d’acide envahit le lieu, infligeant à tous ceux qui sont présents <font style="color:red">2d8 points de dégâts</font>. Les PJ doivent effectuer un <font style="color:green">jet de sauvegarde de Dextérité DD 15</font> afin d’éviter la vague d’acide. 
+	- En cas de réussite, les dégâts sont divisés par deux. 
+	- En cas d’échec critique, leur armure perd 1 point de CA ou une de leurs armes voit son dé de dégât réduit d’un cran (2d6 devient 1d10, 1d10 devient 1d8, etc.), ou bien encore ils perdent une autre pièce d’équipement, rongée par l’acide.
 
 Tandis que les PJ s'en rendent compte, un liquide semblable à de l'acide semble s'écouler des parois et se diriger peu à peu vers leurs pieds. La seule issue possible est un boyau qui semble descendre.
 - 3 rounds avant de recouvrir la pièce du haut
