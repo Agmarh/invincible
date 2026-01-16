@@ -24,12 +24,12 @@ traits:
     desc: Quand en contact de sa guilde, tarifs préférentiels pour le négoce, accès aux bâtiments, approvisionnement, informations mais aussi certains services privilégiés, par des intermédiaires clandestins faisant affaire avec la guilde (contrebande, prostitution et trafics).
   - name: Métamorphe
     desc: "Se transforme pour ressembler à un humain normal. 1 action. Votre visage devient humain et votre queue disparaît. Votre transformation n'est pas parfaite un individu peut dépenser une action pour vous examiner et effectuer un test d'Investigation contre une difficulté de 8 + votre modificateur de Charisme + votre bonus de maîtrise. S'il le réussit, il réalise que quelque chose ne va pas. Votre forme humaine est constante : vous ne pouvez changer de visage ou de couleur de cheveux, par exemple, et encore moins prendre l'apparence d'une autre personne. Conserver cette forme vous demande de maintenir votre concentration Repos long)."
-  - name: Canalisation d'énergie divine
-    desc: Choisissez quel effet vous souhaitez produire (Repos court ou long).
-  - name: Canalisation d'énergie divine
-    desc: Choisissez quel effet vous souhaitez produire (Repos court ou long).
-  - name: Canalisation d'énergie divine
-    desc: Choisissez quel effet vous souhaitez produire (Repos court ou long).
+  - name: Révélation
+    desc: "Vous avez parfois des intuitions, lorsqu'une créature ou un PNJ effectue un test de caractéristique en opposition avec vous ou un test d'attaque, vous pouvez décider de demander au MJ de refaire ce test (Repos long)."
+  - name: Sang froid
+    desc: Vous êtes vulnérable aux dégâts de froid.
+  - name: Langage des émotions
+    desc: Vous pouvez communiquer avec d'autres hommes serpents dans un rayon de 36 mètres. Il faut cependant pour cela que vous et votre interlocuteur vous regardiez droit dans les yeux. Vous ne pouvez échanger de mots, uniquement des émotions et des sensations.
   - name: Canalisation d'énergie divine
     desc: Choisissez quel effet vous souhaitez produire (Repos court ou long).
   - name: Canalisation d'énergie divine - Renvoi des morts-vivants
@@ -39,12 +39,8 @@ traits:
   - name: Canalisation d'énergie divine - Préserver la vie
     desc: Vous pouvez utiliser une action pour présenter votre symbole sacré et invoquer une énergie curative capable de redonner autant de points de vie que cinq fois votre niveau de clerc. Choisissez des créatures qui se trouvent dans un rayon de 9 mètres de vous et divisez ces points de vie entre elles. Vous ne pouvez pas l'utiliser sur des morts-vivants ou des créatures artificielles.
 actions:
-  - name: Attaques multiples
-    desc: "Morgus peut effectuer deux attaques avec une action attaquer. Se battant à deux armes, il porte la plupart du temps deux attaques avec son épée courte, suivie d’une attaque avec sa rapière."
-  - name: Rapière
-    desc: "Attaque d’arme au corps-à-corps : +8 pour toucher, allonge 1,50 m, une cible. Touché : 9 (1d8+5) dégâts perforants."
-  - name: Épée courte électrique
-    desc: "Attaque d’arme au corps-à-corps : +8 pour toucher, allonge 1,50 m, une cible. Touché : 8 (1d6+5) dégâts tranchants et 3 (1d6) dégâts d’électricité."
-treasure:
-  - name: [[Manteau d'arachnide]]
+  - name: Masse d'armes
+    desc: "Attaque d’arme au corps-à-corps : +2 pour toucher, allonge 1,50 m, une cible. Touché : 4 (1d6+2) dégâts contondants."
+  - name: Arbalète légère
+    desc: "Attaque d’arme à distance : +2 pour toucher, 24-96 m, une cible. Touché : 6 (1d8+2) dégâts perforants."
 ```
