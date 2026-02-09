@@ -615,6 +615,122 @@
         "source": "Homebrew",
         "layout": "Basic 5e Layout"
       }
+    ],
+    [
+      "Quasit",
+      {
+        "image": "<STATBLOCK-WIKI-LINK>monstre.png<STATBLOCK-WIKI-LINK>",
+        "name": "Quasit",
+        "size": "TP",
+        "type": "Fiélon",
+        "subtype": "Démon, Métamorphe",
+        "alignment": "Chaotique Mauvais",
+        "ac": 13,
+        "hp": 7,
+        "hit_dice": "3d4",
+        "speed": "12 m",
+        "stats": [
+          5,
+          17,
+          10,
+          7,
+          10,
+          10
+        ],
+        "skillsaves": [
+          {
+            "Discrétion": 5
+          }
+        ],
+        "senses": "vision dans le noir 36 m, Perception passive 10",
+        "languages": "abyssal, commun",
+        "cr": 1,
+        "traits": [
+          {
+            "name": "Métamorphe",
+            "desc": "Le quasit peut utiliser son action pour se métamorphoser en l'une des bêtes suivantes : chauve-souris (vitesse 3 m, vol 12 m), millepattes (12 m, escalade 12 m) ou crapaud (12 m, nage 12 m), ou pour reprendre sa véritable forme. Ses statistiques restent les mêmes, quelle que soit la forme adoptée, à l'exception de la vitesse indiquée. Ses objets équipés ou transportés ne sont pas transformés. Le quasit reprend sa forme véritable s'il meurt."
+          },
+          {
+            "name": "Résistance à la magie",
+            "desc": "Le quasit obtient un avantage lors des jets de sauvegarde contre les sorts et autres effets magiques."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Frayeur (1/jour)",
+            "desc": "Une créature choisie par le quasit et située à 6 mètres ou moins de lui doit réussir un jet de sauvegarde de Sagesse DD 10 pour ne pas être <STATBLOCK-WIKI-LINK>Terrorisé<STATBLOCK-WIKI-LINK> pendant 1 minute. La cible peut retenter le jet de sauvegarde à la fin de chacun de ses tours (elle subit un désavantage si le quasit est dans son champ de vision) et mettre fin à l'effet dont elle est victime en cas de réussite."
+          },
+          {
+            "name": "Griffe (Morsure sous forme de bête)",
+            "desc": "Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une cible. Touché : 5 (1d4+3) dégâts perforants, et la cible doit réussir un jet de sauvegarde de Constitution DD 10 pour ne pas subir 5 (2d4) dégâts de poison et être <STATBLOCK-WIKI-LINK>Empoisonné<STATBLOCK-WIKI-LINK> pendant 1 minute. La cible peut retenter le jet de sauvegarde à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite."
+          },
+          {
+            "name": "Invisibilité",
+            "desc": "Le quasit devient invisible par magie jusqu'à ce qu'il attaque ou utilise sa Frayeur, ou si sa concentration est interrompue (comme s'il se concentrait sur un sort). Ses objets équipés ou transportés deviennent également invisibles."
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "Ombre",
+      {
+        "image": "<STATBLOCK-WIKI-LINK>monstre.png<STATBLOCK-WIKI-LINK>",
+        "name": "Ombre",
+        "size": "M",
+        "type": "Mort-vivant",
+        "subtype": null,
+        "alignment": "Chaotique Mauvais",
+        "ac": 12,
+        "hp": 16,
+        "hit_dice": "3d8+3",
+        "speed": "12 m",
+        "stats": [
+          6,
+          14,
+          13,
+          6,
+          10,
+          8
+        ],
+        "skillsaves": [
+          {
+            "Discrétion": "+4 (+6 dans une zone faiblement éclairée ou dans l'obscurité totale)"
+          }
+        ],
+        "senses": "vision dans le noir 18 m, Perception passive 10",
+        "damage_vulnerabilities": "radiants",
+        "damage_resistances": "d'acide, de feu, de foudre, de froid et contondants, perforants et tranchants infligés par des attaques non-magiques",
+        "damage_immunities": "nécrotiques et de poison",
+        "condition_immunities": "<STATBLOCK-WIKI-LINK>A terre<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Empoigné<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Empoisonné<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Entravé<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Épuisé<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Paralysé<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Pétrifié<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Terrorisé<STATBLOCK-WIKI-LINK>",
+        "languages": [
+          null
+        ],
+        "cr": "1/2",
+        "traits": [
+          {
+            "name": "Affaiblie par la lumière du soleil",
+            "desc": "L'ombre subit un désavantage lors des jets d'attaque, des tests de caractéristique et des jets de sauvegarde lorsqu'elle est exposée à la lumière du soleil."
+          },
+          {
+            "name": "Discrétion dans les ombres",
+            "desc": "Tant qu'elle se trouve dans une zone faiblement éclairée ou plongée dans l'obscurité totale, l'ombre peut effectuer l'action se cacher par une action bonus."
+          },
+          {
+            "name": "Informe",
+            "desc": "L'ombre peut traverser sans devoir se faufiler un interstice d'une largeur au moins égale à 2 centimètres."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Pönction de force",
+            "desc": "Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une créature. Touché : 9 (2d6+2) dégâts nécrotiques et la valeur de Force de la cible est réduite de 1d4 points. La cible meurt si cet effet réduit sa valeur de Force à 0. Sinon, la réduction persiste jusqu'à la fin d'une période de repos long ou court. Si un humanoïde non-mauvais meurt à cause de cette attaque, une nouvelle ombre surgit de son cadavre après 1d4 heures."
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
     ]
   ],
   "defaultLayouts": {
