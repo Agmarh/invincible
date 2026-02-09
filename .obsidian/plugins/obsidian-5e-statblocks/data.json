@@ -468,6 +468,153 @@
         "source": "Homebrew",
         "layout": "Basic 5e Layout"
       }
+    ],
+    [
+      "Goule",
+      {
+        "image": "<STATBLOCK-WIKI-LINK>monstre.png<STATBLOCK-WIKI-LINK>",
+        "name": "Goule",
+        "size": "M",
+        "type": "Mort-vivant",
+        "subtype": null,
+        "alignment": "Chaotique Mauvais",
+        "ac": 12,
+        "hp": 22,
+        "hit_dice": "5d8",
+        "speed": "9 m",
+        "stats": [
+          13,
+          15,
+          10,
+          7,
+          10,
+          6
+        ],
+        "senses": "vision dans le noir 18 m, Perception passive 10",
+        "languages": "commun",
+        "cr": 1,
+        "damage_immunities": "de poison",
+        "condition_immunities": "<STATBLOCK-WIKI-LINK>Charmé<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Empoisonné<STATBLOCK-WIKI-LINK> et <STATBLOCK-WIKI-LINK>Épuisé<STATBLOCK-WIKI-LINK>",
+        "actions": [
+          {
+            "name": "Griffes",
+            "desc": "Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une cible. Touché : 7 (2d4+2) dégâts tranchants. Si la cible n'est pas un mort-vivant ou un elfe, elle doit réussir un jet de sauvegarde de Constitution DD 10 pour ne pas être <STATBLOCK-WIKI-LINK>Paralysé<STATBLOCK-WIKI-LINK> pendant 1 minute. La cible peut retenter le jet de sauvegarde à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite."
+          },
+          {
+            "name": "Morsure",
+            "desc": "Attaque d'arme au corps à corps : +2 pour toucher, allonge 1,50 m, une créature. Touché : 9 (2d6+2) dégâts perforants."
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "Nuée d'insectes",
+      {
+        "image": "<STATBLOCK-WIKI-LINK>monstre.png<STATBLOCK-WIKI-LINK>",
+        "name": "Nuée d'insectes",
+        "size": "M",
+        "type": "Nuée composée de bête TP",
+        "subtype": null,
+        "alignment": "Non-alignée",
+        "ac": 12,
+        "hp": 22,
+        "hit_dice": "5d8",
+        "speed": "6 m, escalade 6 m",
+        "stats": [
+          3,
+          13,
+          10,
+          1,
+          7,
+          1
+        ],
+        "damage_resistances": "contondants, perforants et tranchants",
+        "condition_immunities": "<STATBLOCK-WIKI-LINK>A terre<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Charmé<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Empoigné<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Étourdi<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Paralysé<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Pétrifié<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Terrorisé<STATBLOCK-WIKI-LINK>",
+        "senses": "vision aveugle 3 m, Perception passive 8",
+        "languages": [
+          null
+        ],
+        "cr": "1/2",
+        "traits": [
+          {
+            "name": "Nuée",
+            "desc": "La nuée peut occuper l'emplacement d'une autre créature, et vice versa. Elle peut passer par n'importe quelle ouverture suffisamment large pour un insecte de taille TP. Elle ne peut pas récupérer de point de vie ou gagner de point de vie temporaire."
+          },
+          {
+            "name": "Expectoration de nuées (recharge 5-6)",
+            "desc": "Un rejeton peut cracher une nuée d'insectes. Cette nuée est entièrement sous son contrôle. Elle persiste pendant une minute ou jusqu'à ce qu'elle soit détruite."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Morsure",
+            "desc": "Attaque d'arme au corps à corps : +3 pour toucher, allonge 0 m, une créature dans l'emplacement de la nuée. Touché : 10 (4d4) dégâts perforants ou 5 (2d4) dégâts perforants si la nuée a perdu au moins la moitié de ses points de vie."
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "Rejeton d'Akyishigal",
+      {
+        "image": "<STATBLOCK-WIKI-LINK>monstre.png<STATBLOCK-WIKI-LINK>",
+        "name": "Rejeton d'Akyishigal",
+        "size": "M",
+        "type": "Fiélon",
+        "subtype": "Démon",
+        "alignment": "Chaotique Mauvais",
+        "ac": 15,
+        "hp": 119,
+        "hit_dice": "14d8+56",
+        "speed": "9 m, escalade 4,50 m",
+        "stats": [
+          15,
+          13,
+          19,
+          10,
+          11,
+          12
+        ],
+        "saves": [
+          {
+            "Dex": 4
+          }
+        ],
+        "damage_immunities": "de poison",
+        "condition_immunities": "<STATBLOCK-WIKI-LINK>Empoisonné<STATBLOCK-WIKI-LINK>",
+        "senses": "vision dans le noir 18 m, Perception passive 10",
+        "languages": "infernal",
+        "cr": 5,
+        "traits": [
+          {
+            "name": "Contrôle de la vermine",
+            "desc": "Les rejetons d'Akyishigal peuvent donner des ordres à des bêtes de Très Petite taille d'une Intelligence de 2 ou moins, qui se trouvent dans un rayon de 9 mètres et ne sont pas contrôlées par magie. La vermine obéit aux ordres du rejeton au mieux de ses capacités sans se soucier de sa propre sécurité."
+          },
+          {
+            "name": "Expectoration de nuées (recharge 5-6)",
+            "desc": "Un rejeton peut cracher une <STATBLOCK-WIKI-LINK>Nuée d'insectes<STATBLOCK-WIKI-LINK>. Cette nuée est entièrement sous son contrôle. Elle persiste pendant une minute ou jusqu'à ce qu'elle soit détruite."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Attaques multiples",
+            "desc": "Un rejeton porte une attaque de morsure et deux de dard."
+          },
+          {
+            "name": "Morsure",
+            "desc": "Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible. Touché : 7 (1d10 + 2) dégâts perforants."
+          },
+          {
+            "name": "Dard",
+            "desc": "Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible. Touché : 11 (2d8 + 2) dégâts perforants plus 5 (1d10) dégâts de poison, et la cible doit réussir un jet de sauvegarde de Constitution DD 15 ou être <STATBLOCK-WIKI-LINK>Empoisonné<STATBLOCK-WIKI-LINK> pour 1d6 rounds."
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
     ]
   ],
   "defaultLayouts": {
