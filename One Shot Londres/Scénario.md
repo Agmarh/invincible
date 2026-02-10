@@ -16,5 +16,5 @@ Depuis quelques temps maintenant, le fiélon ayant scellé un pacte avec elle se
 Après quelques mauvais coups réalisés à Akh, une grande citée de la province de Norven non loin de Delad, les 3 comparses ont décidés de se faire légèrement "oublier" et sont arrivés à Delad dans l'optique de passer inaperçu tout en profitant de l'engouement généré par la foire et, pourquoi pas, délester les riches présents de quelques pièces.
 
 ## Le spectacle
-L'odeur de vin chaud et les applaudissements accompagnent les différentes prestations des athlètes de la foire de Malatesta, jusqu'au moment où se prépare le clou du spectacle, la nouvelle bête de foire de la troupe, un Banderhobb énorme sort de sa cage et effectue quelques acrobaties 
+L'odeur de vin chaud et les applaudissements accompagnent les différentes prestations des athlètes de la foire de Malatesta, jusqu'au moment où se prépare le clou du spectacle, la nouvelle bête de foire de la troupe, un Banderhobb énorme sort de sa cage et effectue quelques acrobaties sous la direction de Malatesta.
 
