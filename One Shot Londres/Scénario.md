@@ -16,9 +16,15 @@ Depuis quelques temps maintenant, le fiélon ayant scellé un pacte avec elle se
 Après quelques mauvais coups réalisés à Akh, une grande citée de la province de Norven non loin de Delad, les 3 comparses ont décidés de se faire légèrement "oublier" et sont arrivés à Delad dans l'optique de passer inaperçu tout en profitant de l'engouement généré par la foire et, pourquoi pas, délester les riches présents de quelques pièces.
 
 ## Le spectacle
-L'odeur de vin chaud et les applaudissements accompagnent les différentes prestations des athlètes de la foire de Malatesta, jusqu'au moment où se prépare le clou du spectacle, la nouvelle bête de foire de la troupe, un Banderhobb énorme sort de sa cage et effectue quelques acrobaties sous la direction de Malatesta.
+L'odeur de vin chaud et les applaudissements accompagnent les différentes prestations des athlètes de la foire de Malatesta, jusqu'au moment où se prépare le clou du spectacle.
 
-Pendant le spectacle, Malatesta est comme pris de convulsion et s'effondre au sol tandis que l'apparence du Banderhobb devient comme flou et s'efface en une sorte de brume pour laisser apparaître une forme humanoïde, une créature (détailler à quoi ressemble un rejeton d'Akyishigal) apparaît et attaque sans retenue la foule, une partie des victimes se relève, comme possédées, leurs peaux fondent par endroit, leurs yeux brillent d'un vert presque démoniaque et emboitent le pas de leur nouveau maître.
+Le silence se fait sous le chapiteau. Malatesta claque son fouet et, dans un bruit de chaînes lourdes, une masse sombre est traînée sur la sciure du sol. C'est une abomination de la nature : un crapaud de la taille d'un bœuf, à la peau d'un bleu nuit presque noir. Ses yeux jaunes, immenses et globuleux, fixent la foule avec une faim primitive. Sa gueule, immense, semble capable d'avaler un homme d'un seul coup. 
+
+Le Glouton des Failles sort de sa cage et effectue quelques acrobaties sous la direction de Malatesta.
+
+Soudain, le Crapaud s'arrête. Son corps se met à vibrer, à gonfler de manière surnaturelle. Une brume verdâtre et fétide s'échappe de sa peau. Puis, dans un craquement d'os, le corps du batracien se déchire et explose. Vous voyez sortir de la carcasse de chair une créature insectoïde aux membres trop longs, un rejeton démoniaque se lève et fonce droit vers la foule. Vous n'avez pas le temps de réagir que déjà 6 personnes s'effondrent, frappées par la créature. 
+
+Les corps des pauvres spectateurs se relèvent, leurs peaux fondent par endroit, leurs yeux brillent d'un vert presque démoniaque et emboitent le pas de leur nouveau maître.
 
 Combat : 
 - 5 à 6 goules + le rejeton d'Akyishigal 
