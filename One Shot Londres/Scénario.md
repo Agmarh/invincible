@@ -22,18 +22,21 @@ Le silence se fait sous le chapiteau. Malatesta claque son fouet et, dans un bru
 
 Le Glouton des Failles sort de sa cage et effectue quelques acrobaties sous la direction de Malatesta.
 
-Soudain, le Crapaud s'arrête. Son corps se met à vibrer, à gonfler de manière surnaturelle. Une brume verdâtre et fétide s'échappe de sa peau. Puis, dans un craquement d'os, le corps du batracien se déchire et explose. Vous voyez sortir de la carcasse de chair une créature insectoïde aux membres trop longs, un rejeton démoniaque se lève et fonce droit vers la foule. Vous n'avez pas le temps de réagir que déjà 6 personnes s'effondrent, frappées par la créature. 
+Soudain, le Crapaud s'arrête. Son corps se met à vibrer, à gonfler de manière surnaturelle. Une brume verdâtre et fétide s'échappe de sa peau. Puis, dans un craquement d'os, le corps du batracien se déchire et explose. Une créature insectoïde à la tête de cafard géant s'en extrait. Elle dégage une odeur de charogne et de moisissure. Ses mandibules claquent tandis qu'un liquide verdâtre s'écoule de ses articulations. Le rejeton démoniaque se lève et fonce droit vers la foule. Vous n'avez pas le temps de réagir que déjà 6 personnes s'effondrent, frappées par la créature. 
+
+La druidesse peut faire un jet de connaissance : cette monstruosité, le rejeton d'Akyishigal, n'a rien à faire sur ce plan.
+La sorcière entendra son fiélon lui murmurer : "Ecrase ce moucheron avant qu'il ne soit trop tard, il empeste."
 
 Les corps des pauvres spectateurs se relèvent, leurs peaux fondent par endroit, leurs yeux brillent d'un vert presque démoniaque et emboitent le pas de leur nouveau maître.
 
 Combat : 
-- 5 à 6 goules + le rejeton d'Akyishigal 
+- 5 à 6 goules + le rejeton d'Akyishigal : Les goules apparaitrons par vagues. 3 au premier tour, 3 au deuxième.
 - Les PJs doivent intervenir pour sauver une partie de la foule et seront contraint d'affronter les goules à la place du rejeton
 
 Issue : 
 - Le rejeton blesse Malatesta qui se réveil de sa transe avant de fuir 
 - Le rejeton fuira par une déchirure dans le chapiteau après avoir fait suffisamment de victimes
-- La garde de Delad arrive sur place et empêchent toute sortie
+- La garde de Delad arrive sur place et empêchent toute sortie, 20 archers visent les joueurs depuis les gradins, des soldats équipés de lance bloquent les sorties, le capitaine de la garde fait face aux PJs
 - Les PJs sont interpelés et emmenés en cellule (accusés à tort d'avoir causer les troubles) 
 
 ## Négociation chez le Baron
@@ -41,7 +44,10 @@ Les PJs seront emmenés auprès du gouverneur de Delad, le Baron Valerius de Nor
 
 Il demande aux PJs de bien vouloir mettre leurs compétences au service de la ville afin de trouver et éliminer le monstre ayant tué les habitants.
 
-Les 3 criminels n'auront pas vraiment le choix, ils ont été reconnus par la garde et le Baron, un avis de recherche a été posé à leur encontre depuis la ville de Akh, le Baron propose de ne pas prendre en compte cet avis en échange de leur aide. 
+Les 3 criminels n'auront pas vraiment le choix, ils ont été reconnus par la garde et le Baron, un avis de recherche a été posé à leur encontre depuis la ville de Akh, s'ils ont volé des bijoux pendant le spectacle, leur cas ne s'arrangera pas, le Baron propose de ne pas prendre en compte cet avis en échange de leur aide. 
+- "En Norven, on coupe les mains des voleurs. Mais aujourd'hui, j'ai besoin de vos mains pour tenir des armes. Choisissez"
+
+La guerrière pour négocier éventuellement, car c'est la seule qui n'a pas d'avantage à aider la ville.
 
 Il faudra trouver Malatesta également qui est en fuite quelque part dans la ville.
 
@@ -69,6 +75,11 @@ A l'arrivée au cercle druidique, les PJs verront le rejeton d'Akyishigal en ple
 
 Pendant le combat, si c'est trop facile, un bras gigantesque sortira du portail pour frapper le sol et essayer de déstabiliser les PJs
 
+- Monter les PV du rejeton à 90 - 100
+- 1d6 chaque round après quelques rounds :
+	- 1-2 Vents Glaciaux : Le sol devient difficile (glace) sur 6 mètres autour du portail. 
+	- 3-4 Le Bras du Démon : Une main immense frappe le sol. Un joueur au hasard doit faire un JS de Force DD 13 ou être jeté à terre (1d8 dégâts). 
+	- 5-6 Murmures de Folie : JS Sagesse DD 12 ou le joueur doit utiliser sa réaction pour s'éloigner du portail. |
 ## Epilogue
 A la mort du rejeton, une fois la dague plantée, la corruption sera comme aspirée à l'intérieur de la faille avant de complètement disparaître.
 
