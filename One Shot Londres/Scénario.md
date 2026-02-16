@@ -61,11 +61,8 @@ L'enquête des PJs depuis le chapiteau devraient les amener dans les ruelles gel
 Malatesta est mourant et ne cherchera pas à fuir, il est incapable de bouger. Il confiera aux PJs qu'il a trouvé une dague faite dans un métal semblable à de l'Obsidienne. A l'instant où il a saisi la dague, il s'est retrouvé comme prisonnier de son propre corps, comme manipulé.
 
 Complètement conscient, son corps ne lui obéissait plus, il a assisté à toute la scène. 
-> <font style="color:orange">Mon corps ne m'obéissait plus, j'étais possédé, je me suis dirigé au cœur de la forêt de l'Ancien-Tertre, sur un ancien cite druidique je pense. La chose qui me manipulait a entaillé ma main avec la dague et a récité des mots dans une langue que je ne connaissait même pas. Un portail est apparu et une créature immonde</font>
-
-Un portail est apparu laissant passer (décrire le rejeton) qui a lancé un sort pour modifier son apparence avant de rejoindre le cirque de Malatesta. Le portail est toujours ouvert, le rejeton cherche a accumuler de nombreuses âmes pour l'agrandir et laisser passer son maître dans ce monde.
-
-"Quand vous aurez vaincu le rejeton, frappez le avec cette dague, le portail se refermera."
+> <font style="color:orange">Mon corps ne m'obéissait plus, j'étais possédé, je me suis dirigé au cœur de la forêt de l'Ancien-Tertre, sur un ancien cite druidique je pense. La chose qui me manipulait a entaillé ma main avec la dague et a récité des mots dans une langue que je ne connaissait même pas. Un portail est apparu et une sorte d'insecte géant est apparu. Il cherche des âmes pour alimenter le portail et permettre à son maître d'entrer sur notre plan.</font>
+> <font style="color:orange">Prenez la dague, et quand vous aurez tué ce monstre, frapper le avec. Le portail devrait se refermer. Laissez moi, je suis condamné de toute façon. Je suis désolé pour ce que j'ai fait.</font>
 
 A ce moment, 2 ou 3 [[Quasit]] essaieront d'effrayer les joueurs et de les désorientés pour récupérer la dague.
 
