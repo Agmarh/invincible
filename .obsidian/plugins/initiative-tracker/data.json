@@ -35,6 +35,58 @@
       "ac": "15",
       "modifier": 3,
       "player": true
+    },
+    {
+      "name": "Amy",
+      "level": 3,
+      "hp": 21,
+      "ac": "14",
+      "modifier": 1,
+      "player": true
+    },
+    {
+      "note": "Sort",
+      "path": "Template/Sort.md",
+      "name": "Camille",
+      "ac": "14",
+      "hp": 30,
+      "level": 3,
+      "modifier": 1,
+      "player": true
+    },
+    {
+      "name": "Maria",
+      "level": 3,
+      "hp": 24,
+      "ac": "13",
+      "modifier": 2,
+      "player": true
+    },
+    {
+      "name": "Delphine",
+      "level": 3,
+      "hp": 31,
+      "ac": "16",
+      "modifier": 3,
+      "player": true
+    },
+    {
+      "note": "Sort",
+      "path": "Template/Sort.md",
+      "name": "Dori",
+      "ac": "14",
+      "hp": 21,
+      "level": 3,
+      "modifier": 4,
+      "player": true
+    },
+    {
+      "name": "Pauline",
+      "level": 3,
+      "hp": 31,
+      "ac": "14",
+      "modifier": 3,
+      "player": true
     }
   ],
   "parties": [
@@ -45,6 +97,17 @@
         "Rivalt",
         "N'Djinn",
         "Kogarm"
+      ]
+    },
+    {
+      "name": "Londres",
+      "players": [
+        "Camille",
+        "Pauline",
+        "Dori",
+        "Delphine",
+        "Maria",
+        "Amy"
       ]
     }
   ],
@@ -147,94 +210,29 @@
   "state": {
     "creatures": [
       {
-        "name": "N'Djinn",
-        "initiative": 24,
+        "name": "Worg",
+        "initiative": 9,
         "static": false,
-        "modifier": 4,
-        "hp": 25,
-        "currentMaxHP": 25,
-        "ac": "16",
-        "currentAC": "16",
-        "id": "ID_8acb4a8a19db",
-        "currentHP": 25,
+        "modifier": 1,
+        "hp": 26,
+        "currentMaxHP": 26,
+        "cr": "1/2",
+        "ac": 13,
+        "currentAC": 13,
+        "id": "ID_faaa288849da",
+        "currentHP": 26,
         "tempHP": 0,
         "status": [],
         "enabled": true,
-        "level": 3,
-        "player": true,
         "active": false,
         "hidden": false,
-        "friendly": false
-      },
-      {
-        "name": "Iseult",
-        "initiative": 18,
-        "static": false,
-        "modifier": 0,
-        "hp": 24,
-        "currentMaxHP": 24,
-        "ac": "18",
-        "currentAC": "18",
-        "note": "Iseult",
-        "path": "Oblivion/Groupe/Iseult.md",
-        "id": "ID_5bf9da1a29a8",
-        "currentHP": 24,
-        "tempHP": 0,
-        "status": [],
-        "enabled": true,
-        "level": 3,
-        "player": true,
-        "active": false,
-        "hidden": false,
-        "friendly": false
-      },
-      {
-        "name": "Kogarm",
-        "initiative": 20,
-        "static": false,
-        "modifier": 3,
-        "hp": 27,
-        "currentMaxHP": 27,
-        "ac": "15",
-        "currentAC": "15",
-        "id": "ID_3abbc819e98a",
-        "currentHP": 27,
-        "tempHP": 0,
-        "status": [],
-        "enabled": true,
-        "level": 3,
-        "player": true,
-        "active": false,
-        "hidden": false,
-        "friendly": false
-      },
-      {
-        "name": "Rivalt",
-        "initiative": 16,
-        "static": false,
-        "modifier": -1,
-        "hp": 28,
-        "currentMaxHP": 28,
-        "ac": "16",
-        "currentAC": "16",
-        "note": "Rivalt",
-        "path": "Oblivion/Groupe/Rivalt.md",
-        "id": "ID_1b1b3ac9280a",
-        "currentHP": 28,
-        "tempHP": 0,
-        "status": [],
-        "enabled": true,
-        "level": 3,
-        "player": true,
-        "active": false,
-        "hidden": false,
-        "friendly": false
+        "friendly": false,
+        "hit_dice": "4d10+4"
       }
     ],
     "state": false,
-    "name": null,
     "round": 1,
-    "logFile": "",
+    "logFile": null,
     "rollHP": false
   },
   "condense": true,

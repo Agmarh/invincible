@@ -15,7 +15,7 @@ Dans le cas où les PJ choisiraient d’échapper à la justice, laissez-les fai
 
 Notez que si l’action s’est déroulée dans Ikhâr, ces tracasseries seront nettement amoindries, mais la réputation des PJ en sortira largement ternie.
 
-Bestiaire : [[Randel Kane]], [[Milicien]], [[Chevalier-Dragon]]
+Bestiaire : [[Randel Kane]], [[Milicien]], [[Chevalier-dragon]]
 
 # L'examen du corps
 Le corps de la guerrière repose dans le temple le plus proche, où un prêtre lui administre les derniers sacrements. Pour les PJ, il serait judicieux de l’examiner plus avant. 
@@ -23,7 +23,7 @@ Le corps de la guerrière repose dans le temple le plus proche, où un prêtre l
 Le temple comporte une chapelle centrale, une maison d’habitation et un cimetière. Il est entouré d’une grille et gardé par le prêtre et quatre miliciens, qui font aussi office d’assistants. Le corps de la guerrière est dans la crypte. On y descend par un escalier dérobé, derrière le confessionnal que l’on peut découvrir avec un test d'Investigation DD17.
 
 L’examen doit apporter progressivement certaines informations. Les jets de compétence suivants sont donnés à titre indicatif : insistez plutôt sur le jeu d’acteur et les découvertes minutieuses...
-- <font style="color:green">Histoire DD 12</font> : La femme porte les colifichets tribaux d’un guerrier soong. Les Soongs forment une peuplade violente portée sur le chamanisme. On dit que ces berserkers se battent comme des déments, mais qu’ils s’imposent paradoxalement de nombreux pèlerinages dans des lieux saints. Jamais une [[guerrière soong]] n’aurait pu briser ainsi son code d’honneur pour massacrer aveuglément des innocents.
+- <font style="color:green">Histoire DD 12</font> : La femme porte les colifichets tribaux d’un guerrier soong. Les Soongs forment une peuplade violente portée sur le chamanisme. On dit que ces berserkers se battent comme des déments, mais qu’ils s’imposent paradoxalement de nombreux pèlerinages dans des lieux saints. Jamais une [[Guerrière soong]] n’aurait pu briser ainsi son code d’honneur pour massacrer aveuglément des innocents.
 - Elle porte aussi une pierre de lave (souvenir de pèlerinage), où sur un côté est incrustée une croix dans un cercle de fer (<font style="color:green">Religion DD10</font> : cela désigne « le Fer et la Foi », le symbole de l’Ordre de Justicaar). Sur l’autre côté est gravé un « A » runique (<font style="color:green">Histoire DD 12</font> : c’est le sceau de la cité sainte d’Anthéone).
 - <font style="color:green">Médecine DD 14</font> : La « tache noire » sur le visage est une étrange nécrose des tissus, semblable à une plaque de gangrène. On remarque au centre la trace d’une morsure humaine. On retrouve trois autres taches similaires sur le corps, sans autre trace de morsure.
 - <font style="color:green">Médecine DD 16</font> : À l’opposé de la peau, les yeux, ongles et cheveux ont commencé à blanchir étrangement. Par ailleurs la salive, ainsi que le sang, présente des aspects atypiques (coloration noirâtre, odeur de putréfaction...). 
@@ -33,14 +33,14 @@ L’examen doit apporter progressivement certaines informations. Les jets de com
 
 ## Sort de [[communication avec les morts]]
 Selon l’habileté des PJ, un sort de [[communication avec les morts]] (ou sort divinatoire proche) peut révéler une partie - ou l’intégralité - des éléments suivants : 
-- La [[guerrière soong]] est une « Jihadda », une tueuse sacrée, élite de son clan. Elle revenait d’Anthéone après un pèlerinage : un rituel impliquant des bains purificateurs dans les sources de la cité sainte.
+- La [[Guerrière soong]] est une « Jihadda », une tueuse sacrée, élite de son clan. Elle revenait d’Anthéone après un pèlerinage : un rituel impliquant des bains purificateurs dans les sources de la cité sainte.
 - Elle s’est détendue dans un établissement de plaisir (les « Saintes Concubines »). 
 - Elle s’est fait tatouer (chez « [[Katanga]], le Maître des Encres »). 
 - Elle a commencé avoir des hallucinations pendant son voyage de retour, et ses premières taches noires sont apparues il y a deux jours. Elle ne sait pas comment c’est arrivé. 
 - Enfin, quelle que soit ta question posée, le cadavre répétera plusieurs fois « Tuez les Enfants Maudits. Tuez-les tous... », comme si son cerveau était obnubilé par cette unique idée.
 
 # Autres éléments d’enquête
-Si les PJ interrogent longuement des témoins, des passants etc., ils finiront par trouver quelqu’un qui a vu la [[guerrière soong]] arriver par la route des caravanes. Cette route passe par de nombreuses petites villes, mais la seule agglomération d’importance est la cité sainte d’Athéone, à dix jours de route (trois en gondolfière). 
+Si les PJ interrogent longuement des témoins, des passants etc., ils finiront par trouver quelqu’un qui a vu la [[Guerrière soong]] arriver par la route des caravanes. Cette route passe par de nombreuses petites villes, mais la seule agglomération d’importance est la cité sainte d’Athéone, à dix jours de route (trois en gondolfière). 
 
 Au total, les PJ devraient commencer à s’intéresser à Anthéone. Ils peuvent même supposer qu’une mystérieuse maladie, capable de transformer les gens en véritables machines à tuer, semble y être apparue. L’utilisation précise de sort de [[divination]] confirmera cela, et permettra même d’évoquer une relation avec l’Ecorcheuse (sans plus, car tout ce qui concerne Oblivion est, comment d’habitude, occulté).
 
@@ -49,7 +49,7 @@ Notez que si les PJ ont échoué à récupérer les indices précédents, ils pe
 Enfin, si des PJ ont été infectés par la gangrêve, ils ont la possibilité de s’en rendre compte (cf. description de la maladie).
 
 # Des nouvelles d’Oblivion
-Un ou deux jours après le massacre perpétré par la [[guerrière soong]], Grisou le méphite sort soudain de sa torpeur habituelle. « *Mon Miroir, c’est mon Miroir d’Audience !...* », hurle-t-il de sa voix nasillarde « *...des nouvelles d’Oblivion, Réghûlus va parler !* »
+Un ou deux jours après le massacre perpétré par la [[Guerrière soong]], Grisou le méphite sort soudain de sa torpeur habituelle. « *Mon Miroir, c’est mon Miroir d’Audience !...* », hurle-t-il de sa voix nasillarde « *...des nouvelles d’Oblivion, Réghûlus va parler !* »
 
 Effectivement, le miroir oniride, brandi fébrilement par le méphite, se couvre bientôt de fumée noire, tandis qu’une odeur d’ozone envahit l’air. Après des semaines de silence, une nouvelle audience s’ouvre enfin avec le Pays des Chimères...
 

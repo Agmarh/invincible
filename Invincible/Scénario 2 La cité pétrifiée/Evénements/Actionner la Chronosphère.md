@@ -41,7 +41,7 @@ Les personnages peuvent prendre des mesures pour bloquer la trappe d'accès au t
 
 > "L'orage se calme sur la ville et pendant de longs instants, rien ne se passe. Seul le bruit de nombreuses griffes sur le sol des rues pavées vient troubler le silence, un son qui se rapproche inéluctablement. L'attente devient insupportable lorsqu'enfin la foudre frappe non pas une fois mais cinq fois d'un coup ! Un des éclairs atteint votre installation, mais les 4 autres frappent le sol autour de vous, faisant trembler la tour sur ses fondations. Vous êtes projetés au sol. Lorsque vos yeux récupèrent, vous constatez que des créatures se dressent à l'endroit où chaque impact a eu lieu. Des sortes de spectres tourbillonnants animés par une énergie électrique se jettent vers la Chronosphère. L'aiguille qui indique le niveau d'énergie est à présent passée à 6 et le bandeau chiffré se met à tourner tout doucement."
 
-Positionnez les 4 éclairs sur le toit de la tour : tout personnage à moins de 4 mètres d'un impact doit réussir un <font style="color:green">jet de sauvegarde de Force DD 12</font> ou être projeté à terre. Chaque impact donne naissance à un [[Spectre de Foudre]].
+Positionnez les 4 éclairs sur le toit de la tour : tout personnage à moins de 4 mètres d'un impact doit réussir un <font style="color:green">jet de sauvegarde de Force DD 12</font> ou être projeté à terre. Chaque impact donne naissance à un [[Spectre de foudre]].
 
 # Round 1 
 A partir de ce moment, commencez à compter précisément les rounds de combat. Les événements suivants sont calés sur ce point de départ. Les Spectres tentent d'atteindre la Chronosphère, mais si on leur barre le chemin, ils ripostent, délaissant momentanément l'objet. 

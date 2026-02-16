@@ -16,7 +16,7 @@ Les elfes se montreront reconnaissants envers les PJ après leur sauvetage. Ils 
 Bestiaire : [[Elfe de Farendhell]] (8), [[Gobelin]] (28), [[Chef de meute Gobelin]] (2), [[Hyène de guerre]] (30).
 
 # Les chevaliers-dragons
-Cette rencontre survient dès que les PJ approchent la cité par la voie des airs, dans un rayon d’une dizaine de kilomètres (s’ils arrivent par la route, une rencontre similaire se produit, mais la monture draconique est alors remplacée par un [[lézard géant]]).
+Cette rencontre survient dès que les PJ approchent la cité par la voie des airs, dans un rayon d’une dizaine de kilomètres (s’ils arrivent par la route, une rencontre similaire se produit, mais la monture draconique est alors remplacée par un [[Lézard géant]]).
 
 Déchirant l’ultime couche de nuages immaculés surplombant Anthéone, les PJ découvrent la splendeur imposante de la cité sainte : l’impressionnante silhouette de l’Oratoire du Jugement, les terrasses luxueuses des Hautes Strates et l’étrange ceinture du Moratorium...
 
@@ -26,7 +26,7 @@ Ainsi, pendant quelques instants, les PJ ont tout loisir de détailler la formid
 
 > « *Par le Fer et la Foi, je vous ordonne de vous arrêter ! Qu’Azel-Liark me maudisse si vous ne vous posez pas immédiatement...* », tonne l’Enfermé d’une voix caverneuse.
 
-Puis le [[chevalier-dragon]] commence à questionner les PJ sur les motifs de leur voyage et leur ordonne de se poser en marge de l’Infer, le survol de la cité étant formellement interdit. Si les PJ refusent d’obtempérer, il appelle en renfort les deux autres chevaliers, qui surgissent en quelques minutes, bien décidés à faire respecter la loi...
+Puis le [[Chevalier-dragon]] commence à questionner les PJ sur les motifs de leur voyage et leur ordonne de se poser en marge de l’Infer, le survol de la cité étant formellement interdit. Si les PJ refusent d’obtempérer, il appelle en renfort les deux autres chevaliers, qui surgissent en quelques minutes, bien décidés à faire respecter la loi...
 
 L’Enfermé essaye d’impressionner les PJ (Intimidation) et multiplie les tracasseries administratives (évitables par trois jets successifs de Diplomatie ou Bluff, <font style="color:green">DD 10, DD 12 et DD 15</font>) : examen de leurs armes, prélèvement d’une taxe d’atterrissage... Un <font style="color:green">jet de Perspicacité (DD 12)</font> permettra de deviner que le zèle de ce chevalier est en rapport avec un sentiment inconcevable d’impuissance. 
 

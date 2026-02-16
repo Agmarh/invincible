@@ -14,7 +14,7 @@ L’autre industrie particulièrement développée est l’exploitation des eaux
 
 La criminalité, quasi-absente à l’intérieur d'Anthéone, est ici en pleine croissance et ce malgré les actions de prévention menées par les différentes chapelles. En particulier, franchir [[le Moratorium]] constitue l’obsession d’une grande partie de la population et il s’agit souvent d’une question de richesses...
 
-En pratique, chaque porte de la cité, surmontée d’une statue d’Anthéos, est gardée par un [[chevalier du Jugement]] et par un membre de la milice locale. Ensembles, ils filtrent les personnalités « convenables », une notion qui évolue en fonction de l’idéologie du chevalier présent ou du droit d’entrée proposé.
+En pratique, chaque porte de la cité, surmontée d’une statue d’Anthéos, est gardée par un [[Chevalier du Jugement]] et par un membre de la milice locale. Ensembles, ils filtrent les personnalités « convenables », une notion qui évolue en fonction de l’idéologie du chevalier présent ou du droit d’entrée proposé.
 
 L’Infer représente ainsi l’une des préoccupations constantes de l’Ordre de Justicaar qui souhaiteraient « assainir » ce quartier. L’Ordre y subventionne quelques établissements caritatifs (orphelinat, centres de soins...) afin de « répandre la Juste Lumière du dieu de Justice »...
 
