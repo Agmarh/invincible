@@ -44,6 +44,8 @@ Issue :
 ## Négociation chez le Baron
 Les PJs seront emmenés auprès du gouverneur de Delad, le Baron Valerius de Norven, un homme austère, qui, après enquête, les gracie (excepté le trio de criminel).
 
+> <font style="color:orange">Il semblerait qu'il y ait eu méprise, nous devrions vous remercier, vous avez permis de limiter les dégâts et de sauver une partie de la population. Au nom de Delad, merci. En revanche, vous trois, vous êtes recherchés. Un avis de recherche a été déposé par le chambellan d'Akh </font>
+
 Il demande aux PJs de bien vouloir mettre leurs compétences au service de la ville afin de trouver et éliminer le monstre ayant tué les habitants.
 
 Les 3 criminels n'auront pas vraiment le choix, ils ont été reconnus par la garde et le Baron, un avis de recherche a été posé à leur encontre depuis la ville de Akh, s'ils ont volé des bijoux pendant le spectacle, leur cas ne s'arrangera pas, le Baron propose de ne pas prendre en compte cet avis en échange de leur aide. 
