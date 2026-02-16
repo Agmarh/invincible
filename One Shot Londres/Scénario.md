@@ -46,23 +46,22 @@ Les PJs seront emmenés auprès du gouverneur de Delad, le Baron Valerius de Nor
 
 > <font style="color:orange">Il semblerait qu'il y ait eu méprise, nous devrions vous remercier, vous avez permis de limiter les dégâts et de sauver une partie de la population.</font>
 > <font style="color:orange">En revanche, vous trois, vous êtes recherchés. Un avis de recherche a été déposé par le chambellan d'Akh, vous pensiez pouvoir faire profil bas en venant ici ? En Norven, on coupe les mains des voleurs. Mais aujourd'hui, je pourrais me montrer clément, j'ai besoin de vos mains pour tenir des armes. Alors choisissez, la guillotine ou le crapaud.</font>
-> <font style="color:orange">Quand à vous autre, puis-je vous demander une nouvelle fois de nous aider ? Vous semblez compétents et nous aurions bien besoin de personnes de votre calibre pour terrasser ce monstre.</font>    
-
-Il demande aux PJs de bien vouloir mettre leurs compétences au service de la ville afin de trouver et éliminer le monstre ayant tué les habitants.
-
-Les 3 criminels n'auront pas vraiment le choix, ils ont été reconnus par la garde et le Baron, un avis de recherche a été posé à leur encontre depuis la ville de Akh, s'ils ont volé des bijoux pendant le spectacle, leur cas ne s'arrangera pas, le Baron propose de ne pas prendre en compte cet avis en échange de leur aide. 
-- "En Norven, on coupe les mains des voleurs. Mais aujourd'hui, j'ai besoin de vos mains pour tenir des armes. Choisissez"
+> <font style="color:orange">Quand à vous autre, puis-je vous demander une nouvelle fois votre aide ? Vous semblez compétents et nous aurions bien besoin de personnes de votre calibre pour terrasser ce monstre.</font>    
 
 La guerrière pour négocier éventuellement, car c'est la seule qui n'a pas d'avantage à aider la ville.
 
 Il faudra trouver Malatesta également qui est en fuite quelque part dans la ville.
 
+> <font style="color:orange">Nous cherchons activement Malatesta qui s'est enfui après l'attaque. Vous pourriez vous joindre aux recherches pour commencer ?</font> 
+
 ## La Traque dans la Basse-Ville
 L'enquête des PJs depuis le chapiteau devraient les amener dans les ruelles gelées de Delad, vers les caves d'une tannerie abandonnée en bordure de la ville, non loin de la foire.
+- Différents jets sont possibles pour la traque, interroger les bonnes personnes également. 
 
-Malatesta, mourant, ne cherchera pas à fuir, il est incapable de bouger. Il confiera aux PJs qu'il a trouvé une dague complètement noir, faite d'Obsidienne, au moment où il a saisi la dague, il n'était plus maître de son corps, il était comme manipulé.
+Malatesta est mourant et ne cherchera pas à fuir, il est incapable de bouger. Il confiera aux PJs qu'il a trouvé une dague faite dans un métal semblable à de l'Obsidienne. A l'instant où il a saisi la dague, il s'est retrouvé comme prisonnier de son propre corps, comme manipulé.
 
-Complètement conscient, son corps ne lui obéissait plus, il a assisté à toute la scène. Il s'est rendu au cœur de la forêt de l'Ancien-Tertre, sur un ancien site druidique, s'est entaillé la main avec la dague et a récité des mots dans une langue que lui même n'avait jamais entendu. 
+Complètement conscient, son corps ne lui obéissait plus, il a assisté à toute la scène. 
+> <font style="color:orange">Mon corps ne m'obéissait plus, j'étais possédé, je me suis dirigé au cœur de la forêt de l'Ancien-Tertre, sur un ancien cite druidique je pense. La chose qui me manipulait a entaillé ma main avec la dague et a récité des mots dans une langue que je ne connaissait même pas. Un portail est apparu et une créature immonde</font>
 
 Un portail est apparu laissant passer (décrire le rejeton) qui a lancé un sort pour modifier son apparence avant de rejoindre le cirque de Malatesta. Le portail est toujours ouvert, le rejeton cherche a accumuler de nombreuses âmes pour l'agrandir et laisser passer son maître dans ce monde.
 
