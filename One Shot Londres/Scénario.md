@@ -1,36 +1,38 @@
 # Phase 1 - Le Drame
-Nous sommes en Alarian, un des nombreux royaumes qui peuplent les Terres d'Osgild, et plus précisément dans la province du Norven, une région hostile peuplée d'habitants rompus à la survie. Le climat est extrême, la nature agressive et les créatures... monstrueuses.
-
-Vous êtes arrivés toutes et tous à Delad, une ville située au Nord-est de Norven. Delad est une ville de pierre sombre et de bois robuste, principalement connue pour son commerce de bois provenant d'une petite parcelle de la forêt de l'Ancien-Tertre.
-
-En ce moment se déroule, en bordure de la ville, une grande foire organisée par Malatesta et sa troupe, des hommes du cirque venu présenter leurs nouveaux spectacles.
-
+> <font style="color:orange">Nous sommes en Alarian, un des nombreux royaumes qui peuplent les Terres d'Osgild, et plus précisément dans la province du Norven, une région hostile peuplée d'habitants rompus à la survie. Le climat est extrême, la nature agressive et les créatures... monstrueuses.</font>
+> <font style="color:orange">Vous êtes arrivés toutes et tous à Delad, une ville située au Nord-est de Norven. Delad est une ville de pierre sombre et de bois robuste, principalement connue pour son commerce de bois provenant d'une petite parcelle de la forêt de l'Ancien-Tertre.</font>
+> <font style="color:orange">En ce moment se déroule, en bordure de la ville, une grande foire organisée par Malatesta et sa troupe, des hommes du cirque venu présenter leurs nouveaux spectacles.</font>
 ## Les joueurs
-### Druidesse
-Protectrice du Bois des Murmures, une extension sauvage de la forêt de l'Ancien-Tertre située plus au nord et un lieu ancien où les esprits ne dorment jamais, elle a été avertie par son gardien spirituel de perturbations inquiétantes proches de la ville. Ses recherches l'ont amenée au centre du chapiteau de Malatesta.
-### Guerrière
-De passage dans la région, elle s'est arrêtée à Delad pour profiter de la foire et est assise dans les gradins au moment du drame.
-### Sorcière
-Depuis quelques temps maintenant, le fiélon ayant scellé un pacte avec elle semble perturbé et l'incite à enquêter sur un mal qui rôde près de Delad. Elle "ressent" l'inquiétude de son patron démoniaque au fur et à mesure qu'elle s'approche du chapiteau.
-### Rôdeuse - Barde - Roublarde
-Après quelques mauvais coups réalisés à Akh, une grande citée de la province de Norven non loin de Delad, les 3 comparses ont décidés de se faire légèrement "oublier" et sont arrivés à Delad dans l'optique de passer inaperçu tout en profitant de l'engouement généré par la foire et, pourquoi pas, délester les riches présents de quelques pièces.
 
+| Druidesse                                                                                                                                                                                                                                                                                                                       | Guerrière                                                                                                                          | Sorcière                                                                                                                                                                                                                                                       | Rôdeuse - Barde - Roublarde                                                                                                                                                                                                                                                                                                                               |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Protectrice du Bois des Murmures, une extension sauvage de la forêt de l'Ancien-Tertre située plus au nord et un lieu ancien où les esprits ne dorment jamais, elle a été avertie par son gardien spirituel de perturbations inquiétantes proches de la ville. Ses recherches l'ont amenée au centre du chapiteau de Malatesta. | De passage dans la région, elle s'est arrêtée à Delad pour profiter de la foire et est assise dans les gradins au moment du drame. | Depuis quelques temps maintenant, le fiélon ayant scellé un pacte avec elle semble perturbé et l'incite à enquêter sur un mal qui rôde près de Delad. Elle "ressent" l'inquiétude de son patron démoniaque au fur et à mesure qu'elle s'approche du chapiteau. | Après quelques mauvais coups réalisés à Akh, une grande citée de la province de Norven non loin de Delad, les 3 comparses ont décidés de se faire légèrement "oublier" et sont arrivés à Delad dans l'optique de passer inaperçu tout en profitant de l'engouement généré par la foire et, pourquoi pas, délester les riches présents de quelques pièces. |
 ## Le spectacle
-L'odeur de vin chaud et les applaudissements accompagnent les différentes prestations des athlètes de la foire de Malatesta, jusqu'au moment où se prépare le clou du spectacle.
+L'odeur de vin chaud et les applaudissements accompagnent les différentes prestations des athlètes de la foire, jusqu'au moment où se prépare le clou du spectacle.
 
-Le silence se fait sous le chapiteau. Malatesta claque son fouet et, dans un bruit de chaînes lourdes, une masse sombre est traînée sur la sciure du sol. C'est une abomination de la nature : un crapaud de la taille d'un bœuf, à la peau d'un bleu nuit presque noir. Ses yeux jaunes, immenses et globuleux, fixent la foule avec une faim primitive. Sa gueule, immense, semble capable d'avaler un homme d'un seul coup. 
+Le silence se fait sous le chapiteau. Malatesta claque son fouet et, dans un bruit de chaînes lourdes, une masse sombre est traînée sur la sciure du sol. Vous voyez un crapaud qui fait le double de la taille d'un taureau, à la peau d'un bleu nuit presque noir. Ses yeux jaunes, immenses et globuleux, fixent la foule avec une faim presque tangible et primitive. Sa gueule, immense, semble capable d'avaler un homme d'un seul coup. 
 
-Le Glouton des Failles sort de sa cage et effectue quelques acrobaties sous la direction de Malatesta.
+> <font style="color:orange">Admirez ! Mesdames, Messieurs et jeunes gens venus des 4 coins de Norven. Un glouton des failles tout droit sorti de son marais putride ! Capturé et dressé, pour votre plus grand plaisir !</font>
 
-Soudain, le Crapaud s'arrête. Son corps se met à vibrer, à gonfler de manière surnaturelle. Une brume verdâtre et fétide s'échappe de sa peau. Puis, dans un craquement d'os, le corps du batracien se déchire et explose. Une créature insectoïde à la tête de cafard géant s'en extrait. Elle dégage une odeur de charogne et de moisissure. Ses mandibules claquent tandis qu'un liquide verdâtre s'écoule de ses articulations. Le rejeton démoniaque se lève et fonce droit vers la foule. Vous n'avez pas le temps de réagir que déjà 6 personnes s'effondrent, frappées par la créature. 
+Malatesta claque son fouet et semble agiter une petite belette, vraisemblablement morte, en direction du crapaud. Le Glouton des Failles sort de sa cage et, guidé par son maître, effectue quelques acrobaties :
+- Se mettre debout
+- Sauter dans un arceau de flamme
+- Malatesta ira même jusqu'à se placer dans la gueule du crapaud pour amuser la galerie
 
-La druidesse peut faire un jet de connaissance : cette monstruosité, le rejeton d'Akyishigal, n'a rien à faire sur ce plan.
-La sorcière entendra son fiélon lui murmurer : "Ecrase ce moucheron avant qu'il ne soit trop tard, il empeste."
+Pendant ce temps, que font les PJs ?
+- Le trio pourrait chercher à dérober quelques pièces ou bijoux
+- La guerrière pourrait les repérer ?
+- La druidesse et la sorcière peuvent sentir que le problème semble venir du crapaud, mais sans certitude, le numéro semble réel, <font style="color:green">jet de sauvegarde d'Arcane ou de Nature DD 20</font> pour se rendre compte de la supercherie. Mais pas le temps de réagir.
 
-Les corps des pauvres spectateurs se relèvent, leurs peaux fondent par endroit, leurs yeux brillent d'un vert presque démoniaque et emboitent le pas de leur nouveau maître.
+> <font style="color:orange">Soudain, le Crapaud s'arrête. Son corps se met à vibrer, à gonfler de manière surnaturelle. Une brume verdâtre et fétide s'échappe de sa peau. Puis, dans un craquement d'os, le corps du batracien se déchire et explose. Une sorte d'insecte géant à la tête de cafard apparait. La créature dégage une odeur de charogne et de moisissure. Ses mandibules claquent tandis qu'un liquide verdâtre s'écoule de ses articulations. Elle se lève et saute droit vers la foule. Vous avez à peine le temps de réagir que déjà 6 personnes s'effondrent, frappées par la créature.</font>
 
-Combat : 
-- 5 à 6 goules + le rejeton d'Akyishigal : Les goules apparaitrons par vagues. 3 au premier tour, 3 au deuxième.
+La druidesse peut faire un <font style="color:green">jet de Nature DD 15</font> pour reconnaître un [[Rejeton d'Akyishigal]], cette créature vient d'une des strates des enfers et n'a rien à faire sur ce plan.
+La sorcière entendra son fiélon lui murmurer : <font style="color:yellow">"Ecrase ce moucheron avant qu'il ne soit trop tard, il empeste."</font>
+
+> <font style="color:orange">Les corps des spectateurs précédemment tués se lèvent, leurs peaux est comme fondue par endroit, leurs yeux brillent d'un vert presque démoniaque et ils emboitent le pas de leur nouveau maître.</font>
+
+Initiative : 
+- 5 à 6 [[Goule]] + le [[Rejeton d'Akyishigal]] : Les goules apparaitrons par vagues. 3 au premier tour, 3 au deuxième.
 - Les PJs doivent intervenir pour sauver une partie de la foule et seront contraint d'affronter les goules à la place du rejeton
 
 Issue : 
@@ -56,30 +58,30 @@ L'enquête des PJs depuis le chapiteau devraient les amener dans les ruelles gel
 
 Malatesta, mourant, ne cherchera pas à fuir, il est incapable de bouger. Il confiera aux PJs qu'il a trouvé une dague complètement noir, faite d'Obsidienne, au moment où il a saisi la dague, il n'était plus maître de son corps, il était comme manipulé.
 
-Complètement conscient, son corps ne lui obéissait plus, il a assisté à toute la scène. Il s'est rendu au coeur de la forêt de l'Ancien-Tertre, sur un ancien site druidique, s'est entaillé la main avec la dague et a récité des mots dans une langue que lui même n'avait jamais entendu. 
+Complètement conscient, son corps ne lui obéissait plus, il a assisté à toute la scène. Il s'est rendu au cœur de la forêt de l'Ancien-Tertre, sur un ancien site druidique, s'est entaillé la main avec la dague et a récité des mots dans une langue que lui même n'avait jamais entendu. 
 
 Un portail est apparu laissant passer (décrire le rejeton) qui a lancé un sort pour modifier son apparence avant de rejoindre le cirque de Malatesta. Le portail est toujours ouvert, le rejeton cherche a accumuler de nombreuses âmes pour l'agrandir et laisser passer son maître dans ce monde.
 
 "Quand vous aurez vaincu le rejeton, frappez le avec cette dague, le portail se refermera."
 
-A ce moment, 2 ou 3 Quasits essaieront d'effrayer les joueurs et de les désorientés pour récupérer la dague.
+A ce moment, 2 ou 3 [[Quasit]] essaieront d'effrayer les joueurs et de les désorientés pour récupérer la dague.
 
 ## Le Cœur de la Forêt
-La piste sera difficile à suivre, la druidesse et la rôdeuse peuvent guider le groupe dans la forêt. La sorcière pourra essayer d'entrer en communion avec son fiélon pour repérer une direction à prendre (jet ?).
+La piste sera difficile à suivre, la druidesse et la rôdeuse peuvent guider le groupe dans la forêt. La sorcière pourra essayer d'entrer en communion avec son fiélon pour repérer une direction à prendre (<font style="color:green">jet ?</font>).
 
 La corruption finira par devenir visible, la neige sera parcouru de petit reflets verts, les arbres seront comme malades et le silence autour des PJs se fera plus oppressant, plus aucune bête ne rôde dans la zone.
 
-A l'arrivée au cercle druidique, les PJs verront le rejeton d'Akyishigal en pleine incantation devant le portail, de petites sphères bleues voleront proche de lui (ce sont les âmes récoltées pendant le massacre). Il faut intervenir.
+A l'arrivée au cercle druidique, les PJs verront le [[Rejeton d'Akyishigal]] en pleine incantation devant le portail, de petites sphères bleues voleront proche de lui (ce sont les âmes récoltées pendant le massacre). Il faut intervenir.
 
-3 ombres sortiront du portail à l'approche des PJs, le démon primordial a senti leur approche, le rejeton d'Akyishigal arrêtera d'incanter pour entrer en combat.
+3 [[Ombre]] sortiront du portail à l'approche des PJs, le démon primordial a senti leur approche, le [[Rejeton d'Akyishigal]] arrêtera d'incanter pour entrer en combat.
 
 Pendant le combat, si c'est trop facile, un bras gigantesque sortira du portail pour frapper le sol et essayer de déstabiliser les PJs
 
 - Monter les PV du rejeton à 90 - 100
-- 1d6 chaque round après quelques rounds :
-	- 1-2 Vents Glaciaux : Le sol devient difficile (glace) sur 6 mètres autour du portail. 
-	- 3-4 Le Bras du Démon : Une main immense frappe le sol. Un joueur au hasard doit faire un JS de Force DD 13 ou être jeté à terre (1d8 dégâts). 
-	- 5-6 Murmures de Folie : JS Sagesse DD 12 ou le joueur doit utiliser sa réaction pour s'éloigner du portail. |
+- <font style="color:red">1d6 chaque round</font> après quelques rounds :
+	- <font style="color:yellow">1-2 Vents Glaciaux :</font> Le sol devient difficile (glace) sur 6 mètres autour du portail. 
+	- <font style="color:yellow">3-4 Le Bras du Démon :</font> Une main immense frappe le sol. Un joueur au hasard doit faire un <font style="color:green">JS de Force DD 13</font> ou être jeté [[A terre]] (<font style="color:red">1d8 dégâts</font>). 
+	- <font style="color:yellow">5-6 Murmures de Folie :</font> <font style="color:green">JS Sagesse DD 12</font> ou le joueur doit utiliser sa réaction pour s'éloigner du portail. |
 ## Epilogue
 A la mort du rejeton, une fois la dague plantée, la corruption sera comme aspirée à l'intérieur de la faille avant de complètement disparaître.
 
