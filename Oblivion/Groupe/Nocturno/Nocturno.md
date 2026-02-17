@@ -14,7 +14,7 @@ Harmonisation : Oui
 ## Deuxième Extase
 - Épée longue +2 
 - **Messager des Rêves – repos long.** L’utilisateur peut lancer le sort rêve.
-- **Pouvoirs Morphéens – repos long.** Nocturno possède un pouvoir supplémentaire au choix du meneur parmi : *[[déguisement]], [[fou rire]], ténèbres, [[blessure]]*.
+- **Pouvoirs Morphéens – repos long.** Nocturno possède un pouvoir supplémentaire au choix du meneur parmi : [[déguisement]], [[fou rire]], [[Ténèbres]], [[blessure]].
 
 ## Troisième Extase
 - Épée longue +2
