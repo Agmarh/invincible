@@ -1,0 +1,1205 @@
+{
+  "monsters": [
+    [
+      "Iseult",
+      {
+        "name": "Iseult",
+        "size": "M",
+        "type": "Humanoïde",
+        "subtype": "Homme serpent",
+        "alignment": "Chaotique Bon",
+        "ac": 18,
+        "hp": 24,
+        "speed": "9 m",
+        "stats": [
+          13,
+          8,
+          14,
+          10,
+          18,
+          13
+        ],
+        "saves": [
+          {
+            "Sagesse": 6
+          },
+          {
+            "Charisme": 3
+          }
+        ],
+        "senses": "Perception passive 13",
+        "languages": "commun, runique, elfique",
+        "cr": 5,
+        "spells": [
+          "Caractéristique d’incantation : la Sagesse (DDJS 14, +6 pour toucher avec les attaques de sort). Voici ses sorts de clerc préparés :",
+          {
+            "à volonté": "<STATBLOCK-WIKI-LINK>Épargner les mourants<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Flamme sacrée<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Réparation<STATBLOCK-WIKI-LINK>"
+          },
+          {
+            "1er niveau (4 emplacements)": "<STATBLOCK-WIKI-LINK>Bénédiction<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Soin des blessures<STATBLOCK-WIKI-LINK>"
+          },
+          {
+            "2e niveau (2 emplacements)": "<STATBLOCK-WIKI-LINK>Arme spirituelle<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Restauration inférieure<STATBLOCK-WIKI-LINK>"
+          }
+        ],
+        "traits": [
+          {
+            "name": "Réseau de guilde",
+            "desc": "Quand en contact de sa guilde, tarifs préférentiels pour le négoce, accès aux bâtiments, approvisionnement, informations mais aussi certains services privilégiés, par des intermédiaires clandestins faisant affaire avec la guilde (contrebande, prostitution et trafics)."
+          },
+          {
+            "name": "Métamorphe",
+            "desc": "Se transforme pour ressembler à un humain normal. 1 action. Votre visage devient humain et votre queue disparaît. Votre transformation n'est pas parfaite un individu peut dépenser une action pour vous examiner et effectuer un test d'Investigation contre une difficulté de 8 + votre modificateur de Charisme + votre bonus de maîtrise. S'il le réussit, il réalise que quelque chose ne va pas. Votre forme humaine est constante : vous ne pouvez changer de visage ou de couleur de cheveux, par exemple, et encore moins prendre l'apparence d'une autre personne. Conserver cette forme vous demande de maintenir votre concentration Repos long)."
+          },
+          {
+            "name": "Révélation",
+            "desc": "Vous avez parfois des intuitions, lorsqu'une créature ou un PNJ effectue un test de caractéristique en opposition avec vous ou un test d'attaque, vous pouvez décider de demander au MJ de refaire ce test (Repos long)."
+          },
+          {
+            "name": "Sang froid",
+            "desc": "Vous êtes vulnérable aux dégâts de froid."
+          },
+          {
+            "name": "Langage des émotions",
+            "desc": "Vous pouvez communiquer avec d'autres hommes serpents dans un rayon de 36 mètres. Il faut cependant pour cela que vous et votre interlocuteur vous regardiez droit dans les yeux. Vous ne pouvez échanger de mots, uniquement des émotions et des sensations."
+          },
+          {
+            "name": "Canalisation d'énergie divine",
+            "desc": "Choisissez quel effet vous souhaitez produire (Repos court ou long)."
+          },
+          {
+            "name": "Canalisation d'énergie divine - Renvoi des morts-vivants",
+            "desc": "Vous pouvez utiliser une action pour brandir votre symbole sacré et prononcer une prière contre les morts-vivants. Dans un rayon de 9 mètres, chaque mort-vivant qui peut vous voir ou vous entendre doit faire un jet de sauvegarde de Sagesse. Si une créature échoue, elle est repoussée pendant 1 minute ou jusqu'à ce qu'elle subisse des dégâts."
+          },
+          {
+            "name": "Disciple de la vie",
+            "desc": "À chaque fois que vous utilisez un sort de niveau 1 ou plus afin de redonner des points de vie à une créature, celle-ci regagne un nombre de points de vie supplémentaires égal à 2 + le niveau du sort."
+          },
+          {
+            "name": "Canalisation d'énergie divine - Préserver la vie",
+            "desc": "Vous pouvez utiliser une action pour présenter votre symbole sacré et invoquer une énergie curative capable de redonner autant de points de vie que cinq fois votre niveau de clerc. Choisissez des créatures qui se trouvent dans un rayon de 9 mètres de vous et divisez ces points de vie entre elles. Vous ne pouvez pas l'utiliser sur des morts-vivants ou des créatures artificielles."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Masse d'armes",
+            "desc": "Attaque d’arme au corps-à-corps : +2 pour toucher, allonge 1,50 m, une cible. Touché : 4 (1d6+2) dégâts contondants."
+          },
+          {
+            "name": "Arbalète légère",
+            "desc": "Attaque d’arme à distance : +2 pour toucher, 24-96 m, une cible. Touché : 6 (1d8+2) dégâts perforants."
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "Rivalt",
+      {
+        "name": "Rivalt",
+        "size": "M",
+        "type": "Humanoïde",
+        "subtype": "Demi-elfe",
+        "alignment": "Neutre Bon",
+        "ac": 16,
+        "hp": 28,
+        "speed": "9 m",
+        "stats": [
+          19,
+          8,
+          14,
+          10,
+          14,
+          14
+        ],
+        "saves": [
+          {
+            "Force": 6
+          },
+          {
+            "Constitution": 4
+          }
+        ],
+        "senses": "Perception passive 14",
+        "languages": "commun, elfique, nain",
+        "spells": [
+          "Caractéristique d’incantation : Charisme (DDJS 12, +4 pour toucher avec les attaques de sort). Voici ses sorts de Sorcelame préparés :",
+          {
+            "à volonté": "<STATBLOCK-WIKI-LINK>Trait de feu<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Rayon de givre<STATBLOCK-WIKI-LINK>"
+          },
+          {
+            "1er niveau (Coûte 2 points de sorcellerie)": "<STATBLOCK-WIKI-LINK>Geyser d'énergie<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Mains brûlantes<STATBLOCK-WIKI-LINK>"
+          },
+          "2ème niveau (Coûte 3 points de sorcellerie)",
+          "3ème niveau (Coûte 5 points de sorcellerie)",
+          "4ème niveau (Coûte 6 points de sorcellerie)"
+        ],
+        "traits": [
+          {
+            "name": "Besoin de personne",
+            "desc": "Vous avez appris à vous débrouiller seul. Vous savez toujours où trouver un abri discret où se reposer et faire du feu la nuit tombée. De plus, vous repérez facilement les zones contenant des herbes médicinales ou des champignons comestibles."
+          },
+          {
+            "name": "Ascendance féerique",
+            "desc": "Vous bénéficiez d'un avantage sur les jets de sauvegarde contre l'effet <STATBLOCK-WIKI-LINK>Charmé<STATBLOCK-WIKI-LINK> et un effet magique ne peut pas vous plonger dans le sommeil."
+          },
+          {
+            "name": "Style de combat",
+            "desc": "Combat à deux armes : Quand vous combattez avec deux armes, vous pouvez ajouter votre modificateur de caractéristique aux dégâts de la deuxième attaque."
+          },
+          {
+            "name": "Second souffle",
+            "desc": "1 action bonus pour regagner un nombre de points de vie égal à 1d10 + niveau de guerrier (Repos court ou long)."
+          },
+          {
+            "name": "Sursaut d'activité",
+            "desc": "Gagne 1 action supplémentaire en plus de votre action normale et d'une éventuelle action bonus (Repos court ou repos long."
+          },
+          {
+            "name": "Initié",
+            "desc": "Gagne un nombre de point de sorcellerie égal au niveau. Repos long pour récupérer tous les points. Nouveau sort d'ensorceleur à chaque niveau pair. Peut lancer des sorts de niveau égal au bonus de maîtrise."
+          },
+          {
+            "name": "Drain d'énergie",
+            "desc": "Lorsque vous réalisez une attaque de corps-à-corps qui réduit un adversaire à 0 point de vie et que ce coup lui est fatal, vous pouvez utiliser votre réaction pour déclencher le drain d'énergie. Dans ce cas, à votre prochain tour, la magie de votre victime s'échappe de celle-ci sous forme d'éclairs qui vous frappent et ricochent autour d'elle dans un rayon de 6 mètres. Ces éclairs infligent à toutes les créatures dans la zone 1d6 points de dégâts de foudre par point de l'indice de dangerosité de la créature (ID). Chaque cible peut effectuer un jet de sauvegarde de Dextérité DD 10 pour annuler complètement les dégâts. Lorsque les éclairs vous frappent (vous devez rester dans la zone d'effet), vous ne perdez aucun point de vie, mais vous êtes <STATBLOCK-WIKI-LINK>Neutralisé<STATBLOCK-WIKI-LINK> durant votre tour et vous récupérez 1 point de sorcellerie par tranche de 10 points de dégâts que vous auriez reçus des éclairs. Si ID inférieur à 1, il s'agit en fait plutôt de modestes étincelles sans danger qui ne vous rapportent aucun point de sorcellerie (Repos court ou long)."
+          }
+        ],
+        "actions": [
+          {
+            "name": "<STATBLOCK-WIKI-LINK>Nocturno 1<STATBLOCK-WIKI-LINK>",
+            "desc": "Attaque d’arme au corps-à-corps : +7 pour toucher, allonge 1,50 m, une cible. Touché : 9 (1d8+5) dégâts tranchants. Polyvalente 11 (1d10+5) si portée à deux mains."
+          },
+          {
+            "name": "Epées courtes x2",
+            "desc": "Attaque d’arme au corps-à-corps : +6 pour toucher, allonge 1,50 m, une cible. Touché : 6 (1d6+4) dégâts perforants."
+          },
+          {
+            "name": "Arbalète légère",
+            "desc": "Attaque d’arme à distance : +1 pour toucher, portée 24/96 m, une cible. Touché : 4 (1d8) dégâts perforants."
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "N'Djin",
+      {
+        "name": "N'Djin",
+        "size": "M",
+        "type": "Humanoïde",
+        "subtype": "Demi-elfe",
+        "alignment": "Neutre Bon",
+        "ac": 16,
+        "hp": 28,
+        "speed": "9 m",
+        "stats": [
+          19,
+          8,
+          14,
+          10,
+          14,
+          14
+        ],
+        "saves": [
+          {
+            "Force": 6
+          },
+          {
+            "Constitution": 4
+          }
+        ],
+        "senses": "Perception passive 14",
+        "languages": "commun, elfique, nain",
+        "spells": [
+          "Caractéristique d’incantation : Charisme (DDJS 12, +4 pour toucher avec les attaques de sort). Voici ses sorts de Sorcelame préparés :",
+          {
+            "à volonté": "<STATBLOCK-WIKI-LINK>Trait de feu<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Rayon de givre<STATBLOCK-WIKI-LINK>"
+          },
+          {
+            "1er niveau (Coûte 2 points de sorcellerie)": "<STATBLOCK-WIKI-LINK>Geyser d'énergie<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Mains brûlantes<STATBLOCK-WIKI-LINK>"
+          },
+          "2ème niveau (Coûte 3 points de sorcellerie)",
+          "3ème niveau (Coûte 5 points de sorcellerie)",
+          "4ème niveau (Coûte 6 points de sorcellerie)"
+        ],
+        "traits": [
+          {
+            "name": "Besoin de personne",
+            "desc": "Vous avez appris à vous débrouiller seul. Vous savez toujours où trouver un abri discret où se reposer et faire du feu la nuit tombée. De plus, vous repérez facilement les zones contenant des herbes médicinales ou des champignons comestibles."
+          },
+          {
+            "name": "Ascendance féerique",
+            "desc": "Vous bénéficiez d'un avantage sur les jets de sauvegarde contre l'effet <STATBLOCK-WIKI-LINK>Charmé<STATBLOCK-WIKI-LINK> et un effet magique ne peut pas vous plonger dans le sommeil."
+          },
+          {
+            "name": "Style de combat",
+            "desc": "Combat à deux armes : Quand vous combattez avec deux armes, vous pouvez ajouter votre modificateur de caractéristique aux dégâts de la deuxième attaque."
+          },
+          {
+            "name": "Second souffle",
+            "desc": "1 action bonus pour regagner un nombre de points de vie égal à 1d10 + niveau de guerrier (Repos court ou long)."
+          },
+          {
+            "name": "Sursaut d'activité",
+            "desc": "Gagne 1 action supplémentaire en plus de votre action normale et d'une éventuelle action bonus (Repos court ou repos long."
+          },
+          {
+            "name": "Initié",
+            "desc": "Gagne un nombre de point de sorcellerie égal au niveau. Repos long pour récupérer tous les points. Nouveau sort d'ensorceleur à chaque niveau pair. Peut lancer des sorts de niveau égal au bonus de maîtrise."
+          },
+          {
+            "name": "Drain d'énergie",
+            "desc": "Lorsque vous réalisez une attaque de corps-à-corps qui réduit un adversaire à 0 point de vie et que ce coup lui est fatal, vous pouvez utiliser votre réaction pour déclencher le drain d'énergie. Dans ce cas, à votre prochain tour, la magie de votre victime s'échappe de celle-ci sous forme d'éclairs qui vous frappent et ricochent autour d'elle dans un rayon de 6 mètres. Ces éclairs infligent à toutes les créatures dans la zone 1d6 points de dégâts de foudre par point de l'indice de dangerosité de la créature (ID). Chaque cible peut effectuer un jet de sauvegarde de Dextérité DD 10 pour annuler complètement les dégâts. Lorsque les éclairs vous frappent (vous devez rester dans la zone d'effet), vous ne perdez aucun point de vie, mais vous êtes <STATBLOCK-WIKI-LINK>Neutralisé<STATBLOCK-WIKI-LINK> durant votre tour et vous récupérez 1 point de sorcellerie par tranche de 10 points de dégâts que vous auriez reçus des éclairs. Si ID inférieur à 1, il s'agit en fait plutôt de modestes étincelles sans danger qui ne vous rapportent aucun point de sorcellerie (Repos court ou long)."
+          }
+        ],
+        "actions": [
+          {
+            "name": "<STATBLOCK-WIKI-LINK>Nocturno 1<STATBLOCK-WIKI-LINK>",
+            "desc": "Attaque d’arme au corps-à-corps : +7 pour toucher, allonge 1,50 m, une cible. Touché : 9 (1d8+5) dégâts tranchants. Polyvalente 11 (1d10+5) si portée à deux mains."
+          },
+          {
+            "name": "Epées courtes x2",
+            "desc": "Attaque d’arme au corps-à-corps : +6 pour toucher, allonge 1,50 m, une cible. Touché : 6 (1d6+4) dégâts perforants."
+          },
+          {
+            "name": "Arbalète légère",
+            "desc": "Attaque d’arme à distance : +1 pour toucher, portée 24/96 m, une cible. Touché : 4 (1d8) dégâts perforants."
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "Kogarm",
+      {
+        "name": "Kogarm",
+        "size": "M",
+        "type": "Humanoïde",
+        "subtype": "Demi-elfe",
+        "alignment": "Neutre Bon",
+        "ac": 16,
+        "hp": 28,
+        "speed": "9 m",
+        "stats": [
+          19,
+          8,
+          14,
+          10,
+          14,
+          14
+        ],
+        "saves": [
+          {
+            "Force": 6
+          },
+          {
+            "Constitution": 4
+          }
+        ],
+        "senses": "Perception passive 14",
+        "languages": "commun, elfique, nain",
+        "spells": [
+          "Caractéristique d’incantation : Charisme (DDJS 12, +4 pour toucher avec les attaques de sort). Voici ses sorts de Sorcelame préparés :",
+          {
+            "à volonté": "<STATBLOCK-WIKI-LINK>Trait de feu<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Rayon de givre<STATBLOCK-WIKI-LINK>"
+          },
+          {
+            "1er niveau (Coûte 2 points de sorcellerie)": "<STATBLOCK-WIKI-LINK>Geyser d'énergie<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Mains brûlantes<STATBLOCK-WIKI-LINK>"
+          },
+          "2ème niveau (Coûte 3 points de sorcellerie)",
+          "3ème niveau (Coûte 5 points de sorcellerie)",
+          "4ème niveau (Coûte 6 points de sorcellerie)"
+        ],
+        "traits": [
+          {
+            "name": "Besoin de personne",
+            "desc": "Vous avez appris à vous débrouiller seul. Vous savez toujours où trouver un abri discret où se reposer et faire du feu la nuit tombée. De plus, vous repérez facilement les zones contenant des herbes médicinales ou des champignons comestibles."
+          },
+          {
+            "name": "Ascendance féerique",
+            "desc": "Vous bénéficiez d'un avantage sur les jets de sauvegarde contre l'effet <STATBLOCK-WIKI-LINK>Charmé<STATBLOCK-WIKI-LINK> et un effet magique ne peut pas vous plonger dans le sommeil."
+          },
+          {
+            "name": "Style de combat",
+            "desc": "Combat à deux armes : Quand vous combattez avec deux armes, vous pouvez ajouter votre modificateur de caractéristique aux dégâts de la deuxième attaque."
+          },
+          {
+            "name": "Second souffle",
+            "desc": "1 action bonus pour regagner un nombre de points de vie égal à 1d10 + niveau de guerrier (Repos court ou long)."
+          },
+          {
+            "name": "Sursaut d'activité",
+            "desc": "Gagne 1 action supplémentaire en plus de votre action normale et d'une éventuelle action bonus (Repos court ou repos long."
+          },
+          {
+            "name": "Initié",
+            "desc": "Gagne un nombre de point de sorcellerie égal au niveau. Repos long pour récupérer tous les points. Nouveau sort d'ensorceleur à chaque niveau pair. Peut lancer des sorts de niveau égal au bonus de maîtrise."
+          },
+          {
+            "name": "Drain d'énergie",
+            "desc": "Lorsque vous réalisez une attaque de corps-à-corps qui réduit un adversaire à 0 point de vie et que ce coup lui est fatal, vous pouvez utiliser votre réaction pour déclencher le drain d'énergie. Dans ce cas, à votre prochain tour, la magie de votre victime s'échappe de celle-ci sous forme d'éclairs qui vous frappent et ricochent autour d'elle dans un rayon de 6 mètres. Ces éclairs infligent à toutes les créatures dans la zone 1d6 points de dégâts de foudre par point de l'indice de dangerosité de la créature (ID). Chaque cible peut effectuer un jet de sauvegarde de Dextérité DD 10 pour annuler complètement les dégâts. Lorsque les éclairs vous frappent (vous devez rester dans la zone d'effet), vous ne perdez aucun point de vie, mais vous êtes <STATBLOCK-WIKI-LINK>Neutralisé<STATBLOCK-WIKI-LINK> durant votre tour et vous récupérez 1 point de sorcellerie par tranche de 10 points de dégâts que vous auriez reçus des éclairs. Si ID inférieur à 1, il s'agit en fait plutôt de modestes étincelles sans danger qui ne vous rapportent aucun point de sorcellerie (Repos court ou long)."
+          }
+        ],
+        "actions": [
+          {
+            "name": "<STATBLOCK-WIKI-LINK>Nocturno 1<STATBLOCK-WIKI-LINK>",
+            "desc": "Attaque d’arme au corps-à-corps : +7 pour toucher, allonge 1,50 m, une cible. Touché : 9 (1d8+5) dégâts tranchants. Polyvalente 11 (1d10+5) si portée à deux mains."
+          },
+          {
+            "name": "Epées courtes x2",
+            "desc": "Attaque d’arme au corps-à-corps : +6 pour toucher, allonge 1,50 m, une cible. Touché : 6 (1d6+4) dégâts perforants."
+          },
+          {
+            "name": "Arbalète légère",
+            "desc": "Attaque d’arme à distance : +1 pour toucher, portée 24/96 m, une cible. Touché : 4 (1d8) dégâts perforants."
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "Cœur de la bâtisse assassine",
+      {
+        "image": "<STATBLOCK-WIKI-LINK>monstre.png<STATBLOCK-WIKI-LINK>",
+        "name": "Cœur de la bâtisse assassine",
+        "size": "G",
+        "type": "Abomination",
+        "subtype": null,
+        "alignment": "Neutre",
+        "ac": 0,
+        "hp": 100,
+        "actions": [
+          {
+            "name": "Génération de Pseudopode",
+            "desc": "La bâtisse génère 4 <STATBLOCK-WIKI-LINK>Pseudopode<STATBLOCK-WIKI-LINK> au début du combat puis un nouveau si l'un d'entre eux a été détruit lors du précédent tour. A la mort d'un pseudopode, le coeur subit 10 points de dégâts."
+          },
+          {
+            "name": "Vague d'acide (tous les 3 rounds)",
+            "desc": "Attaque de zone : jet de sauvegarde de Dextérité DD 15 pour réduire les dégâts de moitié. Touché : 14 (2d8) dégâts d'acide."
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "Pseudopode",
+      {
+        "image": "<STATBLOCK-WIKI-LINK>monstre.png<STATBLOCK-WIKI-LINK>",
+        "name": "Pseudopode",
+        "size": "G",
+        "type": "Abomination",
+        "subtype": null,
+        "alignment": "Neutre",
+        "ac": 12,
+        "hp": 15,
+        "actions": [
+          {
+            "name": "Frappe",
+            "desc": "Attaque d’arme au corps-à-corps : +6 pour toucher, toute la pièce, une cible par pseudopode. Touché : 11 (2d6+4) dégâts de poison."
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "Golem de fer inférieur",
+      {
+        "name": "Golem de fer inférieur",
+        "size": "G",
+        "type": "Créature artificielle",
+        "subtype": null,
+        "alignment": "Non-alignée",
+        "ac": "17 (armure naturelle)",
+        "hp": 178,
+        "hit_dice": "17d10+85",
+        "speed": "9 m",
+        "stats": [
+          22,
+          9,
+          20,
+          3,
+          11,
+          1
+        ],
+        "damage_resistances": "contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en adamantium",
+        "damage_immunities": "de poison, psychiques",
+        "condition_immunities": "<STATBLOCK-WIKI-LINK>Charmé<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Empoisonné<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Épuisé<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Paralysé<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Pétrifié<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Terrorisé<STATBLOCK-WIKI-LINK>",
+        "senses": "vision dans le noir 36 m, Perception passive 10",
+        "languages": "comprend les langues de son créateur mais ne peut pas parler",
+        "cr": 10,
+        "traits": [
+          {
+            "name": "Armes magiques",
+            "desc": "Les attaques d’arme du golem sont magiques."
+          },
+          {
+            "name": "Forme immuable",
+            "desc": "Le golem est immunisé contre les sorts et effets susceptibles d’altérer sa forme."
+          },
+          {
+            "name": "Résistance à la magie",
+            "desc": "Le golem obtient un avantage lors des jets de sauvegarde contre les sorts et autres effets magiques."
+          },
+          {
+            "name": "Point faible",
+            "desc": "Si la matrice est retirée, le Golem cesse de fonctionner. Jet de force DD 20 pour la retirer de son socle."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Attaques multiples",
+            "desc": "Le golem effectue deux attaques de coup."
+          },
+          {
+            "name": "Coup",
+            "desc": "Attaque d’arme au corps à corps : +10 pour toucher, allonge 1,50 m, une cible. Touché : 13 (2d6+6) dégâts contondants."
+          },
+          {
+            "name": "Lenteur (Recharge 5-6)",
+            "desc": "Le golem cible une ou plusieurs créatures situées dans son champ de vision à 3 mètres ou moins de lui. Les cibles doivent chacune effectuer un jet de sauvegarde de Sagesse DD 17 contre cette magie. En cas de jet de sauvegarde raté, une cible ne peut plus effectuer de réaction, sa vitesse est réduite de moitié et elle ne peut pas effectuer plus d’une attaque lors de son tour. De plus, la cible peut effectuer soit une action, soit une action bonus lors de son tour, mais pas les deux. Ces effets durent 1 minute. Une cible peut retenter le jet de sauvegarde à la fin de chacun de ses tours et mettre fin à l’effet dont elle est victime en cas de réussite."
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "Goule",
+      {
+        "image": "<STATBLOCK-WIKI-LINK>monstre.png<STATBLOCK-WIKI-LINK>",
+        "name": "Goule",
+        "size": "M",
+        "type": "Mort-vivant",
+        "subtype": null,
+        "alignment": "Chaotique Mauvais",
+        "ac": 12,
+        "hp": 22,
+        "hit_dice": "5d8",
+        "speed": "9 m",
+        "stats": [
+          13,
+          15,
+          10,
+          7,
+          10,
+          6
+        ],
+        "senses": "vision dans le noir 18 m, Perception passive 10",
+        "languages": "commun",
+        "cr": 1,
+        "damage_immunities": "de poison",
+        "condition_immunities": "<STATBLOCK-WIKI-LINK>Charmé<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Empoisonné<STATBLOCK-WIKI-LINK> et <STATBLOCK-WIKI-LINK>Épuisé<STATBLOCK-WIKI-LINK>",
+        "actions": [
+          {
+            "name": "Griffes",
+            "desc": "Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une cible. Touché : 7 (2d4+2) dégâts tranchants. Si la cible n'est pas un mort-vivant ou un elfe, elle doit réussir un jet de sauvegarde de Constitution DD 10 pour ne pas être <STATBLOCK-WIKI-LINK>Paralysé<STATBLOCK-WIKI-LINK> pendant 1 minute. La cible peut retenter le jet de sauvegarde à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite."
+          },
+          {
+            "name": "Morsure",
+            "desc": "Attaque d'arme au corps à corps : +2 pour toucher, allonge 1,50 m, une créature. Touché : 9 (2d6+2) dégâts perforants."
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "Nuée d'insectes",
+      {
+        "image": "<STATBLOCK-WIKI-LINK>monstre.png<STATBLOCK-WIKI-LINK>",
+        "name": "Nuée d'insectes",
+        "size": "M",
+        "type": "Nuée composée de bête TP",
+        "subtype": null,
+        "alignment": "Non-alignée",
+        "ac": 12,
+        "hp": 22,
+        "hit_dice": "5d8",
+        "speed": "6 m, escalade 6 m",
+        "stats": [
+          3,
+          13,
+          10,
+          1,
+          7,
+          1
+        ],
+        "damage_resistances": "contondants, perforants et tranchants",
+        "condition_immunities": "<STATBLOCK-WIKI-LINK>A terre<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Charmé<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Empoigné<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Étourdi<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Paralysé<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Pétrifié<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Terrorisé<STATBLOCK-WIKI-LINK>",
+        "senses": "vision aveugle 3 m, Perception passive 8",
+        "languages": [
+          null
+        ],
+        "cr": "1/2",
+        "traits": [
+          {
+            "name": "Nuée",
+            "desc": "La nuée peut occuper l'emplacement d'une autre créature, et vice versa. Elle peut passer par n'importe quelle ouverture suffisamment large pour un insecte de taille TP. Elle ne peut pas récupérer de point de vie ou gagner de point de vie temporaire."
+          },
+          {
+            "name": "Expectoration de nuées (recharge 5-6)",
+            "desc": "Un rejeton peut cracher une nuée d'insectes. Cette nuée est entièrement sous son contrôle. Elle persiste pendant une minute ou jusqu'à ce qu'elle soit détruite."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Morsure",
+            "desc": "Attaque d'arme au corps à corps : +3 pour toucher, allonge 0 m, une créature dans l'emplacement de la nuée. Touché : 10 (4d4) dégâts perforants ou 5 (2d4) dégâts perforants si la nuée a perdu au moins la moitié de ses points de vie."
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "Rejeton d'Akyishigal",
+      {
+        "image": "<STATBLOCK-WIKI-LINK>monstre.png<STATBLOCK-WIKI-LINK>",
+        "name": "Rejeton d'Akyishigal",
+        "size": "M",
+        "type": "Fiélon",
+        "subtype": "Démon",
+        "alignment": "Chaotique Mauvais",
+        "ac": 15,
+        "hp": 119,
+        "hit_dice": "14d8+56",
+        "speed": "9 m, escalade 4,50 m",
+        "stats": [
+          15,
+          13,
+          19,
+          10,
+          11,
+          12
+        ],
+        "saves": [
+          {
+            "Dex": 4
+          }
+        ],
+        "damage_immunities": "de poison",
+        "condition_immunities": "<STATBLOCK-WIKI-LINK>Empoisonné<STATBLOCK-WIKI-LINK>",
+        "senses": "vision dans le noir 18 m, Perception passive 10",
+        "languages": "infernal",
+        "cr": 5,
+        "traits": [
+          {
+            "name": "Contrôle de la vermine",
+            "desc": "Les rejetons d'Akyishigal peuvent donner des ordres à des bêtes de Très Petite taille d'une Intelligence de 2 ou moins, qui se trouvent dans un rayon de 9 mètres et ne sont pas contrôlées par magie. La vermine obéit aux ordres du rejeton au mieux de ses capacités sans se soucier de sa propre sécurité."
+          },
+          {
+            "name": "Expectoration de nuées (recharge 5-6)",
+            "desc": "Un rejeton peut cracher une <STATBLOCK-WIKI-LINK>Nuée d'insectes<STATBLOCK-WIKI-LINK>. Cette nuée est entièrement sous son contrôle. Elle persiste pendant une minute ou jusqu'à ce qu'elle soit détruite."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Attaques multiples",
+            "desc": "Un rejeton porte une attaque de morsure et deux de dard."
+          },
+          {
+            "name": "Morsure",
+            "desc": "Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible. Touché : 7 (1d10 + 2) dégâts perforants."
+          },
+          {
+            "name": "Dard",
+            "desc": "Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible. Touché : 11 (2d8 + 2) dégâts perforants plus 5 (1d10) dégâts de poison, et la cible doit réussir un jet de sauvegarde de Constitution DD 15 ou être <STATBLOCK-WIKI-LINK>Empoisonné<STATBLOCK-WIKI-LINK> pour 1d6 rounds."
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "Quasit",
+      {
+        "image": "<STATBLOCK-WIKI-LINK>monstre.png<STATBLOCK-WIKI-LINK>",
+        "name": "Quasit",
+        "size": "TP",
+        "type": "Fiélon",
+        "subtype": "Démon, Métamorphe",
+        "alignment": "Chaotique Mauvais",
+        "ac": 13,
+        "hp": 7,
+        "hit_dice": "3d4",
+        "speed": "12 m",
+        "stats": [
+          5,
+          17,
+          10,
+          7,
+          10,
+          10
+        ],
+        "skillsaves": [
+          {
+            "Discrétion": 5
+          }
+        ],
+        "senses": "vision dans le noir 36 m, Perception passive 10",
+        "languages": "abyssal, commun",
+        "cr": 1,
+        "traits": [
+          {
+            "name": "Métamorphe",
+            "desc": "Le quasit peut utiliser son action pour se métamorphoser en l'une des bêtes suivantes : chauve-souris (vitesse 3 m, vol 12 m), millepattes (12 m, escalade 12 m) ou crapaud (12 m, nage 12 m), ou pour reprendre sa véritable forme. Ses statistiques restent les mêmes, quelle que soit la forme adoptée, à l'exception de la vitesse indiquée. Ses objets équipés ou transportés ne sont pas transformés. Le quasit reprend sa forme véritable s'il meurt."
+          },
+          {
+            "name": "Résistance à la magie",
+            "desc": "Le quasit obtient un avantage lors des jets de sauvegarde contre les sorts et autres effets magiques."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Frayeur (1/jour)",
+            "desc": "Une créature choisie par le quasit et située à 6 mètres ou moins de lui doit réussir un jet de sauvegarde de Sagesse DD 10 pour ne pas être <STATBLOCK-WIKI-LINK>Terrorisé<STATBLOCK-WIKI-LINK> pendant 1 minute. La cible peut retenter le jet de sauvegarde à la fin de chacun de ses tours (elle subit un désavantage si le quasit est dans son champ de vision) et mettre fin à l'effet dont elle est victime en cas de réussite."
+          },
+          {
+            "name": "Griffe (Morsure sous forme de bête)",
+            "desc": "Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une cible. Touché : 5 (1d4+3) dégâts perforants, et la cible doit réussir un jet de sauvegarde de Constitution DD 10 pour ne pas subir 5 (2d4) dégâts de poison et être <STATBLOCK-WIKI-LINK>Empoisonné<STATBLOCK-WIKI-LINK> pendant 1 minute. La cible peut retenter le jet de sauvegarde à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite."
+          },
+          {
+            "name": "Invisibilité",
+            "desc": "Le quasit devient invisible par magie jusqu'à ce qu'il attaque ou utilise sa Frayeur, ou si sa concentration est interrompue (comme s'il se concentrait sur un sort). Ses objets équipés ou transportés deviennent également invisibles."
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "Ombre",
+      {
+        "image": "<STATBLOCK-WIKI-LINK>monstre.png<STATBLOCK-WIKI-LINK>",
+        "name": "Ombre",
+        "size": "M",
+        "type": "Mort-vivant",
+        "subtype": null,
+        "alignment": "Chaotique Mauvais",
+        "ac": 12,
+        "hp": 16,
+        "hit_dice": "3d8+3",
+        "speed": "12 m",
+        "stats": [
+          6,
+          14,
+          13,
+          6,
+          10,
+          8
+        ],
+        "skillsaves": [
+          {
+            "Discrétion": "+4 (+6 dans une zone faiblement éclairée ou dans l'obscurité totale)"
+          }
+        ],
+        "senses": "vision dans le noir 18 m, Perception passive 10",
+        "damage_vulnerabilities": "radiants",
+        "damage_resistances": "d'acide, de feu, de foudre, de froid et contondants, perforants et tranchants infligés par des attaques non-magiques",
+        "damage_immunities": "nécrotiques et de poison",
+        "condition_immunities": "<STATBLOCK-WIKI-LINK>A terre<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Empoigné<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Empoisonné<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Entravé<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Épuisé<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Paralysé<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Pétrifié<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Terrorisé<STATBLOCK-WIKI-LINK>",
+        "languages": [
+          null
+        ],
+        "cr": "1/2",
+        "traits": [
+          {
+            "name": "Affaiblie par la lumière du soleil",
+            "desc": "L'ombre subit un désavantage lors des jets d'attaque, des tests de caractéristique et des jets de sauvegarde lorsqu'elle est exposée à la lumière du soleil."
+          },
+          {
+            "name": "Discrétion dans les ombres",
+            "desc": "Tant qu'elle se trouve dans une zone faiblement éclairée ou plongée dans l'obscurité totale, l'ombre peut effectuer l'action se cacher par une action bonus."
+          },
+          {
+            "name": "Informe",
+            "desc": "L'ombre peut traverser sans devoir se faufiler un interstice d'une largeur au moins égale à 2 centimètres."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Pönction de force",
+            "desc": "Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une créature. Touché : 9 (2d6+2) dégâts nécrotiques et la valeur de Force de la cible est réduite de 1d4 points. La cible meurt si cet effet réduit sa valeur de Force à 0. Sinon, la réduction persiste jusqu'à la fin d'une période de repos long ou court. Si un humanoïde non-mauvais meurt à cause de cette attaque, une nouvelle ombre surgit de son cadavre après 1d4 heures."
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ]
+  ],
+  "defaultLayouts": {
+    "basic-5e-layout": {
+      "blocks": [
+        {
+          "type": "inline",
+          "id": "085a08bbc879",
+          "properties": [],
+          "hasRule": true,
+          "nested": [
+            {
+              "type": "group",
+              "id": "baeb281bc80b",
+              "properties": [
+                "name",
+                "size",
+                "type",
+                "subtype",
+                "alignment"
+              ],
+              "nested": [
+                {
+                  "type": "inline",
+                  "id": "1a6bfa98fb48",
+                  "properties": [],
+                  "hasRule": false,
+                  "nested": [
+                    {
+                      "type": "heading",
+                      "id": "798a989a990a",
+                      "properties": [
+                        "name"
+                      ],
+                      "conditioned": true,
+                      "size": 1
+                    },
+                    {
+                      "type": "inline",
+                      "id": "cbaa6b0aca18",
+                      "properties": [],
+                      "hasRule": false,
+                      "nested": [
+                        {
+                          "type": "action",
+                          "id": "888a68aa3b28",
+                          "icon": "sword",
+                          "callback": "try { InitiativeTracker.newEncounter({roll: true, creatures: [monster]}); } catch(e) {}"
+                        },
+                        {
+                          "type": "action",
+                          "id": "dbfb487b9a99",
+                          "icon": "plus-with-circle",
+                          "callback": "try { InitiativeTracker.addCreatures([monster]); } catch(e) {}"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "subheading",
+                  "id": "09eaa81b6b4b",
+                  "properties": [
+                    "size",
+                    "type",
+                    "subtype",
+                    "alignment"
+                  ],
+                  "conditioned": true,
+                  "separator": ", "
+                }
+              ],
+              "conditioned": true
+            },
+            {
+              "type": "image",
+              "id": "1bf96b18493b",
+              "properties": [
+                "image"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "group",
+          "id": "9b6939da4ab9",
+          "properties": [
+            "ac",
+            "hp",
+            "speed"
+          ],
+          "nested": [
+            {
+              "type": "property",
+              "id": "8a3b9b6b1859",
+              "properties": [
+                "ac"
+              ],
+              "display": "Armor Class",
+              "conditioned": true,
+              "callback": "const ac = [monster.ac];if (\"ac_class\" in monster) {ac.push(`(${monster.ac_class})`);}return ac.join(\" \");"
+            },
+            {
+              "type": "property",
+              "id": "29fb79bbc978",
+              "properties": [
+                "hp"
+              ],
+              "display": "Hit Points",
+              "dice": true,
+              "diceProperty": "hit_dice",
+              "diceCallback": "if (\"hit_dice\" in monster) {\n  return [{ text: monster[\"hit_dice\"] }];\n} else {\n  return property;\n}",
+              "callback": "let str = [monster.hp];\nif (monster.hit_dice?.length) {\n  str.push(`(${monster.hit_dice})`);\n}\nreturn str.join(\" \");",
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "fa6a1939da3a",
+              "display": "Speed",
+              "properties": [
+                "speed"
+              ],
+              "conditioned": true
+            }
+          ],
+          "hasRule": true,
+          "conditioned": true
+        },
+        {
+          "type": "table",
+          "id": "09f8096b1998",
+          "properties": [
+            "stats"
+          ],
+          "headers": [
+            "Str",
+            "Dex",
+            "Con",
+            "Int",
+            "Wis",
+            "Cha"
+          ],
+          "calculate": true,
+          "hasRule": true,
+          "conditioned": true
+        },
+        {
+          "type": "table",
+          "id": "79abfa6bf8ca",
+          "properties": [
+            "fage_stats"
+          ],
+          "headers": [
+            "Accuracy",
+            "Communication",
+            "Constitution",
+            "Dexterity",
+            "Fighting",
+            "Intelligence",
+            "Perception",
+            "Strength",
+            "Willpower"
+          ],
+          "calculate": false,
+          "hasRule": true,
+          "conditioned": true
+        },
+        {
+          "type": "group",
+          "id": "08c95a182928",
+          "properties": [
+            "saves",
+            "skillsaves",
+            "damage_immunities",
+            "damage_resistances",
+            "damage_vulnerabilities",
+            "condition_immunities",
+            "cr",
+            "languages",
+            "senses"
+          ],
+          "nested": [
+            {
+              "type": "saves",
+              "id": "f87abb5a08ea",
+              "display": "Saves",
+              "properties": [
+                "saves"
+              ],
+              "conditioned": true
+            },
+            {
+              "type": "saves",
+              "id": "298bcb79c9ab",
+              "display": "Skills",
+              "properties": [
+                "skillsaves"
+              ],
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "aa29d92a7bfa",
+              "display": "Damage Resistances",
+              "properties": [
+                "damage_resistances"
+              ],
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "699a497ad8aa",
+              "display": "Damage Immunities",
+              "properties": [
+                "damage_immunities"
+              ],
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "0bc8ea396b3a",
+              "display": "Condition Immunities",
+              "properties": [
+                "condition_immunities"
+              ],
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "4bba5899f80a",
+              "display": "Damage Vulnerabilities",
+              "properties": [
+                "damage_vulnerabilities"
+              ],
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "781a58ca092b",
+              "display": "Senses",
+              "properties": [
+                "senses"
+              ],
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "591ac8295a79",
+              "display": "Languages",
+              "properties": [
+                "languages"
+              ],
+              "fallback": "-"
+            },
+            {
+              "type": "inline",
+              "id": "7b7adb2b6aa8",
+              "properties": [],
+              "conditioned": true,
+              "nested": [
+                {
+                  "type": "property",
+                  "id": "38fb8b986a6a",
+                  "display": "Challenge",
+                  "properties": [
+                    "cr"
+                  ],
+                  "callback": "const CR = {\n    \"0\": {\n        cr: \"0\",\n        value: 0,\n        xp: 10\n    },\n    \"1/8\": {\n        cr: \"1/8\",\n        value: 0.125,\n        xp: 25\n    },\n    \"1/4\": {\n        cr: \"1/4\",\n\n        value: 0.25,\n        xp: 50\n    },\n    \"1/2\": {\n        cr: \"1/2\",\n        value: 0.5,\n        xp: 100\n    },\n    \"0.125\": {\n        cr: \"1/8\",\n        value: 0.125,\n        xp: 25\n    },\n    \"0.25\": {\n        cr: \"1/4\",\n\n        value: 0.25,\n        xp: 50\n    },\n    \"0.5\": {\n        cr: \"1/2\",\n        value: 0.5,\n        xp: 100\n    },\n    \"1\": {\n        cr: \"1\",\n        value: 1,\n        xp: 200\n    },\n    \"2\": {\n        cr: \"2\",\n        value: 2,\n        xp: 450\n    },\n    \"3\": {\n        cr: \"3\",\n        value: 3,\n        xp: 700\n    },\n    \"4\": {\n        cr: \"4\",\n        value: 4,\n        xp: 1100\n    },\n    \"5\": {\n        cr: \"5\",\n        value: 5,\n        xp: 1800\n    },\n    \"6\": {\n        cr: \"6\",\n        value: 6,\n        xp: 2300\n    },\n    \"7\": {\n        cr: \"7\",\n        value: 7,\n        xp: 2900\n    },\n    \"8\": {\n        cr: \"8\",\n        value: 8,\n        xp: 3900\n    },\n    \"9\": {\n        cr: \"9\",\n        value: 9,\n        xp: 5000\n    },\n    \"10\": {\n        cr: \"10\",\n        value: 10,\n        xp: 5900\n    },\n    \"11\": {\n        cr: \"11\",\n        value: 11,\n        xp: 7200\n    },\n    \"12\": {\n        cr: \"12\",\n        value: 12,\n        xp: 8400\n    },\n    \"13\": {\n        cr: \"13\",\n        value: 13,\n        xp: 10000\n    },\n    \"14\": {\n        cr: \"14\",\n        value: 14,\n        xp: 11500\n    },\n    \"15\": {\n        cr: \"15\",\n        value: 15,\n        xp: 13000\n    },\n    \"16\": {\n        cr: \"16\",\n        value: 16,\n        xp: 15000\n    },\n    \"17\": {\n        cr: \"17\",\n        value: 17,\n        xp: 18000\n    },\n    \"18\": {\n        cr: \"18\",\n        value: 18,\n        xp: 20000\n    },\n    \"19\": {\n        cr: \"19\",\n        value: 19,\n        xp: 22000\n    },\n    \"20\": {\n        cr: \"20\",\n        value: 20,\n        xp: 25000\n    },\n    \"21\": {\n        cr: \"21\",\n        value: 21,\n        xp: 33000\n    },\n    \"22\": {\n        cr: \"22\",\n        value: 22,\n        xp: 41000\n    },\n    \"23\": {\n        cr: \"23\",\n        value: 23,\n        xp: 50000\n    },\n    \"24\": {\n        cr: \"24\",\n        value: 24,\n        xp: 62000\n    },\n    \"25\": {\n        cr: \"25\",\n        value: 25,\n        xp: 75000\n    },\n    \"26\": {\n        cr: \"26\",\n        value: 26,\n        xp: 90000\n    },\n    \"27\": {\n        cr: \"27\",\n        value: 27,\n        xp: 105000\n    },\n    \"28\": {\n        cr: \"28\",\n        value: 28,\n        xp: 120000\n    },\n    \"29\": {\n        cr: \"29\",\n        value: 29,\n        xp: 135000\n    },\n    \"30\": {\n        cr: \"30\",\n        value: 30,\n        xp: 155000\n    }\n};                        \nif (\"cr\" in monster && monster.cr in CR) {\n    return `${CR[\n        monster.cr\n    ].cr} (${CR[\n        monster.cr\n    ].xp.toLocaleString()} XP)`;\n}\nreturn \"\";"
+                },
+                {
+                  "type": "property",
+                  "id": "19da2a6b6a78",
+                  "display": "Proficiency Bonus",
+                  "properties": [
+                    "cr"
+                  ],
+                  "callback": "const CR = {\n    \"0\": {\n        cr: \"0\",\n        value: 0,\n        xp: 0\n    },\n    \"1/8\": {\n        cr: \"1/8\",\n        value: 0.125,\n        xp: 25\n    },\n    \"1/4\": {\n        cr: \"1/4\",\n\n        value: 0.25,\n        xp: 50\n    },\n    \"1/2\": {\n        cr: \"1/2\",\n        value: 0.5,\n        xp: 100\n    },\n    \"0.125\": {\n        cr: \"1/8\",\n        value: 0.125,\n        xp: 25\n    },\n    \"0.25\": {\n        cr: \"1/4\",\n\n        value: 0.25,\n        xp: 50\n    },\n    \"0.5\": {\n        cr: \"1/2\",\n        value: 0.5,\n        xp: 100\n    },\n    \"1\": {\n        cr: \"1\",\n        value: 1,\n        xp: 200\n    },\n    \"2\": {\n        cr: \"2\",\n        value: 2,\n        xp: 450\n    },\n    \"3\": {\n        cr: \"3\",\n        value: 3,\n        xp: 700\n    },\n    \"4\": {\n        cr: \"4\",\n        value: 4,\n        xp: 1100\n    },\n    \"5\": {\n        cr: \"5\",\n        value: 5,\n        xp: 1800\n    },\n    \"6\": {\n        cr: \"6\",\n        value: 6,\n        xp: 2300\n    },\n    \"7\": {\n        cr: \"7\",\n        value: 7,\n        xp: 2900\n    },\n    \"8\": {\n        cr: \"8\",\n        value: 8,\n        xp: 3900\n    },\n    \"9\": {\n        cr: \"9\",\n        value: 9,\n        xp: 5000\n    },\n    \"10\": {\n        cr: \"10\",\n        value: 10,\n        xp: 5900\n    },\n    \"11\": {\n        cr: \"11\",\n        value: 11,\n        xp: 7200\n    },\n    \"12\": {\n        cr: \"12\",\n        value: 12,\n        xp: 8400\n    },\n    \"13\": {\n        cr: \"13\",\n        value: 13,\n        xp: 10000\n    },\n    \"14\": {\n        cr: \"14\",\n        value: 14,\n        xp: 11500\n    },\n    \"15\": {\n        cr: \"15\",\n        value: 15,\n        xp: 13000\n    },\n    \"16\": {\n        cr: \"16\",\n        value: 16,\n        xp: 15000\n    },\n    \"17\": {\n        cr: \"17\",\n        value: 17,\n        xp: 18000\n    },\n    \"18\": {\n        cr: \"18\",\n        value: 18,\n        xp: 20000\n    },\n    \"19\": {\n        cr: \"19\",\n        value: 19,\n        xp: 22000\n    },\n    \"20\": {\n        cr: \"20\",\n        value: 20,\n        xp: 25000\n    },\n    \"21\": {\n        cr: \"21\",\n        value: 21,\n        xp: 33000\n    },\n    \"22\": {\n        cr: \"22\",\n        value: 22,\n        xp: 41000\n    },\n    \"23\": {\n        cr: \"23\",\n        value: 23,\n        xp: 50000\n    },\n    \"24\": {\n        cr: \"24\",\n        value: 24,\n        xp: 62000\n    },\n    \"25\": {\n        cr: \"25\",\n        value: 25,\n        xp: 75000\n    },\n    \"26\": {\n        cr: \"26\",\n        value: 26,\n        xp: 90000\n    },\n    \"27\": {\n        cr: \"27\",\n        value: 27,\n        xp: 105000\n    },\n    \"28\": {\n        cr: \"28\",\n        value: 28,\n        xp: 120000\n    },\n    \"29\": {\n        cr: \"29\",\n        value: 29,\n        xp: 135000\n    },\n    \"30\": {\n        cr: \"30\",\n        value: 30,\n        xp: 155000\n    }\n};           \nif (\"cr\" in monster && monster.cr in CR) {\n    return `+${Math.max(\n            Math.floor(2 + ((CR[monster.cr]?.value ?? 0) - 1) / 4),\n            2\n        )}`;\n}\nreturn \"\";"
+                }
+              ]
+            }
+          ],
+          "conditioned": true,
+          "hasRule": true
+        },
+        {
+          "type": "traits",
+          "id": "d9fb49aa38da",
+          "properties": [
+            "traits"
+          ],
+          "conditioned": true,
+          "dice": true
+        },
+        {
+          "type": "spells",
+          "id": "3a089b1afb19",
+          "properties": [
+            "spells"
+          ],
+          "conditioned": true,
+          "dice": true
+        },
+        {
+          "type": "text",
+          "id": "e8d90bab79b8",
+          "properties": [
+            "spellsNotes"
+          ],
+          "conditioned": true,
+          "text": null
+        },
+        {
+          "type": "traits",
+          "id": "d959bbeab95a",
+          "properties": [
+            "actions"
+          ],
+          "heading": "Actions",
+          "conditioned": true,
+          "dice": true
+        },
+        {
+          "type": "traits",
+          "id": "a8c9d8f9b888",
+          "properties": [
+            "bonus_actions"
+          ],
+          "heading": "Bonus Actions",
+          "conditioned": true,
+          "dice": true
+        },
+        {
+          "type": "group",
+          "id": "5b3b491b396b",
+          "properties": [
+            "legendary_description",
+            "legendary_actions"
+          ],
+          "heading": "Legendary Actions",
+          "nested": [
+            {
+              "type": "text",
+              "id": "1bf8abea899a",
+              "properties": [
+                "legendary_description"
+              ],
+              "conditioned": true,
+              "text": null
+            },
+            {
+              "type": "traits",
+              "id": "aac94968a969",
+              "properties": [
+                "legendary_actions"
+              ],
+              "conditioned": true,
+              "dice": true
+            }
+          ],
+          "conditioned": true
+        },
+        {
+          "type": "group",
+          "id": "f9299a7a29bb",
+          "properties": [
+            "mythic_description",
+            "mythic_actions"
+          ],
+          "heading": "Mythic Actions",
+          "nested": [
+            {
+              "type": "text",
+              "id": "8ac8fafa6b5b",
+              "properties": [
+                "mythic_description"
+              ],
+              "conditioned": true,
+              "text": null
+            },
+            {
+              "type": "traits",
+              "id": "793868ebea3a",
+              "properties": [
+                "mythic_actions"
+              ],
+              "conditioned": true,
+              "dice": true
+            }
+          ],
+          "conditioned": true
+        },
+        {
+          "type": "traits",
+          "id": "d808caba0bdb",
+          "properties": [
+            "reactions"
+          ],
+          "heading": "Reactions",
+          "conditioned": true,
+          "dice": true
+        },
+        {
+          "type": "traits",
+          "id": "ba9a2819196a",
+          "properties": [
+            "lair_actions"
+          ],
+          "heading": "Lair Actions",
+          "conditioned": true,
+          "dice": true
+        },
+        {
+          "type": "traits",
+          "id": "194a0a5baa9a",
+          "properties": [
+            "regional_effects"
+          ],
+          "heading": "Regional Effects",
+          "conditioned": true,
+          "dice": true
+        }
+      ],
+      "id": "basic-5e-layout",
+      "name": "Basic 5e Layout",
+      "edited": true,
+      "version": 9,
+      "diceParsing": [
+        {
+          "regex": "([\\+\\-])(\\d+) to hit",
+          "parser": "let [, sign, number] = matches;\nlet mult = 1;\nif (sign === \"-\") {\n    mult = -1;\n}\nif (!isNaN(Number(number))) {\n    return {\n        text: `1d20+${mult * Number(number)}`,\n        original\n    }\n}",
+          "id": "0be84b3b79cb",
+          "desc": "+10 to hit"
+        },
+        {
+          "regex": "(\\d+)\\s\\((\\d+d\\d+(?:\\s*[+\\-]\\s*\\d+)?)\\)",
+          "parser": "let [, base, dice] = matches;\nlet text;\nif (!isNaN(Number(base)) && dice) {\n    text = dice;\n}\nreturn { text, original: dice ?? original };",
+          "id": "c9795ada1859",
+          "desc": "4 (1d6 + 1)"
+        },
+        {
+          "regex": "([^\\s]+) ([\\+\\-])(\\d+)",
+          "parser": "\n            let [, save, sign, number] = matches;\nlet mult = 1;\nif (sign === \"-\") {\n    mult = -1;\n}\nlet text;\nif (!isNaN(Number(number))) {\n    text = `1d20+${mult * Number(number)}`;\n    original = `${save} ${sign}${number}`;\n}\nreturn { text, original };",
+          "id": "68686919cad9",
+          "desc": "+5"
+        }
+      ]
+    }
+  },
+  "layouts": [],
+  "default": "basic-5e-layout",
+  "useDice": true,
+  "renderDice": true,
+  "export": true,
+  "showAdvanced": false,
+  "version": {
+    "major": 4,
+    "minor": 10,
+    "patch": 2
+  },
+  "paths": [
+    "/"
+  ],
+  "autoParse": false,
+  "disableSRD": false,
+  "tryToRenderLinks": true,
+  "debug": false,
+  "notifiedOfFantasy": false,
+  "hideConditionHelp": false,
+  "alwaysImport": false,
+  "defaultLayoutsIntegrated": true,
+  "atomicWrite": false
+}
