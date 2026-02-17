@@ -1,4 +1,16 @@
-Les PJ se réveillent dans leur gondolfière, et se rendent vite compte qu'ils sont à Ikhâr.
+# Retour au bercail
+<font style="color:green">Faire jouer la seconde Extase avant de commencer la partie.</font>
+
+Les PJ se réveillent dans leur gondolfière, et se rendent vite compte qu'ils sont à Ikhâr. La grande transaction semble terminée depuis quelques jours et la vie reprend un cours normal.
+
+Fan'Goriah les accueille avec soulagement et admiration si ils lui racontent leurs aventure. Elle sera néanmoins inquiète par ces êtres surpuissants, les Incarnins, et surtout l'Ecorcheuse qui est une menace réelle sur leur monde. Elle comprendra mieux les faits et gestes de Löne Kernos depuis la création de la compagnie.
+
+Elle aura besoin d'eux pour la suite, elle a géré les affaires courantes, mais elle a besoin de leurs signatures pour finaliser quelques points (à définir).
+
+# La lettre de Malathor
+Rédiger la lettre
+
+
 
 Ils pourront aller voir Fan'Goriah qui sera fascinée par leur récit s'ils lui racontent leurs aventures.
 
