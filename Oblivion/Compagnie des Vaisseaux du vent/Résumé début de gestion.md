@@ -1,10 +1,10 @@
 # 🎈 **Flotte**
-- 7 gondolfières initiales
+- 6 gondolfières initiales
 - 3 détruites  
-	- **4 gondolfières restantes**    
+	- **3 gondolfières restantes**    
 	    - Gondolfière de Fan’Goriah        
 	    - Gondolfière des PJ        
-	    - 2 gondolfières affectées aux routes/comptoirs
+	    - 1 gondolfière affectées aux routes/comptoirs
 
 # 💰 **Trésor initial disponible**
 Butin total = **18 500 po**
