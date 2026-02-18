@@ -5,7 +5,7 @@ type: Humanoïde
 subtype: Demi-elfe
 alignment: Neutre Bon
 ac: 16
-hp: 28
+hp: 31
 speed: 9 m
 stats: [19, 8, 14, 10, 14, 14]
 saves:

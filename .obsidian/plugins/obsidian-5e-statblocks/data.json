@@ -9,7 +9,7 @@
         "subtype": "Homme serpent",
         "alignment": "Chaotique Bon",
         "ac": 18,
-        "hp": 24,
+        "hp": 31,
         "speed": "9 m",
         "stats": [
           13,
@@ -39,7 +39,7 @@
             "1er niveau (4 emplacements)": "<STATBLOCK-WIKI-LINK>Bénédiction<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Soin des blessures<STATBLOCK-WIKI-LINK>"
           },
           {
-            "2e niveau (2 emplacements)": "<STATBLOCK-WIKI-LINK>Arme spirituelle<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Restauration inférieure<STATBLOCK-WIKI-LINK>"
+            "2e niveau (3 emplacements)": "<STATBLOCK-WIKI-LINK>Arme spirituelle<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Restauration inférieure<STATBLOCK-WIKI-LINK>"
           }
         ],
         "traits": [

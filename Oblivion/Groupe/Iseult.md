@@ -5,7 +5,7 @@ type: Humanoïde
 subtype: Homme serpent
 alignment: Chaotique Bon
 ac: 18
-hp: 24
+hp: 31
 speed: 9 m
 stats: [13, 8, 14, 10, 18, 13]
 saves:
@@ -18,7 +18,7 @@ spells:
   - "Caractéristique d’incantation : la Sagesse (DDJS 14, +6 pour toucher avec les attaques de sort). Voici ses sorts de clerc préparés :"
   - à volonté: [[Épargner les mourants]], [[Flamme sacrée]], [[Réparation]]
   - 1er niveau (4 emplacements): [[Bénédiction]], [[Soin des blessures]]
-  - 2e niveau (2 emplacements): [[Arme spirituelle]], [[Restauration inférieure]]
+  - 2e niveau (3 emplacements): [[Arme spirituelle]], [[Restauration inférieure]]
 traits:
   - name: Réseau de guilde
     desc: Quand en contact de sa guilde, tarifs préférentiels pour le négoce, accès aux bâtiments, approvisionnement, informations mais aussi certains services privilégiés, par des intermédiaires clandestins faisant affaire avec la guilde (contrebande, prostitution et trafics).
