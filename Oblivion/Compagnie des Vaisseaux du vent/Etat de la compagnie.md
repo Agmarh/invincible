@@ -32,7 +32,7 @@ Il y a en tout 30 aéromarins, 3 cochers (pour les hippogriffes), 3 maîtres d'�
 # Apprentissage
 Il est possible d'apprendre à manier une Gondolfière avec l'aide de Silas qui se propose pour former un ou des PJs à la manœuvre. 
 
-Après 7 jours de formation complète, le PJ obtient la maîtrise des Gondolfières. Demander des 
+Après 7 jours de formation complète, le PJ obtient la maîtrise des Gondolfières. <font style="color:green">7 de jets de Sagesse DD 12</font> pour valider la formation.
 
 # 💰 **Trésor initial disponible**
 Butin total = **18 500 po**
