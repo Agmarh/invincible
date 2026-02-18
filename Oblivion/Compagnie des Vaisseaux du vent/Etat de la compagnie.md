@@ -26,29 +26,10 @@ Il est possible de recruter un nouveau capitaine parmi les aéromarins expérime
 
 # Coût financier
 
-| **Poste de dépense**      | **Coût Journalier (po)** | **Détails**                                                                         |
-| ------------------------- | ------------------------ | ----------------------------------------------------------------------------------- |
-| **Salaires Équipage**     | **42 po**                | Aéromarin (2 po x10) / Maître d'équipage (3 po) / Cocher (3 po) / Capitaine (10 po) |
-| **Vivres Équipage**       | **7 po**                 | 13 bouches à nourrir (qualité standard)                                             |
-| **Vivres Hippogriffes**   | **4 po**                 | 4 hippogriffes (viande fraîche / soins)                                             |
-| **Maintenance & Khayolt** | **5 po**                 | Matériel, réparations et nutriments                                                 |
-| **TOTAL GÉNÉRAL**         | **59 po / jour**         | **Coût de fonctionnement total**                                                    |
-- Par semaine de 10 jours : 590 po / Gondolfière
+[[Coût financier et Revenus]]
 
-**Dépenses de la Compagnie :**
-- Vaisseau à quai : **450 po**
-- Vaisseau en route : **590 po**
+><font style="color:orange">"Mes amis, le capitaine Thorkral vient de terminer le voyage jusqu'à notre comptoir de Carcéa. Lui et son équipage sont les seuls depuis la mort du Duc et la fuite de Baron Blême à pouvoir voyager jusqu'à nos comptoirs."</font>
 
-**Revenus de la Compagnie :**
-- Profit moyen du Colporteur : 
-	- **Décade 1 :** Voyage vers **Madi'Maluk** (Sud). 7 jours de vol A/R + 3 jours de commerce.
-		- _Revenu Brut :_ **1 400 po**.
-	- **Décade 2 & 3 (15 jours) :** Voyage vers **Carcéa** (Est). 12 jours de vol A/R + 3 jours de commerce.
-		- _Revenu Brut :_ **2 600 po**.
-- Revenus des taxes du comptoir d'Ikhâr : **+ 200 po / décade.**    
-- **Total Revenus : 1 340 po / décade.**   
-
-**Bilan Net : - 290 po / décade.** _Note : C'est tout à fait normal. La compagnie est en phase d'exploration. Le capital de 15 000 po permet de tenir **51 décades** (soit plus d'un an et demi de voyage) même si les PJ ne rapportent rien de leurs aventures._
 # Améliorations spécifiques
 - Renforcement du ballon avec de la soie d'araignée géante : Coût 1500 po (augmentation des PV des ballons de 20)
 - Armement supplémentaire : Catapulte légère (pour langer des flasques de feu grégeois) : coût 1000 po

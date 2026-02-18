@@ -16,6 +16,22 @@
 Dépenses par décade (Le Colporteur en mouvement, La Comptable à quai, Vaisseau des PJs à quai) : 1490 po
 
 # Revenus
-- Si le Colporteur fait la route de **Madi'Maluk** : **+ 1 400 po**
-- Si le Colporteur fait la route de **Carcéa** : **+ 1 143 po** (en lissant le voyage de 15j sur la décade)
-- Taxes et ventes locales au comptoir d'Ikhâr : **+ 100 po** en moyenne
+
+## Carcéa :
+
+| **Poste**                        | **Flux Financier (po)** | **État**                                       |
+| -------------------------------- | ----------------------- | ---------------------------------------------- |
+| **Bénéfice Net : Le Colporteur** | **+ 1 143**             | (Route de Carcéa terminée, frais déjà déduits) |
+| **Revenus : Comptoir d'Ikhâr**   | **+ 100**               | Taxes et commerce local                        |
+| **Dépense : Nef de Fan'Goriah**  | **- 450**               | À quai                                         |
+| **Dépense : Nef des PJs**        | **- 450**               | À quai                                         |
+| **SOLDE GLOBAL**                 | **+ 343 po**            | **Excédent par décade**                        |
+## Madi'Maluk
+
+| **Poste**                        | **Flux Financier (po)** | **État**                                  |
+| -------------------------------- | ----------------------- | ----------------------------------------- |
+| **Bénéfice Net : Le Colporteur** | **+ 810**               | (Route de Madi'Maluk, frais déjà déduits) |
+| **Revenus : Comptoir d'Ikhâr**   | **+ 100**               | Taxes et commerce local                   |
+| **Dépense : Nef de Fan'Goriah**  | **- 450**               | À quai                                    |
+| **Dépense : Nef des PJs**        | **- 450**               | À quai                                    |
+| **SOLDE GLOBAL**                 | **+ 10 po**             | **Excédent par décade**                   |
