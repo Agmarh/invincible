@@ -23,11 +23,11 @@ Certains employés ont déserté depuis les derniers événements. Les aéromari
 Il y a en tout 30 aéromarins, 3 cochers (pour les hippogriffes), 3 maîtres d'équipages et ## Thorkral Morigak, un capitaine.
 
 Il est possible de recruter un nouveau capitaine parmi les aéromarins expérimentés : Lilli Munggen, une gnome.
-# Coût équipage
+# Coût financier
 
-| Aéromarin  | Maître d'équipage | Cocher     | Capitaine   |
-| ---------- | ----------------- | ---------- | ----------- |
-| 2po / jour | 3po / jour        | 3po / jour | 10po / jour |
+| Aéromarin  | Maître d'équipage | Cocher     | Capitaine   | Total/Gonjdolfière |
+| ---------- | ----------------- | ---------- | ----------- | ------------------ |
+| 2po / jour | 3po / jour        | 3po / jour | 10po / jour | 42po / jour        |
 
 # Apprentissage
 Il est possible d'apprendre à manier une Gondolfière avec l'aide de Silas qui se propose pour former un ou des PJs à la manœuvre. 
