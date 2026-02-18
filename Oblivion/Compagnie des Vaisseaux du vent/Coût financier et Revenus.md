@@ -2,15 +2,15 @@
 
 ## Dépenses par Gondolfière
 
-|                           | **Coût Journalier (po)** | **Détails**                                                                         |
-| ------------------------- | ------------------------ | ----------------------------------------------------------------------------------- |
-| **Salaires Équipage**     | **42 po**                | Aéromarin (2 po x10) / Maître d'équipage (3 po) / Cocher (3 po) / Capitaine (10 po) |
-| **Vivres Équipage**       | **7 po**                 | 13 bouches à nourrir (qualité standard)                                             |
-| **Vivres Hippogriffes**   | **4 po**                 | 4 hippogriffes (viande fraîche / soins)                                             |
-| **Maintenance & Khayolt** | **5 po**                 | Matériel, réparations et nutriments                                                 |
-| **TOTAL GÉNÉRAL**         | **59 po / jour**         | **Coût de fonctionnement total**                                                    |
-- Par décade : 590 po
-- Vaisseau à quai : **450 po**
+|                           | **Coût Journalier (po)**      | **Détails**                                                                         |
+| ------------------------- | ----------------------------- | ----------------------------------------------------------------------------------- |
+| **Salaires Équipage**     | **42 po**                     | Aéromarin (2 po x10) / Maître d'équipage (3 po) / Cocher (3 po) / Capitaine (10 po) |
+| **Vivres Équipage**       | **7 po en vol / 5 po à quai** | 13 bouches à nourrir (qualité standard)                                             |
+| **Vivres Hippogriffes**   | **4 po**                      | 4 hippogriffes (viande fraîche / soins)                                             |
+| **Maintenance & Khayolt** | **5 po**                      | Matériel, réparations et nutriments                                                 |
+| **TOTAL GÉNÉRAL**         | **59 po / jour**              | **Coût de fonctionnement total**                                                    |
+- Par décade en vol : 590 po
+- Par décade à quai : 560 po
 
 ## Frais fixes
 
@@ -20,10 +20,9 @@
 | **Gardes de la capitainerie** | **80 po**                | 2 po/jour x4                                                                                                                                      |
 | **Comptoir de Carcéa**        | **250 po**               | **L'Empire est gourmand :** Taxes impériales élevées, pots-de-vin aux douaniers, salaire du gérant local et 4 gardes pour surveiller les hangars. |
 | **Comptoir de Madi'Maluk**    | **180 po**               | **Compétition féroce :** Loyers de quai, "taxe de guilde" locale et espions pour surveiller les mouvements des concurrents maritimes.             |
-| **La Comptable**              | **450 po**               | Gondolfière de Fan'Goriah à quai                                                                                                                  |
-| **Nef des PJs**               | **450 po**               | Gondolfière à quai                                                                                                                                |
-| **Lilli Munggen**             | **100 po**               | Capitaine de La Comptable 10 po / jour                                                                                                            |
-| **Thorkral Morigak**          | **100 po**               | Capitaine du Colporteur 10 po / jour                                                                                                              |
+| **La Comptable**              | **560 po**               | A quai                                                                                                                                            |
+| **Nef des PJs**               | **560 po**               | A quai                                                                                                                                            |
+| **Le Colporteur**             | **590 po**               | En vol                                                                                                                                            |
 | **TOTAL GÉNÉRAL**             | **1330 po**              | **Total des frais fixes**                                                                                                                         |
 # Revenus
 
