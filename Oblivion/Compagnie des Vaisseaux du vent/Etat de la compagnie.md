@@ -42,7 +42,11 @@ Il est possible de recruter un nouveau capitaine parmi les aéromarins expérime
 - **Total Dépenses : 1 630 po / décade.**    
 
 **Revenus de la Compagnie :**
-- Profit moyen du Colporteur (Route Carcéa) : **+ 1 140 po / décade.**    
+- Profit moyen du Colporteur : 
+	- **Décade 1 :** Voyage vers **Madi'Maluk** (Sud). 7 jours de vol A/R + 3 jours de commerce.
+		- _Revenu Brut :_ **1 400 po**.
+	- **Décade 2 & 3 (15 jours) :** Voyage vers **Carcéa** (Est). 12 jours de vol A/R + 3 jours de commerce.
+		- _Revenu Brut :_ **2 600 po**.
 - Revenus des taxes du comptoir d'Ikhâr : **+ 200 po / décade.**    
 - **Total Revenus : 1 340 po / décade.**   
 
