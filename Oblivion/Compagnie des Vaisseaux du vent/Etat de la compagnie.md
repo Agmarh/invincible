@@ -35,6 +35,19 @@ Il est possible de recruter un nouveau capitaine parmi les aéromarins expérime
 | **TOTAL GÉNÉRAL**         | **59 po / jour**         | **Coût de fonctionnement total**                                                    |
 - Par semaine : 590 po / Gondolfière
 - Flotte complète : 1770 po
+
+**Dépenses de la Compagnie :**
+- Vaisseau des PJ (Exploration) : **- 590 po**    
+- Le Colporteur (En route vers Carcéa) : **- 590 po**    
+- Vaisseau de Fan'Goriah (À quai à Ikhâr*) : **- 450 po** _(coût réduit : moins de vivres et maintenance à l'arrêt)_.    
+- **Total Dépenses : 1 630 po / décade.**    
+
+**Revenus de la Compagnie :**
+- Profit moyen du Colporteur (Route Carcéa) : **+ 1 140 po / décade.**    
+- Revenus des taxes du comptoir d'Ikhâr : **+ 200 po / décade.**    
+- **Total Revenus : 1 340 po / décade.**   
+
+**Bilan Net : - 290 po / décade.** _Note : C'est tout à fait normal. La compagnie est en phase d'exploration. Le capital de 15 000 po permet de tenir **51 décades** (soit plus d'un an et demi de voyage) même si les PJ ne rapportent rien de leurs aventures._
 # Améliorations spécifiques
 - Renforcement du ballon avec de la soie d'araignée géante : Coût 1500 po (augmentation des PV des ballons de 20)
 - Armement supplémentaire : Catapulte légère (pour langer des flasques de feu grégeois) : coût 1000 po
