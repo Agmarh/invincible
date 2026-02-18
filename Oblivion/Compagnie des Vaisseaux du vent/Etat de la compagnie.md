@@ -1,10 +1,9 @@
 # 🎈 **Flotte**
-- 6 gondolfières initiales
-- 3 détruites  
-	- **3 gondolfières restantes**    
-	    - Gondolfière de Fan’Goriah        
-	    - Gondolfière des PJ        
-	    - 1 gondolfière affectées aux routes/comptoirs
+## La Compable
+Gondolfière de [[Fan'Goriah]], basée à Ikhâr, elle sert de bureau mobile et de réserve.
+
+## [Nom de la gondolfière des PJ]
+Entièrement équipée pour l'aventure et l'exploration. 
 
 # 💰 **Trésor initial disponible**
 Butin total = **18 500 po**
