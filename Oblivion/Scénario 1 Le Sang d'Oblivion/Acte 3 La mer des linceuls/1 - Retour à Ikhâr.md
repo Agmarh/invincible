@@ -52,13 +52,23 @@ Les PJs peuvent utiliser leur Gondolfière, conduite par Lilli.
 - Lilli prévient qu'elle ne peut pas descendre trop bas, c'est trop risqué pour la gondolfière et cela alerterait Ettin'Grinn. Il faut se poser plus loin.
 
 ## L'approche dans les canyons
-C'est une zone de labyrinthe de pierre rouge.
+C'est une zone de labyrinthe de pierre rouge, les PJs arrivent par un petit sentier qui descend dans le canyon, pas depuis le chemin principal.
 - **Obstacles :** Les Cadavreux ont posé des **Chausse-trappes** et des fils de détente reliés à des clochettes, <font style="color:green">Jet de Perception DD 15</font> pour les voir.    
 - **Ambiance :** Le vent siffle dans les parois, rendant les tests de Perception basés sur l'ouïe difficiles (Désavantage).
 
 ## L'embuscade
 Il est possible de prendre les nains par surprise, accorder des avantage / désavantage suivant l'heure à laquelle les joueurs vont à leur rencontre et suivant les actions de chacun.
-Il faut faire un jet de Discrétion au délà de 17 (perception d'Ettin'Grinn) pour pouvoir les prendre par surprise. Si plus de la moitié du groupe réussi, c'est bon.
+
+Il faut faire un jet de Discrétion au delà de 17 (perception d'Ettin'Grinn) pour pouvoir les prendre par surprise. Si plus de la moitié du groupe réussi, c'est bon, Lilli peut aider.
+
+### Le Repaire du Canyon des Soupirs
+
+> Le vent s'engouffre dans les failles de la roche rouge avec un sifflement plaintif qui couvre le bruit de vos pas. Vous découvrez le campement des Cadavreux. L'odeur de la graisse de friture et du charbon mal éteint monte jusqu'à vous.
+
+Ce qu'ils voient :
+- **Le Campement :** <font style="color:green">Jet de Perception DD 10</font> Trois tentes de cuir usé sont dressées contre la paroi est. Au centre, un petit foyer crépite, surmonté d'une marmite. Quatre nains du clan des **Cadavreux** sont assis autour, nettoyant leurs haches ou vérifiant le mécanisme de leurs arbalètes lourdes. Ils rient grassement, pensant être en sécurité dans leur labyrinthe.    
+- **Les Sentinelles :** <font style="color:green">Jet de Perception DD 15</font> Deux autres nains sont postés un peu plus loin, près de l'unique sentier qui descend dans la cuvette. Ils semblent plus attentifs, leurs mains ne quittant pas leurs armes, mais ils regardent vers l'extérieur du canyon, pas vers les hauteurs où vous vous trouvez.    
+- **Ettin'Grinn :** <font style="color:green">Jet de Perception DD 20</font> Il n'est pas au sol avec les autres. Il est assis en tailleur sur une corniche naturelle, environ 6 mètres au-dessus du feu de camp. Il ne mange pas, il ne rit pas. Il tient une petite pierre à aiguiser et passe méthodiquement sa lame dessus. Ses yeux balayent le canyon avec une régularité de métronome.
 
 
 Suivant la décision, ça sera un jeu de piste pour retrouver les cadavreux, possible de prendre la gondolfière pour survoler Ikhâr, ils seront en bordure de la ville, cachés dans les canyons, prêt à combattre. Impossible de se poser ou de tirer avec les balistes. Il va falloir poser pied à terre plus loin avant de rejoindre la zone.
