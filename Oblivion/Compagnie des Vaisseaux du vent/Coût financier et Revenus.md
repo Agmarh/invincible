@@ -16,9 +16,10 @@
 
 | **Poste de dépense**       | **Coût Journalier (po)** | **Détails**                                                                                                                                       |
 | -------------------------- | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Comptoir d'Ikhâr**       | **150 po**               | Entretien des bâtiments et logistique Khayolt.                                                                                                    |
+| Gardes de la capitainerie  | **150 po**               |                                                                                                                                                   |
 | **Comptoir de Carcéa**     | **250 po**               | **L'Empire est gourmand :** Taxes impériales élevées, pots-de-vin aux douaniers, salaire du gérant local et 4 gardes pour surveiller les hangars. |
 | **Comptoir de Madi'Maluk** | **180 po**               | **Compétition féroce :** Loyers de quai, "taxe de guilde" locale et espions pour surveiller les mouvements des concurrents maritimes.             |
-| Comptoir d'Ikhâr           |                          |                                                                                                                                                   |
 | **La Comptable**           | **450 po**               | Gondolfière de Fan'Goriah à quai                                                                                                                  |
 | **Nef des PJs**            | **450 po**               | Gondolfière à quai                                                                                                                                |
 | **TOTAL GÉNÉRAL**          | **1330 po**              | **Total des frais fixes**                                                                                                                         |
