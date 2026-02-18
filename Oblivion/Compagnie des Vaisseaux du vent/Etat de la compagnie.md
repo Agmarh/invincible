@@ -36,10 +36,8 @@ Il est possible de recruter un nouveau capitaine parmi les aéromarins expérime
 - Par semaine de 10 jours : 590 po / Gondolfière
 
 **Dépenses de la Compagnie :**
-- Vaisseau des PJ (Exploration) : **- 590 po**    
-- Le Colporteur (En route vers Carcéa) : **- 590 po**    
-- Vaisseau de Fan'Goriah (À quai à Ikhâr*) : **- 450 po** _(coût réduit : moins de vivres et maintenance à l'arrêt)_.    
-- **Total Dépenses : 1 630 po / décade.**    
+- Vaisseau à quai : **450 po**
+- Vaisseau en route : **590 po**
 
 **Revenus de la Compagnie :**
 - Profit moyen du Colporteur : 
