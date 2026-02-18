@@ -6,7 +6,6 @@ Avec une vitesse de **432 km / jour**, voici les performances du d'une Gondolfi�
 - **Marchandises :** Export de **Vin de Khayolt** / Import d'**Épices, Soie et Ivoire**.    
 - **Rentabilité par Décade :**    
     - Revenu brut estimé : 1 400 po.        
-    - Frais (1 décade) : - 590 po.        
     - **Bénéfice Net : + 810 po / décade.**       
 # B. La Route de l'Est : Carcéa (Khoros)
 - **Distance :** 2500 km.    
@@ -15,5 +14,4 @@ Avec une vitesse de **432 km / jour**, voici les performances du d'une Gondolfi�
 - **Marchandises :** Export de **Liqueur de Khayolt** / Import de **Métaux ouvragés, Armes et Outils impériaux**.    
 - **Rentabilité par cycle (15 jours) :**    
     - Revenu brut estimé : 2 600 po (plus rentable car plus loin).        
-    - Frais (15 jours) : - 885 po.        
     - **Bénéfice Net : + 1 715 po / 15 jours** (soit environ **1 143 po / décade**).
