@@ -4,7 +4,7 @@ Gondolfière de [[Fan'Goriah]], basée à Ikhâr, elle sert de bureau mobile et 
 ## [Nom de la gondolfière des PJ]
 Gondolfière des PJs, principalement équipée pour l'aventure et l'exploration.
 ## Le Colporteur
-Gondolfière de Silas, un capitaine nain originaire d'Ikhâr, affectée aux routes commerciales.
+Gondolfière de ## Thorkral, un capitaine nain originaire d'Ikhâr, affectée aux routes commerciales.
 
 # Gondolfière
 - Véhicule de taille Gigantesque.
@@ -20,9 +20,9 @@ Gondolfière de Silas, un capitaine nain originaire d'Ikhâr, affectée aux rout
 # Equipage actuel
 Certains employés ont déserté depuis les derniers événements. Les aéromarins encore fidèles sont postés sur les 3 gondolfières restantes. 
 
-Il y a en tout 30 aéromarins, 3 cochers (pour les hippogriffes), 3 maîtres d'équipages et Silas, un capitaine.
+Il y a en tout 30 aéromarins, 3 cochers (pour les hippogriffes), 3 maîtres d'équipages et ## Thorkral Morigak, un capitaine.
 
-
+Il est possible de recruter un nouveau capitaine parmi les aéromarins expérimentés : Lilli Munggen, une gnome.
 # Coût équipage
 
 | Aéromarin  | Maître d'équipage | Cocher     | Capitaine   |
