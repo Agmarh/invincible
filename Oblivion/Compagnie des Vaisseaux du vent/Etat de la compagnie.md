@@ -17,8 +17,10 @@ Gondolfière de Silas, un capitaine nain originaire d'Ikhâr, affectée aux rout
 - PV : coque 300, grand ballon 100, petits ballons 30 (x 2)
 - Armement : 2 balistes (10d6, portée : 36 m)
 
-# Recrutement
-Certains employés ont déserté depuis les derniers événements. Les aéromarins encore fidèles sont postés sur les 3 gondolfière restantes. Il y a en tout 30 aéromarins, 3 cochers (pour les hippogriffes), 3 maîtres d'équipages et Silas, un capitaine.
+# Equipage actuel
+Certains employés ont déserté depuis les derniers événements. Les aéromarins encore fidèles sont postés sur les 3 gondolfières restantes. 
+
+Il y a en tout 30 aéromarins, 3 cochers (pour les hippogriffes), 3 maîtres d'équipages et Silas, un capitaine.
 
 
 # Coût équipage
