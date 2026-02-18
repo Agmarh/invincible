@@ -26,10 +26,15 @@ Il est possible de recruter un nouveau capitaine parmi les aéromarins expérime
 
 # Coût financier
 
-| Aéromarin  | Maître d'équipage | Cocher     | Capitaine   | Total/Gonjdolfière |
-| ---------- | ----------------- | ---------- | ----------- | ------------------ |
-| 2po / jour | 3po / jour        | 3po / jour | 10po / jour | 42po / jour        |
-
+| **Poste de dépense**      | **Coût Journalier (po)** | **Détails**                                                                         |
+| ------------------------- | ------------------------ | ----------------------------------------------------------------------------------- |
+| **Salaires Équipage**     | **42 po**                | Aéromarin (2 po x10) / Maître d'équipage (3 po) / Cocher (3 po) / Capitaine (10 po) |
+| **Vivres Équipage**       | **7 po**                 | 13 bouches à nourrir (qualité standard)                                             |
+| **Vivres Hippogriffes**   | **4 po**                 | 4 hippogriffes (viande fraîche / soins)                                             |
+| **Maintenance & Khayolt** | **5 po**                 | Matériel, réparations et nutriments                                                 |
+| **TOTAL GÉNÉRAL**         | **59 po / jour**         | **Coût de fonctionnement total**                                                    |
+- Par semaine : 590 po / Gondolfière
+- Flotte complète : 1770 po
 # Améliorations spécifiques
 - Renforcement du ballon avec de la soie d'araignée géante : Coût 1500 po (augmentation des PV des ballons de 20)
 - Armement supplémentaire : Catapulte légère (pour langer des flasques de feu grégeois) : coût 1000 po
