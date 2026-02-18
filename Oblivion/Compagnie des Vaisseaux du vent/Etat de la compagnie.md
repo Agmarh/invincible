@@ -2,9 +2,20 @@
 ## La Compable
 Gondolfière de [[Fan'Goriah]], basée à Ikhâr, elle sert de bureau mobile et de réserve.
 ## [Nom de la gondolfière des PJ]
-Gondolfière des PJs, entièrement équipée pour l'aventure et l'exploration.
+Gondolfière des PJs, principalement équipée pour l'aventure et l'exploration.
 ## Le Colporteur
 Gondolfière de Silas, un capitaine nain originaire d'Ikhâr, affectée aux routes commerciales.
+
+# Gondolfière
+- Véhicule de taille Gigantesque.
+- Équipage minimum (hors officiers) : 10 marins
+- Équipage maximum (hors officiers) : 20 marins
+- Capacité de transport passagers : 10
+- Capacité de transport cargaison : 500 tonneaux (500 m3)
+- Vitesse de vol : 30 m/round, 18 km/h, 432 km/jour
+- CA : 10
+- PV : coque 300, grand ballon 100, petits ballons 30 (x 2)
+- Armement : 2 balistes (10d6, portée : 36 m)
 
 # Recrutement
 
