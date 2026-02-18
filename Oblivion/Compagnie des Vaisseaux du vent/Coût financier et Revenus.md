@@ -11,6 +11,8 @@
 | **Vivres Hippogriffes**   | 4                        | 4 hippogriffes (viande fraîche / soins)                                             |
 | **Maintenance & Khayolt** | 5                        | Matériel, réparations et nutriments                                                 |
 | **TOTAL GÉNÉRAL**         |                          | **Coût de fonctionnement total**                                                    |
+<!-- TBLFM: @>$2=sum(@I..@-1) -->
+
 ### A quai
 
 |                           | **Coût Journalier (po)** | **Détails**                                                                         |
