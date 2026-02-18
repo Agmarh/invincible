@@ -1,26 +1,7 @@
-# Flotte
-## La Compable
-Gondolfière de [[Fan'Goriah]], basée à Ikhâr, elle sert de bureau mobile et de réserve.
-## [Nom de la gondolfière des PJ]
-Gondolfière des PJs, principalement équipée pour l'aventure et l'exploration.
-## Le Colporteur
-Gondolfière de ## Thorkral, un capitaine nain originaire d'Ikhâr, affectée aux routes commerciales.
-
-# Gondolfière
-- Véhicule de taille Gigantesque.
-- Équipage minimum (hors officiers) : 10 marins
-- Équipage maximum (hors officiers) : 20 marins
-- Capacité de transport passagers : 10
-- Capacité de transport cargaison : 500 tonneaux (500 m3)
-- Vitesse de vol : 30 m/round, 18 km/h, 432 km/jour
-- CA : 10
-- PV : coque 300, grand ballon 100, petits ballons 30 (x 2)
-- Armement : 2 balistes (10d6, portée : 36 m)
-
 # Equipage actuel
 Certains employés ont déserté depuis les derniers événements. Les aéromarins encore fidèles sont postés sur les 3 gondolfières restantes. 
 
-Il y a en tout 30 aéromarins, 3 cochers (pour les hippogriffes), 3 maîtres d'équipages et ## Thorkral Morigak, un capitaine.
+Il y a en tout 30 aéromarins, 3 cochers (pour les hippogriffes), 3 maîtres d'équipages et 2 capitaines, Thorkral Morigak, un nain originaire d'Ikhâr, assez âgé, responsable du Colporteur et Lilli Munggen, une gnome dans la force de l'âge, responsable de La Comptable.
 
 Il est possible de recruter un nouveau capitaine parmi les aéromarins expérimentés : Lilli Munggen, une gnome.
 
@@ -28,14 +9,10 @@ Il est possible de recruter un nouveau capitaine parmi les aéromarins expérime
 
 [[Coût financier et Revenus]]
 
-><font style="color:orange">"Mes amis, le capitaine Thorkral vient de terminer le voyage jusqu'à notre comptoir de Carcéa. Lui et son équipage sont les seuls depuis la mort du Duc et la fuite de Baron Blême à pouvoir voyager jusqu'à nos comptoirs."</font>
+><font style="color:orange">"Mes amis, le capitaine Thorkral vient de terminer le voyage jusqu'à notre comptoir de Carcéa. Lui et son équipage sont les seuls depuis la mort du Duc et la fuite de Baron Blême à pouvoir voyager jusqu'à nos comptoirs. Je ne vous cache pas que la situation pourrait être plus agréable. Nous sommes déficitaire pour le moment. Votre apport de 15 000 pièces d'or à la signature du traité va nous permettre de survivre. Mais il faut rebondir, et vite."</font>
 
-# Améliorations spécifiques
-- Renforcement du ballon avec de la soie d'araignée géante : Coût 1500 po (augmentation des PV des ballons de 20)
-- Armement supplémentaire : Catapulte légère (pour langer des flasques de feu grégeois) : coût 1000 po
-- Quartiers chauffés (Préparation pour le nord) : Coût 1000 po, sans cela, l'équipage et les PJs subiront un niveau d'épuisement à cause du froid extrême.
-# Apprentissage
-Il est possible d'apprendre à manier une Gondolfière avec l'aide de Silas qui se propose pour former un ou des PJs à la manœuvre. 
+# Devenir Capitaine
+Il est possible d'apprendre à manier une Gondolfière avec l'aide de Thorkral ou Lilli Munggen, la capitaine de Fan'Goriah qui se propose pour former un ou des PJs à la manœuvre. 
 
 Après 7 jours de formation complète, le PJ obtient la maîtrise des Gondolfières. <font style="color:green">7 de jets de Sagesse DD 12</font> pour valider la formation.
 
