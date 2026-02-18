@@ -1,9 +1,13 @@
-# 🎈 **Flotte**
+# Flotte
 ## La Compable
 Gondolfière de [[Fan'Goriah]], basée à Ikhâr, elle sert de bureau mobile et de réserve.
-
 ## [Nom de la gondolfière des PJ]
-Entièrement équipée pour l'aventure et l'exploration. 
+Gondolfière des PJs, entièrement équipée pour l'aventure et l'exploration.
+## Le Colporteur
+Gondolfière de Silas, un capitaine nain originaire d'Ikhâr, affectée aux routes commerciales.
+
+# Recrutement
+
 
 # 💰 **Trésor initial disponible**
 Butin total = **18 500 po**
