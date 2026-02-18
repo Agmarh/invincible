@@ -288,6 +288,25 @@
         "player": true,
         "hidden": false,
         "friendly": false
+      },
+      {
+        "name": "Lilli Munggen",
+        "initiative": 19,
+        "static": false,
+        "modifier": 0,
+        "hp": 0,
+        "currentMaxHP": 0,
+        "cr": 2,
+        "ac": "15 (armure de cuir clouté)",
+        "currentAC": "15 (armure de cuir clouté)",
+        "id": "ID_9a89dbc889ba",
+        "currentHP": 0,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "active": false,
+        "hidden": false,
+        "friendly": true
       }
     ],
     "state": false,

@@ -3,6 +3,8 @@
 
 Les PJ se réveillent dans leur gondolfière, et se rendent vite compte qu'ils sont à Ikhâr. La grande transaction semble terminée depuis quelques jours et la vie reprend un cours normal.
 
+Grisou sera émerveillé par le monde des PJ. Il aura très vite une vision d'où se situe le fragment de Chiaroscuro. Il verra en rêve l'emplacement du fragment, au nord. Il a traversé des montagnes de neiges éternelles et, au-delà, des icebergs et une mer de glace. Le pouvoir de la matrice indique même à Grisou dans quelle direction il faut aller.
+
 Fan'Goriah les accueille avec soulagement et admiration si ils lui racontent leurs aventure. Elle sera néanmoins inquiète par ces êtres surpuissants, les Incarnins, et surtout l'Ecorcheuse qui est une menace réelle sur leur monde. Elle comprendra mieux les faits et gestes de Löne Kernos depuis la création de la compagnie.
 
 Elle aura besoin d'eux pour la suite, elle a géré les affaires courantes, mais elle a besoin de leurs signatures pour finaliser quelques points (à définir).
@@ -67,19 +69,5 @@ Il faut faire un jet de Discrétion au delà de 17 (perception d'Ettin'Grinn) po
 
 Ce qu'ils voient :
 - **Le Campement :** <font style="color:green">Jet de Perception DD 10</font> Trois tentes de cuir usé sont dressées contre la paroi est. Au centre, un petit foyer crépite, surmonté d'une marmite. Quatre nains du clan des **Cadavreux** sont assis autour, nettoyant leurs haches ou vérifiant le mécanisme de leurs arbalètes lourdes. Ils rient grassement, pensant être en sécurité dans leur labyrinthe.    
-- **Les Sentinelles :** <font style="color:green">Jet de Perception DD 15</font> Deux autres nains sont postés un peu plus loin, près de l'unique sentier qui descend dans la cuvette. Ils semblent plus attentifs, leurs mains ne quittant pas leurs armes, mais ils regardent vers l'extérieur du canyon, pas vers les hauteurs où vous vous trouvez.    
+- **Les Sentinelles :** <font style="color:green">Jet de Perception DD 15</font> Deux nains sont postés un peu plus loin, près de l'unique sentier qui descend dans la cuvette. Ils semblent plus attentifs, leurs mains ne quittant pas leurs armes, mais ils regardent vers l'extérieur du canyon, pas vers les hauteurs où vous vous trouvez. 2 autres sont postés en hauteur, sur une corniche.
 - **Ettin'Grinn :** <font style="color:green">Jet de Perception DD 20</font> Il n'est pas au sol avec les autres. Il est assis en tailleur sur une corniche naturelle, environ 6 mètres au-dessus du feu de camp. Il ne mange pas, il ne rit pas. Il tient une petite pierre à aiguiser et passe méthodiquement sa lame dessus. Ses yeux balayent le canyon avec une régularité de métronome.
-
-
-Suivant la décision, ça sera un jeu de piste pour retrouver les cadavreux, possible de prendre la gondolfière pour survoler Ikhâr, ils seront en bordure de la ville, cachés dans les canyons, prêt à combattre. Impossible de se poser ou de tirer avec les balistes. Il va falloir poser pied à terre plus loin avant de rejoindre la zone.
-
-
-
-
-Ils pourront aller voir Fan'Goriah qui sera fascinée par leur récit s'ils lui racontent leurs aventures.
-
-Grisou sera émerveillé par le monde des PJ. Il aura très vite une vision d'où se situe le fragment de Chiaroscuro. Il verra en rêve l'emplacement du fragment, au nord. Il a traversé des montagnes de neiges éternelles et, au-delà, des icebergs et une mer de glace. Le pouvoir de la matrice indique même à Grisou dans quelle direction il faut aller.
-
-Le voyage en gondolfière durera 2 semaines, si les PJ prenne un pilote il fera ses <font style="color:green">jets de pilotage à +5</font> (+8 en consommant du Khayolt).
-
-Ils chargeront assez de nourriture pour 1 mois.
