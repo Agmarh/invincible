@@ -57,10 +57,7 @@ C'est une zone de labyrinthe de pierre rouge.
 - **Ambiance :** Le vent siffle dans les parois, rendant les tests de Perception basés sur l'ouïe difficiles (Désavantage).
 
 ## L'embuscade
-Ettin'Grinn ne va pas attendre sagement. Il connaît son terrain.
-- **Tactique des Nains :** Ils utilisent leurs **Fumigènes** pour créer un écran de fumée. Grâce à leur _Vision dans le noir_, ils voient un peu mieux que les humains dans la pénombre, mais surtout, ils cherchent le contact pour activer la _Tactique de groupe_.
-    
-- **Tactique d'Ettin'Grinn :** Il reste en hauteur sur une corniche. Il utilise son _Manteau d'ombre_ pour se téléporter sur une autre corniche dès qu'il est repéré. Il vise en priorité **Rivalt** (pour tester son arbalète paralysante sur la plus grosse menace) ou **Iseult** (pour couper les soins).
+
 
 
 Suivant la décision, ça sera un jeu de piste pour retrouver les cadavreux, possible de prendre la gondolfière pour survoler Ikhâr, ils seront en bordure de la ville, cachés dans les canyons, prêt à combattre. Impossible de se poser ou de tirer avec les balistes. Il va falloir poser pied à terre plus loin avant de rejoindre la zone.
