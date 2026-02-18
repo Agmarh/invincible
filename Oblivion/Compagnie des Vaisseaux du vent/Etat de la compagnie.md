@@ -24,9 +24,13 @@ On frappe à la porte. Une gnome aux cheveux court entre dans la pièce. Elle a 
 Les nains font grises mines sur les pontons patronne. Ettin'Grinn et sa bande traînerait dans le coin. Apparemment, on leur doit de l'or. Le Duc ne les aurait pas payé avant de casser sa pipe. Ces cadavreux ne sont pas là pour négocier, il serait peut être bon de s'en occuper une fois pour toute, ça nous enlèverait une épine du pied.
 
 Fan'Goriah s'adresse aux PJs :
-"Ils réclament 2 000 pièces d'or, une prime que leur a promis le Duc au moment de la mutinerie. Lilli, j'entends que vous soyez prête à faire parler l'acier, mais est-ce vraiment la seul solution ? Je sais qu'ils sont foncièrement mauvais mais..."
+"Ils réclament 2 000 pièces d'or, une prime que leur a promis le Duc au moment de la mutinerie. Lilli, j'entends que vous soyez prête à faire parler l'acier, mais est-ce vraiment la seul solution ? Je sais qu'ils sont foncièrement mauvais mais en tant que servante d'Aéva, je préfère toujours que la main qui soigne n'ait pas à se changer en poing. Pourtant il faut aussi que nous protégions les nôtres. Céder à ce chantage ne serait pas de la diplomatie, ce serait un suicide financier. Sans compter les bouches à nourrir... »
 
+**Lilli Munggen :** (Avec un sourire en coin, ajustant ses gantelets de cuir) « Exactement. Si on paie les Cadavreux aujourd'hui, demain ce seront les dockers, et après-demain, les pirates du ciel. Chez moi, le respect ne s'achète pas, il se gagne à la pointe de l'épée. »
 
+**Fan'Goriah :** (S'adressant directement aux PJ) « Je ne suis pas seule décisionnaire. C'est aussi votre compagnie, vos navires. Comment souhaitez-vous que nous gérions cette crise ? »
+
+Suivant la décision, ça sera un jeu de piste pour retrouver les cadavreux, possible de prendre la gondolfière pour survoler Ikhâr, ils seront en bordure de la ville, cachés dans les canyons, prêt à combattre. Impossible de se poser ou de tirer avec les balistes. Il va falloir poser pied à terre plus loin avant de rejoindre la zone.
 # Devenir Capitaine
 Il est possible d'apprendre à manier une Gondolfière avec l'aide de Thorkral ou Lilli Munggen, la capitaine de Fan'Goriah qui se propose pour former un ou des PJs à la manœuvre. 
 
