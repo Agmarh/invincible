@@ -33,8 +33,7 @@ Il est possible de recruter un nouveau capitaine parmi les aéromarins expérime
 | **Vivres Hippogriffes**   | **4 po**                 | 4 hippogriffes (viande fraîche / soins)                                             |
 | **Maintenance & Khayolt** | **5 po**                 | Matériel, réparations et nutriments                                                 |
 | **TOTAL GÉNÉRAL**         | **59 po / jour**         | **Coût de fonctionnement total**                                                    |
-- Par semaine : 590 po / Gondolfière
-- Flotte complète : 1770 po
+- Par semaine de 10 jours : 590 po / Gondolfière
 
 **Dépenses de la Compagnie :**
 - Vaisseau des PJ (Exploration) : **- 590 po**    
