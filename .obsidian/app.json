@@ -3,5 +3,5 @@
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "Invincible/Images",
   "readableLineLength": false,
-  "spellcheck": false
+  "spellcheck": true
 }

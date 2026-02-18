@@ -11,4 +11,4 @@ Avec une vitesse de **432 km / jour**, voici les performances du d'une Gondolfi�
 - **Cycle commercial :** 1,5 décade (15 jours : 6j aller + 3j de commerce + 6j retour).
 - **Marchandises :** Export de **Liqueur de Khayolt** / Import de **Métaux ouvragés, Armes et Outils impériaux**.
 - **Rentabilité par cycle (15 jours) en brut :** 2 600 po.
-    - **Revenus brut : + 1 733 po / décade**.
+    - **Revenus brut : 1 733 po / décade**.
