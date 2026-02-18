@@ -29,6 +29,7 @@ Fan'Goriah s'adresse aux PJs :
 **Lilli Munggen :** (Avec un sourire en coin, ajustant ses gantelets de cuir) « Exactement. Si on paie les Cadavreux aujourd'hui, demain ce seront les dockers, et après-demain, les pirates du ciel. Chez moi, le respect ne s'achète pas, il se gagne à la pointe de l'épée. »
 
 **Fan'Goriah :** (S'adressant directement aux PJ) « Je ne suis pas seule décisionnaire. C'est aussi votre compagnie, vos navires. Comment souhaitez-vous que nous gérions cette crise ? »
+Fan'Goriah attend. Si les PJ choisissent la confrontation, Lilli Munggen propose immédiatement le plan de reconnaissance dans les airs grâce à une Gondolfière.
 
 Suivant la décision, ça sera un jeu de piste pour retrouver les cadavreux, possible de prendre la gondolfière pour survoler Ikhâr, ils seront en bordure de la ville, cachés dans les canyons, prêt à combattre. Impossible de se poser ou de tirer avec les balistes. Il va falloir poser pied à terre plus loin avant de rejoindre la zone.
 # Devenir Capitaine

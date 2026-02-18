@@ -25,7 +25,46 @@ Remettre la lettre suivante à Iseult :
 > 
 > **Malathor, Chevalier de l'Ordre de Justicaar.**
 
-# Gestion et Recrutement
+# La gestion de la compagnie
+[[Coût financier et Revenus]]
+
+> Fan'Goriah : <font style="color:orange">"Mes amis, le capitaine Thorkral vient de terminer le voyage jusqu'à notre comptoir de Carcéa. Lui et son équipage sont les seuls depuis la mort du Duc et la fuite de Baron Blême à pouvoir voyager jusqu'à nos comptoirs. Je ne vous cache pas que la situation pourrait être plus agréable. Nous sommes déficitaire pour le moment. Votre apport de 15 000 pièces d'or à la signature du traité va nous permettre de survivre. Mais il faut rebondir, et vite."</font>
+
+Après avoir montré les chiffres :
+> Fan'Goriah : <font style="color:orange">"Voilà les chiffres. On survit, mais nous ne rapportons pas assez pour nous développer. Le Colporteur attend nos ordres pour partir en direction de Madi'Maluk, mais comme  vous le savez maintenant, cela ne nous rapportera pas assez."</font>
+
+# Les Cadavreux
+On frappe à la porte. Une gnome aux cheveux court entre dans la pièce. Elle a le regard curieux et attentif, affuté par des années de commerce. Elle se tient bien droit malgré les années qui se dessinent sur son visage, le pas assuré et une certaines aisance qui fait penser aux acrobates de cordes. 
+
+> Lilli Munggen : <font style="color:orange">"Les nains font grises mines sur les pontons patronne. Ettin'Grinn et sa bande traînerait dans le coin. Apparemment, on leur doit de l'or. Le Duc ne les aurait pas payé avant de casser sa pipe. Ces cadavreux ne sont pas là pour négocier, il serait peut être bon de s'en occuper une fois pour toute, ça nous enlèverait une épine du pied."</font>
+
+> Fan'Goriah : <font style="color:orange">"Ils réclament 2 000 pièces d'or, une prime que leur a promis le Duc au moment de la mutinerie. Lilli, j'entends que vous soyez prête à faire parler l'acier, je préfère toujours que la main qui soigne n'ait pas à se changer en poing. Pourtant il faut aussi que nous protégions les nôtres. Céder à ce chantage ne serait pas de la diplomatie, ce serait un suicide financier. Sans compter les bouches à nourrir... "</font>
+
+> Lilli Munggen : <font style="color:orange">(Avec un sourire en coin, ajustant ses gantelets de cuir) "Exactement. Si on paie les Cadavreux aujourd'hui, demain ce seront les dockers, et après-demain, les pirates du ciel. Chez moi, le respect ne s'achète pas, il se gagne à la pointe de l'épée."</font>
+
+> Fan'Goriah : <font style="color:orange">(S'adressant directement aux PJ) "Je ne suis pas seule décisionnaire. C'est aussi votre compagnie, vos navires. Comment souhaitez-vous que nous gérions cette crise ?"</font>
+
+Fan'Goriah attend. Si les PJ choisissent la confrontation, Lilli Munggen propose immédiatement le plan de reconnaissance dans les airs grâce à une Gondolfière.
+## Survol d'Ikhâr
+Les PJs peuvent utiliser leur Gondolfière, conduite par Lilli.
+- <font style="color:green">Jets de Perception ou Survie DD 12</font> : Ils repèrent des traces de campement et des fumées vers le canyon en dehors d'Ikhâr.
+- <font style="color:green">Jets de Perception ou Survie DD 18</font> : Ils repèrent une sentinelle cachée à l'entrée du canyon, elle n'a pas vu la Gondolfière qui vol assez haut, couverte par les nuages.
+- Lilli prévient qu'elle ne peut pas descendre trop bas, c'est trop risqué pour la gondolfière et cela alerterait Ettin'Grinn. Il faut se poser plus loin.
+
+## L'approche dans les canyons
+C'est une zone de labyrinthe de pierre rouge.
+- **Obstacles :** Les Cadavreux ont posé des **Chausse-trappes** et des fils de détente reliés à des clochettes, <font style="color:green">Jet de Perception DD 15</font> pour les voir.    
+- **Ambiance :** Le vent siffle dans les parois, rendant les tests de Perception basés sur l'ouïe difficiles (Désavantage).
+
+## L'embuscade
+Ettin'Grinn ne va pas attendre sagement. Il connaît son terrain.
+- **Tactique des Nains :** Ils utilisent leurs **Fumigènes** pour créer un écran de fumée. Grâce à leur _Vision dans le noir_, ils voient un peu mieux que les humains dans la pénombre, mais surtout, ils cherchent le contact pour activer la _Tactique de groupe_.
+    
+- **Tactique d'Ettin'Grinn :** Il reste en hauteur sur une corniche. Il utilise son _Manteau d'ombre_ pour se téléporter sur une autre corniche dès qu'il est repéré. Il vise en priorité **Rivalt** (pour tester son arbalète paralysante sur la plus grosse menace) ou **Iseult** (pour couper les soins).
+
+
+Suivant la décision, ça sera un jeu de piste pour retrouver les cadavreux, possible de prendre la gondolfière pour survoler Ikhâr, ils seront en bordure de la ville, cachés dans les canyons, prêt à combattre. Impossible de se poser ou de tirer avec les balistes. Il va falloir poser pied à terre plus loin avant de rejoindre la zone.
+
 
 
 
