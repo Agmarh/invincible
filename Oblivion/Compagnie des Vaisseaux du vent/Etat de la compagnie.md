@@ -23,9 +23,9 @@ Certains employés ont déserté depuis les derniers événements. Les aéromari
 
 # Coût équipage
 
-| Aéromarin | Maître d'équipage | Cocher | Capitaine |
-| --------- | ----------------- | ------ | --------- |
-|           |                   |        |           |
+| Aéromarin  | Maître d'équipage | Cocher     | Capitaine   |
+| ---------- | ----------------- | ---------- | ----------- |
+| 2po / jour | 3po / jour        | 3po / jour | 10po / jour |
 
 
 # 💰 **Trésor initial disponible**
