@@ -21,26 +21,26 @@
 | **Comptoir de Carcéa**        | **250 po**               | **L'Empire est gourmand :** Taxes impériales élevées, pots-de-vin aux douaniers, salaire du gérant local et 4 gardes pour surveiller les hangars. |
 | **Comptoir de Madi'Maluk**    | **180 po**               | **Compétition féroce :** Loyers de quai, "taxe de guilde" locale et espions pour surveiller les mouvements des concurrents maritimes.             |
 | **La Comptable**              | **560 po**               | A quai                                                                                                                                            |
-| **Nef des PJs**               | **560 po**               | A quai                                                                                                                                            |
+| **Nef des PJs**               | **460 po**               | A quai                                                                                                                                            |
 | **Le Colporteur**             | **590 po**               | En vol                                                                                                                                            |
-| **TOTAL GÉNÉRAL**             | **1330 po**              | **Total des frais fixes**                                                                                                                         |
+| **TOTAL GÉNÉRAL**             | **2270 po**              | **Total des frais fixes**                                                                                                                         |
 # Revenus
 
 ## Carcéa :
 
-| **Poste**                      | **Flux Financier (po)** | **État**                                       |
-| ------------------------------ | ----------------------- | ---------------------------------------------- |
-| **Bénéfice Net**               | **+ 1 143**             | (Route de Carcéa terminée, frais déjà déduits) |
-| **Revenus : Comptoir d'Ikhâr** | **+ 100**               | Taxes et commerce local                        |
-| **Frais fixes**                | **- 1330**              | À quai                                         |
-| **SOLDE GLOBAL**               | **- 87 po**             | **Excédent par décade**                        |
+| **Poste**                      | **Flux Financier (po)** |
+| ------------------------------ | ----------------------- |
+| **Bénéfice Net**               | **+ 1 733**             |
+| **Revenus : Comptoir d'Ikhâr** | **+ 100**               |
+| **Frais fixes**                | **- 2270**              |
+| **SOLDE GLOBAL**               | **- 87 po**             |
 C'est la route la plus rentable. Elle permet d'être presque à l'équilibre.
 ## Madi'Maluk
 
 | **Poste**                      | **Flux Financier (po)** |
 | ------------------------------ | ----------------------- |
-| **Bénéfice Net**               | **+ 810**               |
+| **Bénéfice Net**               | **+ 1400**              |
 | **Revenus : Comptoir d'Ikhâr** | **+ 100**               |
-| **Frais fixes**                | **- 1330**              |
+| **Frais fixes**                | **- 2270**              |
 | **SOLDE GLOBAL**               | **- 420 po**            |
 C'est une route qui ne suffit pas à faire vivre toute la structure. La compagnie perd un peu d'argent.
