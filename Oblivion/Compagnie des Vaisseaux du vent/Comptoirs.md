@@ -20,8 +20,8 @@ Avec une vitesse de **432 km / jour**, voici les performances du d'une Gondolfi�
 - **Marchandises :** Export de **Liqueur de Khayolt** / Import de **Métaux ouvragés, Armes et Outils impériaux**.
 - **Rentabilité par cycle (15 jours) :**
     - Revenu brut estimé : 2 600 po (plus rentable car plus loin).
-    - Frais du comptoir : 250 po
-    - Frais de voyage : 590 po
+    - Frais du comptoir : 375 po
+    - Frais de voyage : 885 po
     - **Bénéfice Net : + 1 715 po / 15 jours** (soit environ **1 143 po / décade**).
 
 | **Ville**      | **Frais (po)** | **Détails de la dépense**                                                                                                             |
