@@ -57,7 +57,8 @@ C'est une zone de labyrinthe de pierre rouge.
 - **Ambiance :** Le vent siffle dans les parois, rendant les tests de Perception basés sur l'ouïe difficiles (Désavantage).
 
 ## L'embuscade
-
+Il est possible de prendre les nains par surprise, accorder des avantage / désavantage suivant l'heure à laquelle les joueurs vont à leur rencontre et suivant les actions de chacun.
+Il faut faire un jet de Discrétion au délà de 17 (perception d'Ettin'Grinn) pour pouvoir les prendre par surprise. Si plus de la moitié du groupe réussi, c'est bon.
 
 
 Suivant la décision, ça sera un jeu de piste pour retrouver les cadavreux, possible de prendre la gondolfière pour survoler Ikhâr, ils seront en bordure de la ville, cachés dans les canyons, prêt à combattre. Impossible de se poser ou de tirer avec les balistes. Il va falloir poser pied à terre plus loin avant de rejoindre la zone.
