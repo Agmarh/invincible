@@ -1,6 +1,18 @@
 # Equipage actuel
 Certains employés ont déserté depuis les derniers événements. Les aéromarins encore fidèles sont postés sur les 3 gondolfières restantes. 
 
+| Rôle               | Effectifs |
+| ------------------ | --------- |
+| Aéromarins         | 30        |
+| Cochers            | 3         |
+| Maîtres d'équipage | 3         |
+
+| Capitaine            | Description                                                                                                                                                                               | Gondolfière   |
+| -------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
+| **Thorkral Morigak** | Nain originaire d'Ikhâr, Thorkral exerce le métier de marchand depuis sa jeunesse, relativement âgé,                                                                                      | Le Colporteur |
+| **Lilli Munggen**    | Gnome d'environ 150 ans, Lilli a pris le contrôle de La Comptable lorsque Fan'Goriah a délaissée son rôle de capitaine pour devenir officiellement la comptable attitrée de la Compagnie. | La Comptable  |
+
+
 Il y a en tout 30 aéromarins, 3 cochers (pour les hippogriffes), 3 maîtres d'équipages et 2 capitaines, Thorkral Morigak, un nain originaire d'Ikhâr, assez âgé, responsable du Colporteur et Lilli Munggen, une gnome dans la force de l'âge, responsable de La Comptable.
 
 Il est possible de recruter un nouveau capitaine parmi les aéromarins expérimentés : Lilli Munggen, une gnome.
