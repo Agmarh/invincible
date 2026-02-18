@@ -11,7 +11,6 @@
 | **Vivres Hippogriffes**   | 4                        | 4 hippogriffes (viande fraîche / soins)                                             |
 | **Maintenance & Khayolt** | 5                        | Matériel, réparations et nutriments                                                 |
 | **TOTAL GÉNÉRAL**         |                          | **Coût de fonctionnement total**                                                    |
-<!-- TBLFM: @>$2=sum(@I..@-1) -->
 
 ### A quai
 
@@ -21,7 +20,7 @@
 | **Vivres Équipage**       | 5                        | 13 bouches à nourrir (qualité standard)                                             |
 | **Vivres Hippogriffes**   | 4                        | 4 hippogriffes (viande fraîche / soins)                                             |
 | **Maintenance & Khayolt** | 5                        | Matériel, réparations et nutriments                                                 |
-| **TOTAL GÉNÉRAL**         | 59                       | **Coût de fonctionnement total**                                                    |
+| **TOTAL GÉNÉRAL**         |                          | **Coût de fonctionnement total**                                                    |
 
 
 ## Frais fixes
@@ -35,7 +34,7 @@
 | **La Comptable**              | 560                      | A quai                                                                                                                                            |
 | **Nef des PJs**               | 460                      | A quai                                                                                                                                            |
 | **Le Colporteur**             | 590                      | En vol                                                                                                                                            |
-| **TOTAL GÉNÉRAL**             | 2270                     | **Total des frais fixes**                                                                                                                         |
+| **TOTAL GÉNÉRAL**             |                          | **Total des frais fixes**                                                                                                                         |
 # Revenus
 
 ## Carcéa :
