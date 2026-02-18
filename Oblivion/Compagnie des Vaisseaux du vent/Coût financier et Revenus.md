@@ -4,17 +4,17 @@
 
 ### En vol
 
-|                           | **Coût Journalier (po)** | **Détails**                                                                         |
-| ------------------------- | ------------------------ | ----------------------------------------------------------------------------------- |
-| **Salaires Équipage**     | 42                       | Aéromarin (2 po x10) / Maître d'équipage (3 po) / Cocher (3 po) / Capitaine (10 po) |
-| **Vivres Équipage**       | 7                        | 13 bouches à nourrir (qualité standard)                                             |
-| **Vivres Hippogriffes**   | 4                        | 4 hippogriffes (viande fraîche / soins)                                             |
-| **Maintenance & Khayolt** | 5                        | Matériel, réparations et nutriments                                                 |
-| **TOTAL GÉNÉRAL**         |                          | **Coût de fonctionnement total**                                                    |
+| Poste de dépense      | **Coût Journalier (po)** | **Détails**                                                                         |
+| --------------------- | ------------------------ | ----------------------------------------------------------------------------------- |
+| Salaires Équipage     | 42                       | Aéromarin (2 po x10) / Maître d'équipage (3 po) / Cocher (3 po) / Capitaine (10 po) |
+| Vivres Équipage       | 7                        | 13 bouches à nourrir (qualité standard)                                             |
+| Vivres Hippogriffes   | 4                        | 4 hippogriffes (viande fraîche / soins)                                             |
+| Maintenance & Khayolt | 5                        | Matériel, réparations et nutriments                                                 |
+| **TOTAL GÉNÉRAL**     |                          | Coût de fonctionnement total                                                        |
 
 ### A quai
 
-|                           | **Coût Journalier (po)** | **Détails**                                                                         |
+| Poste de dépense          | **Coût Journalier (po)** | **Détails**                                                                         |
 | ------------------------- | ------------------------ | ----------------------------------------------------------------------------------- |
 | **Salaires Équipage**     | 42                       | Aéromarin (2 po x10) / Maître d'équipage (3 po) / Cocher (3 po) / Capitaine (10 po) |
 | **Vivres Équipage**       | 5                        | 13 bouches à nourrir (qualité standard)                                             |
@@ -55,3 +55,12 @@ C'est la route la plus rentable. Elle permet d'être presque à l'équilibre.
 | **Frais fixes**                | - 2270                  |
 | **SOLDE GLOBAL**               | - 420                   |
 C'est une route qui ne suffit pas à faire vivre toute la structure. La compagnie perd un peu d'argent.
+
+| Item              | Grams |
+| ----------------- | ----- |
+| Whole Wheat Flour | 110   |
+| Bread Flour       | 748   |
+| Warm Water        | 691   |
+| Salt              | 18    |
+| Starter           | 40    |
+| **Total Grams**   |       |
