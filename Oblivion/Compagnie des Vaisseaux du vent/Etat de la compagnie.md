@@ -29,6 +29,8 @@ Il y a en tout 30 aéromarins, 3 cochers (pour les hippogriffes), 3 maîtres d'�
 | ---------- | ----------------- | ---------- | ----------- |
 | 2po / jour | 3po / jour        | 3po / jour | 10po / jour |
 
+# Apprentissage
+Il est possible d'apprendre à manier une Gondolfière 
 
 # 💰 **Trésor initial disponible**
 Butin total = **18 500 po**
