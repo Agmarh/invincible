@@ -14,7 +14,13 @@ Taxes si zone commerciale libre (type Madi'Maluk) : **180 po**.
 | **Marches Impériales**     | 600                         | 800                          | 400                                                               | 0          | Taxes faibles, mais recrutement cher (primes de risque).           |
 | **Protectorats**           | 1000                        | 1000                         | 250                                                               | 0          | Système de pots-de-vin locaux + taxes impériales.                  |
 | **Territoires Extérieurs** | 200                         | 600                          | 800                                                               | 0          | Pas de taxe impériale, mais gros budget mercenaires/fortification. |
-<!-- TBLFM: $5=sum(@2..@4) -->
+
+| **Poste**            | **Détail de l'équipement**                                         | **Coût (po)** |
+| -------------------- | ------------------------------------------------------------------ | ------------- |
+| **Gérant**           | Vêtements de qualité, registre, sceau, nécessaire d'écriture.      | 20            |
+| **2 Gardes**         | Armure (cuir clouté ou chemise de mailles), épée, bouclier et arc. | 100           |
+| **Frais de contrat** | Signature, vérification d'antécédents, annonce.                    | 30            |
+| **TOTAL INITIAL**    | **Le coût de "mise en service"**                                   | 150           |
 
 #### 1. Provinces de l'Empire (ex: Khoros, Tharse)
 C'est le choix de la **stabilité**.
