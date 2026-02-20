@@ -38,13 +38,21 @@
 | **TOTAL**                 | 2180                     | **Total des frais fixes**                                                                                                                         |
 <!-- TBLFM: @>$2=sum(@I..@-1) -->
 
-### Frais de comptoirs
+## Frais de comptoirs
 | **Type de Territoire**                         | **Salaires (Gérant + 2 Gardes)** | **Loyer & Taxes Locales** | **TOTAL (po / décade)** |
 | ---------------------------------------------- | -------------------------------- | ------------------------- | ----------------------- |
 | **Zone Impériale** (Carcéa, Khoros...)         | 60 po (Standard)                 | 190 po (Cher)             | **250 po**              |
 | **Protectorat / Marché Libre** (Madi'Maluk...) | 75 po (Risque +25%)              | 105 po (Modéré)           | **180 po**              |
 | **Territoires Extérieurs** (Le Nord...)        | 90 po (Risque +50%)              | 60 po (Faible)            | **150 po**              |
+### Frais de comptoirs détails
 
+| Type de Territoire         | Salaires (Garde : 2po/jour, Gérant : 3 po/jour) / décade | Loyer & Taxes Locales | Description                                                    |
+| -------------------------- | -------------------------------------------------------- | --------------------- | -------------------------------------------------------------- |
+| **Provinces Impériales**   | 70                                                       | **250 po**            | Haute sécurité. Taxes administratives lourdes.                 |
+| **Cités États Naines**     | 70                                                       | **250 po**            | Solide et fiable. Affinité avec Ikhâr (Taxe d'entrée réduite). |
+| **Marches Impériales**     | 70                                                       | **180 po**            | Zone de guerre potentielle. Salaires + élevés (risque).        |
+| **Protectorats**           | 70                                                       | **180 po**            | Mix entre diplomatie et commerce libre.                        |
+| **Territoires Extérieurs** | **1 300 po**                                             | **150 po**            | Far West. Peu de taxes, mais recrutement très cher.            |
 # Revenus
 
 ## Carcéa : 
