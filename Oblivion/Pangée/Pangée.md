@@ -1,11 +1,12 @@
 # Provinces de l'empire
+Les provinces impériales sont les territoires qui obéissent directement à l'Empire et à sa loi. Elles sont sous l'autorité directe du Kaïsar et doivent se plier à son bon vouloir. Mais elles sont aussi sous sa protection et, si un conflit éclate, les provinces sont certaines d'être défendues. Elles possèdent chacune leurs particularités, mais deux millénaires après leurs conquêtes, elles ont cependant adopté une grand partie des coutumes de Khoros, la première province.
 - Eiren
 - Khoros
 - Opharmos
 - Tharse
 
 # Cités États Naines
-Les cités-Etats naines sont des provinces à part entière mais ont conservé une certaine indépendance. Ainsi, dans les provinces, là ou 
+Les cités États naines sont des provinces à part entière mais ont conservé une certaine indépendance. Ainsi, dans les provinces, là ou les instances locales sont souvent à majorité humaine, les cité états sont dirigées par les nains. La place particulière des nains dans la société impériale leur a permis de maintenir, au fil des siècles, ce privilège. Leurs cités états cumulent donc les avantages des provinces tout en ayant l'indépendance politique des protectorats. Cependant, que l'on ne s'y trompe pas : l'influence des cités états sur la politique impériale est énorme, et les nains sont toujours écoutés.
 - Kar'Azdhur
 - Kar'Berial
 - Kar'Dhurim

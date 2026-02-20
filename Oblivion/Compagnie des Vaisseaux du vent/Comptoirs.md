@@ -7,6 +7,14 @@ Taxes si zone commerciale libre (type Madi'Maluk) : **180 po**.
 - **Recrutement initial (Gérant + 2 gardes) :** 150 po (Frais de contrat et équipement de base).    
 - **TOTAL INVESTISSEMENT : 2 150 po.**
 
+|**Type de Territoire**|**Droit d'entrée (po)**|**Aménagement (po)**|**Recrutement (po)**|**TOTAL (po)**|**Note de Gestion**|
+|---|---|---|---|---|---|
+|**Provinces Impériales**|1 200|1 000|150|**2 350**|Bureaucratie lourde, mais sécurité garantie par les légions.|
+|**Cités États Naines**|800|1 200|200|**2 200**|Réduction de taxe (affinités naines d'Ikhâr), mais loyers élevés.|
+|**Marches Impériales**|600|800|400|**1 800**|Taxes faibles, mais recrutement cher (primes de risque).|
+|**Protectorats**|1 000|1 000|250|**2 250**|Système de pots-de-vin locaux + taxes impériales.|
+|**Territoires Extérieurs**|200|600|800|**1 600**|Pas de taxe impériale, mais gros budget mercenaires/fortification.|
+
 # Comptoirs existants
 Avec une vitesse de **432 km / jour**, voici les performances du d'une Gondolfière en partance d'Ikhâr :
 ## Madi'Maluk (Kh'Eoda)
