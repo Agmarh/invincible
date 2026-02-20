@@ -44,10 +44,10 @@
 
 | **Poste**                      | **Flux Financier (po)** |
 | ------------------------------ | ----------------------- |
-| **Bénéfice Net**               | 1733                    |
+| **Bénéfice Net**               | 1750                    |
 | **Revenus : Comptoir d'Ikhâr** | 100                     |
 | **Frais fixes**                | -2180                   |
-| **SOLDE GLOBAL**               | -347                    |
+| **SOLDE GLOBAL**               | -330                    |
 <!-- TBLFM: @>$2=sum(@I..@-1) -->
 
 C'est la route la plus rentable. Elle permet d'être presque à l'équilibre.
