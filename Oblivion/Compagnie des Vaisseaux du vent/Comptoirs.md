@@ -9,12 +9,13 @@ Taxes si zone commerciale libre (type Madi'Maluk) : **180 po**.
 
 | Type de Territoire         | Droit d'entrée / Taxes (po) | Location et Aménagement (po) | Recrutement initiale : Gérant, gardes, équipements, contrats (po) | TOTAL (po) | Note de Gestion                                                    |
 | -------------------------- | --------------------------- | ---------------------------- | ----------------------------------------------------------------- | ---------- | ------------------------------------------------------------------ |
-| **Provinces Impériales**   | 1 200                       | 1 000                        | 150                                                               |            | Bureaucratie lourde, mais sécurité garantie par les légions.       |
-| **Cités États Naines**     | 800                         | 1 200                        | 200                                                               |            | Réduction de taxe (affinités naines d'Ikhâr), mais loyers élevés.  |
-| **Marches Impériales**     | 600                         | 800                          | 400                                                               |            | Taxes faibles, mais recrutement cher (primes de risque).           |
-| **Protectorats**           | 1 000                       | 1 000                        | 250                                                               |            | Système de pots-de-vin locaux + taxes impériales.                  |
-| **Territoires Extérieurs** | 200                         | 600                          | 800                                                               |            | Pas de taxe impériale, mais gros budget mercenaires/fortification. |
-<!-- TBLFM: @>$2=sum(@I..@-1) -->
+| **Provinces Impériales**   | 1200                        | 1000                         | 150                                                               | 0          | Bureaucratie lourde, mais sécurité garantie par les légions.       |
+| **Cités États Naines**     | 800                         | 1200                         | 200                                                               | 0          | Réduction de taxe (affinités naines d'Ikhâr), mais loyers élevés.  |
+| **Marches Impériales**     | 600                         | 800                          | 400                                                               | 0          | Taxes faibles, mais recrutement cher (primes de risque).           |
+| **Protectorats**           | 1000                        | 1000                         | 250                                                               | 0          | Système de pots-de-vin locaux + taxes impériales.                  |
+| **Territoires Extérieurs** | 200                         | 600                          | 800                                                               | 0          | Pas de taxe impériale, mais gros budget mercenaires/fortification. |
+<!-- TBLFM: $5=sum(@2..@4) -->
+
 #### 1. Provinces de l'Empire (ex: Khoros, Tharse)
 C'est le choix de la **stabilité**.
 - **Le coût :** Le "Droit d'établissement" est le plus élevé à cause des innombrables formulaires et pots-de-vin aux fonctionnaires impériaux.    
