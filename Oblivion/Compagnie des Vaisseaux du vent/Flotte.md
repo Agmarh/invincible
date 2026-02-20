@@ -39,26 +39,12 @@ Bramm double l'équipe (20 nains au lieu de 10).
 - **TOTAL ACCÉLÉRÉ : 4 700 po.**    
 
 ## Création d'une Gondolfière
-
-| **Poste de dépense**                    | **Construction à Neuf** |
-| --------------------------------------- | ----------------------- |
-| **Matériaux de base** (Bois, vannes)    | 8 000 po                |
-| **Matériaux neufs** (Toiles, gaz, etc.) | 4 000 po                |
-| **Main-d'œuvre & Expertise**            | 2 000 po                |
-| **TOTAL**                               | **14 000 po**           |
-| **DÉLAI**                               | **120 jours**           |
-
+Apports des matériaux et construction à neuf.
 
 | **Poste de dépense** (Délai 120 jours)                   | **Construction à Neuf (po)** |
 | -------------------------------------------------------- | ---------------------------- |
-| **Matériaux de base** (Coût de tri/récupération          | 8000                         |
+| **Matériaux de base** (Bois, vannes)                     | 8000                         |
 | **Matériaux neufs** (Toiles traitées, cordes, gréements) | 2000                         |
 | **Main-d'œuvre & Expertise** (Bramm + 10 nains)          | 3900                         |
-| **TOTAL**                                                | 4600                         |
+| **TOTAL**                                                | 13900                        |
 <!-- TBLFM: @>$2=sum(@I..@-1) -->
-### 🏢 Création d'un Nouveau Comptoir (Investissement Initial)
-Pour le recrutement, on réduit les frais initiaux. On considère que c'est une avance sur le premier mois et les frais de recherche de personnel fiable.
-- **Droit d'établissement / Taxes :** 1 000 po (Fixe pour l'Empire ou les cités majeures).    
-- **Location et aménagement entrepôt :** 1 000 po.    
-- **Recrutement initial (Gérant + 2 gardes) :** 150 po (Frais de contrat et équipement de base).    
-- **TOTAL INVESTISSEMENT : 2 150 po.**

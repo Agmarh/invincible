@@ -1,8 +1,15 @@
 Taxes si zone impériale (type Carcéa) : **250 po**.
 Taxes si zone commerciale libre (type Madi'Maluk) : **180 po**.
 
+# 🏢 Création d'un Nouveau Comptoir (Investissement Initial)
+- **Droit d'établissement / Taxes :** 1 000 po (Fixe pour l'Empire ou les cités majeures).    
+- **Location et aménagement entrepôt :** 1 000 po.    
+- **Recrutement initial (Gérant + 2 gardes) :** 150 po (Frais de contrat et équipement de base).    
+- **TOTAL INVESTISSEMENT : 2 150 po.**
+
+# Comptoirs existants
 Avec une vitesse de **432 km / jour**, voici les performances du d'une Gondolfière en partance d'Ikhâr :
-# Madi'Maluk (Kh'Eoda)
+## Madi'Maluk (Kh'Eoda)
 - **Distance :** 1500 km.
 - **Durée du voyage :** 10 jours (1 décade) pour l'Aller-Retour.
 - **Marchandises :** Export de **Vin de Khayolt** / Import d'**Épices, Soie et Ivoire**.
@@ -17,8 +24,7 @@ Avec une vitesse de **432 km / jour**, voici les performances du d'une Gondolfi�
     - **300 t (Transit pour Carcéa) :** Épices fines, soie brute, ivoire sculpté, bois exotiques.        
     - **100 t (Besoins d'Ikhâr) :** Fruits tropicaux (source d'eau), huiles végétales, coton pour les vêtements.        
     - **100 t (Cale libre / Divers) :** Passagers ou opportunités de dernière minute.
-
-# Carcéa (Khoros)
+## Carcéa (Khoros)
 - **Distance :** 2500 km.
 - **Durée du voyage :** 15 jours (1,5 décade) pour l'Aller-Retour.
 - **Marchandises :** Export de **Liqueur de Khayolt** / Import de **Métaux ouvragés, Armes et Outils impériaux**.
