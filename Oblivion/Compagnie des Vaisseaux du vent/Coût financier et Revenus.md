@@ -46,13 +46,13 @@
 | **Territoires Extérieurs** (Le Nord...)        | 90 po (Risque +50%)              | 60 po (Faible)            | **150 po**              |
 ### Frais de comptoirs détails
 
-| Type de Territoire         | Salaires (Garde : 2po/jour, Gérant : 3 po/jour) / décade | Loyer & Taxes Locales | Description                                                    |
-| -------------------------- | -------------------------------------------------------- | --------------------- | -------------------------------------------------------------- |
-| **Provinces Impériales**   | 70                                                       | **250 po**            | Haute sécurité. Taxes administratives lourdes.                 |
-| **Cités États Naines**     | 70                                                       | **250 po**            | Solide et fiable. Affinité avec Ikhâr (Taxe d'entrée réduite). |
-| **Marches Impériales**     | 70                                                       | **180 po**            | Zone de guerre potentielle. Salaires + élevés (risque).        |
-| **Protectorats**           | 70                                                       | **180 po**            | Mix entre diplomatie et commerce libre.                        |
-| **Territoires Extérieurs** | **1 300 po**                                             | **150 po**            | Far West. Peu de taxes, mais recrutement très cher.            |
+| Type de Territoire         | Salaires (Garde : 2po/jour, Gérant : 3 po/jour) / décade | Loyer & Taxes Locales (po / décade) | Description                                             |
+| -------------------------- | -------------------------------------------------------- | ----------------------------------- | ------------------------------------------------------- |
+| **Provinces Impériales**   | 70                                                       | 200                                 | Haute sécurité. Taxes administratives lourdes.          |
+| **Cités États Naines**     | 70                                                       | 190                                 | Solide et fiable. Affinité avec les nains.              |
+| **Marches Impériales**     | 91 (Prime de risque +30%)                                | 100                                 | Zone de guerre potentielle. Salaires + élevés (risque). |
+| **Protectorats**           | 70                                                       | 150                                 | Mix entre diplomatie et commerce libre.                 |
+| **Territoires Extérieurs** | 105 (Prime de risque +50%)                               | 60                                  | Dangereux. Peu de taxes, mais recrutement cher.         |
 # Revenus
 
 ## Carcéa : 
