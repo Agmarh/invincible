@@ -1,5 +1,3 @@
-Taxes si zone impériale (type Carcéa) : **250 po**.
-Taxes si zone commerciale libre (type Madi'Maluk) : **180 po**.
 # Impact sur le Transit
 - **Comptoir Impérial :** + de taxes, mais - de risques de perte de cargaison.    
 - **Comptoir Extérieur :** 0 taxes, mais lancer un <font style="color:green">d20 chaque décade</font>. Sur un <font style="color:red">1</font>, le comptoir a été pillé ou assiégé, demandant un réinvestissement.
