@@ -38,6 +38,13 @@
 | **TOTAL**                 | 2180                     | **Total des frais fixes**                                                                                                                         |
 <!-- TBLFM: @>$2=sum(@I..@-1) -->
 
+### Frais de comptoirs
+| **Type de Territoire**                         | **Salaires (Gérant + 2 Gardes)** | **Loyer & Taxes Locales** | **TOTAL (po / décade)** |
+| ---------------------------------------------- | -------------------------------- | ------------------------- | ----------------------- |
+| **Zone Impériale** (Carcéa, Khoros...)         | 60 po (Standard)                 | 190 po (Cher)             | **250 po**              |
+| **Protectorat / Marché Libre** (Madi'Maluk...) | 75 po (Risque +25%)              | 105 po (Modéré)           | **180 po**              |
+| **Territoires Extérieurs** (Le Nord...)        | 90 po (Risque +50%)              | 60 po (Faible)            | **150 po**              |
+
 # Revenus
 
 ## Carcéa : 
