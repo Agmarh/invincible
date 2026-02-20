@@ -32,7 +32,7 @@ C'est le choix de l'**aventure (et du prochain fragment)**.
 - **Le bonus :** Marges de profit énormes (x2 sur les produits exotiques).
 
 ### ⚖️ L'Impact sur le Transit
-Pour ton autonomie, souviens-toi que :
+Pour ton autonomie, souviens toi que :
 - **Comptoir Impérial :** + de taxes, mais - de risques de perte de cargaison.    
 - **Comptoir Extérieur :** 0 taxes, mais lance un $d20$ chaque décade. Sur un $1$, le comptoir a été pillé ou assiégé, demandant un réinvestissement.
 
