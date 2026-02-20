@@ -7,13 +7,34 @@ Taxes si zone commerciale libre (type Madi'Maluk) : **180 po**.
 - **Recrutement initial (Gérant + 2 gardes) :** 150 po (Frais de contrat et équipement de base).    
 - **TOTAL INVESTISSEMENT : 2 150 po.**
 
-|**Type de Territoire**|**Droit d'entrée (po)**|**Aménagement (po)**|**Recrutement (po)**|**TOTAL (po)**|**Note de Gestion**|
-|---|---|---|---|---|---|
-|**Provinces Impériales**|1 200|1 000|150|**2 350**|Bureaucratie lourde, mais sécurité garantie par les légions.|
-|**Cités États Naines**|800|1 200|200|**2 200**|Réduction de taxe (affinités naines d'Ikhâr), mais loyers élevés.|
-|**Marches Impériales**|600|800|400|**1 800**|Taxes faibles, mais recrutement cher (primes de risque).|
-|**Protectorats**|1 000|1 000|250|**2 250**|Système de pots-de-vin locaux + taxes impériales.|
-|**Territoires Extérieurs**|200|600|800|**1 600**|Pas de taxe impériale, mais gros budget mercenaires/fortification.|
+| **Type de Territoire**     | **Droit d'entrée (po)** | **Aménagement (po)** | **Recrutement (po)** | **TOTAL (po)** | **Note de Gestion**                                                |
+| -------------------------- | ----------------------- | -------------------- | -------------------- | -------------- | ------------------------------------------------------------------ |
+| **Provinces Impériales**   | 1 200                   | 1 000                | 150                  | **2 350**      | Bureaucratie lourde, mais sécurité garantie par les légions.       |
+| **Cités États Naines**     | 800                     | 1 200                | 200                  | **2 200**      | Réduction de taxe (affinités naines d'Ikhâr), mais loyers élevés.  |
+| **Marches Impériales**     | 600                     | 800                  | 400                  | **1 800**      | Taxes faibles, mais recrutement cher (primes de risque).           |
+| **Protectorats**           | 1 000                   | 1 000                | 250                  | **2 250**      | Système de pots-de-vin locaux + taxes impériales.                  |
+| **Territoires Extérieurs** | 200                     | 600                  | 800                  | **1 600**      | Pas de taxe impériale, mais gros budget mercenaires/fortification. |
+#### 1. Provinces de l'Empire (ex: Khoros, Tharse)
+C'est le choix de la **stabilité**.
+- **Le coût :** Le "Droit d'établissement" est le plus élevé à cause des innombrables formulaires et pots-de-vin aux fonctionnaires impériaux.    
+- **Le bonus :** Une fois installé, le comptoir ne craint aucune attaque de brigands. Les frais fixes sont prévisibles.
+#### 2. Cités États Naines (ex: Kar'Dhurim)
+C'est le choix du **réseau**.
+- **Le coût :** Puisque Ikhâr est une ville naine, vos PJ ont un avantage diplomatique. Les nains les accueillent bien, mais les infrastructures souterraines coûtent cher à entretenir.    
+- **Le bonus :** Accès prioritaire aux mines et aux forges. Idéal pour réparer les nefs.
+#### 3. Les Marches (ex: Hautemarche)
+C'est le choix de la **logistique militaire**.
+- **Le coût :** Le recrutement (400 po) est élevé car vous devez engager des gardes qui n'ont pas peur de voir une légion ennemie débarquer au petit-déjeuner.   
+- **Le bonus :** Vous pouvez obtenir des contrats lucratifs pour le transport de troupes ou de matériel militaire impérial.
+#### 4. Les Terres Boréales (Le Nord)
+C'est le choix de l'**aventure (et du prochain fragment)**.
+- **Le coût :** Pas de taxe officielle. Les 200 po servent à "arroser" le chef de clan local ou le seigneur de guerre qui tient la zone. En revanche, le recrutement est critique : vous devez payer des vétérans capables de survivre au froid et aux créatures boréales.    
+- **Le bonus :** Marges de profit énormes (x2 sur les produits exotiques).
+
+### ⚖️ L'Impact sur le Transit
+Pour ton autonomie, souviens-toi que :
+- **Comptoir Impérial :** + de taxes, mais - de risques de perte de cargaison.    
+- **Comptoir Extérieur :** 0 taxes, mais lance un $d20$ chaque décade. Sur un $1$, le comptoir a été pillé ou assiégé, demandant un réinvestissement.
 
 # Comptoirs existants
 Avec une vitesse de **432 km / jour**, voici les performances du d'une Gondolfière en partance d'Ikhâr :
