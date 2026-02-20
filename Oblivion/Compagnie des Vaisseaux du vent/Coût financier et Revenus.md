@@ -45,9 +45,9 @@
 | **Poste**                      | **Flux Financier (po)** |
 | ------------------------------ | ----------------------- |
 | **Bénéfice Net**               | 1750                    |
-| **Revenus : Comptoir d'Ikhâr** | 100                     |
+| **Revenus : Comptoir d'Ikhâr** | 50                      |
 | **Frais fixes**                | -2180                   |
-| **SOLDE GLOBAL**               | -330                    |
+| **SOLDE GLOBAL**               | -380                    |
 <!-- TBLFM: @>$2=sum(@I..@-1) -->
 
 C'est la route la plus rentable. Elle permet d'être presque à l'équilibre.
@@ -56,9 +56,9 @@ C'est la route la plus rentable. Elle permet d'être presque à l'équilibre.
 | **Poste**                      | **Flux Financier (po)** |
 | ------------------------------ | ----------------------- |
 | **Bénéfice Net**               | 1400                    |
-| **Revenus : Comptoir d'Ikhâr** | 100                     |
+| **Revenus : Comptoir d'Ikhâr** | 50                      |
 | **Frais fixes**                | -2180                   |
-| **SOLDE GLOBAL**               | -680                    |
+| **SOLDE GLOBAL**               | -730                    |
 <!-- TBLFM: @>$2=sum(@I..@-1) -->
 
 C'est une route qui ne suffit pas à faire vivre toute la structure. La compagnie perd un peu d'argent.
