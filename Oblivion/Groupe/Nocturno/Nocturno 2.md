@@ -10,6 +10,6 @@ Harmonisation : Oui
 
 - **Lien nocturne.** L’amant peut téléporter l’épée jusqu’à lui. Il doit simplement souhaiter la retrouver avant de s’endormir et celle- ci apparaîtra à ses côtés le lendemain, au terme d’une nuit complète de sommeil. La distance n’est pas prise en compte, mais l’amant doit se trouver sur le même plan.
 
-- **Pouvoirs morphéens.** Nocturno possède certains pouvoirs : [[image silencieuse]] (repos long), [[serviteur invisible]] (repos long), [[Blessure]] (repos long).
+- **Pouvoirs morphéens.** Nocturno possède certains pouvoirs. Elle permet de lancer certains sorts utilisables une fois entre chaque repos court ou long : [[image silencieuse]] (repos long), [[serviteur invisible]] (repos long), [[Blessure]] (repos long).
 
-- **Harmonie Somatique.** Vous pouvez exécuter une composante somatique avec la main qui Nocturno.
+- **Harmonie Somatique.** Vous pouvez exécuter une composante somatique avec la main qui tient Nocturno.
