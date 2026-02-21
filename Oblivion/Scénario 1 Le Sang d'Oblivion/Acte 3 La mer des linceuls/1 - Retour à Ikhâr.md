@@ -30,7 +30,7 @@ Remettre la lettre suivante à Iseult :
 # La gestion de la compagnie
 [[Coût financier et Revenus]]
 
-> Fan'Goriah : <font style="color:orange">"Mes amis, le capitaine Thorkral vient de terminer le voyage jusqu'à notre comptoir de Carcéa. Lui et son équipage sont les seuls depuis la mort du Duc et la fuite de Baron Blême à pouvoir voyager jusqu'à nos comptoirs. Je ne vous cache pas que la situation pourrait être plus agréable. Nous sommes déficitaire pour le moment. Votre apport de 15 000 pièces d'or à la signature du traité va nous permettre de survivre. Mais il faut rebondir, et vite."</font>
+> Fan'Goriah : <font style="color:orange">"Mes amis, vous n'êtes pas encore tout à faire familiarisé avec la compagnie et ses employés. Le capitaine Thorkral vient de terminer le voyage jusqu'à notre comptoir de Carcéa. Lui et son équipage sont les seuls depuis la mort du Duc et la fuite de Baron Blême à pouvoir voyager jusqu'à nos comptoirs. Je ne vous cache pas que la situation pourrait être plus agréable. Nous sommes déficitaire pour le moment. Votre apport de 15 000 pièces d'or à la signature du traité va nous permettre de survivre. Mais il faut rebondir, et vite."</font>
 
 Après avoir montré les chiffres :
 > Fan'Goriah : <font style="color:orange">"Voilà les chiffres. On survit, mais nous ne rapportons pas assez pour nous développer. Le Colporteur attend nos ordres pour partir en direction de Madi'Maluk, mais comme vous le savez maintenant, cela ne nous rapportera pas assez."</font>
