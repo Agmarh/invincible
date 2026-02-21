@@ -210,25 +210,6 @@
   "state": {
     "creatures": [
       {
-        "name": "Lilli Munggen",
-        "initiative": 19,
-        "static": false,
-        "modifier": 0,
-        "hp": 38,
-        "currentMaxHP": 38,
-        "cr": 2,
-        "ac": "15 (armure de cuir clouté)",
-        "currentAC": -4,
-        "id": "ID_7b8beac8caca",
-        "currentHP": 33,
-        "tempHP": 0,
-        "status": [],
-        "enabled": true,
-        "active": false,
-        "hidden": false,
-        "friendly": true
-      },
-      {
         "name": "N'Djinn",
         "initiative": 18,
         "static": false,
@@ -311,28 +292,6 @@
         "active": true,
         "hidden": false,
         "friendly": false
-      },
-      {
-        "name": "Ettin'Grinn",
-        "initiative": 8,
-        "static": false,
-        "modifier": 0,
-        "hp": 67,
-        "currentMaxHP": 67,
-        "cr": 4,
-        "ac": "16 (cuirasse)",
-        "currentAC": "16 (cuirasse)",
-        "id": "ID_090a6839aab8",
-        "currentHP": 0,
-        "tempHP": 0,
-        "status": [
-          "Unconscious"
-        ],
-        "enabled": true,
-        "active": false,
-        "hidden": false,
-        "friendly": false,
-        "hit_dice": "9d8+27"
       }
     ],
     "state": true,
