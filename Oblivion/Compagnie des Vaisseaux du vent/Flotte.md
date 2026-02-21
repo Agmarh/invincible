@@ -34,7 +34,7 @@ On utilise les épaves, mais on compte le coût de nettoyage/tri des pièces ré
 <!-- TBLFM: @>$2=sum(@I..@-1) -->
 #### ⏩ Option "Accélération"
 Bramm double l'équipe (20 nains au lieu de 10).
-- **Nouveau délai :** 20 jours (2 décades).    
+- **Nouveau délai :** 20 jours (2 décades).
 - **Coût de la main-d'œuvre :** 400 po (Bramm) + 800 po (20 nains x 2 po x 20 jours) = **1 200 po**.    
 - **TOTAL ACCÉLÉRÉ : 4 700 po.**    
 
