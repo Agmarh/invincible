@@ -27,7 +27,7 @@ On utilise les épaves, mais on compte le coût de nettoyage/tri des pièces ré
 
 | **Poste de dépense** (Délai 30 jours)                    | **Reconstruction (po)** |
 | -------------------------------------------------------- | ----------------------- |
-| **Matériaux de base** (Coût de tri/récupération          | 1500                    |
+| **Matériaux de base** (Coût de tri/récupération)         | 1500                    |
 | **Matériaux neufs** (Toiles traitées, cordes, gréements) | 2000                    |
 | **Main-d'œuvre & Expertise** (Bramm + 10 nains)          | 1100                    |
 | **TOTAL**                                                | 4600                    |
