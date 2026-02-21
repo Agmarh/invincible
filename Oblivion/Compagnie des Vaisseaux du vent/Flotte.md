@@ -15,7 +15,7 @@
 | ------------- | ------------------------------------------------------------------------------------------------ |
 | La Comptable  | Gondolfière de [[Fan'Goriah]], basée à Ikhâr, elle sert de bureau mobile et de réserve.          |
 | Le Colporteur | Gondolfière de Thorkral, un capitaine nain originaire d'Ikhâr, affectée aux routes commerciales. |
-| Nef des PJs   | Gondolfière des PJs, principalement équipée pour l'aventure et l'exploration.                    |
+| Le Kernös     | Gondolfière des PJs, principalement équipée pour l'aventure et l'exploration.                    |
 # Améliorations spécifiques
 - Renforcement du ballon avec de la soie d'araignée géante : Coût 1500 po (augmentation des PV des ballons de 20)
 - Armement supplémentaire : Catapulte légère (pour langer des flasques de feu grégeois) : coût 1000 po
