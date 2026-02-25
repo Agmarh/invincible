@@ -27,6 +27,6 @@ traits:
   - name: Informe
     desc: "L'ombre peut traverser sans devoir se faufiler un interstice d'une largeur au moins égale à 2 centimètres."
 actions:
-  - name: Pönction de force
+  - name: Ponction de force
     desc: "Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une créature. Touché : 9 (2d6+2) dégâts nécrotiques et la valeur de Force de la cible est réduite de 1d4 points. La cible meurt si cet effet réduit sa valeur de Force à 0. Sinon, la réduction persiste jusqu'à la fin d'une période de repos long ou court. Si un humanoïde non-mauvais meurt à cause de cette attaque, une nouvelle ombre surgit de son cadavre après 1d4 heures."
 ```
