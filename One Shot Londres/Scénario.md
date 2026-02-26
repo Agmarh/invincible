@@ -10,6 +10,14 @@
 ## Le spectacle
 L'odeur de vin chaud et les applaudissements accompagnent les différentes prestations des athlètes de la foire, jusqu'au moment où se prépare le clou du spectacle.
 
+| Activité                      | Type de Jet                                 | Intérêt Narratif                                                                                                                                         |
+| ----------------------------- | ------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Le Lancer de Hache du Norven  | Athlétisme ou Dextérité                     | Idéal pour la **Guerrière**. Si elle gagne, elle attire l'œil du capitaine de la garde (utile pour plus tard).                                           |
+| Le Bonneteau des Bas-Fonds    | Escamotage ou Perception                    | Jeu d’adresse où un parieur doit retrouver une bille cachée sous trois gobelets (ou une carte spécifique parmi trois) que l’arnaqueur déplace très vite. |
+| L'Étal de l'Apothicaire Local | Intelligence (Nature) ou Sagesse (Médecine) | La **Druidesse** ou la **Sorcière** remarquent que les plantes cueillies récemment en forêt sont étrangement flétries ou tachées de noir.                |
+> <font style="color:orange">Une cloche de bronze résonne, couvrant le tumulte de la foire. Malatesta lui-même, vêtu d'un manteau de velours rouge un peu élimé, se tient sur une estrade devant le plus grand chapiteau.</font> 
+> <font style="color:yellow">"Approchez ! Approchez ! Venez découvrir la nouvelle attraction venue tout droit des enfers, la merveille des abîmes, le Glouton des failles ! Le spectacle va commencer, et votre vision du monde en sera changée à jamais !"</font>
+
 Le silence se fait sous le chapiteau. Malatesta claque son fouet et, dans un bruit de chaînes lourdes, une masse sombre est traînée sur la sciure du sol. Vous voyez un crapaud qui fait le double de la taille d'un taureau, à la peau d'un bleu nuit presque noir. Ses yeux jaunes, immenses et globuleux, fixent la foule avec une faim presque tangible et primitive. Sa gueule, immense, semble capable d'avaler un homme d'un seul coup. 
 
 > <font style="color:orange">Admirez ! Mesdames, Messieurs et jeunes gens venus des 4 coins de Norven. Un glouton des failles tout droit sorti de son marais putride ! Capturé et dressé, pour votre plus grand plaisir !</font>
@@ -44,15 +52,15 @@ Issue :
 ## Négociation chez le Baron
 Les PJs seront emmenés auprès du gouverneur de Delad, le Baron Valerius de Norven, un homme austère, qui, après enquête, les gracie (excepté le trio de criminel).
 
-> <font style="color:orange">Il semblerait qu'il y ait eu méprise, nous devrions vous remercier, vous avez permis de limiter les dégâts et de sauver une partie de la population.</font>
-> <font style="color:orange">En revanche, vous trois. Un avis de recherche a été déposé par le chambellan d'Akh, vous pensiez pouvoir faire profil bas en venant ici ? En Norven, on coupe les mains des voleurs. Mais aujourd'hui, je pourrais me montrer clément, j'ai besoin de vos mains pour tenir des armes. Alors choisissez, la guillotine ou le monstre.</font>
-> <font style="color:orange">Quand à vous autre, puis-je vous demander une nouvelle fois votre aide ? Vous semblez compétents et nous aurions bien besoin de personnes de votre calibre pour terrasser cette abomination.</font>    
+> <font style="color:yellow">"Il semblerait qu'il y ait eu méprise, nous devrions vous remercier, vous avez permis de limiter les dégâts et de sauver une partie de la population."</font>
+> <font style="color:yellow">"En revanche, vous trois. Un avis de recherche a été déposé par le chambellan d'Akh, vous pensiez pouvoir faire profil bas en venant ici ? En Norven, on coupe les mains des voleurs. Mais aujourd'hui, je pourrais me montrer clément, j'ai besoin de vos mains pour tenir des armes. Alors choisissez, la guillotine ou le monstre."</font>
+> <font style="color:yellow">"Quand à vous autre, puis-je vous demander une nouvelle fois votre aide ? Vous semblez compétents et nous aurions bien besoin de personnes de votre calibre pour terrasser cette abomination."</font>    
 
 La guerrière pour négocier éventuellement, car c'est la seule qui n'a pas d'avantage à aider la ville.
 
 Il faudra trouver Malatesta également qui est en fuite quelque part dans la ville.
 
-> <font style="color:orange">Nous cherchons activement Malatesta qui s'est enfui après l'attaque. Vous pourriez vous joindre aux recherches pour commencer ?</font> 
+> <font style="color:yellow">"Nous cherchons activement Malatesta qui s'est enfui après l'attaque. Vous pourriez vous joindre aux recherches pour commencer ?"</font> 
 
 ## La Traque dans la Basse-Ville
 L'enquête des PJs depuis le chapiteau devraient les amener dans les ruelles gelées de Delad, vers les caves d'une tannerie abandonnée en bordure de la ville, non loin de la foire.
@@ -61,8 +69,8 @@ L'enquête des PJs depuis le chapiteau devraient les amener dans les ruelles gel
 Malatesta est mourant et ne cherchera pas à fuir, il est incapable de bouger. Il confiera aux PJs qu'il a trouvé une dague faite dans un métal semblable à de l'Obsidienne. A l'instant où il a saisi la dague, il s'est retrouvé comme prisonnier de son propre corps, comme manipulé.
 
 Complètement conscient, son corps ne lui obéissait plus, il a assisté à toute la scène. 
-> <font style="color:orange">Mon corps ne m'obéissait plus, j'étais possédé, je me suis dirigé au cœur de la forêt de l'Ancien-Tertre, sur un ancien cite druidique je pense. La chose qui me manipulait a entaillé ma main avec la dague et a récité des mots dans une langue que je ne connaissait même pas. Un portail est apparu et une sorte d'insecte géant est apparu. Il cherche des âmes pour alimenter le portail et permettre à son maître d'entrer sur notre plan.</font>
-> <font style="color:orange">Prenez la dague, et quand vous aurez tué ce monstre, frapper le avec. Le portail devrait se refermer. Laissez moi, je suis condamné de toute façon. Je suis désolé pour ce que j'ai fait.</font>
+> <font style="color:yellow">"Mon corps ne m'obéissait plus, j'étais possédé, je me suis dirigé au cœur de la forêt de l'Ancien-Tertre, sur un ancien cite druidique je pense. La chose qui me manipulait a entaillé ma main avec la dague et a récité des mots dans une langue que je ne connaissait même pas. Un portail est apparu et une sorte d'insecte géant est apparu. Il cherche des âmes pour alimenter le portail et permettre à son maître d'entrer sur notre plan."</font>
+> <font style="color:yellow">"Prenez la dague, et quand vous aurez tué ce monstre, frapper le avec. Le portail devrait se refermer. Laissez moi, je suis condamné de toute façon. Je suis désolé pour ce que j'ai fait."</font>
 
 A ce moment, 2 ou 3 [[Quasit]] essaieront d'effrayer les joueurs et de les désorientés pour récupérer la dague.
 
