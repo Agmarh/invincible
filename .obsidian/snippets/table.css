@@ -1,0 +1,11 @@
+.markdown-preview-view table {
+    font-size: 1em;
+}
+
+.markdown-source-view table {
+    font-size: 1em;
+}
+
+table {
+    font-size: 0.50em !important;
+}
