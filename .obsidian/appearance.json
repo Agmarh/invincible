@@ -1,7 +1,5 @@
 {
   "cssTheme": "ITS Theme",
   "baseFontSize": 13,
-  "enabledCssSnippets": [
-    "table"
-  ]
+  "enabledCssSnippets": []
 }
