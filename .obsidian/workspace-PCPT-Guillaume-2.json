@@ -1,0 +1,274 @@
+{
+  "main": {
+    "id": "41869f9715692236",
+    "type": "split",
+    "children": [
+      {
+        "id": "605e389ea46283f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51f2b66fa5675aa3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "One Shot Londres/Scénario.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Scénario"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "890a2628ae20e9d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "759cca603aa867b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73d9d1dc679a0a94",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorateur de fichiers"
+            }
+          },
+          {
+            "id": "421ee2a475bd4878",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Rechercher"
+            }
+          },
+          {
+            "id": "e4a1fc17e70ec554",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Signets"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 260.5
+  },
+  "right": {
+    "id": "04ca0e351e11e57c",
+    "type": "split",
+    "children": [
+      {
+        "id": "b84d34357bc912c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2791054c819e4d1e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "pinned": true,
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          },
+          {
+            "id": "0b7f13632d061452",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "pinned": true,
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "9c15f9a9718a8863",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "One Shot Londres/Scénario.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rétrolien pour Scénario"
+            }
+          },
+          {
+            "id": "a56647ad876d533e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Liens sortants"
+            }
+          },
+          {
+            "id": "d03b4b83310639bd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Mots-clés"
+            }
+          },
+          {
+            "id": "bd6393d939625402",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Plan"
+            }
+          },
+          {
+            "id": "fbaae34b5e4fdc4d",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          }
+        ]
+      },
+      {
+        "id": "dc60f1b01e00029f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a3c37bb97b9af89",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {},
+              "icon": "initiative-tracker-creature-view",
+              "title": "Combatant"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 372.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "51f2b66fa5675aa3",
+  "lastOpenFiles": [
+    "Annexe/Bestiaire/Ombre.md",
+    "Annexe/Bestiaire/Quasit.md",
+    "Annexe/Bestiaire/Goule.md",
+    "Annexe/Bestiaire/Rejeton d'Akyishigal.md",
+    "One Shot Londres/Scénario.md",
+    "One Shot Londres/Scénario-PCPT-Guillaume.md",
+    "Oblivion/Sessions/Session 6.md",
+    "Oblivion/Sessions/J+15.md",
+    "Oblivion/Pangée/Carte.md",
+    "Oblivion/Compagnie des Vaisseaux du vent/Capital.md",
+    "Oblivion/Compagnie des Vaisseaux du vent/Création de comptoirs.md",
+    "Oblivion/Compagnie des Vaisseaux du vent/Coût financier et Revenus.md",
+    "Oblivion/Compagnie des Vaisseaux du vent/Comptoirs existants.md",
+    "Oblivion/Compagnie des Vaisseaux du vent/Equipage.md",
+    "Oblivion/Compagnie des Vaisseaux du vent/Flotte.md",
+    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 3 La mer des linceuls/1 - Retour à Ikhâr.md",
+    "Annexe/Bestiaire/Lilli Munggen.md",
+    "Oblivion/Groupe/Entraînement Iseult.md",
+    "Oblivion/Groupe/Nocturno/Nocturno 2.md",
+    "Oblivion/Groupe/Nocturno/Extases.md",
+    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/5 - La Galerie des Suppliciés.md",
+    "Oblivion/Groupe/Nocturno/Nocturno.md",
+    "Oblivion/Objets Magiques/Pièce de monnaie.md",
+    "Oblivion/Groupe/Nocturno/Nocturno 1.md",
+    "Oblivion/Objets Magiques/Perle de puissance.md",
+    "Oblivion/Scénario 1 Le Sang d'Oblivion/Acte 2 Ainsi naissent les chimères/4 - La Bâtisse Assassine.md",
+    "Oblivion/Pangée",
+    "Oblivion/Groupe/Nocturno",
+    "One Shot Londres/Images/Glouton des failles.png",
+    "One Shot Londres/Images/Rejeton d'Akyshigal.png",
+    "One Shot Londres/Images",
+    "Oblivion/Images/Grisou.png~RF2b4881.TMP",
+    "One Shot Londres/Scénario",
+    "One Shot Londres/Bestiaire",
+    "One Shot Londres"
+  ]
+}
