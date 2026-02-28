@@ -88,7 +88,7 @@ A l'arrivée au cercle druidique, les PJs verront le [[Rejeton d'Akyishigal]] en
 Pendant le combat, si c'est trop facile, un bras gigantesque sortira du portail pour frapper le sol et essayer de déstabiliser les PJs
 
 - Monter les PV du rejeton à 90 - 100
-- <font style="color:red">1d6 chaque round</font> après quelques rounds :
+- <font style="color:red">1d6 chaque round</font> à partir du round 3 :
 	- <font style="color:yellow">1-2 Vents Glaciaux :</font> Le sol devient difficile (glace) sur 6 mètres autour du portail. 
 	- <font style="color:yellow">3-4 Le Bras du Démon :</font> Une main immense frappe le sol. Un joueur au hasard doit faire un <font style="color:green">JS de Force DD 13</font> ou être jeté [[A terre]] (<font style="color:red">1d8 dégâts</font>). 
 	- <font style="color:yellow">5-6 Murmures de Folie :</font> <font style="color:green">JS Sagesse DD 12</font> ou le joueur doit utiliser sa réaction pour s'éloigner du portail. |
