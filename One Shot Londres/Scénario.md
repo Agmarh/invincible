@@ -15,12 +15,12 @@ L'odeur de vin chaud et les applaudissements accompagnent les différentes prest
 | Le Lancer de Hache du Norven  | Athlétisme ou Dextérité                     | Idéal pour la **Guerrière**. Si elle gagne, elle attire l'œil du capitaine de la garde (utile pour plus tard).                                           |
 | Le Bonneteau des Bas-Fonds    | Escamotage ou Perception                    | Jeu d’adresse où un parieur doit retrouver une bille cachée sous trois gobelets (ou une carte spécifique parmi trois) que l’arnaqueur déplace très vite. |
 | L'Étal de l'Apothicaire Local | Intelligence (Nature) ou Sagesse (Médecine) | La **Druidesse** ou la **Sorcière** remarquent que les plantes cueillies récemment en forêt sont étrangement flétries ou tachées de noir.                |
-> <font style="color:orange">Une cloche de bronze résonne, couvrant le tumulte de la foire. Malatesta lui-même, vêtu d'un manteau de velours rouge un peu élimé, se tient sur une estrade devant le plus grand chapiteau.</font> 
-> <font style="color:yellow">"Approchez ! Approchez ! Venez découvrir la nouvelle attraction venue tout droit des enfers, la merveille des abîmes, le Glouton des failles ! Le spectacle va commencer, et votre vision du monde en sera changée à jamais !"</font>
+> <font style="color:orange">Une cloche de bronze résonne, couvrant le tumulte de la foire. Malatesta lui-même, vêtu d'un manteau de velours rouge, se tient sur une estrade devant le plus grand chapiteau.</font> 
+> <font style="color:yellow">"Approchez ! Approchez ! Venez découvrir notre nouvelle attraction venue tout droit des enfers, la merveille des abîmes, le Glouton des failles ! Le spectacle va commencer, et votre vision du monde en sera changée à jamais !"</font>
 
 Le silence se fait sous le chapiteau. Malatesta claque son fouet et, dans un bruit de chaînes lourdes, une masse sombre est traînée sur la sciure du sol. Vous voyez un crapaud qui fait le double de la taille d'un taureau, à la peau d'un bleu nuit presque noir. Ses yeux jaunes, immenses et globuleux, fixent la foule avec une faim presque tangible et primitive. Sa gueule, immense, semble capable d'avaler un homme d'un seul coup. 
 
-> <font style="color:orange">Admirez ! Mesdames, Messieurs et jeunes gens venus des 4 coins de Norven. Un glouton des failles tout droit sorti de son marais putride ! Capturé et dressé, pour votre plus grand plaisir !</font>
+> <font style="color:yellow">"Admirez ! Mesdames, Messieurs et jeunes gens venus des 4 coins de Norven. Un glouton des failles tout droit sorti de son marais putride ! Capturé et dressé, pour votre plus grand plaisir !"</font>
 
 Malatesta claque son fouet et semble agiter une petite belette, vraisemblablement morte, en direction du crapaud. Le Glouton des Failles sort de sa cage et, guidé par son maître, effectue quelques acrobaties :
 - Se mettre debout
