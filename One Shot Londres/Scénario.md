@@ -30,7 +30,7 @@ Malatesta claque son fouet et semble agiter une petite belette, vraisemblablemen
 Pendant ce temps, que font les PJs ?
 - Le trio pourrait chercher à dérober quelques pièces ou bijoux
 - La guerrière pourrait les repérer ?
-- La druidesse et la sorcière peuvent sentir que le problème semble venir du crapaud, mais sans certitude, le numéro semble réel, <font style="color:green">jet de sauvegarde d'Arcane ou de Nature DD 20</font> pour se rendre compte de la supercherie. Mais pas le temps de réagir.
+- La druidesse et la sorcière peuvent sentir que le problème semble venir du crapaud, mais sans certitude, le numéro semble réel, <font style="color:green">jet de sauvegarde d'Arcane ou de Nature DD 15</font> pour se rendre compte que quelque chose ne va pas et <font style="color:green">jet de sauvegarde d'Arcane ou de Nature DD 18</font> pour comprendre qu'il y a une illusion ou une possession. Mais pas le temps de réagir.
 
 > <font style="color:orange">Soudain, le Crapaud s'arrête. Son corps se met à vibrer et à gonfler. Une brume verdâtre s'échappe de sa peau. Puis, dans un craquement d'os, son corps se déchire et explose. Une sorte d'insecte géant à la tête de cafard émerge du cadavre. La créature dégage une odeur de charogne et de moisissure. Ses mandibules claquent tandis qu'un liquide verdâtre s'écoule de ses articulations. Elle se lève et saute droit vers la foule. Vous avez à peine le temps de réagir que déjà 6 personnes s'effondrent, frappées par la créature.</font>
 
@@ -40,13 +40,15 @@ La sorcière entendra son fiélon lui murmurer : <font style="color:yellow">"Ecr
 > <font style="color:orange">Les corps des spectateurs précédemment tués se lèvent, leurs peaux est comme fondue par endroit, leurs yeux brillent d'un vert presque démoniaque et ils emboitent le pas de leur nouveau maître.</font>
 
 Initiative : 
-- 5 à 6 [[Goule]] + le [[Rejeton d'Akyishigal]] : Les goules apparaitrons par vagues. 3 au premier tour, 3 au deuxième.
+- 3 T1 [[Goule]] + le [[Rejeton d'Akyishigal]], 2 [[Goule]] T2, 1 [[Goule]] T3 si besoin.
 - Les PJs doivent intervenir pour sauver une partie de la foule et seront contraint d'affronter les goules à la place du rejeton
 
 Issue : 
 - Le rejeton blesse Malatesta qui se réveil de sa transe avant de fuir 
 - Le rejeton fuira par une déchirure dans le chapiteau après avoir fait suffisamment de victimes
 - La garde de Delad arrive sur place et empêchent toute sortie, 20 archers visent les joueurs depuis les gradins, des soldats équipés de lance bloquent les sorties, le capitaine de la garde fait face aux PJs
+> <font style="color:yellow">"Posez vos armes. Vous avez peut être sauvé de vies, mais je le baron voudra des explications."</font>
+
 - Les PJs sont interpelés et emmenés en cellule (accusés à tort d'avoir causer les troubles) 
 
 ## Négociation chez le Baron
@@ -75,7 +77,7 @@ Complètement conscient, son corps ne lui obéissait plus, il a assisté à tout
 A ce moment, 2 ou 3 [[Quasit]] essaieront d'effrayer les joueurs et de les désorientés pour récupérer la dague.
 
 ## Le Cœur de la Forêt
-La piste sera difficile à suivre, la druidesse et la rôdeuse peuvent guider le groupe dans la forêt. La sorcière pourra essayer d'entrer en communion avec son fiélon pour repérer une direction à prendre (<font style="color:green">jet ?</font>).
+La piste sera difficile à suivre, la druidesse et la rôdeuse peuvent guider le groupe dans la forêt. La sorcière pourra essayer d'entrer en communion avec son fiélon pour repérer une direction à prendre (<font style="color:green">jet d'Arcane DD 14</font> pour que le démon indique une direction, si échec, subit 1 point de dégât psychique et entend un rire lointain).
 
 La corruption finira par devenir visible, la neige sera parcouru de petit reflets verts, les arbres seront comme malades et le silence autour des PJs se fera plus oppressant, plus aucune bête ne rôde dans la zone.
 
