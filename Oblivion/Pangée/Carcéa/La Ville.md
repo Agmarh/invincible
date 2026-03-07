@@ -1,4 +1,6 @@
 Carcéa est la **plus grande porte maritime de l’Empire Minéen**, située dans la province prospère de Khoros. Les marchandises venues de toute la mer des Larmes y arrivent avant de remonter vers la capitale impériale.
+
+![[Carcéa.png|556]]
 # Première vision depuis la gondolfière
 
 Quand les PJ approchent par les airs :
