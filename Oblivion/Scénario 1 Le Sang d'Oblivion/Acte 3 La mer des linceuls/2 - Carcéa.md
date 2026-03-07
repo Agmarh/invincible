@@ -2,23 +2,8 @@
 > Fan'Goriah : <font style="color:orange">"Je pense qu'il serait bon que vous vous rendiez à Carcéa avec un chargement complet. Cela vous permettrait de faire connaissance avec le gérant des lieux et de préparer le voyage du Colporteur quand il y retournera."</font>
 > S'ils parlent d'Anthéone et Malathor : <font style="color:orange">"Loin de moi l'idée de vous détourner d'Anthéone et de votre ami. Mais cette ville est assez... compliquée pour nous, si rien ne nous y oblige, j'aimerais éviter d'envoyer l'un de nos vaisseaux là bas pour le moment. Le culte est très fermé, Carcéa sera plus facile d'accès et elle comporte de nombreuses boutiques."</font>
 
-# La lettre de Malathor
-Remettre la lettre suivante à Iseult :
-> **À Fan'Goriah, intendante de la Compagnie des vaisseaux du vent, et à mes compagnons d'armes : Kogarm, Rivalt, N'Djinn et Iseult.**
-> 
-> Que la Lumière de Justicaar guide vos pas et que le Vent vous soit favorable.
-> 
-> Je vous écris ces lignes avec un mélange de soulagement et d'amertume. Valkin et moi-même avons regagné les terres impériales sans encombre. Mon fils garde un souvenir impérissable de votre bravoure ; sachez que vous avez en lui, et en moi, des alliés indéfectibles.
-> 
-> L'objet principal de ce message est de vous confirmer que les parchemins scellés à Ikhâr ont porté leurs fruits. Maître Valerius, le scribe impérial qui nous accompagnait, a fait valoir vos droits auprès de la Chancellerie. La mort du Duc Morgus Montanera a été enregistrée comme une conséquence de sa propre félonie. En conséquence, la **Charte de la Compagnie des Vaisseaux du Vent** a été officiellement transférée à vos noms, comme le souhaitait Löne Kernos. Vous êtes, aux yeux de l'Empire et de la loi marchande, les seuls et uniques propriétaires de la flotte et des comptoirs. 
-> 
-> Rhâvi Shândar, notre compagnon halfelin, nous a quittés sitôt les portes d'Anthéone. Il clamait vouloir célébrer sa survie dans les quartiers de plaisir de la ville basse. Hélas, il n'est jamais revenu à notre point de rendez-vous. Malgré mes recherches et l'insistance de Valkin, nul ne semble l'avoir revu depuis trois lunes. La ville est vaste et prompte à engloutir ceux qui s'égarent dans l'ivresse, mais mon instinct me souffle une vérité plus sombre. Restez sur vos gardes.
-> 
-> Je dois rester à la capitale pour faire mon devoir envers mon Ordre et veiller sur l'éducation de mon fils, mais mon esprit reste tourné vers les cieux d'Ikhâr. Prenez soin de vous mes amis.
-> 
-> Que la justice soit votre bouclier.
-> 
-> **Malathor, Chevalier de l'Ordre de Justicaar.**
+# Arrivée à Carcéa
+
 
 # La gestion de la compagnie
 [[Coût financier et Revenus]]

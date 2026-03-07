@@ -39,11 +39,11 @@
 
 ## Frais de comptoirs par décade
 
-| Comptoir   | Salaires par décade (Gérant + 2 Gardes) | Loyer & Taxes Locales par décade | Détails                                                                          |
-| ---------- | --------------------------------------- | -------------------------------- | -------------------------------------------------------------------------------- |
-| Carcéa     | 70                                      | 200                              | **L'Empire est gourmand :** Taxes impériales élevées, pots-de-vin aux douaniers. |
-| Madi'Maluk | 91                                      | 100                              | **Compétition féroce :** Loyers de quai, "taxe de guilde" locale.                |
-| **TOTAL**  | 161                                     | 300                              | TOTAL : 461                                                                      |
+| Comptoir   | Salaires par décade (Gérant + 2 Gardes + 4 manouvriers) | Loyer & Taxes Locales par décade | Détails                                                                          |
+| ---------- | ------------------------------------------------------- | -------------------------------- | -------------------------------------------------------------------------------- |
+| Carcéa     | 70                                                      | 200                              | **L'Empire est gourmand :** Taxes impériales élevées, pots-de-vin aux douaniers. |
+| Madi'Maluk | 91                                                      | 100                              | **Compétition féroce :** Loyers de quai, "taxe de guilde" locale.                |
+| **TOTAL**  | 161                                                     | 300                              | TOTAL : 461                                                                      |
 <!-- TBLFM: @>$2=sum(@I..@-1) -->
 <!-- TBLFM: @>$3=sum(@I..@-1) -->
 

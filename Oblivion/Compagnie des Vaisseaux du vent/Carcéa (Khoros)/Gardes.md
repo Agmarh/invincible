@@ -1,1 +1,0 @@
-Dario et Lysa, 2 humains dans la trentaines qui semblent robustes et qui se tiennent fier. 
