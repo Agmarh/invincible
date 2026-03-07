@@ -48,15 +48,15 @@ Objets exotiques ou importés.
 ### Matériel magique
 Il connaît les **quelques boutiques discrètes** qui en vendent.
 ### Exemple de boutiques qu’il peut recommander
-**Forge impériale – "L’Enclume Rouge"**  : Armures et armes de qualité.
+[[Etablissements#Forge impériale – L’Enclume Rouge]]  : Armures et armes de qualité.
 
-**Maison Thaleion** : Importations exotiques (épices, poisons, curiosités).
+[[Etablissements#Comptoir marchand – Maison Thaleion]] : Importations exotiques (épices, poisons, curiosités).
 
-**L’Atelier d’Azur** : Objets magiques mineurs et composants arcanes.
+[[Etablissements#Boutique magique – L’Atelier d’Azur]] : Objets magiques mineurs et composants arcanes.
 
-**Les Reliures de Mirkan** : Livres, parchemins, grimoires.
+[[Etablissements#Librairie – Les Reliures de Mirkan]] : Livres, parchemins, grimoires.
 
-**Les Trois Amphores** : Meilleur marchand de vin et alcools du port.
+[[Etablissements#Marchand de vin – Les Trois Amphores]] : Meilleur marchand de vin et alcools du port.
 
 # RP
 
