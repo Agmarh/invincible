@@ -7,7 +7,7 @@ subtype:
 alignment: Neutre Mauvais
 ac: 17
 hp: 85
-hit_dice: 7d10+28
+hit_dice: 9d10+36
 speed: 9 m, fouissement 9 m
 stats: [20, 12, 18, 4, 10, 4]
 senses: vision dans le noir 18 m, Perception des vibration 18 m, Perception passive 10
