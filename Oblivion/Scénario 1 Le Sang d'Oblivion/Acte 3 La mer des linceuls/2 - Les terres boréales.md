@@ -2,9 +2,9 @@ Les PJ arrivent en vue d'un petit village de pêcheurs, accroché aux dernières
 
 C'est la saison des longues journées, il ne fait jamais vraiment nuit. Les nuages et les couleurs du ciel sont changeants, les PJ voient des aurores boréales à chaque instant. La température est cependant glaciale ce qui risque de poser problème : l'eau gèle, les armures grincent, les hippogriffes se fatiguent…
 
-> Grisou : <font style="color:orange">“Non… non… non…  Il faut descendre…  Sous la mer… Le fragment est là, sous cette glace.”</font>
+> Grisou : <font style="color:orange">“Non… non… non…  Il faut descendre…  Sous la mer… Le fragment est là, sous la glace.”</font>
 
-Le petit village est habité par les Skïams, des barbares humains à la peau couleur olive et les yeux bridés. Ils accueillent les PJ avec enthousiasme.
+Le petit village est habité par les Skïams, des barbares humains à la peau couleur olive et les yeux bridés. Ils accueillent les PJ avec enthousiasme, très heureux d'avoir des nouvelles du .
 
 Les PJ apprendront :
 
