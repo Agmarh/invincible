@@ -4,7 +4,7 @@ La température est extrêmement froide au-dessus de la mer des Linceuls. S'ils 
 
 Les PJ devront ensuite traverser la croûte de glace et s'engager dans les eaux dormantes en dessous.
 
-## Les Cavernes Aquatiques
+# Les Cavernes Aquatiques
 
 Si les PJ se rappelle du submersible et qu'ils le déploient, celui-ci pourra percer la glace et leur permettre de descendre sous la mer. Ils passeront par plusieurs étapes. S'ils décident d'y aller à pied, il leur faudra emprunter les tunnels des mange-glace et risquer d'en rencontrer plusieurs, cela fait un grand détour.
 
