@@ -4,7 +4,7 @@ C'est la saison des longues journées, il ne fait jamais vraiment nuit. Les nuag
 
 > Grisou : <font style="color:orange">“Non… non… non…  Il faut descendre…  Sous la mer… Le fragment est là, sous la glace.”</font>
 
-Le petit village est habité par les Skïams, des barbares humains à la peau couleur olive et les yeux bridés. Ils accueillent les PJ avec enthousiasme, très heureux d'avoir des nouvelles du .
+Le petit village est habité par les Skïams, des barbares humains à la peau couleur olive et les yeux bridés. Ils accueillent les PJ avec enthousiasme, très heureux d'avoir des nouvelles du monde.
 
 Les PJ apprendront :
 
