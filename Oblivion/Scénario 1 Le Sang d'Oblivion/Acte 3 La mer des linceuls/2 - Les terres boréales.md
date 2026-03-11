@@ -1,3 +1,20 @@
+La dernière étape « civilisée » avant la grande mer de
+glace est un petit village de pêcheurs, accroché aux ultimes
+falaises du continent. C’est un endroit idéal pour
+faire une halte, d’autant que la Matrice indique maintenant
+à Grisou qu’il va falloir descendre... sous le niveau
+de la mer !
+Après treize ou quatorze jours de voyage depuis Ikhâr,
+guidés par Grisou et la Matrice, les PJ parviennent dans
+les Terres Boréales, très au nord au-delà de l’Empire.
+C’est la saison des Longues Journées, pendant laquelle
+il ne fait jamais vraiment nuit. Les nuages et les couleurs
+du ciel sont magnifiques, déclinant d’improbables violets
+sur des tapis de marine et de pourpre. Mais la température
+est glaciale. Ceci ne manquera pas de poser aux
+PJ des problèmes variés : l’eau potable gèle, les armures
+grincent, les hippogriffes se fatiguent, etc.
+
 Les PJ arrivent en vue d'un petit village de pêcheurs, accroché aux dernières falaises du continent. Idéal pour faire une halte, sachant que la Matrice indique à Grisou qu'il faut descendre sous le niveau de la mer.
 
 C'est la saison des longues journées, il ne fait jamais vraiment nuit. Les nuages et les couleurs du ciel sont changeants, les PJ voient des aurores boréales à chaque instant. La température est cependant glaciale ce qui risque de poser problème : l'eau gèle, les armures grincent, les hippogriffes se fatiguent…

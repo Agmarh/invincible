@@ -37,21 +37,4 @@ Le géant s’amuse avec ses pouvoirs de contrôle du climat et frappe foudroyan
 
 - Si les PJ le convainquent, il interrompt la tempête. S’ils sont particulièrement éloquents, il les salue et leur offre une figurine merveilleuse mouche d’ébène et deux potions de vol. 
 - S’ils sont peu convaincants ou agressifs, il les ignore.
-- Si les PJ sont contraints de traverser la tempête sans avoir pu la faire cesser, considérez qu’ils passent l’une des pires heures de leur vie, mais qu’ils s’en sortent. Cependant, les bourrasques et les éclairs tuent 1d6 aéromarins, les hippogriffes perdent 50 % de leurs PV et tous les PJ encaissent 5d6 points de dégâts issus de chocs variés. <font style="color:green">Un jet de sauvegarde de Dextérité DD 15</font> réussi permet de diviser les dégâts par deux.
-
-La dernière étape « civilisée » avant la grande mer de
-glace est un petit village de pêcheurs, accroché aux ultimes
-falaises du continent. C’est un endroit idéal pour
-faire une halte, d’autant que la Matrice indique maintenant
-à Grisou qu’il va falloir descendre... sous le niveau
-de la mer !
-Après treize ou quatorze jours de voyage depuis Ikhâr,
-guidés par Grisou et la Matrice, les PJ parviennent dans
-les Terres Boréales, très au nord au-delà de l’Empire.
-C’est la saison des Longues Journées, pendant laquelle
-il ne fait jamais vraiment nuit. Les nuages et les couleurs
-du ciel sont magnifiques, déclinant d’improbables violets
-sur des tapis de marine et de pourpre. Mais la température
-est glaciale. Ceci ne manquera pas de poser aux
-PJ des problèmes variés : l’eau potable gèle, les armures
-grincent, les hippogriffes se fatiguent, etc.
+- Si les PJ sont contraints de traverser la tempête sans avoir pu la faire cesser, considérez qu’ils passent l’une des pires heures de leur vie, mais qu’ils s’en sortent. Cependant, les bourrasques et les éclairs tuent <font style="color:red">1d6 aéromarins</font>, les hippogriffes perdent 50 % de leurs PV et tous les PJ encaissent <font style="color:red">5d6 points de dégâts</font> issus de chocs variés. <font style="color:green">Un jet de sauvegarde de Dextérité DD 15</font> réussi permet de diviser les dégâts par deux.
