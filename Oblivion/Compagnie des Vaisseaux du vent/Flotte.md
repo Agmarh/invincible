@@ -51,3 +51,70 @@ Apports des matériaux et construction à neuf.
 
 # Amélioration d'une Gondolfière
 ## Kit d'exploration nordique
+> <font style="color:orange">"Vous pouvez techniquement vous y rendre. Mais sans équipement adapté, le froid et le gèle risque de fortement vous ralentir. On voit passer quelques expéditions polaires par ici, on doit pouvoir trouver de quoi vous équiper.</font>
+> <font style="color:orange">"Votre ballon n’a pas besoin d’être reconstruit. Il faut juste préparer l’équipage. Deux jours d’achats et d’ajustements… et vous pourrez affronter le nord."</font>
+
+## Tentes coupe-vent pour la nacelle
+### Description
+Toiles épaisses installées autour de la nacelle pour bloquer le vent.
+Elles peuvent être :
+- roulées pendant les vols normaux    
+- déployées dans le froid  
+### Installation
+quelques heures
+### Effet
+- l’équipage est protégé du vent    
+- pas de gel immédiat    
+### Coût
+300 po
+
+## Brasero portatif
+### Description
+Petit foyer sécurisé pour chauffer la nacelle.
+### Installation
+1 journée
+### Effet
+- chaleur constante  
+### Coût
+250 po
+
+## Combinaisons polaires
+### Description
+Équipement pour chaque membre de l’équipage :
+- manteaux de fourrure    
+- bottes isolées    
+- lunettes contre le givre    
+- gants épais    
+### Effet
+- avantage contre froid extrême    
+- empêche les engelures
+### Coût
+50 po / personne
+Pour un équipage de 17 : 850 po
+
+## Cordages et crampons de glace
+### Description
+Permet d’ancrer la gondolfière sur :
+- falaises    
+- banquise    
+- glaciers  
+### Installation
+quelques heures
+### Effet
+- atterrissage possible en terrain gelé
+### Coût
+150 po
+
+## Rations d’expédition
+### Description
+Nourriture concentrée :
+- viande séchée 
+- biscuits d’expédition
+### Autonomie
+10 jours
+### Coût
+120 po
+## Coût total
+Environ : 1670 po
+## Temps d'installation
+Tout peut être prêt en : 2 jours
