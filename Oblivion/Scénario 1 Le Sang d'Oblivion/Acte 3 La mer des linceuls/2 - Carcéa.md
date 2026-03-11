@@ -6,3 +6,9 @@
 [[La Ville]]
 
 # Vision
+Pendant son sommeil, Grisou aura une vision :
+> <font style="color:orange">"J'ai traversé des montagnes immenses… plus hautes que tout. puis j'ai vu un paysage blanc… entièrement blanc… Des falaises… des glaciers… un mer de glace… Et au-delà… quelque chose m'a appelé… Quelque chose qui brille dans la nuit… C'est le fragment, j'en suis sûr !"</font>
+
+A partir de cet instant, la Matrice agit comme une boussole, dès que Grisou regarde dans la bonne direction, il a des sortes de flash, sa poitrine devient brûlante, il sait où aller.
+
+Si les PJs se renseignent sur le lieu, Marcius pourra déduire qu'il s'agit des terres boréales et sûrement de la mer des Linceuls. En Gondolfière, compter 12 à 14 jours de voyages.
