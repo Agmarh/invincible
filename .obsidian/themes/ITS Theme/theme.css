@@ -16469,18 +16469,15 @@ textarea.kanban-plugin__item-input {
 .is-live-preview table,
 .is-live-preview table th,
 .is-live-preview table td {
-  font-family: var(--default-font) !important;
   line-height: var(--lh);
 }
 
-/* Optionnel : aligner aussi la taille sur le texte courant */
-.markdown-preview-view table td,
-.is-live-preview table td {
-  font-size: var(--f-s-pre) !important;
-  font-weight: var(--f-w-t) !important;
-}
-
-.markdown-preview-view table th,
-.is-live-preview table th {
-  font-size: var(--f-s-pre) !important;
+.markdown-preview-view.markdown-preview-view table th,
+.is-live-preview.is-live-preview table th,
+.markdown-preview-view.markdown-preview-view table tr td,
+.is-live-preview.is-live-preview table tr td {
+  font-family: var(--default-font) !important;
+  font-size: inherit !important;
+  font-weight: inherit !important;
+  line-height: inherit !important;
 }

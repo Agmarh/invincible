@@ -33,6 +33,9 @@ On entend :
 - réparations rapides    
 
 Les gladiateurs et les mercenaires fréquentent souvent l’endroit.
+## DM Screen : 
+- Type Armurier, Forgeron d'arme
+- Qualité Bon
 
 # Comptoir marchand – Maison Thaleion
 Une boutique élégante située dans une rue riche du quartier commercial.
@@ -60,6 +63,9 @@ Des odeurs puissantes flottent dans l’air :
 - curiosités venues de loin    
 
 Certains objets semblent **légèrement illégaux**.
+## DM Screen : 
+- Type Epicier, Herboriste, Alchimiste, Recéleur (option)
+- Qualité Bon
 
 # Boutique magique – L’Atelier d’Azur
 Situé dans un quartier riche et calme.
@@ -84,7 +90,9 @@ Des runes lumineuses flottent parfois dans l’air.
 - identification d’objets    
 
 Les mages et aventuriers riches fréquentent l’endroit.
-
+## DM Screen : 
+- Type Arcaniste, Alchimiste, Scribe
+- Qualité Excellent
 # Librairie – Les Reliures de Mirkan
 Située dans une rue plus calme près de la place principale.
 ## Apparence
