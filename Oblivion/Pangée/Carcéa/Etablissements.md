@@ -93,6 +93,7 @@ Les mages et aventuriers riches fréquentent l’endroit.
 ## DM Screen : 
 - Type Arcaniste, Alchimiste, Scribe
 - Qualité Excellent
+
 # Librairie – Les Reliures de Mirkan
 Située dans une rue plus calme près de la place principale.
 ## Apparence
@@ -115,6 +116,9 @@ Une odeur forte de cuir et d’encre imprègne l’air.
 - cartes anciennes    
 
 Mirkan est aussi un **excellent collecteur de rumeurs savantes**.
+## DM Screen : 
+- Type Scribe
+- Qualité Bon
 
 # Marchand de vin – Les Trois Amphores
 Situé près des quais marchands.
@@ -136,3 +140,6 @@ Un long comptoir sert :
 ## Spécialité
 Les dégustations de vin.
 Les marchands y concluent souvent **des accords commerciaux**.
+## DM Screen : 
+- Type Taverne, Epicier
+- Qualité Excellent
