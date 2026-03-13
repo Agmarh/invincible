@@ -38,6 +38,7 @@ On y trouve :
 - soldats    
 - dockers    
 - négociants étrangers    
+- [[Etablissements#Marchand de vin – Les Trois Amphores]]
 
 Présence militaire constante.
 C’est **le port le plus contrôlé de l’Empire**.
@@ -66,6 +67,10 @@ C’est ici que se négocient :
 - contrats commerciaux    
 - cargaisons importantes    
 - investissements    
+
+On y trouve : 
+- [[Etablissements#Comptoir marchand – Maison Thaleion]]
+- [[Etablissements#Librairie – Les Reliures de Mirkan]]
 ## Les Jardins de Khoros
 Quartier riche.
 
@@ -74,6 +79,7 @@ On y trouve :
 - maisons de plaisir    
 - jardins    
 - théâtres    
+- [[Etablissements#Boutique magique – L’Atelier d’Azur]]
 
 Atmosphère plus détendue. Les élites viennent s’y divertir.
 ## Le Quartier des Arènes
@@ -84,6 +90,7 @@ On y trouve :
 - tavernes    
 - auberges    
 - bookmakers    
+- [[Etablissements#Forge impériale – L’Enclume Rouge]]
 
 On peut assister à :
 - combats    
