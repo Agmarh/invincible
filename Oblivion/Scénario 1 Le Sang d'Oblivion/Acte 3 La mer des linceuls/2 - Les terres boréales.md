@@ -75,7 +75,7 @@ Si les PJ parlent commerce, les Skïams peuvent échanger :
 
 Cela peut servir à créer **un nouveau comptoir pour la Compagnie**.
 
-# Les légendes skïames
+# Les légendes skïams
 Autour d’un feu, les anciens racontent des histoires.
 
 > Les légendes skiâmes racontent que, jadis, leur peuple vivait sur une parcelle de terre beaucoup plus grande, au pied d’un gigantesque glacier, et que la mer se trouvait plus loin. Un généreux roi, nommé Bazoeurk, le Forgeron Sorcier, régnait alors sur ce territoire, dans une magnifique Cité-Sans-Nom, bâtie sur une colline aux pieds du glacier. Mais il aurait commis une abomination et, pour le punir, les dieux auraient fait fondre le glacier en une seule nuit, faisant monter le niveau des eaux et engloutissant la Cité. Depuis, la mer a été rebaptisée Mer des Linceuls
