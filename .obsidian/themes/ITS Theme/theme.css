@@ -16461,3 +16461,26 @@ textarea.kanban-plugin__item-input {
 .cm-line > .cm-indent.cm-indent::before {
   display: none;
 }
+
+/* Harmoniser la police des tableaux avec le texte normal */
+.markdown-preview-view table,
+.markdown-preview-view table th,
+.markdown-preview-view table td,
+.is-live-preview table,
+.is-live-preview table th,
+.is-live-preview table td {
+  font-family: var(--default-font) !important;
+  line-height: var(--lh);
+}
+
+/* Optionnel : aligner aussi la taille sur le texte courant */
+.markdown-preview-view table td,
+.is-live-preview table td {
+  font-size: var(--f-s-pre) !important;
+  font-weight: var(--f-w-t) !important;
+}
+
+.markdown-preview-view table th,
+.is-live-preview table th {
+  font-size: var(--f-s-pre) !important;
+}
