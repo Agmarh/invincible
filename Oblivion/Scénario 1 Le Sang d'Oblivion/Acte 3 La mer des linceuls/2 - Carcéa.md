@@ -30,8 +30,7 @@ Description :
 ## La tempête du géant
 Alors que les PJ traversent une majestueuse chaîne de hauts sommets couronnés par les neiges éternelles, ils sont pris dans une tempête. Les éclairs et les vents se déchaînent, secouant la gondolfière et les hippogriffes en tous sens. <font style="color:green">Un test d’Intelligence (Arcanes) DD 16</font> ou alors une reconnaissance menée avec une créature aérienne, et <font style="color:green">un test Sagesse (Dressage) DD 14</font>, révèle que cette précipitation est de nature magique.
 
-Si les PJ scrutent les montagnes et réussissent <font style="color:green">un test de Sagesse (Perception) DD 13</font>, ils peuvent repérer un géant des tempêtes au
-sommet d’un pic rocheux, riant et dansant, une lyre à la main, au milieu de la pluie et des éclairs !
+Si les PJ scrutent les montagnes et réussissent <font style="color:green">un test de Sagesse (Perception) DD 13</font>, ils peuvent repérer un géant des tempêtes au sommet d’un pic rocheux, riant et dansant, une lyre à la main, au milieu de la pluie et des éclairs !
 
 Le géant s’amuse avec ses pouvoirs de contrôle du climat et frappe foudroyante. Si les PJ veulent éviter le pire, il leur faut trouver un moyen de lui faire arrêter cette tourmente. Le combattre est bien sûr une hérésie ; il écraserait tout le monde sans difficulté. Par ailleurs, il ne s’intéresse guère aux requêtes de simples « petits humanoïdes ». Le meilleur moyen de le convaincre est donc de l’impressionner. On peut le faire soit par un discours éloquent avec <font style="color:green">un test de Charisme (Persuasion) DD 18</font>, soit en faisant mieux que lui dans le domaine des arts lyriques (duel contre lui en Représentation, chant, danse, musique ou théâtre ; en trois manches, deux manches gagnantes).
 
