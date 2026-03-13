@@ -30,20 +30,24 @@
 | ------------------------- | -------------------- | ---------------------------------------------- |
 | Comptoir d'Ikhâr          | 150                  | Entretien des bâtiments et logistique Khayolt. |
 | Gardes de la capitainerie | 80                   | 2 po/jour x4                                   |
-| Comptoirs                 | 461                  |                                                |
+| Comptoirs                 | 553                  |                                                |
 | La Comptable              | 500                  | A quai                                         |
 | Nef des PJs               | 500                  | A quai                                         |
 | Le Colporteur             | 520                  | En vol                                         |
-| **TOTAL**                 | 2211                 | **Total des frais fixes**                      |
+| **TOTAL**                 | 2303                 | **Total des frais fixes**                      |
 <!-- TBLFM: @>$2=sum(@I..@-1) -->
 
 ## Frais de comptoirs par décade
 
+- Gérant : 3 po/jour
+- Gardes : 2 po/jour chacun
+- Manouvriers : 1 po/jour chacun
+
 | Comptoir   | Salaires par décade (Gérant + 2 Gardes + 4 manouvriers) | Loyer & Taxes Locales par décade | Détails                                                                          |
 | ---------- | ------------------------------------------------------- | -------------------------------- | -------------------------------------------------------------------------------- |
-| Carcéa     | 70                                                      | 200                              | **L'Empire est gourmand :** Taxes impériales élevées, pots-de-vin aux douaniers. |
-| Madi'Maluk | 91                                                      | 100                              | **Compétition féroce :** Loyers de quai, "taxe de guilde" locale.                |
-| **TOTAL**  | 161                                                     | 300                              | TOTAL : 461                                                                      |
+| Carcéa     | 110                                                     | 200                              | **L'Empire est gourmand :** Taxes impériales élevées, pots-de-vin aux douaniers. |
+| Madi'Maluk | 143                                                     | 100                              | **Compétition féroce :** Loyers de quai, "taxe de guilde" locale.                |
+| **TOTAL**  | 253                                                     | 300                              | TOTAL : 563                                                                      |
 <!-- TBLFM: @>$2=sum(@I..@-1) -->
 <!-- TBLFM: @>$3=sum(@I..@-1) -->
 
@@ -51,11 +55,11 @@
 
 | Type de Territoire         | Salaires (Garde : 2po/jour, Gérant : 3 po/jour) par décade | Loyer & Taxes Locales (po par décade) | Description                                             |
 | -------------------------- | ---------------------------------------------------------- | ------------------------------------- | ------------------------------------------------------- |
-| **Provinces Impériales**   | 70                                                         | 200                                   | Haute sécurité. Taxes administratives lourdes.          |
-| **Cités États Naines**     | 70                                                         | 190                                   | Solide et fiable. Affinité avec les nains.              |
-| **Marches Impériales**     | 91 (Prime de risque +30%)                                  | 100                                   | Zone de guerre potentielle. Salaires + élevés (risque). |
-| **Protectorats**           | 70                                                         | 150                                   | Mix entre diplomatie et commerce libre.                 |
-| **Territoires Extérieurs** | 105 (Prime de risque +50%)                                 | 60                                    | Dangereux. Peu de taxes, mais recrutement cher.         |
+| **Provinces Impériales**   | 110                                                        | 200                                   | Haute sécurité. Taxes administratives lourdes.          |
+| **Cités États Naines**     | 110                                                        | 190                                   | Solide et fiable. Affinité avec les nains.              |
+| **Marches Impériales**     | 143 (Prime de risque +30%)                                 | 100                                   | Zone de guerre potentielle. Salaires + élevés (risque). |
+| **Protectorats**           | 110                                                        | 150                                   | Mix entre diplomatie et commerce libre.                 |
+| **Territoires Extérieurs** | 165 (Prime de risque +50%)                                 | 60                                    | Dangereux. Peu de taxes, mais recrutement cher.         |
 # Revenus par décade
 
 ## Carcéa : 
@@ -64,8 +68,8 @@
 | ------------------------------ | ----------------------- |
 | **Bénéfice Net**               | 1750                    |
 | **Revenus : Comptoir d'Ikhâr** | 50                      |
-| **Frais fixes**                | -2211                   |
-| **SOLDE GLOBAL**               | -411                    |
+| **Frais fixes**                | -2303                   |
+| **SOLDE GLOBAL**               | -503                    |
 <!-- TBLFM: @>$2=sum(@I..@-1) -->
 
 C'est la route la plus rentable. Elle permet d'être presque à l'équilibre.
@@ -75,8 +79,8 @@ C'est la route la plus rentable. Elle permet d'être presque à l'équilibre.
 | ------------------------------ | ----------------------- |
 | **Bénéfice Net**               | 1400                    |
 | **Revenus : Comptoir d'Ikhâr** | 50                      |
-| **Frais fixes**                | -2211                   |
-| **SOLDE GLOBAL**               | -761                    |
+| **Frais fixes**                | -2303                   |
+| **SOLDE GLOBAL**               | -853                    |
 <!-- TBLFM: @>$2=sum(@I..@-1) -->
 
 C'est une route qui ne suffit pas à faire vivre toute la structure. La compagnie perd un peu d'argent.
