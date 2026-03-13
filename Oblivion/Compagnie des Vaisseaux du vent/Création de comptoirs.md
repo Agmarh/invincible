@@ -1,12 +1,12 @@
 # Investissement initiale
 
-| Type de Territoire         | Droit d'entrée / Taxes (po) | Location et Aménagement (po) | Recrutement initiale : Gérant, gardes, équipements, contrats (po) | Prime de recrutement (po) | TOTAL (po) | Note de Gestion                                                                          |
-| -------------------------- | --------------------------- | ---------------------------- | ----------------------------------------------------------------- | ------------------------- | ---------- | ---------------------------------------------------------------------------------------- |
-| **Provinces Impériales**   | 1200                        | 1000                         | 150                                                               | 0                         | 2350       | Bureaucratie lourde, mais sécurité garantie par les légions.                             |
-| **Cités États Naines**     | 800                         | 1200                         | 150                                                               | 0                         | 2150       | Réduction de taxe (affinités naines d'Ikhâr), mais loyers élevés.                        |
-| **Marches Impériales**     | 600                         | 800                          | 150                                                               | 150                       | 1700       | Taxes faibles, mais prime de risque à cause des tensions.                                |
-| **Protectorats**           | 1000                        | 1000                         | 150                                                               | 0                         | 2150       | Système de pots-de-vin locaux + taxes impériales.                                        |
-| **Territoires Extérieurs** | 200                         | 600                          | 150                                                               | 350                       | 1400       | Pas de taxe impériale, prime au chef de guerre et gros budget mercenaires/fortification. |
+| Type de Territoire         | Droit d'entrée / Taxes (po) | Location et Aménagement (po) | Recrutement initiale : Gérant, gardes, manouvriers, équipements, contrats (po) | Prime de recrutement (po) | TOTAL (po) | Note de Gestion                                                                          |
+| -------------------------- | --------------------------- | ---------------------------- | ------------------------------------------------------------------------------ | ------------------------- | ---------- | ---------------------------------------------------------------------------------------- |
+| **Provinces Impériales**   | 1200                        | 1000                         | 170                                                                            | 0                         | 2370       | Bureaucratie lourde, mais sécurité garantie par les légions.                             |
+| **Cités États Naines**     | 800                         | 1200                         | 170                                                                            | 0                         | 2170       | Réduction de taxe (affinités naines d'Ikhâr), mais loyers élevés.                        |
+| **Marches Impériales**     | 600                         | 800                          | 170                                                                            | 150                       | 1720       | Taxes faibles, mais prime de risque à cause des tensions.                                |
+| **Protectorats**           | 1000                        | 1000                         | 170                                                                            | 0                         | 2170       | Système de pots-de-vin locaux + taxes impériales.                                        |
+| **Territoires Extérieurs** | 200                         | 600                          | 170                                                                            | 350                       | 1420       | Pas de taxe impériale, prime au chef de guerre et gros budget mercenaires/fortification. |
 
 # Détail des frais de mise en service
 
@@ -14,8 +14,9 @@
 | -------------------- | ------------------------------------------------------------------ | ------------- |
 | **Gérant**           | Vêtements de qualité, registre, sceau, nécessaire d'écriture.      | 20            |
 | **2 Gardes**         | Armure (cuir clouté ou chemise de mailles), épée, bouclier et arc. | 100           |
+| **4 Manouvriers**    | Outils de manutention, vêtements de travail                        | 20            |
 | **Frais de contrat** | Signature, vérification d'antécédents, annonce.                    | 30            |
-| **TOTAL INITIAL**    | **Le coût de "mise en service"**                                   | 150           |
+| **TOTAL INITIAL**    | **Le coût de "mise en service"**                                   | 170           |
 
 # Détail par province
 #### 1. Provinces de l'Empire (ex: Khoros, Tharse)
