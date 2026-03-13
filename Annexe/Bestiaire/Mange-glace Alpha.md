@@ -19,5 +19,5 @@ traits:
     desc: "Une créature se trouvant à 1,5 m ou moins du mange-glace et qui le touche, ou qui réussit une attaque de corps-à-corps contre lui, subit immédiatement 7 (2d6) points de dégâts."
 actions:
   - name: Morsure
-    desc: "Attaque d’arme au corps-à-corps : +8 pour toucher, allonge 3 m, une cible. Touché : 18 (4d6+6) dégâts de feu."
+    desc: "Attaque d’arme au corps-à-corps : +8 pour toucher, allonge 3 m, une cible. Touché : 19 (4d6+6) dégâts de feu."
 ```
