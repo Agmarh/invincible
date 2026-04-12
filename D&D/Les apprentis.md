@@ -1,1 +1,0 @@
-Paladin Serment des Anciens
