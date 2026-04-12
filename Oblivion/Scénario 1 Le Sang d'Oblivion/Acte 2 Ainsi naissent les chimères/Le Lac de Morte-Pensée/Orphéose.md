@@ -1,2 +1,0 @@
-Baigner dans les essences primordiales d'une déesse n'est pas sans conséquence sur le psychisme des PJ. La victime, enivrée pendant <font style="color:red">1d6</font> rounds par cette expérience, décide de s'enfoncer vers les profondeurs en ôtant préalablement tout son équipement ! 
-<font style="color:green">Jet de sauvegarde de Charisme DD 14</font> à chaque round pour se raisonner.

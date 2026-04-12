@@ -1,5 +1,0 @@
-Parcourues d’allées ombragées serpentant entre les parcs de luxueuses propriétés, les Hautes Strates profitent des eaux les plus pures d’Anthéone. Le quartier a jadis été dessiné par le Grand Architecte Hâz Farâzon.
-
-Les demeures de basalte, veinées d’or ou d’argent, dissimulent leurs façades festonnées de corniches au cœur de la végétation, soigneusement entretenue par une armée véritable de jardiniers. Partout, des canaux, des fontaines, des piscines résonnent du ruissellement des ondes liquides. Ici, ne résident de façon permanente que les personnalités les plus riches d’Anthéone. De nombreuses demeures appartenant aux nobles de l’Empire restent inoccupées en dehors de leurs séjours. Ceci profite largement au Gangrêvé [[Chelios]], qui se cache dans le réseau des bassins de J1 à J4. 
-
-Étant donné que très peu de monde circule dans les Hautes Strates, tout PJ qui vient enquêter dans ces jardins isolés devient, de fait, une proie potentielle.

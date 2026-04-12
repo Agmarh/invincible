@@ -1,4 +1,0 @@
-- Réghûlus : Incarnin de la Loi et Grand Architecte des Mécaniques Etranges
-- Sérénité : Incarnin du Bien
-- L'Ecorcheuse : Incarnin du Mal
-- Schisme : Incarnin du Chaos et Seigneur des Aliénations
