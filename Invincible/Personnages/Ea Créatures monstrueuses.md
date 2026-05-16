@@ -1,3 +1,0 @@
-- Worg 
-- Ankheg
-- Hibours
