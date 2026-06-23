@@ -25,3 +25,11 @@ Tours de garde :
 Si un PJ veut aller voir le feu lointain au quart 2 et qu'il insiste : <font style="color:green">Discrétion DD 13</font> pour s'approcher sans se faire repérer. En cas de succès, il aperçoit **trois silhouettes encapuchonnées** autour des braises ; en cas d'échec, l'un des brigands se lève et tire une flèche dans sa direction — il doit fuir, et prévenir ses compagnons.
 
 # L'embuscade
+> <font style="color:yellow">Le matin du deuxième jour. Le sentier monte régulièrement. Vers 10 h, vous arrivez à un endroit où la piste se rétrécit, coincée entre une paroi rocheuse à droite et un ravin pentu à gauche, où un torrent dévale. Devant vous, à dix mètres, un grand chêne couché en travers du chemin. Un arbre tombé, sans doute la dernière tempête. Ou pas.</font>
+## Mise en place
+L'arbre tombé est un **piège**. Trois brigands attendent :
+- **Krell**, le chef, embusqué sur la paroi rocheuse à droite, en hauteur (avantage en attaque, désavantage pour le toucher au corps à corps).
+- **Borek**, derrière le tronc abattu, prêt à charger à la masse.
+- **Niska**, dans les fourrés à gauche du sentier, vers le ravin, avec un arc court.
+
+<font style="color:green">Test de Perception passive ou actif (DD 14)</font> pour repérer le piège avant le déclenchement. Si un PJ réussit, ils ne seront pas surpris.
