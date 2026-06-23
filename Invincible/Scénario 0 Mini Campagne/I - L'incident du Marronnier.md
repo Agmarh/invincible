@@ -12,12 +12,12 @@
 # Arrivée à Azul
 ## Druide
 > <font style="color:yellow">Tu as fait un rêve, il y a trois nuits. Ton gardien, l'esprit du chien du trépas mort en te protégeant lors du massacre du clan, t'a parlé. Quelques mots seulement : « va vers la forêt et enfonce toi plus au sud ». Une traque ? Une personne à sauver ? Ou un bête ? Tu ne sais pas, il n'a jamais été très bavard. Mais il est toujours de bons conseils, alors tu es partie, après des mois et des mois d'errance, sans même savoir où exactement tes pieds te porteraient.</font>
-> <font style="color:yellow">Tu es arrivée à Azul, en lisière de la forêt d'Eiren, par la route forestière de l'ouest. Plusieurs jours de marche silencieuse. Le soleil tombe maintenant. Devant toi, les premiers toits de chaume d'Azul, mêlés aux arbres — on dirait que la ville a été construite autour de la forêt, en parfaite harmonie. </font>
+> <font style="color:yellow">Tu es arrivée à Azul, en lisière de la forêt d'Eiren, par la route forestière du nord. Plusieurs jours de marche silencieuse. Le soleil tombe maintenant. Devant toi, les premiers toits de chaume d'Azul, mêlés aux arbres — on dirait que la ville a été construite autour de la forêt, en parfaite harmonie. </font>
 > <font style="color:yellow">Des dizaines de halfelins en habits clairs traverse la rue principale, en chantonnant un petit air pour la première lune montante. Personne ne te regarde, mais tout le monde te voit.</font>
 > <font style="color:yellow">Tu sens que ce que tu cherches est proche. Ce que ton gardien voulait te montrer. Mais tu ne sais pas encore où chercher, ni qui demander. Tu remarques au centre du village une grande maison qui est construite autour de 3 marronniers, tu vois des tables dehors sous des tonnelles. On dirait une auberge.</font>
 
 ## Barde
-> <font style="color:yellow">Tu arrives par la grande route du nord, celle qui descend de Tharse. Tu attires tous les regards, quelqu'un de ta stature, ça n'est pas banal pour les halfelins. Les enfants te montrent du doigt en gloussant. Un vieil halfelin assis sur un banc te lance un regard appuyé, sans hostilité, juste pour bien te faire comprendre qu'on t'a vue. </font>
+> <font style="color:yellow">Tu arrives par la grande route de l'ouest, celle qui descend de Tharse. Tu attires tous les regards, quelqu'un de ta stature, ça n'est pas banal pour les halfelins. Les enfants te montrent du doigt en gloussant. Un vieil halfelin assis sur un banc te lance un regard appuyé, sans hostilité, juste pour bien te faire comprendre qu'on t'a vue. </font>
 > <font style="color:yellow">À l'entrée de la ville, un garde halfelin moustachu te demande poliment ton nom et ton motif de visite.</front>
   
 Réponse au choix du joueur : 
