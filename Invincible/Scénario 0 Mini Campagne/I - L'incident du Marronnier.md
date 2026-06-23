@@ -99,4 +99,8 @@ Anselm tend un médaillon de cuir — l'insigne de la tour rouge.
 S'il est interrogé sur ses blessures : 
 > <font style="color:orange">"J'ai été attaqué sur la route en venant, mon cheval y est resté, j'ai réussi à m'enfuir... faites attention."</font>
 
-Maman Aldée propose de leur préparer **trois chambres** (<font style="color:orange">« petites mais propres, le marronnier vous bercera »</font>) et de leur **préparer un panier de victuailles** pour le voyage du lendemain. Elle ne fait pas payer la nuit, <font style="color:orange">"vous allez aider une fille morte, ça paie mieux que mon argent"</font>. Premier acte d'hospitalité halfeline, première dette morale envers Maman Aldée — utile narrativement.
+Maman Aldée propose de leur préparer **trois chambres** (<font style="color:orange">"petites mais propres, le marronnier vous bercera"</font>). Elle ne fait pas payer la nuit, <font style="color:orange">"si vous me jurez de venger cette pauvre fille, je vous fait cadeau de la nuit"</font>. Premier acte d'hospitalité halfeline, première dette morale envers Maman Aldée — utile narrativement.
+
+# Départ d'Azul
+> <font style="color:yellow">Il fait à peine jour. Le brouillard du matin s'accroche aux marronniers. Maman Aldée vous tend trois paniers et vous fait un signe de la main.</font> 
+> <font style="color:orange">"Soyez prudents, mes petits. Ce Cadmar, là — c'était un brave gamin. Avant."</font>
