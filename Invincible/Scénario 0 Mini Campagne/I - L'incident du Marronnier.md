@@ -90,8 +90,13 @@ Coron arrive ~10-15 minutes après le drame, avec un milicien halfelin. **Il pre
 
 Environ 2h après l'incident, Anselm reprend des conscience et quelques couleurs. Maman Aldée l'a installé dans une chambre du premier étage. Coron autorise les PJs a accéder à la pièce, ou ira les chercher.
 
-> <font style="color:orange">"L'intendant Mamert m'a envoyé chercher des aventuriers. Il en a besoin le plus vite possible à Felsenhof. Une jeune fille — Oriabel — a été tuée à Mascombe, un village dans les bois. Tout le monde accuse un ex-bûcheron nommé **Cadmar**, défiguré il y a deux ans dans une attaque à la scierie, qu'on dit être un ours-garou depuis. Il a disparu après le meurtre. L'intendant veut qu'on traque la bête et qu'on règle l'affaire avant que le baron ne rentre. Il offre **cent pièces d'or par tête** au groupe qui réussit. Et il avait dit, l'intendant, qu'il voulait des gens neufs, pas des locaux. Vous trois, vous êtes neufs. Si vous voulez partir au matin, je vous donne mon insigne pour qu'il vous reconnaisse. Moi, je ne tiendrai pas la route."</font>
-
-  
+> <font style="color:orange">"L'intendant Mamert m'a envoyé chercher des aventuriers. Il en a besoin le plus vite possible à Felsenhof. Une jeune fille — Oriabel — a été tuée à Mascombe, un village dans les bois en bordure de la baronnie de Felsenhof.</font>
+> <font style="color:orange">Tout le monde accuse un ex-bûcheron, Cadmar, défiguré il y a deux ans dans une attaque à la scierie, qu'on dit être un ours-garou depuis. Il a disparu après le meurtre. L'intendant veut qu'on traque la bête et qu'on règle l'affaire avant que le baron ne rentre. Il offre cent pièces d'or par tête au groupe qui réussit. </font>
+> <font style="color:orange">Et il avait dit, l'intendant, qu'il voulait des gens neufs, pas des locaux. Vous trois, vous êtes pas du coin. Si vous voulez partir au matin, je vous donne mon insigne pour qu'il vous reconnaisse. Moi, je ne tiendrai pas la route."</font>
 
 Anselm tend un médaillon de cuir — l'insigne de la tour rouge.
+
+S'il est interrogé sur ses blessures : 
+> <font style="color:orange">"J'ai été attaqué sur la route en venant, mon cheval y est resté, j'ai réussi à m'enfuir... faites attention."</font>
+
+Maman Aldée propose de leur préparer **trois chambres** (<font style="color:orange">« petites mais propres, le marronnier vous bercera »</font>) et de leur **préparer un panier de victuailles** pour le voyage du lendemain. Elle ne fait pas payer la nuit, <font style="color:orange">"vous allez aider une fille morte, ça paie mieux que mon argent"</font>. Premier acte d'hospitalité halfeline, première dette morale envers Maman Aldée — utile narrativement.
