@@ -22,8 +22,6 @@ Tours de garde :
 - **Quart 2** — <font style="color:green">Perception DD 13</font> — voit, à 200 mètres, un **feu lointain** entre les arbres. Quelqu'un campe aussi. Le feu s'éteint au bout de 20 minutes. (Ce sont les brigands.)
 - **Quart 3**  — <font style="color:green">Perception DD 12</font> — l'aube approche. Un brouillard dense monte du ruisseau. Pas de menace.
 
-  
-
 Si un PJ veut aller voir le feu lointain au quart 2 et qu'il insiste : *Discrétion DD 13* pour s'approcher sans se faire repérer. En cas de succès, il aperçoit **trois silhouettes encapuchonnées** autour des braises ; en cas d'échec, l'un des brigands se lève et tire deux flèches dans sa direction — il doit fuir, et l'embuscade du lendemain sera **plus violente** (les brigands savent qu'ils sont attendus).
 
   
