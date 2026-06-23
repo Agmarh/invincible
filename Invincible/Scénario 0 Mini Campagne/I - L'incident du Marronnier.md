@@ -27,7 +27,7 @@ Réponse au choix du joueur :
 
 Persuasion DD 10 face au garde moustachu, qui s'appelle Coron Pied-Léger, pour qu'il le laisse entrer sans inscrire son nom sur un registre suspect. Il pourra lui indiquer l'Hospiterie du Marronnier, tenue par Maman Aldée Pied-Vert, une brave femme.
 
-> <font style="color:yellow">La fête que tu cherches, c'est pour célébrer la première pleine lune. Tu vois bon nombre de halfelin s'afférer pour monter des tables et installer des fûts un peu partout. Un petit air résonne dans les rues.</font>
+> <font style="color:yellow">La fête que tu cherches, c'est pour célébrer la première lune montante. Tu vois bon nombre de halfelin s'afférer pour monter des tables et installer des fûts un peu partout. Un petit air résonne dans les rues.</font>
 > <font style="color:yellow">Il semble y avoir plus d'aller et venues vers une grande maison au centre du village, sûrement l'Hospiterie du Marronnier dont on t'a parlé.</font>
 
 ## Barbare
