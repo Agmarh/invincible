@@ -8,21 +8,24 @@ Il s'agit de Brenwald Brindille-Forte, halfelin d'environ 50 ans qui vend ses po
 - Felsenhof est tendue. Tout le monde y parle de la « bête » qui a tué Oriabel. La battue tourne en rond.
 - Le baron Aymar von Felsenhof est parti guerroyer il y a quatre mois — personne ne sait quand il revient.
 - L'intendant Mamert tient la baronnie d'une main calme, mais il vieillit, et on sent que la pression monte.
-- Sur la route, a quelques heures de marche, il a vu **trois hommes louches** au bord du sentier, près du col. Pas des bûcherons, pas des chasseurs. Il a continué sa route sans s'arrêter.
-- Si on lui parle de Cadmar, il fronce les sourcils : *« Le bûcheron défiguré ? Pas le genre. Mais on dit beaucoup de choses. »*
-
-  
-
-**Jets utiles :**
-
-- *Persuasion DD 10* pour qu'il parle plus librement de ses inquiétudes.
-
-- *Insight DD 12* pour sentir qu'il **cache quelque chose** (en réalité, il a vu un homme dans une cape grise à un croisement, et l'homme l'a regardé sans bouger ; il a eu peur et il a accéléré le pas — il ne le dira spontanément à personne).
-
-  
-
-**Lien narratif :** les « trois hommes louches » que Brenwald a vus sont les brigands qui attaqueront les PJ plus tard dans le chapitre. C'est un avertissement pour les joueurs attentifs — ils peuvent décider de se mettre en alerte, de prendre un détour, etc.
-
-  
+- Si on lui parle de Cadmar, il fronce les sourcils : <font style="color:orange">"Le bûcheron ? Je l'aurais pas vu venir. Ca me chagrine, c'était un gentil petit gars, comme quoi il faut se méfier des gens"</font>.
+- <font style="color:green">Perspicatcité DD 12 suivi d'un jet de persuasion DD 14</font> pour sentir qu'il **cache quelque chose** : il a vu 3 hommes avec des capes grises à un croisement, l'un d'eux l'a regardé sans bouger ; il a eu peur et il a accéléré le pas.
+- Il peut parler d'une petite clairière a quelques heures de marches, parfaite pour passer la nuit. La combe des Doigts-Crochus, en hommage à un famille gnome qui y campait autrefois.
 
 Brenwald repart vers Azul après cette conversation. Il ne fait pas route avec eux.
+
+# Première nuit
+> <font style="color:yellow">Vers la fin du jour, vous trouvez une clairière entre deux affleurements rocheux. Un petit ruisseau coule en contrebas. Brenwald vous avait conseillé cet endroit. La nuit tombe vite.</font>
+
+Tours de garde :
+- **Quart 1** — <font style="color:green">Perception DD 11</font> — entend un cri lointain dans la forêt. Pas un cri humain. Probablement un renard, ou un cerf en rut. Aucune action à prendre.
+- **Quart 2** — <font style="color:green">Perception DD 13</font> — voit, à 200 mètres, un **feu lointain** entre les arbres. Quelqu'un campe aussi. Le feu s'éteint au bout de 20 minutes. (Ce sont les brigands.)
+- **Quart 3**  — <font style="color:green">Perception DD 12</font> — l'aube approche. Un brouillard dense monte du ruisseau. Pas de menace.
+
+  
+
+Si un PJ veut aller voir le feu lointain au quart 2 et qu'il insiste : *Discrétion DD 13* pour s'approcher sans se faire repérer. En cas de succès, il aperçoit **trois silhouettes encapuchonnées** autour des braises ; en cas d'échec, l'un des brigands se lève et tire deux flèches dans sa direction — il doit fuir, et l'embuscade du lendemain sera **plus violente** (les brigands savent qu'ils sont attendus).
+
+  
+
+**Note MJ :** ne pas chercher l'affrontement dès la nuit. Le combat doit avoir lieu en plein jour, sur le sentier, pas dans le noir où les débutantes seraient perdues.

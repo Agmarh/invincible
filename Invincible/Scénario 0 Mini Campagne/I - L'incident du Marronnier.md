@@ -61,7 +61,10 @@ Ceux qui dorment sans chagrin
 - prendre des tables séparées et se contenter de s'observer
 - engager la conversation à l'initiative d'un PJ.
 
-Pendant que les PJs commandent, Maman Aldée raconte à un autre client à portée d'oreille : 
+Autour de la table il y a : Albeth, halfeline d'une soixantaine d'années, et son mari Goric, sourd d'une oreille. 
+Ils dînent tranquillement. Lui parle trop fort, elle le rabroue gentiment. Ils se chamaillent à propos de **savoir si le ragoût est meilleur qu'hier**. 
+
+Pendant que les PJs commandent, Maman Aldée raconte à un Albeth : 
 > <font style="color:orange">"Ma nièce Yelka — la grande gnome, vous savez, celle qui a son atelier au sud — elle est revenue de Jaseran l'autre semaine et figurez-vous qu'elle se rappelle plus le nom de l'auberge où elle a dormi, ni combien de temps elle est partie ! Pourtant elle y est restée trois nuits. Trois nuits ! Je lui dis : Yelka, c'est l'âge. Elle a 47 ans."</font>
 
 Si le barde réagit ou pose des questions, Maman Aldée peut faire le lien : 
