@@ -87,3 +87,11 @@ Coron arrive ~10-15 minutes après le drame, avec un milicien halfelin. **Il pre
 
   **Si les PJ ont aidé et veulent prendre la suite** (= ont entendu *« il lui faut des aventuriers »*), Coron peut leur faciliter les choses : 
  > <font style="color:orange">"Nous allons attendre son réveil. Il semblerait qu'il est en effet parlé d'aventuriers. Si vous voulez proposer vos services, je ne vous en empêcherais pas."</font>
+
+Environ 2h après l'incident, Anselm reprend des conscience et quelques couleurs. Maman Aldée l'a installé dans une chambre du premier étage. Coron autorise les PJs a accéder à la pièce, ou ira les chercher.
+
+> <font style="color:orange">"L'intendant Mamert m'a envoyé chercher des aventuriers. Il en a besoin le plus vite possible à Felsenhof. Une jeune fille — Oriabel — a été tuée à Mascombe, un village dans les bois. Tout le monde accuse un ex-bûcheron nommé **Cadmar**, défiguré il y a deux ans dans une attaque à la scierie, qu'on dit être un ours-garou depuis. Il a disparu après le meurtre. L'intendant veut qu'on traque la bête et qu'on règle l'affaire avant que le baron ne rentre. Il offre **cent pièces d'or par tête** au groupe qui réussit. Et il avait dit, l'intendant, qu'il voulait des gens neufs, pas des locaux. Vous trois, vous êtes neufs. Si vous voulez partir au matin, je vous donne mon insigne pour qu'il vous reconnaisse. Moi, je ne tiendrai pas la route."</font>
+
+  
+
+Anselm tend un médaillon de cuir — l'insigne de la tour rouge.
