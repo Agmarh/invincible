@@ -783,6 +783,669 @@
         "source": "Homebrew",
         "layout": "Basic 5e Layout"
       }
+    ],
+    [
+      "Krell (chef brigand)",
+      {
+        "name": "Krell (chef brigand)",
+        "size": "M",
+        "type": "Humanoïde",
+        "subtype": "humain",
+        "alignment": "Chaotique Mauvais",
+        "ac": 12,
+        "hp": 13,
+        "hit_dice": "3d8",
+        "speed": "9 m",
+        "stats": [
+          11,
+          12,
+          12,
+          10,
+          10,
+          10
+        ],
+        "skillsaves": [
+          {
+            "Perception": 2
+          },
+          {
+            "Discrétion": 3
+          }
+        ],
+        "senses": "Perception passive 12",
+        "languages": "commun",
+        "cr": "1/2",
+        "actions": [
+          {
+            "name": "Cimeterre",
+            "desc": "Attaque d'arme au corps-à-corps : +3 pour toucher, allonge 1,50 m, une cible. Touché : 4 (1d6+1) dégâts tranchants."
+          },
+          {
+            "name": "Arbalète légère (en position élevée)",
+            "desc": "Attaque d'arme à distance : +3 pour toucher (+5 avec l'avantage en position élevée), portée 24/96 m, une cible. Touché : 5 (1d8+1) dégâts perforants."
+          }
+        ],
+        "tactic": [
+          {
+            "name": "Ouverture",
+            "desc": "Donne le signal de l'embuscade en lâchant une flèche sur le PJ le plus armé."
+          },
+          {
+            "name": "Position",
+            "desc": "Reste en hauteur sur la paroi rocheuse tant qu'il a des munitions ou jusqu'à être pris en chasse. Si acculé au corps-à-corps, désavantage au toucher depuis sa position."
+          },
+          {
+            "name": "Fuite",
+            "desc": "Fuit si Borek et Niska sont tombés."
+          }
+        ],
+        "treasure": [
+          {
+            "name": "Insigne de Felsenhof",
+            "desc": "L'insigne d'Anselm Marbach, taché de sang séché. Confirme que ces brigands sont ceux qui l'ont attaqué."
+          },
+          {
+            "name": "Bourse",
+            "desc": "18 po, 32 pa, 14 pc."
+          },
+          {
+            "name": "Fiole vide",
+            "desc": "Étiquetée « onguent de soin ». Pas d'effet mécanique."
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "Niska (archère brigande)",
+      {
+        "name": "Niska (archère brigande)",
+        "size": "M",
+        "type": "Humanoïde",
+        "subtype": "humain",
+        "alignment": "Chaotique Neutre",
+        "ac": 12,
+        "hp": 9,
+        "hit_dice": "2d8",
+        "speed": "9 m",
+        "stats": [
+          10,
+          13,
+          10,
+          10,
+          11,
+          10
+        ],
+        "skillsaves": [
+          {
+            "Discrétion": 3
+          },
+          {
+            "Perception": 2
+          }
+        ],
+        "senses": "Perception passive 12",
+        "languages": "commun",
+        "cr": "1/4",
+        "actions": [
+          {
+            "name": "Arc court (à couvert)",
+            "desc": "Attaque d'arme à distance : +3 pour toucher, portée 24/96 m, une cible. Touché : 4 (1d6+1) dégâts perforants. La cible bénéficie de +2 AC contre cette attaque si elle a une couverture partielle."
+          },
+          {
+            "name": "Dague",
+            "desc": "Attaque d'arme au corps-à-corps : +2 pour toucher, allonge 1,50 m, une cible. Touché : 3 (1d4+1) dégâts perforants."
+          }
+        ],
+        "traits": [
+          {
+            "name": "Tir à couvert",
+            "desc": "Tire à l'arc court depuis les fourrés. Préfère rester cachée tant que possible."
+          },
+          {
+            "name": "Fuite",
+            "desc": "Si découverte, tente de fuir vers le ravin. Test de Moral si Krell ou Borek tombent."
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "Niska",
+      {
+        "name": "Niska",
+        "size": "M",
+        "type": "Humanoïde",
+        "subtype": "humain",
+        "alignment": "Chaotique Neutre",
+        "ac": 12,
+        "hp": 9,
+        "hit_dice": "2d8",
+        "speed": "9 m",
+        "stats": [
+          10,
+          13,
+          10,
+          10,
+          11,
+          10
+        ],
+        "skillsaves": [
+          {
+            "Discrétion": 3
+          },
+          {
+            "Perception": 2
+          }
+        ],
+        "senses": "Perception passive 12",
+        "languages": "commun",
+        "cr": "1/4",
+        "actions": [
+          {
+            "name": "Arc court (à couvert)",
+            "desc": "Attaque d'arme à distance : +3 pour toucher, portée 24/96 m, une cible. Touché : 4 (1d6+1) dégâts perforants. La cible bénéficie de +2 AC contre cette attaque si elle a une couverture partielle."
+          },
+          {
+            "name": "Dague",
+            "desc": "Attaque d'arme au corps-à-corps : +2 pour toucher, allonge 1,50 m, une cible. Touché : 3 (1d4+1) dégâts perforants."
+          }
+        ],
+        "traits": [
+          {
+            "name": "Tir à couvert",
+            "desc": "Tire à l'arc court depuis les fourrés. Préfère rester cachée tant que possible."
+          },
+          {
+            "name": "Fuite",
+            "desc": "Si découverte, tente de fuir vers le ravin. Test de Moral si Krell ou Borek tombent."
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "Krell",
+      {
+        "name": "Krell",
+        "size": "M",
+        "type": "Humanoïde",
+        "subtype": "humain",
+        "alignment": "Chaotique Mauvais",
+        "ac": 12,
+        "hp": 13,
+        "hit_dice": "3d8",
+        "speed": "9 m",
+        "stats": [
+          11,
+          12,
+          12,
+          10,
+          10,
+          10
+        ],
+        "skillsaves": [
+          {
+            "Perception": 2
+          },
+          {
+            "Discrétion": 3
+          }
+        ],
+        "senses": "Perception passive 12",
+        "languages": "commun",
+        "cr": "1/2",
+        "actions": [
+          {
+            "name": "Cimeterre",
+            "desc": "Attaque d'arme au corps-à-corps : +3 pour toucher, allonge 1,50 m, une cible. Touché : 4 (1d6+1) dégâts tranchants."
+          },
+          {
+            "name": "Arbalète légère (en position élevée)",
+            "desc": "Attaque d'arme à distance : +3 pour toucher (+5 avec l'avantage en position élevée), portée 24/96 m, une cible. Touché : 5 (1d8+1) dégâts perforants."
+          }
+        ],
+        "traits": [
+          {
+            "name": "Ouverture",
+            "desc": "Donne le signal de l'embuscade en lâchant une flèche sur le PJ le plus armé."
+          },
+          {
+            "name": "Position",
+            "desc": "Reste en hauteur sur la paroi rocheuse tant qu'il a des munitions ou jusqu'à être pris en chasse. Si acculé au corps-à-corps, désavantage au toucher depuis sa position."
+          },
+          {
+            "name": "Fuite",
+            "desc": "Fuit si Borek et Niska sont tombés."
+          }
+        ],
+        "treasure": [
+          {
+            "name": "Insigne de Felsenhof",
+            "desc": "L'insigne d'Anselm Marbach, taché de sang séché. Confirme que ces brigands sont ceux qui l'ont attaqué."
+          },
+          {
+            "name": "Bourse",
+            "desc": "18 po, 32 pa, 14 pc."
+          },
+          {
+            "name": "Fiole vide",
+            "desc": "Étiquetée « onguent de soin ». Pas d'effet mécanique."
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "Coron Pied-Léger",
+      {
+        "name": "Coron Pied-Léger",
+        "size": "P",
+        "type": "Humanoïde",
+        "subtype": "halfelin",
+        "alignment": "Loyal Bon",
+        "ac": 16,
+        "hp": 11,
+        "hit_dice": "2d8+2",
+        "speed": "7,5 m",
+        "stats": [
+          10,
+          14,
+          12,
+          10,
+          12,
+          11
+        ],
+        "skillsaves": [
+          {
+            "Perception": 3
+          },
+          {
+            "Investigation": 2
+          },
+          {
+            "Perspicacité": 3
+          }
+        ],
+        "senses": "Perception passive 13",
+        "languages": "commun, halfelin",
+        "cr": "1/8",
+        "actions": [
+          {
+            "name": "Épée courte",
+            "desc": "Attaque d'arme au corps-à-corps : +4 pour toucher, allonge 1,50 m, une cible. Touché : 5 (1d6+2) dégâts perforants."
+          },
+          {
+            "name": "Arc court",
+            "desc": "Attaque d'arme à distance : +4 pour toucher, portée 24/96 m, une cible. Touché : 5 (1d6+2) dégâts perforants."
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "Anselm Marbach (blessé)",
+      {
+        "name": "Anselm Marbach (blessé)",
+        "size": "M",
+        "type": "Humanoïde",
+        "subtype": "humain",
+        "alignment": "Loyal Neutre",
+        "ac": 16,
+        "hp": 6,
+        "hit_dice": "2d8+2",
+        "speed": "9 m",
+        "stats": [
+          13,
+          12,
+          12,
+          10,
+          11,
+          10
+        ],
+        "skillsaves": [
+          {
+            "Perception": 2
+          }
+        ],
+        "senses": "Perception passive 12",
+        "languages": "commun",
+        "cr": "1/8",
+        "actions": [
+          {
+            "name": "Lance",
+            "desc": "Attaque d'arme au corps-à-corps ou à distance : +3 pour toucher, allonge 1,50 m ou portée 6/18 m, une cible. Touché : 4 (1d6+1) dégâts perforants, ou 5 (1d8+1) dégâts perforants si maniée à deux mains pour attaquer au corps-à-corps."
+          },
+          {
+            "name": "Épée longue",
+            "desc": "Attaque d'arme au corps-à-corps : +3 pour toucher, allonge 1,50 m, une cible. Touché : 5 (1d8+1) dégâts tranchants."
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "Artus (dogue noir)",
+      {
+        "name": "Artus (dogue noir)",
+        "size": "M",
+        "type": "Bête",
+        "subtype": "chien",
+        "alignment": "Sans alignement",
+        "ac": 13,
+        "hp": 11,
+        "hit_dice": "2d8+2",
+        "speed": "12 m",
+        "stats": [
+          12,
+          15,
+          12,
+          3,
+          12,
+          6
+        ],
+        "skillsaves": [
+          {
+            "Perception": 3
+          },
+          {
+            "Discrétion": 4
+          }
+        ],
+        "senses": "Perception passive 13",
+        "languages": [
+          null
+        ],
+        "cr": "1/4",
+        "actions": [
+          {
+            "name": "Morsure",
+            "desc": "Attaque d'arme au corps-à-corps : +4 pour toucher, allonge 1,50 m, une cible. Touché : 7 (2d4+2) dégâts perforants. Si la cible est de taille M ou inférieure, elle doit réussir un jet de sauvegarde de Force DD 11 ou être à terre."
+          }
+        ],
+        "traits": [
+          {
+            "name": "Tactique de meute",
+            "desc": "Artus a l'avantage aux jets d'attaque contre une créature si au moins un allié d'Artus se trouve à 1,50 m de la créature et que l'allié n'est pas neutralisé."
+          },
+          {
+            "name": "Odorat et ouïe aiguisés",
+            "desc": "Artus a l'avantage aux tests de Sagesse (Perception) basés sur l'odorat ou l'ouïe."
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "Huon le Dogue",
+      {
+        "name": "Huon le Dogue",
+        "size": "M",
+        "type": "Humanoïde",
+        "subtype": "humain",
+        "alignment": "Neutre Mauvais",
+        "ac": 14,
+        "hp": 45,
+        "hit_dice": "7d10+14",
+        "speed": "9 m",
+        "stats": [
+          15,
+          16,
+          14,
+          13,
+          16,
+          12
+        ],
+        "saves": [
+          {
+            "Force": 5
+          },
+          {
+            "Dextérité": 6
+          }
+        ],
+        "skillsaves": [
+          {
+            "Dressage": 6
+          },
+          {
+            "Discrétion": 6
+          },
+          {
+            "Survie": 6
+          }
+        ],
+        "senses": "Perception passive 13",
+        "languages": "commun, sylvain",
+        "cr": 3,
+        "spells": [
+          "Sorts préparés (DC 14, +6 pour toucher) — caractéristique : Sagesse",
+          "1er niveau : <STATBLOCK-WIKI-LINK>Communication avec les animaux<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Grande foulée<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Saut<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Soin des blessures<STATBLOCK-WIKI-LINK>",
+          "2e niveau : <STATBLOCK-WIKI-LINK>Peau d'écorce<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Silence<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Vision dans le noir<STATBLOCK-WIKI-LINK>"
+        ],
+        "traits": [
+          {
+            "name": "Style de combat (archerie)",
+            "desc": "+2 aux jets d'attaque avec les armes à distance."
+          },
+          {
+            "name": "Ennemis jurés (bêtes, humains)",
+            "desc": "Avantage aux jets de Sagesse (Survie) pour pister bêtes et humains, et aux jets d'Intelligence pour se souvenir d'informations sur eux."
+          },
+          {
+            "name": "Briseur de hordes",
+            "desc": "Une fois par tour, lorsque Huon touche une créature avec une attaque d'arme, il peut faire une attaque supplémentaire contre une autre créature à 3 m de la première et à portée de son arme."
+          },
+          {
+            "name": "Échapper à la horde",
+            "desc": "Les attaques d'opportunité contre Huon subissent un désavantage."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Attaques multiples",
+            "desc": "Huon fait deux attaques au corps-à-corps, ou deux attaques à distance avec son arc."
+          },
+          {
+            "name": "Épée longue (à deux mains)",
+            "desc": "Attaque d'arme au corps-à-corps : +6 pour toucher, allonge 1,50 m, une cible. Touché : 7 (1d10+2) dégâts tranchants."
+          },
+          {
+            "name": "Arc long",
+            "desc": "Attaque d'arme à distance : +8 pour toucher (style archerie), portée 45/200 m, une cible. Touché : 7 (1d8+3) dégâts perforants."
+          }
+        ],
+        "tactic": [
+          {
+            "name": "Activation initiale",
+            "desc": "Active peau d'écorce en action bonus dès le premier tour si possible (CA → 16)."
+          },
+          {
+            "name": "Distance privilégiée",
+            "desc": "Préfère la distance. Tire à l'arc, recule, utilise le terrain. Si acculé au mêlée, sort son épée longue à deux mains."
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "Borek",
+      {
+        "name": "Borek",
+        "size": "M",
+        "type": "Humanoïde",
+        "subtype": "humain",
+        "alignment": "Chaotique Neutre",
+        "ac": 12,
+        "hp": 11,
+        "hit_dice": "2d8+2",
+        "speed": "9 m",
+        "stats": [
+          12,
+          12,
+          12,
+          8,
+          10,
+          8
+        ],
+        "skillsaves": [
+          {
+            "Athlétisme": 3
+          }
+        ],
+        "senses": "Perception passive 10",
+        "languages": "commun",
+        "cr": "1/4",
+        "actions": [
+          {
+            "name": "Masse",
+            "desc": "Attaque d'arme au corps-à-corps : +3 pour toucher, allonge 1,50 m, une cible. Touché : 4 (1d6+1) dégâts contondants."
+          },
+          {
+            "name": "Dague",
+            "desc": "Attaque d'arme au corps-à-corps ou à distance : +3 pour toucher, allonge 1,50 m ou portée 6/18 m, une cible. Touché : 3 (1d4+1) dégâts perforants."
+          }
+        ],
+        "tactic": [
+          {
+            "name": "Charge",
+            "desc": "Charge le PJ le plus visiblement caster (druide ou barde) dès le déclenchement de l'embuscade."
+          },
+          {
+            "name": "Combat",
+            "desc": "Combat sans subtilité, frappe à la masse sans manœuvre tactique."
+          },
+          {
+            "name": "Fuite",
+            "desc": "Fuit si Krell ou Niska tombent."
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "Cadmar (forme humaine)",
+      {
+        "name": "Cadmar (forme humaine)",
+        "size": "M",
+        "type": "Humanoïde",
+        "subtype": "humain, métamorphe",
+        "alignment": "Neutre Bon",
+        "ac": 10,
+        "hp": 12,
+        "hit_dice": "2d8+2",
+        "speed": "9 m",
+        "stats": [
+          14,
+          10,
+          14,
+          11,
+          12,
+          8
+        ],
+        "skillsaves": [
+          {
+            "Athlétisme": 4
+          },
+          {
+            "Survie": 3
+          }
+        ],
+        "senses": "Perception passive 11",
+        "languages": "commun",
+        "cr": "1/4",
+        "actions": [
+          {
+            "name": "Hache d'abattage",
+            "desc": "Attaque d'arme au corps-à-corps : +4 pour toucher, allonge 1,50 m, une cible. Touché : 6 (1d8+2) dégâts tranchants."
+          },
+          {
+            "name": "Poings nus",
+            "desc": "Attaque d'arme au corps-à-corps : +4 pour toucher, allonge 1,50 m, une cible. Touché : 3 (1d4+2) dégâts contondants."
+          }
+        ],
+        "traits": [
+          {
+            "name": "Transformation",
+            "desc": "Cadmar peut utiliser son action pour se transformer en ours-garou hybride ou en ours, ou reprendre sa forme humaine. Ses statistiques, sauf sa taille et sa vitesse, sont remplacées par celles de la forme prise. Tout équipement qu'il porte est absorbé par la nouvelle forme. Il reprend forme humaine s'il meurt."
+          },
+          {
+            "name": "Œil aveugle (gauche)",
+            "desc": "Désavantage aux tests de Perception (vue) et aux jets d'attaque contre les créatures à sa gauche hors de sa vision."
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "Cadmar (ours-garou hybride)",
+      {
+        "name": "Cadmar (ours-garou hybride)",
+        "size": "M",
+        "type": "Humanoïde",
+        "subtype": "humain, métamorphe, lycanthrope",
+        "alignment": "Neutre Bon",
+        "ac": 11,
+        "hp": 35,
+        "hit_dice": "5d8+15",
+        "speed": "9 m",
+        "stats": [
+          19,
+          10,
+          17,
+          11,
+          12,
+          8
+        ],
+        "skillsaves": [
+          {
+            "Athlétisme": 6
+          },
+          {
+            "Perception": 3
+          }
+        ],
+        "damage_immunities": "contondants, perforants et tranchants des armes non magiques qui ne sont pas en argent",
+        "senses": "vision dans le noir 18 m, Perception passive 13",
+        "languages": "commun (ne peut pas parler sous forme animale)",
+        "cr": 3,
+        "traits": [
+          {
+            "name": "Transformation",
+            "desc": "Voir forme humaine."
+          },
+          {
+            "name": "Sens aiguisés",
+            "desc": "Avantage aux tests de Sagesse (Perception) basés sur l'odorat."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Attaques multiples",
+            "desc": "Sous forme hybride : Cadmar fait deux attaques, une avec sa morsure et une avec ses griffes. Sous forme d'ours : une seule attaque, morsure."
+          },
+          {
+            "name": "Morsure (formes hybride et ours)",
+            "desc": "Attaque d'arme au corps-à-corps : +7 pour toucher, allonge 1,50 m, une cible. Touché : 9 (1d10+4) dégâts perforants. La morsure ne transmets pas la malédiction, Cadmar la maîtrise grâce à l'aide de Baudoin."
+          },
+          {
+            "name": "Griffes (forme hybride uniquement)",
+            "desc": "Attaque d'arme au corps-à-corps : +7 pour toucher, allonge 1,50 m, une cible. Touché : 7 (2d4+4) dégâts tranchants."
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
     ]
   ],
   "defaultLayouts": {
@@ -1203,6 +1866,28 @@
           "heading": "Regional Effects",
           "conditioned": true,
           "dice": true
+        },
+        {
+          "type": "traits",
+          "id": "aa7939da6b88",
+          "properties": [
+            "treasure"
+          ],
+          "fallback": "-",
+          "heading": "Treasure",
+          "conditioned": true,
+          "dice": true
+        },
+        {
+          "type": "traits",
+          "id": "a9a938ea580b",
+          "properties": [
+            "tactic"
+          ],
+          "fallback": "-",
+          "conditioned": true,
+          "dice": true,
+          "heading": "Tactic"
         }
       ],
       "id": "basic-5e-layout",
@@ -1236,7 +1921,7 @@
   "useDice": true,
   "renderDice": true,
   "export": true,
-  "showAdvanced": false,
+  "showAdvanced": true,
   "version": {
     "major": 4,
     "minor": 10,
