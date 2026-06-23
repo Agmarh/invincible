@@ -42,24 +42,12 @@ Sur les corps ou dans leur sac :
 - Une **bourse** : 18 po, 32 pa, 14 pc.  
 
 # Le col
- > Une heure après l'embuscade, vous arrivez au sommet du col. Le vent change. Il devient plus sec, plus tranchant. La forêt d'Eiren s'arrête net derrière vous — devant, les arbres sont plus rares, plus hauts. Le ciel se dégage et vous voyez, en bas, la vallée tharséenne : des terres ouvertes, des champs, et à deux heures de marche, le clocherp de Mascombe.
+ > <font style="color:yellow">Une heure après l'embuscade, vous arrivez au sommet du col. Le vent change. Il devient plus sec, plus tranchant. La forêt d'Eiren s'arrête net derrière vous — devant, les arbres sont plus rares, plus hauts. Le ciel se dégage et vous voyez, en bas, la vallée tharséenne : des terres ouvertes, des champs, et à deux heures de marche, le clocher de Mascombe.</font>
+> <font style="color:yellow">Au sommet du col, une petite construction en pierre grise — une **Ferdhauss**, une "maison des étrangers" pour les voyageurs. Inoccupée à cette heure. Sur la porte il y a un écriteau :</font>
+> <font style="color:yellow">"Reposez-y une nuit. La porte sera ouverte. Présentez-vous au prochain village. — Par ordre de Sa Seigneurie."</font>
 
->
+  À Eiren, les auberges sont chaleureuses et privées. En Tharse, on a une institution officielle, contrôlée, où l'on consigne les voyageurs. C'est sec, c'est correct, c'est tharséen.
+## La Ferdhauss
+Aucun jet n'est imposé. Les PJ peuvent inspecter la Ferdhauss s'ils veulent — elle ne contient qu'un foyer, quatre paillasses propres, un registre où sont notés les passages, et une cruche d'eau. Ils sont les premiers à passer depuis trois jours.
 
-> *Au sommet du col, une petite construction en pierre grise — une **Ferdhauss** de relais, une « maison des étrangers » pour les voyageurs. Inoccupée à cette heure. Sur la porte, un placard : « Reposez-y une nuit. La porte sera ouverte. Présentez-vous au prochain village. — Par ordre de Sa Seigneurie. »*
-
-  
-
-**Note MJ :** glisser ici le **contraste culturel**. À Eiren, les auberges sont chaleureuses et privées. En Tharse, on a une institution officielle, contrôlée, où l'on consigne les voyageurs. C'est sec, c'est correct, c'est tharséen.
-
-  
-
-### La Ferdhauss
-
-  
-
-Aucun jet n'est imposé. Les PJ peuvent inspecter la Ferdhauss s'ils veulent — elle ne contient qu'un foyer, trois paillasses propres, un registre où sont notés les passages, et une cruche d'eau. Ils sont les premiers à passer depuis trois jours.
-
-  
-
-**C'est ici qu'ils prennent leur repos long** : ils dorment, soignent leurs blessures, récupèrent leurs sorts. La Ferdhauss est le point d'arrêt naturel avant la descente vers Mascombe au lendemain matin.
+**C'est ici qu'ils prennent leur dernier repos long**. La Ferdhauss est le point d'arrêt naturel avant la descente vers Mascombe au lendemain matin.
