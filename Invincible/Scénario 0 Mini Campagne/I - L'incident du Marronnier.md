@@ -38,6 +38,17 @@ Persuasion DD 10 face au garde moustachu, qui s'appelle Coron Pied-Léger, pour 
 **Le garde — Tobie Dent-Verte** : soixantaine, cousin éloigné de Coron Pied-Léger, finit ses années de service à la porte sud parce que c'est tranquille. Connaît tout le monde, salue à la pipe sans se lever. Indifférent à la barbare — 
 > "si elle fait des bêtises, je m'en occuperai après".  Ne note rien dans aucun registre. Simple PNJ d'ambiance, pas de rôle scénaristique.
 
+## Chanson lune montante
+_Petite lune, lune neuve_  
+_Reviens veiller sur nos toits_  
+_Sur les marronniers en fleur_  
+_Sur les graines et sur les bois_
+
+_Petite lune, lune neuve_  
+_Berce ceux qui s'en vont loin_  
+_Et garde au creux de tes bras_  
+Ceux qui dorment sans chagrin
+
 # L'Hospiterie du Marronnier
 > <font style="color:yellow">L'Hospiterie du Marronnier est une vaste maison de bois à deux étages, dont le rez-de-chaussée s'ouvre sur un grand jardin sous tonnelle. Quand il fait beau — et il fait beau ce soir — les tables sont dehors. Trois marronniers centenaires forment un toit naturel. Des lampes sont accrochés aux branches. L'air sent le ragoût de lentilles, le pain chaud, et la liqueur de marron.</font>
 > <font style="color:yellow">La maîtresse des lieux s'appelle Maman Aldée Pied-Vert. Halfeline d'une cinquantaine d'années, robuste pour son peuple, le cheveu grisonnant, le rire facile.</font>
