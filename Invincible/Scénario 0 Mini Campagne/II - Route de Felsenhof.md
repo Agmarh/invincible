@@ -23,3 +23,5 @@ Tours de garde :
 - **Quart 3**  — <font style="color:green">Perception DD 12</font> — l'aube approche. Un brouillard dense monte du ruisseau. Pas de menace.
 
 Si un PJ veut aller voir le feu lointain au quart 2 et qu'il insiste : <font style="color:green">Discrétion DD 13</font> pour s'approcher sans se faire repérer. En cas de succès, il aperçoit **trois silhouettes encapuchonnées** autour des braises ; en cas d'échec, l'un des brigands se lève et tire une flèche dans sa direction — il doit fuir, et prévenir ses compagnons.
+
+# L'embuscade
