@@ -33,3 +33,33 @@ L'arbre tombé est un **piège**. Trois brigands attendent :
 - **Niska**, dans les fourrés à gauche du sentier, vers le ravin, avec un arc court.
 
 <font style="color:green">Test de Perception passive ou actif (DD 14)</font> pour repérer le piège avant le déclenchement. Si un PJ réussit, ils ne seront pas surpris.
+
+**Note arc barbare — rage disproportionnée** : pour la PJ barbare aasimar, cette embuscade n'est pas un baptême du feu. C'est un déclencheur de trauma. Chaque brigand qu'elle frappe est l'un de ceux qui l'ont kidnappée jadis. Elle entre en **Rage immédiatement** sans hésiter, et frappe avec plus de violence que la situation ne le justifie. 
+**Si un brigand tente de se rendre ou si Krell, blessé, supplie**, demander à la joueuse un **jet de sauvegarde de Sagesse DD 12** pour s'arrêter. En cas d'échec, elle l'achève d'un coup. C'est un premier signe de la profondeur du perso, ne pas le sanctionner mais ne pas non plus le passer sous silence. 
+## Le butin
+Sur les corps ou dans leur sac :
+- **L'insigne de Felsenhof**, du sang séché dessus — c'est l'insigne d'Anselm. **Confirmation que ces brigands sont ceux qui l'ont attaqué deux jours plus tôt.**
+- Une **bourse** : 18 po, 32 pa, 14 pc.  
+
+# Le col
+ > Une heure après l'embuscade, vous arrivez au sommet du col. Le vent change. Il devient plus sec, plus tranchant. La forêt d'Eiren s'arrête net derrière vous — devant, les arbres sont plus rares, plus hauts. Le ciel se dégage et vous voyez, en bas, la vallée tharséenne : des terres ouvertes, des champs, et à deux heures de marche, le clocherp de Mascombe.
+
+>
+
+> *Au sommet du col, une petite construction en pierre grise — une **Ferdhauss** de relais, une « maison des étrangers » pour les voyageurs. Inoccupée à cette heure. Sur la porte, un placard : « Reposez-y une nuit. La porte sera ouverte. Présentez-vous au prochain village. — Par ordre de Sa Seigneurie. »*
+
+  
+
+**Note MJ :** glisser ici le **contraste culturel**. À Eiren, les auberges sont chaleureuses et privées. En Tharse, on a une institution officielle, contrôlée, où l'on consigne les voyageurs. C'est sec, c'est correct, c'est tharséen.
+
+  
+
+### La Ferdhauss
+
+  
+
+Aucun jet n'est imposé. Les PJ peuvent inspecter la Ferdhauss s'ils veulent — elle ne contient qu'un foyer, trois paillasses propres, un registre où sont notés les passages, et une cruche d'eau. Ils sont les premiers à passer depuis trois jours.
+
+  
+
+**C'est ici qu'ils prennent leur repos long** : ils dorment, soignent leurs blessures, récupèrent leurs sorts. La Ferdhauss est le point d'arrêt naturel avant la descente vers Mascombe au lendemain matin.
