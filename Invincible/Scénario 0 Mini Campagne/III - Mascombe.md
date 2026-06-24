@@ -65,19 +65,9 @@ Quand les PJ acceptent formellement, ils :
 
 > "Je vous reconnais, jeune homme. Vous étiez ici, il y a un environ an, sur la place du château, avec votre troupe. Vous avez fait rire la cour entière aux dépens de mon baron. Y compris moi, je dois l'avouer. Il ne l'a jamais oublié. Il est parti guerroyer en partie pour cela, je le crains. Et il finira par rentrer."
 > "Je ne dirai rien aux autres. Mais vous, écoutez moi. Le baron Aymar n'est pas un homme cruel — son orgueil est blessée simplement. La guerre lui a peut-être appris la mesure. Peut-être pas. Quand il rentrera, il vous reconnaîtra. Et il aura le pouvoir de vous pendre."
-> "Mais voici ce que je sais d'Aymar : il sait reconnaître la valeur. Il vous a vu en bouffon ; devenez autre chose. Tuez la bête de Mascombe. Protégez ses terres. Servez sa baronnie comme si elle était la vôtre. Et quand il rentrera, je serai là pour témoigner. Je dirai qu'un demi-ogre a sauvé ce qu'il aimait pendant son absence.*
+> "Mais voici ce que je sais d'Aymar : il sait reconnaître la valeur. Il vous a vu en bouffon ; devenez autre chose. Tuez la bête de Mascombe. Protégez ses terres. Servez sa baronnie comme si elle était la vôtre. Et quand il rentrera, je serai là pour témoigner. Je dirai que vous avez sauvé ce qu'il aimait pendant son absence.
+> "Il n'oubliera pas le clown. Mais il pourra choisir de pardonner au héros. Tout dépendra de vous."  
 
->
-
-> *Il n'oubliera pas le clown. Mais il pourra choisir de pardonner au héros. Tout dépendra de vous. »*
-
-  
-
-**Réactions possibles du PJ** : à laisser au joueur. Mamert ne demande pas de promesse. Il a posé la voie, à charge au PJ de marcher dessus.
-
-  
-
-**Effets immédiats** :
 
 - Le PJ a maintenant une **motivation personnelle** explicite pour briller dans la Bête Humaine et au-delà.
 
