@@ -61,23 +61,9 @@ Quand les PJ acceptent formellement, ils :
 - **Niveau 2 accordé.**
 ## Aparté Mamert ↔ Haisse Per LUETTE
 
-**À jouer juste après l'acceptation formelle, avant que Mamert n'appelle Huon.** Mamert dit aux deux autres PJ d'aller à la cour rejoindre Huon. Il garde le **PJ barde demi-ogre** un instant *« pour un mot »*. Il ferme la porte.
+**À jouer juste après l'acceptation formelle, avant que Mamert n'appelle Huon.** Mamert dit aux deux autres PJ d'aller à la cour rejoindre Huon. Il garde le **PJ barde demi-ogre** un instant *« pour un mot »*. Il ferme la porte.  
 
-  
-
-> **Note MJ — choix de mise en scène** :
-
-> - **Option intime** : jouer la scène en aparté privé (le joueur du barde reste, les autres se mettent en retrait). Le secret reste personnel au PJ. Plus puissant émotionnellement, mais ne resserre pas immédiatement le groupe.
-
-> - **Option groupe** *(recommandée pour cette table)* : jouer la scène devant les autres joueurs. Mamert ferme la porte, mais on entend tout. Le secret du barde devient un secret partagé du groupe — c'est l'un des premiers fondements de l'amitié naissante des PJ. Plus structurant pour l'arc relationnel.
-
-  
-
-**Lecture pour Mamert** (à adapter ou paraphraser) :
-
-  
-
-> *« Je vous reconnais, jeune homme. Vous étiez à Felsenhof il y a un an et demi, sur la place du château, avec votre troupe. Vous avez fait rire la cour entière aux dépens de mon baron. Y compris moi, je dois l'avouer. Il ne l'a jamais oublié. Il est parti guerroyer en partie pour cela, je le crains. Et il finira par rentrer.*
+> "Je vous reconnais, jeune homme. Vous étiez ici, il y a un environ an, sur la place du château, avec votre troupe. Vous avez fait rire la cour entière aux dépens de mon baron. Y compris moi, je dois l'avouer. Il ne l'a jamais oublié. Il est parti guerroyer en partie pour cela, je le crains. Et il finira par rentrer.*
 
 >
 
