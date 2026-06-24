@@ -72,151 +72,53 @@ Quand les PJ acceptent formellement, ils :
 
 Mamert appelle Huon. Il entre.  
 
-> Un homme grand, sec, environ 35 ans. Cape de chasse en cuir patiné, une épée longue dans le dos, un arc long à la main. Cheveux noirs noués serrés en arrière. Un grand dogue noir le suit, silencieux, l'air calme — c'est Artus.*
+> Un homme grand, sec, environ 35 ans. Cape de chasse en cuir patiné, une épée longue dans le dos, un arc long à la main. Cheveux noirs noués serrés en arrière. Un grand dogue noir le suit, silencieux, l'air calme — c'est Artus.
+> Il vous toise sans hostilité, mais sans chaleur. 
+> "Mamert. Voici donc les aventuriers ?" Il s'approche de la table, dépose son arc, et vous fixe à tour de rôle. "Bien. On part demain à l'aube. Vous savez vous battre ?"
+### Le profil
 
->
-
-> *Il vous toise sans hostilité, mais sans chaleur. « Mamert. Voici donc les aventuriers ? » Il s'approche de la table, dépose son arc, et vous fixe à tour de rôle. « Bien. On part demain à l'aube. Vous savez vous battre ? »*
-
-  
-
-### Le profil — informations pour le MJ uniquement
-
-  
-
-Huon est **le vrai coupable** du meurtre d'Oriabel (canon Bête Humaine). C'est un rôdeur niveau 7 dérangé, qui a tué la jeune femme pour une vieille histoire sordide, et qui s'est servi de la suspicion contre Cadmar pour se couvrir. **Les PJ ne doivent pas le découvrir maintenant.**
-
-  
+Huon est **le vrai coupable** du meurtre d'Oriabel. C'est un rôdeur niveau 7 dérangé, qui a tué la jeune femme pour une vieille histoire sordide, et qui s'est servi de la suspicion contre Cadmar pour se couvrir.  
 
 Pour cette phase, Huon est :
-
-  
-
 - **Compétent, taciturne, intelligent**. Il connaît parfaitement la forêt.
-
 - **Légèrement hostile aux étrangers**, mais professionnel.
-
 - **Un peu protecteur d'Artus** (son dogue), n'aime pas qu'on s'approche de l'animal sans prévenir.
+- **Évasif sur sa propre histoire** : si on l'interroge sur son enfance « élevé par les chiens », il coupe court.  
 
-- **Évasif sur sa propre histoire** : si on l'interroge sur son enfance « élevé par les chiens », il coupe court.
-
-  
-
-**Insight DD 14** sur Huon ne révèle rien d'incriminant maintenant — il est trop maître de lui-même. À ce niveau (1→2), les PJ n'ont aucune chance de le soupçonner. C'est l'enjeu de la Bête Humaine de leur donner l'opportunité de découvrir la vérité.
-
-  
-
-**Note arc druidique — friction immédiate** : la druide du Cercle de l'Eau Noire entre instantanément en tension avec Huon. Son **Défaut** (réagit à la maltraitance animale) s'active dès qu'elle comprend qu'on traque un garou pour le tuer — pour elle, c'est l'incarnation du système qui a massacré son clan. Elle ne va pas l'attaquer (Mamert lui a remis la mission, son Idéal d'entraide compte aussi), mais elle ne lui fera **aucune confiance** dès le premier regard. Tension utile pour la suite.
-
-  
+**Insight DD 14** sur Huon ne révèle rien d'incriminant maintenant — il est trop maître de lui-même. À ce niveau, les PJ n'ont aucune chance de le soupçonner. C'est l'enjeu de la Bête Humaine de leur donner l'opportunité de découvrir la vérité.  
 
 ### Petite scène de rôle
 
-  
-
 Huon les emmène à la cour du château et leur fait **rapidement évaluer leur armement**. Une scène brève d'introduction. Il peut leur poser des questions courtes :
-
-  
-
 - *« Tu sais tirer ? »* (à un PJ avec un arc)
-
 - *« Tu sais courir ? »* (à un PJ chargé d'armure)
+- *« Et la magie ? »* (à la druide ou au barde)  
 
-- *« Et la magie ? »* (à la druide ou au barde)
-
-  
-
-C'est un moment **pour donner du caractère à Huon** sans tout dévoiler. Il est efficace, un peu condescendant, et pas du tout chaleureux. Les joueurs doivent en sortir avec **un sentiment mitigé** sur lui — utile pour quand ils douteront plus tard.
-
-  
-
----
-
-  
+C'est un moment **pour donner du caractère à Huon** sans tout dévoiler. Il est efficace, un peu condescendant, et pas du tout chaleureux. Les joueurs doivent en sortir avec **un sentiment mitigé** sur lui — utile pour quand ils douteront plus tard.  
 
 ## Phase 5 — Le choix tactique
 
-  
-
 ### Retour à Mascombe
 
-  
-
-Huon les ramène à Mascombe pour la nuit. Mamert leur offre une chambre à l'**Auberge du Loup Gris**, la seule de Mascombe (tenue par **Mère Berthold**, humaine sèche, halfeline d'adoption — elle a vécu à Azul jeune).
-
-  
-
-**Plant Mère Berthold :** elle peut être l'amie d'enfance de Maman Aldée ; au passage, elle leur glisse *« Maman Aldée vous a recommandé son neveu Bréguin si vous avez besoin d'un guérisseur. Il habite à trois heures d'ici. Je vous l'envoie si besoin. »* — utile pour un futur recours médical.
-
-  
-
-### La décision
-
-  
+Huon les ramène à Mascombe pour la nuit. Mamert leur offre une chambre à l'**Auberge du Loup Gris**, la seule de Mascombe (tenue par **Mère Berthold**, humaine sèche, halfeline d'adoption — elle a vécu à Azul jeune). 
 
 Avant le départ du lendemain, les PJ ont **une soirée libre**. Ils peuvent :
 
-  
+#### **Option A — Enquêter au village avant la traque**  
 
-**Option A — Enquêter au village avant la traque**
+Profiter de la soirée pour parler aux villageois, à Lison, à la famille d'Oriabel (les Cassagnol), au moulin, au lavoir. Huon n'aime pas qu'on perde du temps mais ne s'y oppose pas formellement — Mamert a le dernier mot.  
 
-  
+ils peuvent recueillir des indices qui leur seront utiles plus tard (la sage-femme Ursanne, par exemple, ne croit pas que Cadmar soit un garou).  
 
-Profiter de la soirée pour parler aux villageois, à Lison, à la famille d'Oriabel (les Cassagnol), au moulin, au lavoir. Huon n'aime pas qu'on perde du temps mais ne s'y oppose pas formellement — Mamert a le dernier mot.
+#### **Option B — Partir avec Huon dès l'aube**  
 
-  
+La traque commence dans la forêt, sur la piste laissée par les villageois autour de la masure de Cadmar.  
 
-**Avantage :** ils peuvent recueillir des indices qui leur seront utiles plus tard (la sage-femme Ursanne, par exemple, ne croit pas que Cadmar soit un garou).
+### Mini-jet — Insight 
 
-  
-
-**Inconvénient :** Huon devient grincheux. *« Pendant que vous parlez, la bête mange peut-être quelqu'un d'autre. »*
-
-  
-
-**Option B — Partir avec Huon dès l'aube**
-
-  
-
-La traque commence dans la forêt, sur la piste laissée par les villageois autour de la masure de Cadmar.
-
-  
-
-**Avantage :** action immédiate, dans le ton de la mission.
-
-  
-
-**Inconvénient :** ils se privent de connaître les vrais ressorts de l'affaire.
-
-  
-
-### Mini-jet — Insight
-
-  
-
-Si un PJ insiste pour comprendre pourquoi Huon préfère la traque immédiate (*Insight DD 13*), il sent une **inquiétude** chez le maître chasseur. Le MJ peut suggérer : « Il a hâte de finir cette affaire. Trop hâte, peut-être. » C'est un indice subtil.
-
-  
-
-### Ce qu'il faut retenir pour le MJ
-
-  
-
-**Les PJ choisissent leur entrée dans la Bête Humaine.** Les deux options ouvrent le scénario canoniquement. Le scénario officiel propose les deux voies (« L'enquête préliminaire **ou complémentaire** »).
-
-  
-
-Marquer leur choix dans les notes. Cela influencera comment le chapitre suivant sera amorcé.
-
-  
-
----
-
-  
+Si un PJ insiste pour comprendre pourquoi Huon préfère la traque immédiate (Perspicacité DD 15), il sent une **inquiétude** chez le maître chasseur. Le MJ peut suggérer : « Il a hâte de finir cette affaire. Trop hâte, peut-être. » C'est un indice subtil. 
 
 ## Phase 6 — Transition vers la Bête Humaine
-
-  
 
 ### Option A retenue (enquête au village)
 
@@ -231,65 +133,3 @@ Marquer leur choix dans les notes. Cela influencera comment le chapitre suivant 
   
 
 > *L'aube. Vous quittez Mascombe avec Huon et Artus, sac à l'épaule. Huon vous mène à la masure de Cadmar, au bord de la rivière. La porte est défoncée — les villageois ont déjà fouillé. À l'intérieur, du désordre, et… une odeur. Pas une odeur d'homme. Quelque chose entre l'ours et le sang. Huon s'accroupit sur le seuil. « C'est là. Il a fui par les bois. On y va. »*
-
-  
-
-C'est le début du **chapitre 4 — `04_Bete_Humaine.md`**.
-
-  
-
----
-
-  
-
-## Notes MJ
-
-  
-
-### Décisions à arbitrer en cours de partie
-
-  
-
-- **Si les PJ refusent la mission au château** : c'est peu probable, mais possible. Plan B : Mamert insiste poliment, augmente la récompense à 120 po, et fait comprendre que les hommes du village sont en train d'épuiser leurs ressources sans résultat. Si refus catégorique, la mini-campagne s'arrête là — à éviter à tout prix.
-
-  
-
-### Ce que les PJ doivent emporter à la fin de ce chapitre
-
-  
-
-- **Bracelet de cuir** au sceau de Felsenhof (laissez-passer baronnie)
-
-- **30 po d'avance** chacun
-
-- **Insigne d'Anselm** récupéré sur les brigands (souvenir)
-
-- **Une décision** : enquêter au village d'abord ou suivre Huon dès l'aube
-
-  
-
-### Plant à conserver pour la suite
-
-  
-
-- **Le vieux halfelin marmonnant sur Jaseran** : préparation discrète au plant Alzheim.
-
-- **Mamert reconnaît le PJ barde** : déclencheur de l'aparté en phase 3, fondement de l'arc bardique.
-
-  
-
-### Articulation avec le chapitre suivant
-
-  
-
-Le chapitre 4 (Bête Humaine) commence soit :
-
-  
-
-- **À l'Auberge du Loup Gris au matin** (option A) — les PJ continuent l'enquête au village.
-
-- **Devant la masure de Cadmar à l'aube** (option B) — la traque est engagée.
-
-  
-
-Le doc `04_Bete_Humaine.md` reprend à partir de ces deux entrées.
