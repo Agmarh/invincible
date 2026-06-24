@@ -63,11 +63,8 @@ Quand les PJ acceptent formellement, ils :
 
 **À jouer juste après l'acceptation formelle, avant que Mamert n'appelle Huon.** Mamert dit aux deux autres PJ d'aller à la cour rejoindre Huon. Il garde le **PJ barde demi-ogre** un instant *« pour un mot »*. Il ferme la porte.  
 
-> "Je vous reconnais, jeune homme. Vous étiez ici, il y a un environ an, sur la place du château, avec votre troupe. Vous avez fait rire la cour entière aux dépens de mon baron. Y compris moi, je dois l'avouer. Il ne l'a jamais oublié. Il est parti guerroyer en partie pour cela, je le crains. Et il finira par rentrer.*
-
->
-
-> *Je ne dirai rien aux autres. Mais vous, écoutez-moi. Le baron Aymar n'est pas un homme cruel — il est un homme blessé. La guerre lui a peut-être appris la mesure. Peut-être pas. Quand il rentrera, il vous reconnaîtra. Et il aura le pouvoir de vous pendre.*
+> "Je vous reconnais, jeune homme. Vous étiez ici, il y a un environ an, sur la place du château, avec votre troupe. Vous avez fait rire la cour entière aux dépens de mon baron. Y compris moi, je dois l'avouer. Il ne l'a jamais oublié. Il est parti guerroyer en partie pour cela, je le crains. Et il finira par rentrer."
+> "Je ne dirai rien aux autres. Mais vous, écoutez moi. Le baron Aymar n'est pas un homme cruel — son orgueil est blessée simplement. La guerre lui a peut-être appris la mesure. Peut-être pas. Quand il rentrera, il vous reconnaîtra. Et il aura le pouvoir de vous pendre.*
 
 >
 
