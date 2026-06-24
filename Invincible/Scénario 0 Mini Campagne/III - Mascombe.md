@@ -7,7 +7,7 @@
 ## Qui les accueille
 
 Deux gardes sont en poste à l'entrée de la ville : 
-- Bertram, un vétéran humain de 62 ans normalement en retraite. Connait tout le monde à Mascombe. Il surveille le village pendant la battue. Il peut accompagner les PJs directement chez Mamert.
+- Bertram, un vétéran humain de 57 ans normalement en retraite. Connait tout le monde à Mascombe. Il surveille le village pendant la battue. Il peut accompagner les PJs directement chez Mamert.
 - Volker, un milicien blessé, le bras gauche en écharpe. Il s'est blessé il y a quelques jours pendant une battue, en trébuchant sur une racine. Il est visiblement très frustré de ne pas pouvoir participer aux recherches. Peut également conduire les PJs chez Mamert.
 
 Ce qu'ils peuvent apprendre : 
@@ -32,85 +32,34 @@ Ce qu'elle peut leur apprendre :
 
 # Phase 3 — Le château de Felsenhof
 
-Un garde en poste au centre ville pourra emmener les PJs sur présentation de l'insigne d'Anselm.
+> Une heure de marche depuis Mascombe, à travers des champs labourés. Le château de Felsenhof est une petite forteresse carrée, en pierre grise, sur une butte. Pas spectaculaire — fonctionnel. Une garnison réduite — un garde à l'entrée. Sur la bannière, le blason : une **tour de pierre rougie par un soleil couchant**. Le même que celui de l'insigne d'Anselm. 
+> On vous fait entrer dans une grande salle voûtée, fraîche, avec une grande table de chêne.
+## Mamert von Hessgau 
 
-> Une heure de marche depuis Mascombe, à travers des champs labourés. Le château de Felsenhof est une petite forteresse carrée, en pierre grise, sur une butte. Pas spectaculaire — fonctionnel. Une garnison réduite — deux gardes à l'entrée. Sur la bannière, le blason : une **tour de pierre rougie par un soleil couchant**. Le même que celui de l'insigne d'Anselm.
+**Mamert von Hessgau**, humain, 63 ans, Loyal Bon. Cheveux blancs, taille moyenne, mains noueuses. Cape brune, gilet de cuir simple. Une vieille épée à la hanche. Honnête, pragmatique, fatigué mais consciencieux.  
 
-  
-
-Les gardes les accueillent poliment quand ils montrent l'insigne. On les fait entrer dans une grande salle voûtée, fraîche, avec une grande table de chêne. L'intendant les attend.
-
-  
-
-### Mamert von Hessgau
-
-  
-
-**Mamert von Hessgau**, humain, 62 ans, Loyal Bon. Cheveux blancs, taille moyenne, mains noueuses. Cape brune, gilet de cuir simple. Une vieille épée à la hanche, jamais sortie de son fourreau depuis vingt ans. Voix posée, accent tharséen marqué. Honnête, pragmatique, fatigué mais consciencieux.
-
-  
-
-**Lecture d'ambiance :**
-
-  
-
-> *« Asseyez-vous. Vous prendrez du vin chaud ou de l'eau, à cette heure ? Je vous ai fait venir pour une affaire pénible. Vous savez sans doute ce qu'on dit au village. Une jeune fille assassinée, une bête qu'on accuse. Tous les bras de la baronnie sont sur la traque, mais ils ne trouvent rien. Mon baron est parti à la guerre, je ne peux pas lui réclamer du renfort. Vous, vous êtes neufs. Vous n'êtes pas du village, vous ne connaissez personne ici, vous n'avez rien à perdre ni à gagner sauf l'or que je vous promets. C'est exactement ce qu'il me faut. »*
-
-  
-
-### Le briefing officiel
-
-  
+> "Asseyez-vous. Vous prendrez du vin chaud ou de l'eau, à cette heure ?"
+> "Je vous ai fait venir pour une affaire pénible. Vous savez sans doute ce qu'on dit au village. Une jeune fille assassinée, une bête qu'on accuse. Tous les bras de la baronnie sont sur la traque, mais ils ne trouvent rien. Mon baron est parti à la guerre, je ne peux pas lui réclamer du renfort."
+> "Si j'ai demandé explicitement des étrangers, c'est justement parce que vous ne connaissez personne ici, vous n'avez rien à perdre ni à gagner sauf l'or que je vous promets. C'est exactement ce qu'il me faut."
+## Le briefing officiel
 
 Mamert leur expose la situation :
-
-  
-
 - Oriabel, jeune fille de Mascombe, enlevée et tuée il y a quelques jours.
-
-- Le suspect principal est **Cadmar**, ex-bûcheron défiguré dans une attaque à la scierie il y a deux ans, qu'on soupçonne d'être un **ours-garou**.
-
-- **Récompense : 100 po par tête** si la bête est tuée ou capturée vivante, et que l'affaire est close.
-
+- Le suspect principal est **Cadmar**, ex-bûcheron qu'on soupçonne d'être un ours-garou depuis une attaque à la scierie il y a deux ans.
+- **Récompense : 100 po par tête** pour résoudre cette affaire, si c'est bel est bien Cadmar, je veux la bête morte ou vive.
 - Mamert leur **adjoint Huon le Dogue**, son maître chasseur, pour les guider dans l'Altwald. Huon connaît la forêt mieux que personne.
-
-  
-
-### La question des brigands
-
-  
+## La question des brigands
 
 Si les PJ mentionnent **les brigands** qu'ils ont défaits en route, Mamert hoche la tête, l'air las :
+> "La route n'est pas sûre, je le crains. Et le pire, c'est que ça empire d'année en année. Avec mon baron parti à la guerre et la garnison réduite, on ne peut plus patrouiller comme avant. Vous avez fait une belle action en les arrêtant. Je le porterai au crédit de votre solde." 
 
-  
-
-> *« La route n'est pas sûre, je le crains. Et le pire, c'est que ça empire d'année en année. Avec mon baron parti à la guerre et la garnison réduite, on ne peut plus patrouiller comme avant. Vous avez fait une belle action en les arrêtant. Je le porterai au crédit de votre solde. »*
-
-  
-
-Pas de mystère caché, pas d'agenda politique. Mamert est un intendant fatigué qui constate la dégradation des routes — c'est tout.
-
-  
-
-### Acceptation formelle de la mission — *gain de niveau 2*
-
-  
+## Acceptation formelle de la mission — *gain de niveau 2*  
 
 Quand les PJ acceptent formellement, ils :
-
-  
-
 - Reçoivent **une avance de 30 po chacun** (les 70 restants seront payés à la conclusion).
-
 - Reçoivent un **bracelet de cuir gravé au sceau de Felsenhof** — laissez-passer dans toute la baronnie.
-
-- **Niveau 2 accordé.** Maman Aldée avait raison : « aider une fille morte, ça paie. »
-
-  
-
-### Aparté Mamert ↔ PJ barde *(MAJEUR — arc bardique)*
-
-  
+- **Niveau 2 accordé.**
+## Aparté Mamert ↔ Haisse Per LUETTE
 
 **À jouer juste après l'acceptation formelle, avant que Mamert n'appelle Huon.** Mamert dit aux deux autres PJ d'aller à la cour rejoindre Huon. Il garde le **PJ barde demi-ogre** un instant *« pour un mot »*. Il ferme la porte.
 
