@@ -68,40 +68,11 @@ Quand les PJ acceptent formellement, ils :
 > "Mais voici ce que je sais d'Aymar : il sait reconnaître la valeur. Il vous a vu en bouffon ; devenez autre chose. Tuez la bête de Mascombe. Protégez ses terres. Servez sa baronnie comme si elle était la vôtre. Et quand il rentrera, je serai là pour témoigner. Je dirai que vous avez sauvé ce qu'il aimait pendant son absence.
 > "Il n'oubliera pas le clown. Mais il pourra choisir de pardonner au héros. Tout dépendra de vous."  
 
-
-- Le PJ a maintenant une **motivation personnelle** explicite pour briller dans la Bête Humaine et au-delà.
-
-- Mamert est devenu son **mentor double** : il le protège et l'avertit.
-
-- Si jouée en groupe, c'est le **premier secret partagé** de la table — moteur d'amitié.
-
-  
-
-**Pour la résolution de cet arc** : voir `Perso_Barde.md` et la section *Arc bardique* du contexte global. La scène du pardon d'Aymar — *L'Engagement d'allégeance* — aura lieu à la fin de *L'Épuration de Raven'ill*.
-
-  
-
----
-
-  
-
 ## Phase 4 — Huon le Dogue
 
-  
+Mamert appelle Huon. Il entre.  
 
-### Présentation
-
-  
-
-Mamert appelle Huon. Il entre.
-
-  
-
-**Lecture d'ambiance :**
-
-  
-
-> *Un homme grand, sec, environ 35 ans. Cape de chasse en cuir patiné, une épée longue dans le dos, un arc long à la main. Cheveux noirs noués serrés en arrière. Un grand dogue noir le suit, silencieux, l'air calme — c'est Artus.*
+> Un homme grand, sec, environ 35 ans. Cape de chasse en cuir patiné, une épée longue dans le dos, un arc long à la main. Cheveux noirs noués serrés en arrière. Un grand dogue noir le suit, silencieux, l'air calme — c'est Artus.*
 
 >
 
