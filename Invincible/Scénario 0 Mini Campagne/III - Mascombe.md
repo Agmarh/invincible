@@ -6,18 +6,24 @@
 # Phase 2 — Premières impressions au village
 ## Qui les accueille
 
-**Liaze**, femme de **Thibault le forgeron**, est la première à oser sortir pour parler aux trois étrangers.
+Deux gardes sont en poste à l'entrée de la ville : 
+- Bertram, un vétéran humain de 62 ans normalement en retraite. Connait tout le monde à Mascombe. Il surveille le village pendant la battue. Il peut accompagner les PJs directement chez Mamert.
+- Volker, un milicien blessé, le bras gauche en écharpe. Il s'est blessé il y a quelques jours pendant une battue, en trébuchant sur une racine. Il est visiblement très frustré de ne pas pouvoir participer aux recherches. Peut également conduire les PJs chez Mamert.
 
-**Liaze Forgeronne**, humaine, ~35 ans, Neutre Bonne. Sèche, directe, méfiante des étrangers comme tout Tharséen, mais lucide. Sa forge est fermée — Thibault est parti à la battue.  
-
-**Ce qu'elle leur dit :**
+Ce qu'ils peuvent apprendre : 
 - Cadmar a disparu il y a une semaine. Tout le monde le tient pour la « bête » — pour eux, c'est un **ours-garou**.
-- Avant d'être défiguré, Cadmar était fiancé à Oriabel. Elle l'avait repoussé après l'accident à la scierie. Récemment, elle avait été promise au marchand Tancred.
 - Les hommes le traquent dans l'Altwald depuis l'aube, ça fait des jours qu'ils cherchent.
-- L'intendant Mamert von Hessgau attend des aventuriers au **château de Felsenhof**, à un kilomètre au nord. Anselm avait dû arriver hier — il n'est jamais venu  
+- L'intendant Mamert von Hessgau attend des aventuriers au **château de Felsenhof**, à un kilomètre au nord. Anselm aurait dû arriver hier — il n'est jamais venu  
 
 **Si on lui dit qu'Anselm a été attaqué et qu'il est à Azul :** elle blêmit. Elle leur conseille de monter au château immédiatement, l'intendant doit savoir.
 
+## Forge
+**Liaze**, femme de **Thibault le forgeron** est présente au village, à côté de la porte de la Forge.
+
+**Liaze Forgeronne**, humaine, ~35 ans, Neutre Bonne. Sèche, directe, méfiante des étrangers comme tout Tharséen, mais lucide. Sa forge est fermée — Thibault est parti à la battue.  
+
+Ce qu'elle peut leur apprendre : 
+- Avant d'être défiguré, Cadmar était fiancé à Oriabel. Elle l'avait repoussé après l'accident à la scierie. Récemment, elle avait été promise au marchand Tancred.
 ## Le village en émoi
 
 > Sur la place, près du lavoir, vous croisez **Lison**, la fille du métayer Trémolet — c'est elle qui a vu Oriabel se faire enlever au crépuscule. Elle a 16 ans, elle pleure encore. Elle répète : "C'était un grand ours sur deux pattes. C'était Cadmar. C'était lui."
