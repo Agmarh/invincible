@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Invincible/Scénario 0 Mini Campagne/I - L'incident du Marronnier.md",
+                "file": "Invincible/Scénario 0 Mini Campagne/II - Route de Felsenhof.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,21 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "I - L'incident du Marronnier"
-            }
-          },
-          {
-            "id": "fdf8d4972e7a59fc",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "title": "II - Route de Felsenhof"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -172,10 +161,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fdf8d4972e7a59fc",
+  "active": "4f2e89843baa22c8",
   "lastOpenFiles": [
-    "Invincible/Scénario 0 Mini Campagne/I - L'incident du Marronnier.md",
+    "Invincible/Où ils en sont.md",
     "Invincible/Scénario 0 Mini Campagne/II - Route de Felsenhof.md",
+    "Invincible/Scénario 0 Mini Campagne/I - L'incident du Marronnier.md",
     "Invincible/PDF/hd_04_invincible_web_v1.pdf",
     "Annexe/Bestiaire/Niska.md",
     "Annexe/Bestiaire/Borek.md",

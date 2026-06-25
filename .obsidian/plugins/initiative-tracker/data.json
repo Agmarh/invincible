@@ -135,7 +135,7 @@
     "creatures": [
       {
         "name": "Haisse Per Luette",
-        "initiative": 0,
+        "initiative": 9,
         "static": false,
         "modifier": 2,
         "hp": 10,
@@ -155,7 +155,7 @@
       },
       {
         "name": "Lykea",
-        "initiative": 0,
+        "initiative": 15,
         "static": false,
         "modifier": 0,
         "hp": 10,
@@ -169,13 +169,13 @@
         "enabled": true,
         "level": 1,
         "player": true,
-        "active": false,
+        "active": true,
         "hidden": false,
         "friendly": false
       },
       {
         "name": "Krell",
-        "initiative": 18,
+        "initiative": 6,
         "static": false,
         "modifier": 0,
         "hp": 13,
@@ -184,9 +184,11 @@
         "ac": 12,
         "currentAC": 12,
         "id": "ID_bae85babea09",
-        "currentHP": 13,
+        "currentHP": 0,
         "tempHP": 0,
-        "status": [],
+        "status": [
+          "Unconscious"
+        ],
         "enabled": true,
         "active": false,
         "hidden": false,
@@ -195,7 +197,7 @@
       },
       {
         "name": "Borek",
-        "initiative": 18,
+        "initiative": 6,
         "static": false,
         "modifier": 0,
         "hp": 11,
@@ -204,9 +206,11 @@
         "ac": 12,
         "currentAC": 12,
         "id": "ID_38eb1869ea89",
-        "currentHP": 11,
+        "currentHP": 0,
         "tempHP": 0,
-        "status": [],
+        "status": [
+          "Unconscious"
+        ],
         "enabled": true,
         "active": false,
         "hidden": false,
@@ -215,7 +219,7 @@
       },
       {
         "name": "Niska",
-        "initiative": 3,
+        "initiative": 18,
         "static": false,
         "modifier": 0,
         "hp": 9,
@@ -224,9 +228,11 @@
         "ac": 12,
         "currentAC": 12,
         "id": "ID_09eb794a3bcb",
-        "currentHP": 9,
+        "currentHP": 0,
         "tempHP": 0,
-        "status": [],
+        "status": [
+          "Unconscious"
+        ],
         "enabled": true,
         "active": false,
         "hidden": false,
@@ -235,7 +241,7 @@
       },
       {
         "name": "Samaëlle Vaël'Rhys",
-        "initiative": 0,
+        "initiative": 3,
         "static": false,
         "modifier": 1,
         "hp": 14,
@@ -249,13 +255,14 @@
         "enabled": true,
         "level": 1,
         "player": true,
+        "active": false,
         "hidden": false,
         "friendly": false
       }
     ],
-    "state": false,
+    "state": true,
     "name": "Route de Felsenhof",
-    "round": 1,
+    "round": 4,
     "logFile": "",
     "rollHP": false
   },
