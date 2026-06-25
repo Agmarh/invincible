@@ -1,8 +1,0 @@
-# Ignorer les fichiers de configuration de l'interface (sources majeures de conflits)
-.obsidian/workspace.json
-.obsidian/workspace-mobile.json
-
-# Ignorer les fichiers temporaires du système
-.DS_Store
-Thumbs.db
-/.obsidian/workspace-PCPT-Guillaume-2.json
