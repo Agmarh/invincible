@@ -38,8 +38,9 @@ L'arbre tombé est un **piège**. Trois brigands attendent :
 **Si un brigand tente de se rendre ou si Krell, blessé, supplie**, demander à la joueuse un **jet de sauvegarde de Sagesse DD 12** pour s'arrêter. En cas d'échec, elle l'achève d'un coup. C'est un premier signe de la profondeur du perso, ne pas le sanctionner mais ne pas non plus le passer sous silence. 
 ## Le butin
 Sur les corps ou dans leur sac :
-- **L'insigne de Felsenhof**, du sang séché dessus — c'est l'insigne d'Anselm. **Confirmation que ces brigands sont ceux qui l'ont attaqué deux jours plus tôt.**
-- Une **bourse** : 18 po, 32 pa, 14 pc.  
+- **L'insigne de Felsenhof**, du sang séché dessus — c'est l'insigne d'Anselm. **Confirmation que ces brigands sont ceux qui l'ont attaqué deux jours plus tôt**
+- Une **bourse** : 18 po, 32 pa, 14 pc
+- Une potion de soin mineur
 
 # Le col
  > <font style="color:yellow">Une heure après l'embuscade, vous arrivez au sommet du col. Le vent change. Il devient plus sec, plus tranchant. La forêt d'Eiren s'arrête net derrière vous — devant, les arbres sont plus rares, plus hauts. Le ciel se dégage et vous voyez, en bas, la vallée tharséenne : des terres ouvertes, des champs, et à deux heures de marche, le clocher de Mascombe.</font>

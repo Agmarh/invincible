@@ -34,7 +34,7 @@ treasure:
     desc: "L'insigne d'Anselm Marbach, taché de sang séché. Confirme que ces brigands sont ceux qui l'ont attaqué."
   - name: Bourse
     desc: "18 po, 32 pa, 14 pc."
-  - name: Fiole vide
-    desc: "Étiquetée « onguent de soin ». Pas d'effet mécanique."
+  - name: Potion de soin mineur
+    desc: "Une potion de soin 2d4+2."
 ```
 
