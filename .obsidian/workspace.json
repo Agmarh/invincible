@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3a9557fd2fedd109",
+        "id": "e1a08afdd96c5c30",
         "type": "tabs",
         "children": [
           {
-            "id": "60f093364d88b378",
+            "id": "808d8bd227e97f3b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,8 +30,19 @@
               "icon": "lucide-file",
               "title": "I - L'incident du Marronnier"
             }
+          },
+          {
+            "id": "fdf8d4972e7a59fc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nouvel onglet"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,10 +134,26 @@
             }
           }
         ]
+      },
+      {
+        "id": "9df297e6ba9c49df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cce7352b565f96a1",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {},
+              "icon": "initiative-tracker-creature-view",
+              "title": "Combatant"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 406.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -145,13 +172,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "60f093364d88b378",
+  "active": "fdf8d4972e7a59fc",
   "lastOpenFiles": [
+    "Invincible/Scénario 0 Mini Campagne/I - L'incident du Marronnier.md",
+    "Invincible/Scénario 0 Mini Campagne/II - Route de Felsenhof.md",
+    "Invincible/PDF/hd_04_invincible_web_v1.pdf",
     "Annexe/Bestiaire/Niska.md",
     "Annexe/Bestiaire/Borek.md",
     "Annexe/Bestiaire/Krell.md",
-    "Invincible/Scénario 0 Mini Campagne/II - Route de Felsenhof.md",
-    "Invincible/Scénario 0 Mini Campagne/I - L'incident du Marronnier.md",
     "Annexe/Bestiaire/Worg.md",
     "Annexe/Bestiaire/Vouivre.md",
     "Annexe/Bestiaire/Villageois aguérris.md",
@@ -171,7 +199,6 @@
     "Annexe/Bestiaire/Serpent constricteur.md",
     "Annexe/Bestiaire/Sergents de Lycanis.md",
     "Annexe/Bestiaire/Selioth.md",
-    "Annexe/Bestiaire/Sanglier géant.md",
-    "Annexe/Bestiaire/Ruinard.md"
+    "Annexe/Bestiaire/Sanglier géant.md"
   ]
 }
