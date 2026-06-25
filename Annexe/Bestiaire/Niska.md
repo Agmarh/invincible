@@ -27,4 +27,7 @@ traits:
     desc: "Tire à l'arc court depuis les fourrés. Préfère rester cachée tant que possible."
   - name: Fuite
     desc: "Si découverte, tente de fuir vers le ravin. Test de Moral si Krell ou Borek tombent."
+treasure:
+  - name: Bourde
+    desc: "3 po"
 ```

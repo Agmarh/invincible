@@ -33,8 +33,10 @@ treasure:
   - name: Insigne de Felsenhof
     desc: "L'insigne d'Anselm Marbach, taché de sang séché. Confirme que ces brigands sont ceux qui l'ont attaqué."
   - name: Bourse
-    desc: "18 po, 32 pa, 14 pc."
+    desc: "12 po, 5 pa."
   - name: Potion de soin mineur
     desc: "Une potion de soin 2d4+2."
+  - name: Une bague d'argent
+    desc: "Valeur 5po."
 ```
 

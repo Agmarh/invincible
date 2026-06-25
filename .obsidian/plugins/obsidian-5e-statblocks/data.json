@@ -334,6 +334,12 @@
             "desc": "Fuit si Krell ou Niska tombent."
           }
         ],
+        "treasure": [
+          {
+            "name": "Bourse",
+            "desc": "4 po, 8 pa"
+          }
+        ],
         "source": "Homebrew",
         "layout": "Basic 5e Layout"
       }
@@ -3039,11 +3045,15 @@
           },
           {
             "name": "Bourse",
-            "desc": "18 po, 32 pa, 14 pc."
+            "desc": "12 po, 5 pa."
           },
           {
             "name": "Potion de soin mineur",
             "desc": "Une potion de soin 2d4+2."
+          },
+          {
+            "name": "Une bague d'argent",
+            "desc": "Valeur 5po."
           }
         ],
         "source": "Homebrew",
@@ -3761,6 +3771,12 @@
           {
             "name": "Fuite",
             "desc": "Si découverte, tente de fuir vers le ravin. Test de Moral si Krell ou Borek tombent."
+          }
+        ],
+        "treasure": [
+          {
+            "name": "Bourde",
+            "desc": "3 po"
           }
         ],
         "source": "Homebrew",

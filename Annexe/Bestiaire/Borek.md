@@ -28,4 +28,7 @@ tactic:
     desc: "Combat sans subtilité, frappe à la masse sans manœuvre tactique."
   - name: Fuite
     desc: "Fuit si Krell ou Niska tombent."
+treasure:
+  - name: Bourse
+    desc: "4 po, 8 pa"
 ```

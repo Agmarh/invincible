@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Invincible/Scénario 0 Mini Campagne/II - Route de Felsenhof.md",
+                "file": "Annexe/Bestiaire/Niska.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "II - Route de Felsenhof"
+              "title": "Niska"
             }
           }
         ]
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Invincible/Scénario 0 Mini Campagne/II - Route de Felsenhof.md",
+                "file": "Annexe/Bestiaire/Niska.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour II - Route de Felsenhof"
+              "title": "Rétrolien pour Niska"
             }
           },
           {
@@ -155,12 +155,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Invincible/Scénario 0 Mini Campagne/II - Route de Felsenhof.md",
+                "file": "Annexe/Bestiaire/Niska.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de II - Route de Felsenhof"
+              "title": "Liens sortants de Niska"
             }
           },
           {
@@ -184,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Invincible/Scénario 0 Mini Campagne/II - Route de Felsenhof.md",
+                "file": "Annexe/Bestiaire/Niska.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de II - Route de Felsenhof"
+              "title": "Plan de Niska"
             }
           }
         ],
@@ -217,8 +217,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4b487dbf4bc9f5ad",
+  "active": "e51b8b0a8b752680",
   "lastOpenFiles": [
+    "Annexe/Bestiaire/Borek.md",
+    "Annexe/Bestiaire/Krell.md",
+    "Invincible/Scénario 0 Mini Campagne/II - Route de Felsenhof.md",
     "Invincible/Scénario 0 Mini Campagne/I - L'incident du Marronnier.md",
     "Annexe/Bestiaire/Worg.md",
     "Annexe/Bestiaire/Vouivre.md",
@@ -241,9 +244,6 @@
     "Annexe/Bestiaire/Selioth.md",
     "Annexe/Bestiaire/Sanglier géant.md",
     "Annexe/Bestiaire/Ruinard.md",
-    "Annexe/Bestiaire/Roturier.md",
-    "Annexe/Bestiaire/Quasit.md",
-    "Annexe/Bestiaire/Ours polaire.md",
-    "Annexe/Bestiaire/Ours noir.md"
+    "Annexe/Bestiaire/Roturier.md"
   ]
 }
