@@ -1,6 +1,40 @@
 {
-  "players": [],
-  "parties": [],
+  "players": [
+    {
+      "name": "Haisse Per Luette",
+      "level": 1,
+      "hp": 10,
+      "ac": "13",
+      "modifier": 2,
+      "player": true
+    },
+    {
+      "name": "Lykea",
+      "level": 1,
+      "hp": 10,
+      "ac": "15",
+      "modifier": 0,
+      "player": true
+    },
+    {
+      "name": "Amelie",
+      "level": 1,
+      "hp": 14,
+      "ac": "13",
+      "modifier": 1,
+      "player": true
+    }
+  ],
+  "parties": [
+    {
+      "name": "Invincible",
+      "players": [
+        "Haisse Per Luette",
+        "Lykea",
+        "Amelie"
+      ]
+    }
+  ],
   "defaultParty": null,
   "statuses": [
     {
