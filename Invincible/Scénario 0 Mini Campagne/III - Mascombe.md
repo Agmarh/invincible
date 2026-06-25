@@ -117,19 +117,3 @@ La traque commence dans la forêt, sur la piste laissée par les villageois auto
 ### Mini-jet — Insight 
 
 Si un PJ insiste pour comprendre pourquoi Huon préfère la traque immédiate (Perspicacité DD 15), il sent une **inquiétude** chez le maître chasseur. Le MJ peut suggérer : « Il a hâte de finir cette affaire. Trop hâte, peut-être. » C'est un indice subtil. 
-
-## Phase 6 — Transition vers la Bête Humaine
-
-### Option A retenue (enquête au village)
-
-  
-
-> *La nuit tombe sur Mascombe. Vous êtes attablés à l'Auberge du Loup Gris avec Lison, la fille du métayer. Elle vous a raconté ce qu'elle a vu au lavoir — la grande silhouette, l'ours debout. Elle vous a aussi dit, et elle hésitait à le faire, que **Bovert le meunier était là aussi**, et qu'il a vu plus de choses qu'elle. Mais Bovert refuse d'en parler. Demain, vous devrez le forcer à se confier.*
-
-  
-
-### Option B retenue (traque immédiate)
-
-  
-
-> *L'aube. Vous quittez Mascombe avec Huon et Artus, sac à l'épaule. Huon vous mène à la masure de Cadmar, au bord de la rivière. La porte est défoncée — les villageois ont déjà fouillé. À l'intérieur, du désordre, et… une odeur. Pas une odeur d'homme. Quelque chose entre l'ours et le sang. Huon s'accroupit sur le seuil. « C'est là. Il a fui par les bois. On y va. »*
