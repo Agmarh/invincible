@@ -1,5 +1,344 @@
 {
-  "monsters": [],
+  "monsters": [
+    [
+      "Âme-en-peine",
+      {
+        "image": "<STATBLOCK-WIKI-LINK>monstre.png<STATBLOCK-WIKI-LINK>",
+        "name": "Âme-en-peine",
+        "size": "M",
+        "type": "Mort-Vivant",
+        "subtype": null,
+        "alignment": "Neutre Mauvais",
+        "ac": 13,
+        "hp": 67,
+        "hit_dice": "9d8+27",
+        "speed": "0 m, vol 18 m (vol stationnaire)",
+        "stats": [
+          6,
+          16,
+          16,
+          12,
+          14,
+          15
+        ],
+        "damage_resistances": "d'acide, de feu, de foudre, de froid, de tonnerre et contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent",
+        "damage_immunities": "nécrotiques et de poison",
+        "condition_immunities": "<STATBLOCK-WIKI-LINK>A terre<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Charmé<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Empoigné<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Empoisonné<STATBLOCK-WIKI-LINK>, Epuisé, <STATBLOCK-WIKI-LINK>Entravé<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Paralysé<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Pétrifié<STATBLOCK-WIKI-LINK>",
+        "senses": "vision dans le noir 18 m, Perception passive 12",
+        "languages": "celles qu'elle connaissait de son vivant",
+        "cr": 5,
+        "traits": [
+          {
+            "name": "Déplacement intangible.",
+            "desc": "L'âme-en-peine peut traverser créatures et objets en les considérant comme un terrain difficile. Elle subit 5 (1d10) dégâts de force si elle termine son tour à l'intérieur d'un objet."
+          },
+          {
+            "name": "Sensibilité à la lumière du soleil.",
+            "desc": "L'âme-en-peine subit un désavantage lors des jets d'attaque et des tests de Sagesse (Perception) basés sur la vue lorsqu'elle est exposée à la lumière du soleil."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Absorption de vie.",
+            "desc": "Attaque d'arme au corps à corps : +6 pour toucher, allonge 1,50 m, une créature. Touché : 21 (4d8+3) dégâts nécrotiques. La cible doit réussir un jet de sauvegarde de Constitution DD 14 pour ne pas voir son total maximum de points de vie réduit d'un montant égal aux dégâts subis. Cette réduction persiste jusqu'au moment où la créature termine une période de repos long. La cible meurt si cet effet réduit à 0 son total maximum de points de vie."
+          },
+          {
+            "name": "Création de spectre.",
+            "desc": "L'âme-en-peine cible un humanoïde mort depuis moins d'une minute d'une mort violente et situé à 3 mètres ou moins d'elle. L'esprit de la cible s'élève alors sous forme de spectre dans l'emplacement occupé par son cadavre ou dans l'emplacement inoccupé le plus proche. Le spectre est contrôlé par l'âme-en-peine qui ne peut contrôler de la sorte plus de sept spectres en même temps."
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "Ankheg",
+      {
+        "name": "Ankheg",
+        "size": "G",
+        "type": "Créature monstrueuse",
+        "subtype": null,
+        "ac": "14 (armure naturelle), 11 quand il est à terre",
+        "hp": 39,
+        "hit_dice": "6d10+6",
+        "speed": "9m, fouissement 3m",
+        "stats": [
+          17,
+          11,
+          13,
+          1,
+          13,
+          6
+        ],
+        "senses": "perception des vibrations 18 m, vision dans le noir 18 m, Perception passive 11",
+        "cr": 2,
+        "actions": [
+          {
+            "name": "Morsure",
+            "desc": "Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible. Touché : 10 (2d6+3) dégâts tranchants plus 3 (1d6) dégâts d'acide. Si la cible est une créature de taille G ou plus petite, elle est <STATBLOCK-WIKI-LINK>Empoigné<STATBLOCK-WIKI-LINK> (DD 13 pour se libérer). Jusqu'à la fin de cette empoignade, l'ankheg peut mordre uniquement la créature empoignée et il obtient un avantage lors des jets d'attaque effectués contre elle."
+          },
+          {
+            "name": "Aspersion acide (Recharge 6)",
+            "desc": "L'ankheg crache de l'acide sur une ligne de 9 mètres de long et de 1,50 mètre de large, à condition qu'il n'empoigne aucune créature. Les créatures sur cette ligne doivent chacune effectuer un jet de sauvegarde de Dextérité DD 13 ; elles subissent 10 (3d6) dégâts d'acide en cas de jet de sauvegarde raté ou la moitié de ces dégâts seulement en cas de réussite."
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "Anselm Marbach (blessé)",
+      {
+        "name": "Anselm Marbach (blessé)",
+        "size": "M",
+        "type": "Humanoïde",
+        "subtype": "humain",
+        "alignment": "Loyal Neutre",
+        "ac": 16,
+        "hp": 6,
+        "hit_dice": "2d8+2",
+        "speed": "9 m",
+        "stats": [
+          13,
+          12,
+          12,
+          10,
+          11,
+          10
+        ],
+        "skillsaves": [
+          {
+            "Perception": 2
+          }
+        ],
+        "senses": "Perception passive 12",
+        "languages": "commun",
+        "cr": "1/8",
+        "actions": [
+          {
+            "name": "Lance",
+            "desc": "Attaque d'arme au corps-à-corps ou à distance : +3 pour toucher, allonge 1,50 m ou portée 6/18 m, une cible. Touché : 4 (1d6+1) dégâts perforants, ou 5 (1d8+1) dégâts perforants si maniée à deux mains pour attaquer au corps-à-corps."
+          },
+          {
+            "name": "Épée longue",
+            "desc": "Attaque d'arme au corps-à-corps : +3 pour toucher, allonge 1,50 m, une cible. Touché : 5 (1d8+1) dégâts tranchants."
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "Artus (dogue noir)",
+      {
+        "name": "Artus (dogue noir)",
+        "size": "M",
+        "type": "Bête",
+        "subtype": "chien",
+        "alignment": "Sans alignement",
+        "ac": 13,
+        "hp": 11,
+        "hit_dice": "2d8+2",
+        "speed": "12 m",
+        "stats": [
+          12,
+          15,
+          12,
+          3,
+          12,
+          6
+        ],
+        "skillsaves": [
+          {
+            "Perception": 3
+          },
+          {
+            "Discrétion": 4
+          }
+        ],
+        "senses": "Perception passive 13",
+        "languages": [
+          null
+        ],
+        "cr": "1/4",
+        "actions": [
+          {
+            "name": "Morsure",
+            "desc": "Attaque d'arme au corps-à-corps : +4 pour toucher, allonge 1,50 m, une cible. Touché : 7 (2d4+2) dégâts perforants. Si la cible est de taille M ou inférieure, elle doit réussir un jet de sauvegarde de Force DD 11 ou être à terre."
+          }
+        ],
+        "traits": [
+          {
+            "name": "Tactique de meute",
+            "desc": "Artus a l'avantage aux jets d'attaque contre une créature si au moins un allié d'Artus se trouve à 1,50 m de la créature et que l'allié n'est pas neutralisé."
+          },
+          {
+            "name": "Odorat et ouïe aiguisés",
+            "desc": "Artus a l'avantage aux tests de Sagesse (Perception) basés sur l'odorat ou l'ouïe."
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "Baphit",
+      {
+        "image": "<STATBLOCK-WIKI-LINK>monstre.png<STATBLOCK-WIKI-LINK>",
+        "name": "Baphit",
+        "size": "M",
+        "type": "Humanoïde",
+        "subtype": null,
+        "alignment": "Loyal Neutre",
+        "ac": 10,
+        "hp": 60,
+        "hit_dice": "8d8+24",
+        "speed": "9m",
+        "stats": [
+          19,
+          10,
+          16,
+          5,
+          7,
+          7
+        ],
+        "senses": "vision dans le noir 18 m, Perception passive 8",
+        "languages": "commun",
+        "cr": 3,
+        "traits": [
+          {
+            "name": "Régénération",
+            "desc": "Récupère 5 PV au début de son tour s'il lui reste au moins 1 PV."
+          },
+          {
+            "name": "Rage",
+            "desc": "Si Dominia est blessée et en danger, entre en rage. Obtient un avantage aux tests de Force et Sauvegarde de Force. Quand il utilise une arme de CAC, il gagne +3 au jet de dégâts. Il devient résistant aux dégâts contondants, perforants et tranchants."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Attaques multiples.",
+            "desc": "Effectue deux attaques à mains nues."
+          },
+          {
+            "name": "Mains nues",
+            "desc": "Attaque d'arme au corps à corps : +6 pour toucher, allonge 1,50 m, une cible. Touché : 6 (1d4+4) dégâts contondants."
+          },
+          {
+            "name": "Javeline",
+            "desc": "Attaque d'arme au corps à corps ou à distance : +6 pour toucher, allonge 1,50 m ou portée 9/36 m, une cible. Touché : 7 (1d6+4) dégâts perforants."
+          }
+        ],
+        "tactic": [],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "Blaireau",
+      {
+        "image": "<STATBLOCK-WIKI-LINK>monstre.png<STATBLOCK-WIKI-LINK>",
+        "name": "Blaireau",
+        "size": "TP",
+        "type": "Bête",
+        "subtype": null,
+        "alignment": "Non-alignée",
+        "ac": 10,
+        "hp": 3,
+        "hit_dice": "1d4+1",
+        "speed": "6m, fouissement 1,5m",
+        "stats": [
+          4,
+          11,
+          12,
+          2,
+          12,
+          5
+        ],
+        "senses": "Vision dans le noir 9m, Perception passive 11",
+        "languages": [
+          null
+        ],
+        "cr": 0,
+        "traits": [
+          {
+            "name": "Odorat aiguisé",
+            "desc": "Le blaireau est avantagé lors des tests de Sagesse (Perception) basés sur l'odorat."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Morsure",
+            "desc": "Attaque d'arme au corps à corps : 2 (1d20+2) pour toucher, allonge 1,50 m, une cible. Touché : 1 dégât perforant."
+          }
+        ],
+        "tactic": [
+          {
+            "name": null,
+            "desc": "Si un PJ tue le blaireau de Gwendlynn, cette dernière devient alors un ennemi mortel. Elle le piste dans la forêt et essaye de tuer le coupable dès que l'occasion se présente. Par exemple lors du combat contre les hommes-lézards (voir plus loin)."
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "Borek",
+      {
+        "name": "Borek",
+        "size": "M",
+        "type": "Humanoïde",
+        "subtype": "humain",
+        "alignment": "Chaotique Neutre",
+        "ac": 12,
+        "hp": 11,
+        "hit_dice": "2d8+2",
+        "speed": "9 m",
+        "stats": [
+          12,
+          12,
+          12,
+          8,
+          10,
+          8
+        ],
+        "skillsaves": [
+          {
+            "Athlétisme": 3
+          }
+        ],
+        "senses": "Perception passive 10",
+        "languages": "commun",
+        "cr": "1/4",
+        "actions": [
+          {
+            "name": "Masse",
+            "desc": "Attaque d'arme au corps-à-corps : +3 pour toucher, allonge 1,50 m, une cible. Touché : 4 (1d6+1) dégâts contondants."
+          },
+          {
+            "name": "Dague",
+            "desc": "Attaque d'arme au corps-à-corps ou à distance : +3 pour toucher, allonge 1,50 m ou portée 6/18 m, une cible. Touché : 3 (1d4+1) dégâts perforants."
+          }
+        ],
+        "tactic": [
+          {
+            "name": "Charge",
+            "desc": "Charge le PJ le plus visiblement caster (druide ou barde) dès le déclenchement de l'embuscade."
+          },
+          {
+            "name": "Combat",
+            "desc": "Combat sans subtilité, frappe à la masse sans manœuvre tactique."
+          },
+          {
+            "name": "Fuite",
+            "desc": "Fuit si Krell ou Niska tombent."
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ]
+  ],
   "defaultLayouts": {
     "basic-5e-layout": {
       "blocks": [

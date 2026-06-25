@@ -11,10 +11,24 @@
             "id": "4afdbed15c6a9f98",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Annexe/Bestiaire/Borek.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "title": "Borek"
             }
           }
         ]
@@ -115,69 +129,8 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "a75db15cb6bbabf0",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Rétroliens"
-            }
-          },
-          {
-            "id": "c0aaafc7bb258bec",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Liens sortants"
-            }
-          },
-          {
-            "id": "94e0efc0ebab3dde",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Mots-clés"
-            }
-          },
-          {
-            "id": "f7ad93da0f27e8e8",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Plan"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -200,6 +153,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4b487dbf4bc9f5ad",
-  "lastOpenFiles": []
+  "active": "4afdbed15c6a9f98",
+  "lastOpenFiles": [
+    "Annexe/Bestiaire/Blaireau.md",
+    "Annexe/Bestiaire/Baphit.md",
+    "Annexe/Bestiaire/Artus.md",
+    "Annexe/Bestiaire/Anselm Marbach.md",
+    "Annexe/Bestiaire/Ankheg.md",
+    "Annexe/Bestiaire/Âme-en-peine.md"
+  ]
 }
