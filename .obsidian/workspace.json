@@ -176,7 +176,8 @@
               "title": "Plan"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -199,6 +200,6 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3a55da965d453abc",
+  "active": "4b487dbf4bc9f5ad",
   "lastOpenFiles": []
 }

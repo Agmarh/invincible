@@ -1,27 +1,6 @@
 {
   "players": [],
-  "parties": [
-    {
-      "name": "Londres",
-      "players": [
-        "Camille",
-        "Pauline",
-        "Dori",
-        "Delphine",
-        "Maria",
-        "Amy"
-      ]
-    },
-    {
-      "name": "Oblivion",
-      "players": [
-        "Iseult",
-        "Rivalt",
-        "N'Djinn",
-        "Kogarm"
-      ]
-    }
-  ],
+  "parties": [],
   "defaultParty": null,
   "statuses": [
     {
