@@ -6,7 +6,6 @@
 
 Les PJ peuvent se promener librement. Les PNJ disponibles ce matin :
 - **Liaze**, femme de Thibault le forgeron — sort sur le seuil de la forge, regarde les étrangers.
-- **Hansine**, femme de Berel l'apiculteur — vend des bougies au marché vide. Méfiante, parlera peu.
 - **Mère Berthold** à l'Auberge du Loup Gris — leur sert un repas chaud (gratuit, *« vous êtes ici par Mamert, c'est cadeau »*).
 - **Lison**, fille du métayer Trémolet — au lavoir avec sa mère, encore en pleurs.
 - **Ursanne**, la sage-femme — dans son jardin d'herbes à la sortie du village. Le matin, elle écorce de la sauge.
@@ -47,14 +46,14 @@ Si les joueurs insistent pour continuer l'enquête, Huon hausse les épaules et 
 **Pourquoi Bovert ment** : il a vu **une silhouette humaine** se cacher dans les buissons un instant avant que la « bête » ne surgisse. Il a vu **Huon** poser un piège (un déguisement, ou une mise en scène). Il n'a pas tout compris, mais il sait que Huon est mêlé. Et Huon a croisé son regard. Bovert pense que s'il parle, il sera le prochain.  
 
 **Comment lui faire dire la vérité :**
-- Persuasion DD 14 (DD réduit à 13 pour 3 joueurs) en mode douceur — la druide ou le barde sont avantagés.
-- Intimidation DD 13 — la barbare est avantagée. Mais menacer Bovert chez lui, c'est compromettre la confiance des villageois.
+- <font style="color:green">Persuasion DD 14</font> (DD réduit à 13 pour 3 joueurs) en mode douceur — la druide ou le barde sont avantagés.
+- <font style="color:green">Intimidation DD 13</font> — la barbare est avantagée. Mais menacer Bovert chez lui, c'est compromettre la confiance des villageois.
 - **Avec un bon RP** sans jet : si les PJ lui promettent leur protection et lui parlent de Huon de manière détachée, il peut craquer.  
 
 **Si Bovert craque, il dit** :
-- "J'ai vu Huon dans les buissons ce soir-là. Avant que la bête arrive. Il s'affairait, accroupi. Il avait l'air de poser un piège — pour la bête, vous comprenez ? On en parle depuis deux ans. Tout le monde sait qu'elle reviendra. J'ai trouvé ça normal sur le moment."
-- "Et puis la bête est arrivée. Mais elle courait pas comme un vrai ours, je vous jure. Elle courait droit, et elle portait des bottes. Des bottes de cuir. Alors j'me suis dit : c'est Cadmar qui s'est pas transformé. Comme un homme avec une tête de bête, c'est ça. Et que Huon était là justement pour le chasser."
-- "Mais tout est allé si vite, Huon a pas eu le temps, quand tout a été fini, il a tourné la tête vers ma fenêtre. Il m'a regardé. Longtemps. Ca m'a foutu les jetons."
+- <font style="color:orange">"J'ai vu Huon dans les buissons ce soir-là. Avant que la bête arrive. Il s'affairait, accroupi. Il avait l'air de poser un piège — pour la bête, vous comprenez ? On en parle depuis deux ans. Tout le monde sait qu'elle reviendra. J'ai trouvé ça normal sur le moment."</font>
+- <font style="color:orange">"Et puis la bête est arrivée. Mais elle courait pas comme un vrai ours, je vous jure. Elle courait droit, et elle portait des bottes. Des bottes de cuir. Alors j'me suis dit : c'est Cadmar qui s'est pas transformé. Comme un homme avec une tête de bête, c'est ça. Et que Huon était là justement pour le chasser."</font>
+- <font style="color:orange">"Mais tout est allé si vite, Huon a pas eu le temps, quand tout a été fini, il a tourné la tête vers ma fenêtre. Il m'a regardé. Longtemps. Ca m'a foutu les jetons."</font>
 
 ### La métairie Cassagnol — la famille d'Oriabel
 
@@ -62,7 +61,7 @@ Si les joueurs insistent pour continuer l'enquête, Huon hausse les épaules et 
 
 **Si les PJ demandent à voir le corps** : Amans refuse violemment d'abord, puis cède si la druide ou le barde insiste avec respect. Perspicacité DD 12 pour comprendre qu'il a peur que les PJ y voient quelque chose qu'il préfère ignorer.  
 
-**L'examen du corps**, Médecine DD 14 ou Nature DD 12 révèle :
+**L'examen du corps**, <font style="color:green">Médecine DD 14 ou Nature DD 12</font> révèle :
   - Lacérations faites par des griffes d'ours, oui — mais **superficielles**, pas mortelles.
   - **La vraie cause de la mort est une strangulation** — marques de cordes ou de mains autour du cou.
   - **Plusieurs coups de couteau** à l'abdomen, faits *après* la mort, peut-être pour masquer.
@@ -75,21 +74,21 @@ Si les joueurs insistent pour continuer l'enquête, Huon hausse les épaules et 
 **Ursanne**, vieille femme avisée, herboriste expérimentée, vit dans une cabane fleurie aux abords du village. Elle est la **première à dire ouvertement que Cadmar n'est pas un garou**.  
 
 **Ce qu'elle dit :**
-- "Cadmar, je l'ai soigné après la scierie. Sa blessure était infectée. S'il avait reçu le mal des garous, ça se serait vu."
-- "La bête qui a tué Gobère il y a deux ans était un vrai ours, gros, sauvage. Pas un homme. Cette histoire de garou, c'est les villageois qui l'ont inventée pour donner un sens à l'horreur."
-- "Pour la mort d'Oriabel — je ne sais pas. Mais je doute que ce soit Cadmar. Il l'aimait. Il était brisé qu'elle le rejette, mais il l'aimait."  
+- <font style="color:orange">"Cadmar, je l'ai soigné après la scierie. Sa blessure était infectée. S'il avait reçu le mal des garous, ça se serait vu."</font>
+- <font style="color:orange">"La bête qui a tué Gobère il y a deux ans était un vrai ours, gros, sauvage. Pas un homme. Cette histoire de garou, c'est les villageois qui l'ont inventée pour donner un sens à l'horreur."</font>
+- <font style="color:orange">"Pour la mort d'Oriabel — je ne sais pas. Mais je doute que ce soit Cadmar. Il l'aimait. Il était brisé qu'elle le rejette, mais il l'aimait."</font>
 
 **Si les PJ insistent** :
-- "Vous devriez parler à Baudoin le Capitaine. L'ermite. Il sait des choses sur les bois que personne d'autre ne sait. Et il connaissait Cadmar."  
+- <font style="color:orange">"Vous devriez parler à Baudoin le Capitaine. L'ermite. Il sait des choses sur les bois que personne d'autre ne sait. Et il connaissait Cadmar."</font>
 
 **Note arc druide** : Ursanne reconnaît instinctivement la druide *« vous êtes du peuple ancien, vous »*. Elle ne dit rien aux autres mais offre à la druide un sachet d'herbes médicinales (potion de soin équivalente à un sort *soin des blessures* niveau 1, à utiliser une fois). Petit cadeau.  
 
 ### Arc Barbare : la forge de Thibault
 
-> Tu pousses la porte de la forge. La chaleur te frappe avant le bruit. **Thibault**, gros gaillard humain au visage tanné, te jette un regard étonné — il ne s'attendait pas à une femme. Il pose son marteau, s'essuie le front.
-> "Vous êtes une des étrangers de l'intendant ? Liaze m'a parlé de vous. Asseyez-vous, si vous voulez. J'ai pas trop le temps pour bavarder — j'ai du retard sur une commande, et avec la battue ce matin…"
-> Tu regardes l'enclume. Le fer rougeoyant. Le marteau qu'il a posé près du foyer. Sans réfléchir, tu prends le marteau. Tu le soupèses. Tu le reposes. Thibault te regarde maintenant.
-> "Vous savez tenir un marteau."
+> <font style="color:yellow">Tu pousses la porte de la forge. La chaleur te frappe avant le bruit. Thibault, gros gaillard humain au visage tanné, te jette un regard étonné — il ne s'attendait pas à une femme. Il pose son marteau, s'essuie le front.</font>
+> <font style="color:orange">"Vous êtes une des étrangers de l'intendant ? Liaze m'a parlé de vous. Asseyez-vous, si vous voulez. J'ai pas trop le temps pour bavarder — j'ai du retard sur une commande, et avec la battue ce matin…"</font>
+> <font style="color:yellow">Tu regardes l'enclume. Le fer rougeoyant. Le marteau qu'il a posé près du foyer. Sans réfléchir, tu prends le marteau. Tu le soupèses. Tu le reposes. Thibault te regarde maintenant.</font>
+> <font style="color:orange">"Vous savez tenir un marteau."</font>
 
 Thibault propose à la PJ de **l'aider sur sa commande** — un cercle de fer pour une roue de chariot. Elle accepte (ou pas). Si elle accepte, **bribes de souvenirs à distiller à la joueuse en aparté** :
 - Le bruit du marteau sur l'enclume = le bruit du vieux Tarn au matin.
@@ -98,11 +97,11 @@ Thibault propose à la PJ de **l'aider sur sa commande** — un cercle de fer po
 
 **Échange court** : 
 
-> Thibault : "Vous avez été apprentie quelque part ?"
-> La PJ : (au choix de la joueuse — silence, mensonge, ou vérité courte)
-> Thibault (si elle reconnaît) : "Et votre maître, où est-il maintenant ?"
-> La PJ : "Il est mort."
-> Thibault : "Désolé. Il vous a légué un beau geste."  
+> <font style="color:orange">Thibault : "Vous avez été apprentie quelque part ?"</font>
+> <font style="color:orange">La PJ : (au choix de la joueuse — silence, mensonge, ou vérité courte)</font>
+> <font style="color:orange">Thibault (si elle reconnaît) : "Et votre maître, où est-il maintenant ?"</font>
+> <font style="color:orange">La PJ : "Il est mort."</font>
+> <font style="color:orange">Thibault : "Désolé. Il vous a légué un beau geste." </font>
 
 ### Ce que ça donne mécaniquement
 

@@ -11,10 +11,10 @@ Deux gardes sont en poste à l'entrée de la ville :
 - Volker, un milicien blessé, le bras gauche en écharpe. Il s'est blessé il y a quelques jours pendant une battue, en trébuchant sur une racine. Il est visiblement très frustré de ne pas pouvoir participer aux recherches. Peut également conduire les PJs chez Mamert.
 
 Ce qu'ils peuvent apprendre : 
-- "Vous comprenez, c'est pas la première fois qu'on voit ça. Il y a deux ans, un ours a tué Gobère à la scierie. Aujourd'hui Oriabel. Les gens sont à cran."
-- Cadmar a disparu il y a une semaine. Tout le monde le tient pour la « bête » — tout le monde pense qu'il est devenu un **ours-garou** après l'incident.
-- Les hommes le traquent dans l'Altwald depuis l'aube, ça fait des jours qu'ils cherchent.
-- L'intendant Mamert von Hessgau attend des aventuriers au **château de Felsenhof**, à un kilomètre au nord. Anselm aurait dû arriver hier — il n'est jamais venu  
+- <font style="color:orange">"Vous comprenez, c'est pas la première fois qu'on voit ça. Il y a deux ans, un ours a tué Gobère à la scierie. Aujourd'hui Oriabel. Les gens sont à cran."</font>
+- <font style="color:orange">Cadmar a disparu il y a une semaine. Tout le monde le tient pour la « bête » — tout le monde pense qu'il est devenu un **ours-garou** après l'incident.</Font>
+- <font style="color:orange">Les hommes le traquent dans l'Altwald depuis l'aube, ça fait des jours qu'ils cherchent.</font>
+- <font style="color:orange">L'intendant Mamert von Hessgau attend des aventuriers au **château de Felsenhof**, à un kilomètre au nord. Anselm aurait dû arriver hier — il n'est jamais venu  </font>
 
 **Si on lui dit qu'Anselm a été attaqué et qu'il est à Azul :** elle blêmit. Elle leur conseille de monter au château immédiatement, l'intendant doit savoir.
 
@@ -24,7 +24,7 @@ Ce qu'ils peuvent apprendre :
 **Liaze Forgeronne**, humaine, ~35 ans, Neutre Bonne. Sèche, directe, méfiante des étrangers comme tout Tharséen, mais lucide. Sa forge est fermée — Thibault est parti à la battue.  
 
 Ce qu'elle peut leur apprendre : 
-- Avant d'être défiguré, Cadmar était fiancé à Oriabel. Elle l'avait repoussé après l'accident à la scierie. Récemment, elle avait été promise au marchand Tancred.
+- <font style="color:orange">Avant d'être défiguré, Cadmar était fiancé à Oriabel. Elle l'avait repoussé après l'accident à la scierie. Récemment, elle avait été promise au marchand Tancred.</font>
 ## Le village en émoi
 
 > <font style="color:yellow">Sur la place, près du lavoir, vous croisez Lison, la fille d'un paysan — c'est elle qui a vu Oriabel se faire enlever au crépuscule. Elle a 16 ans, elle pleure encore. </font>
