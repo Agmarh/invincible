@@ -52,72 +52,37 @@ Si les joueurs insistent pour continuer l'enquête, Huon hausse les épaules et 
 - **Avec un bon RP** sans jet : si les PJ lui promettent leur protection et lui parlent de Huon de manière détachée, il peut craquer.  
 
 **Si Bovert craque, il dit** :
-- "J'ai vu Huon le Dogue rôder près du bois ce soir-là. Avant. Avant que la bête n'arrive. Il avait l'air d'attendre."
-- "Et après, la bête… elle a couru bizarrement. Pas comme un vrai ours. Et elle portait des bottes. Des bottes de cuir. Vous comprenez ? Un ours ne porte pas de bottes."
-
-**C'est l'indice clé** qui désigne Huon comme tueur — *l'ours-garou avait des bottes humaines*. Cadmar transformé ne porterait pas de bottes ; Huon en mise en scène, oui.
+- "J'ai vu Huon dans les buissons ce soir-là. Avant que la bête arrive. Il s'affairait, accroupi. Il avait l'air de poser un piège — pour la bête, vous comprenez ? On en parle depuis deux ans. Tout le monde sait qu'elle reviendra. J'ai trouvé ça normal sur le moment."
+- "Et puis la bête est arrivée. Mais elle courait pas comme un vrai ours, je vous jure. Elle courait droit, et elle portait des bottes. Des bottes de cuir. Alors j'me suis dit : c'est Cadmar qui s'est pas transformé. Comme un homme avec une tête de bête, c'est ça. Et que Huon était là justement pour le chasser."
+- "Mais tout est allé si vite, Huon a pas eu le temps, quand tout a été fini, il a tourné la tête vers ma fenêtre. Il m'a regardé. Longtemps. Ca m'a foutu les jetons."
 
 ### La métairie Cassagnol — la famille d'Oriabel
 
 **Amans Cassagnol** (le père) est rentré de la battue, brisé. **Sa femme** (la mère) prépare le corps d'Oriabel pour l'enterrement du lendemain. Le corps est dans la pièce du fond, sous un drap.  
 
-**Si les PJ demandent à voir le corps** : Amans refuse violemment d'abord, puis cède si la druide ou le barde insiste avec respect. Perspicacité DD 12 pour comprendre qu'il a peur que les PJ y voient quelque chose qu'il préfère ignorer.
+**Si les PJ demandent à voir le corps** : Amans refuse violemment d'abord, puis cède si la druide ou le barde insiste avec respect. Perspicacité DD 12 pour comprendre qu'il a peur que les PJ y voient quelque chose qu'il préfère ignorer.  
 
-  
-
-**L'examen du corps** *(important — canon)*
-
-- **Médecine DD 14** (DD réduit à 13 pour 3 joueurs) ou **Nature DD 12** révèle :
-
+**L'examen du corps**, Médecine DD 14 ou Nature DD 12 révèle :
   - Lacérations faites par des griffes d'ours, oui — mais **superficielles**, pas mortelles.
-
   - **La vraie cause de la mort est une strangulation** — marques de cordes ou de mains autour du cou.
-
   - **Plusieurs coups de couteau** à l'abdomen, faits *après* la mort, peut-être pour masquer.
+  - **Signes d'agression sexuelle**.  
 
-  - **Signes d'agression sexuelle**. *(À utiliser avec délicatesse en table, ou supprimer du tableau si tu préfères — les autres indices suffisent à boucler l'enquête.)*
-
-  
-
-**Conclusion** : l'ours-garou n'a pas tué Oriabel. Un humain l'a fait, et a maquillé la scène en attaque d'ours. **C'est le deuxième indice clé**.
-
-  
-
-**Note arc barbare** : si l'agression sexuelle est mentionnée, c'est un déclencheur de son Défaut. Elle peut sortir de la pièce sans un mot, ou rester immobile une seconde de trop. **Le joueur peut décider**. Si la table n'est pas à l'aise avec cet élément, le MJ peut le supprimer — les autres indices (strangulation + couteau + bottes de Bovert) suffisent.
-
-  
+**Conclusion** : l'ours-garou n'a pas tué Oriabel. Un humain l'a fait, et a maquillé la scène en attaque d'ours. **C'est le deuxième indice clé**.  
 
 ### La sage-femme Ursanne
 
-  
-
-**Ursanne**, vieille femme avisée, herboriste expérimentée, vit dans une cabane fleurie aux abords du village. Elle est la **première à dire ouvertement que Cadmar n'est pas un garou**.
-
-  
+**Ursanne**, vieille femme avisée, herboriste expérimentée, vit dans une cabane fleurie aux abords du village. Elle est la **première à dire ouvertement que Cadmar n'est pas un garou**.  
 
 **Ce qu'elle dit :**
-
-- *« Cadmar, je l'ai soigné après la scierie. Sa blessure était infectée mais pas magique. S'il avait reçu le mal des garous, ça se serait vu. »*
-
-- *« La bête qui a tué Gobère il y a deux ans était un vrai ours, gros, sauvage. Pas un homme. Cette histoire de garou, c'est les villageois qui l'ont inventée pour donner un sens à l'horreur. »*
-
-- *« Pour la mort d'Oriabel — je ne sais pas. Mais je doute que ce soit Cadmar. Il l'aimait. Il était brisé qu'elle le rejette, mais il l'aimait. »*
-
-  
+- "Cadmar, je l'ai soigné après la scierie. Sa blessure était infectée. S'il avait reçu le mal des garous, ça se serait vu."
+- "La bête qui a tué Gobère il y a deux ans était un vrai ours, gros, sauvage. Pas un homme. Cette histoire de garou, c'est les villageois qui l'ont inventée pour donner un sens à l'horreur."
+- "Pour la mort d'Oriabel — je ne sais pas. Mais je doute que ce soit Cadmar. Il l'aimait. Il était brisé qu'elle le rejette, mais il l'aimait."  
 
 **Si les PJ insistent** :
+- "Vous devriez parler à Baudoin le Capitaine. L'ermite. Il sait des choses sur les bois que personne d'autre ne sait. Et il connaissait Cadmar."  
 
-- *« Vous devriez parler à Baudoin le Capitaine. L'ermite. Il sait des choses sur les bois que personne d'autre ne sait. Et il connaissait Cadmar. »*
-
-  
-
-C'est elle qui **oriente vers Baudoin**, le PNJ-clé suivant.
-
-  
-
-**Note arc druide** : Ursanne reconnaît instinctivement la druide *« vous êtes du peuple ancien, vous »*. Elle ne dit rien aux autres mais offre à la druide un sachet d'herbes médicinales (potion de soin équivalente à un sort *soin des blessures* niveau 1, à utiliser une fois). Petit cadeau.
-
-  
+**Note arc druide** : Ursanne reconnaît instinctivement la druide *« vous êtes du peuple ancien, vous »*. Elle ne dit rien aux autres mais offre à la druide un sachet d'herbes médicinales (potion de soin équivalente à un sort *soin des blessures* niveau 1, à utiliser une fois). Petit cadeau.  
 
 ### Possible : la forge de Thibault
 
