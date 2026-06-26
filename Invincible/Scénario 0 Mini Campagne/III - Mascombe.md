@@ -1,7 +1,7 @@
 # Phase 1 — Descente vers Mascombe  
 
-> Vous quittez la Ferdhauss au lever du soleil, sacs sur le dos. Le col descend en lacets. À mi-chemin, vous voyez plusieurs colonnes de fumée monter du village. Pas un incendie — plusieurs petits feux, ceux des foyers domestiques. Mais quelque chose ne va pas : des cris portés par le vent. Pas des cris de joie.
-> Vous arrivez à Mascombe **par l'est** en fin de matinée. Le village s'étire au confluent de deux rivières : l'**Ourl**, à votre **gauche**, qui longe la lisière de l'**Altwald** — la grande forêt tharséenne au sud ; et la **Naïsch**, à votre **droite**, qui descend des montagnes au nord. Un petit pont de pierre traverse l'Ourl. Au cœur du village, on voit la forge, le moulin à eau, le four banal. Les rues sont vides — sauf pour quelques femmes et enfants qui regardent par les fenêtres. Tous les hommes sont en battue dans les bois.
+> <font style="color:yellow">Vous quittez la Ferdhauss au lever du soleil, sacs sur le dos. Le col descend en lacets. À mi-chemin, vous voyez plusieurs colonnes de fumée monter du village. Pas un incendie — plusieurs petits feux, ceux des foyers domestiques. Mais quelque chose ne va pas : des cris portés par le vent. Pas des cris de joie.</font>
+> <font style="color:yellow">Vous arrivez à Mascombe par l'est en fin de matinée. Le village s'étire au confluent de deux rivières : l'Ourl, à votre **gauche**, qui longe la lisière de l'Altwald — la grande forêt tharséenne au sud ; et la Naïsch, à votre droite, qui descend des montagnes au nord. Un petit pont de pierre traverse l'Ourl. Au cœur du village, on voit la forge, le moulin à eau, le four banal. Les rues sont vides — sauf pour quelques femmes et enfants qui regardent par les fenêtres. Tous les hommes sont en battue dans les bois.</font>
 
 # Phase 2 — Premières impressions au village
 ## Qui les accueille
@@ -26,21 +26,21 @@ Ce qu'elle peut leur apprendre :
 - Avant d'être défiguré, Cadmar était fiancé à Oriabel. Elle l'avait repoussé après l'accident à la scierie. Récemment, elle avait été promise au marchand Tancred.
 ## Le village en émoi
 
-> Sur la place, près du lavoir, vous croisez **Lison**, la fille du métayer Trémolet — c'est elle qui a vu Oriabel se faire enlever au crépuscule. Elle a 16 ans, elle pleure encore. Elle répète : "C'était un grand ours sur deux pattes. C'était Cadmar. C'était lui."
+> <font style="color:yellow">Sur la place, près du lavoir, vous croisez Lison, la fille du métayer Trémolet — c'est elle qui a vu Oriabel se faire enlever au crépuscule. Elle a 16 ans, elle pleure encore. Elle répète :</font> <font style="color:orange">"C'était un grand ours sur deux pattes. C'était Cadmar. C'était lui."</font>
 
 **Note MJ :** ne pas trop creuser ici. L'enquête de la Bête Humaine se déroulera plus tard. Pour le moment, juste de l'ambiance.
 
 # Phase 3 — Le château de Felsenhof
 
-> Une heure de marche depuis Mascombe, à travers des champs labourés. Le château de Felsenhof est une petite forteresse carrée, en pierre grise, sur une butte. Pas spectaculaire — fonctionnel. Une garnison réduite — un garde à l'entrée. Sur la bannière, le blason : une **tour de pierre rougie par un soleil couchant**. Le même que celui de l'insigne d'Anselm. 
-> On vous fait entrer dans une grande salle voûtée, fraîche, avec une grande table de chêne.
+> <font style="color:yellow">Une heure de marche depuis Mascombe, à travers des champs labourés. Le château de Felsenhof est une petite forteresse carrée, en pierre grise, sur une butte. Pas spectaculaire — fonctionnel. Une garnison réduite — un garde à l'entrée. Sur la bannière, le blason : une **tour de pierre rougie par un soleil couchant**. Le même que celui de l'insigne d'Anselm. </font>
+> <font style="color:yellow">On vous fait entrer dans une grande salle voûtée, fraîche, avec une grande table de chêne.</font>
 ## Mamert von Hessgau 
 
 **Mamert von Hessgau**, humain, 63 ans, Loyal Bon. Cheveux blancs, taille moyenne, mains noueuses. Cape brune, gilet de cuir simple. Une vieille épée à la hanche. Honnête, pragmatique, fatigué mais consciencieux.  
 
-> "Asseyez-vous. Vous prendrez du vin chaud ou de l'eau, à cette heure ?"
-> "Je vous ai fait venir pour une affaire pénible. Vous savez sans doute ce qu'on dit au village. Une jeune fille assassinée, une bête qu'on accuse. Tous les bras de la baronnie sont sur la traque, mais ils ne trouvent rien. Mon baron est parti à la guerre, je ne peux pas lui réclamer du renfort."
-> "Si j'ai demandé explicitement des étrangers, c'est justement parce que vous ne connaissez personne ici, vous n'avez rien à perdre ni à gagner sauf l'or que je vous promets. C'est exactement ce qu'il me faut."
+> <font style="color:orange">"Asseyez-vous. Vous prendrez du vin chaud ou de l'eau, à cette heure ?"</font>
+> <font style="color:orange">"Je vous ai fait venir pour une affaire pénible. Vous savez sans doute ce qu'on dit au village. Une jeune fille assassinée, une bête qu'on accuse. Tous les bras de la baronnie sont sur la traque, mais ils ne trouvent rien. Mon baron est parti à la guerre, je ne peux pas lui réclamer du renfort."</font>
+> <font style="color:orange">"Si j'ai demandé explicitement des étrangers, c'est justement parce que vous ne connaissez personne ici, vous n'avez rien à perdre ni à gagner sauf l'or que je vous promets. C'est exactement ce qu'il me faut."</font>
 ## Le briefing officiel
 
 Mamert leur expose la situation :
@@ -51,7 +51,7 @@ Mamert leur expose la situation :
 ## La question des brigands
 
 Si les PJ mentionnent **les brigands** qu'ils ont défaits en route, Mamert hoche la tête, l'air las :
-> "La route n'est pas sûre, je le crains. Et le pire, c'est que ça empire d'année en année. Avec mon baron parti à la guerre et la garnison réduite, on ne peut plus patrouiller comme avant. Vous avez fait une belle action en les arrêtant. Je le porterai au crédit de votre solde." 
+> <font style="color:orange">"La route n'est pas sûre, je le crains. Et le pire, c'est que ça empire d'année en année. Avec mon baron parti à la guerre et la garnison réduite, on ne peut plus patrouiller comme avant. Vous avez fait une belle action en les arrêtant. Je le porterai au crédit de votre solde." </font>
 
 ## Acceptation formelle de la mission — *gain de niveau 2*  
 
@@ -63,18 +63,18 @@ Quand les PJ acceptent formellement, ils :
 
 **À jouer juste après l'acceptation formelle, avant que Mamert n'appelle Huon.** Mamert dit aux deux autres PJ d'aller à la cour rejoindre Huon. Il garde le **PJ barde demi-ogre** un instant *« pour un mot »*. Il ferme la porte.  
 
-> "Je vous reconnais, jeune homme. Vous étiez ici, il y a un environ an, sur la place du château, avec votre troupe. Vous avez fait rire la cour entière aux dépens de mon baron. Y compris moi, je dois l'avouer. Il ne l'a jamais oublié. Il est parti guerroyer en partie pour cela, je le crains. Et il finira par rentrer."
-> "Je ne dirai rien aux autres. Mais vous, écoutez moi. Le baron Aymar n'est pas un homme cruel — son orgueil est blessée simplement. La guerre lui a peut-être appris la mesure. Peut-être pas. Quand il rentrera, il vous reconnaîtra. Et il aura le pouvoir de vous pendre."
-> "Mais voici ce que je sais d'Aymar : il sait reconnaître la valeur. Il vous a vu en bouffon ; devenez autre chose. Tuez la bête de Mascombe. Protégez ses terres. Servez sa baronnie comme si elle était la vôtre. Et quand il rentrera, je serai là pour témoigner. Je dirai que vous avez sauvé ce qu'il aimait pendant son absence.
-> "Il n'oubliera pas le clown. Mais il pourra choisir de pardonner au héros. Tout dépendra de vous."  
+> <font style="color:orange">"Je vous reconnais, jeune homme. Vous étiez ici, il y a un environ an, sur la place du château, avec votre troupe. Vous avez fait rire la cour entière aux dépens de mon baron. Y compris moi, je dois l'avouer. Il ne l'a jamais oublié. Il est parti guerroyer en partie pour cela, je le crains. Et il finira par rentrer."</font>
+> <font style="color:orange">"Je ne dirai rien aux autres. Mais vous, écoutez moi. Le baron Aymar n'est pas un homme cruel — son orgueil est blessée simplement. La guerre lui a peut-être appris la mesure. Peut-être pas. Quand il rentrera, il vous reconnaîtra. Et il aura le pouvoir de vous pendre."</font>
+> <font style="color:orange">"Mais voici ce que je sais d'Aymar : il sait reconnaître la valeur. Il vous a vu en bouffon ; devenez autre chose. Tuez la bête de Mascombe. Protégez ses terres. Servez sa baronnie comme si elle était la vôtre. Et quand il rentrera, je serai là pour témoigner. Je dirai que vous avez sauvé ce qu'il aimait pendant son absence."</font>
+> <font style="color:orange">"Il n'oubliera pas le clown. Mais il pourra choisir de pardonner au héros. Tout dépendra de vous."</font>
 
 ## Phase 4 — Huon le Dogue
 
 Mamert appelle Huon. Il entre.  
 
-> Un homme grand, sec, environ 35 ans. Cape de chasse en cuir patiné, une épée longue dans le dos, un arc long à la main. Cheveux noirs noués serrés en arrière. Un grand dogue noir le suit, silencieux, l'air calme — c'est Artus.
-> Il vous toise sans hostilité, mais sans chaleur. 
-> "Mamert. Voici donc les aventuriers ?" Il s'approche de la table, dépose son arc, et vous fixe à tour de rôle. "Bien. On part demain à l'aube. Vous savez vous battre ?"
+> <font style="color:yellow">Un homme grand, sec, environ 35 ans. Cape de chasse en cuir patiné, une épée longue dans le dos, un arc long à la main. Cheveux noirs noués serrés en arrière. Un grand dogue noir le suit, silencieux, l'air calme — c'est Artus.</font>
+> <font style="color:yellow">Il vous toise sans hostilité, mais sans chaleur. </font>
+> <font style="color:orange">"Mamert. Voici donc les aventuriers ?"</font> <font style="color:yellow">Il s'approche de la table, dépose son arc, et vous fixe à tour de rôle.</font> <font style="color:orange">"Bien. On part demain à l'aube. Vous savez vous battre ?"</font>
 ### Le profil
 
 Huon est **le vrai coupable** du meurtre d'Oriabel. C'est un rôdeur niveau 7 dérangé, qui a tué la jeune femme pour une vieille histoire sordide, et qui s'est servi de la suspicion contre Cadmar pour se couvrir.  
