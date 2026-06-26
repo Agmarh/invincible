@@ -103,7 +103,92 @@ Thibault propose à la PJ de **l'aider sur sa commande** — un cercle de fer po
 > <font style="color:orange">La PJ : "Il est mort."</font>
 > <font style="color:orange">Thibault : "Désolé. Il vous a légué un beau geste." </font>
 
-### Ce que ça donne mécaniquement
+#### Ce que ça donne mécaniquement
 
 - Si elle a travaillé une heure ou deux à la forge, Thibault lui offre une **fiole de poison de cuivre** (vert-de-gris, qu'il utilisait pour patiner certaines pièces — possible utilisation comme poison faible, à voir avec le MJ).
 - Ou simplement, **Thibault devient un PNJ ami** qui la défendra publiquement si elle est attaquée à Mascombe. Ancrage local en germe.
+
+### La masure de Cadmar  
+
+#### Le lieu 
+
+Maison de bûcheron dans les bois, à 30 min de la grotte de Baudoin. Porte défoncée (les villageois ont déjà fouillé en battue). Intérieur saccagé. 
+
+**Indices à trouver** :
+- <font style="color:green">Investigation DD 13</font> — odeur étrange (mi-ours mi-homme) qui confirme que Cadmar est bien un garou.
+- <font style="color:green">Investigation DD 15</font> — **un cahier sous le matelas**, écrit en lettres maladroites. Cadmar tenait un journal. Dernière entrée, datée de la veille du meurtre d'Oriabel :  
+
+> <font style="color:orange">"Huon est venu encore me menacer. Il dit qu'il sait ce que je suis et qu'il le dira à tout le monde si je dis ce que j'ai vu cette nuit, ce qu'il a fait à Oriabel. Je ne sais plus quoi faire. Je vais aller voir Baudoin. Lui saura."</font>
+
+C'est l'**indice définitif** : Huon savait pour Cadmar et le menaçait, et Cadmar avait vu quelque chose entre Oriabel et Tancred (le marchand). **Pourquoi Huon a-t-il tué Oriabel ?**
+
+#### La vérité (pour le MJ)
+
+**Note MJ** : à ce stade, voici ce qui s'est passé en réalité (à révéler progressivement, jamais d'un bloc) :
+- Il y a 6 mois, Huon a violé une jeune femme du village voisin. **Oriabel l'a appris** par hasard (peut-être Tancred lui en avait parlé, ayant entendu une rumeur).
+- Huon ne pouvait pas se permettre que ça se sache. Il a attendu, observé.
+- Quand Oriabel est revenue au lavoir au crépuscule, **Huon a saisi son occasion**. Il l'a étranglée, puis maquillé en attaque d'ours.
+- Cadmar, témoin involontaire (il était caché tout près, en forme animale partielle), l'a vu faire. Huon l'a vu après et l'a menacé.
+- Cadmar a fui chez Baudoin pour se cacher et réfléchir. 
+
+**Les PJ n'ont pas besoin de tout savoir.** Il leur suffit de comprendre que **Huon a tué Oriabel pour la faire taire**. Le reste peut rester dans l'ombre.
+
+### Baudoin l'ermite
+
+#### La grotte du Capitaine
+
+À 2 h de marche au nord-est de Mascombe, dans l'Altwald, au pied d'une butte percée de grottes. La grotte de Baudoin est marquée par un cercle de pierres devant l'entrée. La fumée d'un feu de bois sort en permanence.  
+
+**Baudoin dit « le Capitaine »** :
+- Humain, ~60 ans, ancien soldat d'apparence. En réalité, **druide caché** (en Pangée, sa pratique discrète serait probablement liée au Bourbier sans fond — pas le Cercle de l'Eau Noire spécifiquement, mais un cercle voisin qui en a peut-être entendu parler).
+- Vit seul depuis 15 ans. Connaît la forêt mieux que Huon.
+- Sait que **Cadmar est un ours-garou** (mais cela ne fait pas de lui un meurtrier).
+- Sait qui est **le vrai coupable** — il a senti la magie de Huon, qui n'est pas seulement un rôdeur (il a sombré).  
+
+**Quand les PJ arrivent**, Baudoin est dehors, en train de cueillir des herbes. Il les voit venir de loin, ne se lève pas.  
+
+> <font style="color:orange">"Ursanne vous envoie. Asseyez-vous. Vous avez parcouru deux heures, vous avez soif."</font>
+  
+#### La conversation
+
+Ce que Baudouin peut dire :
+- Cadmar EST un ours-garou. <font style="color:orange">"La nuit de la scierie, l'ours qui a tué Gobère a aussi mordu Cadmar. Le mal est entré. Mais Cadmar est un homme bon. Il n'a jamais accepté la transformation. Il a appris à se contrôler."</font>
+- Cadmar n'a pas tué Oriabel. <font style="color:orange">"Je l'ai vu cette nuit-là. Il était ici, avec moi. Je le calme parfois quand il sent que la bête monte."</font>
+- Qui a tué Oriabel ? <font style="color:orange">"Demandez à votre guide. Demandez à Huon le Dogue pourquoi sa magie a tourné. Pourquoi son cœur est devenu froid comme la pierre."</font>
+
+Baudoin n'accuse pas frontalement Huon, mais il oriente sans détour. C'est suffisant pour que les PJ comprennent.
+
+#### L'esprit forestier *(sous-intrigue canon)*
+
+Si les PJ le creusent : Baudoin évoque que **l'esprit du Bois-altier** (de l'Altwald) est troublé depuis la mort de Gobère deux ans plus tôt. Gobère avait coupé des chênes sacrés pour sa scierie ; un esprit ancien s'est manifesté en envoyant l'ours qui l'a tué. Cet esprit veille encore.  
+
+**Possible scène d'apaisement** : si la druide ou un autre PJ le propose, Baudoin peut les conduire à un **vieux chêne au cœur du bois** où l'esprit forestier réside. Un rituel court (offrande de fleurs, prière en sylvestre) peut apaiser l'esprit. 
+**Récompense narrative** : si l'esprit est apaisé, il **guidera les PJ vers Cadmar** plus tard (corbeau qui les précède, sentiers qui s'ouvrent).
+
+**Bonus** : la druide reçoit un **dé d'inspiration 
+
+#### Note arc druide
+
+Baudoin **reconnaît la druide** — il sait ce qu'elle est. À la fin de la conversation, en aparté :
+
+> <font style="color:orange">"Vous êtes de l'Eau Noire, je reconnais ce pendentif. J'ai entendu ce qui vous est arrivé. Je suis désolé. Si un jour vous voulez parler à quelqu'un, ou chercher refuge, ma grotte est ouverte."</font>
+
+## Phase 4 — Trouver Cadmar 
+
+### La rencontre
+
+Avec l'aide de Baudoin (ou si l'esprit forestier a été apaisé), les PJ trouvent Cadmar dans une **clairière au cœur de l'Altwald**, à 1 h de la grotte de Baudoin. Il est en forme humaine, accroupi près d'un ruisseau, visage à demi tourné.  
+
+> <font style="color:yellow">Vous le voyez de dos d'abord. Un grand homme robuste, vêtements en lambeaux. Sa joue gauche est défigurée — trois balafres profondes, et l'œil gauche est blanc, aveugle. Quand il vous entend, il se retourne d'un bond, les poings serrés.</font>
+> <font style="color:orange">"Vous êtes ses chasseurs, c'est ça ? Il vous a envoyés ? Allez-y, finissez en."</font>
+
+### La conversation
+
+**Cadmar est terrifié mais lucide.** Il sait qu'il sera abattu, et il l'accepte presque. <font style="color:green">Persuasion DD 13 (DD réduit à 12 pour 3 joueurs)</font> pour qu'il accepte d'écouter et de raconter sa version. 
+
+**Ce qu'il dit** :
+- <font style="color:orange">"Je suis un ours-garou, oui. Depuis deux ans. Je le cache. Je ne me transforme presque jamais entièrement. Baudoin m'a appris à dompter la bête."</font>
+- <font style="color:orange">"Cette nuit-là, j'étais dans le bois. J'étais a demi transformé — j'ai senti Oriabel. Je voulais lui parler une dernière fois, lui dire que je ne lui voulais plus de mal. Et j'ai vu Huon.  Il l'avait étranglée."</font>
+- <font style="color:orange">"Il m'a vu. Il m'a couru après, mais il avait des bottes beaucoup trop grandes pour lui, il voulait masquer ses traces. Alors j'ai fui. Je suis venu ici."</font>
+
+**Possible point dur** : la druide veut le ramener. La barbare peut vouloir le **tuer quand même** *« un ours-garou, c'est un ours-garou »*. Friction de groupe **majeure**. À gérer en RP avec finesse.

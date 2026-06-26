@@ -13,30 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Invincible/Scénario 0 Mini Campagne/III - Mascombe.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "III - Mascombe"
-            }
-          },
-          {
-            "id": "db63bd10153dead6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Invincible/Scénario 0 Mini Campagne/IV - Bête Humaine.md",
                 "mode": "source",
                 "source": false,
@@ -55,8 +31,7 @@
               "title": "IV - Bête Humaine"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -260,7 +235,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "db63bd10153dead6",
+  "active": "808d8bd227e97f3b",
   "lastOpenFiles": [
     "Invincible/Scénario 0 Mini Campagne/III - Mascombe.md",
     "Invincible/Scénario 0 Mini Campagne/IV - Bête Humaine.md",
