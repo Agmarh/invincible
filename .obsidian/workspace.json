@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e1a08afdd96c5c30",
+        "id": "d5bf276fee98c897",
         "type": "tabs",
         "children": [
           {
-            "id": "808d8bd227e97f3b",
+            "id": "fba545b276a0a770",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,33 +30,8 @@
               "icon": "lucide-file",
               "title": "III - Mascombe"
             }
-          },
-          {
-            "id": "8bbf59bc205bc4e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Invincible/Scénario 0 Mini Campagne/I - L'incident du Marronnier.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "I - L'incident du Marronnier"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -220,8 +195,7 @@
               "title": "Dice Tray"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "9df297e6ba9c49df",
@@ -241,7 +215,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 406.5
+    "width": 406.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -260,14 +235,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8bbf59bc205bc4e8",
+  "active": "fba545b276a0a770",
   "lastOpenFiles": [
-    "Annexe/Bestiaire/Huon le Dogue.md",
-    "Invincible/Scénario 0 Mini Campagne/III - Mascombe.md",
-    "Invincible/Scénario 0 Mini Campagne/IV - Bête Humaine.md",
     "Invincible/Scénario 0 Mini Campagne/II - Route de Felsenhof.md",
-    "Invincible/Scénario 0 Mini Campagne/I - L'incident du Marronnier.md",
     "Invincible/Où ils en sont.md",
+    "Invincible/Scénario 0 Mini Campagne/III - Mascombe.md",
+    "Invincible/Scénario 0 Mini Campagne/I - L'incident du Marronnier.md",
+    "Annexe/Bestiaire/Huon le Dogue.md",
+    "Invincible/Scénario 0 Mini Campagne/IV - Bête Humaine.md",
     "Invincible/PDF/hd_04_invincible_web_v1.pdf",
     "Annexe/Bestiaire/Niska.md",
     "Annexe/Bestiaire/Borek.md",
