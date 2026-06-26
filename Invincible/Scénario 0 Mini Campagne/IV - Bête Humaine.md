@@ -47,27 +47,21 @@ Si les joueurs insistent pour continuer l'enquête, Huon hausse les épaules et 
 **Pourquoi Bovert ment** : il a vu **une silhouette humaine** se cacher dans les buissons un instant avant que la « bête » ne surgisse. Il a vu **Huon** poser un piège (un déguisement, ou une mise en scène). Il n'a pas tout compris, mais il sait que Huon est mêlé. Et Huon a croisé son regard. Bovert pense que s'il parle, il sera le prochain.  
 
 **Comment lui faire dire la vérité :**
-- *Persuasion DD 14* (DD réduit à 13 pour 3 joueurs) en mode douceur — la druide ou le barde sont avantagés.
-- *Intimidation DD 13* — la barbare est avantagée. Mais menacer Bovert chez lui, c'est compromettre la confiance des villageois.
+- Persuasion DD 14 (DD réduit à 13 pour 3 joueurs) en mode douceur — la druide ou le barde sont avantagés.
+- Intimidation DD 13 — la barbare est avantagée. Mais menacer Bovert chez lui, c'est compromettre la confiance des villageois.
 - **Avec un bon RP** sans jet : si les PJ lui promettent leur protection et lui parlent de Huon de manière détachée, il peut craquer.  
 
 **Si Bovert craque, il dit** :
-- *« J'ai vu Huon le Dogue rôder près du bois ce soir-là. Avant. Avant que la bête n'arrive. Il avait l'air d'attendre. »*
-- *« Et après, la bête… elle a couru bizarrement. Pas comme un vrai ours. Et elle portait des bottes. Des bottes de cuir. Vous comprenez ? Un ours ne porte pas de bottes. »*  
+- "J'ai vu Huon le Dogue rôder près du bois ce soir-là. Avant. Avant que la bête n'arrive. Il avait l'air d'attendre."
+- "Et après, la bête… elle a couru bizarrement. Pas comme un vrai ours. Et elle portait des bottes. Des bottes de cuir. Vous comprenez ? Un ours ne porte pas de bottes."
 
 **C'est l'indice clé** qui désigne Huon comme tueur — *l'ours-garou avait des bottes humaines*. Cadmar transformé ne porterait pas de bottes ; Huon en mise en scène, oui.
 
-  
-
 ### La métairie Cassagnol — la famille d'Oriabel
 
-  
+**Amans Cassagnol** (le père) est rentré de la battue, brisé. **Sa femme** (la mère) prépare le corps d'Oriabel pour l'enterrement du lendemain. Le corps est dans la pièce du fond, sous un drap.  
 
-**Amans Cassagnol** (le père) est rentré de la battue, brisé. **Sa femme** (la mère) prépare le corps d'Oriabel pour l'enterrement du lendemain. Le corps est dans la pièce du fond, sous un drap.
-
-  
-
-**Si les PJ demandent à voir le corps** : Amans refuse violemment d'abord, puis cède si la druide ou le barde insiste avec respect. *Insight DD 12* pour comprendre qu'il a *peur* que les PJ y voient quelque chose qu'il préfère ignorer.
+**Si les PJ demandent à voir le corps** : Amans refuse violemment d'abord, puis cède si la druide ou le barde insiste avec respect. Perspicacité DD 12 pour comprendre qu'il a peur que les PJ y voient quelque chose qu'il préfère ignorer.
 
   
 
