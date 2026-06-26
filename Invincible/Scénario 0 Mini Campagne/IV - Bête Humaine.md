@@ -13,7 +13,7 @@ Les PJ peuvent se promener librement. Les PNJ disponibles ce matin :
 
 ## Le retour de la battue *(en milieu de journée)* 
 
-Les hommes du village reviennent en fin de matinée, bredouilles. **Thibault, Amans (le père d'Oriabel), Yon (le bûcheron), Henri (autre bûcheron)** et une dizaine d'autres. Fatigués, épuisés, en colère. Ils ne saluent pas les PJ — *« qui sont ces étrangers ? »* — Liaze leur fait signe que Mamert les a envoyés. Amans crache par terre. 
+Les hommes du village reviennent en fin de matinée, bredouilles. **Amans (le père d'Oriabel), Yon (le bûcheron), Henri (autre bûcheron)** et une dizaine d'autres. Fatigués, épuisés, en colère. Ils ne saluent pas les PJ — *« qui sont ces étrangers ? »* — Liaze leur fait signe que Mamert les a envoyés. Amans crache par terre. 
 
 > <font style="color:orange">"L'intendant nous envoie des étrangers ? On n'a pas besoin d'aide. On va trouver Cadmar, on va l'écorcher, et l'affaire sera réglée. Restez à l'auberge, mangez votre soupe, on n'a pas besoin de vous."  </font>
 
