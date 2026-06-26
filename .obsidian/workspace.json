@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Annexe/Bestiaire/Huon le Dogue.md",
+                "file": "Invincible/Scénario 0 Mini Campagne/I - L'incident du Marronnier.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,10 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Huon le Dogue"
+              "title": "I - L'incident du Marronnier"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -152,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Invincible/Scénario 0 Mini Campagne/III - Mascombe.md",
+                "file": "Invincible/Scénario 0 Mini Campagne/I - L'incident du Marronnier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +163,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour III - Mascombe"
+              "title": "Rétrolien pour I - L'incident du Marronnier"
             }
           },
           {
@@ -171,12 +172,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Invincible/Scénario 0 Mini Campagne/III - Mascombe.md",
+                "file": "Invincible/Scénario 0 Mini Campagne/I - L'incident du Marronnier.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de III - Mascombe"
+              "title": "Liens sortants de I - L'incident du Marronnier"
             }
           },
           {
@@ -200,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Invincible/Scénario 0 Mini Campagne/III - Mascombe.md",
+                "file": "Invincible/Scénario 0 Mini Campagne/I - L'incident du Marronnier.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de III - Mascombe"
+              "title": "Plan de I - L'incident du Marronnier"
             }
           },
           {
@@ -259,11 +260,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "808d8bd227e97f3b",
+  "active": "8bbf59bc205bc4e8",
   "lastOpenFiles": [
-    "Invincible/Scénario 0 Mini Campagne/IV - Bête Humaine.md",
-    "Invincible/Scénario 0 Mini Campagne/III - Mascombe.md",
     "Annexe/Bestiaire/Huon le Dogue.md",
+    "Invincible/Scénario 0 Mini Campagne/III - Mascombe.md",
+    "Invincible/Scénario 0 Mini Campagne/IV - Bête Humaine.md",
     "Invincible/Scénario 0 Mini Campagne/II - Route de Felsenhof.md",
     "Invincible/Scénario 0 Mini Campagne/I - L'incident du Marronnier.md",
     "Invincible/Où ils en sont.md",
