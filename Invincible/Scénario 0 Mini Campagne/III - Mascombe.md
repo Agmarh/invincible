@@ -26,10 +26,20 @@ Ce qu'elle peut leur apprendre :
 - Avant d'être défiguré, Cadmar était fiancé à Oriabel. Elle l'avait repoussé après l'accident à la scierie. Récemment, elle avait été promise au marchand Tancred.
 ## Le village en émoi
 
-> <font style="color:yellow">Sur la place, près du lavoir, vous croisez Lison, la fille d'un paysan du nom de Trémolet — c'est elle qui a vu Oriabel se faire enlever au crépuscule. Elle a 16 ans, elle pleure encore. Elle répète :</font> <font style="color:orange">"C'était un grand ours sur deux pattes. C'était Cadmar. C'était lui."</font>
+> <font style="color:yellow">Sur la place, près du lavoir, vous croisez Lison, la fille d'un paysan — c'est elle qui a vu Oriabel se faire enlever au crépuscule. Elle a 16 ans, elle pleure encore. </font>
 
 Dialogue avec Lison :
-> Elle raconte ce qu'elle a vu au lavoir : la grande silhouette, l'ours debout. Elle vous dit aussi, et elle hésite à le faire, que **Bovert le meunier était là aussi**, et qu'il a vu plus de choses qu'elle. Mais Bovert refuse d'en parler. Le garde raconte que Bovert n'a rien dit.
+**Lison Trémolet**, 16 ans, fille du métayer Cassagnol, **a vu l'enlèvement d'Oriabel**. Elle est encore en état de choc, sa mère ne la quitte pas.  
+
+**Ce qu'elle dit (canon) :**
+- Au crépuscule, elle était au lavoir avec Oriabel. Elles discutaient de Tancred (le marchand qui devait épouser Oriabel).
+- Soudain, **une grande forme** est sortie du bois — *« un ours debout, énorme, avec des griffes »*. La bête s'est jetée sur Oriabel, l'a emportée. Lison s'est évanouie.
+- Elle est persuadée que c'était Cadmar — *« il l'aimait et elle l'avait laissé, c'est forcément lui ».*  
+
+**Ce qu'elle ne dit pas (à creuser)** : elle a vu la bête **moins d'une seconde** avant de s'évanouir. Son témoignage est en partie reconstruction *a posteriori*.
+**Jets utiles :**
+- <font style="color:green">Persuasion DD 11</font> pour qu'elle accepte de raconter une seconde fois, en détail. Et en ajoutant qu'elle a aperçu Bovert le meunier qui observait la scène depuis sa fenêtre, mais il refuse de parler depuis.
+- <font style="color:green">Perspicacité DD 13</font> pour repérer qu'elle reconstruit son souvenir (elle n'a pas *vraiment* vu Cadmar — elle a vu *une bête*).
 
 # Phase 3 — Le château de Felsenhof
 

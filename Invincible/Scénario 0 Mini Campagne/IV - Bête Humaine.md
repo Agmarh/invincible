@@ -1,6 +1,6 @@
 ## Phase 1 — Reprise et arrivée à Mascombe
 
-> Mascombe au lever du jour. Le brouillard s'accroche au confluent de l'Ourl et de la Naïsch. Les rues sont vides — tous les hommes valides sont en battue depuis l'aube dans l'Altwald, à la recherche de Cadmar. Seules les femmes, les enfants et quelques vieillards sont restés. Le silence est lourd, à peine troublé par le chant du coq et le bruit lointain d'un marteau — Le forgeron est rentré au matin, épuisé, mais il a repris le travail pour ne pas s'arrêter de bouger.
+> <font style="color:yellow">Mascombe au lever du jour. Le brouillard s'accroche au confluent de l'Ourl et de la Naïsch. Les rues sont vides — tous les hommes valides sont en battue depuis l'aube dans l'Altwald, à la recherche de Cadmar. Seules les femmes, les enfants et quelques vieillards sont restés. Le silence est lourd, à peine troublé par le chant du coq et le bruit lointain d'un marteau — Le forgeron est rentré au matin, épuisé, mais il a repris le travail pour ne pas s'arrêter de bouger.</font>
 
 ## Premières rencontres au village
 
@@ -16,7 +16,7 @@ Les PJ peuvent se promener librement. Les PNJ disponibles ce matin :
 
 Les hommes du village reviennent en fin de matinée, bredouilles. **Thibault, Amans (le père d'Oriabel), Yon (le bûcheron), Henri (autre bûcheron)** et une dizaine d'autres. Fatigués, épuisés, en colère. Ils ne saluent pas les PJ — *« qui sont ces étrangers ? »* — Liaze leur fait signe que Mamert les a envoyés. Amans crache par terre. 
 
-> "L'intendant nous envoie des étrangers ? On n'a pas besoin d'aide. On va trouver Cadmar, on va l'écorcher, et l'affaire sera réglée. Restez à l'auberge, mangez votre soupe, on n'a pas besoin de vous."  
+> <font style="color:orange">"L'intendant nous envoie des étrangers ? On n'a pas besoin d'aide. On va trouver Cadmar, on va l'écorcher, et l'affaire sera réglée. Restez à l'auberge, mangez votre soupe, on n'a pas besoin de vous."  </font>
 
 C'est l'occasion d'une **première friction**. Mamert leur a donné l'autorité ; les villageois leur disent de dégager. Comment réagissent ils ?  
 
@@ -26,30 +26,107 @@ C'est l'occasion d'une **première friction**. Mamert leur a donné l'autorité 
 
 Huon, qui était parti tôt seul de son côté dans l'Altwald, arrive au village vers midi avec Artus son dogue noir. Visage fermé, pas de fatigue apparente. Il s'arrête devant les PJ :  
 
-> "Vous avez perdu la matinée. Pendant ce temps, j'ai trouvé une piste à l'est de la masure de Cadmar. On part."
-
-  
+> <font style="color:orange">"Vous avez perdu la matinée. Pendant ce temps, j'ai trouvé une piste à l'est de la masure de Cadmar. On part."</font>
 
 **Note MJ** : Huon mentirait pour les éloigner du village et empêcher l'enquête. Il a trouvé une fausse piste pour les détourner. Les villageois ne l'aiment pas mais le respectent — il est l'autorité forestière de la baronnie.
-
-  
-
 ### Le choix
-
-  
-
 Les PJ tranchent :
-
 - **Suivre Huon dans la forêt** → traque pure, mais ils manqueront les indices du village.
-
 - **Continuer l'enquête au village** → friction avec Huon, qui s'impatiente *« vous perdez votre temps »*.
+- **Diviser le groupe** → un ou deux PJ suivent Huon, les autres restent. Possible mais risqué.  
 
-- **Diviser le groupe** → un ou deux PJ suivent Huon, les autres restent. Possible mais risqué.
+Si les joueurs insistent pour continuer l'enquête, Huon hausse les épaules et reste au village toute la journée, agacé, à roder autour de la place.  
+
+<font style="color:cyan">Note arc druide : c'est elle qui devrait pousser pour rester enquêter. Si la joueuse hésite, le MJ peut subtilement lui rappeler que son Défaut s'active. "Tu n'as pas envie de tout savoir avant qu'on parte tuer un ours ?"</font>
+
+## Phase 3 — L'enquête au village
+### Le moulin — Bovert cache la vérité
+
+**Bovert le meunier**, 50 ans, gros homme rougeaud, **a vu l'enlèvement depuis sa fenêtre** mais il le nie de toutes ses forces. Il est terrorisé.  
+
+**Pourquoi Bovert ment** : il a vu **une silhouette humaine** se cacher dans les buissons un instant avant que la « bête » ne surgisse. Il a vu **Huon** poser un piège (un déguisement, ou une mise en scène). Il n'a pas tout compris, mais il sait que Huon est mêlé. Et Huon a croisé son regard. Bovert pense que s'il parle, il sera le prochain.  
+
+**Comment lui faire dire la vérité :**
+- *Persuasion DD 14* (DD réduit à 13 pour 3 joueurs) en mode douceur — la druide ou le barde sont avantagés.
+- *Intimidation DD 13* — la barbare est avantagée. Mais menacer Bovert chez lui, c'est compromettre la confiance des villageois.
+- **Avec un bon RP** sans jet : si les PJ lui promettent leur protection et lui parlent de Huon de manière détachée, il peut craquer.  
+
+**Si Bovert craque, il dit** :
+- *« J'ai vu Huon le Dogue rôder près du bois ce soir-là. Avant. Avant que la bête n'arrive. Il avait l'air d'attendre. »*
+- *« Et après, la bête… elle a couru bizarrement. Pas comme un vrai ours. Et elle portait des bottes. Des bottes de cuir. Vous comprenez ? Un ours ne porte pas de bottes. »*  
+
+**C'est l'indice clé** qui désigne Huon comme tueur — *l'ours-garou avait des bottes humaines*. Cadmar transformé ne porterait pas de bottes ; Huon en mise en scène, oui.
 
   
 
-**Mon conseil MJ** : si la table choisit la traque, **rappeler la friction immédiate avec la druide** (qui veut creuser la vérité). Si elle insiste pour continuer l'enquête, Huon hausse les épaules et reste au village toute la journée, agacé, à roder autour de la place.
+### La métairie Cassagnol — la famille d'Oriabel
 
   
 
-**Note arc druide** : c'est elle qui devrait pousser pour rester enquêter. Si la joueuse hésite, le MJ peut subtilement lui rappeler que son Défaut s'active. *« Tu n'as pas envie de tout savoir avant qu'on parte tuer un ours ? »*
+**Amans Cassagnol** (le père) est rentré de la battue, brisé. **Sa femme** (la mère) prépare le corps d'Oriabel pour l'enterrement du lendemain. Le corps est dans la pièce du fond, sous un drap.
+
+  
+
+**Si les PJ demandent à voir le corps** : Amans refuse violemment d'abord, puis cède si la druide ou le barde insiste avec respect. *Insight DD 12* pour comprendre qu'il a *peur* que les PJ y voient quelque chose qu'il préfère ignorer.
+
+  
+
+**L'examen du corps** *(important — canon)*
+
+- **Médecine DD 14** (DD réduit à 13 pour 3 joueurs) ou **Nature DD 12** révèle :
+
+  - Lacérations faites par des griffes d'ours, oui — mais **superficielles**, pas mortelles.
+
+  - **La vraie cause de la mort est une strangulation** — marques de cordes ou de mains autour du cou.
+
+  - **Plusieurs coups de couteau** à l'abdomen, faits *après* la mort, peut-être pour masquer.
+
+  - **Signes d'agression sexuelle**. *(À utiliser avec délicatesse en table, ou supprimer du tableau si tu préfères — les autres indices suffisent à boucler l'enquête.)*
+
+  
+
+**Conclusion** : l'ours-garou n'a pas tué Oriabel. Un humain l'a fait, et a maquillé la scène en attaque d'ours. **C'est le deuxième indice clé**.
+
+  
+
+**Note arc barbare** : si l'agression sexuelle est mentionnée, c'est un déclencheur de son Défaut. Elle peut sortir de la pièce sans un mot, ou rester immobile une seconde de trop. **Le joueur peut décider**. Si la table n'est pas à l'aise avec cet élément, le MJ peut le supprimer — les autres indices (strangulation + couteau + bottes de Bovert) suffisent.
+
+  
+
+### La sage-femme Ursanne
+
+  
+
+**Ursanne**, vieille femme avisée, herboriste expérimentée, vit dans une cabane fleurie aux abords du village. Elle est la **première à dire ouvertement que Cadmar n'est pas un garou**.
+
+  
+
+**Ce qu'elle dit :**
+
+- *« Cadmar, je l'ai soigné après la scierie. Sa blessure était infectée mais pas magique. S'il avait reçu le mal des garous, ça se serait vu. »*
+
+- *« La bête qui a tué Gobère il y a deux ans était un vrai ours, gros, sauvage. Pas un homme. Cette histoire de garou, c'est les villageois qui l'ont inventée pour donner un sens à l'horreur. »*
+
+- *« Pour la mort d'Oriabel — je ne sais pas. Mais je doute que ce soit Cadmar. Il l'aimait. Il était brisé qu'elle le rejette, mais il l'aimait. »*
+
+  
+
+**Si les PJ insistent** :
+
+- *« Vous devriez parler à Baudoin le Capitaine. L'ermite. Il sait des choses sur les bois que personne d'autre ne sait. Et il connaissait Cadmar. »*
+
+  
+
+C'est elle qui **oriente vers Baudoin**, le PNJ-clé suivant.
+
+  
+
+**Note arc druide** : Ursanne reconnaît instinctivement la druide *« vous êtes du peuple ancien, vous »*. Elle ne dit rien aux autres mais offre à la druide un sachet d'herbes médicinales (potion de soin équivalente à un sort *soin des blessures* niveau 1, à utiliser une fois). Petit cadeau.
+
+  
+
+### Possible : la forge de Thibault
+
+  
+
+À tout moment de la journée, la barbare peut être attirée par le bruit du marteau de Thibault. Voir section dédiée à l'arc barbare ci-dessous.
