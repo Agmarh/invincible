@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Annexe/Bestiaire/Huon le Dogue.md",
+                "file": "Invincible/Scénario 0 Mini Campagne/IV - Bête Humaine.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Huon le Dogue"
+              "title": "IV - Bête Humaine"
             }
           }
         ]
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Annexe/Bestiaire/Huon le Dogue.md",
+                "file": "Invincible/Scénario 0 Mini Campagne/IV - Bête Humaine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Huon le Dogue"
+              "title": "Rétrolien pour IV - Bête Humaine"
             }
           },
           {
@@ -147,12 +147,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Annexe/Bestiaire/Huon le Dogue.md",
+                "file": "Invincible/Scénario 0 Mini Campagne/IV - Bête Humaine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de Huon le Dogue"
+              "title": "Liens sortants de IV - Bête Humaine"
             }
           },
           {
@@ -176,13 +176,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Annexe/Bestiaire/Huon le Dogue.md",
+                "file": "Invincible/Scénario 0 Mini Campagne/IV - Bête Humaine.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Huon le Dogue"
+              "title": "Plan de IV - Bête Humaine"
             }
           },
           {
@@ -237,6 +237,7 @@
   },
   "active": "808d8bd227e97f3b",
   "lastOpenFiles": [
+    "Annexe/Bestiaire/Huon le Dogue.md",
     "Invincible/Scénario 0 Mini Campagne/IV - Bête Humaine.md",
     "Invincible/Scénario 0 Mini Campagne/III - Mascombe.md",
     "Invincible/Scénario 0 Mini Campagne/II - Route de Felsenhof.md",
@@ -262,7 +263,6 @@
     "Annexe/Bestiaire/Servantès Di Paleddo.md",
     "Annexe/Bestiaire/Serpent Lacustre.md",
     "Annexe/Bestiaire/Serpent constricteur géant.md",
-    "Annexe/Bestiaire/Serpent constricteur.md",
-    "Annexe/Bestiaire/Sergents de Lycanis.md"
+    "Annexe/Bestiaire/Serpent constricteur.md"
   ]
 }

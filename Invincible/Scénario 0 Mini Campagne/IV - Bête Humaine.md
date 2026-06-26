@@ -218,5 +218,4 @@ Les PJ rentrent au château avec :
 ### Récompenses  
 
 - **115 po par tête**.
-- Mamert leur **offre l'usage gratuit de la masure Trémolet aux portes de Mascombe**.
-- **Le bracelet de cuir au sceau de Felsenhof** est mis à jour : ils sont désormais **héros de la baronnie**, libre passage partou.
+- Mamert leur offre l'ancienne demeure de Huon
