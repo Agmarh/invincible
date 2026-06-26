@@ -29,7 +29,7 @@ Ce qu'elle peut leur apprendre :
 > <font style="color:yellow">Sur la place, près du lavoir, vous croisez Lison, la fille d'un paysan du nom de Trémolet — c'est elle qui a vu Oriabel se faire enlever au crépuscule. Elle a 16 ans, elle pleure encore. Elle répète :</font> <font style="color:orange">"C'était un grand ours sur deux pattes. C'était Cadmar. C'était lui."</font>
 
 Dialogue avec Lison :
-> Elle raconte ce qu'elle a vu au lavoir : la grande silhouette, l'ours debout. Elle vous dit aussi, et elle hésite à le faire, que **Bovert le meunier était là aussi**, et qu'il a vu plus de choses qu'elle. Mais Bovert refuse d'en parler. Le garde 
+> Elle raconte ce qu'elle a vu au lavoir : la grande silhouette, l'ours debout. Elle vous dit aussi, et elle hésite à le faire, que **Bovert le meunier était là aussi**, et qu'il a vu plus de choses qu'elle. Mais Bovert refuse d'en parler. Le garde raconte que Bovert n'a rien dit.
 
 # Phase 3 — Le château de Felsenhof
 
