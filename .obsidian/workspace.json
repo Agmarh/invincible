@@ -54,6 +54,30 @@
               "icon": "lucide-file",
               "title": "IV - Bête Humaine"
             }
+          },
+          {
+            "id": "2585c575ee3c6806",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Invincible/Où ils en sont.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Où ils en sont"
+            }
           }
         ],
         "currentTab": 1
@@ -263,8 +287,8 @@
   "active": "0e6e7ad6cafb92f0",
   "lastOpenFiles": [
     "Invincible/Où ils en sont.md",
-    "Invincible/Scénario 0 Mini Campagne/III - Mascombe.md",
     "Invincible/Scénario 0 Mini Campagne/IV - Bête Humaine.md",
+    "Invincible/Scénario 0 Mini Campagne/III - Mascombe.md",
     "Invincible/Scénario 0 Mini Campagne/II - Route de Felsenhof.md",
     "Invincible/Scénario 0 Mini Campagne/I - L'incident du Marronnier.md",
     "Annexe/Bestiaire/Huon le Dogue.md",

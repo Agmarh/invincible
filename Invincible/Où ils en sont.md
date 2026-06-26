@@ -8,3 +8,5 @@ Lykea a parlé a 2 corbeaux qui vont aller chercher de l'aide dans la forêt, il
 Sam a été chez le Forgeron et l'aide à forger. Elle a obtenu la fiole de poison.
 
 Ils sont montés niveau 2.
+
+Ils ont été voir le meunier et le corps d'Oriabel, ils ont réussi leurs jets et savent tout des blessures de la jeune femme et de ce qu'à vu Bovert.
