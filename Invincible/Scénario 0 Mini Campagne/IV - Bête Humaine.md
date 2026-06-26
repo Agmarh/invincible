@@ -192,3 +192,31 @@ Avec l'aide de Baudoin (ou si l'esprit forestier a été apaisé), les PJ trouve
 - <font style="color:orange">"Il m'a vu. Il m'a couru après, mais il avait des bottes beaucoup trop grandes pour lui, il voulait masquer ses traces. Alors j'ai fui. Je suis venu ici."</font>
 
 **Possible point dur** : la druide veut le ramener. La barbare peut vouloir le **tuer quand même** *« un ours-garou, c'est un ours-garou »*. Friction de groupe **majeure**. À gérer en RP avec finesse.
+
+## Phase 5 — La confrontation Huon
+
+Les PJ rentrent au village avec ou sans Cadmar. Huon les attend. Il sait qu'ils savent. Il joue d'abord la mise en confiance, puis bascule et engage le combat. Il veut faire disparait les preuves.  
+
+Artus, le dogue noir, attend chez Huon. A l'apparition de Cadmar au moment critique, Artus s'ajoutera au combat pour redonner un souffle.
+
+### Issues possibles
+
+- **Huon vaincu et capturé** : ramené au chateau, jugé, pendu. Résolution la plus propre.
+- **Huon vaincu et tué**. Les preuves suffisent.
+
+## Phase 6 — Résolution
+
+Les PJ rentrent au château avec :
+- La preuve de la culpabilité de Huon (cahier de Cadmar, témoignages de Bovert si vivant, de Lison reconsidéré, de Cadmar lui même et Baudoin).
+- Cadmar épargné (ou non — selon le choix de la table).
+- Huon mort ou capturé.  
+
+**Mamert** est ému et choqué. Il pensait connaître Huon — c'est un coup au cœur pour lui. Il les remercie sincèrement.  
+
+> <font style="color:orange">Vous avez permis d'épargné de pendre un innocent. Pour ça, je vous serai redevable longtemps."</font>
+
+### Récompenses  
+
+- **115 po par tête**.
+- Mamert leur **offre l'usage gratuit de la masure Trémolet aux portes de Mascombe**.
+- **Le bracelet de cuir au sceau de Felsenhof** est mis à jour : ils sont désormais **héros de la baronnie**, libre passage partou.
