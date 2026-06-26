@@ -59,19 +59,10 @@ treasure:
     desc: "revente 15 po"
   - name: Cape de chasse en cuir clouté patiné
     desc: "équivalent armure de cuir clouté (CA 12 + Dex) sans le métal."
-  - name: 
-    desc: 
-  - name: 
-    desc: 
-
-- **Cape de chasse en cuir clouté patiné** — équivalent armure de cuir clouté (CA 12 + Dex). Récupérable par la druide ou la barbare si elles veulent (pour la druide : pas de métal, donc OK ; pour la barbare : utilisable avec son Défense sans armure si elle préfère, ou en plus si elle n'utilise pas la Défense).
-
-- **Médaillon Porte-bonheur** *(peu courant, non harmonisé)* — trèfle à quatre feuilles en argent porté sous sa chemise. Permet de **relancer un d20 de son choix, une fois par jour**. À donner au PJ qui en a le plus besoin selon les phases. *« Un fétiche de chasseur — Huon était plus superstitieux qu'il ne le disait. »*
-
-- **Baume revigorant** *(peu courant, non harmonisé)* — petit pot en verre, **1d4+1 doses** (lance le dé en jeu). Chaque dose, en action : **2d8+2 PV récupérés**, retire l'état empoisonné et soigne toutes les maladies. Consommable de groupe. *« Huon en gardait toujours pour les blessures de chasse. »*
-
-- **Trousseau de clés** dont **une clé en argent ouvragée** (gravée d'un cor de chasse).
-    desc:
+  - name: Médaillon Porte-bonheur (peu courant, non harmonisé)
+    desc: "Trèfle à quatre feuilles en argent porté sous sa chemise. Permet de relancer un d20 de son choix, une fois par jour."
+  - name: Baume revigorant
+    desc: "Petit pot en verre, 1d4+1 doses. Chaque dose, en action : 2d8+2 PV récupérés, retire l'état empoisonné et soigne toutes les maladies."
 ```
 
 

@@ -2824,6 +2824,32 @@
             "desc": "Préfère la distance. Tire à l'arc, recule, utilise le terrain. Si acculé au mêlée, sort son épée longue à deux mains."
           }
         ],
+        "treasure": [
+          {
+            "name": "Bourse personnelle",
+            "desc": "35 po, 18 pa, 12 pc"
+          },
+          {
+            "name": "Arc long",
+            "desc": "revente 50 po à Felsenhof. Aucun PJ ne tire à l'arc, autant vendre"
+          },
+          {
+            "name": "Épée longue** (qualité standard)",
+            "desc": "revente 15 po"
+          },
+          {
+            "name": "Cape de chasse en cuir clouté patiné",
+            "desc": "équivalent armure de cuir clouté (CA 12 + Dex) sans le métal."
+          },
+          {
+            "name": "Médaillon Porte-bonheur (peu courant, non harmonisé)",
+            "desc": "Trèfle à quatre feuilles en argent porté sous sa chemise. Permet de relancer un d20 de son choix, une fois par jour."
+          },
+          {
+            "name": "Baume revigorant",
+            "desc": "Petit pot en verre, 1d4+1 doses. Chaque dose, en action : 2d8+2 PV récupérés, retire l'état empoisonné et soigne toutes les maladies."
+          }
+        ],
         "source": "Homebrew",
         "layout": "Basic 5e Layout"
       }
