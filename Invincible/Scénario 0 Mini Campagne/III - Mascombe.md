@@ -14,9 +14,9 @@ Ce qu'ils peuvent apprendre :
 - <font style="color:orange">"Vous comprenez, c'est pas la première fois qu'on voit ça. Il y a deux ans, un ours a tué Gobère à la scierie. Aujourd'hui Oriabel. Les gens sont à cran."</font>
 - <font style="color:orange">Cadmar a disparu il y a une semaine. Tout le monde le tient pour la « bête » — tout le monde pense qu'il est devenu un **ours-garou** après l'incident.</Font>
 - <font style="color:orange">Les hommes le traquent dans l'Altwald depuis l'aube, ça fait des jours qu'ils cherchent.</font>
-- <font style="color:orange">L'intendant Mamert von Hessgau attend des aventuriers au **château de Felsenhof**, à un kilomètre au nord. Anselm aurait dû arriver hier — il n'est jamais venu  </font>
+- <font style="color:orange">L'intendant Mamert von Hessgau attend des aventuriers au château de Felsenhof, à une heure de marche au nord. Anselm aurait dû arriver hier — il n'est jamais venu  </font>
 
-**Si on lui dit qu'Anselm a été attaqué et qu'il est à Azul :** elle blêmit. Elle leur conseille de monter au château immédiatement, l'intendant doit savoir.
+**Si on lui dit qu'Anselm a été attaqué et qu'il est à Azul :** il blêmit. Il leur conseille de monter au château immédiatement, l'intendant doit savoir.
 
 ## Forge
 **Liaze**, femme de **Thibault le forgeron** est présente au village, à côté de la porte de la Forge.
