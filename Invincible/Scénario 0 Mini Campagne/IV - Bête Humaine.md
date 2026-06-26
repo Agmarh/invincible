@@ -7,7 +7,7 @@
 Les PJ peuvent se promener librement. Les PNJ disponibles ce matin :
 - **Liaze**, femme de Thibault le forgeron — sort sur le seuil de la forge, regarde les étrangers.
 - **Mère Berthold** à l'Auberge du Loup Gris — leur sert un repas chaud (gratuit, *« vous êtes ici par Mamert, c'est cadeau »*).
-- **Lison**, fille du métayer Trémolet — au lavoir avec sa mère, encore en pleurs.
+- **Lison**, soeur d'Oriabel — au lavoir avec sa mère, encore en pleurs.
 - **Ursanne**, la sage-femme — dans son jardin d'herbes à la sortie du village. Le matin, elle écorce de la sauge.
 - **Baudoin l'ermite**, dit *« le Capitaine »* — pas au village, mais sa grotte est connue, à 2 h de marche dans l'Altwald (les villageois ne le voient pas souvent).
 
