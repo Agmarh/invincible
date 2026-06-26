@@ -103,12 +103,11 @@ C'est un moment **pour donner du caractère à Huon** sans tout dévoiler. Il es
 Huon les ramène à Mascombe pour la nuit. Mamert leur offre une chambre à l'**Auberge du Loup Gris**, la seule de Mascombe (tenue par **Mère Berthold**, humaine sèche, halfeline d'adoption — elle a vécu à Azul jeune). 
 
 Avant le départ du lendemain, les PJ ont **une soirée libre**. Ils peuvent :
-
 #### **Option A — Enquêter au village avant la traque**  
 
 Profiter de la soirée pour parler aux villageois, à Lison, à la famille d'Oriabel (les Cassagnol), au moulin, au lavoir. Huon n'aime pas qu'on perde du temps mais ne s'y oppose pas formellement — Mamert a le dernier mot.  
 
-ils peuvent recueillir des indices qui leur seront utiles plus tard (la sage-femme Ursanne, par exemple, ne croit pas que Cadmar soit un garou).  
+Ils peuvent recueillir des indices qui leur seront utiles plus tard (la sage-femme Ursanne, par exemple, ne croit pas que Cadmar soit un garou).  
 
 #### **Option B — Partir avec Huon dès l'aube**  
 
