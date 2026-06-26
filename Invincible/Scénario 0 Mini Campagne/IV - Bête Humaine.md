@@ -86,6 +86,4 @@ Si les joueurs insistent pour continuer l'enquête, Huon hausse les épaules et 
 
 ### Possible : la forge de Thibault
 
-  
-
 À tout moment de la journée, la barbare peut être attirée par le bruit du marteau de Thibault. Voir section dédiée à l'arc barbare ci-dessous.
