@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Invincible/Scénario 0 Mini Campagne/IV - Bête Humaine.md",
+                "file": "Invincible/Scénario 0 Mini Campagne/III - Mascombe.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "IV - Bête Humaine"
+              "title": "III - Mascombe"
             }
           }
         ]
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Invincible/Scénario 0 Mini Campagne/IV - Bête Humaine.md",
+                "file": "Invincible/Scénario 0 Mini Campagne/III - Mascombe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour IV - Bête Humaine"
+              "title": "Rétrolien pour III - Mascombe"
             }
           },
           {
@@ -147,12 +147,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Invincible/Scénario 0 Mini Campagne/IV - Bête Humaine.md",
+                "file": "Invincible/Scénario 0 Mini Campagne/III - Mascombe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de IV - Bête Humaine"
+              "title": "Liens sortants de III - Mascombe"
             }
           },
           {
@@ -176,13 +176,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Invincible/Scénario 0 Mini Campagne/IV - Bête Humaine.md",
+                "file": "Invincible/Scénario 0 Mini Campagne/III - Mascombe.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de IV - Bête Humaine"
+              "title": "Plan de III - Mascombe"
             }
           },
           {
@@ -237,8 +237,8 @@
   },
   "active": "808d8bd227e97f3b",
   "lastOpenFiles": [
-    "Invincible/Scénario 0 Mini Campagne/III - Mascombe.md",
     "Invincible/Scénario 0 Mini Campagne/IV - Bête Humaine.md",
+    "Invincible/Scénario 0 Mini Campagne/III - Mascombe.md",
     "Invincible/Scénario 0 Mini Campagne/II - Route de Felsenhof.md",
     "Invincible/Scénario 0 Mini Campagne/I - L'incident du Marronnier.md",
     "Invincible/Où ils en sont.md",

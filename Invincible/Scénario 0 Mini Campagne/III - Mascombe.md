@@ -26,7 +26,7 @@ Ce qu'elle peut leur apprendre :
 - Avant d'être défiguré, Cadmar était fiancé à Oriabel. Elle l'avait repoussé après l'accident à la scierie. Récemment, elle avait été promise au marchand Tancred.
 ## Le village en émoi
 
-> <font style="color:yellow">Sur la place, près du lavoir, vous croisez Lison, la fille du métayer Trémolet — c'est elle qui a vu Oriabel se faire enlever au crépuscule. Elle a 16 ans, elle pleure encore. Elle répète :</font> <font style="color:orange">"C'était un grand ours sur deux pattes. C'était Cadmar. C'était lui."</font>
+> <font style="color:yellow">Sur la place, près du lavoir, vous croisez Lison, la fille d'un paysan du nom de Trémolet — c'est elle qui a vu Oriabel se faire enlever au crépuscule. Elle a 16 ans, elle pleure encore. Elle répète :</font> <font style="color:orange">"C'était un grand ours sur deux pattes. C'était Cadmar. C'était lui."</font>
 
 **Note MJ :** ne pas trop creuser ici. L'enquête de la Bête Humaine se déroulera plus tard. Pour le moment, juste de l'ambiance.
 
