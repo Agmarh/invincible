@@ -11,7 +11,8 @@ Deux gardes sont en poste à l'entrée de la ville :
 - Volker, un milicien blessé, le bras gauche en écharpe. Il s'est blessé il y a quelques jours pendant une battue, en trébuchant sur une racine. Il est visiblement très frustré de ne pas pouvoir participer aux recherches. Peut également conduire les PJs chez Mamert.
 
 Ce qu'ils peuvent apprendre : 
-- Cadmar a disparu il y a une semaine. Tout le monde le tient pour la « bête » — pour eux, c'est un **ours-garou**.
+- "Vous comprenez, c'est pas la première fois qu'on voit ça. Il y a deux ans, un ours a tué Gobère à la scierie. Aujourd'hui Oriabel. Les gens sont à cran."
+- Cadmar a disparu il y a une semaine. Tout le monde le tient pour la « bête » — tout le monde pense qu'il est devenu un **ours-garou** après l'incident.
 - Les hommes le traquent dans l'Altwald depuis l'aube, ça fait des jours qu'ils cherchent.
 - L'intendant Mamert von Hessgau attend des aventuriers au **château de Felsenhof**, à un kilomètre au nord. Anselm aurait dû arriver hier — il n'est jamais venu  
 
@@ -51,6 +52,7 @@ Dialogue avec Lison :
 
 > <font style="color:orange">"Asseyez-vous. Vous prendrez du vin chaud ou de l'eau, à cette heure ?"</font>
 > <font style="color:orange">"Je vous ai fait venir pour une affaire pénible. Vous savez sans doute ce qu'on dit au village. Une jeune fille assassinée, une bête qu'on accuse. Tous les bras de la baronnie sont sur la traque, mais ils ne trouvent rien. Mon baron est parti à la guerre, je ne peux pas lui réclamer du renfort."</font>
+> <font style="color:orange">"Il y a deux ans, un ours immense a déjà ravagé la scierie de Gobère. Trois morts dont Gobère lui-même, et Cadmar défiguré. Depuis, le village vit avec cette peur."</font>
 > <font style="color:orange">"Si j'ai demandé explicitement des étrangers, c'est justement parce que vous ne connaissez personne ici, vous n'avez rien à perdre ni à gagner sauf l'or que je vous promets. C'est exactement ce qu'il me faut."</font>
 ## Le briefing officiel
 

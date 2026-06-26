@@ -84,6 +84,27 @@ Si les joueurs insistent pour continuer l'enquête, Huon hausse les épaules et 
 
 **Note arc druide** : Ursanne reconnaît instinctivement la druide *« vous êtes du peuple ancien, vous »*. Elle ne dit rien aux autres mais offre à la druide un sachet d'herbes médicinales (potion de soin équivalente à un sort *soin des blessures* niveau 1, à utiliser une fois). Petit cadeau.  
 
-### Possible : la forge de Thibault
+### Arc Barbare : la forge de Thibault
 
-À tout moment de la journée, la barbare peut être attirée par le bruit du marteau de Thibault. Voir section dédiée à l'arc barbare ci-dessous.
+> Tu pousses la porte de la forge. La chaleur te frappe avant le bruit. **Thibault**, gros gaillard humain au visage tanné, te jette un regard étonné — il ne s'attendait pas à une femme. Il pose son marteau, s'essuie le front.
+> "Vous êtes une des étrangers de l'intendant ? Liaze m'a parlé de vous. Asseyez-vous, si vous voulez. J'ai pas trop le temps pour bavarder — j'ai du retard sur une commande, et avec la battue ce matin…"
+> Tu regardes l'enclume. Le fer rougeoyant. Le marteau qu'il a posé près du foyer. Sans réfléchir, tu prends le marteau. Tu le soupèses. Tu le reposes. Thibault te regarde maintenant.
+> "Vous savez tenir un marteau."
+
+Thibault propose à la PJ de **l'aider sur sa commande** — un cercle de fer pour une roue de chariot. Elle accepte (ou pas). Si elle accepte, **bribes de souvenirs à distiller à la joueuse en aparté** :
+- Le bruit du marteau sur l'enclume = le bruit du vieux Tarn au matin.
+- L'odeur du fer chaud = l'odeur de sa convalescence après les bandits.
+- Quand Thibault lui tend la pince pour tenir une pièce, son geste est exactement celui que Tarn lui montrait.
+
+**Échange court** : 
+
+> Thibault : "Vous avez été apprentie quelque part ?"
+> La PJ : (au choix de la joueuse — silence, mensonge, ou vérité courte)
+> Thibault (si elle reconnaît) : "Et votre maître, où est-il maintenant ?"
+> La PJ : "Il est mort."
+> Thibault : "Désolé. Il vous a légué un beau geste."  
+
+### Ce que ça donne mécaniquement
+
+- Si elle a travaillé une heure ou deux à la forge, Thibault lui offre une **fiole de poison de cuivre** (vert-de-gris, qu'il utilisait pour patiner certaines pièces — possible utilisation comme poison faible, à voir avec le MJ).
+- Ou simplement, **Thibault devient un PNJ ami** qui la défendra publiquement si elle est attaquée à Mascombe. Ancrage local en germe.
