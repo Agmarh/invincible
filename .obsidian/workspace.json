@@ -121,6 +121,79 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "0e65cf3d75f15153",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Invincible/Scénario 0 Mini Campagne/II - Route de Felsenhof.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rétrolien pour II - Route de Felsenhof"
+            }
+          },
+          {
+            "id": "377c3252d9a89768",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Invincible/Scénario 0 Mini Campagne/II - Route de Felsenhof.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Liens sortants de II - Route de Felsenhof"
+            }
+          },
+          {
+            "id": "8cd8a34e752d3b45",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Mots-clés"
+            }
+          },
+          {
+            "id": "b7f6d2e03da2a513",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Invincible/Scénario 0 Mini Campagne/II - Route de Felsenhof.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Plan de II - Route de Felsenhof"
+            }
+          },
+          {
+            "id": "9cc0bdb74e729be6",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
           }
         ]
       },
