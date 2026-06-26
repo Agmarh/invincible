@@ -204,6 +204,15 @@ Artus, le dogue noir, attend chez Huon. A l'apparition de Cadmar au moment criti
 - **Huon vaincu et capturé** : ramené au chateau, jugé, pendu. Résolution la plus propre.
 - **Huon vaincu et tué**. Les preuves suffisent.
 
+### La cache de Huon — preuve définitive et enquête secondaire  
+
+Si les PJ récupèrent la clé en argent et la présentent à Mamert (ou s'ils explorent le logis des chasseurs), Mamert leur ouvre **la chambre de Huon au-dessus du logis des chasseurs**, près du château. Derrière un panneau de bois mal ajusté, à l'arrière de l'armoire, une cache contient : 
+
+- **Lettres pliées** — correspondance d'une famille du village voisin de **Marchaut** (à 3 jours à l'est, hors baronnie de Felsenhof), demandant des nouvelles de leur fille **Iselte** disparue depuis 6 mois. Les dernières lettres deviennent suppliantes, puis désespérées. Aucune réponse de Huon n'est conservée — il n'a jamais répondu.
+- **Médaillon en argent** au profil d'une jeune femme, gravé *« Iselte »* au dos. Pris à la victime du viol — Oriabel avait dû l'apercevoir, ce qui avait précipité la décision de Huon de la faire taire. Valeur ~25 po, mais c'est avant tout un objet à rendre à la famille.
+- **Bourse cachée** : **60 po supplémentaires**.
+- **Carnet de chasse** anodin (relevés de pistes, dates de battues) — utile pour reconstituer ses déplacements si quelqu'un creuse. Il y conserve aussi une description de Iselte et Oriabel, preuve qu'il était détraqué.  
+
 ## Phase 6 — Résolution
 
 Les PJ rentrent au château avec :
@@ -218,4 +227,11 @@ Les PJ rentrent au château avec :
 ### Récompenses  
 
 - **115 po par tête**.
-- Mamert leur offre l'ancienne demeure de Huon
+- Mamert leur offre l'ancienne demeure de Huon, une cabane de chasse en bordure de la forêt, proche du village.
+- Niveau 3
+
+### Transition vers Raven'ill
+
+Pendant le repos narratif qui suit, plusieurs leviers à activer :
+- **Mamert** évoque son correspondant inquiet, le **baron Frostwin de Raven'ill**. <font style="color:orange">"Plus de nouvelles depuis trois mois. Si vous repartez vers l'est dans quelques semaines, faites-moi signe. J'aimerais que vous y passiez."</font>
+- **Un voyageur arrivé à Mascombe** parle de rumeurs étranges venant de Raven'ill — épidémie, morts, château fermé.

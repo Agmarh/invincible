@@ -63,6 +63,8 @@ treasure:
     desc: "Trèfle à quatre feuilles en argent porté sous sa chemise. Permet de relancer un d20 de son choix, une fois par jour."
   - name: Baume revigorant
     desc: "Petit pot en verre, 1d4+1 doses. Chaque dose, en action : 2d8+2 PV récupérés, retire l'état empoisonné et soigne toutes les maladies."
+  - name: Clé en argnet
+    desc: "Une clé en argent qui ouvre la cache de Huon dans sa cabane."
 ```
 
 

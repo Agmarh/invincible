@@ -30,11 +30,11 @@ Ce qu'elle peut leur apprendre :
 > <font style="color:yellow">Sur la place, près du lavoir, vous croisez Lison, la fille d'un paysan — c'est elle qui a vu Oriabel se faire enlever au crépuscule. Elle a 16 ans, elle pleure encore. </font>
 
 Dialogue avec Lison :
-**Lison Trémolet**, 16 ans, fille du métayer Cassagnol, **a vu l'enlèvement d'Oriabel**. Elle est encore en état de choc, sa mère ne la quitte pas.  
+**Lison Cassagnol**, 16 ans, soeur cadette d'Oriabel, **a vu l'enlèvement de sa soeur**. Elle est encore en état de choc, sa mère ne la quitte pas.  
 
 **Ce qu'elle dit (canon) :**
 - Au crépuscule, elle était au lavoir avec Oriabel. Elles discutaient de Tancred (le marchand qui devait épouser Oriabel).
-- Soudain, **une grande forme** est sortie du bois — *« un ours debout, énorme, avec des griffes »*. La bête s'est jetée sur Oriabel, l'a emportée. Lison s'est évanouie.
+- Soudain, **une grande forme** est sortie du bois — *« un ours debout, énorme, avec des griffes »*. La bête s'est jetée sur Oriabel, l'a emportée. Lison s'est évanouie à cause d'un coup à la tête.
 - Elle est persuadée que c'était Cadmar — *« il l'aimait et elle l'avait laissé, c'est forcément lui ».*  
 
 **Ce qu'elle ne dit pas (à creuser)** : elle a vu la bête **moins d'une seconde** avant de s'évanouir. Son témoignage est en partie reconstruction *a posteriori*.
