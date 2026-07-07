@@ -3,8 +3,6 @@
 > Ancienne cabane de chasse de Huon en bordure ouest de Mascombe, lisière de l'Altwald.
 > Offerte par Mamert à la fin de La Bête Humaine — levier d'ancrage local n°1.
 
----
-
 ## Localisation et voisinage
 
 - **Excentrée à l'ouest de Mascombe.** La cabane est à l'écart des dernières maisons — Huon voulait la tranquillité, pas la compagnie. Il faut compter **10-15 min à pied** entre la cabane et la place du village.
@@ -13,8 +11,6 @@
 - **Pas de voisin immédiat**. La cabane la plus proche est à plusieurs centaines de mètres — la cabane est **volontairement isolée**, comme Huon la voulait. Les PJ vivent à part.
 
 **À peaufiner plus tard** : quelques habitants importants du village avec qui les PJ vont tisser des liens (Yon le bûcheron déjà présent au chapitre 4, Liaze et Thibault de la forge, Ursanne, Aliénor à venir, Mère Berthold à l'auberge du Loup Gris). Les interactions se joueront **en allant au village**, pas au seuil de la cabane. On construira ce tissu de relations au fil des repos narratifs.
-
----
 
 ## Description physique
 
