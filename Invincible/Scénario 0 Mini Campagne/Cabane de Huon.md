@@ -26,9 +26,7 @@ Petite cabane en rondins de pin et pierres sèches, construite il y a une quinza
 	- Porte robuste avec cadenas discret.
 - **Soupente** sous la charpente, accessible par une échelle : espace de rangement pour peaux, provisions séchées, réserves de bois. **Peut être aménagée** en petit espace de sommeil supplémentaire (matelas, cloison légère).
 - **Appentis extérieur** contre le mur sud : bois de chauffage empilé, un billot pour fendre, deux crochets où pendaient les gibiers à saigner.
-- **Petit potager laissé à l'abandon** derrière la cabane — herbes aromatiques envahies de mauvaises herbes. À réhabiliter (bon prétexte pour Lykea).
-
----
+- **Petit potager laissé à l'abandon** derrière la cabane — herbes aromatiques envahies de mauvaises herbes. À réhabiliter.
 
 ## État à l'arrivée — ambiance
 
@@ -42,41 +40,35 @@ Cabane **simple et fonctionnelle**. Huon était méthodique — tout est propre,
 
 **Ce que les PJ ressentent** : *« On est chez lui, mais il n'est pas là. Il ne reviendra pas. »* Mélange de gêne, curiosité, et opportunité.
 
----
-
 ## Contenu résiduel de Huon
 
 Ce que les PJ trouvent en fouillant à leur rythme (aucun jet requis, tout est visible) :
 
-| Zone | Contenu |
-| --- | --- |
-| Râtelier | Un arc court de rechange (utile pour un PJ), 2 couteaux, 3 pièges à mâchoire, un cor de chasse en corne, un carquois vide, une pierre à aiguiser |
-| Étagères cuisine | Viande séchée (2 semaines de rations), farine, sel, un pot de confit d'oie, une bouteille de cidre entamée, du miel dans un pot en terre |
-| Table | Un livre de comptes de chasse (dates, prises, poids) — anodin |
-| Sous le lit | Un coffre en bois **non verrouillé** avec des vêtements de rechange, une paire de bottes de rechange, une cape de laine |
-| Sur la cheminée | Un bougeoir en fer, une pipe éteinte, un petit couteau à graver |
+| Zone              | Contenu                                                                                                                                                     |
+| ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Râtelier          | Un arc court de rechange (utile pour un PJ), 2 couteaux, 3 pièges à mâchoire, un cor de chasse en corne, un carquois vide, une pierre à aiguiser            |
+| Étagères cuisine  | Viande séchée (1 semaines de rations), farine, sel, une bouteille de cidre entamée, du miel dans un pot en terre                                            |
+| Table             | Un livre de comptes de chasse (dates, prises, poids)                                                                                                        |
+| Sous le lit       | Un coffre en bois **non verrouillé** avec des vêtements de rechange, une paire de bottes de rechange, une cape de laine                                     |
+| Sur la cheminée   | Un bougeoir en fer, une pipe éteinte, un petit couteau à graver                                                                                             |
 | Poutre principale | Encoches gravées au poignard — les PJ ne le remarquent qu'en levant les yeux. Petite fissure glaçante, on comprendra plus tard qu'il comptait quelque chose |
-| Appentis | Corde, hache, scie, deux torches, du silex |
-| Potager | Sauge, thym, romarin envahis. Une souche de plante inconnue à Lykea (Nature DD 12 : ancienne racine médicinale) |
+| Appentis          | Corde, hache, scie, deux torches, du silex                                                                                                                  |
+| Potager           | Sauge, thym, romarin envahis. Une souche de plante inconnue à Lykea (Nature DD 12 : ancienne racine médicinale)                                             |
 
 **Rien de personnel** : pas de portrait, pas de lettre à la vue, pas de souvenir de famille. Huon n'avait apparemment pas de famille. Ou bien — *la vérité que la cache révélera*.
 
----
-
 ## La cache — la face sombre de Huon
 
-**Emplacement** : sous **une latte défaite du plancher, juste devant la cheminée**. La latte grince différemment des autres — un PJ attentif la remarque, ou bien un chien flairerait quelque chose (Artus l'aurait senti d'entrée si les PJ l'ont ramené).
+**Emplacement** : sous **une latte défaite du plancher, juste devant la cheminée**. La latte grince différemment des autres — un PJ attentif la remarque, ou bien un chien flairerait quelque chose.
 
 **Comment la trouver** :
 - **Investigation DD 13** en fouillant activement la cabane.
 - OU **Perception passive 12** en marchant simplement sur la latte le premier soir (elle craque bizarrement).
-- OU orienté par un PNJ : Yon le bûcheron peut mentionner, si on lui demande, que *« Huon passait des heures assis là, devant la cheminée. Comme s'il gardait un œil sur ses pieds. »*
 
 **Contenu de la cache** :
-
-- **Un petit coffret en bois cerclé de fer**, verrouillé par un cadenas fin. **La clé en argent ouvragée** (gravée d'un cor de chasse) que les PJ ont trouvée sur Huon pendant le combat s'y adapte parfaitement. *(Ils peuvent aussi forcer le coffret — Crochetage DD 15 ou Force DD 14 — mais ils abîment un peu les preuves.)*
+- **Un petit coffret en bois cerclé de fer**, verrouillé par un cadenas fin. **La clé en argent ouvragée** que les PJ ont trouvée sur Huon pendant le combat s'y adapte parfaitement. *(Ils peuvent aussi forcer le coffret — Crochetage DD 15 ou Force DD 14)*
 - Dans le coffret :
-	- **Un liasse de lettres pliées** — correspondance d'une famille de **Marchaut** (village à 3 jours de marche à l'est, hors baronnie de Felsenhof), demandant depuis 6 mois des nouvelles de leur fille **Iselte** disparue. Les dernières lettres deviennent suppliantes puis désespérées. Aucune réponse de Huon.
+	- **Un liasse de lettres pliées** — correspondance d'une famille de **Marchaut** (village à 7 jours de marche à l'est, hors baronnie de Felsenhof), demandant depuis 6 mois des nouvelles de leur fille **Iselte** disparue. Les dernières lettres deviennent suppliantes puis désespérées. Aucune réponse de Huon.
 	- **Un médaillon en argent** au profil d'une jeune femme, gravé *« Iselte »* au dos. Pris à la victime du viol qu'a commis Huon il y a 6 mois. Valeur ~25 po, mais surtout à rendre à la famille.
 	- **Une bourse cachée** contenant **60 po** supplémentaires.
 	- **Un carnet de chasse plus intime** que celui de la table — dates, lieux, mais aussi **des descriptions physiques d'Iselte et d'Oriabel**, notées avec un soin dérangeant. Preuve qu'il était détraqué au-delà du simple crime. À ne pas montrer à un joueur sensible sans prévenir.
