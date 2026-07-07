@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Invincible/Scénario 0 Mini Campagne/III - Mascombe.md",
+                "file": "Invincible/Scénario 0 Mini Campagne/Récapitulatif.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "III - Mascombe"
+              "title": "Récapitulatif"
             }
           },
           {
@@ -53,30 +53,6 @@
               },
               "icon": "lucide-file",
               "title": "Récapitulatif"
-            }
-          },
-          {
-            "id": "2585c575ee3c6806",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Invincible/Où ils en sont.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Où ils en sont"
             }
           }
         ]
@@ -263,8 +239,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 406.5,
-    "collapsed": true
+    "width": 406.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -283,13 +258,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fba545b276a0a770",
+  "active": "4f2e89843baa22c8",
   "lastOpenFiles": [
     "Invincible/Où ils en sont.md",
     "Invincible/Scénario 0 Mini Campagne/Récapitulatif.md",
+    "Invincible/Scénario 0 Mini Campagne/III - Mascombe.md",
+    "Invincible/Scénario 0 Mini Campagne/Récapitulatif.md.tmp.5.586e78d1f0d0",
     "Invincible/Scénario 0 Mini Campagne/I - L'incident du Marronnier.md",
     "Invincible/Scénario 0 Mini Campagne/IV - Bête Humaine.md",
-    "Invincible/Scénario 0 Mini Campagne/III - Mascombe.md",
     "Invincible/Scénario 0 Mini Campagne/II - Route de Felsenhof.md",
     "Annexe/Bestiaire/Huon le Dogue.md",
     "Invincible/PDF/hd_04_invincible_web_v1.pdf",
@@ -310,7 +286,6 @@
     "Annexe/Bestiaire/Skum.md",
     "Annexe/Bestiaire/Shaman Homme-Lézard.md",
     "Annexe/Bestiaire/Servantès Di Paleddo.md",
-    "Annexe/Bestiaire/Serpent Lacustre.md",
-    "Annexe/Bestiaire/Serpent constricteur géant.md"
+    "Annexe/Bestiaire/Serpent Lacustre.md"
   ]
 }
