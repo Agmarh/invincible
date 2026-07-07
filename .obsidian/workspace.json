@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Invincible/Scénario 0 Mini Campagne/IV - Bête Humaine.md",
+                "file": "Invincible/Scénario 0 Mini Campagne/Cabane de Huon.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -78,7 +78,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "IV - Bête Humaine"
+              "title": "Cabane de Huon"
             }
           }
         ],
@@ -286,12 +286,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4f2e89843baa22c8",
+  "active": "59bbfcc728feb9b0",
   "lastOpenFiles": [
+    "Invincible/Scénario 0 Mini Campagne/Cabane de Huon.md.tmp.5.86e2308f511e",
+    "Invincible/Scénario 0 Mini Campagne/Cabane de Huon.md.tmp.5.ced62f91c753",
+    "Invincible/Scénario 0 Mini Campagne/Cabane de Huon.md.tmp.5.3436aa3f8c54",
+    "Invincible/Scénario 0 Mini Campagne/IV - Bête Humaine.md",
     "Invincible/Scénario 0 Mini Campagne/Cabane de Huon.md",
     "Invincible/Scénario 0 Mini Campagne/Cabane de Huon.md.tmp.5.15942acfbd19",
     "Invincible/Scénario 0 Mini Campagne/Récapitulatif.md",
-    "Invincible/Scénario 0 Mini Campagne/IV - Bête Humaine.md",
     "Invincible/Scénario 0 Mini Campagne/I - L'incident du Marronnier.md",
     "Invincible/Scénario 0 Mini Campagne/Récapitulatif.md.tmp.5.4d517cb69677",
     "Invincible/Où ils en sont.md",
@@ -316,7 +319,6 @@
     "Annexe/Bestiaire/Soldat de Lycanis.md",
     "Annexe/Bestiaire/Skum.md",
     "Annexe/Bestiaire/Shaman Homme-Lézard.md",
-    "Annexe/Bestiaire/Servantès Di Paleddo.md",
-    "Annexe/Bestiaire/Serpent Lacustre.md"
+    "Annexe/Bestiaire/Servantès Di Paleddo.md"
   ]
 }

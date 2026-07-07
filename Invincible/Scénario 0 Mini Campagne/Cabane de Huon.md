@@ -7,13 +7,12 @@
 
 ## Localisation et voisinage
 
-- **Lisière ouest de Mascombe.** À la limite entre les dernières maisons du village et l'Altwald.
+- **Excentrée à l'ouest de Mascombe.** La cabane est à l'écart des dernières maisons — Huon voulait la tranquillité, pas la compagnie. Il faut compter **10-15 min à pied** entre la cabane et la place du village.
 - **Forêt à 20-30 mètres à l'arrière** — vue directe sur les premiers arbres depuis les fenêtres arrières.
-- **Sentier à l'avant** vers la place du village (5-10 min à pied). Cabane à la fois discrète et accessible.
-- **Voisinage immédiat** :
-	- Aucune maison à moins de 100 m à l'est (bosquet et champ vide entre la cabane et le village).
-	- **Yon le bûcheron** vit à 200 m au sud dans une chaumière plus modeste. Il connaissait Huon de loin, sans plus. Peut devenir voisin de confiance après quelques semaines.
-	- **Un vieux chevrier halfelin** (à nommer si utile — proposition : **Melche Chausse-Trape**) passe chaque matin sur le sentier vers 7 h avec sa demi-douzaine de chèvres. Salut la main levée, disponible pour un fromage ou un mot. Bon PNJ satellite pour l'ancrage.
+- **Sentier à l'avant** vers Mascombe, isolé, bordé de bosquets et de champs vides. La marche du soir se fait dans le silence.
+- **Pas de voisin immédiat**. La cabane la plus proche est à plusieurs centaines de mètres — la cabane est **volontairement isolée**, comme Huon la voulait. Les PJ vivent à part.
+
+**À peaufiner plus tard** : quelques habitants importants du village avec qui les PJ vont tisser des liens (Yon le bûcheron déjà présent au chapitre 4, Liaze et Thibault de la forge, Ursanne, Aliénor à venir, Mère Berthold à l'auberge du Loup Gris). Les interactions se joueront **en allant au village**, pas au seuil de la cabane. On construira ce tissu de relations au fil des repos narratifs.
 
 ---
 
@@ -117,9 +116,10 @@ Ce que les PJ trouvent en fouillant à leur rythme (aucun jet requis, tout est v
 
 ### PNJ qui apparaissent au fil du temps
 
-- **Melche Chausse-Trape le chevrier** — devient un familier, apporte du fromage.
+*À peaufiner : liste des habitants importants avec qui les PJ vont tisser des liens durables. Les interactions se joueront surtout au village, mais certains peuvent passer à la cabane pour rendre service, aider à un aménagement, ou par attachement personnel.*
+
 - **Un maçon halfelin d'Azul** que Maman Aldée envoie pour aider (renforcement d'un mur, création du poêle).
-- **Aliénor** (orpheline de Mascombe) — commence à passer souvent, aide à balayer, à porter l'eau. Devient l'enfant du groupe à protéger.
+- **Aliénor** (orpheline de Mascombe) — commence à passer parfois, aide à balayer, à porter l'eau. Devient l'enfant du groupe à protéger.
 - **Un menuisier de Felsenhof** envoyé par Mamert pour la cloison de la soupente.
 
 ---
@@ -132,7 +132,6 @@ Ce que les PJ trouvent en fouillant à leur rythme (aucun jet requis, tout est v
 - **Le grand nettoyage** — deuxième journée. Chacun se met à un coin. Faire les jets sociaux (aide mutuelle, conversations). Sam trouve du courage à briquer le râtelier. Lykea replante le potager. Haisse invente une chanson idiote sur les toiles d'araignée.
 - **La cache trouvée** — moment lourd. Silence. Que faire ? Que dire à Mamert ? Rendre le médaillon ? Le garder ? Le brûler ? À laisser aux PJ.
 - **Repas partagé** — premier vrai repas cuisiné dans la cheminée. Quel plat ? Qui cuisine ? Quel toast ? *(Occasion parfaite pour instaurer un rituel d'équipe — cf. contexte, Levier 6.)*
-- **Melche apporte du fromage** — le chevrier passe un matin, tend un panier, ne demande rien. *« Bon voisinage. »* Silence gêné, Sam qui ne sait pas remercier, Lykea qui prend le panier avec un signe druidique discret que Melche reconnaît.
 - **La nuit d'orage** — la cabane tient, la cheminée fume mal, un des PJ se lève pour surveiller la porte. Un renard vient s'abriter sous l'appentis. Petit moment de solitude et de calme.
 - **Aliénor cherche refuge** — l'orpheline arrive un soir en pleurant après une engueulade dans son foyer d'accueil. Les PJ la couchent sur la soupente. Elle repart au matin, mais le lien est fait.
 - **Retour de Raven'ill** — quand ils rentrent brisés, la cabane les accueille comme un vrai foyer. Ils ne l'ont pas dit avant, mais elle est chez eux maintenant.
