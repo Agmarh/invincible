@@ -7,54 +7,55 @@ Checklist chapitre par chapitre. À cocher au fur et à mesure des séances.
 
 ## Chapitre 1 — L'incident du Marronnier *(Azul)*
 
-| Élément                                                                     | Statut | Session | Notes                                                                                   |
-| --------------------------------------------------------------------------- | ------ | ------- | --------------------------------------------------------------------------------------- |
-| **Plant Yelka** — anecdote de Maman Aldée sur sa nièce qui a oublié Jaseran | ✅      | S1      | **Haisse a tilté et posé des questions** - lien fait avec la perte de mémoire de Tolnek |
-| Stabilisation d'Anselm par Lykea                                            | ✅      | S1      |                                                                                         |
-| Mission pour Mascombe accepté                                               | ✅      | S1      |                                                                                         |
+| Élément                                                                                                                              | Statut | Session | Notes                                                                                   |
+| ------------------------------------------------------------------------------------------------------------------------------------ | ------ | ------- | --------------------------------------------------------------------------------------- |
+| [[I - L'incident du Marronnier#L'Hospiterie du Marronnier\|Plant Yelka — anecdote de Maman Aldée sur sa nièce qui a oublié Jaseran]] | ✅      | S1      | **Haisse a tilté et posé des questions** - lien fait avec la perte de mémoire de Tolnek |
+| [[I - L'incident du Marronnier#L'incident\|Stabilisation d'Anselm par Lykea]]                                                        | ✅      | S1      |                                                                                         |
+| [[I - L'incident du Marronnier#Arrivée de Coron Pied-Léger\|Mission pour Mascombe accepté]]                                          | ✅      | S1      |                                                                                         |
 
 
 ## Chapitre 2 — Route vers Felsenhof
 
-| Élément                                                    | Statut | Session | Notes          |
-| ---------------------------------------------------------- | ------ | ------- | -------------- |
-| Rencontre avec Brenwald Brindille-Forte (halfelin, potier) | ✅      | S1      |                |
-| Embuscade des brigands (Krell, Borek, Niska)               | ✅      | S1      | Brigants morts |
-| Repos long à la Ferdhauss du col                           | ✅      | S1      |                |
+| Élément | Statut | Session | Notes |
+| --- | --- | --- | --- |
+| [[II - Route de Felsenhof\|Rencontre avec Brenwald Brindille-Forte (halfelin, potier)]] | ✅ | S1 | |
+| [[II - Route de Felsenhof#L'embuscade\|Embuscade des brigands (Krell, Borek, Niska)]] | ✅ | S1 | Brigants morts |
+| [[II - Route de Felsenhof#La Ferdhauss\|Repos long à la Ferdhauss du col]] | ✅ | S1 | |
 
 
 ## Chapitre 3 — Briefing de Mamert
 
-| Élément                                                              | Statut | Session | Notes                                                |
-| -------------------------------------------------------------------- | ------ | ------- | ---------------------------------------------------- |
-| Rencontre Lison Cassagnol au lavoir (sœur cadette d'Oriabel, 16 ans) | ✅      | S2      |                                                      |
-| Briefing de Mamert et rencontre Huon                                 | ✅      | S2      | Lykea a tenté de parler au chien, réprimande de Huon |
-| Info Gobère tué par un ours il y a 2 ans                             | ✅      | S2      |                                                      |
-| **Niveau 2 accordé**                                                 | ✅      | S2      |                                                      |
-| Aparté Mamert - Haisse                                               | ✅      | S2      |                                                      |
-| Retour à Mascombe pour la nuit (Auberge du Loup Gris, Mère Berthold) | ✅      | S2      |                                                      |
+| Élément                                                                                                     | Statut | Session | Notes                                                |
+| ----------------------------------------------------------------------------------------------------------- | ------ | ------- | ---------------------------------------------------- |
+| [[III - Mascombe#Le village en émoi\|Rencontre Lison Cassagnol au lavoir (sœur cadette d'Oriabel, 16 ans)]] | ✅      | S2      |                                                      |
+| [[III - Mascombe#Le briefing officiel\|Briefing de Mamert et rencontre Huon]]                               | ✅      | S2      | Lykea a tenté de parler au chien, réprimande de Huon |
+| [[III - Mascombe#Mamert von Hessgau\|Info Gobère tué par un ours il y a 2 ans]]                             | ✅      | S2      |                                                      |
+| Niveau 2 accordé                                                                                            | ✅      | S2      |                                                      |
+| [[III - Mascombe#Aparté Mamert ↔ Haisse Per LUETTE\|Aparté Mamert - Haisse]]                                | ✅      | S2      |                                                      |
+| [[III - Mascombe#Retour à Mascombe\|Retour à Mascombe pour la nuit (Auberge du Loup Gris, Mère Berthold)]]  | ✅      | S2      |                                                      |
 
 
 ## Chapitre 4 — La Bête Humaine
 
-| Élément                                                                        | Statut | Session | Notes                                 |
-| ------------------------------------------------------------------------------ | ------ | ------- | ------------------------------------- |
-| Retour de la battue en milieu de journée (Amans crache, hostilité villageoise) | ⬜      |         |                                       |
-| Huon arrive avec fausse piste à midi                                           | ⬜      |         |                                       |
-| Interrogatoire Lison au lavoir                                                 | ✅      | S2      |                                       |
-| Interrogatoire Bovert au moulin                                                | ✅      | S2      |                                       |
-| Métairie Cassagnol — examen du corps d'Oriabel                                 | ✅      | S2      | **Ils savent tout des blessures**     |
-| **Sam à la forge de Thibault**                                                 | ✅      | S2      | **Fiole de poison de cuivre obtenue** |
-| Rencontre Ursanne la sage-femme                                                | ⬜      |         | Ursanne oriente vers Baudoin          |
-| **Corbeaux de Lykea envoyés vers Baudoin**                                     | ✅      | S2      | **Raccourci pour Baudoin**            |
-| Rencontre Baudoin l'ermite                                                     | ⬜      |         |                                       |
-| Sous-intrigue esprit forestier / vieux chêne                                   | ⬜      |         |                                       |
-| Masure de Cadmar                                                               | ⬜      |         |                                       |
-| Rencontre Cadmar dans la clairière                                             | ⬜      |         |                                       |
-| **Confrontation Huon**                                                         | ⬜      |         | Intervention de Cadmar possible       |
-| Cache de Huon au logis des chasseurs (lettres Iselte, médaillon, 60 po)        | ⬜      |         |                                       |
-| **Niveau 3 accordé**                                                           | ⬜      |         |                                       |
-| Transition Raven'ill                                                           | ⬜      |         | Amorce scénario suivant               |
+| Élément                                                                                                                                               | Statut | Session | Notes                                 |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ------- | ------------------------------------- |
+| [[IV - Bête Humaine#Le retour de la battue *(en milieu de journée)*\|Retour de la battue en milieu de journée (Amans crache, hostilité villageoise)]] | ⬜      |         |                                       |
+| [[IV - Bête Humaine#Huon arrive\|Huon arrive avec fausse piste à midi]]                                                                               | ⬜      |         |                                       |
+| [[III - Mascombe#Le village en émoi\|Interrogatoire Lison au lavoir]]                                                                                 | ✅      | S2      |                                       |
+| [[IV - Bête Humaine#Le moulin — Bovert cache la vérité\|Interrogatoire Bovert au moulin]]                                                             | ✅      | S2      |                                       |
+| [[IV - Bête Humaine#La métairie Cassagnol — la famille d'Oriabel\|Métairie Cassagnol — examen du corps d'Oriabel]]                                    | ✅      | S2      | **Ils savent tout des blessures**     |
+| [[IV - Bête Humaine#Arc Barbare : la forge de Thibault\|Sam à la forge de Thibault]]                                                                  | ✅      | S2      | **Fiole de poison de cuivre obtenue** |
+| [[IV - Bête Humaine#La sage-femme Ursanne\|Rencontre Ursanne la sage-femme]]                                                                          | ⬜      |         | Ursanne oriente vers Baudoin          |
+| Corbeaux de Lykea envoyés vers Baudoin                                                                                                                | ✅      | S2      | **Raccourci pour Baudoin**            |
+| [[IV - Bête Humaine#Baudoin l'ermite\|Rencontre Baudoin l'ermite]]                                                                                    | ⬜      |         |                                       |
+| [[IV - Bête Humaine#L'esprit forestier *(sous-intrigue canon)*\|Sous-intrigue esprit forestier / vieux chêne]]                                        | ⬜      |         |                                       |
+| [[IV - Bête Humaine#La masure de Cadmar\|Masure de Cadmar]]                                                                                           | ⬜      |         |                                       |
+| [[IV - Bête Humaine#Phase 4 — Trouver Cadmar\|Rencontre Cadmar dans la clairière]]                                                                    | ⬜      |         |                                       |
+| [[IV - Bête Humaine#Phase 5 — La confrontation Huon\|Confrontation Huon]]                                                                             | ⬜      |         | Intervention de Cadmar possible       |
+| [[IV - Bête Humaine#La cache de Huon — preuve définitive et enquête secondaire\|Cache de Huon au logis des chasseurs]]                                | ⬜      |         |                                       |
+| Niveau 3 accordé                                                                                                                                      | ⬜      |         |                                       |
+| [[IV - Bête Humaine#Transition vers Raven'ill\|Transition Raven'ill]]                                                                                 | ⬜      |         | Amorce scénario suivant               |
+
 
 ## Notes libres par session
 
@@ -69,6 +70,3 @@ Checklist chapitre par chapitre. À cocher au fur et à mesure des séances.
 - Début Chapitre 4 : Lison, Bovert (craqué), corps d'Oriabel examiné
 - Sam à la forge → fiole de poison de cuivre obtenue
 - Lykea a envoyé 2 corbeaux chercher Baudoin (approche originale)
-
-
-
