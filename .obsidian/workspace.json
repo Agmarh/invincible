@@ -56,8 +56,33 @@
               "icon": "lucide-file",
               "title": "IV - Bête Humaine"
             }
+          },
+          {
+            "id": "59bbfcc728feb9b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Invincible/Scénario 0 Mini Campagne/IV - Bête Humaine.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "IV - Bête Humaine"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -260,10 +285,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fba545b276a0a770",
+  "active": "4f2e89843baa22c8",
   "lastOpenFiles": [
-    "Invincible/Scénario 0 Mini Campagne/IV - Bête Humaine.md",
     "Invincible/Scénario 0 Mini Campagne/Récapitulatif.md",
+    "Invincible/Scénario 0 Mini Campagne/IV - Bête Humaine.md",
     "Invincible/Scénario 0 Mini Campagne/I - L'incident du Marronnier.md",
     "Invincible/Scénario 0 Mini Campagne/Récapitulatif.md.tmp.5.4d517cb69677",
     "Invincible/Où ils en sont.md",
