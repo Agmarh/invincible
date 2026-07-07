@@ -14,18 +14,18 @@
 
 ## Description physique
 
-Petite cabane en rondins de pin et pierres sèches, construite il y a une quinzaine d'années par Huon lui-même selon les rumeurs villageoises. Simple, robuste, sans fioriture.
+Cabane en rondins de pin et pierres sèches, **plus vaste qu'une simple cabane individuelle**. **Elle a été commandée par le baron Aymar** pour loger une équipe de chasseurs partant en battue — mais comme Huon était le seul chasseur attitré du village, il l'a occupée seul pendant des années. Le baron avait vu grand.
 
 - **Rez-de-chaussée — une seule grande pièce** :
-	- Cheminée en pierres sèches sur le mur nord (celui côté forêt).
-	- Un **grand lit à deux places** contre le mur est (Huon dormait souvent seul, mais il avait de la place — utile pour Sam ou Lykea qui préfèrent l'espace).
-	- **Table de bois massif** au centre, 4 tabourets.
+	- Cheminée en pierres sèches sur le mur nord (côté forêt).
+	- **4 lits simples** alignés le long des murs — Huon dormait dans celui près de la cheminée, les autres restaient toujours faits, jamais utilisés. Les PJ ont donc **un lit chacun** dès le premier soir, plus un lit de réserve (invité, PNJ blessé, etc.).
+	- **Grande table de bois massif** au centre, 4 tabourets.
 	- Coin cuisine sommaire : évier en pierre, étagères, réserves.
 	- Un **râtelier** au mur ouest pour les armes et outils de chasse.
 	- **Deux fenêtres à l'arrière** (côté forêt), une petite à l'avant.
 	- Porte robuste avec cadenas discret.
-- **Soupente** sous la charpente, accessible par une échelle : espace de rangement pour peaux, provisions séchées, réserves de bois. **Peut être aménagée** en petit espace de sommeil supplémentaire (matelas, cloison légère).
-- **Appentis extérieur** contre le mur sud : bois de chauffage empilé, un billot pour fendre, deux crochets où pendaient les gibiers à saigner.
+- **Soupente** sous la charpente, accessible par une échelle : espace de rangement pour peaux, provisions séchées, réserves de bois. **Peut être aménagée** en espace de sommeil intime (cloison légère) pour un PJ qui préférerait vraiment être à part.
+- **Abri à bois** contre le mur sud : bois de chauffage empilé, un billot pour fendre, deux crochets où pendaient les gibiers à saigner.
 - **Petit potager laissé à l'abandon** derrière la cabane — herbes aromatiques envahies de mauvaises herbes. À réhabiliter.
 
 ## État à l'arrivée — ambiance
@@ -52,7 +52,7 @@ Ce que les PJ trouvent en fouillant à leur rythme (aucun jet requis, tout est v
 | Sous le lit       | Un coffre en bois **non verrouillé** avec des vêtements de rechange, une paire de bottes de rechange, une cape de laine                                     |
 | Sur la cheminée   | Un bougeoir en fer, une pipe éteinte, un petit couteau à graver                                                                                             |
 | Poutre principale | Encoches gravées au poignard — les PJ ne le remarquent qu'en levant les yeux. Petite fissure glaçante, on comprendra plus tard qu'il comptait quelque chose |
-| Appentis          | Corde, hache, scie, deux torches, du silex                                                                                                                  |
+| Abri à bois       | Corde, hache, scie, deux torches, du silex                                                                                                                  |
 | Potager           | Sauge, thym, romarin envahis. Une souche de plante inconnue à Lykea (Nature DD 12 : ancienne racine médicinale)                                             |
 
 **Rien de personnel** : pas de portrait, pas de lettre à la vue, pas de souvenir de famille. Huon n'avait apparemment pas de famille. Ou bien — *la vérité que la cache révélera*.
@@ -75,19 +75,26 @@ Ce que les PJ trouvent en fouillant à leur rythme (aucun jet requis, tout est v
 
 ## Évolutions possibles au fil des repos narratifs
 
-### Aménagements matériels
+Prix indicatifs basés sur les tarifs artisans H&D (ouvrier qualifié ~2 po/jour, non qualifié ~5 pa/jour). Le MJ ajuste selon les négociations en table. Certains aménagements peuvent aussi se troquer contre un service rendu.
 
-- **Rideaux, tapis, décoration**.
-- **Cloison légère** dans la soupente pour créer un espace intime (chambre séparée pour un PJ qui préfère l'isolement).
-- **Poêle en pierre** ajouté par un maçon du village en échange d'un service.
-- **Table plus grande** ou banc pour manger à 4 confortablement.
-- **Étagère à livres** — Haisse commence une bibliothèque (partitions, poèmes).
-- **Râtelier étendu** pour les armes qui s'accumulent en aventure.
-- **Petit établi** à la forge intégré à l'appentis — Sam peut y travailler le fer à ses heures (avec l'aide de Thibault au début).
-- **Autel druidique** discret dans le potager — Lykea replante ses herbes, dresse un petit cercle de pierres.
+### Aménagements intérieurs
+
+| Aménagement                             | Prix indicatif | Notes                                                     |
+| --------------------------------------- | -------------- | --------------------------------------------------------- |
+| Rideaux, tapis, décoration simple       | 10 po          | Marché de Mascombe ou Azul                                |
+| Étagères murales, râtelier étendu       | 3-5 po         | Menuisier local                                           |
+| Grande table + banc pour 4-6            | 10-15 po       | Menuisier                                                 |
+| Étagère à livres pour Haisse            | 5 po           | Menuiserie soignée                                        |
+| Cloison légère dans la soupente         | 20 po          | Charpentier, 1-2 jours                                    |
+| Poêle en pierre                         | 50 po          | Maçon spécialisé de Felsenhof (ou troc contre un service) |
+| Autel druidique discret dans le potager | Gratuit        | Lykea le monte elle-même                                  |
 
 ### Extensions
 
-- **Appentis élargi** en écurie / cellier — après le sauvetage de Raven'ill peut-être.
-- **Puits** creusé (pour l'instant ils vont à la fontaine du village).
-- **Ruche** dans le potager — proposition d'un vieil apiculteur du village qui cherche à s'alléger.
+| Extension                                   | Prix indicatif | Notes                                                                                                |
+| ------------------------------------------- | -------------- | ---------------------------------------------------------------------------------------------------- |
+| Puits creusé et cerclé de pierres           | 75 po          | Gros chantier, ~1 semaines. Fin de l'obligation d'aller à la fontaine du village                     |
+| Écurie simple (1-2 stalles, toit de chaume) | 40 po          | Charpentier + planches, 3-4 jours                                                                    |
+| Ruche dans le potager                       | **Gratuit**    | Cadeau d'un vieil apiculteur du village en échange d'un service rendu (Lykea l'a aidé, ou un des PJ) |
+| Réhabilitation du potager                   | Gratuit        | Lykea le fait seule au fil des semaines                                                              |
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
