@@ -73,21 +73,11 @@ Ce que les PJ trouvent en fouillant à leur rythme (aucun jet requis, tout est v
 	- **Une bourse cachée** contenant **60 po** supplémentaires.
 	- **Un carnet de chasse plus intime** que celui de la table — dates, lieux, mais aussi **des descriptions physiques d'Iselte et d'Oriabel**, notées avec un soin dérangeant. Preuve qu'il était détraqué au-delà du simple crime. À ne pas montrer à un joueur sensible sans prévenir.
 
-**Effet narratif** :
-
-- **Confirmation définitive** de la culpabilité de Huon si les PJ avaient encore un doute.
-- **Graine d'aventure secondaire** vers Marchaut : rendre le médaillon, témoigner devant la famille et le seigneur local. Fil ouvert à activer entre la Bête Humaine et Raven'ill si un joueur le prend (**Sam est la candidate naturelle**, après le pivot Oriabel).
-- **Moment glaçant** : les PJ réalisent qu'ils dorment dans la cabane d'un homme qui gardait ses trophées sous ses pieds. La cabane devient *leur* espace à conquérir sur cette ombre.
-
----
-
 ## Évolutions possibles au fil des repos narratifs
-
-À proposer graduellement selon les envies des joueurs. Ne rien forcer.
 
 ### Aménagements matériels
 
-- **Rideaux, tapis, décoration** — la cabane se réchauffe.
+- **Rideaux, tapis, décoration**.
 - **Cloison légère** dans la soupente pour créer un espace intime (chambre séparée pour un PJ qui préfère l'isolement).
 - **Poêle en pierre** ajouté par un maçon du village en échange d'un service.
 - **Table plus grande** ou banc pour manger à 4 confortablement.
