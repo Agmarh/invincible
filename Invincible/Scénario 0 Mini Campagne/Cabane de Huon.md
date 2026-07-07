@@ -51,7 +51,6 @@ Ce que les PJ trouvent en fouillant à leur rythme (aucun jet requis, tout est v
 | Table             | Un livre de comptes de chasse (dates, prises, poids)                                                                                                        |
 | Sous le lit       | Un coffre en bois **non verrouillé** avec des vêtements de rechange, une paire de bottes de rechange, une cape de laine                                     |
 | Sur la cheminée   | Un bougeoir en fer, une pipe éteinte, un petit couteau à graver                                                                                             |
-| Poutre principale | Encoches gravées au poignard — les PJ ne le remarquent qu'en levant les yeux. Petite fissure glaçante, on comprendra plus tard qu'il comptait quelque chose |
 | Abri à bois       | Corde, hache, scie, deux torches, du silex                                                                                                                  |
 | Potager           | Sauge, thym, romarin envahis. Une souche de plante inconnue à Lykea (Nature DD 12 : ancienne racine médicinale)                                             |
 
