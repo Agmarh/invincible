@@ -4,7 +4,6 @@ Checklist chapitre par chapitre. À cocher au fur et à mesure des séances.
 
 **Légende du statut** : ✅ fait — ⏳ en cours / partiellement joué — ⬜ pas encore fait — ⏭️ sauté volontairement
 
-
 ## Chapitre 1 — L'incident du Marronnier *(Azul)*
 
 | Élément                                                                                                                              | Statut | Session | Notes                                                                                   |
@@ -13,15 +12,13 @@ Checklist chapitre par chapitre. À cocher au fur et à mesure des séances.
 | [[I - L'incident du Marronnier#L'incident\|Stabilisation d'Anselm par Lykea]]                                                        | ✅      | S1      |                                                                                         |
 | [[I - L'incident du Marronnier#Arrivée de Coron Pied-Léger\|Mission pour Mascombe accepté]]                                          | ✅      | S1      |                                                                                         |
 
-
 ## Chapitre 2 — Route vers Felsenhof
 
-| Élément | Statut | Session | Notes |
-| --- | --- | --- | --- |
-| [[II - Route de Felsenhof\|Rencontre avec Brenwald Brindille-Forte (halfelin, potier)]] | ✅ | S1 | |
-| [[II - Route de Felsenhof#L'embuscade\|Embuscade des brigands (Krell, Borek, Niska)]] | ✅ | S1 | Brigants morts |
-| [[II - Route de Felsenhof#La Ferdhauss\|Repos long à la Ferdhauss du col]] | ✅ | S1 | |
-
+| Élément                                                                                 | Statut | Session | Notes          |
+| --------------------------------------------------------------------------------------- | ------ | ------- | -------------- |
+| [[II - Route de Felsenhof\|Rencontre avec Brenwald Brindille-Forte (halfelin, potier)]] | ✅      | S1      |                |
+| [[II - Route de Felsenhof#L'embuscade\|Embuscade des brigands (Krell, Borek, Niska)]]   | ✅      | S1      | Brigants morts |
+| [[II - Route de Felsenhof#La Ferdhauss\|Repos long à la Ferdhauss du col]]              | ✅      | S1      |                |
 
 ## Chapitre 3 — Briefing de Mamert
 
@@ -30,10 +27,9 @@ Checklist chapitre par chapitre. À cocher au fur et à mesure des séances.
 | [[III - Mascombe#Le village en émoi\|Rencontre Lison Cassagnol au lavoir (sœur cadette d'Oriabel, 16 ans)]] | ✅      | S2      |                                                      |
 | [[III - Mascombe#Le briefing officiel\|Briefing de Mamert et rencontre Huon]]                               | ✅      | S2      | Lykea a tenté de parler au chien, réprimande de Huon |
 | [[III - Mascombe#Mamert von Hessgau\|Info Gobère tué par un ours il y a 2 ans]]                             | ✅      | S2      |                                                      |
-| Niveau 2 accordé                                                                                            | ✅      | S2      |                                                      |
 | [[III - Mascombe#Aparté Mamert ↔ Haisse Per LUETTE\|Aparté Mamert - Haisse]]                                | ✅      | S2      |                                                      |
 | [[III - Mascombe#Retour à Mascombe\|Retour à Mascombe pour la nuit (Auberge du Loup Gris, Mère Berthold)]]  | ✅      | S2      |                                                      |
-
+| Niveau 2 accordé                                                                                            | ✅      | S2      |                                                      |
 
 ## Chapitre 4 — La Bête Humaine
 
@@ -53,9 +49,8 @@ Checklist chapitre par chapitre. À cocher au fur et à mesure des séances.
 | [[IV - Bête Humaine#Phase 4 — Trouver Cadmar\|Rencontre Cadmar dans la clairière]]                                                                    | ⬜      |         |                                       |
 | [[IV - Bête Humaine#Phase 5 — La confrontation Huon\|Confrontation Huon]]                                                                             | ⬜      |         | Intervention de Cadmar possible       |
 | [[IV - Bête Humaine#La cache de Huon — preuve définitive et enquête secondaire\|Cache de Huon au logis des chasseurs]]                                | ⬜      |         |                                       |
-| Niveau 3 accordé                                                                                                                                      | ⬜      |         |                                       |
 | [[IV - Bête Humaine#Transition vers Raven'ill\|Transition Raven'ill]]                                                                                 | ⬜      |         | Amorce scénario suivant               |
-
+| Niveau 3 accordé                                                                                                                                      | ⬜      |         |                                       |
 
 ## Notes libres par session
 
