@@ -259,7 +259,7 @@ Cadmar est réfugié chez Baudoin depuis. Même s'il a été innocenté, les vil
 
 > <font style="color:orange">"Il y a un autre sujet dont je voulais vous parler, mais ce sera pour plus tard. Un ami à l'est. Je vous en dirai davantage quand vous serez reposés et que vous vous serez acclimaté à votre nouvelle maison."</font>
 
-### La dermande de Mamert
+### La demande de Mamert
 
 Pendant le repos narratif qui suit, plusieurs leviers à activer :
 
