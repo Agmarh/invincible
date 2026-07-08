@@ -258,5 +258,28 @@ Après la fin du scénario, 2 ou 3 semaines peuvent s'écouler où les PJs vont 
 ### Transition vers Raven'ill
 
 Pendant le repos narratif qui suit, plusieurs leviers à activer :
-- **Mamert** évoque son correspondant inquiet, le **baron Frostwin de Raven'ill**. <font style="color:orange">"Plus de nouvelles depuis trois mois. Si vous repartez vers l'est dans quelques semaines, faites-moi signe. J'aimerais que vous y passiez."</font>
-- **Un voyageur arrivé à Mascombe** parle de rumeurs étranges venant de Raven'ill — épidémie, morts, château fermé.
+
+**Environ deux semaines après la Bête Humaine**, un **marchand tharséen** épuisé arrive à Mascombe et s'affale à l'auberge du Loup Gris. Il vient de l'est. Il a vu Raven'ill de loin il y a quelques jours et il a rebroussé chemin.
+
+**Ce qu'il raconte** :
+- Des cadavres entassés dans les champs autour du village, personne pour les enterrer.
+- Le château fermé, portes barricadées, personne ne sort.
+- Des cris la nuit — des cris qui ne ressemblent pas à des hommes.
+- Une odeur de mort qui porte à un mille du village.
+- Il n'est pas entré. Il a fait demi-tour.
+
+Le lendemain de l'arrivée du marchand, Mamert convoque les PJ. Dans la salle voûtée, il a posé une lettre sur la table — vieille, jaunie, encre pâlie.  
+
+> <font style="color:orange">"Voici la dernière lettre que le baron Frostwin m'a écrite. Il y a trois mois. Il me parlait du retour de son fils Alwin après trois mois d'absence. Il disait qu'il était heureux. Depuis, plus rien. Aucune réponse à mes courriers. Et maintenant, ce que raconte ce voyageur."</font>
+
+Il regarde les PJ un long moment.  
+
+> <font style="color:orange">"Je ne peux pas y aller moi-même. Je suis vieux, et j'ai la baronnie à tenir. Mais vous, si vous voulez bien. C'est un service personnel que je vous demande — pas une mission officielle. Frostwin est un ami de longue date. J'ai besoin de savoir ce qu'il se passe."</font>
+
+**Ce qu'il propose** :
+- Trois à quatre jours de marche vers l'est, en Tharse.
+- Bourse pour les frais de route (30 po chacun) + promesse d'une récompense honnête au retour suivant ce qu'ils auront fait.
+- Il leur donne **une lettre d'accréditation** à son sceau pour passer librement en Tharse.
+- Il leur donne aussi **une lettre personnelle scellée pour Frostwin**, à remettre en mains propres s'il est encore vivant.  
+
+**Il ne les presse pas.** <font style="color:orange">"Partez quand vous serez prêts. Je vous demande seulement d'y aller."</font>
