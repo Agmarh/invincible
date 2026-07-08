@@ -39,30 +39,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Invincible/Scénario 0 Mini Campagne/Cabane de Huon.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Cabane de Huon"
-            }
-          },
-          {
-            "id": "59bbfcc728feb9b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Invincible/Scénario 0 Mini Campagne/IV - Bête Humaine.md",
                 "mode": "source",
                 "source": false,
@@ -79,6 +55,30 @@
               },
               "icon": "lucide-file",
               "title": "IV - Bête Humaine"
+            }
+          },
+          {
+            "id": "59bbfcc728feb9b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Invincible/Scénario 0 Mini Campagne/V - L'épuration de Raven'Ill.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "V - L'épuration de Raven'Ill"
             }
           }
         ],
@@ -267,8 +267,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 406.5,
-    "collapsed": true
+    "width": 406.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -289,8 +288,10 @@
   },
   "active": "59bbfcc728feb9b0",
   "lastOpenFiles": [
-    "Invincible/Scénario 0 Mini Campagne/Cabane de Huon.md",
     "Invincible/Scénario 0 Mini Campagne/IV - Bête Humaine.md",
+    "Invincible/Scénario 0 Mini Campagne/V - L'épuration de Raven'Ill.md",
+    "Invincible/Scénario 0 Mini Campagne/Cabane de Huon.md",
+    "Invincible/Scénario 0 Mini Campagne/Récapitulatif.md",
     "Invincible/Scénario 0 Mini Campagne/Cabane de Huon.md.tmp.5.01374eaa794a",
     "Invincible/Scénario 0 Mini Campagne/Cabane de Huon.md.tmp.5.1bfd0ec132ae",
     "Invincible/Scénario 0 Mini Campagne/Cabane de Huon.md.tmp.5.456e915a4f67",
@@ -298,7 +299,6 @@
     "Invincible/Scénario 0 Mini Campagne/Cabane de Huon.md.tmp.5.ced62f91c753",
     "Invincible/Scénario 0 Mini Campagne/Cabane de Huon.md.tmp.5.3436aa3f8c54",
     "Invincible/Scénario 0 Mini Campagne/Cabane de Huon.md.tmp.5.15942acfbd19",
-    "Invincible/Scénario 0 Mini Campagne/Récapitulatif.md",
     "Invincible/Scénario 0 Mini Campagne/I - L'incident du Marronnier.md",
     "Invincible/Scénario 0 Mini Campagne/Récapitulatif.md.tmp.5.4d517cb69677",
     "Invincible/Où ils en sont.md",
