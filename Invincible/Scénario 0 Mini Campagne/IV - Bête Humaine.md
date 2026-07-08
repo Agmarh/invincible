@@ -244,7 +244,12 @@ Après la fin du scénario, 2 ou 3 semaines peuvent s'écouler où les PJs vont 
 
 **Trois ou quatre jours après le repos**, Mamert convoque les PJ au château pour une audience formelle. Dans la salle voûtée, il les remercie encore, puis officialise deux choses :  
 
-**Le Pacte de la Zone Protégée** *(arc druide — Lykea)* : Mamert accorde à Lykea un statut de **Gardienne des Terres Sauvages de l'Altwald**, avec autorité pour délimiter et défendre une réserve où les créatures qu'elle jugera « du peuple ancien » ne seront ni chassées ni traquées par les hommes de la baronnie. Document scellé, ruban rouge, signature. **Émotion importante pour la joueuse** — c'est la reconnaissance officielle de ce qu'elle est.  
+**Le Pacte de la Zone Protégée** : 
+
+> <font style="color:orange">"J'ai eu l'occasion de discuter avec Baudoin. Il m'a dit ce qui était arrivé à votre clan et j'en suis désolé. C'est un miracle que vous soyez parmi nous aujourd'hui. En gage de reconnaissance pour ce que vous avez fait pour nous, j'aimerais vous accorder un titre. Sous réserve de confirmation de mon suzerain à son retour, je pense néanmoins qu'il acceptera."</font>
+> <font style="color:orange">"J'aimerais vous confier, officiellement, une partie de la forêt de l'Altwald, qui deviendra donc une zone protégée. Une zone au cœur de la forêt, où les hommes vont rarement. La chasse y serait interdite et vous en seriez la gardienne. Qu'en pensez-vous ?"</font>
+
+ Mamert accorde à Lykea un statut de **Gardienne des Terres Sauvages de l'Altwald**, avec autorité pour délimiter et défendre une réserve où les créatures qu'elle jugera « du peuple ancien » ne seront ni chassées ni traquées par les hommes de la baronnie. Document scellé, ruban rouge, signature.  
 
 **En passant, Mamert évoque son inquiétude** : 
 
