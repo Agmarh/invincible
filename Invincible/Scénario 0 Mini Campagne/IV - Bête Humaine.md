@@ -265,7 +265,7 @@ Pendant le repos narratif qui suit, plusieurs leviers à activer :
 
 Le lendemain de l'arrivée du marchand, Mamert convoque les PJ. Dans la salle voûtée, il a posé une lettre sur la table — vieille, jaunie, encre pâlie.  
 
-> <font style="color:orange">"Voici la dernière lettre que le baron Frostwin m'a écrite. Il y a trois mois. Il me parlait du retour de son fils Alwin après trois mois d'absence. Il disait qu'il était heureux. Depuis, plus rien. Aucune réponse à mes courriers. Et maintenant, ce que raconte ce voyageur."</font>
+> <font style="color:orange">"Voici la dernière lettre que le baron Frostwin m'a écrite. Il y a trois semaines. Il me parlait du retour de son fils Alwin après six mois d'absence. Il disait qu'il était heureux. Depuis, plus rien. Aucune réponse à mes courriers. Et maintenant, ce que raconte ce voyageur."</font>
 
 Il regarde les PJ un long moment.  
 
