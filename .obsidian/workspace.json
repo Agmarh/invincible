@@ -267,7 +267,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 406.5
+    "width": 406.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -286,16 +287,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4b487dbf4bc9f5ad",
+  "active": "59bbfcc728feb9b0",
   "lastOpenFiles": [
     "Invincible/Scénario 0 Mini Campagne/Cabane de Huon.md",
+    "Invincible/Scénario 0 Mini Campagne/IV - Bête Humaine.md",
     "Invincible/Scénario 0 Mini Campagne/Cabane de Huon.md.tmp.5.01374eaa794a",
     "Invincible/Scénario 0 Mini Campagne/Cabane de Huon.md.tmp.5.1bfd0ec132ae",
     "Invincible/Scénario 0 Mini Campagne/Cabane de Huon.md.tmp.5.456e915a4f67",
     "Invincible/Scénario 0 Mini Campagne/Cabane de Huon.md.tmp.5.86e2308f511e",
     "Invincible/Scénario 0 Mini Campagne/Cabane de Huon.md.tmp.5.ced62f91c753",
     "Invincible/Scénario 0 Mini Campagne/Cabane de Huon.md.tmp.5.3436aa3f8c54",
-    "Invincible/Scénario 0 Mini Campagne/IV - Bête Humaine.md",
     "Invincible/Scénario 0 Mini Campagne/Cabane de Huon.md.tmp.5.15942acfbd19",
     "Invincible/Scénario 0 Mini Campagne/Récapitulatif.md",
     "Invincible/Scénario 0 Mini Campagne/I - L'incident du Marronnier.md",

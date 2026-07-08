@@ -222,13 +222,33 @@ Les PJ rentrent au château avec :
 
 **Mamert** est ému et choqué. Il pensait connaître Huon — c'est un coup au cœur pour lui. Il les remercie sincèrement.  
 
-> <font style="color:orange">Vous avez permis d'épargné de pendre un innocent. Pour ça, je vous serai redevable longtemps."</font>
+> <font style="color:orange">"Vous avez permis d'épargné de pendre un innocent. Pour ça, je vous serai redevable longtemps."</font>
 
 ### Récompenses  
 
 - **115 po par tête**.
 - Mamert leur offre l'ancienne demeure de Huon, une cabane de chasse en bordure de la forêt, proche du village.
 - Niveau 3
+
+## Transition vers Raven'ill
+
+Après la fin du scénario, 2 ou 3 semaines peuvent s'écouler où les PJs vont pouvoir se poser dans leur nouvelle demeure. Quelques scènes peuvent être jouées.
+
+### Amans Cassagnol
+
+**Trois ou quatre jours après**, un matin, on frappe à la porte. C'est **Amans Cassagnol** — le père d'Oriabel. Il tient un panier : du pain frais, une demi-douzaine d'œufs, un pot de confiture de mûres de sa femme. Il ne prononce presque rien : 
+
+> <font style="color:orange">"Nous voulions vous remercier, ce n'est pas grand chose."</font>
+
+### L'audience de Mamert au château
+
+**Trois ou quatre jours après le repos**, Mamert convoque les PJ au château pour une audience formelle. Dans la salle voûtée, il les remercie encore, puis officialise deux choses :  
+
+**Le Pacte de la Zone Protégée** *(arc druide — Lykea)* : Mamert accorde à Lykea un statut de **Gardienne des Terres Sauvages de l'Altwald**, avec autorité pour délimiter et défendre une réserve où les créatures qu'elle jugera « du peuple ancien » ne seront ni chassées ni traquées par les hommes de la baronnie. Document scellé, ruban rouge, signature. **Émotion importante pour la joueuse** — c'est la reconnaissance officielle de ce qu'elle est.  
+
+**En passant, Mamert évoque son inquiétude** : 
+
+> <font style="color:orange">"Il y a un autre sujet dont je voulais vous parler, mais ce sera pour plus tard. Un ami à l'est. Je vous en dirai davantage quand vous serez reposés et que vous vous serez acclimaté à votre nouvelle maison."</font>
 
 ### Transition vers Raven'ill
 
