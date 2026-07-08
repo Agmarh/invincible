@@ -240,6 +240,10 @@ Après la fin du scénario, 2 ou 3 semaines peuvent s'écouler où les PJs vont 
 
 > <font style="color:orange">"Nous voulions vous remercier, ce n'est pas grand chose."</font>
 
+###  Cadmar et Baudoin
+
+Cadmar est réfugié chez Baudoin depuis. Même s'il a été innocenté, les villageois restent méfiants, c'est un ours-garou. Lykea pourra lui proposer de vivre dans son refuge. C'est une piste.
+
 ### L'audience de Mamert au château
 
 **Trois ou quatre jours après le repos**, Mamert convoque les PJ au château pour une audience formelle. Dans la salle voûtée, il les remercie encore, puis officialise deux choses :  
@@ -255,7 +259,7 @@ Après la fin du scénario, 2 ou 3 semaines peuvent s'écouler où les PJs vont 
 
 > <font style="color:orange">"Il y a un autre sujet dont je voulais vous parler, mais ce sera pour plus tard. Un ami à l'est. Je vous en dirai davantage quand vous serez reposés et que vous vous serez acclimaté à votre nouvelle maison."</font>
 
-### Transition vers Raven'ill
+### La dermande de Mamert
 
 Pendant le repos narratif qui suit, plusieurs leviers à activer :
 
@@ -277,7 +281,7 @@ Il regarde les PJ un long moment.
 > <font style="color:orange">"Je ne peux pas y aller moi-même. Je suis vieux, et j'ai la baronnie à tenir. Mais vous, si vous voulez bien. C'est un service personnel que je vous demande — pas une mission officielle. Frostwin est un ami de longue date. J'ai besoin de savoir ce qu'il se passe."</font>
 
 **Ce qu'il propose** :
-- Trois à quatre jours de marche vers l'est, en Tharse.
+- Quatre jours de marche vers l'est, en Tharse.
 - Bourse pour les frais de route (30 po chacun) + promesse d'une récompense honnête au retour suivant ce qu'ils auront fait.
 - Il leur donne **une lettre d'accréditation** à son sceau pour passer librement en Tharse.
 - Il leur donne aussi **une lettre personnelle scellée pour Frostwin**, à remettre en mains propres s'il est encore vivant.  
