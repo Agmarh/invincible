@@ -57,8 +57,7 @@
               "title": "IV - Bête Humaine"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,6 +123,7 @@
       {
         "id": "20cc07e9a8e54ece",
         "type": "tabs",
+        "dimension": 48.55769230769231,
         "children": [
           {
             "id": "3a55da965d453abc",
@@ -247,6 +247,7 @@
       {
         "id": "9df297e6ba9c49df",
         "type": "tabs",
+        "dimension": 51.442307692307686,
         "children": [
           {
             "id": "cce7352b565f96a1",
@@ -262,8 +263,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 406.5,
-    "collapsed": true
+    "width": 580.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -282,13 +282,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2909fa3ffd97112f",
+  "active": "fba545b276a0a770",
   "lastOpenFiles": [
-    "Invincible/Scénario 0 Mini Campagne/III - Mascombe.md",
     "Invincible/Scénario 0 Mini Campagne/IV - Bête Humaine.md",
     "Invincible/Scénario 0 Mini Campagne/Récapitulatif.md",
-    "Invincible/Scénario 0 Mini Campagne/V - L'épuration de Raven'Ill.md",
+    "Annexe/Sortilèges/Niveau 2/Peau d'écorce.md",
     "Invincible/Scénario 0 Mini Campagne/Cabane de Huon.md",
+    "Invincible/Scénario 0 Mini Campagne/III - Mascombe.md",
+    "Invincible/Scénario 0 Mini Campagne/V - L'épuration de Raven'Ill.md",
     "Invincible/Scénario 0 Mini Campagne/Cabane de Huon.md.tmp.5.01374eaa794a",
     "Invincible/Scénario 0 Mini Campagne/Cabane de Huon.md.tmp.5.1bfd0ec132ae",
     "Invincible/Scénario 0 Mini Campagne/Cabane de Huon.md.tmp.5.456e915a4f67",
@@ -318,7 +319,6 @@
     "Annexe/Bestiaire/Spectre.md",
     "Annexe/Bestiaire/Soldat de Lycanis.md",
     "Annexe/Bestiaire/Skum.md",
-    "Annexe/Bestiaire/Shaman Homme-Lézard.md",
-    "Annexe/Bestiaire/Servantès Di Paleddo.md"
+    "Annexe/Bestiaire/Shaman Homme-Lézard.md"
   ]
 }

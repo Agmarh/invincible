@@ -135,7 +135,7 @@
     "creatures": [
       {
         "name": "Haisse Per Luette",
-        "initiative": 0,
+        "initiative": 17,
         "static": false,
         "modifier": 2,
         "hp": 10,
@@ -155,7 +155,7 @@
       },
       {
         "name": "Lykea",
-        "initiative": 0,
+        "initiative": 16,
         "static": false,
         "modifier": 0,
         "hp": 10,
@@ -169,13 +169,13 @@
         "enabled": true,
         "level": 1,
         "player": true,
-        "active": false,
+        "active": true,
         "hidden": false,
         "friendly": false
       },
       {
         "name": "Samaëlle Vaël'Rhys",
-        "initiative": 0,
+        "initiative": 3,
         "static": false,
         "modifier": 1,
         "hp": 14,
@@ -183,7 +183,7 @@
         "ac": "13",
         "currentAC": "13",
         "id": "ID_c889f89a2b1a",
-        "currentHP": 14,
+        "currentHP": 3,
         "tempHP": 0,
         "status": [],
         "enabled": true,
@@ -204,7 +204,7 @@
         "ac": 14,
         "currentAC": 14,
         "id": "ID_5acb99d97bb9",
-        "currentHP": 45,
+        "currentHP": 3,
         "tempHP": 0,
         "status": [],
         "enabled": true,
@@ -224,9 +224,11 @@
         "ac": 13,
         "currentAC": 13,
         "id": "ID_d93b88e82b09",
-        "currentHP": 11,
+        "currentHP": 0,
         "tempHP": 0,
-        "status": [],
+        "status": [
+          "Unconscious"
+        ],
         "enabled": true,
         "active": false,
         "hidden": false,
@@ -254,9 +256,9 @@
         "hit_dice": "5d8+15"
       }
     ],
-    "state": false,
+    "state": true,
     "name": null,
-    "round": 1,
+    "round": 5,
     "logFile": "",
     "rollHP": false
   },
