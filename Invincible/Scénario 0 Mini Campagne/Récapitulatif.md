@@ -65,3 +65,7 @@ Checklist chapitre par chapitre. À cocher au fur et à mesure des séances.
 - Début Chapitre 4 : Lison, Bovert (craqué), corps d'Oriabel examiné
 - Sam à la forge → fiole de poison de cuivre obtenue
 - Lykea a envoyé 2 corbeaux chercher Baudoin (approche originale)
+
+### Session 3
+Ils ont fait la connaissance de Ursanne, Baudoin et Cadmar. Ils ont demandé à Ursanne d'aller voir le corps de Oriabel pour remarquer les traces de viol. 
+Cadmar leur a avoué son état d'ours-garou et Baudoin les a persuadés qu'il était inoffensif. 

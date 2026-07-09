@@ -145,8 +145,8 @@
               "type": "git-view",
               "state": {},
               "pinned": true,
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -282,7 +282,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fba545b276a0a770",
+  "active": "3a55da965d453abc",
   "lastOpenFiles": [
     "Invincible/Scénario 0 Mini Campagne/IV - Bête Humaine.md",
     "Invincible/Scénario 0 Mini Campagne/Récapitulatif.md",
