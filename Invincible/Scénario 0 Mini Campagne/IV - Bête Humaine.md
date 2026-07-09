@@ -158,7 +158,7 @@ Ce que Baudouin peut dire :
 
 Baudoin n'accuse pas frontalement Huon, mais il oriente sans détour. C'est suffisant pour que les PJ comprennent.
 
-#### L'esprit forestier *(sous-intrigue canon)*
+#### L'esprit forestier *(sous-intrigue canon)* -> Passé volontairement
 
 Si les PJ le creusent : Baudoin évoque que **l'esprit du Bois-altier** (de l'Altwald) est troublé depuis la mort de Gobère deux ans plus tôt. Gobère avait coupé des chênes sacrés pour sa scierie ; un esprit ancien s'est manifesté en envoyant l'ours qui l'a tué. Cet esprit veille encore.  
 

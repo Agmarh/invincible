@@ -57,7 +57,8 @@
               "title": "IV - Bête Humaine"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -261,7 +262,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 406.5
+    "width": 406.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -280,8 +282,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fba545b276a0a770",
+  "active": "2909fa3ffd97112f",
   "lastOpenFiles": [
+    "Invincible/Scénario 0 Mini Campagne/III - Mascombe.md",
     "Invincible/Scénario 0 Mini Campagne/IV - Bête Humaine.md",
     "Invincible/Scénario 0 Mini Campagne/Récapitulatif.md",
     "Invincible/Scénario 0 Mini Campagne/V - L'épuration de Raven'Ill.md",
@@ -296,7 +299,6 @@
     "Invincible/Scénario 0 Mini Campagne/I - L'incident du Marronnier.md",
     "Invincible/Scénario 0 Mini Campagne/Récapitulatif.md.tmp.5.4d517cb69677",
     "Invincible/Où ils en sont.md",
-    "Invincible/Scénario 0 Mini Campagne/III - Mascombe.md",
     "Invincible/Scénario 0 Mini Campagne/Récapitulatif.md.tmp.5.586e78d1f0d0",
     "Invincible/Scénario 0 Mini Campagne/II - Route de Felsenhof.md",
     "Annexe/Bestiaire/Huon le Dogue.md",
