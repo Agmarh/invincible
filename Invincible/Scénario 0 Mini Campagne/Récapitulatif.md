@@ -69,3 +69,5 @@ Checklist chapitre par chapitre. À cocher au fur et à mesure des séances.
 ### Session 3
 Ils ont fait la connaissance de Ursanne, Baudoin et Cadmar. Ils ont demandé à Ursanne d'aller voir le corps de Oriabel pour remarquer les traces de viol. 
 Cadmar leur a avoué son état d'ours-garou et Baudoin les a persuadés qu'il était inoffensif. 
+
+Ils ont trouvé la cache de Huon avant de le confronter. Et l'ont tué ensuite. Ils s'apprêtent a aller voir Mamert pour tout lui avouer et toucher leur récompense.

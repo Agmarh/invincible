@@ -242,7 +242,8 @@
               "title": "Dice Tray"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "9df297e6ba9c49df",
@@ -282,7 +283,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3a55da965d453abc",
+  "active": "4b487dbf4bc9f5ad",
   "lastOpenFiles": [
     "Invincible/Scénario 0 Mini Campagne/IV - Bête Humaine.md",
     "Invincible/Scénario 0 Mini Campagne/Récapitulatif.md",
