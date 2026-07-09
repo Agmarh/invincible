@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Invincible/Scénario 0 Mini Campagne/V - L'épuration de Raven'Ill.md",
+                "file": "Invincible/Scénario 0 Mini Campagne/IV - Bête Humaine.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -78,7 +78,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "V - L'épuration de Raven'Ill"
+              "title": "IV - Bête Humaine"
             }
           }
         ],
@@ -246,8 +246,7 @@
               "title": "Dice Tray"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "9df297e6ba9c49df",
@@ -288,8 +287,8 @@
   },
   "active": "59bbfcc728feb9b0",
   "lastOpenFiles": [
-    "Invincible/Scénario 0 Mini Campagne/IV - Bête Humaine.md",
     "Invincible/Scénario 0 Mini Campagne/V - L'épuration de Raven'Ill.md",
+    "Invincible/Scénario 0 Mini Campagne/IV - Bête Humaine.md",
     "Invincible/Scénario 0 Mini Campagne/Cabane de Huon.md",
     "Invincible/Scénario 0 Mini Campagne/Récapitulatif.md",
     "Invincible/Scénario 0 Mini Campagne/Cabane de Huon.md.tmp.5.01374eaa794a",

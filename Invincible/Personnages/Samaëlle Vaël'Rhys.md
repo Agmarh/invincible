@@ -172,7 +172,7 @@ Pas de modification particulière pour elle. Elle prend sa part sans commentaire
 
 ### À Mascombe
 
-Quand les PJ entrent dans le village et voient Lison (la fille du métayer qui a assisté à l'enlèvement d'Oriabel) en larmes, **la barbare s'arrête**. Pas pour longtemps — quelques secondes. Elle regarde la fille. Elle voit ce qu'elle aurait pu être, ou ce qu'elle a été. **Quelque chose se fissure.** Discret. Le MJ le voit. Le joueur le sait.
+Quand les PJ entrent dans le village et voient Lison Cassagnol (la sœur cadette d'Oriabel, qui a assisté à l'enlèvement de sa sœur) en larmes, **la barbare s'arrête**. Pas pour longtemps — quelques secondes. Elle regarde la fille. Elle voit ce qu'elle aurait pu être, ou ce qu'elle a été. **Quelque chose se fissure.** Discret. Le MJ le voit. Le joueur le sait.
 
 Pendant l'enquête, elle veut savoir qui a fait ça. Pas pour la justice. **Pour la vengeance.** Elle est plus directive, plus brutale dans ses questions. Si la table interroge Bovert le meunier qui cache des choses, elle peut menacer physiquement. Tension avec la druide possible.
 
@@ -198,7 +198,7 @@ Le joueur le sait. La PJ le sait. **Ne pas le verbaliser** à voix haute. Laisse
 
 ### Première confidence possible
 
-Pendant que les autres PJ s'installent dans la masure Trémolet offerte par Mamert, ou s'occupent de la baronnie, **la barbare reste à l'écart**. La druide peut venir s'asseoir à côté d'elle, sans rien dire. **C'est l'occasion d'une confidence**.
+Pendant que les autres PJ s'installent dans la cabane de chasse de Huon offerte par Mamert, ou s'occupent de la baronnie, **la barbare reste à l'écart**. La druide peut venir s'asseoir à côté d'elle, sans rien dire. **C'est l'occasion d'une confidence**.
 
 Pas tout le passé — juste un morceau. Peut-être : *« J'ai connu une fille comme Lison. Elle ne s'en est pas sortie. »* Ou : *« Ma mère me disait de baisser les yeux. Je suis fatiguée de baisser les yeux. »* Au joueur de doser. C'est sa **première fissure visible** dans l'armure d'indifférence.
 
