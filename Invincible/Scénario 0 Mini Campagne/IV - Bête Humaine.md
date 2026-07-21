@@ -92,7 +92,7 @@ Si les joueurs insistent pour continuer l'enquête, Huon hausse les épaules et 
 
 Thibault propose à la PJ de **l'aider sur sa commande** — un cercle de fer pour une roue de chariot. Elle accepte (ou pas). Si elle accepte, **bribes de souvenirs à distiller à la joueuse en aparté** :
 - Le bruit du marteau sur l'enclume = le bruit du vieux Tarn au matin.
-- L'odeur du fer chaud = l'odeur de sa convalescence après les bandits.
+- L'odeur du fer chaud = l'odeur de son enfance à la forge de Tarn.
 - Quand Thibault lui tend la pince pour tenir une pièce, son geste est exactement celui que Tarn lui montrait.
 
 **Échange court** : 

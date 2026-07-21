@@ -292,11 +292,11 @@ Mépris initial, transformé en hésitation par la porte ouverte. **Ne deviendra
 
 ---
 
-## Le marteau du vieux forgeron *(maîtrise d'outils + objet sentimental)*
+## Le marteau du vieux Tarn *(maîtrise d'outils + objet sentimental)*
 
-Elle maîtrise les **outils de forgeron**. L'histoire : après la mort accidentelle du jeune bandit, elle s'est cachée plusieurs mois chez **le vieux Tarn**, forgeron d'une bourgade reculée **non loin de la maison noble qu'elle avait fuie quelques années plus tôt** (mais elle n'y est jamais revenue). Le vieux Tarn ne lui a pas posé de questions. Il lui a appris la forge pour qu'elle puisse vivre, sans rien demander en retour. **Il est mort de vieillesse, un matin, dans son lit.** Elle a marché jusqu'au village voisin pour prévenir, et n'est jamais revenue à l'atelier.
+Elle maîtrise les **outils de forgeron**. L'histoire : **enfant, à Muqta'fahid**, quand son seul ami lui a tourné le dos, elle s'est réfugiée à la **forge du vieux Tarn**. Ce vieil homme lui a appris à travailler le fer chaud pour qu'elle puisse vivre, sans rien demander, sans poser de questions. **Il est mort peu de temps avant qu'elle ne quitte la ville, à quatorze ans.**
 
-**L'objet** : un petit **marteau de forgeron itinérant** qu'elle a pris en partant. Manche de bois patiné, tête de fer marquée d'une initiale (le « T » de Tarn) gravée à la main. Trop petit pour servir d'arme, trop sentimental pour s'en séparer. Elle le porte dans son sac, jamais à la ceinture. **Quand elle le sort en public, c'est qu'elle est en confiance.**
+**L'objet** : un petit **marteau de forgeron** qu'elle a emporté en partant. Manche de bois patiné, tête de fer marquée d'une initiale (le « T » de Tarn) gravée à la main. Trop petit pour servir d'arme, trop sentimental pour s'en séparer. Elle le porte dans son sac, jamais à la ceinture. **Quand elle le sort en public, c'est qu'elle est en confiance.**
 
 ### Introduction en partie — *par Thibault à Mascombe (méthode fiable)*
 
@@ -304,7 +304,7 @@ Elle maîtrise les **outils de forgeron**. L'histoire : après la mort accidente
 
 **Pendant qu'elle aide** : tu donnes à la joueuse **quelques bribes de souvenirs** en aparté (ou à voix haute, selon ce qu'elle préfère) :
 - Le bruit du marteau qui frappe l'enclume lui rappelle le vieux Tarn.
-- L'odeur du fer chaud et de la charbon — c'est l'odeur de sa convalescence après les bandits.
+- L'odeur du fer chaud et du charbon — c'est l'odeur de son enfance à la forge de Tarn, le seul endroit où elle se sentait en sécurité.
 - Thibault peut lui poser une question innocente : *« Vous avez été apprentie quelque part ? »* — la barbare répond ce qu'elle veut. *« Brièvement. — Et votre maître, où est-il maintenant ? — Il est mort. — Désolé. Il vous a légué un beau geste. »*
 
 C'est tendre, court, et ça suffit pour **planter l'émotion sans dépendre des autres PJ**.
@@ -317,7 +317,7 @@ Le vieux Tarn est mort sans drame. **Pas de fil narratif à dérouler dessus** �
 
 ## Récap des éléments à mémoriser absolument
 
-- **Origine** = née à **Muqta'fahid** (Kh'Eoda, port désertique / cité des mille voleurs), fille d'une domestique de la **maison Qassim** (maison noble marchande moyenne) ; **père = noble inconnu** ; enlevée enfant par une bande du port. Teint mat.
+- **Origine** = née à **Muqta'fahid** (Kh'Eoda, port désertique du sud), fille d'une domestique de la **maison Qassim** (maison noble marchande moyenne) ; **père = noble inconnu** ; forge d'enfance du vieux **Tarn** (mort avant son départ) ; partie à 14 ans, **kidnappée sur la route par des bandits de grand chemin**. Teint mat.
 - **Aasimar Agramnon** (avec un R) — race + sous-race canon Pangée (aasimar = *yscherion* en Pangée), parfaite pour barbare charismatique
 - **Sang bleu, variante Bâtard, idéal Rébellion** — historique
 - **Alignement Chaotique Neutre** — canon pour aasimar rebelle, pas besoin de forcer le Mauvais
