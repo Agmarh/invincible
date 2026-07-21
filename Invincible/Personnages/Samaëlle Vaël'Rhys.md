@@ -55,47 +55,37 @@
 
 ## Origine et passé
 
-### L'enfance dans la maison du noble
+### L'enfance dans la maison Qassim *(Muqta'fahid, Kh'Eoda)*
 
-Née d'une **domestique** qui servait dans la grande maison d'un noble (tharséen — à confirmer ou laisser flou), et d'un noble qu'elle n'a jamais connu (le maître lui-même, un visiteur de passage, un fils — sa mère n'a jamais voulu lui dire). Sa mère l'a élevée seule, dans les communs du domaine, en lui apprenant le métier de servante par défaut.
+**Enfant illégitime** d'un noble qu'elle n'a jamais connu et d'une **domestique**, elle a grandi dans la maison où sa mère servait — la **maison Qassim**, maison noble marchande de **Muqta'fahid**, grand port de **Kh'Eoda** (royaume désertique du sud) : assez importante pour employer tout un personnel, trop modeste pour peser vraiment dans la monarchie élective. Son père reste **inconnu** (un maître, un hôte de passage, un fils — pas forcément un Qassim ; sa mère n'a jamais dit).
 
-**Mais elle était aasimar** — unique dans toute la ville. Iris dorés, peau qui pâlit parfois sans raison, présence troublante. Les autres enfants des servants la trouvaient bizarre. Les enfants des maîtres la regardaient comme une curiosité. **Elle n'a jamais trouvé sa place.**
+Sa nature d'**aasimar** (*yscherion*, comme on nomme les aasimars en Pangée), **unique dans sa ville**, n'a fait qu'aggraver le malaise. **Teint naturellement mat** hâlé par le soleil du désert, iris dorés, une peau qui pâlit parfois d'une lueur troublante. Pendant des années, elle a observé les nobles **mépriser les ouvriers, frapper les servantes, traiter les gens comme du bétail**. Sa colère a grandi en silence.
 
-### Le mépris de classe
+### La trahison de l'ami d'enfance — et la forge du vieux Tarn
 
-Pendant des années, elle a observé les **injustices des nobles** — coups portés aux servantes pour un verre cassé, mépris affiché pour les ouvriers, mariages politiques arrachés à des jeunes filles. Sa colère a grandi en silence. Sa mère lui répétait *« baisse les yeux »*. Elle baissait les yeux, mais elle voyait quand même.
-
-### La trahison de l'ami d'enfance
-
-Son **seul ami** dans la maison : un garçon, fils d'un palefrenier. Ils ont grandi ensemble, joué dans les écuries. Quand ils ont eu treize ans, le père du garçon est devenu **intendant** par la grâce du maître. Le garçon a commencé à fréquenter les fils des seigneurs. Il a cessé de lui parler. Il l'a évitée. Quelques semaines plus tard, il riait *d'elle* avec les nobles, sur la place de la maison. **C'est ce jour-là qu'elle a décidé de partir.**
+Son **seul ami d'enfance** lui a tourné le dos en grandissant. C'est là qu'elle a trouvé refuge à la **forge du vieux Tarn** : ce vieil homme lui a appris à **frapper le fer**, à travailler le métal chaud. **Il est mort peu de temps avant qu'elle ne parte.** Elle a emporté un de ses marteaux (cf. section dédiée plus bas).
 
 ### Le départ à quatorze ans
 
-Une nuit, sans bagage, sans dire au revoir à sa mère. Elle est partie sur la route. Elle voulait *« exister par elle-même »*. Elle ne savait pas ce que ça voulait dire.
+À quatorze ans, elle est partie, **pour exister par elle-même**. **La route a été cruelle.**
 
-### La capture par les bandits
+### La capture par les bandits de grand chemin
 
-Quelques semaines de route, et elle est tombée sur une **bande de bandits de grand chemin**. Ils l'ont gardée. Ils ont utilisé sa beauté étrange comme **appât** : on l'envoyait au bord des routes, on lui faisait pleurer pour attirer les voyageurs charitables, et la bande les pillait. Ils ont aussi pris pour eux ce qu'ils voulaient d'elle.
+**Kidnappée par une bande de bandits de grand chemin**, qui l'ont utilisée comme **appât** pour piller les voyageurs — et comme **objet pour leurs propres plaisirs**. **C'est là qu'elle a appris à se battre**, et qu'elle a découvert qu'elle pouvait entrer dans une **rage féroce et radiante** : une lumière sale, jaillie de sa nature céleste, au bout de ses poings. Ils l'ont entraînée à frapper, l'ont rendue **dangereuse**.
 
-**C'est là qu'elle a appris à se battre.** Quand un voyageur résistait, ou quand un bandit la frappait trop fort, son corps réagissait — une rage qui montait, une lumière sale qui jaillissait de ses poings. La première fois, elle a brisé la mâchoire d'un bandit. Les autres l'ont battue pour ça, mais ils ont aussi compris qu'elle pouvait être utile dans les coups durs. Ils l'ont entraînée à frapper. Ils l'ont rendue **dangereuse**.
+### Le jeune bandit — le seul qui la voyait
 
-### Le jeune bandit — le seul qui voyait
-
-Parmi la bande, un **jeune bandit** la traitait différemment. Il ne lui faisait pas mal. Il lui apportait de la nourriture en cachette, lui parlait comme à un être humain. Elle ne savait pas comment recevoir ça. Elle s'est attachée sans savoir qu'elle s'attachait.
-
-Un soir d'hiver, il l'a aidée à s'enfuir. **Combat dans la nuit, dans la neige.** Elle a frappé partout, sans voir. Et quand elle a baissé les yeux, c'est **son ami** qu'elle avait sous les pieds, agonisant, le crâne brisé par un coup qu'elle n'a même pas senti porter.
-
-**Elle est restée immobile, dans la neige, à le regarder mourir.** Il n'a pas pu parler. Il l'a juste regardée. Il est mort.
+Un **jeune bandit**, le seul qui la traitait comme son égale, l'a aidée à s'enfuir **un soir d'hiver**. **Dans la confusion de la fuite, elle a porté un coup fatal à son sauveur sans le reconnaître.** Il est mort sous ses yeux, sans un mot.
 
 ### La prison de pierre
 
-Après cette nuit, elle a marché. Pendant des semaines. Elle ne ressentait plus rien. Elle s'est promise une chose : **plus jamais s'attacher**. Plus jamais aimer. Plus jamais espérer. Son cœur dans une prison de pierre, fermée à clé.
+Ce jour-là, elle a **enfermé son cœur dans une prison de pierre**, fermée à clé. Plus jamais s'attacher. Plus jamais aimer. Plus jamais espérer.
 
 ### Les années depuis
 
-**Petits boulots ingrats.** Petits vols, dont elle ne se vante pas. **Contrats d'assassinat** pour des sommes modiques — elle élimine des cibles que d'autres veulent voir disparaître, des nobles mauvais le plus souvent, sans poser de questions. **Prostitution** dans les villes traversées, quand l'argent manque ou quand elle a envie de **dominer** un de ces hommes qui pensent acheter son corps. Elle ne fait pas le mal pour le mal — elle a une **vision très personnelle de la justice** : ne nuire qu'à ceux qui le méritent. Mais elle est aussi indifférente à la vie des autres. C'est compliqué et c'est ça qui fait sa profondeur.
+Depuis, elle vit **à la marge** : petits vols, **contrats d'assassinat** pour des sommes modiques, **prostitution** quand le besoin l'exige — et la **domination** qu'elle en tire sur ces hommes qui croient acheter son corps. Elle garde une **vision très personnelle de la justice** (ne nuire qu'à ceux qui le méritent), doublée d'une **indifférence affichée** pour tout ce qui n'est pas une transaction.
 
-**Elle a aujourd'hui une vingtaine d'années.** Elle est arrivée à Azul il y a deux jours, sans raison précise.
+**Elle a une vingtaine d'années**, des **cicatrices qu'elle ne cache plus**. Elle est arrivée à **Azul il y a deux jours**, capuche relevée, sans raison précise. Personne ne la connaît ici. **C'est exactement comme elle aime.**
 
 ---
 
@@ -327,7 +317,8 @@ Le vieux Tarn est mort sans drame. **Pas de fil narratif à dérouler dessus** �
 
 ## Récap des éléments à mémoriser absolument
 
-- **Aasimar Agramnon** (avec un R) — race + sous-race canon Pangée, parfaite pour barbare charismatique
+- **Origine** = née à **Muqta'fahid** (Kh'Eoda, port désertique / cité des mille voleurs), fille d'une domestique de la **maison Qassim** (maison noble marchande moyenne) ; **père = noble inconnu** ; enlevée enfant par une bande du port. Teint mat.
+- **Aasimar Agramnon** (avec un R) — race + sous-race canon Pangée (aasimar = *yscherion* en Pangée), parfaite pour barbare charismatique
 - **Sang bleu, variante Bâtard, idéal Rébellion** — historique
 - **Alignement Chaotique Neutre** — canon pour aasimar rebelle, pas besoin de forcer le Mauvais
 - **Stats Répartition B** — équilibre Force/Con/Cha

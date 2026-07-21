@@ -56,8 +56,33 @@
               "icon": "lucide-file",
               "title": "IV - Bête Humaine"
             }
+          },
+          {
+            "id": "c3295e04034d056d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Invincible/Personnages/Samaëlle Vaël'Rhys.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Samaëlle Vaël'Rhys"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -283,10 +308,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4b487dbf4bc9f5ad",
+  "active": "c3295e04034d056d",
   "lastOpenFiles": [
-    "Invincible/Scénario 0 Mini Campagne/IV - Bête Humaine.md",
     "Invincible/Scénario 0 Mini Campagne/Récapitulatif.md",
+    "Invincible/Scénario 0 Mini Campagne/IV - Bête Humaine.md",
     "Annexe/Sortilèges/Niveau 2/Peau d'écorce.md",
     "Invincible/Scénario 0 Mini Campagne/Cabane de Huon.md",
     "Invincible/Scénario 0 Mini Campagne/III - Mascombe.md",
