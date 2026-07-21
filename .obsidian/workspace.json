@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Invincible/Personnages/Samaëlle Vaël'Rhys.md",
+                "file": "Invincible/Scénario 0 Mini Campagne/L'épuration de Raven'Ill/Acte II - Un assaut frontal.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -78,7 +78,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Samaëlle Vaël'Rhys"
+              "title": "Acte II - Un assaut frontal"
             }
           }
         ],
@@ -289,7 +289,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 580.5
+    "width": 580.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -310,24 +311,25 @@
   },
   "active": "c3295e04034d056d",
   "lastOpenFiles": [
+    "Invincible/Scénario 0 Mini Campagne/L'épuration de Raven'Ill/Acte I - Un bien sombre horizon.md",
+    "Invincible/Scénario 0 Mini Campagne/L'épuration de Raven'Ill/Acte II - Un assaut frontal.md",
+    "Invincible/Scénario 0 Mini Campagne/L'épuration de Raven'Ill",
+    "Invincible/Scénario 0 Mini Campagne/Récapitulatif.md",
+    "Invincible/Scénario 0 Mini Campagne/IV - Bête Humaine.md",
+    "Invincible/Personnages/Samaëlle Vaël'Rhys.md",
     "Invincible/Personnages/Samaëlle Vaël'Rhys.md.tmp.9799.c60a48465975",
     "Invincible/Personnages/Samaëlle Vaël'Rhys.md.tmp.9799.a628c3259aad",
     "Invincible/Personnages/Samaëlle Vaël'Rhys.md.tmp.9799.734ae8d3bd47",
-    "Invincible/Scénario 0 Mini Campagne/Récapitulatif.md",
-    "Invincible/Scénario 0 Mini Campagne/IV - Bête Humaine.md",
     "Annexe/Sortilèges/Niveau 2/Peau d'écorce.md",
     "Invincible/Scénario 0 Mini Campagne/Cabane de Huon.md",
     "Invincible/Scénario 0 Mini Campagne/III - Mascombe.md",
-    "Invincible/Scénario 0 Mini Campagne/V - L'épuration de Raven'Ill.md",
     "Invincible/Scénario 0 Mini Campagne/Cabane de Huon.md.tmp.5.01374eaa794a",
     "Invincible/Scénario 0 Mini Campagne/Cabane de Huon.md.tmp.5.1bfd0ec132ae",
     "Invincible/Scénario 0 Mini Campagne/Cabane de Huon.md.tmp.5.456e915a4f67",
     "Invincible/Scénario 0 Mini Campagne/Cabane de Huon.md.tmp.5.86e2308f511e",
     "Invincible/Scénario 0 Mini Campagne/Cabane de Huon.md.tmp.5.ced62f91c753",
     "Invincible/Scénario 0 Mini Campagne/Cabane de Huon.md.tmp.5.3436aa3f8c54",
-    "Invincible/Scénario 0 Mini Campagne/Cabane de Huon.md.tmp.5.15942acfbd19",
     "Invincible/Scénario 0 Mini Campagne/I - L'incident du Marronnier.md",
-    "Invincible/Scénario 0 Mini Campagne/Récapitulatif.md.tmp.5.4d517cb69677",
     "Invincible/Où ils en sont.md",
     "Invincible/Scénario 0 Mini Campagne/II - Route de Felsenhof.md",
     "Annexe/Bestiaire/Huon le Dogue.md",
@@ -344,7 +346,6 @@
     "Annexe/Bestiaire/Squelette aquatique.md",
     "Annexe/Bestiaire/Spectre de foudre.md",
     "Annexe/Bestiaire/Spectre.md",
-    "Annexe/Bestiaire/Soldat de Lycanis.md",
-    "Annexe/Bestiaire/Skum.md"
+    "Annexe/Bestiaire/Soldat de Lycanis.md"
   ]
 }

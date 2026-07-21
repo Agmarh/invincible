@@ -1,6 +1,5 @@
-# Acte I : Un bien sombre horizon
 
-## Scène 1 : Une fosse peu accueillante
+# Scène 1 : Une fosse peu accueillante
 
 Les PJs sont en route pour Raven'Ill, cela fait 4 jours qu'ils sont partis de Mascombe à la demande de Mamert :
 
@@ -18,13 +17,13 @@ Si les PJs essaient d'analyser un cadavre pour en apprendre plus, <font style="c
 
 S'ils analysent les traces de griffures qui parcourent le corps des cadavres, ce doit être un animal de la taille d'un gros chien ou d'un loup. Ils trouveront également des marques de dents pointues. Il y a plusieurs autres fosses le long du chemin.
 
-## Scène 2 : L'arrivée au village
+# Scène 2 : L'arrivée au village
 
 En fin de journée : 
 
 > <font style="color:yellow">Vous arrivez enfin à Raven'Ill après une longue journée de marche. Mais le peu d'enthousiasme qui pouvait vous rester à l'idée de passer une bonne nuit au chaud dans une auberge s'envole vite quand vous passez les premières fortifications. Le village, décrit pas Mamert comme accueillant et plein de vie, est aujourd'hui bien différent. Les gens sont enfermés chez eux, les fenêtres barricadées, et une odeur de putréfaction légère flotte dans l'air.</font>
 
-### Les habitants 
+## Les habitants 
 
 Les habitants qui souffrent de la maladie développent des symptômes répugnants. 
 - Leurs yeux sont injectés de sang. 
@@ -37,7 +36,7 @@ Les villageois sont quasiment tous en deuil : ils ont tous perdu quelqu'un de pl
 
 Les animaux sentent également la mort qui rôde. Mais surtout, ils ont peur des goules. Ils sont devenus très craintifs, les chats soufflent et crachent dès qu'on les approche, les chiens détalent en courant et les chevaux s'agitent dans leur box.
 
-### Informations à glaner
+## Informations à glaner
 
 Les habitants sont réticents à l'idée que des étrangers viennent chez eux. Les PJs ne sont pas très bien accueillis. Mais ils peuvent apprendre les choses suivantes avec de bon jets ou roleplay :
 
@@ -51,7 +50,7 @@ Les habitants sont réticents à l'idée que des étrangers viennent chez eux. L
 
 - La maladie ? Les villageois ne savent pas grand-chose de la peste nécrotique. Il s'agit d'une maladie mortelle et extrêmement virulente, qui se développe dans le pays et qui contamine tout le monde. Personne ne sait comment elle se transmet. Les personnes contaminées deviennent très agressives, leurs yeux sont injectés de sang et une odeur de putréfaction se dégage de leur corps.
 
-## Scène 3 : Une attaque organisée
+# Scène 3 : Une attaque organisée
 
 > <font style="color:yellow">Alors que Raven'Ill semble s'être endormi, un cri retentit soudain à l'entrée du village :</font>
 > <font style="color:orange">"Les monstres ! Ils reviennent !"</font>
@@ -59,7 +58,7 @@ Les habitants sont réticents à l'idée que des étrangers viennent chez eux. L
 
 Il y a 5 goules et 1 blême (lieutenant de Roc'Taron). Ils ont pour mission d'attaquer les PJs, mais les goules, n'écoutant que leur appétit, se jetterons sur les villageois. Le blême, lui, s'attaquera aux PJs.
 
-## Scène 4 : La résistance s'organise
+# Scène 4 : La résistance s'organise
 
 Après l'attaque, les PJs sont contacté par Yvan, qui leur dit mener les quelques courageux qui ont décidé de se battre pour reprendre leur village aux morts. Il leur demande de le suivre pour discuter de tout ça à l'abri des regards. Les murs ont des oreilles.
 
