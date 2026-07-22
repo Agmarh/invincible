@@ -42,3 +42,87 @@ Profil d'Albus : [[Garde]]
 Il accompagnera les PJs s'ils le demandent, mais vu son état, sera plus un poids qu'autre chose.
 
 # Scène 2 : L'attaque du château
+
+![[image.png]]
+## 1. Entrée du château
+
+> <font style="color:yellow">"Les hautes tours du château de Raven'Ill se dressent devant vous. Une large porte de bois est dressée au bout du chemin, et deux gardes en armure se tiennent devant elle. Leur hallebarde à la main, ils semblent décidés à ne laisser personne entrer."</font>
+
+Rencontre : 2 armures animées et 2 hallebardes animées.
+
+## 2. Hall d'accueil
+
+> <font style="color:yellow">"Un grand hall richement décoré. Le lieu pourrait être considéré comme l'un des plus beaux que vous ayez jamais vus, mais il a été totalement saccagé. Les tissus sont souillés et les porcelaines détruites."</font>
+
+Rencontre : Une meute de 4 goules est dissimulée dans cette pièce. Elles attaquent dès que tous les PJ sont entrés.
+
+## 3. Bibliothèque
+
+> <font style="color:yellow">"Les murs de cette pièce sont couverts d'étagères qui semblent pouvoir céder à tout moment sous le poids des livres rangés dessus. Dans la cheminée, vous remarquez les restes carbonisés de trois lourds grimoires."</font>
+
+Roc'Taron a eu vent de l'intrusion dans son château. Il a donc fait détruire les livres dont les informations auraient été précieuses aux personnages. Il leur a aussi laissé un message écrit sur un morceau de parchemin posé sur la cendre : 
+> <font style="color:orange">"Je savais que vous alliez venir me rendre visite. Je vous attends, j'ai hâte de faire votre connaissance."</font>
+
+## 4. Salle des gardes
+
+> <font style="color:yellow">"Cette salle circulaire était le lieu de rendez-vous des gardes du château. Un jeu de cartes et plusieurs chopes de bières vides sont encore visibles sur la table centrale."</font>
+
+Rencontre : Les malheureux gardes qui étaient de faction quand Alwin est revenu ont été les premières victimes de Roc'Taron, et leurs cadavres gisent encore là. Mais les morts ne reposent pas en paix. 6 zombis attaquent les PJ quand ils entrent dans la pièce.
+
+## 5. Dortoir des gardes
+
+> <font style="color:yellow">"Cette pièce est meublée de lits, de paillasses, de coffres. Une forte odeur de renfermé assaille les narines."</font>
+
+La pièce servait de salle de repos pour les gardes et les serviteurs, mais elle est vide désormais.
+
+## 6. Salle de banquet
+
+> <font style="color:yellow">"Les restes d'un dîner gisent encore sur la table, tandis que la plupart des verres et des assiettes sont brisés et éparpillés sur le sol. Deux convives sont encore à table, dans un état de décomposition avancé."</font>
+
+Rencontre : Les deux convives assis à table sont en fait des nécrophages. Ils se relèvent et attaquent les intrus dès que ceux-ci pénètrent dans la pièce.
+
+## 7. Réserves
+
+> <font style="color:yellow">"Des armes et des armures sont rangées sur des râteliers. Étonnamment, tout semble à sa place, et aucun cadavre ne gît au sol."</font>
+
+Si les personnages fouillent cette pièce, ils peuvent y trouver des armes et des armures frappées des armoiries de Raven'Ill. Il y a notamment une armure de famille, une cotte de maille +1, ainsi qu'une épée longue +1. Cela pourra leur conférer un avantage certain contre Roc'Taron.
+
+## 8. Cuisine
+
+> <font style="color:yellow">"Les restes de préparations inachevées pourrissent dans les casseroles. Les réserves semblent avoir été saccagées et il ne reste désormais plus que des légumes pourris et des fruits secs dévorés par les insectes. Mais le plus frappant reste tout de même le cadavre bouffi couvert de mouches allongé au milieu de la pièce."</font>
+
+Les cuisines ont été abandonnées quand le baron a été tué, juste avant l'heure du repas. Les cuisiniers sont tous morts et la plupart sont devenus des goules. Le corps qui pourrit ici a été laissé négligemment par Roc'Taron qui se complaît dans la mort et la putréfaction. Mais il s'agit d'un leurre : l'âme de ce pauvre commis a bien trouvé le repos.
+
+## 9. Autel profané
+
+> <font style="color:yellow">"Ce qui était jadis une chapelle a été profané. Il se dégage du lieu une atmosphère particulièrement chargée et maléfique."</font>
+
+La chapelle était autrefois dédiée à une divinité de la fertilité et de la famille, mais aujourd'hui, elle est consacrée à la non-vie.
+
+## 10. Laboratoire de Roc'Taron
+
+> <font style="color:yellow">"Cette pièce a été totalement reconvertie en laboratoire de nécromancie. Plusieurs cadavres sont disséqués sur des tables, et une étrange substance rouge et violette bouillonne dans un petit chaudron. Contrairement au reste du château, l'endroit est bien tenu. Tout est aménagé avec une précision chirurgicale qui fait froid dans le dos. Un mal terrible émane des murs."</font>
+
+Rencontre : Roc'Taron attend les aventuriers ici. Il a désormais pris pleine possession du corps d'Alwin, et c'est désormais l'esprit du baron qui est enfermé dans le médaillon. Pour les PJ, l'objectif de cette rencontre sera soit de détruire le nécromancien, soit de réussir à faire ressurgir l'esprit d'Alwin pour qu'il reprenne possession de son corps. 
+
+S'ils décident d'attaquer Roc'Taron, il s'agit d'un combat classique contre le sorcier, aidé par 2 ombres qui sortent des murs de la tour pour protéger leur maître.
+
+En revanche, si les joueurs choisissent la seconde option, la chose sera un peu plus compliquée à gérer. Le baron est encore sensible à son passé, et plusieurs choses peuvent aider à faire ressurgir le véritable Alwin. 
+- Premièrement si les PJ portent les armes et/ou les armures trouvées dans la salle 7. 
+- Deuxièmement, s'ils font allusion au père d'Alwin, Frostwin. 
+- Et troisièmement, s'ils décrivent précisément ce qui se passe dans le village et dans les champs alentour (les meutes de goules, les piles de cadavres, la maladie…). 
+- Si les PJ remplissent deux de ces trois conditions, Alwin arrive pendant un court instant à reprendre le contrôle de son corps, et Roc'Taron en est alors expulsé. Les PJ doivent désormais affronter l'esprit de Roc'Taron.
+
+## 11. Postes d'observation
+
+> <font style="color:yellow">"Les terrasses des tours offrent une vue globale sur toute la région. Il est même possible d'apercevoir le village. Cependant, votre esprit est plus préoccupé par les piles de cadavres qui pourrissent dans les champs comme autant de tertres macabres."</font>
+
+# Épilogue
+
+Si les PJ ont réussi à tuer Roc'Taron sous forme de fantôme après l'avoir expulsé du corps d'Alwin, tout va pour le mieux. Ils sont accueillis en héros au village et même si cela va prendre du temps, les habitants vont réussir à se remettre des événements récents. Alwin reprend la place qui lui est due et les villageois en sont plus que ravis.
+
+En revanche, si les PJ tuent le nécromant alors qu'il occupait le corps d'Alwin, ils se trouvent face à un problème de taille. Sans héritier à la baronnie, la région va connaître une terrible guerre civile de succession. Cousins lointains d'Alwin, familles riches du village, seigneur voisin, tout le monde va vouloir mettre la main sur le château et ses terres fertiles. 
+
+Parmi les solutions : en raison de leurs actions héroïques, les aventuriers ont la légitimité pour administrer un temps la baronnie. Qui sait, l'un d'eux avec un charisme suffisant et un passé de bonne famille (un paladin ?) va s'attacher aux villageois qui commencent à lui donner du « seigneur » ou du « baron » quand ils s'adressent à lui. 
+
+Autre scénario possible : les PJ sont chassés comme des malpropres de Raven'Ill après avoir détruit le dernier espoir des villageois. En effet, ils ont tué Alwin, l'unique héritier d'une lignée de bons seigneurs et le pays va sombrer dans le chaos.
