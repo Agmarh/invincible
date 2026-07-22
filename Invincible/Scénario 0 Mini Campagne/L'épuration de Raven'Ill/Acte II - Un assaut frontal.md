@@ -79,7 +79,7 @@ La pièce servait de salle de repos pour les gardes et les serviteurs, mais elle
 
 > <font style="color:yellow">"Les restes d'un dîner gisent encore sur la table, tandis que la plupart des verres et des assiettes sont brisés et éparpillés sur le sol. Deux convives sont encore à table, dans un état de décomposition avancé."</font>
 
-Rencontre : L'un des convives assis à table est en fait un [[Nécrophage]]. Ils se relèvent et attaquent les intrus dès que ceux-ci pénètrent dans la pièce.
+Rencontre : L'un des convives assis à table est en fait un [[Nécrophage]]. Il se relève et attaque les intrus dès que ceux-ci pénètrent dans la pièce.
 
 ## 7. Réserves
 
@@ -103,7 +103,7 @@ La chapelle était autrefois dédiée à une divinité de la fertilité et de la
 
 > "Cette salle ressemble à des cachots créés à la hâte. Deux des 4 cages sont occupés par une cockatrice et un worg."
 
-Lykea peut reconnaître ces bêtes car elles étaient protégées par son clan et on fuit lors de l'attaque.
+Lykea peut reconnaître ces bêtes car elles étaient protégées par son clan et on fui lors de l'attaque.
 
 ## 10. Laboratoire de Roc'Taron
 
