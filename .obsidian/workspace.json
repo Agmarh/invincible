@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Annexe/Bestiaire/Fantôme.md",
+                "file": "Annexe/Bestiaire/Zombie.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -54,7 +54,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Fantôme"
+              "title": "Zombie"
             }
           },
           {
@@ -311,6 +311,9 @@
   },
   "active": "c3295e04034d056d",
   "lastOpenFiles": [
+    "Annexe/Bestiaire/Nécrophage.md",
+    "Annexe/Bestiaire/Zombie.md",
+    "Annexe/Bestiaire/Fantôme.md",
     "Annexe/Bestiaire/Ombre.md",
     "Annexe/Bestiaire/Goule.md",
     "Annexe/Bestiaire/Hallebarde animée.md",
@@ -344,9 +347,6 @@
     "Annexe/Bestiaire/Krell.md",
     "Annexe/Bestiaire/Worg.md",
     "Annexe/Bestiaire/Vouivre.md",
-    "Annexe/Bestiaire/Villageois aguérris.md",
-    "Annexe/Bestiaire/Vase grise.md",
-    "Annexe/Bestiaire/Tertre errant.md",
-    "Annexe/Bestiaire/Swarathnak, Dragon noir adulte.md"
+    "Annexe/Bestiaire/Villageois aguérris.md"
   ]
 }
