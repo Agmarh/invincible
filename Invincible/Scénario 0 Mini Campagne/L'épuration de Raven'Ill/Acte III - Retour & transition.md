@@ -61,17 +61,17 @@ Laisser le joueur réagir — Aymar encaisse la réplique, quelle qu'elle soit, 
 **Si Mamert est mort (B)**, Aymar l'accorde en mémoire de son intendant :
 > <font style="color:orange">"Mon intendant, dans ses derniers jours, n'a parlé que de vous trois. Il m'a fait jurer de regarder le passé d'un autre œil. Je tiens parole à un mort — même si je le voudrais encore vivant pour le lui reprocher."</font>
 
-**Effets** : titre officiel, laissez-passer permanent en terres alliées à Felsenhof, protection d'Aymar, dette d'honneur. La **Faille** du barde est résolue — il pourra retrouver sa troupe, les Sept Échos, en paix. *(Voir la fiche `Haisse Per LUETTE dit l'OGROMPTEUR`.)*
+**Effets** : titre officiel, laissez-passer permanent en terres alliées à Felsenhof, protection d'Aymar, dette d'honneur. La **Faille** du barde est résolue — il pourra retrouver sa troupe, les Sept Échos, en paix.
 
 # Scène 5 : L'amende honorable *(arc de Lykëa)*
 
-Aymar fait alors porter devant la druide un parchemin scellé et trois objets enveloppés dans du lin.
+Aymar fait alors porter devant la druide un parchemin scellé et deux objets enveloppés dans du lin.
 
-> <font style="color:orange">"J'ai été cet homme qui chassait les créatures pour la gloire. J'en ai tué pour le sport, j'en ai fait empailler pour décorer mes murs. Je ne le suis plus. La guerre m'a ôté le goût du sang facile."</font>
-> <font style="color:yellow">Il fait dérouler le lin. Une tête de chien du trépas, conservée. Une peau de worg. Une cockatrice empaillée. De vieux trophées de sa jeunesse.</font>
+> <font style="color:orange">"J'ai été cet homme qui chassait les créatures pour la gloire. J'en ai tué pour le sport, j'en ai fait empailler pour décorer mes murs. Je ne le suis plus."</font>
+> <font style="color:yellow">Il fait dérouler le lin. Une peau de worg. Une cockatrice empaillée. De vieux trophées de sa jeunesse.</font>
 > <font style="color:orange">"Je vous les rends. Non parce qu'ils vous appartenaient, mais parce que vous saurez qu'en faire mieux que moi. Et je confirme, par écrit et par ma parole, le pacte que Mamert a scellé avec vous. La Zone Protégée de l'Altwald existe à compter d'aujourd'hui. J'en repousserai les limites si vous me le demandez. Cette forêt est autant la vôtre que la mienne. Veillez-y."</font>
 
-Le titre de **Gardienne des Terres Sauvages de l'Altwald** est confirmé sous l'autorité du baron. À Lykëa de disposer des trois trophées comme elle l'entend — les enterrer dignement dans la réserve, les brûler, les garder en mémoire.
+Le titre de **Gardienne des Terres Sauvages de l'Altwald** est confirmé sous l'autorité du baron. À Lykëa de disposer des trophées comme elle l'entend — les enterrer dignement dans la réserve, les brûler, les garder en mémoire.
 
 ## La révélation *(en privé, dans le cabinet d'Aymar)*
 
@@ -79,16 +79,14 @@ Après que la cour s'est dispersée, Aymar propose à la druide un entretien seu
 
 > <font style="color:orange">"Sire, j'ai gardé ceci des années. Je l'ai arraché à l'un des hommes qui ont tué les miens. Je n'ai jamais su lire ce qui est brodé dessus. Vous, peut-être ?"</font>
 > <font style="color:yellow">Aymar déplie le tissu. Il blêmit d'un coup.</font>
-> <font style="color:orange">"C'est… le blason des Drachenfels. Un dragon couché, sang sur noir. Markward von Drachenfels. J'ai chassé avec lui, dans ma jeunesse. Ce n'est pas possible…"</font>
+> <font style="color:orange">"C'est le blason des Drachenfels. Un dragon couché, sang sur noir. Mark von Drachenfels. J'ai chassé avec lui, dans ma jeunesse. Ce n'est pas possible…"</font>
 
 Silence. Aymar pose le tissu, regarde par la fenêtre, puis se retourne.
 
-> <font style="color:orange">"Markward est vivant. Il vit dans son domaine, à l'est de Wissenheim, avec son cabinet de curiosités et ses chasses. Personne ne le soupçonne de rien."</font>
-> <font style="color:orange">"Vous voulez qu'il paie. Je le vois. Mais vous ne pouvez pas l'attaquer — on vous exécuterait pour meurtre de noble avant la fin de votre plaidoirie. Moi, je peux. Pendant que vous serez ailleurs — et vous serez ailleurs, je le sens. Je réunirai les preuves, les témoignages des survivants, et je porterai le dossier devant le Conseil provincial de Tharse. Le baron de Felsenhof, héros de guerre, accusateur : ils m'écouteront. Markward perdra ses titres, ses terres, sa liberté — sans qu'une goutte de sang noble ne soit versée. C'est la seule justice qui tienne. Vous l'acceptez ?"</font>
+> <font style="color:orange">"Mark est vivant. Il vit dans son domaine, à l'est de Wissenheim, avec son cabinet de curiosités et ses chasses."</font>
+> <font style="color:orange">"Vous voulez qu'il paie. Je le vois. Mais vous ne pouvez pas l'attaquer — on vous exécuterait pour meurtre avant la fin de votre plaidoirie. Moi, je peux. Pendant que vous serez ailleurs — et vous serez ailleurs, je le sens. Je réunirai des preuves, des témoignages, et je porterai le dossier devant le Conseil provincial de Tharse. Le baron de Felsenhof, héros de guerre, accusateur : ils m'écouteront. Mark perdra ses titres, ses terres, sa liberté — sans qu'une goutte de sang ne soit versée. C'est la seule justice qui tienne. Vous l'acceptez ?"</font>
 
-À laisser au joueur. S'il accepte, Aymar s'engage formellement : il conservera la preuve, mènera l'enquête pendant l'absence de la druide, et **le verdict tombera plus tard**, en toile de fond. *(Résolutions possibles : voir la fiche `Lykëa`.)*
-
-**Note MJ** : ne pas faire de Drachenfels une menace active. Il ne sait pas que Lykëa existe. C'est un coupable qui dort dans son domaine, et qui sera surpris dans son sommeil — c'est ce qui rendra sa chute satisfaisante.
+À laisser au joueur. S'il accepte, Aymar s'engage formellement : il conservera la preuve, mènera l'enquête pendant l'absence de la druide, et **le verdict tombera plus tard**, en toile de fond.
 
 # Scène 6 : La porte ouverte *(arc de Samaëlle)*
 
@@ -96,20 +94,20 @@ Aymar se tourne enfin vers la barbare. Sans cérémonie, sans titre.
 
 > <font style="color:yellow">Il te regarde un long moment. Il ne sourit pas — la guerre lui a appris que les faux sourires blessent plus que les regards francs.</font>
 > <font style="color:orange">"Vous, je ne vous connais pas. Mamert m'a parlé de vous. Il m'a dit que vous vous étiez battue pour ses gens sans qu'on vous le demande. Que vous aviez refusé l'or qu'on vous tendait. C'est rare."</font>
-> <font style="color:orange">"Je ne vous offrirai pas de titre — vous le refuseriez, et vous auriez raison. Ni de serment — je doute que vous en vouliez. Je vous offre ceci : une chambre à Felsenhof, à votre nom, dans l'aile des invités. Quand vous voulez, pour le temps que vous voulez, sans qu'on vous demande jamais ce que vous faites ailleurs. Pas d'obligation. Juste une porte ouverte et un lit chaud, parce que je crois qu'on en a tous besoin un jour. Vous prenez ou vous laissez."</font>
+> <font style="color:orange">"Je ne vous offrirai pas de titre — vous le refuseriez je pense, et vous auriez raison. Ni de serment — je doute que vous en vouliez. Je vous offre ceci : un libre accès. Sans qu'on vous demande jamais ce que vous faites ailleurs. Pas d'obligation. Juste une porte ouverte à jamais sur mes terres. Ceci en plus de la cabane de chasse que Mamert vous a offert. Vous prenez ou vous laissez."</font>
 
-À laisser **entièrement libre** : elle peut accepter sèchement, refuser net, ou hésiter (silence, regard détourné — et c'est encore plus fort). Quoi qu'elle réponde à voix haute, **la porte reste ouverte**. Aymar tient parole. *(Voir la fiche `Samaëlle Vaël'Rhys`.)*
+À laisser **entièrement libre** : elle peut accepter sèchement, refuser net, ou hésiter (silence, regard détourné — et c'est encore plus fort). Quoi qu'elle réponde à voix haute, **la porte reste ouverte**. Aymar tient parole.
 
 Si Sam porte la **hache à deux mains de Frostwin** trouvée dans les réserves, Aymar la remarque et ne dit rien — mais un vieux baron reconnaît l'arme d'un autre. Un simple regard, appuyé.
 
 # Scène 7 : Le repos à Mascombe
 
-Après Felsenhof, les PJ regagnent leur **cabane de chasse à la lisière de Mascombe** (l'ancien logis de Huon). Deux ou trois semaines de calme, à jouer librement selon les envies de la table.
+Après Felsenhof, les PJ regagnent leur **cabane de chasse à la lisière de Mascombe**. Deux ou trois semaines de calme, à jouer librement selon les envies de la table.
 
 - **Lykëa** délimite enfin sa **Zone Protégée de l'Altwald** et y installe la cockatrice et le worg — les **premiers habitants** de la réserve. Baudoin l'ermite peut lui rendre visite, ou lui envoyer un corbeau. Le clan de l'Eau Noire, si peu qu'il en reste, recommence à vivre.
 - **Samaëlle**, si la table s'y prête, peut avoir sa **première vraie confidence** — à Lykëa le plus naturellement, une sœur d'armes. Un morceau de son passé, pas tout. Une fissure de plus dans la pierre.
 - **Haisse** peut faire venir un visage de sa **troupe des Sept Échos** de passage dans la région, ou simplement jouer un soir à l'auberge du Loup Gris, désormais barde patenté.
-- **Si Mamert est vivant (A)**, les PJ peuvent lui rendre visite pendant sa convalescence. Une conversation possible avec Samaëlle à son chevet : *« Vous êtes différent. — Non. Je suis pareil. C'est ce que les nobles devraient être, et ce que trop peu sont. »*
+- **Si Mamert est vivant (A)**, les PJ peuvent lui rendre visite pendant sa convalescence.
 
 # Scène 8 : Amorce — la halte de Jaseran
 
