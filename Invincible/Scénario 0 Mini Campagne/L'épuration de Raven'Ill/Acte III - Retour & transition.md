@@ -11,24 +11,24 @@
 
 Si Lykëa a libéré la **cockatrice** et le **worg** des cachots (salle 12), ils font route avec vous — la cockatrice nerveuse, tenue à distance des feux de camp ; le worg boitant encore, mais qui ne quitte plus les talons de la druide.
 
-> <font style="color:yellow">Le deuxième soir, alors que le feu crépite, le worg vient poser sa tête contre ta jambe. Tu reconnais cette façon qu'il a de souffler par les naseaux, exactement comme les bêtes de ton clan le faisaient, autrefois, dans le Bourbier. Deux survivants. Comme toi.</font>
+> <font style="color:yellow">Le deuxième soir, alors que le feu crépite, le worg vient poser sa tête contre ta jambe. Tu reconnais cette façon qu'il a de souffler par les naseaux, de la reconnaissance.</font>
 
 C'est un moment à laisser respirer. Pas de jet, pas d'enjeu — juste la certitude, pour Lykëa, qu'elle n'est plus tout à fait la dernière.
 
 # Scène 2 : Felsenhof a changé
 
-> <font style="color:yellow">Le château de Felsenhof se dresse enfin sur sa butte, dans la lumière grise de fin d'après-midi. Mais quelque chose a changé depuis votre départ. Sur les remparts flotte une bannière qui n'y était pas — le blason plein du baron, et non plus le simple fanion de l'intendance. La garnison est plus fournie. Aux portes, les gardes se tiennent droit. Un mot circule dans la cour avant même qu'on vous ait annoncés : le baron **Aymar von Felsenhof est rentré de la guerre**.</font>
+> <font style="color:yellow">Le château de Felsenhof se dresse enfin sur sa butte, dans la lumière grise de fin d'après-midi. Mais quelque chose a changé depuis votre départ. Sur les remparts flotte une bannière qui n'y était pas — le blason plein du baron, et non plus le simple fanion de l'intendance. La garnison est plus fournie. Aux portes, les gardes se tiennent droit. Un mot circule dans la cour avant même qu'on vous ait annoncés : le baron Aymar von Felsenhof est rentré de la guerre.</font>
 
 ## Note MJ — le sort de Mamert
 
-**À trancher maintenant**, selon le ton de votre table et l'attachement des joueurs à Mamert (voir aussi `Personnages`). Les deux versions fonctionnent avec la suite.
+**À trancher maintenant**, selon le ton de votre table et l'attachement des joueurs à Mamert. Les deux versions fonctionnent avec la suite.
 
 - **Option A — Mamert survit.** Alité dans une chambre du château, affaibli par la maladie qui l'a saisi pendant votre absence, mais lucide. Il a tenu bon. Il assistera à la cérémonie, porté dans un fauteuil.
 - **Option B — Mamert est mort.** Emporté durant votre absence. Sa chambre est vide, ses affaires rangées. Aymar parlera en son nom, et en sa mémoire.
 
 ## L'audience
 
-> <font style="color:yellow">On vous fait entrer dans la grande salle voûtée, là même où Mamert vous avait confié la traque de Mascombe. Mais aujourd'hui la salle est pleine : des serviteurs, quelques nobliaux du voisinage, la garnison au complet. Et sur le siège du seigneur, un homme que vous n'aviez jamais vu. La quarantaine sèche, le visage tanné par les camps, une cicatrice pâle qui court sur l'avant-bras. Il vous observe entrer sans un mot. Le baron Aymar.</font>
+> <font style="color:yellow">On vous fait entrer dans la grande salle voûtée, là même où Mamert vous avait confié la traque de Mascombe. Mais aujourd'hui la salle est pleine : des serviteurs, quelques nobles du voisinage, la garnison au complet. Et sur le siège du seigneur, un homme que vous n'aviez jamais vu, sauf Haisse Per Luette. La quarantaine sèche, le visage tanné par les camps, une cicatrice pâle qui court sur l'avant-bras. Il vous observe entrer sans un mot. Le baron Aymar.</font>
 
 Si **Mamert est vivant (A)**, deux serviteurs l'installent dans un fauteuil, dans un coin de la salle. Il vous adresse un petit signe de tête épuisé mais heureux.
 
