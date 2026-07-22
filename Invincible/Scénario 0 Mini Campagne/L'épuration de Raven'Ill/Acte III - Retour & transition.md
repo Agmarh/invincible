@@ -1,8 +1,6 @@
-*Acte de clôture de Raven'Ill et de la mini-campagne. On y règle les récompenses, on paie les arcs personnels des trois PJ au château de Felsenhof (le baron Aymar est rentré), et on sème la graine du scénario suivant à Jaseran. À adapter selon la fin de Raven'Ill (Alwin sauvé ou mort) et le sort de Mamert (voir plus bas).*
-
 # Scène 1 : Le chemin du retour
 
-> <font style="color:yellow">Vous quittez Raven'Ill au petit matin. Derrière vous, le village commence à peine à respirer — on ouvre des volets restés clos depuis des semaines, on ose enfin sortir les morts des maisons. Devant vous, quatre jours de route vers l'ouest et la baronnie de Felsenhof. Le médaillon de Roc'Taron pèse dans votre sac comme une braise éteinte, et l'odeur de la peste vous colle encore à la peau.</font>
+> <font style="color:yellow">Vous quittez Raven'Ill au petit matin. Derrière vous, le village commence à peine à respirer — on ouvre des volets restés clos depuis des semaines, on ose enfin sortir les morts des maisons. Devant vous, quatre jours de route vers l'ouest et la baronnie de Felsenhof. Le médaillon de Roc'Taron, vide, pèse dans votre sac comme une braise éteinte, et l'odeur de la peste vous colle encore à la peau.</font>
 
 **Selon la fin de Raven'Ill :**
 
