@@ -120,7 +120,3 @@ Pour **Haisse**, c'est un frisson qu'il ne s'explique pas : c'est ici que sa ni�
 > <font style="color:yellow">Au matin, vous repartez. Le bourg s'efface derrière vous dans la brume, et vous avez déjà du mal à vous rappeler le visage de l'aubergiste. Ce n'est rien, sûrement. Rien du tout.</font>
 
 **Fin de la mini-campagne originale.** La graine de Jaseran est plantée — elle germera dans *Alzheimerïn*, quand un appel muet ramènera les PJ vers ce bourg qui vole les souvenirs, et de là vers Clairjonc. Au bout de ce fil : un rituel raté, un éternuement de Clovik, et le grand saut vers Cobis et *Invincible*.
-
----
-
-*Acte III — Retour & transition. Paie les trois arcs (Pardon d'Aymar, réserve + révélation Drachenfels, porte ouverte) et amorce Alzheimerïn. À moduler selon la fin de Raven'Ill et le sort de Mamert.*
