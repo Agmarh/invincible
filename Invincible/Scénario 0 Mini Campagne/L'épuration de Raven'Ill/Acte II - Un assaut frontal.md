@@ -85,7 +85,7 @@ Rencontre : L'un des convives assis à table est en fait un [[Nécrophage]]. Il 
 
 > <font style="color:yellow">"Des armes et des armures sont rangées sur des râteliers. Étonnamment, tout semble à sa place, et aucun cadavre ne gît au sol."</font>
 
-Si les personnages fouillent cette pièce, ils peuvent y trouver des armes et des armures frappées des armoiries de Raven'Ill. Il y a notamment une armure de famille, une cotte de maille +1, ainsi qu'une épée longue +1. Cela pourra leur conférer un avantage certain contre Roc'Taron.
+Si les personnages fouillent cette pièce, ils peuvent y trouver des armes et des armures frappées des armoiries de Raven'Ill. Il y a notamment une armure de famille, un bouclier cerclé en bois +1, ainsi qu'une hache à deux mains +1 portant le sceau de la barronnie. Cela pourra leur conférer un avantage certain contre Roc'Taron.
 
 ## 8. Cuisine
 
