@@ -56,7 +56,7 @@ Les habitants sont réticents à l'idée que des étrangers viennent chez eux. L
 > <font style="color:orange">"Les monstres ! Ils reviennent !"</font>
 > <font style="color:yellow">Ce cri est suivi rapidement par d'autres qui relaient la sombre nouvelle. En regardant par la fenêtre, vous voyez sur le toit d'une maison, une créature humanoïde recroquevillée sur elle-même qui semble vous observer dans la nuit. Ses yeux, fumants comme de la braise, vous fixent et vous mettent particulièrement mal à l'aise. Sans prévenir, la créature détourne les yeux en voyant un homme dans la rue qui essaie de rejoindre sa maison en vitesse. Elle se jette sur lui et enfonce de longues griffes dans le dos du pauvre homme, qui succombe immédiatement.</font>
 
-Il y a 5 [[Goule]] et 1 [[Blême]] (lieutenant de Roc'Taron). Ils ont pour mission d'attaquer les PJs, mais les goules, n'écoutant que leur appétit, se jetterons sur les villageois. Le blême, lui, s'attaquera aux PJs.
+Il y a 4 [[Goule]] et 1 [[Blême]] (lieutenant de Roc'Taron). Ils ont pour mission d'attaquer les PJs, mais les goules, n'écoutant que leur appétit, se jetterons sur les villageois. Le blême, lui, s'attaquera aux PJs.
 
 # Scène 4 : La résistance s'organise
 
@@ -66,3 +66,4 @@ Il les conduit dans la cave d'une maison abandonnée. Six personnes sont assises
 
 > <font style="color:yellow">Quatre hommes et deux femmes sont assis autour d'une grande table ronde, autour de laquelle sont disposés encore plusieurs sièges vides. La pièce est faiblement éclairée par une lanterne à huile posée au centre de la table. Les personnes présentes semblent faibles, toussent régulièrement et ont du mal à se lever. L'une d'entre elles arrive quand même à se redresser pour vous saluer, bien que ses jambes semblent pouvoir la lâcher à tout moment. Yvan, l'homme qui vous a contactés prend place sur un des sièges, et vous invite à vous asseoir également. Que faites-vous ?</font>
 
+Passage au niveau 4.
