@@ -34,30 +34,6 @@
             }
           },
           {
-            "id": "c3295e04034d056d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Annexe/Bestiaire/Zombie.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Zombie"
-            }
-          },
-          {
             "id": "8cb93cd2b48de7b1",
             "type": "leaf",
             "state": {
@@ -309,17 +285,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c3295e04034d056d",
+  "active": "8cb93cd2b48de7b1",
   "lastOpenFiles": [
-    "Annexe/Bestiaire/Nécrophage.md",
+    "Annexe/Bestiaire/Armure animée.md",
+    "Invincible/Scénario 0 Mini Campagne/Récapitulatif.md",
+    "Annexe/Bestiaire/Hallebarde animée.md",
+    "Annexe/Bestiaire/Roc'Taron.md",
     "Annexe/Bestiaire/Zombie.md",
+    "Annexe/Bestiaire/Nécrophage.md",
     "Annexe/Bestiaire/Fantôme.md",
     "Annexe/Bestiaire/Ombre.md",
     "Annexe/Bestiaire/Goule.md",
-    "Annexe/Bestiaire/Hallebarde animée.md",
-    "Annexe/Bestiaire/Armure animée.md",
     "Invincible/Scénario 0 Mini Campagne/L'épuration de Raven'Ill/Acte II - Un assaut frontal.md",
-    "Invincible/Scénario 0 Mini Campagne/Récapitulatif.md",
     "Invincible/Scénario 0 Mini Campagne/IV - Bête Humaine.md",
     "Invincible/Images/image.png",
     "Invincible/Scénario 0 Mini Campagne/L'épuration de Raven'Ill/Acte I - Un bien sombre horizon.md",
@@ -346,7 +323,6 @@
     "Annexe/Bestiaire/Borek.md",
     "Annexe/Bestiaire/Krell.md",
     "Annexe/Bestiaire/Worg.md",
-    "Annexe/Bestiaire/Vouivre.md",
-    "Annexe/Bestiaire/Villageois aguérris.md"
+    "Annexe/Bestiaire/Vouivre.md"
   ]
 }
