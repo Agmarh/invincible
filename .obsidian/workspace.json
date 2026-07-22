@@ -34,36 +34,12 @@
             }
           },
           {
-            "id": "2909fa3ffd97112f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Invincible/Scénario 0 Mini Campagne/IV - Bête Humaine.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "IV - Bête Humaine"
-            }
-          },
-          {
             "id": "c3295e04034d056d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Annexe/Bestiaire/Objets animés.md",
+                "file": "Annexe/Bestiaire/Fantôme.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -78,11 +54,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Objets animés"
+              "title": "Fantôme"
+            }
+          },
+          {
+            "id": "8cb93cd2b48de7b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Invincible/Scénario 0 Mini Campagne/L'épuration de Raven'Ill/Acte II - Un assaut frontal.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Acte II - Un assaut frontal"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -311,14 +311,17 @@
   },
   "active": "c3295e04034d056d",
   "lastOpenFiles": [
+    "Annexe/Bestiaire/Ombre.md",
+    "Annexe/Bestiaire/Goule.md",
+    "Annexe/Bestiaire/Hallebarde animée.md",
+    "Annexe/Bestiaire/Armure animée.md",
     "Invincible/Scénario 0 Mini Campagne/L'épuration de Raven'Ill/Acte II - Un assaut frontal.md",
-    "Annexe/Bestiaire/Objets animés.md",
+    "Invincible/Scénario 0 Mini Campagne/Récapitulatif.md",
+    "Invincible/Scénario 0 Mini Campagne/IV - Bête Humaine.md",
     "Invincible/Images/image.png",
     "Invincible/Scénario 0 Mini Campagne/L'épuration de Raven'Ill/Acte I - Un bien sombre horizon.md",
     "Invincible/Personnages/Lykëa.md",
     "Invincible/Scénario 0 Mini Campagne/L'épuration de Raven'Ill",
-    "Invincible/Scénario 0 Mini Campagne/Récapitulatif.md",
-    "Invincible/Scénario 0 Mini Campagne/IV - Bête Humaine.md",
     "Invincible/Personnages/Samaëlle Vaël'Rhys.md",
     "Invincible/Personnages/Samaëlle Vaël'Rhys.md.tmp.9799.c60a48465975",
     "Invincible/Personnages/Samaëlle Vaël'Rhys.md.tmp.9799.a628c3259aad",
@@ -344,9 +347,6 @@
     "Annexe/Bestiaire/Villageois aguérris.md",
     "Annexe/Bestiaire/Vase grise.md",
     "Annexe/Bestiaire/Tertre errant.md",
-    "Annexe/Bestiaire/Swarathnak, Dragon noir adulte.md",
-    "Annexe/Bestiaire/Squelettes miniatures.md",
-    "Annexe/Bestiaire/Squelette aquatique.md",
-    "Annexe/Bestiaire/Spectre de foudre.md"
+    "Annexe/Bestiaire/Swarathnak, Dragon noir adulte.md"
   ]
 }

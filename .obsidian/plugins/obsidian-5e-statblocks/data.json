@@ -5530,6 +5530,107 @@
         "source": "Homebrew",
         "layout": "Basic 5e Layout"
       }
+    ],
+    [
+      "Armure animée",
+      {
+        "name": "Armure animée",
+        "size": "M",
+        "type": "Créature artificielle",
+        "subtype": null,
+        "alignment": null,
+        "ac": 18,
+        "hp": 29,
+        "hit_dice": "6d8+4",
+        "speed": "7,5 m",
+        "stats": [
+          16,
+          11,
+          16,
+          2,
+          10,
+          2
+        ],
+        "senses": "vision aveugle 18 m, Perception passive 6",
+        "languages": null,
+        "cr": 2,
+        "traits": [
+          {
+            "name": "Faux semblant",
+            "desc": "Tant que l'armure reste immobile, il est impossible de la distinguer d'une armure ordinaire."
+          },
+          {
+            "name": "Vulnérabilité à l'antimagie",
+            "desc": "L'armure est neutralisée quand elle se trouve à l'intérieur d'un champ d'antimagie. Ciblée par une dissipation de la magie, l'armure doit réussir un jet de sauvegarde de Constitution contre le DD du jet de sauvegarde du sort du lanceur, sans quoi elle tombe inconsciente pendant 1 minute."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Coup",
+            "desc": "Attaque d'arme au corps à corps : +6 pour toucher, allonge 1,50 m, une cible. Touché : 5 (1d6+3) dégâts contondants."
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "Hallebarde animée",
+      {
+        "name": "Hallebarde animée",
+        "size": "P",
+        "type": "Créature artificielle",
+        "subtype": null,
+        "alignment": null,
+        "ac": 16,
+        "hp": 16,
+        "hit_dice": "5d8",
+        "speed": "0 m, vol 15 m",
+        "stats": [
+          11,
+          18,
+          11,
+          2,
+          10,
+          2
+        ],
+        "saves": [
+          {
+            "Dex": 4
+          }
+        ],
+        "damage_immunities": "de poison et psychiques",
+        "condition_immunities": "<STATBLOCK-WIKI-LINK>Assourdi<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Aveuglé<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Charmé<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Empoisonné<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Épuisé<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Paralysé<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Pétrifié<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Terrorisé<STATBLOCK-WIKI-LINK>",
+        "senses": "vision aveugle 18 m, Perception passive 7",
+        "languages": null,
+        "cr": 2,
+        "traits": [
+          {
+            "name": "Faux semblant",
+            "desc": "Tant que la hallebarde reste immobile, il est impossible de la distinguer d'une arme ordinaire."
+          },
+          {
+            "name": "Vulnérabilité à l'antimagie",
+            "desc": "La hallebarde est neutralisée quand elle se trouve à l'intérieur d'un champ d'antimagie. Ciblée par une dissipation de la magie, la hallebarde doit réussir un jet de sauvegarde de Constitution contre le DD du jet de sauvegarde du sort du lanceur, sans quoi elle tombe inconsciente pendant 1 minute."
+          },
+          {
+            "name": "Vol rapide",
+            "desc": "Une hallebarde animée obtient une action de mouvement supplémentaire par tour lorsqu'elle est en vol (ce qui lui permet d'utiliser Imparable après un déplacement)."
+          },
+          {
+            "name": "Imparable",
+            "desc": "Réaliser une attaque en lançant deux d20 et garder le meilleur résultat. Si une hallebarde animée obtient 15-20 au d20 d'un test d'attaque (même sans utiliser Imparable), elle inflige + 1d6 DM et l'attaque est automatiquement réussie (quelle que soit la DEF de son adversaire)."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Coup",
+            "desc": "Attaque d'arme au corps à corps : +6 pour toucher, allonge 1,50 m, une cible. Touché : 6 (1d10) dégâts tranchants."
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
     ]
   ],
   "defaultLayouts": {
