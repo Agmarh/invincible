@@ -48,13 +48,13 @@ Il accompagnera les PJs s'ils le demandent, mais vu son état, sera plus un poid
 
 > <font style="color:yellow">"Les hautes tours du château de Raven'Ill se dressent devant vous. Une large porte de bois est dressée au bout du chemin, et deux gardes en armure se tiennent devant elle. Leur hallebarde à la main, ils semblent décidés à ne laisser personne entrer."</font>
 
-Rencontre : 2 armures animées et 2 hallebardes animées.
+Rencontre : 2[[Armure animée]] et 2 [[Hallebarde animée]].
 
 ## 2. Hall d'accueil
 
 > <font style="color:yellow">"Un grand hall richement décoré. Le lieu pourrait être considéré comme l'un des plus beaux que vous ayez jamais vus, mais il a été totalement saccagé. Les tissus sont souillés et les porcelaines détruites."</font>
 
-Rencontre : Une meute de 4 goules est dissimulée dans cette pièce. Elles attaquent dès que tous les PJ sont entrés.
+Rencontre : Une meute de 4 [[Goule]] est dissimulée dans cette pièce. Elles attaquent dès que tous les PJ sont entrés.
 
 ## 3. Bibliothèque
 
@@ -67,7 +67,7 @@ Roc'Taron a eu vent de l'intrusion dans son château. Il a donc fait détruire l
 
 > <font style="color:yellow">"Cette salle circulaire était le lieu de rendez-vous des gardes du château. Un jeu de cartes et plusieurs chopes de bières vides sont encore visibles sur la table centrale."</font>
 
-Rencontre : Les malheureux gardes qui étaient de faction quand Alwin est revenu ont été les premières victimes de Roc'Taron, et leurs cadavres gisent encore là. Mais les morts ne reposent pas en paix. 6 zombis attaquent les PJ quand ils entrent dans la pièce.
+Rencontre : Les malheureux gardes qui étaient de faction quand Alwin est revenu ont été les premières victimes de Roc'Taron, et leurs cadavres gisent encore là. Mais les morts ne reposent pas en paix. 6 [[Zombie]] attaquent les PJ quand ils entrent dans la pièce.
 
 ## 5. Dortoir des gardes
 
@@ -79,7 +79,7 @@ La pièce servait de salle de repos pour les gardes et les serviteurs, mais elle
 
 > <font style="color:yellow">"Les restes d'un dîner gisent encore sur la table, tandis que la plupart des verres et des assiettes sont brisés et éparpillés sur le sol. Deux convives sont encore à table, dans un état de décomposition avancé."</font>
 
-Rencontre : Les deux convives assis à table sont en fait des nécrophages. Ils se relèvent et attaquent les intrus dès que ceux-ci pénètrent dans la pièce.
+Rencontre : Les deux convives assis à table sont en fait des [[Nécrophage]]. Ils se relèvent et attaquent les intrus dès que ceux-ci pénètrent dans la pièce.
 
 ## 7. Réserves
 
@@ -103,9 +103,9 @@ La chapelle était autrefois dédiée à une divinité de la fertilité et de la
 
 > <font style="color:yellow">"Cette pièce a été totalement reconvertie en laboratoire de nécromancie. Plusieurs cadavres sont disséqués sur des tables, et une étrange substance rouge et violette bouillonne dans un petit chaudron. Contrairement au reste du château, l'endroit est bien tenu. Tout est aménagé avec une précision chirurgicale qui fait froid dans le dos. Un mal terrible émane des murs."</font>
 
-Rencontre : Roc'Taron attend les aventuriers ici. Il a désormais pris pleine possession du corps d'Alwin, et c'est désormais l'esprit du baron qui est enfermé dans le médaillon. Pour les PJ, l'objectif de cette rencontre sera soit de détruire le nécromancien, soit de réussir à faire ressurgir l'esprit d'Alwin pour qu'il reprenne possession de son corps. 
+Rencontre : [[Roc'Taron]] attend les aventuriers ici. Il a désormais pris pleine possession du corps d'Alwin, et c'est désormais l'esprit du baron qui est enfermé dans le médaillon. Pour les PJ, l'objectif de cette rencontre sera soit de détruire le nécromancien, soit de réussir à faire ressurgir l'esprit d'Alwin pour qu'il reprenne possession de son corps. 
 
-S'ils décident d'attaquer Roc'Taron, il s'agit d'un combat classique contre le sorcier, aidé par 2 ombres qui sortent des murs de la tour pour protéger leur maître.
+S'ils décident d'attaquer Roc'Taron, il s'agit d'un combat classique contre le sorcier, aidé par 2 [[Ombre]] qui sortent des murs de la tour pour protéger leur maître.
 
 En revanche, si les joueurs choisissent la seconde option, la chose sera un peu plus compliquée à gérer. Le baron est encore sensible à son passé, et plusieurs choses peuvent aider à faire ressurgir le véritable Alwin. 
 - Premièrement si les PJ portent les armes et/ou les armures trouvées dans la salle 7. 
