@@ -121,3 +121,38 @@ Ainsi le d8 devient 1d6+2, le d10 → 1d6+4, le d12 → 1d6+6. Ça **comprime le
 - **Niveau 1 inchangé** : max du dé de vie + Constitution.
 - On applique **à partir de la prochaine montée** — pas de recalcul rétroactif (sauf si tu le souhaites).
 - **Effet global** : un groupe plus robuste, surtout les classes à gros dé (martiaux). Pratique pour adoucir la létalité, notamment sur les tables réduites. Les lanceurs à d6 gardent leur fragilité.
+
+---
+
+# 5. Blessures & séquelles — tomber à 0 PV *(modules G2 / G3)*
+
+Pour matérialiser le prix d'une descente à 0 PV : survivre, oui, mais en gardant une marque.
+
+## G2 — Blessures *(blessure durable en survivant à 0 PV)*
+
+**Déclenchement** : chaque fois qu'un personnage tombe à **0 PV puis survit** (jets contre la mort réussis, stabilisé par un allié, PV rendus par magie/potion), il subit **une blessure**.
+
+**Localisation** : lancer **1d6** pour la caractéristique touchée — 1 Force, 2 Constitution, 3 Dextérité, 4 Intelligence, 5 Sagesse, 6 Charisme (relancer si elle est déjà blessée). *(Une capacité qui empêche de tomber à 0, type Acharnement du demi-orc, n'inflige pas de blessure.)*
+
+**Gravité** *(cumulative, selon le nombre total de blessures actives)* :
+
+| Blessures | Gravité | Effet |
+|---|---|---|
+| 1–3 | Légères | Désavantage aux tests liés aux caractéristiques blessées. *(Con blessée : plus de mod. de Con aux dés de vie en repos court.)* |
+| 4–5 | Intermédiaires | Vitesse réduite de moitié. |
+| 6 | Graves | Désavantage à **toutes** les attaques et sauvegardes. |
+| 7+ | — | **Mort.** |
+
+**Guérison** : lancer le **dé de dégâts de l'arme/du sort** qui a mis le perso à 0 → c'est le **nombre de repos longs** pour soigner cette caractéristique (plusieurs dés → [résultat + nombre de dés] ; ex. 2d6 → 1d6+2). Chaque caractéristique guérit séparément, dans l'ordre où les blessures ont été reçues. Un maître en **Médecine** (10 min + trousse de soins, test de Sagesse (Médecine) DD 8 + valeur max du dé de dégâts) peut **diviser le temps par 2** — un seul essai par blessure, avant le premier repos long.
+
+## G3 — Séquelles *(éviter la mort)*
+
+Au moment où un personnage **devrait mourir**, il peut choisir à la place une **séquelle permanente** : 1d6 pour la caractéristique, **−2** à cette caractéristique (et son maximum baisse de 2 : un 20 devient 18). Cumulatif. Combinable avec G2 (la séquelle frappe la caractéristique de la blessure qui a causé la mort). *Si on utilise G3, on retire les sorts de résurrection — sinon la séquelle perd son poids.*
+
+## Réglage conseillé *(version immersive, non spiralante)*
+
+- **Habiller chaque blessure d'une marque narrative** : une claudication, une main qui tremble, un œil voilé, un cauchemar récurrent, une cicatrice qu'on cache. C'est **là** que se voit la dureté de ce qui a été subi — la mécanique donne le poids, la fiction lui donne un visage.
+- Sur une table qui allège déjà la difficulté : soit compter la guérison en **jours narratifs** plutôt qu'en repos longs (moins punitif), soit ne déclencher la blessure qu'aux **descentes vraiment marquantes** (coup grave, quasi-mort), pas au moindre 0 PV.
+- **G3 comme filet** : préférer une **séquelle permanente à la mort** — pro-survie, et dramatiquement fort.
+
+> Ces deux modules **durcissent** le jeu : à doser sciemment (ils s'équilibrent bien avec une règle de PV généreuse, qui amortit en amont).
