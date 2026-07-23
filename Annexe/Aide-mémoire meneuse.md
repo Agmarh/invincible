@@ -7,7 +7,6 @@
 - **Jets d'attaque** : un **20 naturel = coup critique** → on lance **deux fois les dés de dégâts** (les dés seulement, jamais les modificateurs ni bonus fixes ; ex. épée 1d8+3 → **2d8+3**). Un **1 naturel = échec automatique** (l'attaque rate quoi qu'il arrive).
 - **Tests de caractéristique & jets de sauvegarde** : par la règle stricte, le 20 et le 1 naturels **n'ont aucun effet spécial** (pas de réussite/échec auto).
 - **Gestion conseillée à notre table** *(symétrique joueurs ↔ MJ)* : sur un test ou une sauvegarde, **20 naturel = réussite automatique** (avec un petit panache narratif), **1 naturel = échec automatique** (avec une complication). **Même règle pour les créatures et PNJ** que le MJ contrôle — pas de deux poids deux mesures.
-- Pour des effets plus poussés, il existe un module optionnel de **tables de réussites/échecs critiques étendus** (Livre de la meneuse).
 
 ## 2. Dégainer / rengainer une arme, endosser un bouclier
 

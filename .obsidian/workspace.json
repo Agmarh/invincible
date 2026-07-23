@@ -32,8 +32,33 @@
               "icon": "lucide-file",
               "title": "Récapitulatif"
             }
+          },
+          {
+            "id": "7e87d8d88c6505c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Annexe/Aide-mémoire meneuse.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Aide-mémoire meneuse"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -260,11 +285,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fba545b276a0a770",
+  "active": "7e87d8d88c6505c0",
   "lastOpenFiles": [
+    "Annexe/Règles optionnelles.md",
+    "Invincible/Scénario 0 Mini Campagne/Récapitulatif.md",
     "Annexe/Aide-mémoire meneuse.md",
     "Annexe/Aide-mémoire meneuse.md.tmp.6881.97020e40ba52",
-    "Annexe/Règles optionnelles.md",
     "Annexe/Règles optionnelles.md.tmp.6177.8abc3d561096",
     "Annexe/Règles optionnelles.md.tmp.6177.63b30f1fd93b",
     "Annexe/Règles optionnelles.md.tmp.6177.7618fb1fbd76",
@@ -274,7 +300,6 @@
     "Invincible/Scénario 0 Mini Campagne/L'épuration de Raven'Ill/Acte III - Retour & transition.md.tmp.81908.ff1527fd6043",
     "Invincible/Scénario 0 Mini Campagne/L'épuration de Raven'Ill/Acte I - Un bien sombre horizon.md",
     "Annexe/Bestiaire/Roc'Taron.md",
-    "Invincible/Scénario 0 Mini Campagne/Récapitulatif.md",
     "Annexe/Bestiaire/Blême.md",
     "Annexe/Bestiaire/Goule.md",
     "Annexe/Bestiaire/Armure animée.md",
