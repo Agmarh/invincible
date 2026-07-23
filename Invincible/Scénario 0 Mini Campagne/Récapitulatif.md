@@ -78,4 +78,5 @@ Ils viennent de passer niveau 3 :
 - Lykea est druide du cercle des profondeurs
 - Samaelle est devenue barde de la voie divine
 
+Ils ont eu les 115 po par tête en récompense et sont devenus les propriétaires de la cabane de chasse.
 
