@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Annexe/Règles optionnelles.md",
+                "file": "Annexe/Voies primitives - Feu & Divine (reskin Glaces).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -54,7 +54,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Règles optionnelles"
+              "title": "Voies primitives - Feu & Divine (reskin Glaces)"
             }
           }
         ],
@@ -265,8 +265,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 580.5,
-    "collapsed": true
+    "width": 580.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -287,6 +286,7 @@
   },
   "active": "7e87d8d88c6505c0",
   "lastOpenFiles": [
+    "Annexe/Règles optionnelles.md",
     "Annexe/Voies primitives - Feu & Divine (reskin Glaces).md",
     "Annexe/Voies primitives - Feu & Divine (reskin Glaces).md.tmp.7686.851f371044f9",
     "Annexe/Règles optionnelles.md.tmp.7592.f37569e25781",
@@ -294,7 +294,6 @@
     "Annexe/Règles optionnelles.md.tmp.7592.53c4470f0aa0",
     "Annexe/Aide-mémoire.md",
     "Annexe/Règles optionnelles.md.tmp.7432.e6281c479655",
-    "Annexe/Règles optionnelles.md",
     "Invincible/Scénario 0 Mini Campagne/Récapitulatif.md",
     "Annexe/Aide-mémoire meneuse.md.tmp.6881.97020e40ba52",
     "Annexe/Règles optionnelles.md.tmp.6177.8abc3d561096",
