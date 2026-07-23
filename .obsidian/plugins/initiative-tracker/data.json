@@ -192,26 +192,6 @@
         "active": false,
         "hidden": false,
         "friendly": false
-      },
-      {
-        "name": "Huon le Dogue",
-        "initiative": 3,
-        "static": false,
-        "modifier": 0,
-        "hp": 45,
-        "currentMaxHP": 45,
-        "cr": 3,
-        "ac": 14,
-        "currentAC": 14,
-        "id": "ID_28c9fa584a19",
-        "currentHP": 45,
-        "tempHP": 0,
-        "status": [],
-        "enabled": true,
-        "active": false,
-        "hidden": false,
-        "friendly": false,
-        "hit_dice": "7d10+14"
       }
     ],
     "state": false,
