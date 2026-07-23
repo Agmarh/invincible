@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Invincible/Scénario 0 Mini Campagne/IV - Bête Humaine.md",
+                "file": "Annexe/Règles optionnelles.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -54,7 +54,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "IV - Bête Humaine"
+              "title": "Règles optionnelles"
+            }
+          },
+          {
+            "id": "1a02c8ecac30a987",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Invincible/Scénario 0 Mini Campagne/Cabane de Huon.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Cabane de Huon"
             }
           }
         ],
@@ -285,8 +309,9 @@
   },
   "active": "a0c8a51c7e8f67bd",
   "lastOpenFiles": [
-    "Invincible/Scénario 0 Mini Campagne/Récapitulatif.md",
     "Invincible/Scénario 0 Mini Campagne/IV - Bête Humaine.md",
+    "Invincible/Scénario 0 Mini Campagne/Cabane de Huon.md",
+    "Invincible/Scénario 0 Mini Campagne/Récapitulatif.md",
     "Annexe/Voies primitives - Feu & Divine (reskin Glaces).md",
     "Annexe/Règles optionnelles.md",
     "Annexe/Voies primitives - Feu & Divine (reskin Glaces).md.tmp.7686.851f371044f9",
@@ -316,7 +341,6 @@
     "Invincible/Personnages/Lykëa.md",
     "Invincible/Personnages/Samaëlle Vaël'Rhys.md",
     "Annexe/Sortilèges/Niveau 2/Peau d'écorce.md",
-    "Invincible/Scénario 0 Mini Campagne/Cabane de Huon.md",
     "Invincible/Scénario 0 Mini Campagne/III - Mascombe.md",
     "Invincible/Scénario 0 Mini Campagne/I - L'incident du Marronnier.md",
     "Invincible/Où ils en sont.md",

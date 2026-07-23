@@ -77,16 +77,7 @@ Réparer du **magique** demande un artisan très compétent (le % s'applique au 
 
 *(Kits dédiés à une seule arme/armure : moins polyvalents, souvent moins chers. Kit d'arme dédié = prix de l'arme neuve +20 % ; kit d'armure dédié = moitié du prix +20 %.)*
 
-# 3. Usure — réglage conseillé (version douce)
-
-Pour une table qui privilégie la saveur à la survie comptable, une version **douce** — l'ambiance sans la paperasse :
-
-- **Armes** : déclenchement sur **1 naturel uniquement**. Arrivée à 1 → l'arme y reste jusqu'à réparation, **jamais détruite**. Magique **non affecté**.
-- **Armures** : déclenchement sur **coup critique uniquement**. À CA 10 → inefficace, **pas détruite**.
-
-Résultat : une lame qui s'ébrèche, un bouclier cabossé qu'on fait retaper au village entre deux aventures — de la texture, pas un fardeau.
-
-# 4. Distribution des PV à la montée de niveau *(règle « Lucien Maine »)*
+# 3. Distribution des PV à la montée de niveau *(règle « Lucien Maine »)*
 
 **Règle maison** (empruntée à Lucien Maine, MJ de *La Bonne Auberge JDR*) qui remplace le lancer classique du dé de vie à chaque **montée de niveau**.
 
@@ -122,7 +113,7 @@ Ainsi le d8 devient 1d6+2, le d10 → 1d6+4, le d12 → 1d6+6. Ça **comprime le
 - On applique **à partir de la prochaine montée** — pas de recalcul rétroactif (sauf si tu le souhaites).
 - **Effet global** : un groupe plus robuste, surtout les classes à gros dé (martiaux). Pratique pour adoucir la létalité, notamment sur les tables réduites. Les lanceurs à d6 gardent leur fragilité.
 
-# 5. Blessures & marques durables — tomber à 0 PV *(module G2)*
+# 4. Blessures & marques durables — tomber à 0 PV *(module G2)*
 
 Pour matérialiser le prix d'une descente à 0 PV : survivre, oui, mais en gardant une marque.
 
