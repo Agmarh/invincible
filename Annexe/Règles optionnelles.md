@@ -122,8 +122,6 @@ Ainsi le d8 devient 1d6+2, le d10 → 1d6+4, le d12 → 1d6+6. Ça **comprime le
 - On applique **à partir de la prochaine montée** — pas de recalcul rétroactif (sauf si tu le souhaites).
 - **Effet global** : un groupe plus robuste, surtout les classes à gros dé (martiaux). Pratique pour adoucir la létalité, notamment sur les tables réduites. Les lanceurs à d6 gardent leur fragilité.
 
----
-
 # 5. Blessures & marques durables — tomber à 0 PV *(module G2)*
 
 Pour matérialiser le prix d'une descente à 0 PV : survivre, oui, mais en gardant une marque.
