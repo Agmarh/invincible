@@ -83,3 +83,5 @@ Ils ont eu les 115 po par tête en récompense et sont devenus les propriétaire
 Lykea se livre aux autres et leur raconte ce que son clan a subit. Elle leur confit qu'elle veut chercher le coupable et le traduire en justice.
 
 Lykea a libéré l'esprit de la forêt et Sam va vider la cabane de tout les effets personnels de Huon.
+
+Mamert a proposé le poste de gardienne de l'Altwald à Lykea et elle a accepté.
