@@ -71,3 +71,11 @@ Ils ont fait la connaissance de Ursanne, Baudoin et Cadmar. Ils ont demandé à 
 Cadmar leur a avoué son état d'ours-garou et Baudoin les a persuadés qu'il était inoffensif. 
 
 Ils ont trouvé la cache de Huon avant de le confronter. Et l'ont tué ensuite. Ils s'apprêtent a aller voir Mamert pour tout lui avouer et toucher leur récompense.
+
+### Session 4
+Ils viennent de passer niveau 3 :
+- Haisse Per Luette est passé Barde du collège des Saltimbanques
+- Lykea est druide du cercle des profondeurs
+- Samaelle est devenue barde de la voie divine
+
+

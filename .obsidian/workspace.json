@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "a0c8a51c7e8f67bd",
+            "id": "e34a6e79d4b765f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Annexe/Règles optionnelles.md",
+                "file": "Annexe/Aide-mémoire.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -54,7 +54,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Règles optionnelles"
+              "title": "Aide-mémoire"
+            }
+          },
+          {
+            "id": "a0c8a51c7e8f67bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Invincible/Scénario 0 Mini Campagne/IV - Bête Humaine.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "IV - Bête Humaine"
             }
           },
           {
@@ -307,18 +331,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a0c8a51c7e8f67bd",
+  "active": "4f2e89843baa22c8",
   "lastOpenFiles": [
-    "Invincible/Scénario 0 Mini Campagne/IV - Bête Humaine.md",
-    "Invincible/Scénario 0 Mini Campagne/Cabane de Huon.md",
+    "Annexe/Règles optionnelles.md",
     "Invincible/Scénario 0 Mini Campagne/Récapitulatif.md",
     "Annexe/Voies primitives - Feu & Divine (reskin Glaces).md",
-    "Annexe/Règles optionnelles.md",
+    "Invincible/Scénario 0 Mini Campagne/IV - Bête Humaine.md",
+    "Invincible/Scénario 0 Mini Campagne/Cabane de Huon.md",
+    "Annexe/Aide-mémoire.md",
     "Annexe/Voies primitives - Feu & Divine (reskin Glaces).md.tmp.7686.851f371044f9",
     "Annexe/Règles optionnelles.md.tmp.7592.f37569e25781",
     "Annexe/Règles optionnelles.md.tmp.7592.73ccf8ff0ff4",
     "Annexe/Règles optionnelles.md.tmp.7592.53c4470f0aa0",
-    "Annexe/Aide-mémoire.md",
     "Annexe/Règles optionnelles.md.tmp.7432.e6281c479655",
     "Annexe/Aide-mémoire meneuse.md.tmp.6881.97020e40ba52",
     "Annexe/Règles optionnelles.md.tmp.6177.8abc3d561096",
