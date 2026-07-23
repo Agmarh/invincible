@@ -124,7 +124,7 @@ Ainsi le d8 devient 1d6+2, le d10 → 1d6+4, le d12 → 1d6+6. Ça **comprime le
 
 ---
 
-# 5. Blessures & séquelles — tomber à 0 PV *(modules G2 / G3)*
+# 5. Blessures & marques durables — tomber à 0 PV *(module G2)*
 
 Pour matérialiser le prix d'une descente à 0 PV : survivre, oui, mais en gardant une marque.
 
@@ -145,14 +145,13 @@ Pour matérialiser le prix d'une descente à 0 PV : survivre, oui, mais en garda
 
 **Guérison** : lancer le **dé de dégâts de l'arme/du sort** qui a mis le perso à 0 → c'est le **nombre de repos longs** pour soigner cette caractéristique (plusieurs dés → [résultat + nombre de dés] ; ex. 2d6 → 1d6+2). Chaque caractéristique guérit séparément, dans l'ordre où les blessures ont été reçues. Un maître en **Médecine** (10 min + trousse de soins, test de Sagesse (Médecine) DD 8 + valeur max du dé de dégâts) peut **diviser le temps par 2** — un seul essai par blessure, avant le premier repos long.
 
-## G3 — Séquelles *(éviter la mort)*
+## Marque après une résurrection
 
-Au moment où un personnage **devrait mourir**, il peut choisir à la place une **séquelle permanente** : 1d6 pour la caractéristique, **−2** à cette caractéristique (et son maximum baisse de 2 : un 20 devient 18). Cumulatif. Combinable avec G2 (la séquelle frappe la caractéristique de la blessure qui a causé la mort). *Si on utilise G3, on retire les sorts de résurrection — sinon la séquelle perd son poids.*
+Pour qu'une **mort laisse une trace même quand la magie ramène le personnage** : quand un PJ est **ressuscité**, il gagne **une Blessure** (règle ci-dessus) — la marque de ce qu'il a traversé de l'autre côté. La résurrection garde tout son sens (il a bien fallu le sort, la mort a bien eu lieu), mais le retour a un prix qui se lit sur le corps et l'âme. *(On évite ainsi de rendre la mort « gratuite » : revenir coûte toujours quelque chose.)*
 
 ## Réglage conseillé *(version immersive, non spiralante)*
 
 - **Habiller chaque blessure d'une marque narrative** : une claudication, une main qui tremble, un œil voilé, un cauchemar récurrent, une cicatrice qu'on cache. C'est **là** que se voit la dureté de ce qui a été subi — la mécanique donne le poids, la fiction lui donne un visage.
 - Sur une table qui allège déjà la difficulté : soit compter la guérison en **jours narratifs** plutôt qu'en repos longs (moins punitif), soit ne déclencher la blessure qu'aux **descentes vraiment marquantes** (coup grave, quasi-mort), pas au moindre 0 PV.
-- **G3 comme filet** : préférer une **séquelle permanente à la mort** — pro-survie, et dramatiquement fort.
 
-> Ces deux modules **durcissent** le jeu : à doser sciemment (ils s'équilibrent bien avec une règle de PV généreuse, qui amortit en amont).
+> Ce module **durcit** le jeu : à doser sciemment (il s'équilibre bien avec une règle de PV généreuse, qui amortit en amont).

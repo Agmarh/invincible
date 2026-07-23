@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Annexe/Aide-mémoire.md",
+                "file": "Annexe/Règles optionnelles.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -54,7 +54,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Aide-mémoire"
+              "title": "Règles optionnelles"
             }
           }
         ],
@@ -285,11 +285,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4f2e89843baa22c8",
+  "active": "7e87d8d88c6505c0",
   "lastOpenFiles": [
+    "Annexe/Règles optionnelles.md.tmp.7592.f37569e25781",
+    "Annexe/Règles optionnelles.md.tmp.7592.73ccf8ff0ff4",
+    "Annexe/Règles optionnelles.md.tmp.7592.53c4470f0aa0",
+    "Annexe/Aide-mémoire.md",
     "Annexe/Règles optionnelles.md.tmp.7432.e6281c479655",
     "Annexe/Règles optionnelles.md",
-    "Annexe/Aide-mémoire.md",
     "Invincible/Scénario 0 Mini Campagne/Récapitulatif.md",
     "Annexe/Aide-mémoire meneuse.md.tmp.6881.97020e40ba52",
     "Annexe/Règles optionnelles.md.tmp.6177.8abc3d561096",
@@ -314,12 +317,9 @@
     "Invincible/Scénario 0 Mini Campagne/L'épuration de Raven'Ill",
     "Invincible/Personnages/Samaëlle Vaël'Rhys.md",
     "Invincible/Personnages/Samaëlle Vaël'Rhys.md.tmp.9799.c60a48465975",
-    "Invincible/Personnages/Samaëlle Vaël'Rhys.md.tmp.9799.a628c3259aad",
-    "Invincible/Personnages/Samaëlle Vaël'Rhys.md.tmp.9799.734ae8d3bd47",
     "Annexe/Sortilèges/Niveau 2/Peau d'écorce.md",
     "Invincible/Scénario 0 Mini Campagne/Cabane de Huon.md",
     "Invincible/Scénario 0 Mini Campagne/III - Mascombe.md",
-    "Invincible/Scénario 0 Mini Campagne/Cabane de Huon.md.tmp.5.01374eaa794a",
     "Invincible/Scénario 0 Mini Campagne/I - L'incident du Marronnier.md",
     "Invincible/Où ils en sont.md",
     "Invincible/Scénario 0 Mini Campagne/II - Route de Felsenhof.md",
