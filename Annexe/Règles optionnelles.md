@@ -8,7 +8,7 @@
 
 Le plus haut score agit en premier. En cas d'égalité : la meilleure Dextérité, sinon au choix de la meneuse.
 
-**Pourquoi on l'adopte** : des combats plus fluides, zéro temps mort au lancer d'init — pratique à 3 joueurs, et confortable pour une joueuse débutante.
+**Intérêt** : des combats plus fluides et zéro temps mort au lancer d'initiative. Particulièrement appréciable sur les tables réduites ou avec des joueurs débutants.
 
 # 2. Usure des armes et des armures *(module G8)*
 
@@ -77,9 +77,9 @@ Réparer du **magique** demande un artisan très compétent (le % s'applique au 
 
 *(Kits dédiés à une seule arme/armure : moins polyvalents, souvent moins chers. Kit d'arme dédié = prix de l'arme neuve +20 % ; kit d'armure dédié = moitié du prix +20 %.)*
 
-# 3. Usure — réglage conseillé pour notre table
+# 3. Usure — réglage conseillé (version douce)
 
-On est sur de l'**immersion**, pas de la survie comptable — donc version **douce**, pour la saveur sans la paperasse :
+Pour une table qui privilégie la saveur à la survie comptable, une version **douce** — l'ambiance sans la paperasse :
 
 - **Armes** : déclenchement sur **1 naturel uniquement**. Arrivée à 1 → l'arme y reste jusqu'à réparation, **jamais détruite**. Magique **non affecté**.
 - **Armures** : déclenchement sur **coup critique uniquement**. À CA 10 → inefficace, **pas détruite**.
@@ -120,4 +120,4 @@ Ainsi le d8 devient 1d6+2, le d10 → 1d6+4, le d12 → 1d6+6. Ça **comprime le
 ## En pratique
 - **Niveau 1 inchangé** : max du dé de vie + Constitution.
 - On applique **à partir de la prochaine montée** — pas de recalcul rétroactif (sauf si tu le souhaites).
-- **Effet global** : un groupe plus robuste, surtout les classes à gros dé (martiaux) — cohérent avec l'allègement 3 joueurs qu'on applique déjà. Les lanceurs à d6 gardent leur fragilité.
+- **Effet global** : un groupe plus robuste, surtout les classes à gros dé (martiaux). Pratique pour adoucir la létalité, notamment sur les tables réduites. Les lanceurs à d6 gardent leur fragilité.
