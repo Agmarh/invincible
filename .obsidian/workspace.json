@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Annexe/Aide-mémoire meneuse.md",
+                "file": "Annexe/Aide-mémoire.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -54,7 +54,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Aide-mémoire meneuse"
+              "title": "Aide-mémoire"
             }
           }
         ],
@@ -288,8 +288,8 @@
   "active": "7e87d8d88c6505c0",
   "lastOpenFiles": [
     "Annexe/Règles optionnelles.md",
+    "Annexe/Aide-mémoire.md",
     "Invincible/Scénario 0 Mini Campagne/Récapitulatif.md",
-    "Annexe/Aide-mémoire meneuse.md",
     "Annexe/Aide-mémoire meneuse.md.tmp.6881.97020e40ba52",
     "Annexe/Règles optionnelles.md.tmp.6177.8abc3d561096",
     "Annexe/Règles optionnelles.md.tmp.6177.63b30f1fd93b",

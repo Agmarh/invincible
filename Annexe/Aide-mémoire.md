@@ -55,6 +55,3 @@ Pas d'action dédiée dans les règles ; voici comment on tranche :
 - **Repérer un point faible physique en plein combat** (défaut d'armure, plaie ouverte, écaille manquante) : le perso **utilise son action pour « étudier » l'adversaire** → test de **Perception ou d'Investigation**, DD fixé par le MJ. Réussite = révèle une faiblesse **ou** accorde un **avantage / petit bonus** sur la prochaine attaque.
 - **Réponse directe** : c'est **une action** — ni une action bonus (trop facile), ni un tour complet (trop punitif). L'« action d'étude » est le bon curseur.
 
----
-
-*Aide-mémoire meneuse — H&D / Rôle'n Play. Réglages maison signalés comme tels.*
