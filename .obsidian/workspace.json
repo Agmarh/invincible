@@ -105,7 +105,8 @@
               "title": "Cabane de Huon"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -330,14 +331,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fba545b276a0a770",
+  "active": "1a02c8ecac30a987",
   "lastOpenFiles": [
-    "Invincible/Scénario 0 Mini Campagne/IV - Bête Humaine.md",
     "Invincible/Scénario 0 Mini Campagne/Récapitulatif.md",
+    "Invincible/Scénario 0 Mini Campagne/Cabane de Huon.md",
+    "Invincible/Scénario 0 Mini Campagne/IV - Bête Humaine.md",
     "Annexe/Aide-mémoire.md",
     "Annexe/Règles optionnelles.md",
     "Annexe/Voies primitives - Feu & Divine (reskin Glaces).md",
-    "Invincible/Scénario 0 Mini Campagne/Cabane de Huon.md",
     "Annexe/Voies primitives - Feu & Divine (reskin Glaces).md.tmp.7686.851f371044f9",
     "Annexe/Règles optionnelles.md.tmp.7592.f37569e25781",
     "Annexe/Règles optionnelles.md.tmp.7592.73ccf8ff0ff4",
