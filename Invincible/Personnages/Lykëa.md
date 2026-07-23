@@ -69,15 +69,15 @@ Pour les autres créatures de la liste du Cercle des Profondeurs (ankheg, etterc
 
 **Avant de fuir**, elle a arraché **un bout de tissu** à un mercenaire mort — un fragment de manche où était brodé un **blason qu'elle ne reconnaissait pas**. Elle l'a gardé toutes ces années dans une bourse de cuir autour du cou. *Un jour, peut-être, quelqu'un saurait lire ce sigle.*
 
-### Le coupable — Comte Markward von Drachenfels
+### Le coupable — Comte Aldric von Drachenfels
 
-**Le commanditaire est vivant.** **Comte Markward von Drachenfels**, quarantaine, noble tharséen d'une famille ancienne, seigneur d'un domaine à l'est de Felsenhof, en direction de Wissenheim. Sa famille porte pour blason un **dragon couché** sur fond noir et rouge. Markward est un **collectionneur** réputé dans les milieux nobles tharséens — son cabinet de curiosités est célèbre, et ses chasses au monstre rapportent régulièrement de nouveaux spécimens. Personne ne le soupçonne du massacre du Cercle de l'Eau Noire. Personne n'en parle. Le clan vivait reclus ; sa disparition n'a pas fait de bruit.
+**Le commanditaire est vivant.** **Comte Aldric von Drachenfels**, quarantaine, noble tharséen d'une famille ancienne, seigneur d'un domaine à l'est de Felsenhof, en direction de Wissenheim. Sa famille porte pour blason un **dragon couché** sur fond noir et rouge. Aldric est un **collectionneur** réputé dans les milieux nobles tharséens — son cabinet de curiosités est célèbre, et ses chasses au monstre rapportent régulièrement de nouveaux spécimens. Personne ne le soupçonne du massacre du Cercle de l'Eau Noire. Personne n'en parle. Le clan vivait reclus ; sa disparition n'a pas fait de bruit.
 
 Il a couvert ses traces depuis des années : il a opéré via des intermédiaires anonymes, des mercenaires sans hiérarchie connue, sans laisser de témoin. Aucune preuve ne le relie au crime — **sauf le bout de tissu** que la druide a gardé toutes ces années.
 
 ### La quête — justice, pas vengeance
 
-Sa quête n'est **pas la vengeance physique**. Elle ne veut pas tuer Markward. Elle veut **la justice** : qu'il soit identifié, mis en accusation devant le Conseil provincial de Tharse, déshonoré, exproprié, jugé selon la loi tharséenne. Que le nom de son clan soit lavé et qu'on sache, partout, ce qu'il a fait. Que les créatures qu'il garde dans son cabinet soient libérées et confiées à la réserve.
+Sa quête n'est **pas la vengeance physique**. Elle ne veut pas tuer Aldric. Elle veut **la justice** : qu'il soit identifié, mis en accusation devant le Conseil provincial de Tharse, déshonoré, exproprié, jugé selon la loi tharséenne. Que le nom de son clan soit lavé et qu'on sache, partout, ce qu'il a fait. Que les créatures qu'il garde dans son cabinet soient libérées et confiées à la réserve.
 
 **Note MJ** : sa quête de justice est un **fil de fond** qui ne s'active qu'à des moments-clés. Elle ne s'y consacre pas activement pendant la mini-campagne — elle a déjà la mission « forêt, sud ». Mais le bout de tissu est dans sa bourse, et tôt ou tard, il finira sous les yeux de quelqu'un capable de lire le sigle.
 
@@ -219,13 +219,13 @@ Après que la cour s'est dispersée, Aymar a fait remettre à la druide les troi
 
 Aymar prend le tissu, le déplie. Il blêmit immédiatement.
 
-> *« C'est… c'est le blason des Drachenfels. Un dragon couché, sang sur noir. Markward von Drachenfels. J'ai chassé avec lui dans ma jeunesse. C'est… ce n'est pas possible. »*
+> *« C'est… c'est le blason des Drachenfels. Un dragon couché, sang sur noir. Aldric von Drachenfels. J'ai chassé avec lui dans ma jeunesse. C'est… ce n'est pas possible. »*
 
 ### Le poids de la révélation
 
 Silence. Aymar pose le tissu. Il regarde par la fenêtre.
 
-> *« Markward est vivant. Il vit dans son domaine, à l'est de Wissenheim. Il a son cabinet de curiosités, ses chasses, ses dîners. Personne ne le soupçonne. Personne ne sait. »*
+> *« Aldric est vivant. Il vit dans son domaine, à l'est de Wissenheim. Il a son cabinet de curiosités, ses chasses, ses dîners. Personne ne le soupçonne. Personne ne sait. »*
 >
 > *Il se retourne vers elle.*
 >
@@ -233,7 +233,7 @@ Silence. Aymar pose le tissu. Il regarde par la fenêtre.
 >
 > *Pause.*
 >
-> *« Mais je peux le faire pour vous. Pendant que vous serez ailleurs — et vous serez ailleurs, je le sens. Je vais récolter ce qu'il faut. Le témoignage de ces survivants que vous avez retrouvés à Clairjonc. Le vôtre. Des preuves matérielles s'il en reste. Et je porterai le dossier au Conseil provincial de Tharse, à Wissenheim. Le baron de Felsenhof, héros de guerre, accusateur — ils m'écouteront. Markward perdra ses titres, ses terres, et probablement la liberté. Sans qu'une goutte de sang noble ne soit versée. C'est la seule justice qui peut tenir. Vous l'acceptez ? »*
+> *« Mais je peux le faire pour vous. Pendant que vous serez ailleurs — et vous serez ailleurs, je le sens. Je vais récolter ce qu'il faut. Le témoignage de ces survivants que vous avez retrouvés à Clairjonc. Le vôtre. Des preuves matérielles s'il en reste. Et je porterai le dossier au Conseil provincial de Tharse, à Wissenheim. Le baron de Felsenhof, héros de guerre, accusateur — ils m'écouteront. Aldric perdra ses titres, ses terres, et probablement la liberté. Sans qu'une goutte de sang noble ne soit versée. C'est la seule justice qui peut tenir. Vous l'acceptez ? »*
 
 ### La réponse
 
@@ -252,9 +252,9 @@ Pendant que la druide est invoquée dans Cobis (campagne Invincible), Aymar mèn
 
 **Trois résolutions possibles** (à choisir par le MJ selon le ton voulu) :
 
-- **Verdict A — Victoire complète.** Markward von Drachenfels est jugé, dépouillé de ses titres et terres, banni de Tharse, et son cabinet de curiosités confisqué (ses créatures vivantes confiées à la Zone Protégée de Felsenhof). Justice rendue. Aymar a tenu parole. Retour triomphal pour la druide.
-- **Verdict B — Victoire partielle.** Markward est officiellement déclaré coupable, mais il fuit avant d'être arrêté — peut-être à Khoros, peut-être au-delà. Il est en exil, ruiné, mais libre. Sa famille est déshonorée. Aymar s'excuse. La druide a la satisfaction du jugement, mais l'homme respire encore quelque part.
-- **Verdict C — Justice imparfaite.** Markward est mort *avant* le procès (de vieillesse, d'un assassinat couvert par sa famille, d'un duel pour l'honneur — au choix). Ses biens passent à un héritier qui ne savait rien et qui accepte de rendre les créatures vivantes à la réserve. La druide n'a pas vu le coupable jugé en face, mais sa famille porte la honte et les survivants reçoivent réparation.
+- **Verdict A — Victoire complète.** Aldric von Drachenfels est jugé, dépouillé de ses titres et terres, banni de Tharse, et son cabinet de curiosités confisqué (ses créatures vivantes confiées à la Zone Protégée de Felsenhof). Justice rendue. Aymar a tenu parole. Retour triomphal pour la druide.
+- **Verdict B — Victoire partielle.** Aldric est officiellement déclaré coupable, mais il fuit avant d'être arrêté — peut-être à Khoros, peut-être au-delà. Il est en exil, ruiné, mais libre. Sa famille est déshonorée. Aymar s'excuse. La druide a la satisfaction du jugement, mais l'homme respire encore quelque part.
+- **Verdict C — Justice imparfaite.** Aldric est mort *avant* le procès (de vieillesse, d'un assassinat couvert par sa famille, d'un duel pour l'honneur — au choix). Ses biens passent à un héritier qui ne savait rien et qui accepte de rendre les créatures vivantes à la réserve. La druide n'a pas vu le coupable jugé en face, mais sa famille porte la honte et les survivants reçoivent réparation.
 
 **Mon conseil** : **Verdict A** sauf si tu veux ouvrir une suite. Garder Drachenfels en exil (Verdict B) peut être tentant si tu veux pouvoir le réutiliser comme menace plus tard, mais ça contredit l'esprit « justice par la loi » qu'elle recherche.
 
@@ -314,7 +314,7 @@ Le Worg les accompagne — il ne les quittera plus.
 
 - **Cercle de l'Eau Noire** = clan druidique des abords du Bourbier sans fond (Tharse)
 - **Gardien spirituel** = esprit du chien du trépas mort en la protégeant, parle en rêve
-- **Coupable du massacre** = **Comte Markward von Drachenfels**, vivant, à l'est de Wissenheim, couvert depuis des années. Couleur blason : dragon couché, sang sur noir.
+- **Coupable du massacre** = **Comte Aldric von Drachenfels**, vivant, à l'est de Wissenheim, couvert depuis des années. Couleur blason : dragon couché, sang sur noir.
 - **La preuve** = un **bout de tissu** avec le blason des Drachenfels, qu'elle a gardé dans une bourse autour du cou pendant des années
 - **Quête actuelle** = rêve « forêt, sud » → Azul → Mascombe → Cadmar (ours-garou à sauver)
 - **Cadmar = pont vers Clairjonc** (il glisse l'info)

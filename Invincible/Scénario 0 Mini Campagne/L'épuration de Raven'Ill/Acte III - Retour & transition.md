@@ -79,12 +79,12 @@ Après que la cour s'est dispersée, Aymar propose à la druide un entretien seu
 
 > <font style="color:orange">"Sire, j'ai gardé ceci des années. Je l'ai arraché à l'un des hommes qui ont tué les miens. Je n'ai jamais su lire ce qui est brodé dessus. Vous, peut-être ?"</font>
 > <font style="color:yellow">Aymar déplie le tissu. Il blêmit d'un coup.</font>
-> <font style="color:orange">"C'est le blason des Drachenfels. Un dragon couché, sang sur noir. Mark von Drachenfels. J'ai chassé avec lui, dans ma jeunesse. Ce n'est pas possible…"</font>
+> <font style="color:orange">"C'est le blason des Drachenfels. Un dragon couché, sang sur noir. Aldric von Drachenfels. J'ai chassé avec lui, dans ma jeunesse. Ce n'est pas possible…"</font>
 
 Silence. Aymar pose le tissu, regarde par la fenêtre, puis se retourne.
 
-> <font style="color:orange">"Mark est vivant. Il vit dans son domaine, à l'est de Wissenheim, avec son cabinet de curiosités et ses chasses."</font>
-> <font style="color:orange">"Vous voulez qu'il paie. Je le vois. Mais vous ne pouvez pas l'attaquer — on vous exécuterait pour meurtre avant la fin de votre plaidoirie. Moi, je peux. Pendant que vous serez ailleurs — et vous serez ailleurs, je le sens. Je réunirai des preuves, des témoignages, et je porterai le dossier devant le Conseil provincial de Tharse. Le baron de Felsenhof, héros de guerre, accusateur : ils m'écouteront. Mark perdra ses titres, ses terres, sa liberté — sans qu'une goutte de sang ne soit versée. C'est la seule justice qui tienne. Vous l'acceptez ?"</font>
+> <font style="color:orange">"Aldric est vivant. Il vit dans son domaine, à l'est de Wissenheim, avec son cabinet de curiosités et ses chasses."</font>
+> <font style="color:orange">"Vous voulez qu'il paie. Je le vois. Mais vous ne pouvez pas l'attaquer — on vous exécuterait pour meurtre avant la fin de votre plaidoirie. Moi, je peux. Pendant que vous serez ailleurs — et vous serez ailleurs, je le sens. Je réunirai des preuves, des témoignages, et je porterai le dossier devant le Conseil provincial de Tharse. Le baron de Felsenhof, héros de guerre, accusateur : ils m'écouteront. Aldric perdra ses titres, ses terres, sa liberté — sans qu'une goutte de sang ne soit versée. C'est la seule justice qui tienne. Vous l'acceptez ?"</font>
 
 À laisser au joueur. S'il accepte, Aymar s'engage formellement : il conservera la preuve, mènera l'enquête pendant l'absence de la druide, et **le verdict tombera plus tard**, en toile de fond.
 
