@@ -80,3 +80,4 @@ Ils viennent de passer niveau 3 :
 
 Ils ont eu les 115 po par tête en récompense et sont devenus les propriétaires de la cabane de chasse.
 
+Lykea se livre aux autres et leur raconte ce que son clan a subit. 
