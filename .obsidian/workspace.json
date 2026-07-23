@@ -32,33 +32,8 @@
               "icon": "lucide-file",
               "title": "Récapitulatif"
             }
-          },
-          {
-            "id": "8cb93cd2b48de7b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Annexe/Règles optionnelles.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Règles optionnelles"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -285,8 +260,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8cb93cd2b48de7b1",
+  "active": "fba545b276a0a770",
   "lastOpenFiles": [
+    "Annexe/Aide-mémoire meneuse.md",
+    "Annexe/Aide-mémoire meneuse.md.tmp.6881.97020e40ba52",
+    "Annexe/Règles optionnelles.md",
     "Annexe/Règles optionnelles.md.tmp.6177.8abc3d561096",
     "Annexe/Règles optionnelles.md.tmp.6177.63b30f1fd93b",
     "Annexe/Règles optionnelles.md.tmp.6177.7618fb1fbd76",
@@ -316,13 +294,10 @@
     "Invincible/Scénario 0 Mini Campagne/Cabane de Huon.md",
     "Invincible/Scénario 0 Mini Campagne/III - Mascombe.md",
     "Invincible/Scénario 0 Mini Campagne/Cabane de Huon.md.tmp.5.01374eaa794a",
-    "Invincible/Scénario 0 Mini Campagne/Cabane de Huon.md.tmp.5.1bfd0ec132ae",
-    "Invincible/Scénario 0 Mini Campagne/Cabane de Huon.md.tmp.5.456e915a4f67",
     "Invincible/Scénario 0 Mini Campagne/I - L'incident du Marronnier.md",
     "Invincible/Où ils en sont.md",
     "Invincible/Scénario 0 Mini Campagne/II - Route de Felsenhof.md",
     "Annexe/Bestiaire/Huon le Dogue.md",
-    "Annexe/Bestiaire/Niska.md",
-    "Annexe/Bestiaire/Borek.md"
+    "Annexe/Bestiaire/Niska.md"
   ]
 }
