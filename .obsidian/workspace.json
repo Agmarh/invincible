@@ -135,7 +135,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Annexe/Bestiaire/Ours polaire.md",
+                "file": "Annexe/Bestiaire/Ours brun de l'Altwald.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -150,7 +150,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ours polaire"
+              "title": "Ours brun de l'Altwald"
             }
           }
         ],
@@ -383,9 +383,10 @@
   },
   "active": "af1100ec86dfac2f",
   "lastOpenFiles": [
-    "Annexe/Bestiaire/Ours noir.md",
-    "Annexe/Bestiaire/Ours polaire.md",
     "Annexe/Bestiaire/Ours Brun.md",
+    "Annexe/Bestiaire/Ours brun de l'Altwald.md",
+    "Annexe/Bestiaire/Ours polaire.md",
+    "Annexe/Bestiaire/Ours noir.md",
     "Annexe/Bestiaire/Ours Monstrueux.md",
     "Invincible/Scénario 0 Mini Campagne/Récapitulatif.md",
     "Annexe/Règles optionnelles.md",
@@ -418,7 +419,6 @@
     "Annexe/Bestiaire/Ombre.md",
     "Invincible/Images/image.png",
     "Invincible/Personnages/Lykëa.md",
-    "Invincible/Personnages/Samaëlle Vaël'Rhys.md",
-    "Annexe/Sortilèges/Niveau 2/Peau d'écorce.md"
+    "Invincible/Personnages/Samaëlle Vaël'Rhys.md"
   ]
 }
