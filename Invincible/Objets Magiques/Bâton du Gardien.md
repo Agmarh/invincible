@@ -14,11 +14,15 @@ La tête du bâton représente un **ourson recroquevillé**, endormi.
 
 # Palier 1 — Premier frémissement *(optionnel — climax de Raven'ill, si le groupe est en réelle difficulté)*
 
+La tête du bâton représente un ours noir couché, endormi.
+
 **Une seule fois**, l'ourson s'éveille en catastrophe pour protéger sa gardienne. Action pour planter le bâton au sol → il se change en **[[Ours noir]]** (ND 1/2), qui agit à sa propre initiative sous le contrôle mental de Lykëa (18 m ou moins). Action bonus pour lui refaire reprendre la forme de bâton.
 
 Après ce sursaut, l'esprit est **épuisé** : le bâton retombe **dormant** et ne pourra plus se transformer jusqu'à son véritable éveil (Palier 2). *Filet de sécurité ponctuel, pas une capacité récurrente.*
 
 # Palier 2 — L'éclosion *(seuil de Cobis — invocation de Clovik, début d'Invincible)*
+
+La tête du bâton représente la tête d'un ours brun, éveillé, calme.
 
 Le passage entre les mondes **réveille pleinement l'esprit**, qui a voyagé dans le bâton avec Lykëa. La tête sculptée s'ouvre : un **ours véritable**.
 
@@ -28,6 +32,8 @@ Le passage entre les mondes **réveille pleinement l'esprit**, qui a voyagé dan
 - *Rareté effective : Rare.*
 
 # Palier 3 — La plénitude *(un climax majeur d'Invincible — niveau ~8-9)*
+
+La tête du bâton représente une tête d'ours monstrueux, les yeux ouverts, le regard bienveillant, il semble observer le monde qui l'entoure.
 
 Au sommet de la campagne, appelé au moment le plus désespéré, l'esprit se déploie tout entier : le bâton devient l'**[[Ours Monstrueux]]** (ND 6) — le même ours vengeur que l'Altwald envoyait jadis punir ceux qui la souillaient.
 
