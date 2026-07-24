@@ -49,8 +49,8 @@ Checklist chapitre par chapitre. À cocher au fur et à mesure des séances.
 | [[IV - Bête Humaine#Phase 4 — Trouver Cadmar\|Rencontre Cadmar dans la clairière]]                                                                    | ✅      | S3      | Ils savent qu'il est innocent et que c'est un ours garou                                                      |
 | [[IV - Bête Humaine#Phase 5 — La confrontation Huon\|Confrontation Huon]]                                                                             | ✅      | S3      | Huon est mort, ils n'ont pas eu besoin de l'aide de Cadmar qui n'est pas intervenu. Artus est mort également. |
 | [[IV - Bête Humaine#La cache de Huon — preuve définitive et enquête secondaire\|Cache de Huon au logis des chasseurs]]                                | ✅      | S3      |                                                                                                               |
-| [[IV - Bête Humaine#Transition vers Raven'ill\|Transition Raven'ill]]                                                                                 | ⬜      |         | Amorce scénario suivant                                                                                       |
-| Niveau 3 accordé                                                                                                                                      | ⬜      |         |                                                                                                               |
+| [[IV - Bête Humaine#Transition vers Raven'ill\|Transition Raven'ill]]                                                                                 | ✅      |         | Amorce scénario suivant                                                                                       |
+| Niveau 3 accordé                                                                                                                                      | ✅      |         |                                                                                                               |
 
 ## Notes libres par session
 
