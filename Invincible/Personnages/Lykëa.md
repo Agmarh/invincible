@@ -313,6 +313,7 @@ Le Worg les accompagne — il ne les quittera plus.
 ## Récap des éléments à mémoriser absolument
 
 - **Cercle de l'Eau Noire** = clan druidique des abords du Bourbier sans fond (Tharse)
+- **Bâton du Gardien** = objet-signature **évolutif**, taillé par Baudoin, habité par l'esprit-ours de l'Altwald : ourson dormant (mini-campagne) → **Ours brun** (ND 2, au seuil de Cobis / invocation de Clovik) → **Ours Monstrueux** (ND 6, climax d'Invincible). Cf. `Objets Magiques/Bâton du Gardien`.
 - **Gardien spirituel** = esprit du chien du trépas mort en la protégeant, parle en rêve
 - **Coupable du massacre** = **Comte Aldric von Drachenfels**, vivant, à l'est de Wissenheim, couvert depuis des années. Couleur blason : dragon couché, sang sur noir.
 - **La preuve** = un **bout de tissu** avec le blason des Drachenfels, qu'elle a gardé dans une bourse autour du cou pendant des années
