@@ -24,5 +24,5 @@ actions:
   - name: Griffes
     desc: "Attaque d'arme au corps à corps : +7 pour toucher, allonge 1,50 m, une cible. Touché : 12 (2d6+5) dégâts tranchants."
   - name: Morsure
-    desc: "Attaque d'arme au corps à corps : 0+7) pour toucher, allonge 1,50 m, une cible. Touché : 9 (1d8+5) dégâts perforants."
+    desc: "Attaque d'arme au corps à corps : +7 pour toucher, allonge 1,50 m, une cible. Touché : 9 (1d8+5) dégâts perforants."
 ```
