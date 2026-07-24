@@ -22,7 +22,7 @@ Après ce sursaut, l'esprit est **épuisé** : le bâton retombe **dormant** et 
 
 Le passage entre les mondes **réveille pleinement l'esprit**, qui a voyagé dans le bâton avec Lykëa. La tête sculptée s'ouvre : un **ours véritable**.
 
-- Vous pouvez utiliser une **action** pour prononcer le mot de commande et lancer le bâton par terre, à 3 mètres ou moins : il se transforme en **[[Ours brun de l'Altwald]]** (ND 2). Il agit lors de son propre décompte d'initiative mais reste sous votre contrôle. En utilisant une **action bonus** pour prononcer de nouveau le mot de commande, il reprend sa forme de bâton dans le dernier espace qu'il occupait.
+- Vous pouvez utiliser une **action** pour prononcer le mot de commande (Arn) et lancer le bâton par terre, à 3 mètres ou moins : il se transforme en **[[Ours brun de l'Altwald]]** (ND 2). Il agit lors de son propre décompte d'initiative mais reste sous votre contrôle. En utilisant une **action bonus** pour prononcer de nouveau le mot de commande, il reprend sa forme de bâton dans le dernier espace qu'il occupait.
 - Lors de votre tour, vous dirigez mentalement l'ours s'il est à 18 m ou moins et si vous n'êtes pas neutralisée (vous choisissez son action et son déplacement, ou lui donnez un ordre général : attaquer, protéger un lieu…).
 - **Sauvegarde de l'esprit** *(différence avec le Bâton du python)* : si l'ours tombe à 0 PV, il **ne meurt pas** — le bâton redevient bois, **dormant**, et ne pourra se retransformer qu'après **quelques jours** (le temps que l'esprit se remette). S'il reprend forme de bâton **avant** d'atteindre 0 PV, il récupère tous ses points de vie.
 - *Rareté effective : Rare.*
