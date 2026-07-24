@@ -1,20 +1,8 @@
-# 1. Initiative fixe *(module D14)*
-
-**Principe** : on ne lance plus l'initiative. Chaque personnage a un score d'initiative **figé**, et l'ordre reste le même à tous les combats de la campagne.
-
-**Calcul** : comme une perception passive →
-
-> **Initiative fixe = 10 + modificateur d'initiative** (mod. de Dextérité + bonus éventuels de classe/don/sort).
-
-Le plus haut score agit en premier. En cas d'égalité : la meilleure Dextérité, sinon au choix de la meneuse.
-
-**Intérêt** : des combats plus fluides et zéro temps mort au lancer d'initiative. Particulièrement appréciable sur les tables réduites ou avec des joueurs débutants.
-
-# 2. Usure des armes et des armures *(module G8)*
+# Usure des armes et des armures *(module G8)*
 
 Le matériel s'abîme à l'usage et perd en efficacité. On peut activer l'usure **des armes**, **des armures**, ou **des deux**. Plus on coche de conditions de déclenchement, plus c'est punitif.
 
-## 2.1 Armes
+## Armes
 
 **Déclenchement** — au choix, 1 à 3 conditions (chaque déclenchement = 1 *cran d'usure*) :
 
@@ -32,7 +20,7 @@ Le matériel s'abîme à l'usage et perd en efficacité. On peut activer l'usure
 
 **Armes magiques** : **non affectées par défaut**. Si on choisit de les user, le **bonus +X n'est jamais perdu**, et les dés bonus élémentaires (feu, froid…) ne sont pas réduits sauf option punitive.
 
-## 2.2 Armures & boucliers
+## Armures & boucliers
 
 **Déclenchement** — au choix, 1 à 2 conditions (chaque déclenchement = 1 cran) :
 
@@ -45,7 +33,7 @@ Le matériel s'abîme à l'usage et perd en efficacité. On peut activer l'usure
 
 **Armures magiques** : le **bonus +X n'est jamais perdu** par défaut. Option : elle peut descendre jusqu'à +0 (jamais détruite), et seulement si l'arme qui a infligé les dégâts était magique.
 
-## 2.3 Réparation
+## Réparation
 
 **Chez un artisan** *(coût par cran, en % du prix de l'objet)* :
 
@@ -77,7 +65,7 @@ Réparer du **magique** demande un artisan très compétent (le % s'applique au 
 
 *(Kits dédiés à une seule arme/armure : moins polyvalents, souvent moins chers. Kit d'arme dédié = prix de l'arme neuve +20 % ; kit d'armure dédié = moitié du prix +20 %.)*
 
-# 3. Distribution des PV à la montée de niveau *(règle « Lucien Maine »)*
+# Distribution des PV à la montée de niveau *(règle « Lucien Maine »)*
 
 **Règle maison** (empruntée à Lucien Maine, MJ de *La Bonne Auberge JDR*) qui remplace le lancer classique du dé de vie à chaque **montée de niveau**.
 
@@ -113,7 +101,7 @@ Ainsi le d8 devient 1d6+2, le d10 → 1d6+4, le d12 → 1d6+6. Ça **comprime le
 - On applique **à partir de la prochaine montée** — pas de recalcul rétroactif (sauf si tu le souhaites).
 - **Effet global** : un groupe plus robuste, surtout les classes à gros dé (martiaux). Pratique pour adoucir la létalité, notamment sur les tables réduites. Les lanceurs à d6 gardent leur fragilité.
 
-# 4. Blessures & marques durables — tomber à 0 PV *(module G2)*
+# Blessures & marques durables — tomber à 0 PV *(module G2)*
 
 Pour matérialiser le prix d'une descente à 0 PV : survivre, oui, mais en gardant une marque.
 

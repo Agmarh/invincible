@@ -9,7 +9,7 @@
 ## Le personnage
 
 **Race** : Aasimar de Pangée, sous-race **Agramnon** (l'aasimar guerrier).
-**Classe** : Barbare — **Voie élémentaire reskinée** (Feu / Foudre / Terre, à finaliser avec la joueuse).
+**Classe** : Barbare — **Voie divine** (reskin de la Voie des glaces, choisie au niveau 3 en S4). Défenses nécrotiques + offensive radiante — sa « lumière sale » retournée en Voie. Cf. `Annexe/Voies primitives - Feu & Divine`.
 **Historique** : Sang bleu — variante **Bâtard**, idéal **Rébellion**.
 **Alignement** : **Chaotique Neutre** (rébellion contre sa nature céleste — canon).
 **Joué par** : Joueuse 3 (débutante complète).
