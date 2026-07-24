@@ -44,7 +44,7 @@ Checklist chapitre par chapitre. À cocher au fur et à mesure des séances.
 | [[IV - Bête Humaine#La sage-femme Ursanne\|Rencontre Ursanne la sage-femme]]                                                                          | ✅      | S3      | Ursanne oriente vers Baudoin                                                                                  |
 | Corbeaux de Lykea envoyés vers Baudoin                                                                                                                | ✅      | S2      | **Raccourci pour Baudoin**                                                                                    |
 | [[IV - Bête Humaine#Baudoin l'ermite\|Rencontre Baudoin l'ermite]]                                                                                    | ✅      | S3      |                                                                                                               |
-| [[IV - Bête Humaine#L'esprit forestier *(sous-intrigue canon)*\|Sous-intrigue esprit forestier / vieux chêne]]                                        | ⬜      |         | Pas joué                                                                                                      |
+| [[IV - Bête Humaine#L'esprit forestier *(sous-intrigue canon)*\|Sous-intrigue esprit forestier / vieux chêne]]                                        | ✅      |         |                                                                                                               |
 | [[IV - Bête Humaine#La masure de Cadmar\|Masure de Cadmar]]                                                                                           | ⬜      |         | Pas joué                                                                                                      |
 | [[IV - Bête Humaine#Phase 4 — Trouver Cadmar\|Rencontre Cadmar dans la clairière]]                                                                    | ✅      | S3      | Ils savent qu'il est innocent et que c'est un ours garou                                                      |
 | [[IV - Bête Humaine#Phase 5 — La confrontation Huon\|Confrontation Huon]]                                                                             | ✅      | S3      | Huon est mort, ils n'ont pas eu besoin de l'aide de Cadmar qui n'est pas intervenu. Artus est mort également. |
@@ -76,13 +76,14 @@ Ils ont trouvé la cache de Huon avant de le confronter. Et l'ont tué ensuite. 
 Ils viennent de passer niveau 3 :
 - Haisse Per Luette est passé Barde du collège des Saltimbanques
 - Lykea est druide du cercle des profondeurs
-- Samaelle est devenue barde de la voie divine
+- Samaelle est devenue barbare de la voie divine
 
 Ils ont eu les 115 po par tête en récompense et sont devenus les propriétaires de la cabane de chasse.
 
 Lykea se livre aux autres et leur raconte ce que son clan a subit. Elle leur confit qu'elle veut chercher le coupable et le traduire en justice.
 
-Lykea a libéré l'esprit de la forêt et Sam va vider la cabane de tout les effets personnels de Huon.
+Lykea a libéré l'esprit de la forêt, elle demande à Baudoin de taille son bâton à l'image de l'esprit de la forêt (peut être quelque chose de sympa à jouer la dessus ?)
+Et Sam va vider la cabane de tout les effets personnels de Huon.
 
 Mamert a proposé le poste de gardienne de l'Altwald à Lykea et elle a accepté.
 
