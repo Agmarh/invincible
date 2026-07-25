@@ -198,7 +198,7 @@
         "enabled": true,
         "level": 3,
         "player": true,
-        "active": false,
+        "active": true,
         "hidden": false,
         "friendly": false
       },
@@ -233,11 +233,11 @@
         "ac": "15 (armure de mage)",
         "currentAC": "15 (armure de mage)",
         "id": "ID_b839a97b5bc8",
-        "currentHP": 35,
+        "currentHP": 21,
         "tempHP": 0,
         "status": [],
         "enabled": true,
-        "active": true,
+        "active": false,
         "hidden": false,
         "friendly": false,
         "hit_dice": "8d8+24"
@@ -245,7 +245,7 @@
     ],
     "state": true,
     "name": null,
-    "round": 4,
+    "round": 5,
     "logFile": "",
     "rollHP": false
   },

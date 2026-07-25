@@ -120,7 +120,7 @@ En revanche, si les joueurs choisissent la seconde option, la chose sera un peu 
 - Si les PJ remplissent deux de ces trois conditions, Alwin arrive pendant un court instant à reprendre le contrôle de son corps, et Roc'Taron en est alors expulsé. Les PJ doivent désormais affronter l'esprit de Roc'Taron.
 
 Emplacements de sorts : 
-- 1 : 2
+- 1 : 0
 - 2 : 1
 - 3 : 2
 ## 11. Postes d'observation
