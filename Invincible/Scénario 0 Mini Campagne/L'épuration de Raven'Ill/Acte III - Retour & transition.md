@@ -5,7 +5,6 @@
 **Selon la fin de Raven'Ill :**
 
 - **Alwin sauvé** : le jeune baron, encore chancelant d'avoir repris son corps, tient à vous remercier avant votre départ. Il vous confie une **lettre scellée pour Mamert** — deux amis de longue date qui se réécriront enfin — et fait escorter les PJ jusqu'aux limites de ses terres. Le village vous salue comme des héros.
-- **Alwin mort** : Raven'Ill est libérée mais orpheline. Les regards qu'on vous jette sont lourds — reconnaissants et accusateurs à la fois. La question de la succession plane déjà. Vous repartez le cœur serré, avec le sentiment d'avoir sauvé une maison en abattant son dernier pilier.
 
 ## Les bêtes de Lykëa
 

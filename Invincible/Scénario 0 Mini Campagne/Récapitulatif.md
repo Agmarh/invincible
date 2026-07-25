@@ -92,4 +92,8 @@ Ils partent à l'instant pour Raven'ill. Ils seront accompagné de Anya, une gar
 Baudoin rapporte le [[Bâton du Gardien]] qu'il a sculpté, expliquera qu'en commençant à sculpter le bâton, c'est comme si sa main avait été guidé par la forêt elle même. La tête du bâton ressemble à un ourson recroquevillé, endormi.
 
 ### Session 5
+Le jeune baron est sauvé, Haisse Per a réussi à faire lacher à Roc'Taron le médaillon via le sort Offrande Inéluctable, ils ont ensuite tué le nécromancien et sauvé Alwin.
 
+Ils ont sauvé la Cockatrice et le Worg qui fait route avec eux et Anya. Ils ont envoyé un corbeau messager vers Mascombe pour demander de l'aide.
+
+3 jours après, une garnison arrive de Masombe avec des vivres et un ordre du baron, celui-ci a demandé à voir les PJs rapidement.
