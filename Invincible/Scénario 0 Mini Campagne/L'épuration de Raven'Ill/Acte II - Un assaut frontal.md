@@ -48,13 +48,13 @@ Il accompagnera les PJs s'ils le demandent, mais vu son état, sera plus un poid
 
 > <font style="color:yellow">"Les hautes tours du château de Raven'Ill se dressent devant vous. Une large porte de bois est dressée au bout du chemin, et deux gardes en armure se tiennent devant elle. Leur hallebarde à la main, ils semblent décidés à ne laisser personne entrer."</font>
 
-Rencontre : 2[[Armure animée]] et 1 [[Hallebarde animée]].
+Rencontre : 2[[Armure animée]] et 2 [[Hallebarde animée]].
 
 ## 2. Hall d'accueil
 
 > <font style="color:yellow">"Un grand hall richement décoré. Le lieu pourrait être considéré comme l'un des plus beaux que vous ayez jamais vus, mais il a été totalement saccagé. Les tissus sont souillés et les porcelaines détruites."</font>
 
-Rencontre : Une meute de 3 [[Goule]] est dissimulée dans cette pièce. Elles attaquent dès que tous les PJ sont entrés.
+Rencontre : Une meute de 4 [[Goule]] est dissimulée dans cette pièce. Elles attaquent dès que tous les PJ sont entrés.
 
 ## 3. Bibliothèque
 
@@ -67,7 +67,7 @@ Roc'Taron a eu vent de l'intrusion dans son château. Il a donc fait détruire l
 
 > <font style="color:yellow">"Cette salle circulaire était le lieu de rendez-vous des gardes du château. Un jeu de cartes et plusieurs chopes de bières vides sont encore visibles sur la table centrale."</font>
 
-Rencontre : Les malheureux gardes qui étaient de faction quand Alwin est revenu ont été les premières victimes de Roc'Taron, et leurs cadavres gisent encore là. Mais les morts ne reposent pas en paix. 5 [[Zombie]] attaquent les PJ quand ils entrent dans la pièce.
+Rencontre : Les malheureux gardes qui étaient de faction quand Alwin est revenu ont été les premières victimes de Roc'Taron, et leurs cadavres gisent encore là. Mais les morts ne reposent pas en paix. 6 [[Zombie]] attaquent les PJ quand ils entrent dans la pièce.
 
 ## 5. Dortoir des gardes
 
@@ -79,7 +79,7 @@ La pièce servait de salle de repos pour les gardes et les serviteurs, mais elle
 
 > <font style="color:yellow">"Les restes d'un dîner gisent encore sur la table, tandis que la plupart des verres et des assiettes sont brisés et éparpillés sur le sol. Deux convives sont encore à table, dans un état de décomposition avancé."</font>
 
-Rencontre : L'un des convives assis à table est en fait un [[Nécrophage]]. Il se relève et attaque les intrus dès que ceux-ci pénètrent dans la pièce.
+Rencontre : Les convives assis à table sont en fait des [[Nécrophage]]. Ils se relèvent et attaquent les intrus dès que ceux-ci pénètrent dans la pièce.
 
 ## 7. Réserves
 

@@ -6,7 +6,7 @@ subtype:
 alignment: Neutre Mauvais
 ac: 15 (armure de mage)
 hp: 44
-hit_dice: 8d8+12
+hit_dice: 8d8+24
 speed: 9 m
 stats: [12, 15, 16, 17, 10, 13]
 skillsaves:

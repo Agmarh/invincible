@@ -56,7 +56,7 @@ Les habitants sont réticents à l'idée que des étrangers viennent chez eux. L
 > <font style="color:orange">"Les monstres ! Ils reviennent !"</font>
 > <font style="color:yellow">Ce cri est suivi rapidement par d'autres qui relaient la sombre nouvelle. En regardant par la fenêtre, vous voyez sur le toit d'une maison, une créature humanoïde recroquevillée sur elle-même qui semble vous observer dans la nuit. Ses yeux, fumants comme de la braise, vous fixent et vous mettent particulièrement mal à l'aise. Sans prévenir, la créature détourne les yeux en voyant un homme dans la rue qui essaie de rejoindre sa maison en vitesse. Elle se jette sur lui et enfonce de longues griffes dans le dos du pauvre homme, qui succombe immédiatement.</font>
 
-Il y a 4 [[Goule]] et 1 [[Blême]] (lieutenant de Roc'Taron). Ils ont pour mission d'attaquer les PJs, mais les goules, n'écoutant que leur appétit, se jetterons sur les villageois. Le blême, lui, s'attaquera aux PJs.
+Il y a 5 [[Goule]] et 1 [[Blême]] (lieutenant de Roc'Taron). Ils ont pour mission d'attaquer les PJs, mais les goules, n'écoutant que leur appétit, se jetterons sur les villageois. Le blême, lui, s'attaquera aux PJs.
 
 # Scène 4 : La résistance s'organise
 
