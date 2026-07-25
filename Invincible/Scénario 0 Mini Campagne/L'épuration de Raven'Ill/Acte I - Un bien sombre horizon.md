@@ -1,4 +1,3 @@
-
 # Scène 1 : Une fosse peu accueillante
 
 Les PJs sont en route pour Raven'Ill, cela fait 4 jours qu'ils sont partis de Mascombe à la demande de Mamert :

@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Invincible/Objets Magiques/Bâton du Gardien.md",
+                "file": "Invincible/Scénario 0 Mini Campagne/L'épuration de Raven'Ill/Acte I - Un bien sombre horizon.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -54,7 +54,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Bâton du Gardien"
+              "title": "Acte I - Un bien sombre horizon"
             }
           }
         ],
@@ -151,89 +151,6 @@
             }
           },
           {
-            "id": "0e65cf3d75f15153",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Invincible/Scénario 0 Mini Campagne/I - L'incident du Marronnier.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Rétrolien pour I - L'incident du Marronnier"
-            }
-          },
-          {
-            "id": "377c3252d9a89768",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Invincible/Scénario 0 Mini Campagne/I - L'incident du Marronnier.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Liens sortants de I - L'incident du Marronnier"
-            }
-          },
-          {
-            "id": "8cd8a34e752d3b45",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Mots-clés"
-            }
-          },
-          {
-            "id": "b7f6d2e03da2a513",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Invincible/Scénario 0 Mini Campagne/I - L'incident du Marronnier.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Plan de I - L'incident du Marronnier"
-            }
-          },
-          {
-            "id": "9cc0bdb74e729be6",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "DICE_ROLLER_VIEW"
-            }
-          },
-          {
-            "id": "b64675071c468416",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "initiative-tracker",
-              "title": "Initiative Tracker"
-            }
-          },
-          {
             "id": "1efd0f6acfdec077",
             "type": "leaf",
             "state": {
@@ -243,8 +160,7 @@
               "title": "Dice Tray"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "9df297e6ba9c49df",
@@ -265,7 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 423.5
+    "width": 516.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -286,15 +202,18 @@
   },
   "active": "9ac6019addc11a70",
   "lastOpenFiles": [
+    "Invincible/Scénario 0 Mini Campagne/Cabane de Huon.md",
+    "Invincible/Scénario 0 Mini Campagne/La bête humaine/IV - Bête Humaine.md",
+    "Invincible/Scénario 0 Mini Campagne/La bête humaine",
+    "Invincible/Scénario 0 Mini Campagne/Récapitulatif.md",
+    "Invincible/Objets Magiques/Bâton du Gardien.md",
+    "Invincible/Scénario 0 Mini Campagne/L'épuration de Raven'Ill/Acte I - Un bien sombre horizon.md",
     "Annexe/Bestiaire/Roc'Taron.md",
     "Invincible/Scénario 0 Mini Campagne/L'épuration de Raven'Ill/Acte II - Un assaut frontal.md",
-    "Invincible/Scénario 0 Mini Campagne/L'épuration de Raven'Ill/Acte I - Un bien sombre horizon.md",
-    "Invincible/Objets Magiques/Bâton du Gardien.md",
-    "Invincible/Scénario 0 Mini Campagne/Récapitulatif.md",
     "Annexe/Règles optionnelles.md",
     "Annexe/Bestiaire/Ours Monstrueux.md",
-    "Invincible/Scénario 0 Mini Campagne/III - Mascombe.md",
-    "Invincible/Scénario 0 Mini Campagne/II - Route de Felsenhof.md",
+    "Invincible/Scénario 0 Mini Campagne/La bête humaine/III - Mascombe.md",
+    "Invincible/Scénario 0 Mini Campagne/La bête humaine/II - Route de Felsenhof.md",
     "Invincible/Objets Magiques/Heaume de télépathie.md",
     "Annexe/Bestiaire/Ours brun de l'Altwald.md",
     "Invincible/Personnages/Lykëa.md.tmp.7349.9a8e76ff7156",
@@ -304,8 +223,6 @@
     "Annexe/Bestiaire/Ours noir.md",
     "Annexe/Aide-mémoire.md",
     "Invincible/Personnages/Samaëlle Vaël'Rhys.md.tmp.3288.0c16f256c8f5",
-    "Invincible/Scénario 0 Mini Campagne/IV - Bête Humaine.md",
-    "Invincible/Scénario 0 Mini Campagne/Cabane de Huon.md",
     "Annexe/Voies primitives - Feu & Divine (reskin Glaces).md",
     "Annexe/Voies primitives - Feu & Divine (reskin Glaces).md.tmp.7686.851f371044f9",
     "Annexe/Règles optionnelles.md.tmp.7592.f37569e25781",
@@ -313,7 +230,6 @@
     "Annexe/Règles optionnelles.md.tmp.7592.53c4470f0aa0",
     "Annexe/Règles optionnelles.md.tmp.7432.e6281c479655",
     "Annexe/Aide-mémoire meneuse.md.tmp.6881.97020e40ba52",
-    "Annexe/Règles optionnelles.md.tmp.6177.8abc3d561096",
     "Invincible/Scénario 0 Mini Campagne/L'épuration de Raven'Ill/Acte III - Retour & transition.md",
     "Annexe/Bestiaire/Blême.md",
     "Annexe/Bestiaire/Goule.md",
@@ -321,7 +237,6 @@
     "Annexe/Bestiaire/Hallebarde animée.md",
     "Annexe/Bestiaire/Zombie.md",
     "Annexe/Bestiaire/Nécrophage.md",
-    "Annexe/Bestiaire/Fantôme.md",
     "Invincible/Images/image.png"
   ]
 }

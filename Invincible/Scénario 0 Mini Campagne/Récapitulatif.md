@@ -87,7 +87,9 @@ Et Sam va vider la cabane de tout les effets personnels de Huon.
 
 Mamert a proposé le poste de gardienne de l'Altwald à Lykea et elle a accepté.
 
-Ils partent à l'instant pour Raven'ill.
+Ils partent à l'instant pour Raven'ill. Ils seront accompagné de Tissé, une garde de Mascombe que Mamert leur assigne pour les aider.
+
+Baudoin rapporte le [[Bâton du Gardien]] qu'il a sculpté, expliquera qu'en commençant à sculpter le bâton, c'est comme si sa main avait été guidé par la forêt elle même. La tête du bâton ressemble à un ourson recroquevillé, endormi.
 
 ### Session 5
 
