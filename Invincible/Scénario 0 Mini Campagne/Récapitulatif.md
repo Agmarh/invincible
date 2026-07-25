@@ -88,3 +88,6 @@ Et Sam va vider la cabane de tout les effets personnels de Huon.
 Mamert a proposé le poste de gardienne de l'Altwald à Lykea et elle a accepté.
 
 Ils partent à l'instant pour Raven'ill.
+
+### Session 5
+
