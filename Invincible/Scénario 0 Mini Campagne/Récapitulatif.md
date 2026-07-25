@@ -97,3 +97,7 @@ Le jeune baron est sauvé, Haisse Per a réussi à faire lacher à Roc'Taron le 
 Ils ont sauvé la Cockatrice et le Worg qui fait route avec eux et Anya. Ils ont envoyé un corbeau messager vers Mascombe pour demander de l'aide.
 
 3 jours après, une garnison arrive de Masombe avec des vivres et un ordre du baron, celui-ci a demandé à voir les PJs rapidement.
+
+On reprendra la Session 6 à la scène 2 de l'acte III de l'épuration de Raven'ill.
+
+Niveau 4 accordé après la rencontre d'Yvan.
