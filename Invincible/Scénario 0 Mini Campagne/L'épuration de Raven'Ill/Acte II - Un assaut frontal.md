@@ -48,7 +48,7 @@ Il accompagnera les PJs s'ils le demandent, mais vu son état, sera plus un poid
 
 > <font style="color:yellow">"Les hautes tours du château de Raven'Ill se dressent devant vous. Une large porte de bois est dressée au bout du chemin, et deux gardes en armure se tiennent devant elle. Leur hallebarde à la main, ils semblent décidés à ne laisser personne entrer."</font>
 
-Rencontre : 2[[Armure animée]] et 2 [[Hallebarde animée]].
+Rencontre : 2 [[Armure animée]] et 2 [[Hallebarde animée]].
 
 ## 2. Hall d'accueil
 
