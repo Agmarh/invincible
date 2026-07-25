@@ -119,10 +119,6 @@ En revanche, si les joueurs choisissent la seconde option, la chose sera un peu 
 - Et troisièmement, s'ils décrivent précisément ce qui se passe dans le village et dans les champs alentour (les meutes de goules, les piles de cadavres, la maladie…). 
 - Si les PJ remplissent deux de ces trois conditions, Alwin arrive pendant un court instant à reprendre le contrôle de son corps, et Roc'Taron en est alors expulsé. Les PJ doivent désormais affronter l'esprit de Roc'Taron.
 
-Emplacements de sorts : 
-- 1 : 0
-- 2 : 1
-- 3 : 2
 ## 11. Postes d'observation
 
 > <font style="color:yellow">"Les terrasses des tours offrent une vue globale sur toute la région. Il est même possible d'apercevoir le village. Cependant, votre esprit est plus préoccupé par les piles de cadavres qui pourrissent dans les champs comme autant de tertres macabres."</font>
