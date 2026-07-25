@@ -3,7 +3,7 @@
     {
       "name": "Haisse Per Luette",
       "level": 3,
-      "hp": 10,
+      "hp": 26,
       "ac": "13",
       "modifier": 2,
       "player": true
@@ -19,13 +19,13 @@
     {
       "name": "Samaëlle Vaël'Rhys",
       "level": 3,
-      "hp": 14,
+      "hp": 37,
       "ac": "13",
       "modifier": 1,
       "player": true
     },
     {
-      "name": "Tissé",
+      "name": "Anya",
       "level": 3,
       "hp": 31,
       "ac": "19",
@@ -40,7 +40,7 @@
         "Haisse Per Luette",
         "Lykea",
         "Samaëlle Vaël'Rhys",
-        "Tissé"
+        "Anya"
       ]
     }
   ],
