@@ -101,3 +101,13 @@ Ils ont sauvé la Cockatrice et le Worg qui fait route avec eux et Anya. Ils ont
 On reprendra la Session 6 à la scène 2 de l'acte III de l'épuration de Raven'ill.
 
 Niveau 4 accordé après la rencontre d'Yvan.
+
+Temps total écoulé :
+
+|Étape|Jours|
+|---|---|
+|Aller Mascombe → Raven'ill|4|
+|Donjon (arrivée + nuit + assaut)|~2|
+|Attente de la garnison après Roc'Taron|3|
+|Retour en charrette → Mascombe|~4|
+|**Total**|**~13 jours** (≈ 2 semaines)|
