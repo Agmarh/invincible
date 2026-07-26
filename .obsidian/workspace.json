@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Invincible/Scénario 0 Mini Campagne/L'épuration de Raven'Ill/Acte II - Un assaut frontal.md",
+                "file": "Invincible/Scénario 0 Mini Campagne/L'épuration de Raven'Ill/Acte III - Retour & transition.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -54,7 +54,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Acte II - Un assaut frontal"
+              "title": "Acte III - Retour & transition"
             }
           }
         ],
@@ -159,6 +159,69 @@
               "icon": "dices",
               "title": "Dice Tray"
             }
+          },
+          {
+            "id": "a53f8cc7fa3d5031",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Invincible/Scénario 0 Mini Campagne/L'épuration de Raven'Ill/Acte III - Retour & transition.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rétrolien pour Acte III - Retour & transition"
+            }
+          },
+          {
+            "id": "c216a4a2ff3f0db0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Invincible/Scénario 0 Mini Campagne/L'épuration de Raven'Ill/Acte III - Retour & transition.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Liens sortants de Acte III - Retour & transition"
+            }
+          },
+          {
+            "id": "81ce0cb1e3cc2303",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Mots-clés"
+            }
+          },
+          {
+            "id": "4991fa78a636c600",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Invincible/Scénario 0 Mini Campagne/L'épuration de Raven'Ill/Acte III - Retour & transition.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Plan de Acte III - Retour & transition"
+            }
           }
         ],
         "currentTab": 1
@@ -203,10 +266,10 @@
   },
   "active": "9ac6019addc11a70",
   "lastOpenFiles": [
+    "Invincible/Scénario 0 Mini Campagne/L'épuration de Raven'Ill/Acte II - Un assaut frontal.md",
     "Invincible/Scénario 0 Mini Campagne/L'épuration de Raven'Ill/Acte III - Retour & transition.md",
     "Invincible/Scénario 0 Mini Campagne/Récapitulatif.md",
     "Invincible/Objets Magiques/Bâton du Gardien.md",
-    "Invincible/Scénario 0 Mini Campagne/L'épuration de Raven'Ill/Acte II - Un assaut frontal.md",
     "Annexe/Sortilèges/Niveau 3/Jeter une malédiction.md",
     "Annexe/Sortilèges/Niveau 2/Image miroir.md",
     "Invincible/Scénario 0 Mini Campagne/L'épuration de Raven'Ill/Acte I - Un bien sombre horizon.md",
