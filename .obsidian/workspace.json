@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "9ac6019addc11a70",
+            "id": "3ea7cb7360728b94",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Invincible/Scénario 0 Mini Campagne/Récapitulatif.md",
+                "file": "Invincible/Scénario 0 Mini Campagne/L'épuration de Raven'Ill/Acte III - Retour & transition.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -54,7 +54,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Récapitulatif"
+              "title": "Acte III - Retour & transition"
             }
           }
         ],
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Invincible/Scénario 0 Mini Campagne/Récapitulatif.md",
+                "file": "Invincible/Scénario 0 Mini Campagne/L'épuration de Raven'Ill/Acte III - Retour & transition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Récapitulatif"
+              "title": "Rétrolien pour Acte III - Retour & transition"
             }
           },
           {
@@ -185,12 +185,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Invincible/Scénario 0 Mini Campagne/Récapitulatif.md",
+                "file": "Invincible/Scénario 0 Mini Campagne/L'épuration de Raven'Ill/Acte III - Retour & transition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de Récapitulatif"
+              "title": "Liens sortants de Acte III - Retour & transition"
             }
           },
           {
@@ -214,13 +214,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Invincible/Scénario 0 Mini Campagne/Récapitulatif.md",
+                "file": "Invincible/Scénario 0 Mini Campagne/L'épuration de Raven'Ill/Acte III - Retour & transition.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Récapitulatif"
+              "title": "Plan de Acte III - Retour & transition"
             }
           }
         ],
@@ -245,8 +245,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 516.5,
-    "collapsed": true
+    "width": 516.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -265,11 +264,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9ac6019addc11a70",
+  "active": "3ea7cb7360728b94",
   "lastOpenFiles": [
+    "Invincible/Scénario 0 Mini Campagne/Récapitulatif.md",
     "Invincible/Scénario 0 Mini Campagne/L'épuration de Raven'Ill/Acte III - Retour & transition.md",
     "Invincible/Scénario 0 Mini Campagne/L'épuration de Raven'Ill/Acte II - Un assaut frontal.md",
-    "Invincible/Scénario 0 Mini Campagne/Récapitulatif.md",
     "Invincible/Objets Magiques/Bâton du Gardien.md",
     "Annexe/Sortilèges/Niveau 3/Jeter une malédiction.md",
     "Annexe/Sortilèges/Niveau 2/Image miroir.md",

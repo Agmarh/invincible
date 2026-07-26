@@ -20,18 +20,11 @@ C'est un moment à laisser respirer. Pas de jet, pas d'enjeu — juste la certit
 
 ## Note MJ — le sort de Mamert
 
-**À trancher maintenant**, selon le ton de votre table et l'attachement des joueurs à Mamert. Les deux versions fonctionnent avec la suite.
-
-- **Option A — Mamert survit.** Alité dans une chambre du château, affaibli par la maladie qui l'a saisi pendant votre absence, mais lucide. Il a tenu bon. Il assistera à la cérémonie, porté dans un fauteuil.
-- **Option B — Mamert est mort.** Emporté durant votre absence. Sa chambre est vide, ses affaires rangées. Aymar parlera en son nom, et en sa mémoire.
+Mamert est mort. Emporté durant votre absence. Sa chambre est vide, ses affaires rangées. Aymar parlera en son nom, et en sa mémoire.
 
 ## L'audience
 
-> <font style="color:yellow">On vous fait entrer dans la grande salle voûtée, là même où Mamert vous avait confié la traque de Mascombe. Mais aujourd'hui la salle est pleine : des serviteurs, quelques nobles du voisinage, la garnison au complet. Et sur le siège du seigneur, un homme que vous n'aviez jamais vu, sauf Haisse Per Luette. La quarantaine sèche, le visage tanné par les camps, une cicatrice pâle qui court sur l'avant-bras. Il vous observe entrer sans un mot. Le baron Aymar.</font>
-
-Si **Mamert est vivant (A)**, deux serviteurs l'installent dans un fauteuil, dans un coin de la salle. Il vous adresse un petit signe de tête épuisé mais heureux.
-
-Si **Mamert est mort (B)**, un siège reste vide à la droite d'Aymar, drapé de noir. Personne ne s'y assoit.
+> <font style="color:yellow">On vous fait entrer dans la grande salle voûtée, là même où Mamert vous avait confié la traque de Mascombe. Mais aujourd'hui la salle est pleine : des serviteurs, quelques nobles du voisinage, la garnison au complet. Et sur le siège du seigneur, un homme que vous n'aviez jamais vu, sauf Haisse Per Luette. La quarantaine sèche, le visage tanné par les camps, une cicatrice pâle qui court sur l'avant-bras. Il vous observe entrer sans un mot. A la droite du baron, un siège reste vide à sa droite, drapé de noir, c'est le siège de l'intendant.</font>
 
 # Scène 3 : Le rapport
 
@@ -55,10 +48,7 @@ Laisser le joueur réagir — Aymar encaisse la réplique, quelle qu'elle soit, 
 
 **La cérémonie.** Le PJ accepte (presque à coup sûr). Aymar lui pose la main sur l'épaule, trois témoins signent un parchemin. Haisse Per Luette devient officiellement **barde de la baronnie de Felsenhof**.
 
-**Si Mamert est vivant (A)**, c'est lui qui a plaidé la cause du barde auprès d'Aymar dès son retour ; il hoche la tête, satisfait, depuis son fauteuil.
-
-**Si Mamert est mort (B)**, Aymar l'accorde en mémoire de son intendant :
-> <font style="color:orange">"Mon intendant, dans ses derniers jours, n'a parlé que de vous trois. Il m'a fait jurer de regarder le passé d'un autre œil. Je tiens parole à un mort — même si je le voudrais encore vivant pour le lui reprocher."</font>
+> <font style="color:orange">"Mon intendant, dans ses derniers jours, n'a parlé que de vous trois. Il m'a fait jurer de regarder le passé d'un autre œil. Je tiendrais parole — même si je le voudrais encore vivant pour le lui reprocher."</font>
 
 **Effets** : titre officiel, laissez-passer permanent en terres alliées à Felsenhof, protection d'Aymar, dette d'honneur. La **Faille** du barde est résolue — il pourra retrouver sa troupe, les Sept Échos, en paix.
 
