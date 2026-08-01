@@ -8,6 +8,15 @@ Les PJ se **réveillent amnésiques** dans les ruines d'un temple, sans le moind
 
 **Fiche technique** : Mystère / Bac à sable / Road-trip déjanté. ACTION ★★ — AMBIANCE ★★★ — INTERACTION ★★★ — INVESTIGATION ★★★.
 
+# Où ça se passe — la province d'Eiren
+
+**Jaseran et Clairjonc sont en [[Eiren]]**, la province forestière voisine de Tharse — l'immense bois des **halfelins (60 %) et des gnomes (30 %)**, capitale **Eiren'Syl**. Un climat tempéré chaud, peu urbanisé, des collines, des champs, des moulins en lisière de forêt (*cf. Azul*). Que ce cadre bucolique et bon enfant serve de contraste à l'horreur douce de la sinither.
+
+- **Jaseran** : petite bourgade d'Eiren où se cache le temple en ruine de la sinither (l'ancien culte de l'Indulgence). C'est de là que Tolnek, le maître de Haisse, était revenu vidé.
+- **Clairjonc** *(Acte III)* : **cité gnome souterraine** d'Eiren — logique, puisque les gnomes forment près d'un tiers de la province. C'est là que les gnomes « résistent » à la magie de l'oubli, et là que Lykëa retrouve les survivants du Cercle de l'Eau Noire.
+- **Le mont Palos** *(Acte II)* : ses contreforts, à **trois jours de marche de Jaseran**, abritent le monastère des moines psilencieux.
+- **Le lien avec la campagne** : Eiren jouxte **Tharse**, où se trouvent Mascombe et Felsenhof. Le road-trip amnésique promène donc les PJ dans une province voisine de leur port d'attache — avant que la sinither ne les ramène, au climax, jusqu'à **Mascombe** même.
+
 # La sinither *(pour le MJ)*
 
 Ancienne « mangeuse de péchés » vénérée jadis à Jaseran (le **culte de l'Indulgence** : on lui confiait ses fautes, elle les *oubliait* pour vous). Un jour de grande cérémonie, elle a absorbé d'un coup une masse de souvenirs, est sortie de sa forme larvaire — et **tout le monde a oublié le culte lui-même**. Depuis, elle survit en dévorant la mémoire de ceux qui redécouvrent ses ruines, puis oublient les avoir vues. Elle a grandi. Son appétit aussi : elle ne se contente plus de souvenirs banals, elle traque les **passions**, les mémoires de gens puissants, hauts en couleur.
@@ -46,7 +55,7 @@ Ancienne « mangeuse de péchés » vénérée jadis à Jaseran (le **culte de l
 | **I — Le réveil** | Ruines de la sinither, sortie, les autres amnésiques, Gaezin, Jaseran | 5 |
 | **II — Jour des visites** | Fuite dans les blés, moines psilencieux, le moulin d'Andé (vieux aventuriers) | 4 → 3 |
 | **III — Clairjonc** | Cité gnome, la piste (mensonge de Gaezin), les Endeuilleurs, **les survivants du clan de Lykëa** | 3 → 2 |
-| **IV — Clap de fin** | Retour au lieu du dernier exploit (**Raven'ill**), affrontement de la sinither, dénouement | 2 → 1 → **retour à 5** |
+| **IV — Clap de fin** | Retour au lieu le plus chargé de mémoire (**Mascombe**, leur port d'attache), affrontement de la sinither, dénouement | 2 → 1 → **retour à 5** |
 
 # La bascule vers Invincible *(le Recueil le conseille lui-même)*
 

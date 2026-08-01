@@ -18,7 +18,7 @@ Puis il ajoute, l'air grave :
 
 Occasion d'une **mini-enquête urbaine** improvisée dans les milieux interlopes de Clairjonc. Pendant que Gaezin remonte la piste de ses anciens comparses (pour trouver leurs quartiers secrets), les **Endeuilleurs** cherchent à **capturer** Gaezin et ses complices humains. Joue le double mouvement — les PJ traquent et sont traqués.
 
-- Ambiance : cité basse, ruelles étroites, échelles, ponts, receleurs, gnomes méfiants. *(C'est aussi le décor de Clairjonc établi dans notre contexte : cité gnome indépendante au sud.)*
+- Ambiance : cité basse, ruelles étroites, échelles, ponts, receleurs, gnomes méfiants. *(Clairjonc est une **cité gnome souterraine d'[[Eiren]]** — la province forestière des halfelins et gnomes, voisine de Tharse ; les gnomes y étant nombreux, une cité souterraine entière y est parfaitement logique.)*
 - **Endeuilleurs** = stats de **bandits / voleurs à la tire** (cf. `Bestiaire`), à doser.
 
 # Scène 3 : La Fourchette *(la révélation utile)*
