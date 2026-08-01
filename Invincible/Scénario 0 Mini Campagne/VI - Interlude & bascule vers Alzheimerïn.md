@@ -7,8 +7,8 @@ Les paiements d'arcs se jouent au château (cf. `L'épuration de Raven'Ill/Acte 
 **C'est ici qu'on laisse respirer la lumière**, pour que la mort de Mamert reste une note et pas une chape :
 
 - **Lykëa** délimite sa **Zone Protégée de l'Altwald** et y installe la **cockatrice et le worg** — les premiers habitants. Baudoin peut passer, ou envoyer un corbeau. Le clan recommence à vivre, en miniature.
-- **Anya** *(la nouvelle PJ)* trouve sa place : elle a perdu sa patrouille, elle a désormais un nouveau « groupe » à protéger — ça répond pile à son serment (*ne plus jamais laisser tomber un compagnon*). Laisse-lui des petits moments de garde, de veille, de camaraderie bourrue.
-- **Samaëlle** : la porte ouverte d'Aymar la travaille en silence. Possible première confidence à Lykëa ou à Anya.
+- **Anya** *(la garde qui les a escortés)* **reprend son poste à Mascombe** et redevient un PNJ — garde de la baronnie. Elle **ne suit pas** les PJ au-delà du repos (réutilisable plus tard comme figure connue si besoin). *(C'était un perso « one-shot » ; le groupe qui poursuit = les trois : Haisse, Lykëa, Sam.)*
+- **Samaëlle** : la porte ouverte d'Aymar la travaille en silence. Possible première confidence à Lykëa.
 - **Haisse** porte un **double deuil** : Tolnek mort il y a deux ans, Mamert mort maintenant — ses deux figures paternelles. C'est barde officiel, mais orphelin. Et une vieille question le ronge toujours : *qu'est-il vraiment arrivé à Tolnek ?*
 
 # 2. Ce qui tire chaque PJ *(des fils, pas des rails)*
@@ -22,7 +22,6 @@ Tu ne contrôles pas leurs envies — voici seulement les pentes naturelles. Lai
 
   Ce n'est pas une laisse, c'est un **cap spirituel** : où qu'aille le barde, son instinct lui dit de le suivre. Pratique pour recoller le groupe sans forcer.
 - **Samaëlle — inconnue.** Laisse-la totalement libre : suivre le lien étrange qui se noue avec le groupe, tirer son propre fil (le médaillon d'Iselte de Marchaut, si elle l'a pris), ou juste rester. Aucune importance pour la suite (voir §3).
-- **Anya — liée.** Son devoir l'attache aux PJ ; elle suit où ils vont.
 
 # 3. La bascule vers Alzheimerïn — **le principe clé**
 
@@ -49,7 +48,6 @@ Quelques accroches par PJ pour le premier acte :
 - **Samaëlle** — l'amnésie lui **retire son trauma** : pas de bandits, pas de meurtre accidentel, pas d'armure de pierre. Elle est plus douce, presque une autre. Cadeau pour la joueuse (cf. fiche `Samaëlle Vaël'Rhys`).
 - **Haisse** — l'ironie amère : il était venu **comprendre** la perte de mémoire de son maître ; le voilà qui la **vit**.
 - **Lykëa** — son gardien-rêve pourrait être le **seul fil** qui résiste (à voir selon ta méca de perte de niveaux/souvenirs). Le bâton (Arn) frémit.
-- **Anya** — comme tout le monde, perdue. Bonne nouvelle pour la débutante : **tout le monde repart de zéro**, personne n'a d'avance sur la fiction.
 
 À partir de là, tu déroules **Alzheimerïn tel que tu l'as prévu** : la perte progressive de niveaux/souvenirs acte après acte (régression jusqu'au niveau 1, cf. fiche `Samaëlle`), puis Clairjonc et **les Survivants du Cercle de l'Eau Noire** — 2 druides + 1 worg — pour l'arc de Lykëa (cf. fiche `Lykëa`). Et, au bout du fil, le sas vers *Invincible* (l'invocation ratée de Clovik).
 
