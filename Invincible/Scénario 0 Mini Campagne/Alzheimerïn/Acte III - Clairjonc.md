@@ -2,15 +2,15 @@
 
 # Scène 1 : Le réveil chez les gnomes
 
-> <font style="color:yellow">Une taverne. Des chopines devant vous, à moitié vides — visiblement pas les premières, à voir votre tête vaseuse. Et un constat glaçant : vous avez **encore oublié**, et **encore rétréci** en puissance. Vous avez aussi l'étrange impression d'avoir **grandi**, de faire presque deux fois votre taille — jusqu'à ce que vos esprits s'éclaircissent : tout ici est **petit**. Les tables, les portes, les chopes. Vous êtes dans une **taverne gnome**, sous terre. Seul Gaezin est à la bonne échelle.</font>
+> <font style="color:yellow">Une taverne. Des chopines devant vous, à moitié vides — visiblement pas les premières, à voir votre tête vaseuse. Et un constat glaçant : vous avez encore oublié, et encore rétréci en puissance. Vous avez aussi l'étrange impression d'avoir grandi, de faire presque deux fois votre taille — jusqu'à ce que vos esprits s'éclaircissent : tout ici est petit. Les tables, les portes, les chopes. Vous êtes dans une taverne gnome, visiblement sous terre. Seul Gaezin est à la bonne échelle.</font>
 
 Ils sont **niveau 3**. Interrogé, Gaezin explique :
 
-> <font style="color:orange">"Après le moulin, la bestiole vous a filé entre les doigts. Vous vous êtes dit : et si le salut était du côté des gnomes ? On dirait qu'on résiste à sa magie, nous autres. Alors vous m'avez demandé de vous mener voir les sages de mon peuple, ici, à **Clairjonc**."</font>
+> <font style="color:orange">"Après le moulin, la bestiole nous a filé entre les doigts. Vous vous êtes dit : et si le salut était du côté des gnomes ? Après tout, je résiste à la magie de la Sinither. Alors vous m'avez demandé de vous mener voir les sages de mon peuple, ici, à Clairjonc."</font>
 
 Puis il ajoute, l'air grave :
 
-> <font style="color:orange">"Les premières pistes ont confirmé pire que ça : ce serait un **vieux mage gnome** qui aurait créé le monstre, avant de l'envoyer ravager les terres humaines. Méfiez-vous — il a des yeux et des oreilles partout, et il sait maintenant qu'on le cherche."</font>
+> <font style="color:orange">"Les premières pistes ont confirmé pire que ça : ce serait un vieux mage gnome qui aurait créé le monstre, avant de l'envoyer ravager les terres humaines. Méfiez-vous — il a des yeux et des oreilles partout, et il sait maintenant qu'on le cherche."</font>
 
 **C'est un mensonge.** En réalité, Gaezin **détourne** les PJ pour régler ses comptes avec son ancienne bande, les **Endeuilleurs**, et leur chef, **Ningel dit « la Fourchette »**, qui l'ont jadis contraint à l'exil.
 
@@ -18,8 +18,8 @@ Puis il ajoute, l'air grave :
 
 Occasion d'une **mini-enquête urbaine** improvisée dans les milieux interlopes de Clairjonc. Pendant que Gaezin remonte la piste de ses anciens comparses (pour trouver leurs quartiers secrets), les **Endeuilleurs** cherchent à **capturer** Gaezin et ses complices humains. Joue le double mouvement — les PJ traquent et sont traqués.
 
-- Ambiance : cité basse, ruelles étroites, échelles, ponts, receleurs, gnomes méfiants. *(Clairjonc est une **cité gnome souterraine d'[[Eiren]]** — la province forestière des halfelins et gnomes, voisine de Tharse ; les gnomes y étant nombreux, une cité souterraine entière y est parfaitement logique.)*
-- **Endeuilleurs** = stats de **bandits / voleurs à la tire** (cf. `Bestiaire`), à doser.
+- Ambiance : cité basse, ruelles étroites, échelles, ponts, receleurs, gnomes méfiants. *(Clairjonc est une **cité gnome souterraine d'Eiren** — la province forestière des halfelins et gnomes, voisine de Tharse ; les gnomes y étant nombreux, une cité souterraine entière y est parfaitement logique.)*
+- **Endeuilleurs** = stats de **bandits / voleurs à la tire**, à doser.
 
 # Scène 3 : La Fourchette *(la révélation utile)*
 
