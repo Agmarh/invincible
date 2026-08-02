@@ -16,7 +16,7 @@ Que les PJ sentent l'**attraction** par le lien psychique, ou qu'un **nouveau fo
 
 # Scène 2 : La sinither
 
-> <font style="color:yellow">Vous parvenez au lieu de vos anciens exploits. L'air y est épais, chargé. Des **volutes** flottent, denses, presque solides — trop de souvenirs volés, une créature qui n'arrive plus à rester immatérielle. Elle vous a attendus. Elle vous **veut**.</font>
+> <font style="color:yellow">Vous parvenez au lieu de vos anciens exploits. L'air y est épais, chargé. Des volutes flottent, denses, presque solides — des souvenirs volés, une créature qui n'arrive plus à rester immatérielle. Elle vous a attendus. Elle vous veut.</font>
 
 **Rappel** *(cf. `00 - Principe`)* : la sinither **ne se combat pas à coups d'épée** tant qu'elle reste immatérielle. **Deux leviers** pour la rendre vulnérable :
 
@@ -25,13 +25,13 @@ Que les PJ sentent l'**attraction** par le lien psychique, ou qu'un **nouveau fo
 
 Combine les deux : sous immunité, les PJ **provoquent/forcent** sa matérialisation (en lui offrant ou en lui refusant un flot de mémoire, en la poussant à trop se gaver), puis la **frappent** quand elle se condense. Un **affrontement psychique et physique** mêlé — improvise selon l'ingéniosité de la table, ce n'est pas un statblock classique.
 
-> <font style="color:yellow">Quand elle meurt, c'est dans une **déflagration psychique**. L'espace d'un instant, vos consciences se mêlent à la sienne agonisante — et un **maelström de souvenirs qui ne sont pas les vôtres** vous submerge. Des décennies de vies volées à des inconnus. Des passions, des crimes, des secrets qui n'auraient jamais dû être vus. Trop. Beaucoup trop.</font>
+> <font style="color:yellow">Quand elle meurt, c'est dans une déflagration psychique. L'espace d'un instant, vos consciences se mêlent à la sienne agonisante — et un maelström de souvenirs qui ne sont pas les vôtres vous submerge. Des décennies de vies volées à des inconnus. Des passions, des crimes, des secrets qui n'auraient jamais dû être vus. Trop. Beaucoup trop.</font>
 
 # Dénouement
 
-> <font style="color:yellow">Vous reprenez conscience sur une route, Mascombe s'éloignant derrière vous. Vos capacités sont dépensées, vous êtes blessés, il ne vous reste que quelques souffles — mais vos **niveaux sont revenus** tels qu'à votre tout premier réveil. **Niveau 5.** Et, surprise, **Gaezin est là**, qui raconte comme s'il ne vous avait jamais quittés…</font>
+> <font style="color:yellow">Vous reprenez conscience sur une route, Mascombe s'éloignant derrière vous. Vos capacités sont dépensées, vous êtes blessés, il ne vous reste que quelques souffles — mais vous voilà revenus à votre plein potentiel, tel qu'à votre tout premier réveil. Niveau 5. Et, surprise, Gaezin est là, il raconte comme s'il ne vous avait jamais quittés…</font>
 
-> <font style="color:orange">"Vous l'avez eue. Au terme d'un combat titanesque, la bestiole a explosé — pfff, en poussière de mémoire. Juste avant, vous avez vu… des choses. Vous m'avez fait **jurer** de ne jamais vous raconter ce que vous aviez vu et ressenti là-dedans. Alors je me tais. Vous l'avez voulu."</font>
+> <font style="color:orange">"Vous l'avez eue. Au terme d'un combat titanesque, la bestiole a explosé — pfff, en poussière de mémoire. Juste avant, vous avez vu… des choses, trop de choses. Vous m'avez fait jurer de ne jamais vous raconter ce que vous aviez vu et ressenti là-dedans. Alors je me tais. Vous l'avez voulu."</font>
 
 **À trancher selon la suite que tu veux** : la sinither est-elle *vraiment* morte ? Ont-ils récupéré **tous** leurs souvenirs, ou seulement les leurs ? Existe-t-il d'autres **larves** qui grossissent en silence ? *(Autant de graines à garder sous le coude.)*
 
