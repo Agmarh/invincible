@@ -2,7 +2,7 @@
 
 # Scène 1 : Le réveil dans les ruines
 
-> <font style="color:yellow">Le froid d'une pierre humide contre ta joue. Une lumière grise, sans source. Ta tête cogne comme un tambour et tu sens un filet de sang tiède couler de ton nez. Ton arme est encore serrée dans ta main. Tout autour, les traces d'un combat tout récent — poussière retombée, éclats frais, silence de fin de bagarre. Tu es dans les ruines d'un vieux temple aux statues grignotées par le temps. Et surtout : tu ne sais **pas** où tu es. Ni **comment** tu es arrivé ici. À côté de toi, d'autres corps remuent — des visages que tu crois connaître, aussi perdus que toi.</font>
+> <font style="color:yellow">Le froid d'une pierre humide contre ta joue. Une lumière grise, sans source. Ta tête cogne comme un tambour et tu sens un filet de sang tiède couler de ton nez. Ton arme est encore serrée dans ta main. Tout autour, les traces d'un combat tout récent — poussière retombée, éclats frais, silence de fin de bagarre. Tu es dans les ruines d'un vieux temple aux statues grignotées par le temps. Et surtout : tu ne sais pas où tu es. Ni comment tu es arrivé ici. À côté de toi, d'autres corps remuent — des visages que tu crois connaître, aussi perdus que toi.</font>
 
 Les PJ sont à **10 % de leurs PV**, tous leurs sorts et capacités **dépensés**. Ils se réveillent **niveau 5** — mais avec des signes que « quelque chose s'est passé » :
 
