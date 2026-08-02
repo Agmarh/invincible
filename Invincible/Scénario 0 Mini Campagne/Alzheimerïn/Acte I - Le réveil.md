@@ -1,5 +1,3 @@
-*Niveau 5. Le réveil amnésique, la sortie des ruines, la rencontre des autres victimes, et Gaezin. On enchaîne directement sur le fondu au noir de l'interlude (`VI - Interlude & bascule`).*
-
 # Scène 1 : Le réveil dans les ruines
 
 > <font style="color:yellow">Le froid d'une pierre humide contre ta joue. Une lumière grise, sans source. Ta tête cogne comme un tambour et tu sens un filet de sang tiède couler de ton nez. Ton arme est encore serrée dans ta main. Tout autour, les traces d'un combat tout récent — poussière retombée, éclats frais, silence de fin de bagarre. Tu es dans les ruines d'un vieux temple aux statues grignotées par le temps. Et surtout : tu ne sais pas où tu es. Ni comment tu es arrivé ici. À côté de toi, d'autres corps remuent — des visages que tu crois connaître, aussi perdus que toi.</font>
@@ -10,7 +8,7 @@ Les PJ sont à **10 % de leurs PV**, tous leurs sorts et capacités **dépensés
 - De **nouvelles cicatrices**, une barbe plus longue, quelques cheveux gris.
 - Des notes/sorts qu'ils ne se rappellent pas avoir appris.
 
-**Pour chaque PJ**, glisse une accroche personnelle *(cf. `00 - Principe`)* :
+**Pour chaque PJ**, glisse une accroche personnelle :
 - **Haisse** : l'HAR'MOT'NIKA est là, mais il ne se souvient plus du dernier air qu'il jouait. Un vide à la place d'un souvenir tendre.
 - **Lykëa** : le **bâton (Arn)** est **froid**, les yeux de l'ourson ternis — *sens de la souillure*. Et, seul fil qui tient dans le brouillard, la voix de son gardien-rêve, très loin : *« …reste… »*
 - **Samaëlle** : étrangement **légère**. Pas de poids sur la poitrine, pas de pierre. Elle ne sait plus pourquoi elle serrait les poings dans son sommeil. Elle est **plus douce** qu'elle ne l'a jamais été.
