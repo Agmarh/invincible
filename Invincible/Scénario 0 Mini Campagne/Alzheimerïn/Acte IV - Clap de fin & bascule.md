@@ -6,7 +6,7 @@ La sinither, **fascinée** par les PJ, est devenue **accro** à leurs mémoires 
 
 Que les PJ sentent l'**attraction** par le lien psychique, ou qu'un **nouveau fondu au noir** les y dépose *(dernière perte : les voilà **niveau 1**, presque vidés)* :
 
-> <font style="color:yellow">Vous reconnaissez la route sans savoir d'où. Puis le bourg, au loin — et un pincement plus fort que tous les autres, comme si chaque pierre vous appelait par votre nom. Vous avez le sentiment d'être **chez vous**. Mais quelque chose ne va pas : le lieu est trop calme, l'air trop épais…</font>
+> <font style="color:yellow">Vous reconnaissez la route sans savoir d'où. Puis le bourg, au loin — et un pincement plus fort que tous les autres, comme si chaque pierre vous appelait par votre nom. Vous avez le sentiment d'être chez vous. Mais quelque chose ne va pas : le lieu est trop calme, l'air trop épais…</font>
 
 **À toi d'extrapoler** l'état de Mascombe : le bourg semble **figé**, comme si le temps s'y était arrêté sous l'emprise de la créature qui s'y gave. Les habitants qu'ils connaissaient les **reconnaissent** parfois — et l'amnésie fait qu'ils ne comprennent pas pourquoi ces visages familiers leur serrent le cœur sans qu'ils puissent mettre un nom dessus. Ce décalage — être chez soi sans se souvenir de son chez-soi — est le sel de la scène.
 
