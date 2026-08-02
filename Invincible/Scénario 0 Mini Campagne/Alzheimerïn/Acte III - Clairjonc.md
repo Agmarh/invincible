@@ -28,13 +28,13 @@ Le jeu se termine dans les **quartiers privés de Ningel** — que les PJ y fass
 **Ce que la Fourchette a compris** : en cherchant où Gaezin avait fui, il a découvert l'existence de la sinither et **l'immunité** de Gaezin. Il a chargé ses deux mages de percer ce secret — et ils ont produit une **plante herbacée** dont les feuilles procureraient une **immunité temporaire** au pouvoir de la sinither *(reste à tester)*.
 
 - La Fourchette se fait **tirer l'oreille** par principe, mais finit par **donner la plante** aux PJ — curieux d'en voir l'effet, et n'ayant rien à perdre. **C'est l'arme du climax** : sans elle, la sinither continuerait de les vider.
-- **Le double jeu de Gaezin est démasqué.** Acculé, il tente de monter les gnomes contre les PJ (*« ils sont contrôlés par la sinither ! »*) — probablement sans succès. **S'ils ne le règlent pas eux-mêmes**, ses anciens acolytes l'emmènent subir le châtiment des transfuges. *(À toi de défendre ce PNJ si tu veux qu'il survive pour le dénouement.)*
+- **Le double jeu de Gaezin est démasqué.** Acculé, il tente de monter les gnomes contre les PJ (*« ils sont contrôlés par la sinither ! »*) — probablement sans succès. **S'ils ne le règlent pas eux-mêmes**, ses anciens acolytes l'emmènent subir le châtiment des transfuges.
 
 # Scène 4 : Les Survivants du Cercle de l'Eau Noire *(arc de Lykëa — le sommet)*
 
-**À placer pendant le temps passé à Clairjonc** — idéalement dans un moment de creux, entre deux ruelles. *(Détail complet dans la fiche `Lykëa`, section « Clairjonc — les Survivants ».)*
+**À placer pendant le temps passé à Clairjonc** — idéalement dans un moment de creux, entre deux ruelles.
 
-> <font style="color:yellow">Dans les ruelles basses, un **vieux gnome** s'arrête net en te croisant. Il fixe tes yeux, ton cou. Il hésite, puis, à voix basse, comme on prononce un secret : *« Toi… tu viens de l'**Eau Noire** ? »*</font>
+> <font style="color:yellow">Dans les ruelles basses, un vieux gnome s'arrête net en te croisant. Il fixe tes yeux, ton cou. Il hésite, puis, à voix basse, comme on prononce un secret : « Toi… tu viens de l'Eau Noire ? »</font>
 
 Il l'entraîne derrière une fausse cloison, dans une cave. Là :
 
