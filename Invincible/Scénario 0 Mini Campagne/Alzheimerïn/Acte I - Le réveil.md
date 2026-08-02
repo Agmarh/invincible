@@ -17,7 +17,7 @@ Les PJ sont à **10 % de leurs PV**, tous leurs sorts et capacités **dépensés
 
 La prudence pousse à rebrousser chemin — et c'est facile : **serrures crochetées, portes défoncées, pièges désamorcés, cadavres de monstres** (bien plus coriaces que ce qu'ils pourraient affronter à leur niveau) balisent le chemin vers l'air libre. **Quelqu'un** est passé par là avant eux. **Eux.**
 
-> <font style="color:yellow">Vous débouchez dehors. Le jour tombe sur une clairière. L'air sent la mousse et la pierre froide. Vous respirez — puis vous vous figez : vous ne vous souvenez pas non plus d'être **entrés**.</font>
+> <font style="color:yellow">Vous débouchez dehors. Le jour tombe sur une clairière. L'air sent la mousse et la pierre froide. Vous respirez — puis vous vous figez : vous ne vous souvenez pas non plus d'être entrés ici.</font>
 
 # Scène 2 : Les autres
 
