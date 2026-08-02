@@ -43,7 +43,7 @@ Il pose des **questions personnelles** (« d'où venez-vous, qui étaient vos pa
 
 **Sauf que l'amnésie des PJ n'est pas celle des Jaseranais** : ils se souviennent très bien de l'avoir vu vingt minutes plus tôt.
 
-> <font style="color:green">S'ils le coincent (Perspicacité / Intimidation / bon RP), il **crache le morceau** :</font> le culte de l'Indulgence, la sinither mangeuse de mémoire, les ruines. C'est le fil de départ de l'enquête.
+> <font style="color:green">S'ils le coincent (Perspicacité / Intimidation / bon RP), il crache le morceau :</font> le culte de l'Indulgence, la sinither mangeuse de mémoire, les ruines. C'est le fil de départ de l'enquête.
 
 **Note arc Haisse** : quand Gaezin dit *« la créature de Jaseran, celle qui bouffe les souvenirs »*, quelque chose se serre dans la poitrine du barde. **Jaseran.** Le nom que Maman Aldée avait prononcé pour Yelka. Le dernier voyage de Tolnek. Il sait, sans savoir encore : *c'est ça qui a vidé son maître.* Ne pas appuyer — laisser le joueur faire le lien.
 
