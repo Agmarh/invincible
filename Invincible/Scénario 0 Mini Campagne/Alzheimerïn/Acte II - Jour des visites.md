@@ -23,15 +23,16 @@ Le combat calmé (avant que les PJ ne soient tentés d'étrangler le gnome), **G
 
 La sinither s'est réfugiée, pour **accélérer sa mue**, dans un **hospice pour vieux aventuriers** : le **moulin d'Andé**, où d'anciens héros coulent leurs vieux jours. Un garde-manger idéal — des décennies de souvenirs de quêtes et de donjons à déguster.
 
-**Note arc Lykëa** : Arn reste **froid** dans sa main — plus ils s'approchent de la sinither, plus l'ourson se ternit. Et la voix du gardien, une syllabe de plus : *« …suis… »* (le cap tient malgré l'amnésie).
+**Note arc Lykëa** : Arn reste **froid** dans sa main — plus ils s'approchent de la sinither, plus l'ourson se ternit. Et la voix du gardien, une syllabe de plus : *« …suis…Gaezin »* (le cap tient malgré l'amnésie).
 
 # Scène 3 : Le moulin d'Andé
 
 Trois jours plus loin *(ou un simple raccord, à ta main)*, le moulin.
 
-> <font style="color:yellow">Un vieux moulin transformé en hospice, encombré de trophées, d'armes émoussées, de tapisseries mangées aux mites. À l'intérieur, une douzaine de vieillards — mais dans leurs yeux, autre chose : ils ne se voient pas vieux. La sinither les a ramenés **des décennies en arrière**, au mythique **siège de la ville par la horde du khan Amejan**. Et à l'époque, tout le monde ne combattait pas du même côté.</font>
+> <font style="color:yellow">Un vieux moulin transformé en hospice, encombré de trophées, d'armes émoussées, de tapisseries mangées aux mites. À l'intérieur, une douzaine de vieillards — mais dans leurs yeux, autre chose : ils ne se voient pas vieux. La sinither semble les avoir ramenés des décennies en arrière, au mythique siège de la ville par la horde du khan Amejan. Et à l'époque, tout le monde ne combattait pas du même côté.</font>
+> <font style="color:yellow">Votre irruption ne les arrête pas — elle les convainc que les renforts ennemis arrivent.</font>  
 
-Votre irruption ne les arrête pas — elle les **convainc que les renforts ennemis arrivent**. C'est le moment d'un **combat délirant** et attendrissant : des vieux héros arthritiques qui rejouent leur heure de gloire à coups de mobilier, de matériel de soin, de reliques qu'ils refusent de lâcher, un barbare véloce dans son **fauteuil roulant** armé de haches, un archer parkinsonien trop sûr de lui, une guerrière décatie persuadée de son pouvoir de fascination…
+C'est le moment d'un **combat délirant** et attendrissant : des vieux héros arthritiques qui rejouent leur heure de gloire à coups de mobilier, de matériel de soin, de reliques qu'ils refusent de lâcher, un barbare véloce dans son **fauteuil roulant** armé de haches, un archer parkinsonien trop sûr de lui, une guerrière décatie persuadée de son pouvoir de fascination…
 
 - **But** : pas de les tuer (ce sont des innocents séniles), mais de **traverser** jusqu'au réfectoire. Joue-le tragi-comique — de la tendresse sous le grotesque. *(Écho possible pour Sam, plus douce en ce moment : voir ces vieux perdus, ça la touche.)*
 - **Micro-événement** conseillé ici : **le vieux compagnon** (un pensionnaire se jette dans les bras d'un PJ en évoquant des exploits communs qui n'ont jamais eu lieu).
