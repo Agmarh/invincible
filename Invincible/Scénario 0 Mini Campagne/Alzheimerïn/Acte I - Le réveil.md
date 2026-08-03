@@ -4,7 +4,7 @@
 
 Les PJ sont à **10 % de leurs PV**, tous leurs sorts et capacités **dépensés**. Ils se réveillent **niveau 5** — mais avec des signes que « quelque chose s'est passé » :
 
-- Leur **équipement** est meilleur que ce qu'ils devraient porter (récompenses des semaines effacées).
+- Leur **équipement** est meilleur que ce qu'ils devraient porter (récompenses des semaines effacées) : [[Huile d'âffutage]] pour Sam et 2 [[Potion de soins supérieurs]]
 - De **nouvelles cicatrices**, une barbe plus longue, quelques cheveux gris.
 - Des notes/sorts qu'ils ne se rappellent pas avoir appris.
 

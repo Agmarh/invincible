@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Invincible/Scénario 0 Mini Campagne/Alzheimerïn/Acte II - Jour des visites.md",
+                "file": "Invincible/Scénario 0 Mini Campagne/Alzheimerïn/Acte I - Le réveil.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -54,7 +54,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Acte II - Jour des visites"
+              "title": "Acte I - Le réveil"
+            }
+          },
+          {
+            "id": "5199f37457749e37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Invincible/Objets Magiques/Potion de soins supérieurs.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Potion de soins supérieurs"
             }
           }
         ],
@@ -268,9 +292,15 @@
   },
   "active": "3ea7cb7360728b94",
   "lastOpenFiles": [
-    "Invincible/Scénario 0 Mini Campagne/Alzheimerïn/Acte I - Le réveil.md",
-    "Invincible/Scénario 0 Mini Campagne/L'épuration de Raven'Ill/Acte III - Retour & transition.md",
+    "Invincible/Scénario 0 Mini Campagne/L'épuration de Raven'Ill/Acte I - Un bien sombre horizon.md",
+    "Invincible/Objets Magiques/Huile d'âffutage.md",
     "Invincible/Scénario 0 Mini Campagne/Récapitulatif.md",
+    "Invincible/Objets Magiques/Potion de soins supérieurs.md",
+    "Invincible/Objets Magiques/Potion de soin.md",
+    "Invincible/Objets Magiques/Potion de sève vitale.md",
+    "Invincible/Scénario 0 Mini Campagne/Alzheimerïn/Acte I - Le réveil.md",
+    "Invincible/Scénario 0 Mini Campagne/Alzheimerïn/Acte II - Jour des visites.md",
+    "Invincible/Scénario 0 Mini Campagne/L'épuration de Raven'Ill/Acte III - Retour & transition.md",
     "Invincible/Scénario 0 Mini Campagne/Alzheimerïn/00 - Principe & bac à sable.md",
     "Invincible/Scénario 0 Mini Campagne/VI - Interlude & bascule vers Alzheimerïn.md",
     "Annexe/Bestiaire/Les Endeuilleurs.md",
@@ -288,7 +318,6 @@
     "Invincible/Scénario 0 Mini Campagne/Alzheimerïn/Acte IV - Clap de fin & bascule.md",
     "Invincible/Scénario 0 Mini Campagne/Alzheimerïn/Acte III - Clairjonc.md",
     "Eiren.md",
-    "Invincible/Scénario 0 Mini Campagne/Alzheimerïn/Acte II - Jour des visites.md",
     "Invincible/Scénario 0 Mini Campagne/Alzheimerïn/00 - Principe & bac à sable.md.tmp.25873.e7718874bb30",
     "Invincible/Scénario 0 Mini Campagne/Alzheimerïn/00 - Principe & bac à sable.md.tmp.25873.80fae3b5ce12",
     "Invincible/Scénario 0 Mini Campagne/Alzheimerïn/Acte IV - Clap de fin & bascule.md.tmp.25873.8e28afe78ed1",
@@ -299,11 +328,6 @@
     "Invincible/Scénario 0 Mini Campagne/Alzheimerïn/Acte II - Jour des visites.md.tmp.25354.50abb1d98fba",
     "Invincible/Scénario 0 Mini Campagne/Alzheimerïn/Acte I - Le réveil.md.tmp.25354.b41864f8149d",
     "Invincible/Scénario 0 Mini Campagne/Alzheimerïn/00 - Principe & bac à sable.md.tmp.25354.e3dc47cd8081",
-    "Annexe/Mémo Meneuse - RNP (5e-DRS).md",
-    "Invincible/Scénario 0 Mini Campagne/L'épuration de Raven'Ill/Acte II - Un assaut frontal.md",
-    "Invincible/Objets Magiques/Bâton du Gardien.md",
-    "Annexe/Sortilèges/Niveau 3/Jeter une malédiction.md",
-    "Annexe/Sortilèges/Niveau 2/Image miroir.md",
     "Invincible/Images/image.png"
   ]
 }
