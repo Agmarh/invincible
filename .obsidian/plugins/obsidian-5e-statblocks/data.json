@@ -5892,6 +5892,262 @@
         "source": "Homebrew",
         "layout": "Basic 5e Layout"
       }
+    ],
+    [
+      "Gaezin, Barde Gnome",
+      {
+        "image": "<STATBLOCK-WIKI-LINK>monstre.png<STATBLOCK-WIKI-LINK>",
+        "name": "Gaezin, Barde Gnome",
+        "size": "P",
+        "type": "Humanoïde",
+        "subtype": "Gnome des roches",
+        "alignment": "Neutre Mauvais",
+        "ac": "13 (armure de cuir clouté)",
+        "hp": 21,
+        "hit_dice": "3d8",
+        "speed": "9 m",
+        "stats": [
+          11,
+          13,
+          12,
+          11,
+          12,
+          16
+        ],
+        "skillsaves": [
+          {
+            "Discrétion": 3
+          },
+          {
+            "Dressage": 3
+          },
+          {
+            "Escamotage": 3
+          },
+          {
+            "Médecine": 3
+          },
+          {
+            "Perception": "+5 (expertise)"
+          },
+          {
+            "Persuasion": 5
+          },
+          {
+            "Représentation": 5
+          },
+          {
+            "Supercherie": "+7 (expertise)"
+          }
+        ],
+        "senses": "vision dans le noir, Perception passive 15",
+        "languages": "commun, gnomme",
+        "cr": 1,
+        "spells": [
+          "Gaezin est un lanceur de sorts de niveau 3. Sa caractéristique d'incantation est le Charisme (jet de sauvegarde DD 13, +5 au toucher à l'attaque de sort).",
+          {
+            "Tours de magie": "<STATBLOCK-WIKI-LINK>Main du mage<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Prestidigitation<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Rayon de givre<STATBLOCK-WIKI-LINK>"
+          },
+          {
+            "1er niveau (4 emplacements)": "<STATBLOCK-WIKI-LINK>Communication avec les animaux<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Image silencieuse<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Instrument fantomatique<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Serviteur invisible<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Vague tonnante<STATBLOCK-WIKI-LINK>"
+          },
+          {
+            "2e niveau (2 emplacements)": "<STATBLOCK-WIKI-LINK>Stalagmites fulgurantes<STATBLOCK-WIKI-LINK>"
+          }
+        ],
+        "traits": [
+          {
+            "name": "Aptitudes de barde",
+            "desc": "Inspiration bardique, touche-à-tout, chant de réconfort, collège du savoir, expertise"
+          }
+        ],
+        "actions": [
+          {
+            "name": "Rapière",
+            "desc": "Attaque d'arme au corps à corps : +3 pour toucher, allonge 1,50 m, une cible. Touché : 1d8 + 1 (5) dégâts perforants."
+          },
+          {
+            "name": "Arc court",
+            "desc": "Attaque d'arme à distance : +3 pour toucher, portée 24-96 m, une cible. Touché : 4 (1d6 + 1) dégâts perforants."
+          }
+        ],
+        "treasure": [
+          {
+            "name": "Richesses",
+            "desc": "145 po, anneau d'électrum valant 150 po."
+          },
+          {
+            "name": "Objets magiques",
+            "desc": "<STATBLOCK-WIKI-LINK>Cape elfique<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Potion d'invisibilité<STATBLOCK-WIKI-LINK>"
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "Moines Psilencieux",
+      {
+        "image": "<STATBLOCK-WIKI-LINK>monstre.png<STATBLOCK-WIKI-LINK>",
+        "name": "Moines Psilencieux",
+        "size": "M",
+        "type": "Humanoïde",
+        "subtype": "Humain",
+        "alignment": "Neutre Mauvais",
+        "ac": 15,
+        "hp": "17z",
+        "hit_dice": "2d8+4",
+        "speed": "12 m",
+        "stats": [
+          15,
+          17,
+          14,
+          13,
+          15,
+          7
+        ],
+        "skillsaves": [
+          {
+            "Acrobatie": 5
+          },
+          {
+            "Athlétisme": 3
+          },
+          {
+            "Religion": 3
+          },
+          {
+            "Discrétion": 3
+          },
+          {
+            "Perspicacité": 4
+          }
+        ],
+        "senses": "Perception passive 12",
+        "languages": "commun, gnomme, halfelin, profond",
+        "cr": "1/2",
+        "actions": [
+          {
+            "name": "Attaques à mains nues",
+            "desc": "Attaque au corps à corps : +5 au toucher, allonge 1,50 m, une cible. Touché : 6 (1d4 + 3) dégâts contondants."
+          },
+          {
+            "name": "Lance",
+            "desc": "Attaque au corps à corps : +4 au toucher, allonge 1,50 m, une cible. Touché : 5 (1d6 + 2) dégâts perforants ou Attaque à distance : +5 au toucher, portée 6-18 m, une cible. Touché : 6 (1d6 + 3) dégâts perforants."
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "Expendables",
+      {
+        "image": "<STATBLOCK-WIKI-LINK>monstre.png<STATBLOCK-WIKI-LINK>",
+        "name": "Expendables",
+        "size": "M",
+        "type": "Humanoïde",
+        "subtype": "Humain",
+        "alignment": [
+          null
+        ],
+        "ac": 16,
+        "hp": 32,
+        "hit_dice": "5d8+10",
+        "speed": "9 m",
+        "stats": [
+          15,
+          11,
+          14,
+          10,
+          10,
+          11
+        ],
+        "skillsaves": [
+          {
+            "Intimidation": 2
+          }
+        ],
+        "senses": "Perception passive 10",
+        "languages": "commun",
+        "cr": 1,
+        "traits": [
+          {
+            "name": "Luyula",
+            "desc": "une Red Sonja (comprendre guerrière humaine) décatie persuadée que ses seins flasques n'ont rien perdu de leur pouvoir de fascination."
+          },
+          {
+            "name": "Sire Cloald",
+            "desc": "paladin arthritique et gloire locale oubliée, jadis responsable de l'entretien et de la défense des murailles de la ville."
+          },
+          {
+            "name": "Silvere",
+            "desc": "rôdeur demi-elfe, apparemment préservé du vieillissement naturel par son patrimoine génétique, mais véritable malade d'Alzheimer et par conséquent seule personne épargnée par la sinither."
+          },
+          {
+            "name": "Jarl Osdung",
+            "desc": "barbare humain, ancien bras droit du khan Amejan, terriblement véloce dans son fauteuil roulant auquel il a fixé ses armes d'hast."
+          },
+          {
+            "name": "Borin",
+            "desc": "ranger humain, autrefois archer d'exception, exagérément confiant dans ses talents malgré un Parkinson très avancé."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Attaques multiples",
+            "desc": "Le PNJ effectue deux attaques au corps à corps."
+          },
+          {
+            "name": "Epée longue",
+            "desc": "Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une créature. Touché : 6 (1d8 + 2) dégâts tranchants."
+          },
+          {
+            "name": "Arbalète lourde",
+            "desc": "Attaque d'arme à distance : +2 pour toucher, portée 30-120 m, une cible. Touché : 5 (1d10) dégâts perforants."
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "Les Endeuilleurs",
+      {
+        "image": "<STATBLOCK-WIKI-LINK>monstre.png<STATBLOCK-WIKI-LINK>",
+        "name": "Les Endeuilleurs",
+        "size": "P",
+        "type": "Humanoïde",
+        "subtype": "Gnome",
+        "alignment": "Neutre Mauvais",
+        "ac": 12,
+        "hp": 11,
+        "hit_dice": "2d8+2",
+        "speed": "7,5 m",
+        "stats": [
+          11,
+          12,
+          12,
+          10,
+          10,
+          10
+        ],
+        "senses": "Perception passive 10",
+        "languages": "commun, gnome",
+        "cr": "1/8",
+        "actions": [
+          {
+            "name": "Arbalète légère",
+            "desc": "Attaque d'arme à distance : +3 pour toucher, portée 24/96 m, une cible. Touché : 5 (1d8+1) dégâts perforants."
+          },
+          {
+            "name": "Cimeterre",
+            "desc": "Attaque d'arme au corps à corps : +3 pour toucher, allonge 1,50 m, une créature. Touché : 4 (1d6 + 1) dégâts tranchants."
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
     ]
   ],
   "defaultLayouts": {

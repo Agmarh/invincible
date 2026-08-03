@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Invincible/Scénario 0 Mini Campagne/Alzheimerïn/Acte IV - Clap de fin & bascule.md",
+                "file": "Annexe/Bestiaire/Les Endeuilleurs.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -54,11 +54,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Acte IV - Clap de fin & bascule"
+              "title": "Les Endeuilleurs"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -247,7 +246,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 516.5
+    "width": 516.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -266,8 +266,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3ea7cb7360728b94",
+  "active": "fba545b276a0a770",
   "lastOpenFiles": [
+    "Annexe/Bestiaire/Les Endeuilleurs.md",
+    "Annexe/Bestiaire/Expendables.md",
+    "Annexe/Bestiaire/Moines Psilencieux.md",
+    "Annexe/Bestiaire/Gaezin, Barde Gnome.md",
+    "Invincible/Objets Magiques/Potion d'invisibilité.md",
+    "Invincible/Objets Magiques/Cape elfique.md",
+    "Annexe/Bestiaire/Gwendlynn.md",
+    "Annexe/Bestiaire/Dominia.md",
+    "Annexe/Bestiaire/Chelios.md",
+    "Annexe/Bestiaire/Chelios 1.md",
+    "Annexe/Bestiaire/Cadmar.md",
+    "Annexe/Bestiaire/Artus.md",
+    "Invincible/Scénario 0 Mini Campagne/Alzheimerïn/Acte IV - Clap de fin & bascule.md",
     "Invincible/Scénario 0 Mini Campagne/Alzheimerïn/Acte III - Clairjonc.md",
     "Eiren.md",
     "Invincible/Scénario 0 Mini Campagne/Alzheimerïn/Acte II - Jour des visites.md",
@@ -279,7 +292,6 @@
     "Invincible/Scénario 0 Mini Campagne/Alzheimerïn/Acte IV - Clap de fin & bascule.md.tmp.25873.8e28afe78ed1",
     "Invincible/Scénario 0 Mini Campagne/Alzheimerïn/Acte IV - Clap de fin & bascule.md.tmp.25873.5480ab7117f3",
     "Invincible/Scénario 0 Mini Campagne/Alzheimerïn/Acte IV - Clap de fin & bascule.md.tmp.25873.b23a43cc9ab8",
-    "Invincible/Scénario 0 Mini Campagne/Alzheimerïn/Acte IV - Clap de fin & bascule.md",
     "Invincible/Scénario 0 Mini Campagne/Alzheimerïn/Acte IV - Clap de fin & bascule.md.tmp.25354.81a37bfcc518",
     "Invincible/Scénario 0 Mini Campagne/Alzheimerïn/Acte III - Clairjonc.md.tmp.25354.47bd2e27330f",
     "Invincible/Scénario 0 Mini Campagne/Alzheimerïn/Acte II - Jour des visites.md.tmp.25354.50abb1d98fba",
@@ -292,18 +304,6 @@
     "Invincible/Objets Magiques/Bâton du Gardien.md",
     "Annexe/Sortilèges/Niveau 3/Jeter une malédiction.md",
     "Annexe/Sortilèges/Niveau 2/Image miroir.md",
-    "Invincible/Scénario 0 Mini Campagne/L'épuration de Raven'Ill/Acte I - Un bien sombre horizon.md",
-    "Invincible/Scénario 0 Mini Campagne/Cabane de Huon.md",
-    "Invincible/Scénario 0 Mini Campagne/La bête humaine/IV - Bête Humaine.md",
-    "Annexe/Bestiaire/Roc'Taron.md",
-    "Annexe/Règles optionnelles.md",
-    "Annexe/Bestiaire/Ours Monstrueux.md",
-    "Invincible/Scénario 0 Mini Campagne/La bête humaine/III - Mascombe.md",
-    "Invincible/Scénario 0 Mini Campagne/La bête humaine/II - Route de Felsenhof.md",
-    "Invincible/Objets Magiques/Heaume de télépathie.md",
-    "Annexe/Bestiaire/Ours brun de l'Altwald.md",
-    "Annexe/Bestiaire/Ours Brun.md",
-    "Annexe/Bestiaire/Ours polaire.md",
     "Invincible/Images/image.png"
   ]
 }
