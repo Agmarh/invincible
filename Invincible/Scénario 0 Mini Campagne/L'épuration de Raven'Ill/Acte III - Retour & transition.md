@@ -96,4 +96,3 @@ Après Felsenhof, les PJ regagnent leur **cabane de chasse à la lisière de Mas
 - **Lykëa** délimite enfin sa **Zone Protégée de l'Altwald** et y installe la cockatrice et le worg — les **premiers habitants** de la réserve. Baudoin l'ermite peut lui rendre visite, ou lui envoyer un corbeau. Le clan de l'Eau Noire, si peu qu'il en reste, recommence à vivre.
 - **Samaëlle**, si la table s'y prête, peut avoir sa **première vraie confidence** — à Lykëa le plus naturellement, une sœur d'armes. Un morceau de son passé, pas tout. Une fissure de plus dans la pierre.
 - **Haisse** peut faire venir un visage de sa **troupe des Sept Échos** de passage dans la région, ou simplement jouer un soir à l'auberge du Loup Gris, désormais barde patenté.
-- **Si Mamert est vivant (A)**, les PJ peuvent lui rendre visite pendant sa convalescence.
