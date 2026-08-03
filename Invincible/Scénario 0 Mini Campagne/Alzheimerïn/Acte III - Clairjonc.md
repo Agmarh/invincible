@@ -34,18 +34,18 @@ Le jeu se termine dans les **quartiers privés de Ningel** — que les PJ y fass
 
 Laisse-les ferrailler. Gaezin **noie le poisson** — il a toujours *« eu l'intention de revenir »*, la caisse a été *« volée sur la route »*, ce n'était *« pas si simple »*. Ningel ne s'énerve pas : il savoure. Il **connaît** son homme par cœur.
 
-> <font style="color:orange">"Garde ta salive, tu vas en avoir besoin. Tu crois que je t'ai pas vu venir ? Un ancien du métier qui débarque à Clairjonc avec trois humains hébétés dans les pattes… Tu leur as raconté quoi, cette fois ? Un vieux mage gnome qui veut leur peau ?"</font>
+> <font style="color:orange">"Garde ta salive, tu vas en avoir besoin. Tu crois que je t'ai pas vu venir ? Un ancien du métier qui débarque à Clairjonc avec trois bizareries dans les pattes… Tu leur as raconté quoi, cette fois ? Un vieux mage gnome qui veut leur peau ?"</font>
 > <font style="color:yellow">Il se tourne enfin vers vous, la fourchette pointée comme un index.</font>
-> <font style="color:orange">"Il vous a menés ici pour vous *guérir* ? Menteur. Il vous a menés ici pour **moi**. Pour solder ses vieilles ardoises pendant que vous lui serviez de gros bras. C'est ça, Gaezin, le grand cœur ?"</font>
+> <font style="color:orange">"Il vous a menés ici pour vous guérir ? Menteur. Il vous a menés ici pour moi. Pour solder ses vieilles ardoises pendant que vous lui serviez de gros bras. C'est ça, Gaezin, le grand cœur ?"</font>
 
-> <font style="color:green">Le PJ qui veut jauger qui dit vrai : jet de **Perspicacité**. En cas de réussite, Gaezin **transpire** — la Fourchette a mis dans le mille. En cas d'échec, il tient son masque… un temps.</font>
+> <font style="color:green">Le PJ qui veut jauger qui dit vrai : jet de Perspicacité. En cas de réussite, Gaezin transpire — la Fourchette a mis dans le mille. En cas d'échec, il tient son masque… un temps.</font>
 
 **Comment Gaezin se débat** *(à doser selon ta table)* :
 - Il **retourne l'accusation** : *« Il ment ! C'est lui qui vous veut du mal — regardez ses mages ! »*
 - Il **appelle à la pitié** : *« J'ai fait tout ça pour vous, moi, je vous ai portés pendant des semaines ! »* — et il n'a pas *entièrement* tort, ce qui rend le moment savoureux.
 - Si les PJ le coincent, il lâche un aveu penaud : oui, il avait *deux* raisons de monter à Clairjonc, et la sienne comptait un peu plus que la leur.
 
-> <font style="color:orange">"Bon. Assez ri." *(Ningel repose sa fourchette.)* "Tu m'as fait un cadeau sans le savoir, vieux filou. En te cherchant, j'ai trouvé mieux que toi : ta petite **bestiole de Jaseran**, et pourquoi elle glisse sur toi comme l'eau sur les plumes. Ça, ça vaut de l'or."</font>
+> <font style="color:orange">"Bon. Assez ri." (Ningel repose sa fourchette.) "Tu m'as fait un cadeau sans le savoir, vieux filou. En te cherchant, j'ai trouvé mieux que toi : ta petite bestiole de Jaseran, et pourquoi elle glisse sur toi comme l'eau sur les plumes. Ça, ça vaut de l'or."</font>
 
 *(Enchaîne sur la plante — c'est ce que Ningel a tiré de l'immunité de Gaezin.)*
 
