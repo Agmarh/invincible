@@ -32,8 +32,33 @@
               "icon": "lucide-file",
               "title": "Récapitulatif"
             }
+          },
+          {
+            "id": "5a33b80b2aa608e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Invincible/Scénario 0 Mini Campagne/Introduction.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Introduction"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -241,9 +266,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4f2e89843baa22c8",
+  "active": "5a33b80b2aa608e9",
   "lastOpenFiles": [
-    "Invincible/Scénario 1",
+    "Invincible/Scénario 0 Mini Campagne/Récapitulatif.md",
+    "Invincible/Scénario 0 Mini Campagne/Introduction.md",
+    "Invincible/Scénario 1 Ombre et Lumière",
     "Annexe/Bestiaire/Les Endeuilleurs Ningel.md",
     "Annexe/Bestiaire/Apprenti mage.md",
     "Annexe/Bestiaire/Apprenti mage.md.tmp.5534.b60c936fde8f",
@@ -254,7 +281,6 @@
     "Invincible/Scénario 0 Mini Campagne/Alzheimerïn/Acte I - Le réveil.md",
     "Invincible/Scénario 0 Mini Campagne/L'épuration de Raven'Ill/Acte I - Un bien sombre horizon.md",
     "Invincible/Objets Magiques/Huile d'âffutage.md",
-    "Invincible/Scénario 0 Mini Campagne/Récapitulatif.md",
     "Invincible/Objets Magiques/Potion de soins supérieurs.md",
     "Invincible/Objets Magiques/Potion de soin.md",
     "Invincible/Objets Magiques/Potion de sève vitale.md",
@@ -278,7 +304,6 @@
     "Invincible/Scénario 0 Mini Campagne/Alzheimerïn/Acte IV - Clap de fin & bascule.md.tmp.25873.b23a43cc9ab8",
     "Invincible/Scénario 0 Mini Campagne/Alzheimerïn/Acte IV - Clap de fin & bascule.md.tmp.25354.81a37bfcc518",
     "Invincible/Scénario 0 Mini Campagne/Alzheimerïn/Acte III - Clairjonc.md.tmp.25354.47bd2e27330f",
-    "Invincible/Scénario 0 Mini Campagne/Alzheimerïn/Acte II - Jour des visites.md.tmp.25354.50abb1d98fba",
     "Invincible/Images/image.png"
   ]
 }
