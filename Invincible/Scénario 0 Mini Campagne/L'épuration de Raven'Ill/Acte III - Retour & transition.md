@@ -16,7 +16,7 @@ C'est un moment à laisser respirer. Pas de jet, pas d'enjeu — juste la certit
 
 # Scène 2 : Felsenhof a changé
 
-> <font style="color:yellow">Le château de Felsenhof se dresse enfin sur sa butte, dans la lumière grise de fin d'après-midi. Mais quelque chose a changé depuis votre départ. Sur les remparts flotte une bannière qui n'y était pas — le blason plein du baron, et non plus le simple fanion de l'intendance. La garnison est plus fournie. Aux portes, les gardes se tiennent droit. Un mot circule dans la cour avant même qu'on vous ait annoncés : le baron Aymar von Felsenhof est rentré de la guerre.</font>
+> <font style="color:yellow">Le château de Felsenhof se dresse enfin sur sa butte, dans la lumière grise de fin d'après-midi. Mais quelque chose a changé depuis votre départ. Sur les remparts flotte une bannière qui n'y était pas — le blason complet du baron, et non plus le simple fanion de l'intendance. La garnison est plus fournie. Aux portes, les gardes se tiennent droit. Un mot circule sur la place avant même qu'on vous ait annoncés : le baron Aymar von Felsenhof est rentré de la guerre.</font>
 
 ## Note MJ — le sort de Mamert
 
@@ -24,7 +24,7 @@ Mamert est mort. Emporté durant votre absence. Sa chambre est vide, ses affaire
 
 ## L'audience
 
-> <font style="color:yellow">On vous fait entrer dans la grande salle voûtée, là même où Mamert vous avait confié la traque de Mascombe. Mais aujourd'hui la salle est pleine : des serviteurs, quelques nobles du voisinage, la garnison au complet. Et sur le siège du seigneur, un homme que vous n'aviez jamais vu, sauf Haisse Per Luette. La quarantaine sèche, le visage tanné par les camps, une cicatrice pâle qui court sur l'avant-bras. Il vous observe entrer sans un mot. A la droite du baron, un siège reste vide à sa droite, drapé de noir, c'est le siège de l'intendant.</font>
+> <font style="color:yellow">On vous escorte jusqu'au château. On vous fait entrer dans la grande salle voûtée, là salle où Mamert vous avait confié la traque de Mascombe. Mais aujourd'hui la salle est pleine : des serviteurs, quelques nobles du voisinage, la garnison au complet. Et sur le siège du seigneur, un homme que vous n'aviez jamais vu, sauf Haisse Per Luette. La quarantaine sèche, le visage tanné, une cicatrice pâle qui court sur l'avant-bras. Il vous observe entrer sans un mot. A la droite du baron, un siège reste vide, drapé de noir, c'est le siège de l'intendant.</font>
 
 # Scène 3 : Le rapport
 
