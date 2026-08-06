@@ -68,7 +68,7 @@ Après que la cour s'est dispersée, Aymar propose à la druide un entretien seu
 
 > <font style="color:orange">"Sire, j'ai gardé ceci des années. Je l'ai arraché à l'un des hommes qui ont tué les miens. Je n'ai jamais su lire ce qui est brodé dessus. Vous, peut-être ?"</font>
 > <font style="color:yellow">Aymar déplie le tissu. Il blêmit d'un coup.</font>
-> <font style="color:orange">"C'est le blason des Drachenfels. Un dragon couché, sang sur noir. Aldric von Drachenfels. J'ai chassé avec lui, dans ma jeunesse. Ce n'est pas possible…"</font>
+> <font style="color:orange">"C'est le blason des Drachenfels. Aldric von Drachenfels. J'ai chassé avec lui, dans ma jeunesse. Ce n'est pas possible…"</font>
 
 Silence. Aymar pose le tissu, regarde par la fenêtre, puis se retourne.
 
