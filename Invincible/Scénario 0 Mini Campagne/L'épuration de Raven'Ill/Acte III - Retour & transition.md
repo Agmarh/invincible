@@ -58,7 +58,7 @@ Aymar fait alors porter devant la druide un parchemin scellé et deux objets env
 
 > <font style="color:orange">"J'ai été cet homme qui chassait les créatures pour la gloire. J'en ai tué pour le sport, j'en ai fait empailler pour décorer mes murs. Je ne le suis plus."</font>
 > <font style="color:yellow">Il fait dérouler le lin. Une peau de worg. Une cockatrice empaillée. De vieux trophées de sa jeunesse.</font>
-> <font style="color:orange">"Je vous les rends. Non parce qu'ils vous appartenaient, mais parce que vous saurez qu'en faire mieux que moi. Et je confirme, par écrit et par ma parole, le pacte que Mamert a scellé avec vous. La Zone Protégée de l'Altwald existe à compter d'aujourd'hui. J'en repousserai les limites si vous me le demandez. Cette forêt est autant la vôtre que la mienne. Veillez-y."</font>
+> <font style="color:orange">"Je vous les rends. Parce que vous saurez leur rendre hommage et leur donner leurs derniers rites comme il se doit. Et je confirme, par écrit et par ma parole, le pacte que Mamert a scellé avec vous. La Zone Protégée de l'Altwald existe à compter d'aujourd'hui. J'en repousserai les limites si vous me le demandez. Cette forêt est autant la vôtre que la mienne. Veillez-y."</font>
 
 Le titre de **Gardienne des Terres Sauvages de l'Altwald** est confirmé sous l'autorité du baron. À Lykëa de disposer des trophées comme elle l'entend — les enterrer dignement dans la réserve, les brûler, les garder en mémoire.
 
