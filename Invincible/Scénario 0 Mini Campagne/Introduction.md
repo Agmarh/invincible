@@ -1,18 +1,5 @@
->Alors que vous êtes en train de vous adonner à
-vos activités habituelles (insérer éventuellement de
-quoi il s'agit) vous entendez soudain un éternue-
-ment bruyant. Gras, chargé, sonore. Vous tournez
-la tête de part et d'autre afin d'en percevoir la pro-
-venance, sans succès.
-En revanche, vous saisissez un chuchotement lointain,
-sans en comprendre le sens ni en déterminer la direc-
-tion. Mais à peine avez-vous le temps de vous interroger
-sur l'étrange phénomène qu'un second éternuement re-
-tentit, encore plus fort que le précédent.
-À présent, clairement sur vos gardes, prêt à faire face
-au danger, vous sentez que vos narines commencent
-à vous piquer. Vous éternuez à votre tour violem-
-ment ! Les paroles se font plus insistantes, vous dis-
+>Alors que vous êtes en train de vous adonner à vos activités habituelles vous entendez soudain un éternuement bruyant. Gras, chargé, sonore. Vous tournez la tête de part et d'autre afin d'en percevoir la provenance, sans succès. En revanche, vous saisissez un chuchotement lointain, sans en comprendre le sens ni en déterminer la direction. Mais à peine avez-vous le temps de vous interroger sur l'étrange phénomène qu'un second éternuement retentit, encore plus fort que le précédent.
+>À présent, clairement sur vos gardes, prêt à faire face au danger, vous sentez que vos narines commencent à vous piquer. Vous éternuez à votre tour violemment ! Les paroles se font plus insistantes, vous dis-
 tinguez trois mots « Clatu Verata Nictu » (pronon-
 cer les u par le son ‘ou'), mais vous réalisez que vous êtes le seul à l'entendre et que ces mots résonnent en
 réalité dans votre tête.
