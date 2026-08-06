@@ -39,12 +39,12 @@ Puis son regard s'arrête sur le **barde**. Un long silence s'installe dans la s
 # Scène 4 : Le clown et le héros *(arc de Haisse Per Luette)*
 
 > <font style="color:yellow">Aymar plisse les yeux. Il te dévisage longuement, et tu vois l'instant précis où il te reconnaît. Un an et demi plus tôt. Cette place. Cette même cour, riant aux éclats.</font>
-> <font style="color:orange">"C'est toi, n'est-ce pas ? Le bouffon qui m'a peint avec un nez en chou-fleur devant toute ma cour. Qui a fait rire jusqu'à mon propre intendant."</font>
+> <font style="color:orange">"C'est toi, n'est-ce pas ? Le bouffon qui a su faire rire toute ma cour, en me dégradant. Qui a fait rire jusqu'à mon propre intendant."</font>
 
 Laisser le joueur réagir — Aymar encaisse la réplique, quelle qu'elle soit, sans broncher. Puis :
 
 > <font style="color:orange">"J'ai vu mourir mille hommes de valeur. J'ai vu des lâches tenir des positions intenables. La satire d'un saltimbanque n'occupe plus vraiment mes nuits, figure-toi."</font>
-> <font style="color:orange">"Mais je n'ai pas oublié. Et je ne veux pas que tu oublies non plus. Alors voilà ce que je te propose. Tu deviens mon barde. Le barde de la baronnie de Felsenhof. Tu chanteras ce que tu veux, mais tu le chanteras en mon nom, sous ma protection, sur toutes mes terres. Moque-moi encore, et c'est toi qu'on moquera. Mais chante nos victoires, et je serai ton épée."</font>
+> <font style="color:orange">"Mais je n'ai pas oublié, je ne veux pas que tu oublies non plus et tu as rendu service à ma barronnie. Alors voilà ce que je te propose. Tu deviens mon barde. Le barde de la baronnie de Felsenhof. Tu chanteras ce que tu veux, mais tu le chanteras, sous ma protection, sur toutes mes terres. Moque-moi encore, et c'est toi qu'on moquera. Mais chante nos victoires, et je serai ton épée."</font>
 
 **La cérémonie.** Le PJ accepte (presque à coup sûr). Aymar lui pose la main sur l'épaule, trois témoins signent un parchemin. Haisse Per Luette devient officiellement **barde de la baronnie de Felsenhof**.
 
