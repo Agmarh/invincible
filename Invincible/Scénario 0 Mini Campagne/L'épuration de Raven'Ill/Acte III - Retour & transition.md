@@ -73,7 +73,7 @@ Après que la cour s'est dispersée, Aymar propose à la druide un entretien seu
 Silence. Aymar pose le tissu, regarde par la fenêtre, puis se retourne.
 
 > <font style="color:orange">"Aldric est vivant. Il vit dans son domaine, à l'est de Wissenheim, avec son cabinet de curiosités et ses chasses."</font>
-> <font style="color:orange">"Vous voulez qu'il paie. Je le vois. Mais vous ne pouvez pas l'attaquer — on vous exécuterait pour meurtre avant la fin de votre plaidoirie. Moi, je peux. Pendant que vous serez ailleurs — et vous serez ailleurs, je le sens. Je réunirai des preuves, des témoignages, et je porterai le dossier devant le Conseil provincial de Tharse. Le baron de Felsenhof, héros de guerre, accusateur : ils m'écouteront. Aldric perdra ses titres, ses terres, sa liberté — sans qu'une goutte de sang ne soit versée. C'est la seule justice qui tienne. Vous l'acceptez ?"</font>
+> <font style="color:orange">"Vous voulez qu'il paie. Je le vois. Mais vous ne pouvez pas l'attaquer — on vous exécuterait pour meurtre avant la fin de votre plaidoirie. Moi, je peux. Pendant que vous serez ailleurs — et vous serez ailleurs, je le sens. Je réunirai des preuves, des témoignages, des survivants, et je porterai le dossier devant le Conseil provincial de Tharse. Le baron de Felsenhof, héros de guerre, accusateur : ils m'écouteront. Aldric perdra ses titres, ses terres, sa liberté — sans qu'une goutte de sang ne soit versée. C'est la seule justice qui tienne. Vous l'acceptez ?"</font>
 
 À laisser au joueur. S'il accepte, Aymar s'engage formellement : il conservera la preuve, mènera l'enquête pendant l'absence de la druide, et **le verdict tombera plus tard**, en toile de fond.
 
