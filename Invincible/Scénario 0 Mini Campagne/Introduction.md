@@ -1,12 +1,6 @@
 >Alors que vous êtes en train de vous adonner à vos activités habituelles vous entendez soudain un éternuement bruyant. Gras, chargé, sonore. Vous tournez la tête de part et d'autre afin d'en percevoir la provenance, sans succès. En revanche, vous saisissez un chuchotement lointain, sans en comprendre le sens ni en déterminer la direction. Mais à peine avez-vous le temps de vous interroger sur l'étrange phénomène qu'un second éternuement retentit, encore plus fort que le précédent.
->À présent, clairement sur vos gardes, prêt à faire face au danger, vous sentez que vos narines commencent à vous piquer. Vous éternuez à votre tour violemment ! Les paroles se font plus insistantes, vous dis-
-tinguez trois mots « Clatu Verata Nictu » (pronon-
-cer les u par le son ‘ou'), mais vous réalisez que vous êtes le seul à l'entendre et que ces mots résonnent en
-réalité dans votre tête.
-Vous êtes pris d'une crise violente d'éternuements
-et de vertiges. Devant vos yeux, la réalité se tord et
-ondule pendant qu'un son aigu déchire vos oreilles.
-La terrible mélopée continue « Clatu Verata Nictu,
+>À présent, clairement sur vos gardes, prêt à faire face au danger, vous sentez que vos narines commencent à vous piquer. Vous éternuez à votre tour violemment ! Les paroles se font plus insistantes, vous distinguez trois mots « Clatu Verata Nictu », mais vous réalisez que vous êtes le seul à l'entendre et que ces mots résonnent en réalité dans votre tête.
+>Vous êtes pris d'une crise violente d'éternuements et de vertiges. Devant vos yeux, la réalité se tord et ondule pendant qu'un son aigu déchire vos oreilles. La terrible mélopée continue « Clatu Verata Nictu,
 Clatu Verata Nictu ! » et les gens autour de vous
 vous regardent bizarrement puis sombrent carré-
 ment dans la panique la plus pure Laissez le temps à vos joueurs de réagir, deman-
