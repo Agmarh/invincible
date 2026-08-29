@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Invincible/Royaume de Cobis.md",
+                "file": "Invincible/Scénario 1 Ombre et Lumière/I - Sauver Clovik.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -54,7 +54,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Royaume de Cobis"
+              "title": "I - Sauver Clovik"
             }
           }
         ],
@@ -268,6 +268,10 @@
   },
   "active": "9e61a35f1e9cc01b",
   "lastOpenFiles": [
+    "Invincible/Scénario 1 Ombre et Lumière/Introduction.md",
+    "Invincible/Scénario 1 Ombre et Lumière/I - Sauver Clovik.md",
+    "Invincible/Royaume de Cobis.md",
+    "Template/Monstre.md",
     "Invincible/Images/Cobis.jpg",
     "Invincible/Images/Cobis.md",
     "Invincible/Images/image-1.png",
@@ -279,8 +283,6 @@
     "Invincible/Images/GetImage.png",
     "Invincible/Images/Hector.jpg",
     "Invincible/Images/image.png",
-    "Invincible/Royaume de Cobis.md",
-    "Invincible/Scénario 1 Ombre et Lumière/Introduction.md",
     "Eiren.md",
     "Invincible/Scénario 0 Mini Campagne/Alzheimerïn/Acte IV - Clap de fin & bascule.md",
     "Invincible/Scénario 1 Ombre et Lumière",
@@ -306,7 +308,6 @@
     "Invincible/Objets Magiques/Potion de sève vitale.md",
     "Invincible/Scénario 0 Mini Campagne/VI - Interlude & bascule vers Alzheimerïn.md",
     "Annexe/Bestiaire/Les Endeuilleurs.md",
-    "Annexe/Bestiaire/Expendables.md",
     "Invincible/Scénario 0 Mini Campagne/Alzheimerïn/00 - Principe & bac à sable.md.tmp.25873.e7718874bb30",
     "Invincible/Scénario 0 Mini Campagne/Alzheimerïn/00 - Principe & bac à sable.md.tmp.25873.80fae3b5ce12",
     "Invincible/Scénario 0 Mini Campagne/Alzheimerïn/Acte IV - Clap de fin & bascule.md.tmp.25873.8e28afe78ed1",
