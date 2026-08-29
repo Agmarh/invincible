@@ -37,28 +37,15 @@
             "id": "9e61a35f1e9cc01b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Invincible/Scénario 1 Ombre et Lumière/I - Sauver Clovik.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "Invincible/Images/Scénario 1/sauver_Clovik.jpg"
               },
-              "icon": "lucide-file",
-              "title": "I - Sauver Clovik"
+              "icon": "lucide-image",
+              "title": "sauver_Clovik"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -266,23 +253,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9e61a35f1e9cc01b",
+  "active": "fba545b276a0a770",
   "lastOpenFiles": [
-    "Invincible/Scénario 1 Ombre et Lumière/Introduction.md",
+    "Invincible/Images/Scénario 1/sauver_Clovik.jpg",
+    "Invincible/Images/Scénario 1/trone_noirbois.jpg",
+    "Invincible/Images/Scénario 1/la maison_rebecca.jpg",
+    "Invincible/Images/Scénario 1/lac_nymphes.jpg",
+    "Invincible/Images/Scénario 1/marais.jpg",
+    "Invincible/Images/Scénario 1/noibois.jpg",
+    "Invincible/Images/Scénario 1/noirbois 2.jpg",
+    "Invincible/Images/Sans titre.md",
+    "Invincible/Images/Scénario 1",
+    "Invincible/Images/image.png",
+    "Invincible/Images/image-1.png",
     "Invincible/Scénario 1 Ombre et Lumière/I - Sauver Clovik.md",
+    "Invincible/Scénario 1 Ombre et Lumière/Introduction.md",
     "Invincible/Royaume de Cobis.md",
     "Template/Monstre.md",
-    "Invincible/Images/Cobis.jpg",
     "Invincible/Images/Cobis.md",
-    "Invincible/Images/image-1.png",
-    "Invincible/Images/Boutefeu.jpg",
-    "Invincible/Images/clovik.jpg",
-    "Invincible/Images/Draconis.jpg",
-    "Invincible/Images/epreuveFeu.png",
-    "Invincible/Images/epreuveNoir.png",
-    "Invincible/Images/GetImage.png",
-    "Invincible/Images/Hector.jpg",
-    "Invincible/Images/image.png",
     "Eiren.md",
     "Invincible/Scénario 0 Mini Campagne/Alzheimerïn/Acte IV - Clap de fin & bascule.md",
     "Invincible/Scénario 1 Ombre et Lumière",
@@ -306,13 +294,10 @@
     "Invincible/Objets Magiques/Potion de soins supérieurs.md",
     "Invincible/Objets Magiques/Potion de soin.md",
     "Invincible/Objets Magiques/Potion de sève vitale.md",
-    "Invincible/Scénario 0 Mini Campagne/VI - Interlude & bascule vers Alzheimerïn.md",
-    "Annexe/Bestiaire/Les Endeuilleurs.md",
     "Invincible/Scénario 0 Mini Campagne/Alzheimerïn/00 - Principe & bac à sable.md.tmp.25873.e7718874bb30",
     "Invincible/Scénario 0 Mini Campagne/Alzheimerïn/00 - Principe & bac à sable.md.tmp.25873.80fae3b5ce12",
     "Invincible/Scénario 0 Mini Campagne/Alzheimerïn/Acte IV - Clap de fin & bascule.md.tmp.25873.8e28afe78ed1",
     "Invincible/Scénario 0 Mini Campagne/Alzheimerïn/Acte IV - Clap de fin & bascule.md.tmp.25873.5480ab7117f3",
-    "Invincible/Scénario 0 Mini Campagne/Alzheimerïn/Acte IV - Clap de fin & bascule.md.tmp.25873.b23a43cc9ab8",
-    "Invincible/Scénario 0 Mini Campagne/Alzheimerïn/Acte IV - Clap de fin & bascule.md.tmp.25354.81a37bfcc518"
+    "Invincible/Scénario 0 Mini Campagne/Alzheimerïn/Acte IV - Clap de fin & bascule.md.tmp.25873.b23a43cc9ab8"
   ]
 }
