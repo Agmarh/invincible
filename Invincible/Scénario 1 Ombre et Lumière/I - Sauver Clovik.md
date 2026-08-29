@@ -4,10 +4,33 @@ La chute : chaque personnage tombe au pied d'une des statues, à l'intérieur du
 
 Description de l'îlot : 
 > <font style="color:yellow">En vous relevant, vous remarquez que vous vous situez sur une petite colline de pierre et de terre d'environ 50 mètres de diamètre. En pente douce, elle culmine à deux mètres au-dessus de la surface des eaux d'un marais. Au centre se trouve un autel de pierre qui semble très ancien, tout comme les statues.</font>
-> <font style="color:yellow">Vous remarquez qu'une bataille fait rage non loin de l'autel. Un jeune homme est recroquevillé au pied de celui-ci, une sorte de créature, de cadavre animé se jette sur le jeune homme tandis que 2 miliciens semblent aux prises avec 5 autres de ces créatures. Plus loin, au pied de l'îlot, vous voyez 2 humanoïdes immenses, mesurant environ 2m40 de haut et qui semblent faits de plaques d'os ou de pierre. Et encore plus loin, enfoncé dans le marais, </font>
+> <font style="color:yellow">Vous remarquez qu'une bataille fait rage non loin de l'autel. Un jeune homme est recroquevillé au pied de celui-ci, une sorte de créature, un cadavre animé se jette sur le jeune homme tandis que 2 miliciens semblent aux prises avec 5 autres de ces créatures. Plus loin, au pied de l'îlot, vous voyez 2 humanoïdes immenses, qui mesurent environ 2m40 de haut et qui semblent faits de plaques d'os ou de pierre, qui semblent beugler des ordres aux espèces de cadavres. Et encore plus loin, dans le marais, une sorte de lézard sur 2 pattes, avec une longue queue et habillé avec des vêtements en tissu observe la scène.</font>
 
 Si observation sur l'îlot :
 > <font style="color:yellow">Les statues sont très abîmées et on n'en distingue pas les détails. </font>
 > <font style="color:yellow">Au-delà de l'îlot c'est un marais, et dans cette zone, le déplacement est divisé par deux.</font>
 > <font style="color:yellow">Les colonnes, hautes de 4 mètres, semblent représenter des personnages humanoïdes, mais elles ont subi les ravages du temps et sont méconnaissables. Il semble de plus qu'une très grosse créature y ait laissé des traces profondes de griffes, l'une des statues (statue 3) est même tombée au sol et brisée en deux. </font>
+
+Créatures : [[Ecorché]] x6, [[Esclavagiste Troll de pierre]] x2, [[Oraxos]], [[Clovik]]
+- Règles à 3 joueurs : un esclavagiste est déjà mort.
+# Déroulement du combat
+Dès que les PJ interviennent, Oraxos envoie au combat les esclavagistes qui s'étaient jusque-là tenus à l'écart tandis que lui-même s'éloigne à distance raisonnable. 
+
+Lytochronox lui a remis un moyen de se débarrasser des héros si les choses tournent mal. Il s'agit d'un bien précieux et il n'est censé s'en servir qu'en dernier recours. Mais Oraxos est un lâche qui a très peur des héros invoqués par Clovik. Il s'en sert dès qu'il est manifeste que les esclavagistes perdent la partie, puis il prend la fuite. À ce moment-là, lisez ou paraphrasez le paragraphe suivant :
+> <font style="color:yellow">Celui qui semble être le chef des créatures observe la scène de loin depuis un moment, lançant quelques encouragements sans prendre part à la bataille. Toutefois, alors que le combat tourne à votre avantage, il se saisit d'une sorte de potion de bonne taille et l'ouvre en psalmodiant des paroles magiques. Il en sort un ectoplasme bleuté qui se matérialise en un globe suivi d'un long filament qui s'envole et se dirige vers le cercle de pierres.</font>
+
+Un <font style="color:green">test de Sagesse (Perception) DD15</font> permet de comprendre qu'il s'agit d'un œil énorme suivi du nerf optique. Au vu de la pupille verticale, il doit avoir appartenu à quelque énorme monstruosité. Il s'agit en fait de l'œil de Lytochronox.
+
+Si un personnage veut tirer dessus, il a un round pour le faire (CA 20), mais un champ de force invisible repousse l'attaque.
+
+> <font style="color:yellow">La chose se stabilise environ 30 mètres au-dessus de l'autel, au centre de la colline. Puis le globe explose en une sphère d'énergie scintillante qui s'agrandit à une vitesse folle, avale tous les alentours et disparaît au loin dans toutes les directions à la fois. La chose, qui a encore grossi et qui ressemble à un énorme œil, est à présent immobile et translucide dans le ciel au-dessus de vos têtes. L'étrange homme-reptile part d'un rire de dément :</font>
+> <font style="color:orange">"Vous allez mourir ici, prisonniers jusqu'à la fin des temps et tout au long de votre agonie, sachez que mon maître vous tient à l'œil ! La vengeance de Lytochronox le Puissant vient de se refermer sur vous…"</font>
+> <font style="color:yellow">Puis il prend la fuite.</font>
+
+Dès qu'il a pris la fuite, un <font style="color:green">test de Sagesse (Perception) DD15</font> réussi permet de remarquer qu'un corbeau décolle d'une des statues où il était perché et le suit de loin. 
+
+## Règle pour les sables mouvants : 
+Un personnage qui entre dans une zone de sables mouvants est brusquement stoppé. Il doit réussir un <font style="color:green">test de Sagesse (Perception) DD 20 (DD 10 s'il a annoncé être explicitement sur ses gardes à ce propos)</font> pour se rendre compte de son erreur assez tôt et ne pas s'enliser. 
+- En cas de réussite, il perd simplement 1 round puis doit rebrousser chemin.
+- En cas d'échec, il commence à s'enfoncer et ne peut sortir sans aide. Quelqu'un doit lui lancer une corde ou une grande branche depuis le bord. Au moins un des sauveteurs doit réussir un <font style="color:green">test de Force (Athlétisme) DD 10</font> au premier round, la difficulté augmentant de 2 points chaque round jusqu'à atteindre 20. Lorsque le DD est à 20, le personnage est submergé et subit <font style="color:red">1d6 dégâts contondants</font> à chaque round à la fin de son tour.
 
