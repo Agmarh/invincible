@@ -37,12 +37,24 @@
             "id": "9e61a35f1e9cc01b",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Invincible/Images/Boutefeu.jpg"
+                "file": "Invincible/Royaume de Cobis.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-image",
-              "title": "Boutefeu"
+              "icon": "lucide-file",
+              "title": "Royaume de Cobis"
             }
           }
         ],
@@ -254,11 +266,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4f2e89843baa22c8",
+  "active": "9e61a35f1e9cc01b",
   "lastOpenFiles": [
+    "Invincible/Images/Cobis.jpg",
+    "Invincible/Images/Cobis.md",
     "Invincible/Images/image-1.png",
     "Invincible/Images/Boutefeu.jpg",
-    "Invincible/Images/Cobis.md",
     "Invincible/Images/clovik.jpg",
     "Invincible/Images/Draconis.jpg",
     "Invincible/Images/epreuveFeu.png",
@@ -266,8 +279,6 @@
     "Invincible/Images/GetImage.png",
     "Invincible/Images/Hector.jpg",
     "Invincible/Images/image.png",
-    "Invincible/Images/Médaillon Oraxos.jpg",
-    "Invincible/Images/Mordante.jpg",
     "Invincible/Royaume de Cobis.md",
     "Invincible/Scénario 1 Ombre et Lumière/Introduction.md",
     "Eiren.md",
