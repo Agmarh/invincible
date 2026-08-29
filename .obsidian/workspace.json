@@ -44,8 +44,33 @@
               "icon": "lucide-image",
               "title": "sauver_Clovik"
             }
+          },
+          {
+            "id": "5725fb70c4376b6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Invincible/Scénario 1 Ombre et Lumière/I - Sauver Clovik.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "I - Sauver Clovik"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -253,8 +278,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fba545b276a0a770",
+  "active": "5725fb70c4376b6e",
   "lastOpenFiles": [
+    "Invincible/Scénario 1 Ombre et Lumière/Introduction.md",
+    "Invincible/Scénario 1 Ombre et Lumière/I - Sauver Clovik.md",
+    "Invincible/Temps.md",
+    "Invincible/Royaume de Cobis.md",
+    "Invincible/Scénario 0 Mini Campagne/Récapitulatif.md",
+    "Invincible/Scénario 0 Mini Campagne/L'épuration de Raven'Ill/Acte III - Retour & transition.md",
+    "Invincible/Scénario 0 Mini Campagne/Alzheimerïn/Acte IV - Clap de fin & bascule.md",
     "Invincible/Images/Scénario 1/sauver_Clovik.jpg",
     "Invincible/Images/Scénario 1/trone_noirbois.jpg",
     "Invincible/Images/Scénario 1/la maison_rebecca.jpg",
@@ -266,24 +298,18 @@
     "Invincible/Images/Scénario 1",
     "Invincible/Images/image.png",
     "Invincible/Images/image-1.png",
-    "Invincible/Scénario 1 Ombre et Lumière/I - Sauver Clovik.md",
-    "Invincible/Scénario 1 Ombre et Lumière/Introduction.md",
-    "Invincible/Royaume de Cobis.md",
     "Template/Monstre.md",
     "Invincible/Images/Cobis.md",
     "Eiren.md",
-    "Invincible/Scénario 0 Mini Campagne/Alzheimerïn/Acte IV - Clap de fin & bascule.md",
     "Invincible/Scénario 1 Ombre et Lumière",
     "Invincible/Scénario 0 Mini Campagne/Alzheimerïn/Acte III - Clairjonc.md",
     "Invincible/Scénario 0 Mini Campagne/Alzheimerïn/Acte II - Jour des visites.md",
     "Invincible/Scénario 0 Mini Campagne/Alzheimerïn/Acte I - Le réveil.md",
     "Invincible/Scénario 0 Mini Campagne/Alzheimerïn/00 - Principe & bac à sable.md",
-    "Invincible/Scénario 0 Mini Campagne/L'épuration de Raven'Ill/Acte III - Retour & transition.md",
     "Invincible/Scénario 0 Mini Campagne/La bête humaine/IV - Bête Humaine.md",
     "Invincible/Scénario 0 Mini Campagne/La bête humaine/III - Mascombe.md",
     "Invincible/Scénario 0 Mini Campagne/La bête humaine/II - Route de Felsenhof.md",
     "Invincible/Objets Magiques/Bâton du Gardien.md",
-    "Invincible/Scénario 0 Mini Campagne/Récapitulatif.md",
     "Invincible/Scénario 1 Ombre et Lumière",
     "Annexe/Bestiaire/Les Endeuilleurs Ningel.md",
     "Annexe/Bestiaire/Apprenti mage.md",

@@ -111,3 +111,11 @@ Temps total écoulé :
 |Attente de la garnison après Roc'Taron|3|
 |Retour en charrette → Mascombe|~4|
 |**Total**|**~13 jours** (≈ 2 semaines)|
+### Session 6
+Ils ont terminé Alzheimerïn haut la main en étant complètement perdus, ce qui est parfait.
+
+Le baron Aymar a promis à Lykea qu'il allait traduire l'assassin de son clan en justice, il a offert le statut officiel **Gardienne des Terres Sauvages de l'Altwald** . Aymar à offert à Haisse Per d'être le barde de la Baronnie, qu'il n'a pas encore accepté, et un laisser passé permanent à Sam.
+
+Ils sont retournés à leurs occupations dans Mascombre juste avant d'être emporté par le sort de Clovik.
+
+On commencera par le chapitre 1 du scénario 1 lors de la session 7.

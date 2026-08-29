@@ -1,0 +1,1 @@
+Lors de l'arrivé des PJs au royaume de Cobis, nous sommes au début de l'été, apparemment ça a son importance.
