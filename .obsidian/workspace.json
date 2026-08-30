@@ -75,7 +75,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Annexe/Bestiaire/Oraxos.md",
+                "file": "Invincible/Personnages/Clovik.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -90,7 +90,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Oraxos"
+              "title": "Clovik"
             }
           }
         ],
@@ -304,6 +304,7 @@
   },
   "active": "1114715c84740ad2",
   "lastOpenFiles": [
+    "Annexe/Bestiaire/Oraxos.md",
     "Annexe/Bestiaire/Orc.md",
     "Annexe/Bestiaire/Ombre.md",
     "Invincible/Personnages/Clovik.md",
@@ -344,7 +345,6 @@
     "Annexe/Bestiaire/Apprenti mage.md",
     "Annexe/Bestiaire/Apprenti mage.md.tmp.5534.b60c936fde8f",
     "Invincible/Scénario 0 Mini Campagne/Alzheimerïn/Acte III - Clairjonc.md.tmp.5116.7711f185c1f6",
-    "Invincible/Scénario 0 Mini Campagne/L'épuration de Raven'Ill/Acte I - Un bien sombre horizon.md",
     "Invincible/Scénario 0 Mini Campagne/Alzheimerïn/00 - Principe & bac à sable.md.tmp.25873.e7718874bb30",
     "Invincible/Scénario 0 Mini Campagne/Alzheimerïn/00 - Principe & bac à sable.md.tmp.25873.80fae3b5ce12",
     "Invincible/Scénario 0 Mini Campagne/Alzheimerïn/Acte IV - Clap de fin & bascule.md.tmp.25873.8e28afe78ed1",
