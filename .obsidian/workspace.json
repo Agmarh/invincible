@@ -68,9 +68,33 @@
               "icon": "lucide-file",
               "title": "I - Sauver Clovik"
             }
+          },
+          {
+            "id": "1114715c84740ad2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Annexe/Bestiaire/Ecorché.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Ecorché"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -278,11 +302,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5725fb70c4376b6e",
+  "active": "1114715c84740ad2",
   "lastOpenFiles": [
+    "Invincible/Scénario 1 Ombre et Lumière/I - Sauver Clovik.md",
     "Invincible/Personnages/Clovik.md",
     "Invincible/Personnages/Scénario 1",
-    "Invincible/Scénario 1 Ombre et Lumière/I - Sauver Clovik.md",
     "Invincible/Scénario 1 Ombre et Lumière/Introduction.md",
     "Invincible/Temps.md",
     "Invincible/Royaume de Cobis.md",
