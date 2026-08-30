@@ -75,7 +75,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Invincible/Personnages/Clovik.md",
+                "file": "Invincible/Objets Magiques/Bâton du Gardien.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -90,7 +90,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Clovik"
+              "title": "Bâton du Gardien"
             }
           }
         ],
@@ -304,10 +304,16 @@
   },
   "active": "1114715c84740ad2",
   "lastOpenFiles": [
+    "Invincible/Personnages/Clovik.md",
+    "Invincible/Objets Magiques/Bâton du Gardien.md",
+    "Invincible/Scénario 0 Mini Campagne/L'épuration de Raven'Ill/Acte III - Retour & transition.md",
+    "Invincible/Scénario 0 Mini Campagne/Alzheimerïn/00 - Principe & bac à sable.md",
+    "Invincible/Scénario 0 Mini Campagne/Alzheimerïn/Acte I - Le réveil.md",
+    "Invincible/Scénario 0 Mini Campagne/L'épuration de Raven'Ill/Acte I - Un bien sombre horizon.md",
+    "Invincible/Scénario 0 Mini Campagne/La bête humaine/IV - Bête Humaine.md",
     "Annexe/Bestiaire/Oraxos.md",
     "Annexe/Bestiaire/Orc.md",
     "Annexe/Bestiaire/Ombre.md",
-    "Invincible/Personnages/Clovik.md",
     "Annexe/Bestiaire/Ecorché.md",
     "Invincible/Scénario 1 Ombre et Lumière/I - Sauver Clovik.md",
     "Invincible/Personnages/Scénario 1",
@@ -315,7 +321,6 @@
     "Invincible/Temps.md",
     "Invincible/Royaume de Cobis.md",
     "Invincible/Scénario 0 Mini Campagne/Récapitulatif.md",
-    "Invincible/Scénario 0 Mini Campagne/L'épuration de Raven'Ill/Acte III - Retour & transition.md",
     "Invincible/Scénario 0 Mini Campagne/Alzheimerïn/Acte IV - Clap de fin & bascule.md",
     "Invincible/Images/Scénario 1/sauver_Clovik.jpg",
     "Invincible/Images/Scénario 1/trone_noirbois.jpg",
@@ -334,15 +339,10 @@
     "Invincible/Scénario 1 Ombre et Lumière",
     "Invincible/Scénario 0 Mini Campagne/Alzheimerïn/Acte III - Clairjonc.md",
     "Invincible/Scénario 0 Mini Campagne/Alzheimerïn/Acte II - Jour des visites.md",
-    "Invincible/Scénario 0 Mini Campagne/Alzheimerïn/Acte I - Le réveil.md",
-    "Invincible/Scénario 0 Mini Campagne/Alzheimerïn/00 - Principe & bac à sable.md",
-    "Invincible/Scénario 0 Mini Campagne/La bête humaine/IV - Bête Humaine.md",
     "Invincible/Scénario 0 Mini Campagne/La bête humaine/III - Mascombe.md",
     "Invincible/Scénario 0 Mini Campagne/La bête humaine/II - Route de Felsenhof.md",
-    "Invincible/Objets Magiques/Bâton du Gardien.md",
     "Invincible/Scénario 1 Ombre et Lumière",
     "Annexe/Bestiaire/Les Endeuilleurs Ningel.md",
-    "Annexe/Bestiaire/Apprenti mage.md",
     "Annexe/Bestiaire/Apprenti mage.md.tmp.5534.b60c936fde8f",
     "Invincible/Scénario 0 Mini Campagne/Alzheimerïn/Acte III - Clairjonc.md.tmp.5116.7711f185c1f6",
     "Invincible/Scénario 0 Mini Campagne/Alzheimerïn/00 - Principe & bac à sable.md.tmp.25873.e7718874bb30",
