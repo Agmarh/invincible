@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Invincible/Scénario 1 Ombre et Lumière/I - Sauver Clovik.md",
+                "file": "Invincible/Royaume de Cobis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -66,7 +66,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "I - Sauver Clovik"
+              "title": "Royaume de Cobis"
             }
           }
         ],
@@ -278,8 +278,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4f2e89843baa22c8",
+  "active": "5725fb70c4376b6e",
   "lastOpenFiles": [
+    "Invincible/Scénario 1 Ombre et Lumière/I - Sauver Clovik.md",
+    "Invincible/Images/image-2.png",
     "Invincible/Objets Magiques/Bâton du Gardien.md",
     "Invincible/Personnages/Clovik.md",
     "Invincible/Scénario 0 Mini Campagne/L'épuration de Raven'Ill/Acte III - Retour & transition.md",
@@ -291,7 +293,6 @@
     "Annexe/Bestiaire/Orc.md",
     "Annexe/Bestiaire/Ombre.md",
     "Annexe/Bestiaire/Ecorché.md",
-    "Invincible/Scénario 1 Ombre et Lumière/I - Sauver Clovik.md",
     "Invincible/Personnages/Scénario 1",
     "Invincible/Scénario 1 Ombre et Lumière/Introduction.md",
     "Invincible/Temps.md",
@@ -318,7 +319,6 @@
     "Invincible/Scénario 0 Mini Campagne/La bête humaine/III - Mascombe.md",
     "Invincible/Scénario 0 Mini Campagne/La bête humaine/II - Route de Felsenhof.md",
     "Invincible/Scénario 1 Ombre et Lumière",
-    "Annexe/Bestiaire/Les Endeuilleurs Ningel.md",
     "Annexe/Bestiaire/Apprenti mage.md.tmp.5534.b60c936fde8f",
     "Invincible/Scénario 0 Mini Campagne/Alzheimerïn/Acte III - Clairjonc.md.tmp.5116.7711f185c1f6",
     "Invincible/Scénario 0 Mini Campagne/Alzheimerïn/00 - Principe & bac à sable.md.tmp.25873.e7718874bb30",

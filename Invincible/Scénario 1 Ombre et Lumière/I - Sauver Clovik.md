@@ -13,6 +13,8 @@ Si observation sur l'îlot :
 
 Créatures : [[Ecorché]] x6, [[Esclavagiste Troll de pierre]] x2, [[Oraxos]], [[Clovik]]
 - Règles à 3 joueurs : un esclavagiste est déjà mort.
+
+![[image-2.png]]
 # Déroulement du combat
 Dès que les PJ interviennent, Oraxos envoie au combat les esclavagistes qui s'étaient jusque-là tenus à l'écart tandis que lui-même s'éloigne à distance raisonnable. 
 
@@ -48,3 +50,5 @@ Si les PJ lui annoncent qu'ils ne savent pas de quoi il parle, il s'effondre et 
 Si on l'interroge gentiment avec un <font style="color:green">test de Charisme (Persuasion) DD 5</font>, il peut expliquer qu'ils ont été invoqués au milieu d'une sorte de sanctuaire dédiés à des héros. Il devait ramener de puissants héros du passé qui avaient défait le dragon Lytochronox. Hélas, à cause de son éternuement, le rituel a raté et <font style="color:orange">"sans vouloir vous manquer de respect"</font>, ce ne sont pas les puissants héros de la prophétie qui ont été invoqués et <font style="color:orange">"nous sommes tous perdus !"</font>
 
 Après réflexion, il pense que le mieux est de les amener à son maître, le magicien Urbius au bourg de Paleseaux. Mais peut-être avant faut-il enterrer les cadavres des miliciens ? Ils sont au nombre de dix, plus un chasseur qui servait de guide...
+
+# L'œil de Lytochronox
