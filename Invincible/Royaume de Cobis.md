@@ -15,3 +15,7 @@ scale: 1 ### Real units/px (resolution) of your map
 recenter: false  
 darkmode: false ### marker
 ```
+
+Cobis est un royaume situé à l'extrême Sud-Est des Terres d'Osgild. Enclavé par des barrières naturelles difficiles à franchir, il mesure environ 300 km d'Est en Ouest et 400 km du Nord au Sud. Il abrite seulement quatre cités, Bastion la capitale, Hauteroche une importante ville minière et enfin, Lycanis et Paleseaux installées sur les rives du lac Diamant. 
+
+Le royaume était autrefois gouverné par Lucius IV, un roi et un guerrier respecté, mais le dragon de pierre Lytochronox au souffle pétrifiant l'a tué et terrifie à présent la région.
