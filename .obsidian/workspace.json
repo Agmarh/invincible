@@ -37,21 +37,9 @@
             "id": "9e61a35f1e9cc01b",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Invincible/Images/Scénario 1/sauver_Clovik.jpg"
-              },
-              "icon": "lucide-image",
-              "title": "sauver_Clovik"
-            }
-          },
-          {
-            "id": "5725fb70c4376b6e",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Annexe/Bestiaire/Crocodile.md",
+                "file": "Annexe/Bestiaire/Blaireau 1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -66,11 +54,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Crocodile"
+              "title": "Blaireau 1"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -278,10 +266,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5725fb70c4376b6e",
+  "active": "9e61a35f1e9cc01b",
   "lastOpenFiles": [
     "Invincible/Scénario 1 Ombre et Lumière/II - Le Marais du Dragon.md",
+    "Annexe/Bestiaire/Blaireau 1.md",
     "Annexe/Bestiaire/Crocodile.md",
+    "Invincible/Images/Scénario 1/sauver_Clovik.jpg",
     "Invincible/Scénario 1 Ombre et Lumière/I - Sauver Clovik.md",
     "Invincible/Images/image-4.png",
     "Invincible/Repères Chronologiques.md",
@@ -305,7 +295,6 @@
     "Invincible/Scénario 1 Ombre et Lumière/Introduction.md",
     "Invincible/Scénario 0 Mini Campagne/Récapitulatif.md",
     "Invincible/Scénario 0 Mini Campagne/Alzheimerïn/Acte IV - Clap de fin & bascule.md",
-    "Invincible/Images/Scénario 1/sauver_Clovik.jpg",
     "Invincible/Images/Scénario 1/trone_noirbois.jpg",
     "Invincible/Images/Scénario 1/la maison_rebecca.jpg",
     "Invincible/Images/Scénario 1/lac_nymphes.jpg",
@@ -318,7 +307,6 @@
     "Invincible/Scénario 1 Ombre et Lumière",
     "Invincible/Scénario 0 Mini Campagne/Alzheimerïn/Acte III - Clairjonc.md",
     "Invincible/Scénario 0 Mini Campagne/Alzheimerïn/Acte II - Jour des visites.md",
-    "Invincible/Scénario 0 Mini Campagne/La bête humaine/III - Mascombe.md",
     "Invincible/Scénario 1 Ombre et Lumière",
     "Annexe/Bestiaire/Apprenti mage.md.tmp.5534.b60c936fde8f",
     "Invincible/Scénario 0 Mini Campagne/Alzheimerïn/Acte III - Clairjonc.md.tmp.5116.7711f185c1f6",

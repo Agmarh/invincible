@@ -2,32 +2,23 @@
 ```statblock
 name: Crocodile
 size: M
-type: Humanoïde
-subtype: humain
-alignment: Chaotique Neutre
+type: Bête
+subtype: 
+alignment: 
 ac: 12
-hp: 11
-hit_dice: 2d8+2
-speed: 9 m
-stats: [12, 12, 12, 8, 10, 8]
+hp: 19
+hit_dice: 3d10+3
+speed: 6 m, nage 9 m
+stats: [15, 10, 13, 2, 10, 5]
 skillsaves:
-  - Athlétisme: 3
+  - Discrétion: 2
 senses: Perception passive 10
-languages: commun
-cr: 1/4
+languages: 
+cr: 1/2
+traits:
+  - name: Retenir son souffle
+    desc: "Le crocodile peut retenir son souffle pendant 15 minutes."
 actions:
-  - name: Masse
-    desc: "Attaque d'arme au corps-à-corps : +3 pour toucher, allonge 1,50 m, une cible. Touché : 4 (1d6+1) dégâts contondants."
-  - name: Dague
-    desc: "Attaque d'arme au corps-à-corps ou à distance : +3 pour toucher, allonge 1,50 m ou portée 6/18 m, une cible. Touché : 3 (1d4+1) dégâts perforants."
-tactic:
-  - name: Charge
-    desc: "Charge le PJ le plus visiblement caster (druide ou barde) dès le déclenchement de l'embuscade."
-  - name: Combat
-    desc: "Combat sans subtilité, frappe à la masse sans manœuvre tactique."
-  - name: Fuite
-    desc: "Fuit si Krell ou Niska tombent."
-treasure:
-  - name: Bourse
-    desc: "4 po, 8 pa"
+  - name: Morsure
+    desc: "Attaque d'arme au corps à corps : +4 pour toucher, allonge 1,50 m, une créature. Touché : 7 (1d10+2) dégâts perforants et la cible est empoignée (évasion DD 12). Jusqu'à la fin de cette empoignade, la cible est entravée et le crocodile ne peut pas mordre une autre cible."
 ```

@@ -24,15 +24,15 @@ La zone en gris sur la carte est constituée de marais : on y trouve une success
 
 Dans ces conditions, un personnage ordinaire se déplace de seulement 1 kilomètre par heure et il y a <font style="color:red">1 chance sur 6</font> de tomber sur un des pièges du marais par demi-journée de marche.  <font style="color:red">En cas de 1 sur le d6, lancez alors 1d12 sur la table ci-dessous</font>. 
 
-Il est possible de doubler la vitesse ordinaire, mais cela devient dangereux et épuisant. Les chances de rencontrer un danger passent à  <font style="color:red">2 sur 6</font> et il faut réussir un  <font style="color:green">test de Constitution (Survie) difficulté 10</font> ou subir  <font style="color:red">1d4 dégâts (épuisement, chute, insectes…)</font>.
+Il est possible de doubler la vitesse ordinaire, mais cela devient dangereux et épuisant. Les chances de rencontrer un danger passent à  <font style="color:red">2 sur 6</font> et il faut réussir un  <font style="color:green">test de Constitution (Survie) difficulté 10</font> ou subir <font style="color:red">1d4 dégâts (épuisement, chute, insectes…)</font>.
 
 ## 1 - 3 Sables mouvants
 [[I - Sauver Clovik#Règle pour les sables mouvants]]
 
 ## 4 - 5 Serpent venimeux
-Le personnage se fait mordre par un serpent d'eau effrayé, une attaque de corps à corps à +4 qui inflige 1 point de dégât perforant. Le venin oblige le personnage à réussir un jet de sauvegarde de Constitution DD 12.
+Le personnage se fait mordre par un serpent d'eau effrayé, une attaque de corps à corps à +4 qui inflige <font style="color:red">1 point de dégât perforant</font>. Le venin oblige le personnage à réussir un <font style="color:green">jet de sauvegarde de Constitution DD 12</font>.
 
-En cas d'échec, le PJ perd conscience pendant 1 heure et subit 2d6 dégâts de poison. Le serpent s'enfuit aussitôt.
+En cas d'échec, le PJ perd conscience pendant 1 heure et subit <font style="color:red">2d6 dégâts de poison</font>. Le serpent s'enfuit aussitôt.
 
 ## 6 - 7 Tertre errant
 Tactique : le tertre errant s'enfuit s'il lui reste moins de 30 points de vie.
@@ -43,3 +43,45 @@ Créature : [[Tertre errant]]
 Tactique : s'il est réduit à moins de 5 points de vie, le crocodile lâche sa proie et s'enfuit.
 
 Créature : [[Crocodile]]
+
+## 10 - 11 Buisson et baies
+Deux sortes de buissons produisant des baies rouges poussent dans le marais. Lancez <font style="color:red">1d6</font> :
+- 1-3 baies toxiques : perte de <font style="color:red">1d6 points de dégâts de poison</font> en cas d'ingestion.
+- 4-6 baies aux propriétés de guérison : <font style="color:red">soigne 1d6 pv en 5 minutes</font>, une seule fois par jour. Les baies perdent leurs propriétés si elles sont stockées plus d'une heure.
+
+Les feuilles des buissons sont légèrement différentes, mais il faut un <font style="color:green">test d'Intelligence (Nature) DD 15</font> pour le remarquer.
+
+## 12 Cadavre
+Il s'agit du corps d'un aventurier inconnu qui s'est perdu et qui est mort dans le marais. Son corps gonflé flotte entre deux eaux, là où il s'est noyé. Il porte encore sur lui une bourse contenant 15 Po et une fiole de verre et d'argent contenant une [[Potion de soins supérieurs]]. Le flacon porte une antique rune de guérison (<font style="color:green">test d'Intelligence
+(Arcanes) DD 15</font> pour la reconnaître).
+
+Si vous tirez à nouveau cette rencontre, ignorez là, on ne peut rencontrer qu'une seule fois le cadavre.
+
+# Survivre dans le Marais
+Les personnages vont sans doute parcourir le marais pendant plusieurs jours, il va donc leur falloir boire, manger et dormir.
+
+## Boire 
+Un test de Sagesse (Survie) DD 10 permet de le déterminer que l'eau du marais est fétide et rend malade. Quelqu'un qui en boit, doit faire un jet de sauvegarde de Constitution DD 13 ou subir l'état empoisonné pour 24 heures.
+
+Il existe quatre sources d'eau potable dans le marais. Deux d'entre elles sont le territoire de créatures dangereuses (le crocosaure, zone 1 et les nymphes, zone 2). La troisième mare est celle qu'utilise généralement Rebecca, zone 6, et le Lac de Diamant est la dernière.
+
+## Manger 
+On peut trouver de rares baies dans le marais, il y a un petit peu de gibier dans le bois (zone 4), mais comme il est prisonnier de la bulle temporelle, il ne se renouvelle pas et risque de vite manquer. De plus, si Rebecca surprend les PJ en train de chasser, elle va se mettre en colère et le leur interdire formellement. Elle est la protectrice de ces bois… Et puis il faut franchir la mangrove. Le plus simple est de pêcher. Lac et mares sont généreux en poissons et le marais grouille de grenouilles. On peut aussi attraper des ragondins. 
+
+Chaque personnage doit réussir un test de Sagesse (Survie) DD 12 pour trouver de quoi se nourrir chaque jour, en cas d'échec, il acquiert un niveau d'épuisement. 
+
+## Dormir 
+Les personnages seraient avisés de trouver la terre ferme à l'Ouest de la zone pour se reposer. Dans le marais, les conditions sont si difficiles (insectes, humidité) qu'il faut réussir un test de Constitution (Survie) DD 10 pour réussir à récupérer un niveau de fatigue durant la nuit (ce qui est habituellement automatique). 
+
+Dormir dans l'eau et l'humidité n'est pas sain et oblige à un jet de sauvegarde de Constitution comme si on avait bu de l'eau croupie (voir plus haut). 
+
+Dormir sur l'îlot de l'invocation n'est pas une bonne idée, ce serait sous l'œil de Lytochronox et cela provoque d'affreux cauchemars qui empêchent de récupérer. Dormir à proximité du Noirbois est également stressant et insupportable. 
+
+La forêt au Sud est un choix valide, mais traverser la mangrove pour en sortir est épuisant (500 mètres à l'heure, voir le paragraphe correspondant).
+
+# 1 - Le Crocosaure
+Il s'agit d'un crocodile géant préhistorique qui vit dans une mare plus grande et plus profonde que les autres. Il est particulièrement vieux et n'a plus qu'un œil ! Toujours de mauvais poil, il attaque tout ce qui passe à proximité avec furie.
+
+Créature : Crocodile géant
+
+Tactique : le crocosaure ne connaît plus la défaite depuis longtemps et il a la mémoire longue. Il combat ces petites créatures jusqu'à la mort.
