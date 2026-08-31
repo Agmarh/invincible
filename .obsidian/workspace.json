@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Invincible/Repères Chronologiques.md",
+                "file": "Invincible/Scénario 1 Ombre et Lumière/I - Sauver Clovik.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -66,7 +66,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Repères Chronologiques"
+              "title": "I - Sauver Clovik"
             }
           }
         ],
@@ -278,10 +278,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5725fb70c4376b6e",
+  "active": "4f2e89843baa22c8",
   "lastOpenFiles": [
-    "Invincible/Scénario 1 Ombre et Lumière/I - Sauver Clovik.md",
     "Invincible/Repères Chronologiques.md",
+    "Invincible/Images/Timeline-1.jpg",
+    "Invincible/Images/image-3.png",
+    "Invincible/Images/Timeline.jpg",
+    "Invincible/Scénario 1 Ombre et Lumière/I - Sauver Clovik.md",
     "Invincible/Royaume de Cobis.md",
     "Invincible/Images/image-2.png",
     "Invincible/Objets Magiques/Bâton du Gardien.md",
@@ -305,11 +308,8 @@
     "Invincible/Images/Scénario 1/lac_nymphes.jpg",
     "Invincible/Images/Scénario 1/marais.jpg",
     "Invincible/Images/Scénario 1/noibois.jpg",
-    "Invincible/Images/Scénario 1/noirbois 2.jpg",
     "Invincible/Images/Sans titre.md",
     "Invincible/Images/Scénario 1",
-    "Invincible/Images/image.png",
-    "Invincible/Images/image-1.png",
     "Template/Monstre.md",
     "Invincible/Images/Cobis.md",
     "Eiren.md",

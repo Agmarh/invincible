@@ -1,5 +1,7 @@
 Lors de l'arrivé des PJs au royaume de Cobis, nous sommes au début de l'été, apparemment ça a son importance.
 
+![[Timeline-1.jpg]]
+
 # Histoire selon Urbius
 Sept siècles avant le début de l'aventure, un puissant dragon noir s'installa dans la région du lac Diamant. Plus précisément dans le marais connu à présent sous le nom de Marais du Dragon. Pendant un siècle, il terrorisa les habitants des villages qui bordaient le lac et imposa une offrande sacrificielle insoutenable pour les populations. 
 
