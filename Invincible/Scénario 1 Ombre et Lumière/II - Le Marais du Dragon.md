@@ -85,3 +85,13 @@ Il s'agit d'un crocodile géant préhistorique qui vit dans une mare plus grande
 Créature : [[Crocodile géant]]
 
 Tactique : le crocosaure ne connaît plus la défaite depuis longtemps et il a la mémoire longue. Il combat ces petites créatures jusqu'à la mort.
+
+# 2 - Les Nymphes
+Cette mare est habitée par une petite communauté de nymphes dirigée par Nadehla, une séductrice insatiable qui est aussi la mère de Rebecca, la sorcière. Elles sont beaucoup moins timides que les nymphes habituelles et n'hésitent pas à se montrer aux étrangers, pour ensuite mieux les piéger dans les profondeurs de l'eau… S'il y a un homme avec au moins 13 de Charisme dans le groupe, Nadehla va tenter de le séduire. 
+
+> <font style="color:yellow">"Alors que vous peinez à progresser dans le marais, vous entendez des rires clairs non loin de là. On dirait les rires de jeunes femmes, mêlées à des éclaboussures, comme un joyeux chahut."</font>
+
+Si les personnages approchent, ils peuvent constater qu'un groupe de 5 jeunes femmes batifolent dans l'eau et s'amusent avec ce qui semble être leur animal de compagnie, un long et particulièrement gros serpent d'eau… Chaque personnage doit réussir un test de Dextérité (Discrétion) DD 15 ou le groupe entier se fait repérer.
+
+> <font style="color:yellow">"Les jeunes femmes vous remarquent soudain, elles plongent dans l'eau et disparaissent… Toutefois, après quelques instants, une tête, puis une deuxième et puis toutes émergent doucement de la surface et elles vous dévisagent avec de grands yeux, à la fois effrayés et curieux. Seule l'une d'elle, qui se distingue par sa chevelure d'or pâle, semble plus courageuse et se laisse flotter lascivement à la surface."</font>
+
