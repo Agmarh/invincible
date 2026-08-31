@@ -113,11 +113,42 @@ Si le personnage charmé a suivi Nadehla sous l'eau :
 
 Faites mariner un peu votre PJ. Demandez lui-même ce qu'il fait. Laissez le s'agiter un peu puis reprenez.
 
-Et puis soudain alors que tu dérives doucement vers l'inconscience, une voie féminine semble percer les flots.
-"Mère, cela suffit, libère-le !"
-"Et pourquoi je te prie ? (tu reconnais la voix de Nadehla). J'ai bien le droit de m'amuser un peu non ?"
-"Mère, on sait où mènent tes jeux, j'ai besoin d'eux, libère le, ou j'assèche ce foutu marais et je t'oblige à te balader nue dans ce qui sera devenu un désert !"
-"Petite peste, si je ne m'étais pas amusée avec ton père, tu ne pourrais pas venir me gâcher la journée…"
-"La journée va être particulièrement longue aujourd'hui, crois moi, alors n'en rajoute pas, libère le. Maintenant !"
-"Dommage, un si joli morceau, enfin… Si c'est pour la bonne cause !"
-Tu te réveilles soudain en toussant et en crachant de l'eau, affalé dans la boue, trempé et à moitié noyé sur la rive de la vaste mare aux nymphes… Tu te sens épuisé comme si tu venais de faire de la lutte avec une horde d'ogres !
+> <font style="color:yellow">Et puis soudain alors que tu dérives doucement vers l'inconscience, une voie féminine semble percer les flots.</font>
+> <font style="color:orange">"Mère, cela suffit, libère-le !"</font>
+> <font style="color:orange">"Et pourquoi je te prie ? (tu reconnais la voix de Nadehla). J'ai bien le droit de m'amuser un peu non ?"</font>
+> <font style="color:orange">"Mère, on sait où mènent tes jeux, j'ai besoin d'eux, libère le, ou j'assèche ce foutu marais et je t'oblige à te balader nue dans ce qui sera devenu un désert !"</font>
+> <font style="color:orange">"Petite peste, si je ne m'étais pas amusée avec ton père, tu ne pourrais pas venir me gâcher la journée…"</font>
+> <font style="color:orange">"La journée va être particulièrement longue aujourd'hui, crois moi, alors n'en rajoute pas, libère le. Maintenant !"</font>
+> <font style="color:orange">"Dommage, un si joli morceau, enfin… Si c'est pour la bonne cause !"</font>
+> <font style="color:yellow">Tu te réveilles soudain en toussant et en crachant de l'eau, affalé dans la boue, trempé et à moitié noyé sur la rive de la vaste mare aux nymphes… Tu te sens épuisé comme si tu venais de faire de la lutte avec une horde d'ogres !</font>
+
+Le personnage se trouve à bonne distance de ses camarades, mais en les appelant, il peut facilement les retrouver. Il a perdu la moitié des PV qu'il lui restait et il acquiert 2 niveaux d'épuisement ! Il faut avoir la santé pour fréquenter une nymphe ! En revanche, il gagne définitivement 1 point sur sa valeur de Charisme. Il a été touché par la magie et l'amour d'un être féerique et cela n'a pas de prix…
+
+# 3 - Oraxos prisonnier
+> <font style="color:yellow">Vous suivez la lisière d'une mangrove, ici les épaisses racines qui plongent dans l'eau de toutes parts forment une barrière impénétrable. Plus loin, le sol s'élève imperceptiblement et vous voyez avec soulagement le niveau de l'eau baisser, cédant la place à la terre ferme, tandis que la forêt commence à devenir plus praticable. La brume est presque absente, aussi vous apercevez à votre gauche ce qui semble être la lisière d'une forêt très sombre. Même à cette distance (environ 500 mètres), il s'en dégage une aura inquiétante, comme un mur de ténèbres… Tandis qu'un frisson parcourt votre échine, un appel retentit soudain non loin de là.</font> 
+> <font style="color:orange">"Au secours, y a quelqu'un ? Ohé !"</font>
+
+Un peu en retrait à l'Ouest, dans le bois, le Sangdragon que les personnages ont vu fuir est prisonnier… d'un arbre ! Il est adossé au tronc à 2 mètres de hauteur, les bras en croix. Ses mains et ses pieds sont emprisonnés dans l'arbre comme si celui-ci avait poussé autour. Un corbeau perché sur son épaule lui picore l'oreille ; à l'arrivée des PJ, l'oiseau s'envole et se pose sur un arbre non loin de là.
+
+La Sorcière Rebecca a tendu une embuscade au serviteur du dragon. Elle lui a également volé son médaillon, puis elle l'a laissé là, en lui annonçant qu'elle reviendrait le voir le lendemain au lever du soleil… Oraxos goûte assez peu la plaisanterie. En effet le prochain lever de soleil dans la bulle temporelle aura lieu dans 100 jours ! Quand il le lui a fait remarquer, la sorcière lui a ri au nez en lui disant qu'après tout c'était de sa faute !
+
+Oraxos supplie les PJ de le délivrer. À eux de voir s'ils acceptent. S'ils le font, Oraxos s'enfuit sans demander son reste, il rôdera dans les marais pendant toute l'aventure, cherchant le meilleur moment pour essayer de reprendre son médaillon à la sorcière, sans succès.
+
+Si les PJ font mine de le laisser là et de partir, il crie qu'ils sont prisonniers ici et que lui seul peut les délivrer. Qu'il détient un secret qu'il leur donnera seulement en échange de sa liberté. S'ils le délivrent, il tient parole : il leur parle du médaillon et leur explique que c'est la sorcière qui le lui a volé. Il propose d'accompagner les PJ pour la trouver et lui prendre le médaillon.
+
+S'ils menacent de façon crédible de le tuer plutôt que de le délivrer, Oraxos révèle son information en échange de sa vie, mais nourrit alors une haine tenace envers les PJ. Si plus tard il est libéré, il les attaquera par surprise dès qu'ils sont en mauvaise posture (le combat contre le crocosaure, par exemple).
+
+## Délivrer Oraxos 
+Ce n'est pas chose facile. D'une part, il faut essayer de ne pas lui trancher les mains et les pieds en même temps que le bois, d'autre part celui-ci repousse à vue d'œil… 
+
+Pour délivrer un membre, il faut réussir une attaque contre une <font style="color:green">CA de 15</font> et infliger au moins <font style="color:red">10 points de dégâts</font>, sachant que l'arbre régénère <font style="color:green">4 pv par round</font>. Lorsqu'on n'atteint pas au moins une <font style="color:green">CA de 10</font>, Oraxos subit<font style="color:red">1d4 dégâts</font> ! Bien sûr, il hurle et se plaint qu'on essaye de le tuer…
+
+# 4 - Le Bois
+Ce bois est constitué d'arbres à racines aériennes, ce qui rend la progression particulièrement ardue : pas plus de 3 kilomètres par heure. La partie inondée, en plus foncé sur la carte est une mangrove inextricable qui oblige à grimper de racines glissantes en racines mouillées : on n'y avance pas à plus de 500 mètres à l'heure !
+
+Ce bois hébergeant du petit gibier, rongeurs et lémuriens, il est aussi pris d'assaut par les moustiques (d'habitude à la nuit tombée, mais même les moustiques ont dû changer leurs habitudes !)
+
+# 5 - Noirbois
+Personne de sain d'esprit n'a envie de visiter Noirbois. Les PJ ne devraient pénétrer en ces lieux que contraints par Rebecca la sorcière. Si les PJ tentent d'eux-mêmes de pénétrer dans le bois sans que la sorcière ne leur ait confié la mission :
+> <font style="color:yellow">Vous distinguez un mur noir qui émerge de la brume. Il s'en dégage une impression désagréable, quelque chose d'inexplicablement effrayant. En s'approchant un peu, on s'aperçoit qu'il s'agit d'une forêt de ténèbres. Une forte odeur de pourriture émane de la lisière, on distingue des branches mortes qui jaillissent d'une nuit surnaturelle. Pas de feuillage ici, juste une masse d'une noirceur absolue qui fait se tordre le ventre d'angoisse…</font>
+
