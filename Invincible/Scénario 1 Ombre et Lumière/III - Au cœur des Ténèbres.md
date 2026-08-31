@@ -1,0 +1,1 @@
+Une fois que les PJ ont accepté le principe d'un marché, Rebecca leur explique ce qu'elle attend d'eux.
