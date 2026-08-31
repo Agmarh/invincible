@@ -161,3 +161,45 @@ Puis le grand démon laissa à un gardien la charge de veiller sur le trône en 
 Jusque-là, le plan des démons n'a pas très bien fonctionné car Rebecca et sa mère se sont montrées suffisamment agressives pour dissuader les visiteurs de venir se perdre dans les parages. Quitte à les éliminer elles mêmes avant qu'ils ne servent les plans du mal… Toutefois, si rien n'est fait dans 50 "jours", lorsque la nuit s'abattra pour 100 jours dans la zone, pour la première fois, les démons trouveront le courage de sortir du bois et tueront tous ceux qu'ils trouvent dans la bulle temporelle.
 
 # 6 - La maison de Rebecca
+La chaumière de Rebecca se déplace chaque jour, le point 6 est celui où les PJ la trouveront la première fois, mais le lendemain, elle sera ailleurs. En fait, les PJ trouveront la demeure de la sorcière à chaque fois que celle-ci aura besoin de les voir… Lorsque les PJ arrivent pour la première fois, la sorcière n'est pas là. Son corbeau observe les alentours et la maison réserve quelques surprises…
+
+> <font style="color:yellow">Une chaumière de rondins empilés avec un toit de planches et de paille est posée à fleur d'eau au bord d'un petit lac. Un peu de fumée s'échappe par la cheminée et des rideaux noirs occultent les fenêtres. Un corbeau perché sur le sommet du toit croasse à votre arrivé en vous lançant des regards noirs.</font>
+
+Si les PJ appellent, personne ne répond. La porte de bois possède une poignée, mais si quelqu'un fait mine de la saisir ou de frapper à la porte, une surprise de taille l'attend. La maison toute entière se soulève d'un coup et la porte se retrouve à 2 mètres de haut ! La chaumière est soutenue par quatre pattes identiques à celles d'un oiseau géant. Elle se déplace sur une dizaine de mètres avant de se reposer au ras du marais comme une maison anodine… Dérangé, le corbeau croasse de plus belle et, après s'être envolé pendant la scène, revient se poser comme si de rien n'était.
+
+Tant que Rebecca n'est pas là, la scène se reproduit. Saisir la poignée de la porte avant que la maison ne file demande un <font style="color:green">test de Dextérité DD 18</font> ! De toute façon, la porte est fermée à clef.
+
+> <font style="color:yellow">Et puis soudain le corbeau s'envole et vient se poser sur l'épaule d'une belle jeune femme brune qui vous observe, à quelques mètres. Vous n'aviez rien remarqué et elle semble avoir surgi de nulle part. Elle vous regarde sans mot dire…</font>
+
+Rebecca attend que les PJ prennent l'initiative. Elle se présente uniquement s'ils l'ont fait d'abord. Elle leur indique qu'elle vit ici, mais ne donne aucune précision. Elle attend qu'ils lui demandent un service : le médaillon d'Oraxos. Si les PJ ne savent pas encore que c'est elle qui possède l'objet et n'ont pas encore retrouvé Oraxos, elle ne leur en dit rien. Ils doivent venir à elle avec les bonnes questions.
+
+Elle se montrera sympathique, mais distante, et répondra de façon évasive à la plupart des questions sur le marais. Pendant toute la conversation, Clovik ne dit rien et semble très nerveux.
+
+## Questions / Réponses
+### Avez-vous vu un homme-dragon ?
+J'en ai aperçu un s'enfoncer (!) dans les arbres au Sud-Est près du Noirbois…
+
+### Savez-vous que le temps s'est arrêté ici ?
+Ce n'est pas grave, j'ai tout mon temps.
+
+### Que savez-vous du Noirbois ?
+C'est un lieu terrible créé par un démon pour annoncer un royaume de ténèbres, ceux qui s'y sont enfoncés n'en sont jamais revenus.
+
+### Que savez-vous du sanctuaire avec les statues ?
+J'ai des talents d'oracle, je savais que vous viendriez en cet endroit.
+
+### Que pouvez-vous nous dire d'Urbius ?
+J'ai rencontré le magicien à plusieurs reprises, la dernière fois il voulait des renseignements sur le cercle des statues et la prophétie des héros. Il m'a demandé d'en garder le secret.
+
+### Pouvons-nous nous reposer chez vous ?
+Je vis seule depuis toujours et je n'ai pas pour habitude de recevoir, mais vous pouvez rester par ici, le marais est à tous.
+
+### Le Médaillon
+> <font style="color:orange">"Je peux vous aider à quitter cet endroit, mais tout service implique une contrepartie, en accepterez-vous le prix ?"</font>
+> <font style="color:yellow">Clovik répond alors le premier : </font>
+> <font style="color:orange">"Je n'ai pas confiance en vous, mon maître m'a prévenu que vos prix sont du genre à donner des regrets éternels…"</font>
+> <font style="color:orange">"C'est bien possible jeune apprenti, mais tu ignores bien des choses. Les regrets éternels de ton maître ne sont peut-être pas ceux que tu crois", dit la sorcière en caressant son ventre d'une façon bizarre. "En tout cas, sur le moment, il ne s'est pas plaint lorsque nous avons conçu son fils à naître…" </font>
+> <font style="color:yellow">Et elle éclate de rire devant l'air ahuri de Clovik !</font>
+> <font style="color:orange">"Un service. Quel qu'il soit, quoi qu'il en coûte, mais rien d'impossible. Tels sont les termes de l'engagement. Il ne s'agit pas d'un marchandage. On ne pèse pas ici la valeur de telle chose face à telle autre. Je vous parle d'un engagement moral. Je vous sauve la vie, vous me consacrez une partie de la vôtre…"</font>
+
+Si les PJs n'acceptent pas dans les 40 jours, Rebecca viendra à eux pour leur expliquer la situation et ce qu'elle attend d'eux.
