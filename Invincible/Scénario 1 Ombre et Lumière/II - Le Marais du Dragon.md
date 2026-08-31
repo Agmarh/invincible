@@ -89,9 +89,31 @@ Tactique : le crocosaure ne connaît plus la défaite depuis longtemps et il a l
 # 2 - Les Nymphes
 Cette mare est habitée par une petite communauté de nymphes dirigée par Nadehla, une séductrice insatiable qui est aussi la mère de Rebecca, la sorcière. Elles sont beaucoup moins timides que les nymphes habituelles et n'hésitent pas à se montrer aux étrangers, pour ensuite mieux les piéger dans les profondeurs de l'eau… S'il y a un homme avec au moins 13 de Charisme dans le groupe, Nadehla va tenter de le séduire. 
 
-> <font style="color:yellow">"Alors que vous peinez à progresser dans le marais, vous entendez des rires clairs non loin de là. On dirait les rires de jeunes femmes, mêlées à des éclaboussures, comme un joyeux chahut."</font>
+> <font style="color:yellow">Alors que vous peinez à progresser dans le marais, vous entendez des rires clairs non loin de là. On dirait les rires de jeunes femmes, mêlées à des éclaboussures, comme un joyeux chahut.</font>
 
-Si les personnages approchent, ils peuvent constater qu'un groupe de 5 jeunes femmes batifolent dans l'eau et s'amusent avec ce qui semble être leur animal de compagnie, un long et particulièrement gros serpent d'eau… Chaque personnage doit réussir un test de Dextérité (Discrétion) DD 15 ou le groupe entier se fait repérer.
+Si les personnages approchent, ils peuvent constater qu'un groupe de 5 jeunes femmes batifolent dans l'eau et s'amusent avec ce qui semble être leur animal de compagnie, un long et particulièrement gros serpent d'eau… 
 
-> <font style="color:yellow">"Les jeunes femmes vous remarquent soudain, elles plongent dans l'eau et disparaissent… Toutefois, après quelques instants, une tête, puis une deuxième et puis toutes émergent doucement de la surface et elles vous dévisagent avec de grands yeux, à la fois effrayés et curieux. Seule l'une d'elle, qui se distingue par sa chevelure d'or pâle, semble plus courageuse et se laisse flotter lascivement à la surface."</font>
+Chaque personnage doit réussir un <font style="color:green">test de Dextérité (Discrétion) DD 15</font> ou le groupe entier se fait repérer : 
+> <font style="color:yellow">Les jeunes femmes vous remarquent soudain, elles plongent dans l'eau et disparaissent… Toutefois, après quelques instants, une tête, puis une deuxième et puis toutes émergent doucement de la surface et elles vous dévisagent avec de grands yeux, à la fois effrayés et curieux. Seule l'une d'elle, qui se distingue par sa chevelure d'or pâle, semble plus courageuse et se laisse flotter lascivement à la surface.</font>
 
+Nadehla se tournera vers un PJ charismatique : 
+> <font style="color:orange">"Je suis Nadehla, la nymphe et je vis ici avec mes amies. Et toi, qui es-tu bel étranger qui vient nous rendre visite ?"</font>
+
+Si le personnage donne son nom, alors c'en est fait de lui ! Si la nymphe l'apprend dans la conversation (par exemple, ses camarades l'appellent par son prénom), le pauvre bellâtre n'a alors aucune chance de résister à son sort de charme. <font style="color:green">Seul un « 20 naturel » sur un jet de sauvegarde de Sagesse</font> peut lui permettre de résister. Si elle n'apprend pas son nom, elle va tout de même tenter le coup mais dans ce cas, un <font style="color:green">jet de sauvegarde de Sagesse DD 15</font> lui permet de résister…
+
+<font style="color:orange">"Viens me rejoindre mon bel ami, nous allons passer tant de moments tendres ensemble…"</font>
+
+Si le personnage résiste à l'injonction (test réussi), Nadehla tente une manœuvre de séduction plus classique (à vous de la mettre en scène de la façon dont votre groupe aime le roleplay). Si son offre est à nouveau refusée, elle se vexe. Les nymphes déclenchent alors leur pouvoir d'aveuglement avant de plonger dans les profondeurs de l'eau.
+
+Amours aquatiques : si le personnage est sous l'effet
+du charme, il commence à s'avancer dans l'eau pour rejoindre
+les nymphes. Il se débattra si on tente de l'arrêter
+(test d'Attaque opposé) et les nymphes déclencheront
+leur pouvoir d'aveuglement sur les importuns.
+Le gros serpent d'eau vu précédemment fera chuter et
+empêchera d'agir un adversaire trop résistant (test de
+Force (Athlétisme) DD18 pour résister). Ce manège durera
+pendant 5 rounds maximum. Au bout de 5 rounds,
+les nymphes abandonnent le PJ charmé et se retirent.
+Si le personnage charmé a suivi Nadehla sous l'eau,
+alors lisez ou paraphrasez-lui le paragraphe suivant :
