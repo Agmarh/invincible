@@ -1,6 +1,6 @@
 Lors de l'arrivé des PJs au royaume de Cobis, nous sommes au début de l'été, apparemment ça a son importance.
 
-# Histoire
+# Histoire selon Urbius
 Sept siècles avant le début de l'aventure, un puissant dragon noir s'installa dans la région du lac Diamant. Plus précisément dans le marais connu à présent sous le nom de Marais du Dragon. Pendant un siècle, il terrorisa les habitants des villages qui bordaient le lac et imposa une offrande sacrificielle insoutenable pour les populations. 
 
 Chaque année, les villageois désignaient par tirage au sort une jeune femme qui était ensuite offerte au dragon. Un jour béni, des héros arrivés de nulle part mirent un terme au règne immonde de la créature. Toutefois, ils ne réussirent pas à achever le monstre et se contentèrent de le bannir sous terre. De vieilles légendes annoncent le retour du dragon et de son règne de terreur. D'autres contes indiquent que les héros du passé reviendront alors lui livrer un ultime combat et le vaincront.
