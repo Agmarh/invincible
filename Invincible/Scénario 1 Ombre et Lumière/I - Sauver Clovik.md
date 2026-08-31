@@ -31,7 +31,7 @@ Si un personnage veut tirer dessus, il a un round pour le faire (CA 20), mais un
 
 Dès qu'il a pris la fuite, un <font style="color:green">test de Sagesse (Perception) DD15</font> réussi permet de remarquer qu'un corbeau décolle d'une des statues où il était perché et le suit de loin. 
 
-## Règle pour les sables mouvants : 
+## Règle pour les sables mouvants
 Un personnage qui entre dans une zone de sables mouvants est brusquement stoppé. Il doit réussir un <font style="color:green">test de Sagesse (Perception) DD 20 (DD 10 s'il a annoncé être explicitement sur ses gardes à ce propos)</font> pour se rendre compte de son erreur assez tôt et ne pas s'enliser. 
 - En cas de réussite, il perd simplement 1 round puis doit rebrousser chemin.
 - En cas d'échec, il commence à s'enfoncer et ne peut sortir sans aide. Quelqu'un doit lui lancer une corde ou une grande branche depuis le bord. Au moins un des sauveteurs doit réussir un <font style="color:green">test de Force (Athlétisme) DD 10</font> au premier round, la difficulté augmentant de 2 points chaque round jusqu'à atteindre 20. Lorsque le DD est à 20, le personnage est submergé et subit <font style="color:red">1d6 dégâts contondants</font> à chaque round à la fin de son tour.
@@ -52,3 +52,16 @@ Si on l'interroge gentiment avec un <font style="color:green">test de Charisme (
 Après réflexion, il pense que le mieux est de les amener à son maître, le magicien Urbius au bourg de Paleseaux. Mais peut-être avant faut-il enterrer les cadavres des miliciens ? Ils sont au nombre de dix, plus un chasseur qui servait de guide...
 
 # L'œil de Lytochronox
+L'oeil provoque une zone fermée de déphasage temporel dans laquelle le temps s'écoule cent fois plus vite que la normale. Cette démultiplication du temps a un gros avantage du point de vue scénaristique : les personnages peuvent traîner aussi longtemps qu'ils le veulent dans ce marais, cela n'affecte pas les événements à l'extérieur, puisque le temps s'y écoule cent fois plus lentement. 
+
+Un problème de taille : à l'origine, Lytochronox avait prévu pour son sortilège une zone de 100 mètres de diamètre, afin de garder ses prisonniers « à l'oeil » et de jouir de leur vieillissement pendant une ou plusieurs années, qui correspondent à l'intérieur de la zone du sort à une ou plusieurs centaines d'années ! Jusqu'à ce que la mort s'empare inévitablement d'eux. À l'issue de cette cruelle machination, le ver aurait pu récupérer son œil. 
+
+Ce que le dragon n'avait pas prévu, c'est que l'œil a été utilisé au-dessus de l'autel d'invocation des héros du passé. Et il s'agit là d'un puissant amplificateur de sorts temporels. Par conséquent la zone d'effet a un peu dépassé les prévisions, étant multipliée par 100, soit 10 kilomètres de diamètre. 
+
+## Prison
+A la périphérie de la zone d'effets se trouve un rideau légèrement scintillant et incurvé. Ce rideau est totalement infranchissable pour les êtres vivants, semblable à un mur de force. En revanche, un projectile inerte peut être lancé au travers. Un caillou, par exemple, franchira le rideau mais semblera brusquement s'arrêter une fois passé le rideau translucide. En l'observant longuement on verra qu'il continue sa trajectoire de l'autre côté mais très au ralenti. S'il faut 2 secondes au caillou pour tomber au sol de l'autre côté, du point de vue des personnages, cela en prendra 200 soit environ 3 minutes !
+
+## S'échapper 
+Oraxos porte sur lui un médaillon dont le pendentif est une écaille de pierre de Lytochronox qui vibre étrangement et émet une lueur bleutée. Outre sa capacité magique, cet objet annule le rideau magique pour celui qui le porte et lui permet de sortir de la zone temporelle. Mais le Sangdragon, surpris par la taille de la zone, s'est perdu dans le marais et a fait une mauvaise rencontre pas tout à fait fortuite… Il est tombé sur Rebecca, la sorcière acariâtre, qui l'a capturé. 
+
+C'est une chance pour les PJ, car le médaillon est encore à leur portée, bien qu'entre les mains de Rebecca. Mais, à vrai dire, ce n'est pas du tout un hasard…
