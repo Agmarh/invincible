@@ -82,6 +82,6 @@ La forêt au Sud est un choix valide, mais traverser la mangrove pour en sortir 
 # 1 - Le Crocosaure
 Il s'agit d'un crocodile géant préhistorique qui vit dans une mare plus grande et plus profonde que les autres. Il est particulièrement vieux et n'a plus qu'un œil ! Toujours de mauvais poil, il attaque tout ce qui passe à proximité avec furie.
 
-Créature : Crocodile géant
+Créature : [[Crocodile géant]]
 
 Tactique : le crocosaure ne connaît plus la défaite depuis longtemps et il a la mémoire longue. Il combat ces petites créatures jusqu'à la mort.
