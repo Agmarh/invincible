@@ -112,3 +112,12 @@ Si le personnage charmé a suivi Nadehla sous l'eau :
 > <font style="color:yellow">Alors que tu t'enfonces plus profondément sous l'eau suivant la merveilleuse chevelure blonde qui ondule devant toi, tu es envahi par le calme de ce lieu où la lumière filtre à peine entre les nénuphars. Un instant, il te semble que tes poumons vont exploser, puis l'eau glaciale pénètre ton corps et une étrange félicité s'empare de toi. Tu distingues à peine Nadehla qui te frôle et l'obscurité voile tes yeux. Tu sens les caresses de mains froides comme la mort et des baisers brûlants qui aspirent ta vie entre tes lèvres, mais tu n'y prêtes pas attention. Tu es prêt à tout, à tout oublier et même à disparaître pour prolonger cet instant.</font>
 
 Faites mariner un peu votre PJ. Demandez lui-même ce qu'il fait. Laissez le s'agiter un peu puis reprenez.
+
+Et puis soudain alors que tu dérives doucement vers l'inconscience, une voie féminine semble percer les flots.
+"Mère, cela suffit, libère-le !"
+"Et pourquoi je te prie ? (tu reconnais la voix de Nadehla). J'ai bien le droit de m'amuser un peu non ?"
+"Mère, on sait où mènent tes jeux, j'ai besoin d'eux, libère le, ou j'assèche ce foutu marais et je t'oblige à te balader nue dans ce qui sera devenu un désert !"
+"Petite peste, si je ne m'étais pas amusée avec ton père, tu ne pourrais pas venir me gâcher la journée…"
+"La journée va être particulièrement longue aujourd'hui, crois moi, alors n'en rajoute pas, libère le. Maintenant !"
+"Dommage, un si joli morceau, enfin… Si c'est pour la bonne cause !"
+Tu te réveilles soudain en toussant et en crachant de l'eau, affalé dans la boue, trempé et à moitié noyé sur la rive de la vaste mare aux nymphes… Tu te sens épuisé comme si tu venais de faire de la lutte avec une horde d'ogres !
