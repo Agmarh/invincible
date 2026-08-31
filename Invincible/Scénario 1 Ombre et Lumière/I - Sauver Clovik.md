@@ -34,3 +34,17 @@ Un personnage qui entre dans une zone de sables mouvants est brusquement stoppé
 - En cas de réussite, il perd simplement 1 round puis doit rebrousser chemin.
 - En cas d'échec, il commence à s'enfoncer et ne peut sortir sans aide. Quelqu'un doit lui lancer une corde ou une grande branche depuis le bord. Au moins un des sauveteurs doit réussir un <font style="color:green">test de Force (Athlétisme) DD 10</font> au premier round, la difficulté augmentant de 2 points chaque round jusqu'à atteindre 20. Lorsque le DD est à 20, le personnage est submergé et subit <font style="color:red">1d6 dégâts contondants</font> à chaque round à la fin de son tour.
 
+# Imposture
+Dès que le dernier adversaire est tombé, Clovik se jette aux pieds des personnages :
+> <font style="color:yellow">Bien que mal en point, malgré la terrible bataille et les morts qui jonchent la scène, le jeune homme en bleu, est au bord des larmes de joie. Il balbutie :</font>
+> <font style="color:orange">"J'ai réussi, j'ai réussi j'ai cru que j'avais tout raté à cause de ce satané éternuement, c'est la faute à la poussière, vous comprenez, la poussière me fait éternuer, vous comprenez ?"</font>
+> <font style="color:yellow">Il se prosterne à vos pieds. </font>
+> <font style="color:orange">"Vous êtes bien les héros qui ont défait Lytochronox, le terrible dragon et l'ont emprisonné sous terre ?"</font>
+> <font style="color:yellow">Mais avant que vous ne répondiez, il montre le terrible œil transparent qui domine la scène et prend un air de conspirateur, posant un doigt sur ses lèvres : </font>
+> <font style="color:orange">"Mais, chuuuut, le terrible dragon nous observe sans doute, éloignons nous d'abord..."</font>
+
+Si les PJ lui annoncent qu'ils ne savent pas de quoi il parle, il s'effondre et déclare : <font style="color:orange">"Alors, nous sommes tous perdus !"</font> Et il reste sans voix.
+
+Si on l'interroge gentiment avec un <font style="color:green">test de Charisme (Persuasion) DD 5</font>, il peut expliquer qu'ils ont été invoqués au milieu d'une sorte de sanctuaire dédiés à des héros. Il devait ramener de puissants héros du passé qui avaient défait le dragon Lytochronox. Hélas, à cause de son éternuement, le rituel a raté et <font style="color:orange">"sans vouloir vous manquer de respect"</font>, ce ne sont pas les puissants héros de la prophétie qui ont été invoqués et <font style="color:orange">"nous sommes tous perdus !"</font>
+
+Après réflexion, il pense que le mieux est de les amener à son maître, le magicien Urbius au bourg de Paleseaux. Mais peut-être avant faut-il enterrer les cadavres des miliciens ? Ils sont au nombre de dix, plus un chasseur qui servait de guide...
