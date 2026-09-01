@@ -37,24 +37,12 @@
             "id": "9e61a35f1e9cc01b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Invincible/Scénario 1 Ombre et Lumière/III - Au cœur des Ténèbres.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "Invincible/Images/Scénario 1/sauver_Clovik.jpg"
               },
-              "icon": "lucide-file",
-              "title": "III - Au cœur des Ténèbres"
+              "icon": "lucide-image",
+              "title": "sauver_Clovik"
             }
           }
         ],
@@ -266,22 +254,28 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4b487dbf4bc9f5ad",
+  "active": "9e61a35f1e9cc01b",
   "lastOpenFiles": [
-    "Invincible/Objets Magiques/Fiole de lumière.md",
+    "Invincible/Images/Scénario 1/trone_noirbois.jpg",
+    "Invincible/Images/Scénario 1/maison_rebecca.jpg",
+    "Invincible/Images/Boutefeu.jpg",
+    "Invincible/Images/Troll de pierre.jpg",
+    "Invincible/Images/Tromperie.jpg",
+    "Invincible/Images/Timeline.jpg",
+    "Invincible/Images/Timeline-1.jpg",
+    "Invincible/Images/Servantès.jpg",
+    "Invincible/Images/Oraxos.jpg",
+    "Invincible/Images/Mordante.jpg",
+    "Invincible/Images/Médaillon Oraxos.jpg",
+    "Invincible/Scénario 0 Mini Campagne/Récapitulatif.md",
     "Invincible/Scénario 1 Ombre et Lumière/III - Au cœur des Ténèbres.md",
     "Invincible/Scénario 1 Ombre et Lumière/II - Le Marais du Dragon.md",
+    "Invincible/Objets Magiques/Fiole de lumière.md",
     "Annexe/Bestiaire/Crocodile géant.md",
     "Annexe/Bestiaire/Crocodile.md",
-    "Invincible/Images/Scénario 1/sauver_Clovik.jpg",
     "Invincible/Scénario 1 Ombre et Lumière/I - Sauver Clovik.md",
-    "Invincible/Images/image-4.png",
     "Invincible/Repères Chronologiques.md",
-    "Invincible/Images/Timeline-1.jpg",
-    "Invincible/Images/image-3.png",
-    "Invincible/Images/Timeline.jpg",
     "Invincible/Royaume de Cobis.md",
-    "Invincible/Images/image-2.png",
     "Invincible/Objets Magiques/Bâton du Gardien.md",
     "Invincible/Personnages/Clovik.md",
     "Invincible/Scénario 0 Mini Campagne/L'épuration de Raven'Ill/Acte III - Retour & transition.md",
@@ -295,17 +289,11 @@
     "Annexe/Bestiaire/Ecorché.md",
     "Invincible/Personnages/Scénario 1",
     "Invincible/Scénario 1 Ombre et Lumière/Introduction.md",
-    "Invincible/Scénario 0 Mini Campagne/Récapitulatif.md",
     "Invincible/Scénario 0 Mini Campagne/Alzheimerïn/Acte IV - Clap de fin & bascule.md",
-    "Invincible/Images/Scénario 1/trone_noirbois.jpg",
-    "Invincible/Images/Scénario 1/la maison_rebecca.jpg",
-    "Invincible/Images/Scénario 1/lac_nymphes.jpg",
-    "Invincible/Images/Scénario 1/marais.jpg",
     "Invincible/Images/Sans titre.md",
     "Invincible/Images/Scénario 1",
     "Template/Monstre.md",
     "Invincible/Images/Cobis.md",
-    "Eiren.md",
     "Invincible/Scénario 1 Ombre et Lumière",
     "Invincible/Scénario 1 Ombre et Lumière",
     "Annexe/Bestiaire/Apprenti mage.md.tmp.5534.b60c936fde8f",
