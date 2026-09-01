@@ -225,7 +225,8 @@
               "title": "Plan de Acte III - Retour & transition"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "9df297e6ba9c49df",
@@ -246,8 +247,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 362.5,
-    "collapsed": true
+    "width": 362.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -266,10 +266,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9e61a35f1e9cc01b",
+  "active": "4b487dbf4bc9f5ad",
   "lastOpenFiles": [
-    "Invincible/Scénario 1 Ombre et Lumière/II - Le Marais du Dragon.md",
+    "Invincible/Objets Magiques/Fiole de lumière.md",
     "Invincible/Scénario 1 Ombre et Lumière/III - Au cœur des Ténèbres.md",
+    "Invincible/Scénario 1 Ombre et Lumière/II - Le Marais du Dragon.md",
     "Annexe/Bestiaire/Crocodile géant.md",
     "Annexe/Bestiaire/Crocodile.md",
     "Invincible/Images/Scénario 1/sauver_Clovik.jpg",
@@ -306,7 +307,6 @@
     "Invincible/Images/Cobis.md",
     "Eiren.md",
     "Invincible/Scénario 1 Ombre et Lumière",
-    "Invincible/Scénario 0 Mini Campagne/Alzheimerïn/Acte III - Clairjonc.md",
     "Invincible/Scénario 1 Ombre et Lumière",
     "Annexe/Bestiaire/Apprenti mage.md.tmp.5534.b60c936fde8f",
     "Invincible/Scénario 0 Mini Campagne/Alzheimerïn/Acte III - Clairjonc.md.tmp.5116.7711f185c1f6",
