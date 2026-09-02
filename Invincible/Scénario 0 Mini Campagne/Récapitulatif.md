@@ -121,4 +121,4 @@ Ils sont retournés à leurs occupations dans Mascombre juste avant d'être empo
 On commencera par le chapitre 1 du scénario 1 lors de la session 7.
 
 ### Session 7
-Sam est tombée KO et a un niveau de blessure en intelligence pendant 9 jours. Il leur reste 2 ou 3 km pour atteindre Oraxos. Ils ont affronté et vaincu le tertre errant et le crocodile.
+Sam est tombée KO et a un niveau de blessure en intelligence pendant 9 jours. Il leur reste 2 ou 3 km pour atteindre Oraxos. Ils ont affronté et vaincu le tertre errant, il lui reste 15 hp et le crocodile est mort.
