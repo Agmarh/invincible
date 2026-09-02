@@ -37,12 +37,24 @@
             "id": "9e61a35f1e9cc01b",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Invincible/Images/Scénario 1/sauver_Clovik.jpg"
+                "file": "Invincible/Scénario 1 Ombre et Lumière/III - Au cœur des Ténèbres.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-image",
-              "title": "sauver_Clovik"
+              "icon": "lucide-file",
+              "title": "III - Au cœur des Ténèbres"
             }
           }
         ],
@@ -235,7 +247,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 362.5
+    "width": 362.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -256,6 +269,9 @@
   },
   "active": "9e61a35f1e9cc01b",
   "lastOpenFiles": [
+    "Invincible/Scénario 1 Ombre et Lumière/II - Le Marais du Dragon.md",
+    "Invincible/Scénario 1 Ombre et Lumière/I - Sauver Clovik.md",
+    "Invincible/Images/Scénario 1/sauver_Clovik.jpg",
     "Invincible/Images/Scénario 1/trone_noirbois.jpg",
     "Invincible/Images/Scénario 1/maison_rebecca.jpg",
     "Invincible/Images/Boutefeu.jpg",
@@ -265,15 +281,11 @@
     "Invincible/Images/Timeline-1.jpg",
     "Invincible/Images/Servantès.jpg",
     "Invincible/Images/Oraxos.jpg",
-    "Invincible/Images/Mordante.jpg",
-    "Invincible/Images/Médaillon Oraxos.jpg",
     "Invincible/Scénario 0 Mini Campagne/Récapitulatif.md",
     "Invincible/Scénario 1 Ombre et Lumière/III - Au cœur des Ténèbres.md",
-    "Invincible/Scénario 1 Ombre et Lumière/II - Le Marais du Dragon.md",
     "Invincible/Objets Magiques/Fiole de lumière.md",
     "Annexe/Bestiaire/Crocodile géant.md",
     "Annexe/Bestiaire/Crocodile.md",
-    "Invincible/Scénario 1 Ombre et Lumière/I - Sauver Clovik.md",
     "Invincible/Repères Chronologiques.md",
     "Invincible/Royaume de Cobis.md",
     "Invincible/Objets Magiques/Bâton du Gardien.md",
