@@ -26,3 +26,4 @@ actions:
   - name: Morsure
     desc: "Attaque d'arme au corps à corps : +7 pour toucher, allonge 1,50 m, une cible. Touché : 9 (1d8+5) dégâts perforants."
 ```
+

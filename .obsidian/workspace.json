@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Invincible/Scénario 1 Ombre et Lumière/III - Au cœur des Ténèbres.md",
+                "file": "Invincible/Scénario 1 Ombre et Lumière/Introduction.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -54,11 +54,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "III - Au cœur des Ténèbres"
+              "title": "Introduction"
+            }
+          },
+          {
+            "id": "766d6a927a641b2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Invincible/Objets Magiques/Bâton du Gardien.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Bâton du Gardien"
+            }
+          },
+          {
+            "id": "efcac7b71f386530",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Annexe/Bestiaire/Ours brun de l'Altwald.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Ours brun de l'Altwald"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -267,10 +315,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9e61a35f1e9cc01b",
+  "active": "efcac7b71f386530",
   "lastOpenFiles": [
-    "Invincible/Scénario 1 Ombre et Lumière/II - Le Marais du Dragon.md",
+    "Invincible/Objets Magiques/Bâton du Gardien.md",
+    "Invincible/Scénario 1 Ombre et Lumière/Introduction.md",
+    "Invincible/Scénario 0 Mini Campagne/Récapitulatif.md",
     "Invincible/Scénario 1 Ombre et Lumière/I - Sauver Clovik.md",
+    "Invincible/Scénario 1 Ombre et Lumière/II - Le Marais du Dragon.md",
+    "Invincible/Scénario 1 Ombre et Lumière/III - Au cœur des Ténèbres.md",
     "Invincible/Images/Scénario 1/sauver_Clovik.jpg",
     "Invincible/Images/Scénario 1/trone_noirbois.jpg",
     "Invincible/Images/Scénario 1/maison_rebecca.jpg",
@@ -281,14 +333,11 @@
     "Invincible/Images/Timeline-1.jpg",
     "Invincible/Images/Servantès.jpg",
     "Invincible/Images/Oraxos.jpg",
-    "Invincible/Scénario 0 Mini Campagne/Récapitulatif.md",
-    "Invincible/Scénario 1 Ombre et Lumière/III - Au cœur des Ténèbres.md",
     "Invincible/Objets Magiques/Fiole de lumière.md",
     "Annexe/Bestiaire/Crocodile géant.md",
     "Annexe/Bestiaire/Crocodile.md",
     "Invincible/Repères Chronologiques.md",
     "Invincible/Royaume de Cobis.md",
-    "Invincible/Objets Magiques/Bâton du Gardien.md",
     "Invincible/Personnages/Clovik.md",
     "Invincible/Scénario 0 Mini Campagne/L'épuration de Raven'Ill/Acte III - Retour & transition.md",
     "Invincible/Scénario 0 Mini Campagne/Alzheimerïn/00 - Principe & bac à sable.md",
@@ -300,7 +349,6 @@
     "Annexe/Bestiaire/Ombre.md",
     "Annexe/Bestiaire/Ecorché.md",
     "Invincible/Personnages/Scénario 1",
-    "Invincible/Scénario 1 Ombre et Lumière/Introduction.md",
     "Invincible/Scénario 0 Mini Campagne/Alzheimerïn/Acte IV - Clap de fin & bascule.md",
     "Invincible/Images/Sans titre.md",
     "Invincible/Images/Scénario 1",
