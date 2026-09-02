@@ -119,3 +119,6 @@ Le baron Aymar a promis à Lykea qu'il allait traduire l'assassin de son clan en
 Ils sont retournés à leurs occupations dans Mascombre juste avant d'être emporté par le sort de Clovik.
 
 On commencera par le chapitre 1 du scénario 1 lors de la session 7.
+
+### Session 7
+Sam est tombée KO et a un niveau de blessure en intelligence pendant 9 jours

@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Invincible/Scénario 1 Ombre et Lumière/Introduction.md",
+                "file": "Invincible/Scénario 1 Ombre et Lumière/II - Le Marais du Dragon.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -54,16 +54,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Introduction"
+              "title": "II - Le Marais du Dragon"
             }
           },
           {
-            "id": "766d6a927a641b2f",
+            "id": "ec9202f0e0d4ce7b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Invincible/Objets Magiques/Bâton du Gardien.md",
+                "file": "Annexe/Mémo Meneuse - RNP (5e-DRS).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -78,16 +78,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Bâton du Gardien"
+              "title": "Mémo Meneuse - RNP (5e-DRS)"
             }
           },
           {
-            "id": "efcac7b71f386530",
+            "id": "125d23c82bf99f78",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Annexe/Bestiaire/Ours brun de l'Altwald.md",
+                "file": "Invincible/Scénario 1 Ombre et Lumière/I - Sauver Clovik.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -102,11 +102,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ours brun de l'Altwald"
+              "title": "I - Sauver Clovik"
+            }
+          },
+          {
+            "id": "bfd752142bdeb9ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Invincible/Personnages/Clovik.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Clovik"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -315,13 +339,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "efcac7b71f386530",
+  "active": "9e61a35f1e9cc01b",
   "lastOpenFiles": [
-    "Invincible/Objets Magiques/Bâton du Gardien.md",
-    "Invincible/Scénario 1 Ombre et Lumière/Introduction.md",
     "Invincible/Scénario 0 Mini Campagne/Récapitulatif.md",
-    "Invincible/Scénario 1 Ombre et Lumière/I - Sauver Clovik.md",
+    "Annexe/Mémo Meneuse - RNP (5e-DRS).md",
     "Invincible/Scénario 1 Ombre et Lumière/II - Le Marais du Dragon.md",
+    "Invincible/Scénario 1 Ombre et Lumière/I - Sauver Clovik.md",
+    "Invincible/Personnages/Clovik.md",
+    "Invincible/Objets Magiques/Bâton du Gardien.md",
+    "Annexe/Bestiaire/Oraxos.md",
+    "Invincible/Scénario 1 Ombre et Lumière/Introduction.md",
+    "Annexe/Bestiaire/Ours brun de l'Altwald.md",
     "Invincible/Scénario 1 Ombre et Lumière/III - Au cœur des Ténèbres.md",
     "Invincible/Images/Scénario 1/sauver_Clovik.jpg",
     "Invincible/Images/Scénario 1/trone_noirbois.jpg",
@@ -338,13 +366,11 @@
     "Annexe/Bestiaire/Crocodile.md",
     "Invincible/Repères Chronologiques.md",
     "Invincible/Royaume de Cobis.md",
-    "Invincible/Personnages/Clovik.md",
     "Invincible/Scénario 0 Mini Campagne/L'épuration de Raven'Ill/Acte III - Retour & transition.md",
     "Invincible/Scénario 0 Mini Campagne/Alzheimerïn/00 - Principe & bac à sable.md",
     "Invincible/Scénario 0 Mini Campagne/Alzheimerïn/Acte I - Le réveil.md",
     "Invincible/Scénario 0 Mini Campagne/L'épuration de Raven'Ill/Acte I - Un bien sombre horizon.md",
     "Invincible/Scénario 0 Mini Campagne/La bête humaine/IV - Bête Humaine.md",
-    "Annexe/Bestiaire/Oraxos.md",
     "Annexe/Bestiaire/Orc.md",
     "Annexe/Bestiaire/Ombre.md",
     "Annexe/Bestiaire/Ecorché.md",
@@ -353,7 +379,6 @@
     "Invincible/Images/Sans titre.md",
     "Invincible/Images/Scénario 1",
     "Template/Monstre.md",
-    "Invincible/Images/Cobis.md",
     "Invincible/Scénario 1 Ombre et Lumière",
     "Invincible/Scénario 1 Ombre et Lumière",
     "Annexe/Bestiaire/Apprenti mage.md.tmp.5534.b60c936fde8f",
