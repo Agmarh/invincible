@@ -121,4 +121,6 @@ Ils sont retournés à leurs occupations dans Mascombre juste avant d'être empo
 On commencera par le chapitre 1 du scénario 1 lors de la session 7.
 
 ### Session 7
+Ils ont sauvé Clovik sur l’îlot, Lykea a invoqué 2 ours brun grâce au sort invoquer des animaux et son bâton s'est transformé en ours brun de l'altwald. Les forces d'Oraxos ont rapidement été décimées. Clovik leur a expliqué le contexte et leur propose d'aller rejoindre son maître mais ils ne savent pas où aller et décident d'aller dans la direction où est parti Oraxos.
+
 Sam est tombée KO et a un niveau de blessure en intelligence pendant 9 jours. Il leur reste 2 ou 3 km pour atteindre Oraxos. Ils ont affronté et vaincu le tertre errant, il lui reste 15 hp et le crocodile est mort.
