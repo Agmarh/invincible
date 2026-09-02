@@ -127,4 +127,5 @@ Sam est tombée KO et a un niveau de blessure en intelligence pendant 9 jours. I
 
 Questee :
 - Trouver un autre système pour l'affichage des sorts qui peuvent être lancés à d'autres niveaux
-- 
+- Kit de réparations à ajouter
+- Système de KO avec désavantage à ajouter [[Mémo Meneuse - RNP (5e-DRS)#G2 — Blessures _(blessure durable en survivant à 0 PV)_]]
