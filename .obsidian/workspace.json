@@ -34,6 +34,30 @@
             }
           },
           {
+            "id": "6544758c8f375d07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Annexe/Mémo Meneuse - RNP (5e-DRS).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Mémo Meneuse - RNP (5e-DRS)"
+            }
+          },
+          {
             "id": "9e61a35f1e9cc01b",
             "type": "leaf",
             "state": {
@@ -153,8 +177,7 @@
               "title": "Mémo Meneuse - RNP (5e-DRS)"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -362,13 +385,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "92d7c7cc89d4fa41",
+  "active": "fba545b276a0a770",
   "lastOpenFiles": [
-    "Annexe/Voies primitives - Feu & Divine (reskin Glaces).md",
+    "Annexe/Mémo Meneuse - RNP (5e-DRS).md",
     "Invincible/Scénario 0 Mini Campagne/Récapitulatif.md",
+    "Annexe/Voies primitives - Feu & Divine (reskin Glaces).md",
     "Invincible/Scénario 1 Ombre et Lumière/I - Sauver Clovik.md",
     "Invincible/Scénario 1 Ombre et Lumière/II - Le Marais du Dragon.md",
-    "Annexe/Mémo Meneuse - RNP (5e-DRS).md",
     "Invincible/Personnages/Clovik.md",
     "Invincible/Objets Magiques/Bâton du Gardien.md",
     "Annexe/Bestiaire/Oraxos.md",
