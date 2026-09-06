@@ -1,0 +1,3 @@
+-   Une créature étourdie est neutralisée, incapable de se déplacer et parle en balbutiant.
+-   La créature rate automatiquement tous ses jets de sauvegarde de Force et de Dextérité.
+-   Les jets d'attaque qui visent la créature se font avec un avantage.

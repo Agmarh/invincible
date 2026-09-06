@@ -1,0 +1,4 @@
+-   Une créature paralysée est [[Neutralisé]] et ne peut ni parler ni se déplacer.
+-   La créature rate automatiquement tous ses jets de sauvegarde de Force et de Dextérité.
+-   Les attaques visant la créature bénéficient d'un avantage.
+-   Toute attaque qui touche la créature est obligatoirement un coup critique si l'assaillant se trouve dans un rayon de 1,50 mètre autour d'elle.

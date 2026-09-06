@@ -1,0 +1,6 @@
+- Une créature pétrifiée est transformée en substance solide inanimée (généralement en pierre), de même que tous les objets non-magiques qu'elle transporte. Le poids de la créature est multiplié par dix et elle ne vieillit plus.
+- La créature est neutralisée, ne peut plus ni parler ni se déplacer et n'a pas conscience de ce qui se passe autour d'elle.
+- Les attaques qui visent la créature bénéficient d'un avantage.
+- La créature rate automatiquement tous ses jets de sauvegarde de Force et de Dextérité.
+- La créature est résistante à tous les types de dégâts.
+- La créature est immunisée contre le poison et les maladies, mais les poisons et maladies qui l'affectent déjà ne sont pas neutralisés, leurs effets sont juste suspendus.
