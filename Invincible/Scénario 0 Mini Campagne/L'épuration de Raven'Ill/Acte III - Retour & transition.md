@@ -46,11 +46,14 @@ Laisser le joueur réagir — Aymar encaisse la réplique, quelle qu'elle soit, 
 > <font style="color:orange">"J'ai vu mourir mille hommes de valeur. J'ai vu des lâches tenir des positions intenables. La satire d'un saltimbanque n'occupe plus vraiment mes nuits, figure-toi."</font>
 > <font style="color:orange">"Mais je n'ai pas oublié, je ne veux pas que tu oublies non plus et tu as rendu service à ma barronnie. Alors voilà ce que je te propose. Tu deviens mon barde. Le barde de la baronnie de Felsenhof. Tu chanteras ce que tu veux, mais tu le chanteras, sous ma protection, sur toutes mes terres. Moque-moi encore, et c'est toi qu'on moquera. Mais chante nos victoires, et je serai ton épée."</font>
 
-**La cérémonie.** Le PJ accepte (presque à coup sûr). Aymar lui pose la main sur l'épaule, trois témoins signent un parchemin. Haisse Per Luette devient officiellement **barde de la baronnie de Felsenhof**.
+**La cérémonie** *(si le PJ accepte)*. Aymar lui pose la main sur l'épaule, trois témoins signent un parchemin. Haisse Per Luette devient officiellement **barde de la baronnie de Felsenhof**.
 
 > <font style="color:orange">"Mon intendant, dans ses derniers jours, n'a parlé que de vous trois. Il m'a fait jurer de regarder le passé d'un autre œil. Je tiendrais parole — même si je le voudrais encore vivant pour le lui reprocher."</font>
 
-**Effets** : titre officiel, laissez-passer permanent en terres alliées à Felsenhof, protection d'Aymar, dette d'honneur. La **Faille** du barde est résolue — il pourra retrouver sa troupe, les Sept Échos, en paix.
+> [!note] Note de jeu (S6) — **proposition restée ouverte**
+> En séance, le joueur **n'a pas donné de réponse** : Haisse n'a **officiellement PAS accepté**. L'offre d'Aymar tient toujours, en suspens. Il peut trancher plus tard, y compris pendant Invincible (un message de Felsenhof, un retour de passage, un choix mûri). **Ne pas considérer le titre comme acquis.**
+
+**Effets *(seulement s'il accepte un jour)*** : titre officiel, laissez-passer permanent en terres alliées à Felsenhof, protection d'Aymar, dette d'honneur. La **Faille** du barde serait alors résolue — il pourrait retrouver sa troupe, les Sept Échos, en paix. Tant qu'il n'a pas répondu, ce fil **reste ouvert**.
 
 # Scène 5 : L'amende honorable *(arc de Lykëa)*
 
